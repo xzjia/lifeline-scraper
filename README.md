@@ -3,13 +3,12 @@
 ### Setup local database for development
 
 ```bash
-# Create the database
+# Create the database at your psql session
 #postgres=#CREATE DATABASE lifeline;
 
-# Edit the database connection information in alembic.ini file
-sqlalchemy.url = postgresql://postgres:postgres@127.0.0.1/lifeline
-
-TODO: Take this URL out of the repository in the future
+# Add the environment variable DATABASE_URL.
+# You can do this manually, or use something like https://github.com/kennethreitz/autoenv
+export DATABASE_URL=postgresql://postgres:postgres@127.0.0.1/lifeline
 ```
 
 ### Install pipenv
@@ -30,9 +29,9 @@ export LANG=en_US.UTF-8
 ### Run the following
 
 ```bash
+pipenv install --dev # Install all the dependencies
+
 pipenv shell # Spawns a shell within the virtualenv
 
 alembic upgrade head # Run the database migration
 ```
-
-### Enter the Run the database migration
