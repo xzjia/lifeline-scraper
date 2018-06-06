@@ -4,7 +4,7 @@ import time
 from datetime import timedelta, date
 import requests
 
-API_KEY = '9b50d9fbcde44d60b7315e0124beb5cd'
+API_KEY = os.environ['NYT_API_KEY']
 ARTICLE_SEARCH_EP = 'https://api.nytimes.com/svc/search/v2/articlesearch.json'
 # ARTICLE_SEARCH_EP = 'http://localhost:8080'
 
