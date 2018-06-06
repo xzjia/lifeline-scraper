@@ -22,7 +22,7 @@ depends_on = None
 def upgrade():
     label_table = sa.table('label')
     event_table = sa.table('event',    
-        sa.column('date', sa.DateTime),
+        sa.column('timestamp', sa.DateTime),
         sa.column('title', sa.Text),
         sa.column('text', sa.Text),
         sa.column('link', sa.Text),
@@ -33,7 +33,7 @@ def upgrade():
     for filename in os.listdir('nyt/archive'):
         with open('nyt/archive/'+filename) as infile:
             data.extend(json.load(infile))
-    mapped_data = list(map(lambda x: {'date': x['pub_date'], 'title': x['headline']['print_headline'], 'text': x['snippet'], 'link': x['web_url'], 'label_id': 1}, data))
+    mapped_data = list(map(lambda x: {'timestamp': x['pub_date'], 'title': x['headline']['print_headline'], 'text': x['snippet'], 'link': x['web_url'], 'label_id': 1}, data))
     op.bulk_insert(
         event_table,
         mapped_data

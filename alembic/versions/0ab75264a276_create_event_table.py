@@ -20,7 +20,7 @@ def upgrade():
     op.create_table(
         'event',
         sa.Column('id', sa.Integer, primary_key=True),
-        sa.Column('date', sa.DateTime, nullable=False),
+        sa.Column('timestamp', sa.DateTime, nullable=False),
         sa.Column('title', sa.Text(), nullable=False),
         sa.Column('text', sa.Text()),
         sa.Column('link', sa.Text()),
