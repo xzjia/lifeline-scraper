@@ -1,9 +1,9 @@
-# How to setup
+# How to setup the Database
 
 ### Setup local database for development
 
 ```bash
-# Create the database at your psql session
+# Create a database at your psql session
 #postgres=#CREATE DATABASE lifeline;
 
 # Add the environment variable DATABASE_URL.
@@ -34,4 +34,15 @@ pipenv install --dev # Install all the dependencies
 pipenv shell # Spawns a shell within the virtualenv
 
 alembic upgrade head # Run the database migration
+```
+
+And check your database's table to make sure date are correctly inserted.
+
+# How to query the NYT API using this script
+
+```bash
+# At root directory
+python nyt/main.py
+# You will need to specify a date inside nyt/main.py to indicate which date's data you want.
+# And currently, for unknown reasons, some date doesn't have date populated correctly.
 ```
