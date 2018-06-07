@@ -26,7 +26,7 @@ export LC_ALL=en_US.UTF-8
 export LANG=en_US.UTF-8
 ```
 
-### Run the following
+### Run the following to setup
 
 ```bash
 pipenv install --dev # Install all the dependencies
@@ -37,6 +37,19 @@ alembic upgrade head # Run the database migration
 ```
 
 And check your database's table to make sure date are correctly inserted.
+
+## To downgrade and upgrade with more flexibility
+
+```bash
+pipenv shell
+alembic upgrade head # Upgrade to the most recent one
+alembic upgrade +1 # Upgrade one revision
+alembic upgrade +2 # Upgrade two revisions
+
+alembic downgrade -1 # Downgrade to one revision
+alembic downgrade -2 # Downgrade to two revisions
+alembic downgrade base # Downgrade to the very beginning, which is usually a fresh start
+```
 
 # How to query the NYT API using this script
 
