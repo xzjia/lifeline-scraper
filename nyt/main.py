@@ -28,12 +28,12 @@ def get_one_batch(target_date, page_number=0):
 def get_one_day(target_date):
     result = []
     one_batch = get_one_batch(target_date)
-    num_pages = one_batch['response']['meta']['hits'] // 10
+    num_pages = one_batch['response']['meta']['hits'] // 10 + 1
     current_page = 0
     while (current_page < num_pages):
         try:
             print('Processing for {}, progress of pages: {}/{}'.format(
-                format_date(target_date), current_page, num_pages-1))
+                format_date(target_date), current_page+1, num_pages))
             current_page += 1
             result.extend(one_batch['response']['docs'])
             time.sleep(0.5)
@@ -78,7 +78,7 @@ def playground():
 def main():
     # for single_date in range(20, 28):
         # process_one_day(2018, 5, single_date)
-    process_one_day(2018, 5, 5)
+    process_one_day(2018, 6, 6)
 
 
 if __name__ == '__main__':
