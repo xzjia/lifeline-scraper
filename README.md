@@ -1,4 +1,10 @@
-# How to setup the Database
+# What is this
+
+This is a collection of scripts that collects data for lifeline project.
+
+# Common tasks
+
+## Set up
 
 ### Setup local database for development
 
@@ -33,25 +39,46 @@ pipenv install --dev # Install all the dependencies
 
 pipenv shell # Spawns a shell within the virtualenv
 
-alembic upgrade head # Run the database migration
+alembic upgrade +3 # Run the Data Definition Language and Data Manipulation Language for label table
+alembic upgrade head # Run the Data Manipulation Language for event table
 ```
 
 And check your database's table to make sure date are correctly inserted.
 
-## To downgrade and upgrade with more flexibility
+## How to make a new revision and put some data in migration?
+
+```bash
+pipenv shell # Spawns a shell within the virtualenv
+alembic revision -m "${THE_REVISION_MESSAGE}" # This will create a new revision and a new file will be generated under alembic/versions
+```
+
+Edit the generated file so that it do the migration. [Here](http://alembic.zzzcomputing.com/en/latest/ops.html) are some useful information.
+
+## How to upgrade to the most up-to-date status?
+
+Note: the revision in this repository has the following meaning.
+
+- First revision: `1e4b3e20e30d`, create `label` table
+- Second revision: `1e4b3e20e30d`, create `event` table
+- Third revision: `c3ba36e57a09`, insert into `label` table with data
+- All the following revision: insert into `event` table with data
 
 ```bash
 pipenv shell
 alembic upgrade head # Upgrade to the most recent one
 alembic upgrade +1 # Upgrade one revision
 alembic upgrade +2 # Upgrade two revisions
+```
 
+## How to downgrade to the very beginning?
+
+```bash
 alembic downgrade -1 # Downgrade to one revision
 alembic downgrade -2 # Downgrade to two revisions
 alembic downgrade base # Downgrade to the very beginning, which is usually a fresh start
 ```
 
-# How to query the NYT API using this script
+## How to query the NYT API using this script
 
 ```bash
 # At root directory
