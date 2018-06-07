@@ -45,11 +45,34 @@ def get_one_day(target_date):
     return result
 
 
+def remove_duplicate(event_list):
+    seen_article = set()
+    result = []
+    for event in event_list:
+        title = event['headline']['print_headline']
+        if title in seen_article:
+            continue
+        else:
+            result.append(event)
+            seen_article.add(title)
+    return result
+
+
 def process_one_day(year, month, day):
     one_day = date(year, month, day)
     result = get_one_day(one_day)
+    result = remove_duplicate(result)
     with open('nyt/archive/{}.json'.format(format_date(one_day)), 'w') as outfile:
         json.dump(result, outfile, indent=2)
+
+
+def playground():
+    for filename in os.listdir('nyt/archive'):
+        with open('nyt/archive/'+filename) as infile:
+            one_day = json.load(infile)
+            distinct_article = remove_duplicate(one_day)
+        with open('new/'+filename, 'w') as outfile:
+            json.dump(distinct_article, outfile, indent=2)
 
 
 def main():
