@@ -22,7 +22,12 @@ def get_one_batch(target_date, page_number=0):
         'page': page_number,
         'fq': 'print_page:1'
     }
-    return requests.get(ARTICLE_SEARCH_EP, params=payload).json()
+    raw_response = requests.get(ARTICLE_SEARCH_EP, params=payload).json()
+    while 'response' not in raw_response:
+        print("API Rate exceed error, sleep 2 seconds and retry")
+        time.sleep(2)
+        raw_response = requests.get(ARTICLE_SEARCH_EP, params=payload).json()
+    return raw_response
 
 
 def get_one_day(target_date):
@@ -36,7 +41,7 @@ def get_one_day(target_date):
                 format_date(target_date), current_page+1, num_pages))
             current_page += 1
             result.extend(one_batch['response']['docs'])
-            time.sleep(0.5)
+            time.sleep(1)
             one_batch = get_one_batch(target_date, current_page)
         except:
             print(
@@ -76,9 +81,11 @@ def playground():
 
 
 def main():
-    # for single_date in range(20, 28):
-        # process_one_day(2018, 5, single_date)
-    process_one_day(2018, 6, 6)
+    month = 4
+    start_date = 1
+    end_date = 30
+    for single_date in range(start_date, end_date):
+        process_one_day(2018, month, single_date)
 
 
 if __name__ == '__main__':

@@ -1,4 +1,4 @@
-"""Add NYT articles for June and May 2018
+"""Add NYT articles for June and May and April 2018
 
 Revision ID: 9ae401c6c30c
 Revises: c3ba36e57a09
