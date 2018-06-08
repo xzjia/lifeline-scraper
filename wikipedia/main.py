@@ -37,9 +37,9 @@ def process_events(events_list, date_without_year, postfix=''):
         result = {}
         year = splitted[0].strip()
         desc = splitted[1].strip()
-        result['date'] = year.strip() + '-' + date_without_year
+        result['date'] = year + '-' + date_without_year
         result['title'] = desc + postfix
-        result['text'] = desc + postfix
+        result['text'] = event.html
         result['link'] = list(event.absolute_links)
         return result
     return filter(lambda e: e, map(event_2_dict, events_list))
@@ -61,23 +61,34 @@ def get_one_date(one_date_wiki_url, date_without_year):
     session = HTMLSession()
     r = session.get(one_date_wiki_url)
     all_uls = r.html.find('ul')
+    if '2 Events' in all_uls[0].text:
+        # This is a workaround for January 1: https://en.wikipedia.org/wiki/January_1
+        offset = 1
+    elif '3 Events' in all_uls[0].text:
+        # This is a workaround for February 29: https://en.wikipedia.org/wiki/February_29
+        offset = 2
+    else:
+        assert '1 Events' in all_uls[0].text
+        offset = 0
     result.extend(process_one_list(
-        all_uls[1].find('li'), 'events', date_without_year))
+        all_uls[1+offset].find('li'), 'events', date_without_year))
     result.extend(process_one_list(
-        all_uls[2].find('li'), 'births', date_without_year))
+        all_uls[2+offset].find('li'), 'births', date_without_year))
     result.extend(process_one_list(
-        all_uls[3].find('li'), 'deaths', date_without_year))
+        all_uls[3+offset].find('li'), 'deaths', date_without_year))
     return result
 
 
 def process_one_date(one_date_wiki_url):
-    # Adding 2008 is a workaround for strptime default to 1900, which is not a leap year
+    # Adding 2020 is a workaround for strptime default to 1900, which is not a leap year
     eng_date = '2020_'+one_date_wiki_url.split('/').pop()
     obj_date = datetime.strptime(eng_date, '%Y_%B_%d')
     date_without_year = '{}-{}'.format(obj_date.month, obj_date.day)
     data = get_one_date(one_date_wiki_url, date_without_year)
     with open('wikipedia/archive/{}.json'.format(date_without_year), 'w') as outfile:
         json.dump(data, outfile, indent=2)
+        print('{} Successfully finishes {} {}'.format(
+            bcolors.OKGREEN, date_without_year, bcolors.ENDC))
 
 
 def main():
