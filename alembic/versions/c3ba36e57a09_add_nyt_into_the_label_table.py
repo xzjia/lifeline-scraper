@@ -21,4 +21,4 @@ def upgrade():
 
 
 def downgrade():
-    pass
+    op.execute("DELETE FROM label WHERE name='New York Times'")
