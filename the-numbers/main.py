@@ -6,6 +6,8 @@ from requests_html import HTMLSession
 
 
 def parse_args():
+    """Parse and return the command-line arguments.
+    """
     parser = argparse.ArgumentParser(
         description='Retrieve movie box office sales figures for fridays within the given range.')
     parser.add_argument(
@@ -16,8 +18,15 @@ def parse_args():
 
 
 def get_chart(raw_html):
-    table = raw_html.html.find("#page_filling_chart table", first=True)
+    """Return all the charting movies that appear in the given raw_html.
 
+    Args:
+        raw_html: A raw_html object that is returned by requests_html.find()
+
+    Returns:
+        An array of objects. Each object represents a single movie that is on the chart.
+    """
+    table = raw_html.html.find("#page_filling_chart table", first=True)
     # Ignore the first row because it is the table's headings
     rows = table.find("tr")[1:]
     keys = ["current_week_rank", "previous_week_rank", "movie", "distributor",
@@ -33,6 +42,16 @@ def get_chart(raw_html):
 
 
 def get_weekend_chart(year, month, date):
+    """Return an array of movies that were on the charts for the weekend of the given date.
+
+    Args:
+        year: target year
+        month: target month
+        date: target date
+
+    Returns:
+        An array of objects. Each object represents a single movie that is on the chart.
+    """
     session = HTMLSession()
     raw_html = session.get(
         "https://www.the-numbers.com/box-office-chart/weekend/{}/{}/{}".format(year, month, date))
@@ -40,6 +59,16 @@ def get_weekend_chart(year, month, date):
 
 
 def get_weekly_chart(year, month, date):
+    """Return an array of movies that were on the charts for the week of the given date.
+
+    Args:
+        year: target year
+        month: target month
+        date: target date
+
+    Returns:
+        An array of objects. Each object represents a single movie that is on the chart.
+    """
     session = HTMLSession()
     raw_html = session.get(
         "https://www.the-numbers.com/box-office-chart/weekly/{}/{}/{}".format(year, month, date))
@@ -47,12 +76,40 @@ def get_weekly_chart(year, month, date):
 
 
 def get_movies_for_day(date):
+    """Return an array of movies that were on the charts for the given date.
+    If there is data for the weekly chart, use it.
+    Else if there is data for the weekend chart, use it.
+    Else, return None.
+
+    Args:
+        date: target date
+
+    Returns:
+        An array of objects. Each object represents a single movie that is on the chart.
+    """
     chart = get_weekly_chart(date.year, date.month, date.day)
     if len(chart) < 1:
         chart = get_weekend_chart(date.year, date.month, date.day)
     if len(chart) < 1:
         return None
     return chart
+
+
+def write_json_for_movies(date):
+    """Write a file that contains all the movies that were on the charts for the given day.
+    The resulting file will be created in the "the-numbers/archive" folder.
+    The filename will be "YYYY-MM-DD.json"
+
+    Args:
+        date: target date
+    """
+    movies = get_movies_for_day(date)
+    if movies is not None:
+        with open('{}/{}.json'.format("the-numbers/archive", date.isoformat()), 'w') as outfile:
+            json.dump(movies, outfile, indent=2)
+            print('Successfully finished {}'.format(date))
+    else:
+        print("{} -> no data".format(date))
 
 
 def main():
@@ -67,13 +124,7 @@ def main():
     days_after_friday = (start_date.weekday()-4 + 7) % 7
     date = start_date + datetime.timedelta(days=-days_after_friday)
     while date < end_date:
-        movies = get_movies_for_day(date)
-        if movies is not None:
-            with open('{}/{}.json'.format("the-numbers/archive", date.isoformat()), 'w') as outfile:
-                json.dump(movies, outfile, indent=2)
-                print('Successfully finished {}'.format(date))
-        else:
-            print("{} -> no data".format(date))
+        write_json_for_movies(date)
         date = date + datetime.timedelta(days=7)
 
 
