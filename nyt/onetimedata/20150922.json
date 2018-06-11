@@ -1,0 +1,966 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2015/09/23/us/los-angeles-plans-100-million-effort-to-end-homelessness.html",
+    "snippet": "The city\u2019s plan will focus on housing and service programs to get an estimated 26,000 homeless people off the streets.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2015/09/23/us/HOMELESS/HOMELESS-articleLarge.jpg",
+        "height": 316,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2015/09/23/us/HOMELESS/HOMELESS-articleLarge.jpg",
+          "xlargeheight": 316
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2015/09/23/us/HOMELESS/HOMELESS-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2015/09/23/us/HOMELESS/HOMELESS-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2015/09/23/us/HOMELESS/HOMELESS-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2015/09/23/us/HOMELESS/HOMELESS-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Los Angeles Puts $100 Million Into Helping Homeless",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Los Angeles Declares a Homeless Emergency",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Los Angeles (Calif)",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Homeless Persons",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Garcetti, Eric M",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "City Councils",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2015-09-22T18:43:08+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "byline": {
+      "original": "By JENNIFER MEDINA",
+      "person": [
+        {
+          "firstname": "Jennifer",
+          "middlename": null,
+          "lastname": "MEDINA",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5601a13e38f0d82db05b94bb",
+    "word_count": 1304,
+    "score": 1.0,
+    "uri": "nyt://article/8a99e798-325a-5640-811a-715e1ce4621f"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2015/09/23/world/middleeast/as-others-flee-to-west-most-syrian-refugees-remain-in-region.html",
+    "snippet": "While the West grapples with thousands of Syrians, millions more have settled into lives with limited opportunities in Jordan, Turkey and Lebanon.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2015/09/22/world/23zaatari-web1/23zaatari-web1-articleLarge.jpg",
+        "height": 400,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2015/09/22/world/23zaatari-web1/23zaatari-web1-articleLarge.jpg",
+          "xlargeheight": 400
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2015/09/22/world/23zaatari-web1/23zaatari-web1-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2015/09/22/world/23zaatari-web1/23zaatari-web1-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2015/09/22/world/23zaatari-web1/23zaatari-web1-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2015/09/22/world/23zaatari-web1/23zaatari-web1-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "As Others Flee to West, Most Syrian Refugees Remain in Region",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Syrian Refugees Settle Into Lives Far From West",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Middle East and Africa Migrant Crisis",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Syria",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Europe",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Refugees and Displaced Persons",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Jordan",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Lebanon",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Turkey",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "International Relations",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Asylum, Right of",
+        "rank": 9,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "United Nations High Commissioner for Refugees",
+        "rank": 10,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2015-09-22T09:00:21+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Middle East",
+    "byline": {
+      "original": "By JODI RUDOREN",
+      "person": [
+        {
+          "firstname": "Jodi",
+          "middlename": null,
+          "lastname": "RUDOREN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "560118a738f0d813baf6c264",
+    "word_count": 1622,
+    "score": 1.0,
+    "uri": "nyt://article/6b5ce260-48ba-541f-afb5-d52100d40e7d"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2015/09/23/world/europe/european-union-ministers-migrants-refugees.html",
+    "snippet": "Gathering for their second such session in eight days, the ministers haggled over a proposal to resettle an additional 120,000 people across the European Union.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2015/09/22/world/europe/23MIGRANTS-hp/23MIGRANTS-hp-articleLarge.jpg",
+        "height": 399,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2015/09/22/world/europe/23MIGRANTS-hp/23MIGRANTS-hp-articleLarge.jpg",
+          "xlargeheight": 399
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2015/09/22/world/europe/23MIGRANTS-hp/23MIGRANTS-hp-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2015/09/22/world/europe/23MIGRANTS-hp/23MIGRANTS-hp-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2015/09/22/world/europe/23MIGRANTS-hp/23MIGRANTS-hp-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2015/09/22/world/europe/23MIGRANTS-hp/23MIGRANTS-hp-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Plan on Migrants Strains the Limits of Europe\u2019s Unity",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Plan on Migrants Strains the Limits of Europe\u2019s Unity",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Middle East and Africa Migrant Crisis",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "European Union",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Europe",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Refugees and Displaced Persons",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Immigration and Emigration",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Asylum, Right of",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "European Commission",
+        "rank": 7,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2015-09-22T09:04:58+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Europe",
+    "byline": {
+      "original": "By STEVEN ERLANGER and JAMES KANTER",
+      "person": [
+        {
+          "firstname": "Steven",
+          "middlename": null,
+          "lastname": "ERLANGER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "James",
+          "middlename": null,
+          "lastname": "KANTER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "560119bf38f0d813baf6c26d",
+    "word_count": 1374,
+    "score": 1.0,
+    "uri": "nyt://article/bc8e1a8d-7853-514c-8625-f088cab7ace4"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2015/09/23/business/health-insurance-deductibles-outpacing-wage-increases-study-finds.html",
+    "snippet": "The costs have risen more than six times faster than workers\u2019 earnings since 2010, Kaiser Family Foundation calculates, prompting some to forgo care.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2015/09/23/business/23insure-web/23insure-web-articleLarge.jpg",
+        "height": 802,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2015/09/23/business/23insure-web/23insure-web-articleLarge.jpg",
+          "xlargeheight": 802
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2015/09/23/business/23insure-web/23insure-web-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2015/09/23/business/23insure-web/23insure-web-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2015/09/23/business/23insure-web/23insure-web-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2015/09/23/business/23insure-web/23insure-web-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Health Insurance Deductibles Outpacing Wage Increases, Study Finds",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Health Insurance Deductibles Rising Faster Than Wages, a Study Finds",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Health Insurance and Managed Care",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Kaiser Family Foundation",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Wages and Salaries",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Employee Fringe Benefits",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Altman, Drew",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2015-09-22T15:00:54+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By REED ABELSON",
+      "person": [
+        {
+          "firstname": "Reed",
+          "middlename": null,
+          "lastname": "ABELSON",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "56016d2f38f0d813baf6c381",
+    "word_count": 1307,
+    "score": 1.0,
+    "uri": "nyt://article/41ef209d-0a93-5062-a3c7-9a9e0fcf34d1"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2015/09/23/dining/weeknight-recipes-and-cooking-strategies.html",
+    "snippet": "A home-cooked midweek meal is easily had, once you\u2019ve honed the most basic kitchen skills.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2015/09/23/dining/23PANTRY2/23PANTRY2-articleLarge.jpg",
+        "height": 414,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2015/09/23/dining/23PANTRY2/23PANTRY2-articleLarge.jpg",
+          "xlargeheight": 414
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2015/09/23/dining/23PANTRY2/23PANTRY2-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2015/09/23/dining/23PANTRY2/23PANTRY2-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2015/09/23/dining/23PANTRY2/23PANTRY2-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2015/09/23/dining/23PANTRY2/23PANTRY2-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Weeknight Recipes and Cooking Strategies",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Ways to Win the Week",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Cooking and Cookbooks",
+        "rank": 1,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2015-09-22T20:52:24+0000",
+    "document_type": "article",
+    "new_desk": "Dining",
+    "byline": {
+      "original": "By SAM SIFTON",
+      "person": [
+        {
+          "firstname": "Sam",
+          "middlename": null,
+          "lastname": "SIFTON",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5601bf8c38f0d82db05b953c",
+    "word_count": 191,
+    "score": 1.0,
+    "uri": "nyt://article/32170b6f-3613-50d8-b503-f3a817f1fd07"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2015/09/23/business/international/volkswagen-diesel-car-scandal.html",
+    "snippet": "The company did not provide information on where the affected cars are, but the overwhelming majority are probably in Europe, where the company dominates the market.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2015/09/23/business/23Volkswagen/23Volkswagen-articleLarge.jpg",
+        "height": 406,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2015/09/23/business/23Volkswagen/23Volkswagen-articleLarge.jpg",
+          "xlargeheight": 406
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2015/09/23/business/23Volkswagen/23Volkswagen-thumbWide-v2.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2015/09/23/business/23Volkswagen/23Volkswagen-thumbWide-v2.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2015/09/23/business/23Volkswagen/23Volkswagen-thumbStandard-v2.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2015/09/23/business/23Volkswagen/23Volkswagen-thumbStandard-v2.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Volkswagen Says 11 Million Cars Worldwide Are Affected in Diesel Deception",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Diesel Scandal at VW Spreads to Core Market",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "organizations",
+        "value": "Volkswagen AG",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Fuel Emissions (Transportation)",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Frauds and Swindling",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Automobiles",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Europe",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Winterkorn, Martin",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Diesel Power",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Greenhouse Gas Emissions",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Recalls and Bans of Products",
+        "rank": 9,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Air Pollution",
+        "rank": 10,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Engines",
+        "rank": 11,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Environmental Protection Agency",
+        "rank": 12,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2015-09-22T10:50:33+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "section_name": "International Business",
+    "byline": {
+      "original": "By JACK EWING",
+      "person": [
+        {
+          "firstname": "Jack",
+          "middlename": null,
+          "lastname": "EWING",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5601328338f0d813baf6c2b5",
+    "word_count": 1175,
+    "score": 1.0,
+    "uri": "nyt://article/c66aa31b-1c7d-5ed6-b789-f2b3d82bf97c"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2015/09/22/business/the-wrath-of-volkswagens-drivers.html",
+    "snippet": "With its admission of fraud in its diesel emissions testing, Volkswagen stands to lose drivers&#8217; trust and the sales comeback it has sought in the United States.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2015/09/22/business/22dieseljp/22dieseljp-articleLarge.jpg",
+        "height": 400,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2015/09/22/business/22dieseljp/22dieseljp-articleLarge.jpg",
+          "xlargeheight": 400
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2015/09/22/business/22dieseljp/22dieseljp-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2015/09/22/business/22dieseljp/22dieseljp-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2015/09/22/business/22dieseljp/22dieseljp-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2015/09/22/business/22dieseljp/22dieseljp-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "The Wrath of Volkswagen\u2019s Drivers",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "The Wrath of Drivers ",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "organizations",
+        "value": "Volkswagen AG",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Fuel Emissions (Transportation)",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Frauds and Swindling",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Environmental Protection Agency",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Recalls and Bans of Products",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Diesel Power",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Air Pollution",
+        "rank": 7,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2015-09-22T01:06:36+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By JAD MOUAWAD and CHRISTOPHER JENSEN",
+      "person": [
+        {
+          "firstname": "Jad",
+          "middlename": null,
+          "lastname": "MOUAWAD",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Christopher",
+          "middlename": null,
+          "lastname": "JENSEN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5600a99e38f0d813baf6c163",
+    "word_count": 1285,
+    "score": 1.0,
+    "uri": "nyt://article/c14ede2f-0b20-5a27-aa1e-75f327c2a112"
+  }
+]

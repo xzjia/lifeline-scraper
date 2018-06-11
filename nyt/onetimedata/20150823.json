@@ -1,0 +1,121 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2015/08/24/nyregion/for-new-york-police-a-radical-change-for-queens-residents-a-step.html",
+    "snippet": "The 101st Precinct in Far Rockaway, a low-income neighborhood wary of the police, has seen halting progress as the department seeks to reshape everyday interactions between officers and residents.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2015/08/17/nyregion/00farrock-slide-FWLP/00farrock-slide-FWLP-articleLarge.jpg",
+        "height": 399,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2015/08/17/nyregion/00farrock-slide-FWLP/00farrock-slide-FWLP-articleLarge.jpg",
+          "xlargeheight": 399
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2015/08/17/nyregion/00farrock-slide-FWLP/00farrock-slide-FWLP-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2015/08/17/nyregion/00farrock-slide-FWLP/00farrock-slide-FWLP-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2015/08/17/nyregion/00farrock-slide-FWLP/00farrock-slide-FWLP-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2015/08/17/nyregion/00farrock-slide-FWLP/00farrock-slide-FWLP-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "In New York, Testing Grounds for Community Policing",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Back on the Beat in Far Rockaway ",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "organizations",
+        "value": "Police Department (NYC)",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Far Rockaway (Queens, NY)",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Police Brutality, Misconduct and Shootings",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Bratton, William J",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2015-08-23T09:57:08+0000",
+    "document_type": "article",
+    "new_desk": "Metro",
+    "byline": {
+      "original": "By J. DAVID GOODMAN",
+      "person": [
+        {
+          "firstname": "J.",
+          "middlename": "David",
+          "lastname": "GOODMAN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "55d998f838f0d805776a069b",
+    "word_count": 2522,
+    "score": 1.0,
+    "uri": "nyt://article/919c6692-8079-5729-ace4-72ddd308897c"
+  }
+]

@@ -1,0 +1,564 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2016/11/08/nyregion/murder-40-bronx-grandparents.html",
+    "snippet": "Carmen Irizarry, 60, was killed by her drug-addicted partner in the Bronx, but her 9-year-old granddaughter, Heaven, escaped, avoiding the grim tally of children killed by the people closest to them.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2016/11/04/nyregion/04BXMURDER1/04BXMURDER1-articleLarge.jpg",
+        "height": 401,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2016/11/04/nyregion/04BXMURDER1/04BXMURDER1-articleLarge.jpg",
+          "xlargeheight": 401
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2016/11/04/nyregion/04BXMURDER1/04BXMURDER1-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2016/11/04/nyregion/04BXMURDER1/04BXMURDER1-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2016/11/04/nyregion/04BXMURDER1/04BXMURDER1-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2016/11/04/nyregion/04BXMURDER1/04BXMURDER1-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Grandmother\u2019s Killing Lays Bare a Dilemma in Child Welfare Work",
+      "kicker": "Murder in the 4-0",
+      "content_kicker": "Murder in the 4-0",
+      "print_headline": "Grandmother\u2019s Killing Lays Bare Dilemma in Child Welfare Work",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Drug Abuse and Traffic",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Child Abuse and Neglect",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Murders, Attempted Murders and Homicides",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Mental Health and Disorders",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Heroin",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Domestic Violence",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Administration for Children's Services (NYC)",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "South Bronx (Bronx, NY)",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Irizarry, Carmen (d 2016)",
+        "rank": 9,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Maldonado, Henry",
+        "rank": 10,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Irizarry, Heaven",
+        "rank": 11,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2016-11-08T01:07:01+0000",
+    "document_type": "article",
+    "new_desk": "Metro",
+    "byline": {
+      "original": "By JAMES C. McKINLEY Jr., AL BAKER and ASHLEY SOUTHALL",
+      "person": [
+        {
+          "firstname": "James",
+          "middlename": "C.",
+          "lastname": "McKINLEY",
+          "qualifier": "Jr.",
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Al",
+          "middlename": null,
+          "lastname": "BAKER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        },
+        {
+          "firstname": "Ashley",
+          "middlename": null,
+          "lastname": "SOUTHALL",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 3
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "582164527c459f6a5fcccc46",
+    "word_count": 2783,
+    "score": 1.0,
+    "uri": "nyt://article/a7e7da6a-5bd5-5761-ac7a-26c1fac59614"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2016/11/13/travel/ireland-lighthouses-history.html",
+    "snippet": "The golden age of lighthouse construction is long gone, but in its wake are beautiful vistas and stories that bring modern Irish history to life.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2016/11/13/travel/13LIGHTHOUSE-top/13LIGHTHOUSE-1478287617469-articleLarge.jpg",
+        "height": 371,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2016/11/13/travel/13LIGHTHOUSE-top/13LIGHTHOUSE-1478287617469-articleLarge.jpg",
+          "xlargeheight": 371
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2016/11/13/travel/13LIGHTHOUSE-top/13LIGHTHOUSE-1478287617469-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2016/11/13/travel/13LIGHTHOUSE-top/13LIGHTHOUSE-1478287617469-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2016/11/13/travel/13LIGHTHOUSE-top/13LIGHTHOUSE-1478287617469-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2016/11/13/travel/13LIGHTHOUSE-top/13LIGHTHOUSE-1478287617469-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Keeping the Fire of Irish Lighthouses Alive",
+      "kicker": "Pursuits",
+      "content_kicker": "Pursuits",
+      "print_headline": "Beckoning Beacons",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Ireland",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Lighthouses and Lightships",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Travel and Vacations",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Historic Buildings and Sites",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2016-11-08T10:30:08+0000",
+    "document_type": "article",
+    "new_desk": "Travel",
+    "byline": {
+      "original": "By JESSICA COLLEY CLARKE",
+      "person": [
+        {
+          "firstname": "Jessica",
+          "middlename": "Colley",
+          "lastname": "CLARKE",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5821a9387c459f6a5fcccd37",
+    "word_count": 1806,
+    "score": 1.0,
+    "uri": "nyt://article/2eaffbb4-ec0e-5cfd-a780-b802295960ec"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2016/11/08/theater/master-harold-and-the-boys-review.html",
+    "snippet": "Athol Fugard has directed his own masterwork at the Signature Theater, which returns to the stage at a time when it feels painfully pertinent.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2016/11/08/arts/08MASTERHAROLD/08MASTERHAROLD-articleLarge.jpg",
+        "height": 364,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2016/11/08/arts/08MASTERHAROLD/08MASTERHAROLD-articleLarge.jpg",
+          "xlargeheight": 364
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2016/11/08/arts/08MASTERHAROLD/08MASTERHAROLD-thumbWide-v2.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2016/11/08/arts/08MASTERHAROLD/08MASTERHAROLD-thumbWide-v2.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2016/11/08/arts/08MASTERHAROLD/08MASTERHAROLD-thumbStandard-v2.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2016/11/08/arts/08MASTERHAROLD/08MASTERHAROLD-thumbStandard-v2.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Review: \u2018\u201cMaster Harold\u201d \u2026 and the Boys,\u2019 a Searing Indictment of Racism",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "A Tender Bond Confronts Racism. Racism Wins.",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Theater",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "creative_works",
+        "value": "'Master Harold'...and the Boys (Play)",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Signature Theater Co",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Fugard, Athol",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Brown, Leon Addison",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Ngaujah, Sahr",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Robbins, Noah",
+        "rank": 7,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2016-11-08T03:00:06+0000",
+    "document_type": "article",
+    "new_desk": "Culture",
+    "byline": {
+      "original": "By CHARLES ISHERWOOD",
+      "person": [
+        {
+          "firstname": "Charles",
+          "middlename": null,
+          "lastname": "ISHERWOOD",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "Review",
+    "_id": "582167887c459f6a5fcccc6e",
+    "word_count": 764,
+    "score": 1.0,
+    "uri": "nyt://article/4a7a99ab-6c7c-5577-8fe5-bcff30793170"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2016/11/09/dining/tartine-bakery-elisabeth-prueitt.html",
+    "snippet": "Elisabeth Prueitt is finding sweetness beyond wheat at the San Francisco bakery she founded with her husband.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2016/11/09/dining/09TARTINE1/09TARTINE1-articleLarge.jpg",
+        "height": 400,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2016/11/09/dining/09TARTINE1/09TARTINE1-articleLarge.jpg",
+          "xlargeheight": 400
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2016/11/09/dining/09TARTINE1/09TARTINE1-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2016/11/09/dining/09TARTINE1/09TARTINE1-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2016/11/09/dining/09TARTINE1/09TARTINE1-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2016/11/09/dining/09TARTINE1/09TARTINE1-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Behind the Famed Tartine Bakery, a Gluten-Free Talent",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": " Baking With the Seeds of Change",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Bakeries and Baked Products",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Tartine Bakery (San Francisco, Calif)",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "San Francisco (Calif)",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Prueitt, Elisabeth",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Gluten",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2016-11-08T18:41:10+0000",
+    "document_type": "article",
+    "new_desk": "Dining",
+    "byline": {
+      "original": "By TEJAL RAO",
+      "person": [
+        {
+          "firstname": "Tejal",
+          "middlename": null,
+          "lastname": "RAO",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "58221c4f7c459f6a5fccce6b",
+    "word_count": 1504,
+    "score": 1.0,
+    "uri": "nyt://article/38dd362b-1826-52ba-b8a2-5fb59e632552"
+  }
+]

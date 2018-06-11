@@ -1,0 +1,4240 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2017/11/02/us/politics/trump-jeff-sessions-russia.html",
+    "snippet": "Court documents show an aide trumpeted his Russian connections in front of Donald J. Trump during the campaign, the first concrete evidence Mr. Trump was told of Russian ties.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/03/us/politics/03dc-inquire-alpha/merlin_118241213_cd0bc342-23a6-46c1-9343-66df48dc91ed-articleLarge.jpg",
+        "height": 388,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2017/11/03/us/politics/03dc-inquire-alpha/merlin_118241213_cd0bc342-23a6-46c1-9343-66df48dc91ed-articleLarge.jpg",
+          "xlargeheight": 388
+        },
+        "subType": "xlarge",
+        "crop_name": "articleLarge"
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/03/us/politics/03dc-inquire-alpha/03dc-inquire-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2017/11/03/us/politics/03dc-inquire-alpha/03dc-inquire-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": "thumbWide"
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/03/us/politics/03dc-inquire-alpha/03dc-inquire-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2017/11/03/us/politics/03dc-inquire-alpha/03dc-inquire-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": "thumbStandard"
+      },
+      {
+        "rank": 0,
+        "subtype": "articleInline",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/03/us/politics/03dc-inquire-alpha/merlin_118241213_cd0bc342-23a6-46c1-9343-66df48dc91ed-articleInline.jpg",
+        "height": 123,
+        "width": 190,
+        "legacy": {},
+        "subType": "articleInline",
+        "crop_name": "articleInline"
+      },
+      {
+        "rank": 0,
+        "subtype": "blog225",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/03/us/politics/03dc-inquire-alpha/merlin_118241213_cd0bc342-23a6-46c1-9343-66df48dc91ed-blog225.jpg",
+        "height": 146,
+        "width": 225,
+        "legacy": {},
+        "subType": "blog225",
+        "crop_name": "blog225"
+      },
+      {
+        "rank": 0,
+        "subtype": "blog427",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/03/us/politics/03dc-inquire-alpha/merlin_118241213_cd0bc342-23a6-46c1-9343-66df48dc91ed-blog427.jpg",
+        "height": 276,
+        "width": 427,
+        "legacy": {},
+        "subType": "blog427",
+        "crop_name": "blog427"
+      },
+      {
+        "rank": 0,
+        "subtype": "blog480",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/03/us/politics/03dc-inquire-alpha/merlin_118241213_cd0bc342-23a6-46c1-9343-66df48dc91ed-blog480.jpg",
+        "height": 311,
+        "width": 480,
+        "legacy": {},
+        "subType": "blog480",
+        "crop_name": "blog480"
+      },
+      {
+        "rank": 0,
+        "subtype": "blog533",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/03/us/politics/03dc-inquire-alpha/merlin_118241213_cd0bc342-23a6-46c1-9343-66df48dc91ed-blog533.jpg",
+        "height": 345,
+        "width": 533,
+        "legacy": {},
+        "subType": "blog533",
+        "crop_name": "blog533"
+      },
+      {
+        "rank": 0,
+        "subtype": "blogSmallInline",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/03/us/politics/03dc-inquire-alpha/merlin_118241213_cd0bc342-23a6-46c1-9343-66df48dc91ed-blogSmallInline.jpg",
+        "height": 98,
+        "width": 151,
+        "legacy": {},
+        "subType": "blogSmallInline",
+        "crop_name": "blogSmallInline"
+      },
+      {
+        "rank": 0,
+        "subtype": "blogSmallThumb",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/03/us/politics/03dc-inquire-alpha/03dc-inquire-blogSmallThumb.jpg",
+        "height": 50,
+        "width": 50,
+        "legacy": {},
+        "subType": "blogSmallThumb",
+        "crop_name": "blogSmallThumb"
+      },
+      {
+        "rank": 0,
+        "subtype": "facebookJumbo",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/03/us/politics/03dc-inquire-alpha/03dc-inquire-facebookJumbo.jpg",
+        "height": 550,
+        "width": 1050,
+        "legacy": {},
+        "subType": "facebookJumbo",
+        "crop_name": "facebookJumbo"
+      },
+      {
+        "rank": 0,
+        "subtype": "filmstrip",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/03/us/politics/03dc-inquire-alpha/03dc-inquire-filmstrip.jpg",
+        "height": 190,
+        "width": 190,
+        "legacy": {},
+        "subType": "filmstrip",
+        "crop_name": "filmstrip"
+      },
+      {
+        "rank": 0,
+        "subtype": "hpLarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/03/us/politics/03dc-inquire-alpha/03dc-inquire-hpLarge.jpg",
+        "height": 287,
+        "width": 511,
+        "legacy": {},
+        "subType": "hpLarge",
+        "crop_name": "hpLarge"
+      },
+      {
+        "rank": 0,
+        "subtype": "hpSmall",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/03/us/politics/03dc-inquire-alpha/merlin_118241213_cd0bc342-23a6-46c1-9343-66df48dc91ed-hpSmall.jpg",
+        "height": 105,
+        "width": 163,
+        "legacy": {},
+        "subType": "hpSmall",
+        "crop_name": "hpSmall"
+      },
+      {
+        "rank": 0,
+        "subtype": "jumbo",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/03/us/politics/03dc-inquire-alpha/merlin_118241213_cd0bc342-23a6-46c1-9343-66df48dc91ed-jumbo.jpg",
+        "height": 663,
+        "width": 1024,
+        "legacy": {},
+        "subType": "jumbo",
+        "crop_name": "jumbo"
+      },
+      {
+        "rank": 0,
+        "subtype": "largeHorizontal375",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/03/us/politics/03dc-inquire-alpha/03dc-inquire-largeHorizontal375.jpg",
+        "height": 250,
+        "width": 375,
+        "legacy": {},
+        "subType": "largeHorizontal375",
+        "crop_name": "largeHorizontal375"
+      },
+      {
+        "rank": 0,
+        "subtype": "largeHorizontalJumbo",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/03/us/politics/03dc-inquire-alpha/03dc-inquire-largeHorizontalJumbo.jpg",
+        "height": 683,
+        "width": 1024,
+        "legacy": {},
+        "subType": "largeHorizontalJumbo",
+        "crop_name": "largeHorizontalJumbo"
+      },
+      {
+        "rank": 0,
+        "subtype": "largeWidescreen573",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/03/us/politics/03dc-inquire-alpha/03dc-inquire-largeWidescreen573.jpg",
+        "height": 322,
+        "width": 573,
+        "legacy": {},
+        "subType": "largeWidescreen573",
+        "crop_name": "largeWidescreen573"
+      },
+      {
+        "rank": 0,
+        "subtype": "largeWidescreen1050",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/03/us/politics/03dc-inquire-alpha/03dc-inquire-largeWidescreen1050.jpg",
+        "height": 591,
+        "width": 1050,
+        "legacy": {},
+        "subType": "largeWidescreen1050",
+        "crop_name": "largeWidescreen1050"
+      },
+      {
+        "rank": 0,
+        "subtype": "master1050",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/03/us/politics/03dc-inquire-alpha/merlin_118241213_cd0bc342-23a6-46c1-9343-66df48dc91ed-master1050.jpg",
+        "height": 680,
+        "width": 1050,
+        "legacy": {},
+        "subType": "master1050",
+        "crop_name": "master1050"
+      },
+      {
+        "rank": 0,
+        "subtype": "master180",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/03/us/politics/03dc-inquire-alpha/merlin_118241213_cd0bc342-23a6-46c1-9343-66df48dc91ed-master180.jpg",
+        "height": 117,
+        "width": 180,
+        "legacy": {},
+        "subType": "master180",
+        "crop_name": "master180"
+      },
+      {
+        "rank": 0,
+        "subtype": "master315",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/03/us/politics/03dc-inquire-alpha/merlin_118241213_cd0bc342-23a6-46c1-9343-66df48dc91ed-master315.jpg",
+        "height": 204,
+        "width": 315,
+        "legacy": {},
+        "subType": "master315",
+        "crop_name": "master315"
+      },
+      {
+        "rank": 0,
+        "subtype": "master495",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/03/us/politics/03dc-inquire-alpha/merlin_118241213_cd0bc342-23a6-46c1-9343-66df48dc91ed-master495.jpg",
+        "height": 320,
+        "width": 495,
+        "legacy": {},
+        "subType": "master495",
+        "crop_name": "master495"
+      },
+      {
+        "rank": 0,
+        "subtype": "master768",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/03/us/politics/03dc-inquire-alpha/merlin_118241213_cd0bc342-23a6-46c1-9343-66df48dc91ed-master768.jpg",
+        "height": 497,
+        "width": 768,
+        "legacy": {},
+        "subType": "master768",
+        "crop_name": "master768"
+      },
+      {
+        "rank": 0,
+        "subtype": "master675",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/03/us/politics/03dc-inquire-alpha/merlin_118241213_cd0bc342-23a6-46c1-9343-66df48dc91ed-master675.jpg",
+        "height": 437,
+        "width": 675,
+        "legacy": {},
+        "subType": "master675",
+        "crop_name": "master675"
+      },
+      {
+        "rank": 0,
+        "subtype": "mediumFlexible177",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/03/us/politics/03dc-inquire-alpha/merlin_118241213_cd0bc342-23a6-46c1-9343-66df48dc91ed-mediumFlexible177.jpg",
+        "height": 115,
+        "width": 177,
+        "legacy": {},
+        "subType": "mediumFlexible177",
+        "crop_name": "mediumFlexible177"
+      },
+      {
+        "rank": 0,
+        "subtype": "mediumSquare149",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/03/us/politics/03dc-inquire-alpha/03dc-inquire-mediumSquare149.jpg",
+        "height": 149,
+        "width": 149,
+        "legacy": {},
+        "subType": "mediumSquare149",
+        "crop_name": "mediumSquare149"
+      },
+      {
+        "rank": 0,
+        "subtype": "mediumThreeByTwo210",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/03/us/politics/03dc-inquire-alpha/03dc-inquire-mediumThreeByTwo210.jpg",
+        "height": 140,
+        "width": 210,
+        "legacy": {},
+        "subType": "mediumThreeByTwo210",
+        "crop_name": "mediumThreeByTwo210"
+      },
+      {
+        "rank": 0,
+        "subtype": "mediumThreeByTwo225",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/03/us/politics/03dc-inquire-alpha/03dc-inquire-mediumThreeByTwo225.jpg",
+        "height": 150,
+        "width": 225,
+        "legacy": {},
+        "subType": "mediumThreeByTwo225",
+        "crop_name": "mediumThreeByTwo225"
+      },
+      {
+        "rank": 0,
+        "subtype": "mediumThreeByTwo440",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/03/us/politics/03dc-inquire-alpha/03dc-inquire-mediumThreeByTwo440.jpg",
+        "height": 293,
+        "width": 440,
+        "legacy": {},
+        "subType": "mediumThreeByTwo440",
+        "crop_name": "mediumThreeByTwo440"
+      },
+      {
+        "rank": 0,
+        "subtype": "mediumThreeByTwo378",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/03/us/politics/03dc-inquire-alpha/03dc-inquire-mediumThreeByTwo378.jpg",
+        "height": 252,
+        "width": 378,
+        "legacy": {},
+        "subType": "mediumThreeByTwo378",
+        "crop_name": "mediumThreeByTwo378"
+      },
+      {
+        "rank": 0,
+        "subtype": "mediumThreeByTwo252",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/03/us/politics/03dc-inquire-alpha/03dc-inquire-mediumThreeByTwo252.jpg",
+        "height": 168,
+        "width": 252,
+        "legacy": {},
+        "subType": "mediumThreeByTwo252",
+        "crop_name": "mediumThreeByTwo252"
+      },
+      {
+        "rank": 0,
+        "subtype": "miniMoth",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/03/us/politics/03dc-inquire-alpha/03dc-inquire-miniMoth.jpg",
+        "height": 70,
+        "width": 151,
+        "legacy": {},
+        "subType": "miniMoth",
+        "crop_name": "miniMoth"
+      },
+      {
+        "rank": 0,
+        "subtype": "moth",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/03/us/politics/03dc-inquire-alpha/03dc-inquire-moth.jpg",
+        "height": 151,
+        "width": 151,
+        "legacy": {},
+        "subType": "moth",
+        "crop_name": "moth"
+      },
+      {
+        "rank": 0,
+        "subtype": "popup",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/03/us/politics/03dc-inquire-alpha/merlin_118241213_cd0bc342-23a6-46c1-9343-66df48dc91ed-popup.jpg",
+        "height": 421,
+        "width": 650,
+        "legacy": {},
+        "subType": "popup",
+        "crop_name": "popup"
+      },
+      {
+        "rank": 0,
+        "subtype": "sfSpan",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/03/us/politics/03dc-inquire-alpha/03dc-inquire-sfSpan.jpg",
+        "height": 263,
+        "width": 395,
+        "legacy": {},
+        "subType": "sfSpan",
+        "crop_name": "sfSpan"
+      },
+      {
+        "rank": 0,
+        "subtype": "slide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/03/us/politics/03dc-inquire-alpha/merlin_118241213_cd0bc342-23a6-46c1-9343-66df48dc91ed-slide.jpg",
+        "height": 388,
+        "width": 600,
+        "legacy": {},
+        "subType": "slide",
+        "crop_name": "slide"
+      },
+      {
+        "rank": 0,
+        "subtype": "smallSquare168",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/03/us/politics/03dc-inquire-alpha/03dc-inquire-smallSquare168.jpg",
+        "height": 168,
+        "width": 168,
+        "legacy": {},
+        "subType": "smallSquare168",
+        "crop_name": "smallSquare168"
+      },
+      {
+        "rank": 0,
+        "subtype": "smallSquare252",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/03/us/politics/03dc-inquire-alpha/03dc-inquire-smallSquare252.jpg",
+        "height": 252,
+        "width": 252,
+        "legacy": {},
+        "subType": "smallSquare252",
+        "crop_name": "smallSquare252"
+      },
+      {
+        "rank": 0,
+        "subtype": "square320",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/03/us/politics/03dc-inquire-alpha/03dc-inquire-square320.jpg",
+        "height": 320,
+        "width": 320,
+        "legacy": {},
+        "subType": "square320",
+        "crop_name": "square320"
+      },
+      {
+        "rank": 0,
+        "subtype": "square640",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/03/us/politics/03dc-inquire-alpha/03dc-inquire-square640.jpg",
+        "height": 640,
+        "width": 640,
+        "legacy": {},
+        "subType": "square640",
+        "crop_name": "square640"
+      },
+      {
+        "rank": 0,
+        "subtype": "superJumbo",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/03/us/politics/03dc-inquire-alpha/merlin_118241213_cd0bc342-23a6-46c1-9343-66df48dc91ed-superJumbo.jpg",
+        "height": 1326,
+        "width": 2048,
+        "legacy": {},
+        "subType": "superJumbo",
+        "crop_name": "superJumbo"
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbLarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/03/us/politics/03dc-inquire-alpha/03dc-inquire-thumbLarge.jpg",
+        "height": 150,
+        "width": 150,
+        "legacy": {},
+        "subType": "thumbLarge",
+        "crop_name": "thumbLarge"
+      },
+      {
+        "rank": 0,
+        "subtype": "tmagArticle",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/03/us/politics/03dc-inquire-alpha/merlin_118241213_cd0bc342-23a6-46c1-9343-66df48dc91ed-tmagArticle.jpg",
+        "height": 383,
+        "width": 592,
+        "legacy": {},
+        "subType": "tmagArticle",
+        "crop_name": "tmagArticle"
+      },
+      {
+        "rank": 0,
+        "subtype": "tmagSF",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/03/us/politics/03dc-inquire-alpha/merlin_118241213_cd0bc342-23a6-46c1-9343-66df48dc91ed-tmagSF.jpg",
+        "height": 234,
+        "width": 362,
+        "legacy": {},
+        "subType": "tmagSF",
+        "crop_name": "tmagSF"
+      },
+      {
+        "rank": 0,
+        "subtype": "verticalTwoByThree735",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/03/us/politics/03dc-inquire-alpha/03dc-inquire-verticalTwoByThree735.jpg",
+        "height": 1102,
+        "width": 735,
+        "legacy": {},
+        "subType": "verticalTwoByThree735",
+        "crop_name": "verticalTwoByThree735"
+      },
+      {
+        "rank": 0,
+        "subtype": "videoFifteenBySeven1305",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/03/us/politics/03dc-inquire-alpha/03dc-inquire-videoFifteenBySeven1305.jpg",
+        "height": 609,
+        "width": 1305,
+        "legacy": {},
+        "subType": "videoFifteenBySeven1305",
+        "crop_name": "videoFifteenBySeven1305"
+      },
+      {
+        "rank": 0,
+        "subtype": "videoFifteenBySeven2610",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/03/us/politics/03dc-inquire-alpha/03dc-inquire-videoFifteenBySeven2610.jpg",
+        "height": 1218,
+        "width": 2610,
+        "legacy": {},
+        "subType": "videoFifteenBySeven2610",
+        "crop_name": "videoFifteenBySeven2610"
+      },
+      {
+        "rank": 0,
+        "subtype": "videoHpMedium",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/03/us/politics/03dc-inquire-alpha/03dc-inquire-videoHpMedium.jpg",
+        "height": 211,
+        "width": 375,
+        "legacy": {},
+        "subType": "videoHpMedium",
+        "crop_name": "videoHpMedium"
+      },
+      {
+        "rank": 0,
+        "subtype": "videoLarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/03/us/politics/03dc-inquire-alpha/03dc-inquire-videoLarge.jpg",
+        "height": 507,
+        "width": 768,
+        "legacy": {},
+        "subType": "videoLarge",
+        "crop_name": "videoLarge"
+      },
+      {
+        "rank": 0,
+        "subtype": "videoSixteenByNine1050",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/03/us/politics/03dc-inquire-alpha/03dc-inquire-videoSixteenByNine1050.jpg",
+        "height": 591,
+        "width": 1050,
+        "legacy": {},
+        "subType": "videoSixteenByNine1050",
+        "crop_name": "videoSixteenByNine1050"
+      },
+      {
+        "rank": 0,
+        "subtype": "videoSixteenByNine150",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/03/us/politics/03dc-inquire-alpha/03dc-inquire-videoSixteenByNine150.jpg",
+        "height": 84,
+        "width": 150,
+        "legacy": {},
+        "subType": "videoSixteenByNine150",
+        "crop_name": "videoSixteenByNine150"
+      },
+      {
+        "rank": 0,
+        "subtype": "videoSixteenByNine225",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/03/us/politics/03dc-inquire-alpha/03dc-inquire-videoSixteenByNine225.jpg",
+        "height": 126,
+        "width": 225,
+        "legacy": {},
+        "subType": "videoSixteenByNine225",
+        "crop_name": "videoSixteenByNine225"
+      },
+      {
+        "rank": 0,
+        "subtype": "videoSixteenByNine3000",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/03/us/politics/03dc-inquire-alpha/03dc-inquire-videoSixteenByNine3000.jpg",
+        "height": 1688,
+        "width": 3000,
+        "legacy": {},
+        "subType": "videoSixteenByNine3000",
+        "crop_name": "videoSixteenByNine3000"
+      },
+      {
+        "rank": 0,
+        "subtype": "videoSixteenByNine310",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/03/us/politics/03dc-inquire-alpha/03dc-inquire-videoSixteenByNine310.jpg",
+        "height": 174,
+        "width": 310,
+        "legacy": {},
+        "subType": "videoSixteenByNine310",
+        "crop_name": "videoSixteenByNine310"
+      },
+      {
+        "rank": 0,
+        "subtype": "videoSixteenByNine390",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/03/us/politics/03dc-inquire-alpha/03dc-inquire-videoSixteenByNine390.jpg",
+        "height": 219,
+        "width": 390,
+        "legacy": {},
+        "subType": "videoSixteenByNine390",
+        "crop_name": "videoSixteenByNine390"
+      },
+      {
+        "rank": 0,
+        "subtype": "videoSixteenByNine480",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/03/us/politics/03dc-inquire-alpha/03dc-inquire-videoSixteenByNine480.jpg",
+        "height": 270,
+        "width": 480,
+        "legacy": {},
+        "subType": "videoSixteenByNine480",
+        "crop_name": "videoSixteenByNine480"
+      },
+      {
+        "rank": 0,
+        "subtype": "videoSixteenByNine495",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/03/us/politics/03dc-inquire-alpha/03dc-inquire-videoSixteenByNine495.jpg",
+        "height": 278,
+        "width": 495,
+        "legacy": {},
+        "subType": "videoSixteenByNine495",
+        "crop_name": "videoSixteenByNine495"
+      },
+      {
+        "rank": 0,
+        "subtype": "videoSixteenByNine540",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/03/us/politics/03dc-inquire-alpha/03dc-inquire-videoSixteenByNine540.jpg",
+        "height": 304,
+        "width": 540,
+        "legacy": {},
+        "subType": "videoSixteenByNine540",
+        "crop_name": "videoSixteenByNine540"
+      },
+      {
+        "rank": 0,
+        "subtype": "videoSixteenByNine600",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/03/us/politics/03dc-inquire-alpha/03dc-inquire-videoSixteenByNine600.jpg",
+        "height": 338,
+        "width": 600,
+        "legacy": {},
+        "subType": "videoSixteenByNine600",
+        "crop_name": "videoSixteenByNine600"
+      },
+      {
+        "rank": 0,
+        "subtype": "videoSixteenByNine768",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/03/us/politics/03dc-inquire-alpha/03dc-inquire-videoSixteenByNine768.jpg",
+        "height": 432,
+        "width": 768,
+        "legacy": {},
+        "subType": "videoSixteenByNine768",
+        "crop_name": "videoSixteenByNine768"
+      },
+      {
+        "rank": 0,
+        "subtype": "videoSixteenByNine96",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/03/us/politics/03dc-inquire-alpha/03dc-inquire-videoSixteenByNine96.jpg",
+        "height": 54,
+        "width": 96,
+        "legacy": {},
+        "subType": "videoSixteenByNine96",
+        "crop_name": "videoSixteenByNine96"
+      },
+      {
+        "rank": 0,
+        "subtype": "videoSixteenByNineJumbo1600",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/03/us/politics/03dc-inquire-alpha/03dc-inquire-videoSixteenByNineJumbo1600.jpg",
+        "height": 900,
+        "width": 1600,
+        "legacy": {},
+        "subType": "videoSixteenByNineJumbo1600",
+        "crop_name": "videoSixteenByNineJumbo1600"
+      },
+      {
+        "rank": 0,
+        "subtype": "videoSmall",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/03/us/politics/03dc-inquire-alpha/03dc-inquire-videoSmall.jpg",
+        "height": 281,
+        "width": 500,
+        "legacy": {},
+        "subType": "videoSmall",
+        "crop_name": "videoSmall"
+      },
+      {
+        "rank": 0,
+        "subtype": "videoThumb",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/03/us/politics/03dc-inquire-alpha/03dc-inquire-videoThumb.jpg",
+        "height": 50,
+        "width": 75,
+        "legacy": {},
+        "subType": "videoThumb",
+        "crop_name": "videoThumb"
+      },
+      {
+        "rank": 0,
+        "subtype": "watch268",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/03/us/politics/03dc-inquire-alpha/03dc-inquire-watch268.jpg",
+        "height": 304,
+        "width": 272,
+        "legacy": {},
+        "subType": "watch268",
+        "crop_name": "watch268"
+      },
+      {
+        "rank": 0,
+        "subtype": "watch308",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/03/us/politics/03dc-inquire-alpha/03dc-inquire-watch308.jpg",
+        "height": 348,
+        "width": 312,
+        "legacy": {},
+        "subType": "watch308",
+        "crop_name": "watch308"
+      },
+      {
+        "rank": 0,
+        "subtype": "windowsTile336H",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/03/us/politics/03dc-inquire-alpha/03dc-inquire-windowsTile336H.jpg",
+        "height": 336,
+        "width": 694,
+        "legacy": {},
+        "subType": "windowsTile336H",
+        "crop_name": "windowsTile336H"
+      }
+    ],
+    "headline": {
+      "main": "Trump and Sessions Denied Knowing About Russian Contacts. Records Suggest Otherwise.",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Files Contradict Trump and Sessions on Russia",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Russian Interference in 2016 US Elections and Ties to Trump Associates",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Sessions, Jefferson B III",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Trump, Donald J",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Papadopoulos, George (1987- )",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Russia",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Mueller, Robert S III",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Special Prosecutors (Independent Counsel)",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Politics and Government",
+        "rank": 8,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2017-11-02T23:04:57+0000",
+    "document_type": "article",
+    "new_desk": "Washington",
+    "section_name": "Politics",
+    "byline": {
+      "original": "By MICHAEL S. SCHMIDT, MATT APUZZO and SCOTT SHANE",
+      "person": [
+        {
+          "firstname": "Michael",
+          "middlename": "S.",
+          "lastname": "SCHMIDT",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Matt",
+          "middlename": null,
+          "lastname": "APUZZO",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        },
+        {
+          "firstname": "Scott",
+          "middlename": null,
+          "lastname": "SHANE",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 3
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "59fba4a37c459f246b63253a",
+    "word_count": 1516,
+    "score": 1.0,
+    "uri": "nyt://article/5465b89d-2027-5c90-bb6c-625bdb7e109d"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2017/11/02/nyregion/children-lower-manhattan-terror-attack-saipov.html",
+    "snippet": "As the terror attack unspooled on Tuesday, students at nearby schools watched and took shelter, as an event they had drilled for became real.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/05/nyregion/05big/05big-articleLarge.jpg",
+        "height": 400,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2017/11/05/nyregion/05big/05big-articleLarge.jpg",
+          "xlargeheight": 400
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/05/nyregion/05big/05big-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2017/11/05/nyregion/05big/05big-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/05/nyregion/05big/05big-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2017/11/05/nyregion/05big/05big-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "When Children Bear Witness to Terror",
+      "kicker": "Big City",
+      "content_kicker": "Big City",
+      "print_headline": "When Children Witness Terror",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Education (K-12)",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Children and Childhood",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Manhattan, NY, Attack (October, 2017)",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Terrorism",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Stuyvesant High School",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Saipov, Sayfullo",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "TriBeCa (Manhattan, NY)",
+        "rank": 7,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2017-11-02T18:11:33+0000",
+    "document_type": "article",
+    "new_desk": "Metropolitan",
+    "byline": {
+      "original": "By GINIA BELLAFANTE",
+      "person": [
+        {
+          "firstname": "Ginia",
+          "middlename": null,
+          "lastname": "BELLAFANTE",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "59fb5fe87c459f246b632459",
+    "word_count": 936,
+    "score": 1.0,
+    "uri": "nyt://article/0ccc4d6f-dd04-51c2-8089-1c774f7c3e83"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2017/11/02/nyregion/the-city-teenager-vs-the-monstrous-snakehead.html",
+    "snippet": "A fishing prodigy is casting his way through New York\u2019s ponds and streams in search of an elusive predator. Or maybe a nice brook trout.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/26/nyregion/00fishing1/00fishing1-articleLarge.jpg",
+        "height": 390,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2017/10/26/nyregion/00fishing1/00fishing1-articleLarge.jpg",
+          "xlargeheight": 390
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/26/nyregion/00fishing1/00fishing1-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2017/10/26/nyregion/00fishing1/00fishing1-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/26/nyregion/00fishing1/00fishing1-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2017/10/26/nyregion/00fishing1/00fishing1-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "The City Teenager vs. the Monstrous Snakehead",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "His Pursuit? A Snakehead",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Fishing, Sport",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Invasive Species",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Corona (Queens, NY)",
+        "rank": 3,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2017-11-02T14:54:25+0000",
+    "document_type": "article",
+    "new_desk": "Metropolitan",
+    "byline": {
+      "original": "By ALEX VADUKUL",
+      "person": [
+        {
+          "firstname": "Alex",
+          "middlename": null,
+          "lastname": "VADUKUL",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "59fb31ad7c459f246b63239e",
+    "word_count": 1289,
+    "score": 1.0,
+    "uri": "nyt://article/223e4508-0308-5b6a-873f-fc99005c4f65"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2017/11/02/arts/television/alias-grace-review-netflix-margaret-atwood.html",
+    "snippet": "The Year of Atwood continues, as Sarah Polley\u2019s adaptation finds in the past what \u201cThe Handmaid\u2019s Tale\u201d foresaw in the future.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/02/arts/03alias/03alias-articleLarge.jpg",
+        "height": 395,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2017/11/02/arts/03alias/03alias-articleLarge.jpg",
+          "xlargeheight": 395
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/02/arts/03alias/03alias-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2017/11/02/arts/03alias/03alias-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/02/arts/03alias/03alias-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2017/11/02/arts/03alias/03alias-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Review: \u2018Alias Grace\u2019 Sews a Transfixing True-Crime Quilt",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "The Boundaries of Servitude",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Television",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "creative_works",
+        "value": "Alias Grace (TV Program)",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Atwood, Margaret",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Gadon, Sarah (1987- )",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Polley, Sarah",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Netflix Inc",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2017-11-02T14:52:08+0000",
+    "document_type": "article",
+    "new_desk": "Weekend",
+    "section_name": "Television",
+    "byline": {
+      "original": "By JAMES PONIEWOZIK",
+      "person": [
+        {
+          "firstname": "James",
+          "middlename": null,
+          "lastname": "PONIEWOZIK",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "Review",
+    "_id": "59fb312f7c459f246b63239b",
+    "word_count": 797,
+    "score": 1.0,
+    "uri": "nyt://article/c3752230-a408-5605-a6b5-0d88f031d7b2"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2017/11/02/sports/football/johnny-hekker-rams-punter.html",
+    "snippet": "The Rams\u2019 Johnny Hekker dominates his position like no other. He is already being called the best to ever punt in the N.F.L., but he thinks he can be better.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/01/sports/HEKKER-PROMO-SUB/HEKKER-PROMO-SUB-articleLarge.gif",
+        "height": 275,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2017/11/01/sports/HEKKER-PROMO-SUB/HEKKER-PROMO-SUB-articleLarge.gif",
+          "xlargeheight": 275
+        },
+        "subType": "xlarge",
+        "crop_name": "articleLarge"
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/01/sports/HEKKER-PROMO-SUB/HEKKER-PROMO-SUB-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2017/11/01/sports/HEKKER-PROMO-SUB/HEKKER-PROMO-SUB-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": "thumbWide"
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/01/sports/HEKKER-PROMO-SUB/HEKKER-PROMO-SUB-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2017/11/01/sports/HEKKER-PROMO-SUB/HEKKER-PROMO-SUB-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": "thumbStandard"
+      },
+      {
+        "rank": 0,
+        "subtype": "articleInline",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/01/sports/HEKKER-PROMO-SUB/HEKKER-PROMO-SUB-articleInline.jpg",
+        "height": 87,
+        "width": 190,
+        "legacy": {},
+        "subType": "articleInline",
+        "crop_name": "articleInline"
+      },
+      {
+        "rank": 0,
+        "subtype": "blog225",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/01/sports/HEKKER-PROMO-SUB/HEKKER-PROMO-SUB-blog225.jpg",
+        "height": 103,
+        "width": 225,
+        "legacy": {},
+        "subType": "blog225",
+        "crop_name": "blog225"
+      },
+      {
+        "rank": 0,
+        "subtype": "blog427",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/01/sports/HEKKER-PROMO-SUB/HEKKER-PROMO-SUB-blog427.jpg",
+        "height": 196,
+        "width": 427,
+        "legacy": {},
+        "subType": "blog427",
+        "crop_name": "blog427"
+      },
+      {
+        "rank": 0,
+        "subtype": "blog480",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/01/sports/HEKKER-PROMO-SUB/HEKKER-PROMO-SUB-blog480.jpg",
+        "height": 220,
+        "width": 480,
+        "legacy": {},
+        "subType": "blog480",
+        "crop_name": "blog480"
+      },
+      {
+        "rank": 0,
+        "subtype": "blog533",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/01/sports/HEKKER-PROMO-SUB/HEKKER-PROMO-SUB-blog533.jpg",
+        "height": 244,
+        "width": 533,
+        "legacy": {},
+        "subType": "blog533",
+        "crop_name": "blog533"
+      },
+      {
+        "rank": 0,
+        "subtype": "blogSmallInline",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/01/sports/HEKKER-PROMO-SUB/HEKKER-PROMO-SUB-blogSmallInline.jpg",
+        "height": 69,
+        "width": 151,
+        "legacy": {},
+        "subType": "blogSmallInline",
+        "crop_name": "blogSmallInline"
+      },
+      {
+        "rank": 0,
+        "subtype": "blogSmallThumb",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/01/sports/HEKKER-PROMO-SUB/HEKKER-PROMO-SUB-blogSmallThumb.jpg",
+        "height": 50,
+        "width": 50,
+        "legacy": {},
+        "subType": "blogSmallThumb",
+        "crop_name": "blogSmallThumb"
+      },
+      {
+        "rank": 0,
+        "subtype": "facebookJumbo",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/01/sports/HEKKER-PROMO-SUB/HEKKER-PROMO-SUB-facebookJumbo.jpg",
+        "height": 550,
+        "width": 1050,
+        "legacy": {},
+        "subType": "facebookJumbo",
+        "crop_name": "facebookJumbo"
+      },
+      {
+        "rank": 0,
+        "subtype": "filmstrip",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/01/sports/HEKKER-PROMO-SUB/HEKKER-PROMO-SUB-filmstrip.jpg",
+        "height": 190,
+        "width": 190,
+        "legacy": {},
+        "subType": "filmstrip",
+        "crop_name": "filmstrip"
+      },
+      {
+        "rank": 0,
+        "subtype": "hpLarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/01/sports/HEKKER-PROMO-SUB/HEKKER-PROMO-SUB-hpLarge.jpg",
+        "height": 287,
+        "width": 511,
+        "legacy": {},
+        "subType": "hpLarge",
+        "crop_name": "hpLarge"
+      },
+      {
+        "rank": 0,
+        "subtype": "hpSmall",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/01/sports/HEKKER-PROMO-SUB/HEKKER-PROMO-SUB-hpSmall.jpg",
+        "height": 75,
+        "width": 163,
+        "legacy": {},
+        "subType": "hpSmall",
+        "crop_name": "hpSmall"
+      },
+      {
+        "rank": 0,
+        "subtype": "jumbo",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/01/sports/HEKKER-PROMO-SUB/HEKKER-PROMO-SUB-jumbo.gif",
+        "height": 469,
+        "width": 1024,
+        "legacy": {},
+        "subType": "jumbo",
+        "crop_name": "jumbo"
+      },
+      {
+        "rank": 0,
+        "subtype": "largeHorizontal375",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/01/sports/HEKKER-PROMO-SUB/HEKKER-PROMO-SUB-largeHorizontal375.gif",
+        "height": 172,
+        "width": 375,
+        "legacy": {},
+        "subType": "largeHorizontal375",
+        "crop_name": "largeHorizontal375"
+      },
+      {
+        "rank": 0,
+        "subtype": "largeHorizontalJumbo",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/01/sports/HEKKER-PROMO-SUB/HEKKER-PROMO-SUB-largeHorizontalJumbo-v2.gif",
+        "height": 683,
+        "width": 1024,
+        "legacy": {},
+        "subType": "largeHorizontalJumbo",
+        "crop_name": "largeHorizontalJumbo"
+      },
+      {
+        "rank": 0,
+        "subtype": "largeWidescreen573",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/01/sports/HEKKER-PROMO-SUB/HEKKER-PROMO-SUB-largeWidescreen573.jpg",
+        "height": 322,
+        "width": 573,
+        "legacy": {},
+        "subType": "largeWidescreen573",
+        "crop_name": "largeWidescreen573"
+      },
+      {
+        "rank": 0,
+        "subtype": "largeWidescreen1050",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/01/sports/HEKKER-PROMO-SUB/HEKKER-PROMO-SUB-largeWidescreen1050.jpg",
+        "height": 591,
+        "width": 1050,
+        "legacy": {},
+        "subType": "largeWidescreen1050",
+        "crop_name": "largeWidescreen1050"
+      },
+      {
+        "rank": 0,
+        "subtype": "master1050",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/01/sports/HEKKER-PROMO-SUB/HEKKER-PROMO-SUB-master1050.jpg",
+        "height": 481,
+        "width": 1050,
+        "legacy": {},
+        "subType": "master1050",
+        "crop_name": "master1050"
+      },
+      {
+        "rank": 0,
+        "subtype": "master180",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/01/sports/HEKKER-PROMO-SUB/HEKKER-PROMO-SUB-master180.jpg",
+        "height": 83,
+        "width": 180,
+        "legacy": {},
+        "subType": "master180",
+        "crop_name": "master180"
+      },
+      {
+        "rank": 0,
+        "subtype": "master315",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/01/sports/HEKKER-PROMO-SUB/HEKKER-PROMO-SUB-master315.jpg",
+        "height": 144,
+        "width": 315,
+        "legacy": {},
+        "subType": "master315",
+        "crop_name": "master315"
+      },
+      {
+        "rank": 0,
+        "subtype": "master495",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/01/sports/HEKKER-PROMO-SUB/HEKKER-PROMO-SUB-master495.jpg",
+        "height": 227,
+        "width": 495,
+        "legacy": {},
+        "subType": "master495",
+        "crop_name": "master495"
+      },
+      {
+        "rank": 0,
+        "subtype": "master768",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/01/sports/HEKKER-PROMO-SUB/HEKKER-PROMO-SUB-master768.jpg",
+        "height": 352,
+        "width": 768,
+        "legacy": {},
+        "subType": "master768",
+        "crop_name": "master768"
+      },
+      {
+        "rank": 0,
+        "subtype": "mediumFlexible177",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/01/sports/HEKKER-PROMO-SUB/HEKKER-PROMO-SUB-mediumFlexible177.gif",
+        "height": 81,
+        "width": 177,
+        "legacy": {},
+        "subType": "mediumFlexible177",
+        "crop_name": "mediumFlexible177"
+      },
+      {
+        "rank": 0,
+        "subtype": "mediumSquare149",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/01/sports/HEKKER-PROMO-SUB/HEKKER-PROMO-SUB-mediumSquare149.jpg",
+        "height": 149,
+        "width": 149,
+        "legacy": {},
+        "subType": "mediumSquare149",
+        "crop_name": "mediumSquare149"
+      },
+      {
+        "rank": 0,
+        "subtype": "mediumThreeByTwo210",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/01/sports/HEKKER-PROMO-SUB/HEKKER-PROMO-SUB-mediumThreeByTwo210.jpg",
+        "height": 140,
+        "width": 210,
+        "legacy": {},
+        "subType": "mediumThreeByTwo210",
+        "crop_name": "mediumThreeByTwo210"
+      },
+      {
+        "rank": 0,
+        "subtype": "mediumThreeByTwo225",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/01/sports/HEKKER-PROMO-SUB/HEKKER-PROMO-SUB-mediumThreeByTwo225.jpg",
+        "height": 150,
+        "width": 225,
+        "legacy": {},
+        "subType": "mediumThreeByTwo225",
+        "crop_name": "mediumThreeByTwo225"
+      },
+      {
+        "rank": 0,
+        "subtype": "mediumThreeByTwo440",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/01/sports/HEKKER-PROMO-SUB/HEKKER-PROMO-SUB-mediumThreeByTwo440.jpg",
+        "height": 293,
+        "width": 440,
+        "legacy": {},
+        "subType": "mediumThreeByTwo440",
+        "crop_name": "mediumThreeByTwo440"
+      },
+      {
+        "rank": 0,
+        "subtype": "miniMoth",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/01/sports/HEKKER-PROMO-SUB/HEKKER-PROMO-SUB-miniMoth.jpg",
+        "height": 70,
+        "width": 151,
+        "legacy": {},
+        "subType": "miniMoth",
+        "crop_name": "miniMoth"
+      },
+      {
+        "rank": 0,
+        "subtype": "moth",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/01/sports/HEKKER-PROMO-SUB/HEKKER-PROMO-SUB-moth.jpg",
+        "height": 151,
+        "width": 151,
+        "legacy": {},
+        "subType": "moth",
+        "crop_name": "moth"
+      },
+      {
+        "rank": 0,
+        "subtype": "popup",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/01/sports/HEKKER-PROMO-SUB/HEKKER-PROMO-SUB-popup.jpg",
+        "height": 298,
+        "width": 650,
+        "legacy": {},
+        "subType": "popup",
+        "crop_name": "popup"
+      },
+      {
+        "rank": 0,
+        "subtype": "sfSpan",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/01/sports/HEKKER-PROMO-SUB/HEKKER-PROMO-SUB-sfSpan.jpg",
+        "height": 263,
+        "width": 395,
+        "legacy": {},
+        "subType": "sfSpan",
+        "crop_name": "sfSpan"
+      },
+      {
+        "rank": 0,
+        "subtype": "slide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/01/sports/HEKKER-PROMO-SUB/HEKKER-PROMO-SUB-slide.jpg",
+        "height": 275,
+        "width": 600,
+        "legacy": {},
+        "subType": "slide",
+        "crop_name": "slide"
+      },
+      {
+        "rank": 0,
+        "subtype": "smallSquare168",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/01/sports/HEKKER-PROMO-SUB/HEKKER-PROMO-SUB-smallSquare168.jpg",
+        "height": 168,
+        "width": 168,
+        "legacy": {},
+        "subType": "smallSquare168",
+        "crop_name": "smallSquare168"
+      },
+      {
+        "rank": 0,
+        "subtype": "smallSquare252",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/01/sports/HEKKER-PROMO-SUB/HEKKER-PROMO-SUB-smallSquare252.jpg",
+        "height": 252,
+        "width": 252,
+        "legacy": {},
+        "subType": "smallSquare252",
+        "crop_name": "smallSquare252"
+      },
+      {
+        "rank": 0,
+        "subtype": "square320",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/01/sports/HEKKER-PROMO-SUB/HEKKER-PROMO-SUB-square320.jpg",
+        "height": 320,
+        "width": 320,
+        "legacy": {},
+        "subType": "square320",
+        "crop_name": "square320"
+      },
+      {
+        "rank": 0,
+        "subtype": "square640",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/01/sports/HEKKER-PROMO-SUB/HEKKER-PROMO-SUB-square640.jpg",
+        "height": 640,
+        "width": 640,
+        "legacy": {},
+        "subType": "square640",
+        "crop_name": "square640"
+      },
+      {
+        "rank": 0,
+        "subtype": "superJumbo",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/01/sports/HEKKER-PROMO-SUB/HEKKER-PROMO-SUB-superJumbo.gif",
+        "height": 939,
+        "width": 2048,
+        "legacy": {},
+        "subType": "superJumbo",
+        "crop_name": "superJumbo"
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbLarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/01/sports/HEKKER-PROMO-SUB/HEKKER-PROMO-SUB-thumbLarge.jpg",
+        "height": 150,
+        "width": 150,
+        "legacy": {},
+        "subType": "thumbLarge",
+        "crop_name": "thumbLarge"
+      },
+      {
+        "rank": 0,
+        "subtype": "tmagArticle",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/01/sports/HEKKER-PROMO-SUB/HEKKER-PROMO-SUB-tmagArticle.jpg",
+        "height": 271,
+        "width": 592,
+        "legacy": {},
+        "subType": "tmagArticle",
+        "crop_name": "tmagArticle"
+      },
+      {
+        "rank": 0,
+        "subtype": "tmagSF",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/01/sports/HEKKER-PROMO-SUB/HEKKER-PROMO-SUB-tmagSF.jpg",
+        "height": 166,
+        "width": 362,
+        "legacy": {},
+        "subType": "tmagSF",
+        "crop_name": "tmagSF"
+      },
+      {
+        "rank": 0,
+        "subtype": "videoFifteenBySeven1305",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/01/sports/HEKKER-PROMO-SUB/HEKKER-PROMO-SUB-videoFifteenBySeven1305.jpg",
+        "height": 609,
+        "width": 1305,
+        "legacy": {},
+        "subType": "videoFifteenBySeven1305",
+        "crop_name": "videoFifteenBySeven1305"
+      },
+      {
+        "rank": 0,
+        "subtype": "videoHpMedium",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/01/sports/HEKKER-PROMO-SUB/HEKKER-PROMO-SUB-videoHpMedium.jpg",
+        "height": 211,
+        "width": 375,
+        "legacy": {},
+        "subType": "videoHpMedium",
+        "crop_name": "videoHpMedium"
+      },
+      {
+        "rank": 0,
+        "subtype": "videoLarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/01/sports/HEKKER-PROMO-SUB/HEKKER-PROMO-SUB-videoLarge.gif",
+        "height": 507,
+        "width": 768,
+        "legacy": {},
+        "subType": "videoLarge",
+        "crop_name": "videoLarge"
+      },
+      {
+        "rank": 0,
+        "subtype": "videoSixteenByNine1050",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/01/sports/HEKKER-PROMO-SUB/HEKKER-PROMO-SUB-videoSixteenByNine1050.jpg",
+        "height": 591,
+        "width": 1050,
+        "legacy": {},
+        "subType": "videoSixteenByNine1050",
+        "crop_name": "videoSixteenByNine1050"
+      },
+      {
+        "rank": 0,
+        "subtype": "videoSixteenByNine150",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/01/sports/HEKKER-PROMO-SUB/HEKKER-PROMO-SUB-videoSixteenByNine150.jpg",
+        "height": 84,
+        "width": 150,
+        "legacy": {},
+        "subType": "videoSixteenByNine150",
+        "crop_name": "videoSixteenByNine150"
+      },
+      {
+        "rank": 0,
+        "subtype": "videoSixteenByNine225",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/01/sports/HEKKER-PROMO-SUB/HEKKER-PROMO-SUB-videoSixteenByNine225.jpg",
+        "height": 126,
+        "width": 225,
+        "legacy": {},
+        "subType": "videoSixteenByNine225",
+        "crop_name": "videoSixteenByNine225"
+      },
+      {
+        "rank": 0,
+        "subtype": "videoSixteenByNine310",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/01/sports/HEKKER-PROMO-SUB/HEKKER-PROMO-SUB-videoSixteenByNine310.jpg",
+        "height": 174,
+        "width": 310,
+        "legacy": {},
+        "subType": "videoSixteenByNine310",
+        "crop_name": "videoSixteenByNine310"
+      },
+      {
+        "rank": 0,
+        "subtype": "videoSixteenByNine390",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/01/sports/HEKKER-PROMO-SUB/HEKKER-PROMO-SUB-videoSixteenByNine390.jpg",
+        "height": 219,
+        "width": 390,
+        "legacy": {},
+        "subType": "videoSixteenByNine390",
+        "crop_name": "videoSixteenByNine390"
+      },
+      {
+        "rank": 0,
+        "subtype": "videoSixteenByNine480",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/01/sports/HEKKER-PROMO-SUB/HEKKER-PROMO-SUB-videoSixteenByNine480.jpg",
+        "height": 270,
+        "width": 480,
+        "legacy": {},
+        "subType": "videoSixteenByNine480",
+        "crop_name": "videoSixteenByNine480"
+      },
+      {
+        "rank": 0,
+        "subtype": "videoSixteenByNine495",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/01/sports/HEKKER-PROMO-SUB/HEKKER-PROMO-SUB-videoSixteenByNine495.jpg",
+        "height": 278,
+        "width": 495,
+        "legacy": {},
+        "subType": "videoSixteenByNine495",
+        "crop_name": "videoSixteenByNine495"
+      },
+      {
+        "rank": 0,
+        "subtype": "videoSixteenByNine540",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/01/sports/HEKKER-PROMO-SUB/HEKKER-PROMO-SUB-videoSixteenByNine540.jpg",
+        "height": 304,
+        "width": 540,
+        "legacy": {},
+        "subType": "videoSixteenByNine540",
+        "crop_name": "videoSixteenByNine540"
+      },
+      {
+        "rank": 0,
+        "subtype": "videoSixteenByNine600",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/01/sports/HEKKER-PROMO-SUB/HEKKER-PROMO-SUB-videoSixteenByNine600.jpg",
+        "height": 338,
+        "width": 600,
+        "legacy": {},
+        "subType": "videoSixteenByNine600",
+        "crop_name": "videoSixteenByNine600"
+      },
+      {
+        "rank": 0,
+        "subtype": "videoSixteenByNine768",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/01/sports/HEKKER-PROMO-SUB/HEKKER-PROMO-SUB-videoSixteenByNine768.jpg",
+        "height": 432,
+        "width": 768,
+        "legacy": {},
+        "subType": "videoSixteenByNine768",
+        "crop_name": "videoSixteenByNine768"
+      },
+      {
+        "rank": 0,
+        "subtype": "videoSixteenByNine96",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/01/sports/HEKKER-PROMO-SUB/HEKKER-PROMO-SUB-videoSixteenByNine96.jpg",
+        "height": 54,
+        "width": 96,
+        "legacy": {},
+        "subType": "videoSixteenByNine96",
+        "crop_name": "videoSixteenByNine96"
+      },
+      {
+        "rank": 0,
+        "subtype": "videoSixteenByNineJumbo1600",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/01/sports/HEKKER-PROMO-SUB/HEKKER-PROMO-SUB-videoSixteenByNineJumbo1600.jpg",
+        "height": 901,
+        "width": 1600,
+        "legacy": {},
+        "subType": "videoSixteenByNineJumbo1600",
+        "crop_name": "videoSixteenByNineJumbo1600"
+      },
+      {
+        "rank": 0,
+        "subtype": "videoSmall",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/01/sports/HEKKER-PROMO-SUB/HEKKER-PROMO-SUB-videoSmall.jpg",
+        "height": 281,
+        "width": 500,
+        "legacy": {},
+        "subType": "videoSmall",
+        "crop_name": "videoSmall"
+      },
+      {
+        "rank": 0,
+        "subtype": "videoThumb",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/01/sports/HEKKER-PROMO-SUB/HEKKER-PROMO-SUB-videoThumb.jpg",
+        "height": 50,
+        "width": 75,
+        "legacy": {},
+        "subType": "videoThumb",
+        "crop_name": "videoThumb"
+      },
+      {
+        "rank": 0,
+        "subtype": "watch268",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/01/sports/HEKKER-PROMO-SUB/HEKKER-PROMO-SUB-watch268.jpg",
+        "height": 303,
+        "width": 272,
+        "legacy": {},
+        "subType": "watch268",
+        "crop_name": "watch268"
+      },
+      {
+        "rank": 0,
+        "subtype": "watch308",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/01/sports/HEKKER-PROMO-SUB/HEKKER-PROMO-SUB-watch308.jpg",
+        "height": 348,
+        "width": 312,
+        "legacy": {},
+        "subType": "watch308",
+        "crop_name": "watch308"
+      },
+      {
+        "rank": 0,
+        "subtype": "windowsTile336H",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/01/sports/HEKKER-PROMO-SUB/HEKKER-PROMO-SUB-windowsTile336H.jpg",
+        "height": 336,
+        "width": 694,
+        "legacy": {},
+        "subType": "windowsTile336H",
+        "crop_name": "windowsTile336H"
+      }
+    ],
+    "headline": {
+      "main": "The N.F.L.\u2019s Most Valuable Player Might Be ... a Punter?",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "The M.V.P. Might Be  A Punter",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Football",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Los Angeles Rams",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Hekker, Johnny (1990- )",
+        "rank": 3,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2017-11-02T09:00:26+0000",
+    "document_type": "article",
+    "new_desk": "Sports",
+    "section_name": "Pro Football",
+    "byline": {
+      "original": "By BEN SHPIGEL",
+      "person": [
+        {
+          "firstname": "Ben",
+          "middlename": null,
+          "lastname": "SHPIGEL",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "59fadef17c459f246b63227c",
+    "word_count": 2165,
+    "score": 1.0,
+    "uri": "nyt://article/a470d87b-ab8c-56fa-a782-0830680d9db8"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2017/11/02/your-money/tax-plan-changes-predict.html",
+    "snippet": "Your workplace retirement savings account lives, for now. So does a pretty big mortgage interest deduction. But plenty will change in the coming weeks.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/03/business/03MONEY/03MONEY-articleLarge.jpg",
+        "height": 600,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2017/11/03/business/03MONEY/03MONEY-articleLarge.jpg",
+          "xlargeheight": 600
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/03/business/03MONEY/03MONEY-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2017/11/03/business/03MONEY/03MONEY-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/03/business/03MONEY/03MONEY-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2017/11/03/business/03MONEY/03MONEY-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Why It\u2019s Too Soon to Predict What the Tax Changes Will Mean for You",
+      "kicker": "Your Money",
+      "content_kicker": "Your Money",
+      "print_headline": "Waiting Out The Debate On Taxes",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Retirement",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Tax Credits, Deductions and Exemptions",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Federal Taxes (US)",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Personal Finances",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "401(k), 403(b) and 457 Plans",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Pensions and Retirement Plans",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2017-11-02T20:22:33+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By RON LIEBER",
+      "person": [
+        {
+          "firstname": "Ron",
+          "middlename": null,
+          "lastname": "LIEBER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "59fb7ea77c459f246b6324b9",
+    "word_count": 1408,
+    "score": 1.0,
+    "uri": "nyt://article/eb843247-db05-530b-a0c6-d654475efeb9"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2017/11/02/business/economy/jerome-powell-federal-reserve-trump.html",
+    "snippet": "President Trump breaks with precedent by picking Jerome H. Powell, a Republican on the Federal Reserve\u2019s board, instead of reappointing Janet Yellen.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/03/us/03dcfed-alpha/03dcfed-alpha-articleLarge.jpg",
+        "height": 400,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2017/11/03/us/03dcfed-alpha/03dcfed-alpha-articleLarge.jpg",
+          "xlargeheight": 400
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/03/us/03dcfed-alpha/03dcfed-alpha-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2017/11/03/us/03dcfed-alpha/03dcfed-alpha-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/03/us/03dcfed-alpha/03dcfed-alpha-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2017/11/03/us/03dcfed-alpha/03dcfed-alpha-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Trump Announces Jerome Powell as New Fed Chairman",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Breaking  Precedent  In Replacing  Fed Leader",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Powell, Jerome H",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Federal Reserve System",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Yellen, Janet L",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Economy",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Trump, Donald J",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Appointments and Executive Changes",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Politics and Government",
+        "rank": 7,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2017-11-02T14:47:32+0000",
+    "document_type": "article",
+    "new_desk": "Washington",
+    "section_name": "Economy",
+    "byline": {
+      "original": "By ANA SWANSON and BINYAMIN APPELBAUM",
+      "person": [
+        {
+          "firstname": "Ana",
+          "middlename": null,
+          "lastname": "SWANSON",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Binyamin",
+          "middlename": null,
+          "lastname": "APPELBAUM",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "59fb30267c459f246b632394",
+    "word_count": 1590,
+    "score": 1.0,
+    "uri": "nyt://article/09122b7b-61a8-5cd0-a881-8bfb25dfdc47"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2017/11/02/us/politics/tax-plan-republicans.html",
+    "snippet": "The bill would cut corporate taxes to 20 percent while delivering more modest savings for middle-class families, but it would not affect 401(k) plans, as many feared.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/03/us/03dc-TAX-1/03dc-TAX-1-articleLarge-v2.jpg",
+        "height": 400,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2017/11/03/us/03dc-TAX-1/03dc-TAX-1-articleLarge-v2.jpg",
+          "xlargeheight": 400
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/03/us/03dc-TAX-1/03dc-TAX-1-thumbWide-v2.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2017/11/03/us/03dc-TAX-1/03dc-TAX-1-thumbWide-v2.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/03/us/03dc-TAX-1/03dc-TAX-1-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2017/11/03/us/03dc-TAX-1/03dc-TAX-1-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Republican Plan Delivers Permanent Corporate Tax Cut",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Tax Plan in House Seeks Broad Cuts, Most for Business",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Federal Taxes (US)",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Tax Credits, Deductions and Exemptions",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Corporate Taxes",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Republican Party",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "House of Representatives",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Senate",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Trump, Donald J",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Politics and Government",
+        "rank": 8,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2017-11-02T13:38:44+0000",
+    "document_type": "article",
+    "new_desk": "Washington",
+    "section_name": "Politics",
+    "byline": {
+      "original": "By JIM TANKERSLEY, THOMAS KAPLAN and ALAN RAPPEPORT",
+      "person": [
+        {
+          "firstname": "Jim",
+          "middlename": null,
+          "lastname": "TANKERSLEY",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Thomas",
+          "middlename": null,
+          "lastname": "KAPLAN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        },
+        {
+          "firstname": "Alan",
+          "middlename": null,
+          "lastname": "RAPPEPORT",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 3
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "59fb1ff67c459f246b632360",
+    "word_count": 1859,
+    "score": 1.0,
+    "uri": "nyt://article/a17a15b4-c04c-5076-9a12-62d8d88a150f"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2017/11/02/business/robert-mercer-renaissance.html",
+    "snippet": "Mr. Mercer has been a leader of Renaissance Technologies and is a benefactor of the former White House adviser Stephen K. Bannon.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/03/business/03MERCER1/03MERCER1-articleLarge.jpg",
+        "height": 400,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2017/11/03/business/03MERCER1/03MERCER1-articleLarge.jpg",
+          "xlargeheight": 400
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/03/business/03MERCER1/03MERCER1-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2017/11/03/business/03MERCER1/03MERCER1-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/03/business/03MERCER1/03MERCER1-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2017/11/03/business/03MERCER1/03MERCER1-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Robert Mercer, Bannon Patron, Is Leaving Helm of $50 Billion Hedge Fund",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Bannon Patron  Yields to Outcry",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Mercer, Robert (1946- )",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Renaissance Technologies",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Hedge Funds",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Appointments and Executive Changes",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Bannon, Stephen K",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Trump, Donald J",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Politics and Government",
+        "rank": 7,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2017-11-02T14:55:12+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By MATTHEW GOLDSTEIN, KATE KELLY and NICHOLAS CONFESSORE",
+      "person": [
+        {
+          "firstname": "Matthew",
+          "middlename": null,
+          "lastname": "GOLDSTEIN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Kate",
+          "middlename": null,
+          "lastname": "KELLY",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        },
+        {
+          "firstname": "Nicholas",
+          "middlename": null,
+          "lastname": "CONFESSORE",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 3
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "59fb31d77c459f246b6323a1",
+    "word_count": 1221,
+    "score": 1.0,
+    "uri": "nyt://article/2340594a-1f9f-5a7a-8005-f90a880740d3"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2017/11/02/us/politics/middle-class-tax-cut-republican-bill.html",
+    "snippet": "The typical family would get a break from the Republican tax plan, but millions could experience tax increases.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/03/us/politics/03dc-middleclass/merlin_124157081_195320c1-0fc9-4dab-a70a-b88dc3e02d49-articleLarge.jpg",
+        "height": 400,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2017/11/03/us/politics/03dc-middleclass/merlin_124157081_195320c1-0fc9-4dab-a70a-b88dc3e02d49-articleLarge.jpg",
+          "xlargeheight": 400
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/03/us/politics/03dc-middleclass/merlin_124157081_195320c1-0fc9-4dab-a70a-b88dc3e02d49-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2017/11/03/us/politics/03dc-middleclass/merlin_124157081_195320c1-0fc9-4dab-a70a-b88dc3e02d49-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/03/us/politics/03dc-middleclass/03dc-middleclass-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2017/11/03/us/politics/03dc-middleclass/03dc-middleclass-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "\u2018Major, Major\u2019 Tax Cut May Not Be in Store for Middle Class",
+      "kicker": "News Analysis",
+      "content_kicker": "News Analysis",
+      "print_headline": "Aid to Middle Class May Be Fleeting",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Tax Credits, Deductions and Exemptions",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Federal Taxes (US)",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Corporate Taxes",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Income Tax",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Republican Party",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "House of Representatives",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Trump, Donald J",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Politics and Government",
+        "rank": 8,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2017-11-02T23:42:10+0000",
+    "document_type": "article",
+    "new_desk": "Washington",
+    "section_name": "Politics",
+    "byline": {
+      "original": "By JIM TANKERSLEY",
+      "person": [
+        {
+          "firstname": "Jim",
+          "middlename": null,
+          "lastname": "TANKERSLEY",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News Analysis",
+    "_id": "59fbad5d7c459f246b63254f",
+    "word_count": 1237,
+    "score": 1.0,
+    "uri": "nyt://article/ecf6e533-c5f2-5625-86c8-e64853434d1d"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2017/11/01/us/politics/trumps-female-accusers-feel-forgotten-a-lawsuit-may-change-that.html",
+    "snippet": "During his campaign, Mr. Trump said the women who accused him of sexual misconduct were liars. A defamation suit could give them a chance to confront him again.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/03/us/03Accusers1/01Accusers1-articleLarge.jpg",
+        "height": 469,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2017/11/03/us/03Accusers1/01Accusers1-articleLarge.jpg",
+          "xlargeheight": 469
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/03/us/03Accusers1/01Accusers1-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2017/11/03/us/03Accusers1/01Accusers1-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/03/us/03Accusers1/01Accusers1-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2017/11/03/us/03Accusers1/01Accusers1-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Trump\u2019s Female Accusers Feel Forgotten. A Lawsuit May Change That.",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Trump Accusers Feel Forgotten, But a Lawsuit May End That",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Sexual Harassment",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Libel and Slander",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Trump, Donald J",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Zervos, Summer",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Suits and Litigation (Civil)",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Politics and Government",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2017-11-02T03:31:22+0000",
+    "document_type": "article",
+    "new_desk": "Investigative",
+    "section_name": "Politics",
+    "byline": {
+      "original": "By MEGAN TWOHEY",
+      "person": [
+        {
+          "firstname": "Megan",
+          "middlename": null,
+          "lastname": "TWOHEY",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "59fa91917c459f246b6321d5",
+    "word_count": 1069,
+    "score": 1.0,
+    "uri": "nyt://article/895e1025-34e7-5cdc-9565-955c02525bdc"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2017/11/01/business/brett-ratner-sexual-harassment.html",
+    "snippet": "Women including the actresses Natasha Henstridge and Olivia Munn have made accusations against Mr. Ratner. His lawyer denied the allegations of inappropriate conduct.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/02/business/02RATNER1/02RATNER1-articleLarge.jpg",
+        "height": 417,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2017/11/02/business/02RATNER1/02RATNER1-articleLarge.jpg",
+          "xlargeheight": 417
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/02/business/02RATNER1/02RATNER1-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2017/11/02/business/02RATNER1/02RATNER1-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/02/business/02RATNER1/02RATNER1-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2017/11/02/business/02RATNER1/02RATNER1-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Brett Ratner, Prominent Producer, Accused of Sexual Misconduct",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Top Producer Faces Harassment Allegations",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Ratner, Brett",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Sexual Harassment",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Sex Crimes",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Henstridge, Natasha",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Munn, Olivia",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Actors and Actresses",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Movies",
+        "rank": 7,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2017-11-02T02:18:10+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By RACHEL ABRAMS",
+      "person": [
+        {
+          "firstname": "Rachel",
+          "middlename": null,
+          "lastname": "ABRAMS",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "59fab7cc7c459f246b632216",
+    "word_count": 1430,
+    "score": 1.0,
+    "uri": "nyt://article/45cdbc0d-4c2a-5dce-a096-b1e653fea02c"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2017/11/02/realestate/parking-spaces-that-could-make-you-rich.html",
+    "snippet": "For steady and reliable income, small investors are increasingly looking to buy parking spaces in cities where parking is limited and pricey.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/05/realestate/05parking1/05parking1-articleLarge.jpg",
+        "height": 400,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2017/11/05/realestate/05parking1/05parking1-articleLarge.jpg",
+          "xlargeheight": 400
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/05/realestate/05parking1/05parking1-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2017/11/05/realestate/05parking1/05parking1-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/05/realestate/05parking1/05parking1-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2017/11/05/realestate/05parking1/05parking1-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Parking Spaces That Could Make You Rich",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Investors Cash In On Parking",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Real Estate and Housing (Residential)",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Renting and Leasing (Real Estate)",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Parking",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Park Slope (Brooklyn, NY)",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Washington (DC)",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2017-11-02T14:00:34+0000",
+    "document_type": "article",
+    "new_desk": "RealEstate",
+    "byline": {
+      "original": "By KATE MURPHY",
+      "person": [
+        {
+          "firstname": "Kate",
+          "middlename": null,
+          "lastname": "MURPHY",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "59fb25167c459f246b632375",
+    "word_count": 1034,
+    "score": 1.0,
+    "uri": "nyt://article/84ee48c8-2f14-5832-914b-36b065583457"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2017/11/02/nyregion/de-blasio-rechnitz-donor-nyc.html",
+    "snippet": "What did prosecutors learn about Mayor Bill de Blasio\u2019s fund-raising activities, before deciding against charges? A major donor offered a glimpse.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/03/nyregion/03BDBDONOR/03BDBDONOR-articleLarge.jpg",
+        "height": 400,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2017/11/03/nyregion/03BDBDONOR/03BDBDONOR-articleLarge.jpg",
+          "xlargeheight": 400
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/03/nyregion/03BDBDONOR/03BDBDONOR-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2017/11/03/nyregion/03BDBDONOR/03BDBDONOR-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/03/nyregion/03BDBDONOR/03BDBDONOR-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2017/11/03/nyregion/03BDBDONOR/03BDBDONOR-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "The Mayor Sought Money, a Donor Sought Access: Both Said \u2018Yes\u2019",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "The Mayor Sought Money, a Donor Sought Access: Both Said \u2018Yes\u2019",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "New York City",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "de Blasio, Bill",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Campaign Finance",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Elections, Mayors",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Gifts to Public Officials",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Bribery and Kickbacks",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Rechnitz, Jona S",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Reichberg, Jeremy (1974- )",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Seabrook, Norman",
+        "rank": 9,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2017-11-02T22:58:06+0000",
+    "document_type": "article",
+    "new_desk": "Metro",
+    "byline": {
+      "original": "By WILLIAM NEUMAN and J. DAVID GOODMAN",
+      "person": [
+        {
+          "firstname": "William",
+          "middlename": null,
+          "lastname": "NEUMAN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "J.",
+          "middlename": "David",
+          "lastname": "GOODMAN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "59fba30d7c459f246b632535",
+    "word_count": 1445,
+    "score": 1.0,
+    "uri": "nyt://article/ca9fa416-9f6e-5774-a320-b8a6a3b33eb9"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2017/11/02/business/britain-economy-rates.html",
+    "snippet": "Britain\u2019s central bank lifted interest rates for the first time in a decade, but also warned of rocky times to come as the country confronts the decision to leave the European Union.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/03/business/03UK-ECON-3/03UK-ECON-3-articleLarge.jpg",
+        "height": 400,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2017/11/03/business/03UK-ECON-3/03UK-ECON-3-articleLarge.jpg",
+          "xlargeheight": 400
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/03/business/03UK-ECON-3/03UK-ECON-3-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2017/11/03/business/03UK-ECON-3/03UK-ECON-3-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/03/business/03UK-ECON-3/03UK-ECON-3-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2017/11/03/business/03UK-ECON-3/03UK-ECON-3-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "In Raising Interest Rates, Bank of England Issues \u2018Brexit\u2019 Warning",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "In Britain,  Bank Issues Rate Raise And Caveat",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "organizations",
+        "value": "Bank of England",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Interest Rates",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Great Britain",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Economic Conditions and Trends",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Credit and Debt",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Great Britain Withdrawal from EU (Brexit)",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Carney, Mark J",
+        "rank": 7,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2017-11-02T12:02:19+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By PETER S. GOODMAN",
+      "person": [
+        {
+          "firstname": "Peter",
+          "middlename": "S.",
+          "lastname": "GOODMAN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "59fb09567c459f246b63230f",
+    "word_count": 1198,
+    "score": 1.0,
+    "uri": "nyt://article/c914f1c9-c24d-5868-899e-5fdce5873db3"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2017/11/02/business/ge-corporate-jets.html",
+    "snippet": "General Electric\u2019s use of one plane to trail another has raised questions about excess, and lack of oversight, at a company whose share price continues to slide.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/04/business/03stewart/03stewart-articleLarge.jpg",
+        "height": 600,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2017/11/04/business/03stewart/03stewart-articleLarge.jpg",
+          "xlargeheight": 600
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/04/business/03stewart/03stewart-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2017/11/04/business/03stewart/03stewart-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/04/business/03stewart/03stewart-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2017/11/04/business/03stewart/03stewart-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Metaphor for G.E.\u2019s Ills: A Corporate Jet With No Passengers",
+      "kicker": "Common Sense",
+      "content_kicker": "Common Sense",
+      "print_headline": "A Corporate Jet  With No Passengers",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "organizations",
+        "value": "General Electric Company",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Immelt, Jeffrey R",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Private Aircraft",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Appointments and Executive Changes",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Flannery, John L",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Shareholder Rights and Activism",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2017-11-02T18:23:55+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By JAMES B. STEWART",
+      "person": [
+        {
+          "firstname": "James",
+          "middlename": null,
+          "lastname": null,
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "59fb62e17c459f246b632465",
+    "word_count": 1468,
+    "score": 1.0,
+    "uri": "nyt://article/1df40b79-f575-5400-bb8b-ae5a79596f2e"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2017/11/02/fashion/watches-salon-qp-london.html",
+    "snippet": "Events like Salon QP in London, which once drew large brands and independents alike, now see exhibitor numbers falling as focus on retail locations grows.",
+    "print_page": "1",
+    "blog": {},
+    "source": "International New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/02/style/02SALONQP-INYT1/02SALONQP-INYT1-articleLarge.jpg",
+        "height": 400,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2017/11/02/style/02SALONQP-INYT1/02SALONQP-INYT1-articleLarge.jpg",
+          "xlargeheight": 400
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/02/style/02SALONQP-INYT1/02SALONQP-INYT1-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2017/11/02/style/02SALONQP-INYT1/02SALONQP-INYT1-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/02/style/02SALONQP-INYT1/02SALONQP-INYT1-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2017/11/02/style/02SALONQP-INYT1/02SALONQP-INYT1-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Watch Brands Are Thinking Twice About Going to the Fair",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Brands think twice  about going to the fair",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Conventions, Fairs and Trade Shows",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Watches and Clocks",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Daily Telegraph",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "London (England)",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Saatchi Gallery",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2017-11-02T15:08:32+0000",
+    "document_type": "article",
+    "new_desk": "Styles",
+    "byline": {
+      "original": "By ROBIN SWITHINBANK",
+      "person": [
+        {
+          "firstname": "Robin",
+          "middlename": null,
+          "lastname": "SWITHINBANK",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "59fb34fc7c459f246b6323ac",
+    "word_count": 1013,
+    "score": 1.0,
+    "uri": "nyt://article/45c0f900-f03f-5460-bc71-a3b3844894ed"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2017/11/02/business/vietnam-eu-trade-abduction.html",
+    "snippet": "Wary of China\u2019s heft, Vietnam\u2019s authoritarian government scrambles to strike alliances with nations that are sometimes uneasy with its views on rights.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/03/business/03VIETNAMTRADE-1/03VIETNAMTRADE-1-articleLarge.jpg",
+        "height": 400,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2017/11/03/business/03VIETNAMTRADE-1/03VIETNAMTRADE-1-articleLarge.jpg",
+          "xlargeheight": 400
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/03/business/03VIETNAMTRADE-1/03VIETNAMTRADE-1-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2017/11/03/business/03VIETNAMTRADE-1/03VIETNAMTRADE-1-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/03/business/03VIETNAMTRADE-1/03VIETNAMTRADE-1-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2017/11/03/business/03VIETNAMTRADE-1/03VIETNAMTRADE-1-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "A Disappearance in Berlin Clouds a Trade Deal in Vietnam",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Abduction Complicates A Trade Deal for Vietnam",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Vietnam",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Germany",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Thanh, Trinh Xuan",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Kidnapping and Hostages",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "International Trade and World Market",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Human Rights and Human Rights Violations",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Europe",
+        "rank": 7,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2017-11-02T06:21:01+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By MIKE IVES",
+      "person": [
+        {
+          "firstname": "Mike",
+          "middlename": null,
+          "lastname": "IVES",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "59fab9577c459f246b632217",
+    "word_count": 1139,
+    "score": 1.0,
+    "uri": "nyt://article/8993f7f2-4d7c-5bd6-ab9a-4514ed5941ae"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2017/11/01/nyregion/sayfullo-saipov-truck-attack-manhattan.html",
+    "snippet": "The man charged in the Manhattan truck attack won the immigration lottery when he came to the United States in 2010. But a life of disappointments awakened \u201cmonsters inside.\u201d",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/02/us/politics/AnsemSHOOTING020/AnsemSHOOTING020-articleLarge.jpg",
+        "height": 400,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2017/11/02/us/politics/AnsemSHOOTING020/AnsemSHOOTING020-articleLarge.jpg",
+          "xlargeheight": 400
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/02/us/politics/AnsemSHOOTING020/AnsemSHOOTING020-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2017/11/02/us/politics/AnsemSHOOTING020/AnsemSHOOTING020-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/02/us/politics/AnsemSHOOTING020/AnsemSHOOTING020-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2017/11/02/us/politics/AnsemSHOOTING020/AnsemSHOOTING020-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Finding a Rootless Life in U.S., Sayfullo Saipov Turned to Radicalism",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "\u2018Monsters\u2019 Fed Rage in Wanderer",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Manhattan, NY, Attack (October, 2017)",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Saipov, Sayfullo",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Muslims and Islam",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Terrorism",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2017-11-02T00:47:05+0000",
+    "document_type": "article",
+    "new_desk": "Metro",
+    "byline": {
+      "original": "By KIM BARKER, JOSEPH GOLDSTEIN and MICHAEL SCHWIRTZ",
+      "person": [
+        {
+          "firstname": "Kim",
+          "middlename": null,
+          "lastname": "BARKER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Joseph",
+          "middlename": null,
+          "lastname": "GOLDSTEIN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        },
+        {
+          "firstname": "Michael",
+          "middlename": null,
+          "lastname": "SCHWIRTZ",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 3
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "59fa6b147c459f246b6321a6",
+    "word_count": 1336,
+    "score": 1.0,
+    "uri": "nyt://article/bcdee251-8662-511a-9244-10f5d14396b3"
+  }
+]

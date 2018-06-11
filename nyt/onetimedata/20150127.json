@@ -1,0 +1,1213 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2015/01/27/world/middleeast/saudi-succession-hinting-at-shift-in-foreign-role.html",
+    "snippet": "Prince Mohammed bin Nayef, the new deputy crown prince, embodies Saudi Arabia\u2019s shift to a more assertive foreign policy, analysts say.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2015/01/27/world/JP-SUCCESSION/JP-SUCCESSION-articleLarge.jpg",
+        "height": 414,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2015/01/27/world/JP-SUCCESSION/JP-SUCCESSION-articleLarge.jpg",
+          "xlargeheight": 414
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2015/01/27/world/JP-SUCCESSION/JP-SUCCESSION-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2015/01/27/world/JP-SUCCESSION/JP-SUCCESSION-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2015/01/27/world/JP-SUCCESSION/JP-SUCCESSION-thumbStandard-v2.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2015/01/27/world/JP-SUCCESSION/JP-SUCCESSION-thumbStandard-v2.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Saudi Succession Hints at Shift in Foreign Role",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Saudi Succession Hinting at Shift in Foreign Role",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Saudi Arabia",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Mohammed bin Nayef",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Salman, King of Saudi Arabia",
+        "rank": 3,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2015-01-27T02:22:38+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Middle East",
+    "byline": {
+      "original": "By BEN HUBBARD and DAVID D. KIRKPATRICK",
+      "person": [
+        {
+          "firstname": "Ben",
+          "middlename": null,
+          "lastname": "HUBBARD",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "David",
+          "middlename": null,
+          "lastname": null,
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "54c6f66c38f0d834f79db121",
+    "word_count": 1517,
+    "score": 1.0,
+    "uri": "nyt://article/58613bb1-8329-5951-9667-dd962d66a3f5"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2015/01/28/us/obama-plan-calls-for-oil-and-gas-drilling-in-the-atlantic.html",
+    "snippet": "The Obama administration moved Tuesday to open up a vast stretch of East Coast waters to oil and gas drilling.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "Obama\u2019s Plan: Allow Drilling in Atlantic, but Limit It in Arctic",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "President Seeks Oil Exploration Off East Coast",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Offshore Drilling and Exploration",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Atlantic Ocean",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Arctic Ocean",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Oil (Petroleum) and Gasoline",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Natural Gas",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Beaufort Sea",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Interior Department",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Chukchi Sea",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Politics and Government",
+        "rank": 9,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Obama, Barack",
+        "rank": 10,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "McCrory, Pat",
+        "rank": 11,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "North Carolina",
+        "rank": 12,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "South Carolina",
+        "rank": 13,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Virginia",
+        "rank": 14,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Georgia",
+        "rank": 15,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2015-01-27T18:15:29+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "byline": {
+      "original": "By CORAL DAVENPORT",
+      "person": [
+        {
+          "firstname": "Coral",
+          "middlename": null,
+          "lastname": "DAVENPORT",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "54c7d5bf38f0d8026925efeb",
+    "word_count": 1203,
+    "score": 1.0,
+    "uri": "nyt://article/6b1c5227-636c-55dd-8909-b0912181a57f"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2015/01/28/movies/timbuktu-an-abderrahmane-sissako-film-about-radical-islam.html",
+    "snippet": "An unflinching exploration of jihadists is the focus of Abderrahmane Sissako&#8217;s film &#8220;Timbuktu.&#8221;",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2015/01/28/arts/TIMBUKTU/TIMBUKTU-articleLarge.jpg",
+        "height": 253,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2015/01/28/arts/TIMBUKTU/TIMBUKTU-articleLarge.jpg",
+          "xlargeheight": 253
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2015/01/28/arts/TIMBUKTU/TIMBUKTU-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2015/01/28/arts/TIMBUKTU/TIMBUKTU-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2015/01/28/arts/TIMBUKTU/TIMBUKTU-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2015/01/28/arts/TIMBUKTU/TIMBUKTU-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "A Fury Arrives. Hypocrisy, Too. ",
+      "kicker": "Movie Review",
+      "content_kicker": "Movie Review",
+      "print_headline": "A Fury Arrives. Hypocrisy, Too.",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Movies",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Sissako, Abderrahmane",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "creative_works",
+        "value": "Timbuktu (Movie)",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Kiki, Toulou",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2015-01-27T21:53:38+0000",
+    "document_type": "article",
+    "new_desk": "Culture",
+    "byline": {
+      "original": "By A. O. SCOTT",
+      "person": [
+        {
+          "firstname": "A.",
+          "middlename": "O.",
+          "lastname": "SCOTT",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "Review",
+    "_id": "54c808de38f0d8026925f0a1",
+    "word_count": 997,
+    "score": 1.0,
+    "uri": "nyt://article/e4609ce1-6db2-50bf-8dbf-9501d3a66dd0"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2015/01/28/technology/yahoo-earnings-alibaba-spinoff.html",
+    "snippet": "Shedding its 15 percent stake in the Chinese e-commerce site turns the spotlight to Yahoo&#8217;s plans to revamp its core Internet advertising business.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2015/01/28/business/28YAHOO/28YAHOO-articleLarge.jpg",
+        "height": 421,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2015/01/28/business/28YAHOO/28YAHOO-articleLarge.jpg",
+          "xlargeheight": 421
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2015/01/28/business/28YAHOO/28YAHOO-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2015/01/28/business/28YAHOO/28YAHOO-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2015/01/28/business/28YAHOO/28YAHOO-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2015/01/28/business/28YAHOO/28YAHOO-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Yahoo to Spin Off Its Stake in Alibaba",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Yahoo to Spin Off Its Stake in Alibaba",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "organizations",
+        "value": "Yahoo! Inc",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Company Reports",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Alibaba Group Holding Ltd",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Mergers, Acquisitions and Divestitures",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2015-01-27T21:29:39+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By VINDU GOEL and MICHAEL J. de la MERCED",
+      "person": [
+        {
+          "firstname": "Vindu",
+          "middlename": null,
+          "lastname": "GOEL",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Michael",
+          "middlename": "J.",
+          "lastname": "de la MERCED",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "54c8034338f0d8026925f089",
+    "word_count": 996,
+    "score": 1.0,
+    "uri": "nyt://article/da1683bc-cf14-5c3b-a3c4-d3613794c68b"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2015/01/28/nyregion/sheldon-silver-to-be-replaced-as-speaker-of-new-york-state-assembly.html",
+    "snippet": "Facing federal corruption charges, Mr. Silver will be replaced on an interim basis by Joseph D. Morelle, the majority leader. An election for a permanent replacement will be held Feb. 10.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2015/01/28/nyregion/SILVERweb1/SILVERweb1-articleLarge.jpg",
+        "height": 400,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2015/01/28/nyregion/SILVERweb1/SILVERweb1-articleLarge.jpg",
+          "xlargeheight": 400
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2015/01/28/nyregion/SILVERweb1/SILVERweb1-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2015/01/28/nyregion/SILVERweb1/SILVERweb1-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2015/01/28/nyregion/SILVERweb1/SILVERweb1-thumbStandard-v2.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2015/01/28/nyregion/SILVERweb1/SILVERweb1-thumbStandard-v2.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Sheldon Silver to Be Replaced as Speaker of New York State Assembly",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Facing Charges, Assembly Chief Is to Lose Post",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Silver, Sheldon",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "New York State",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Morelle, Joseph D",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "State Legislatures",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Democratic Party",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Heastie, Carl E",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Lentol, Joseph R",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Nolan, Catherine",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Wright, Keith L T",
+        "rank": 9,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2015-01-27T18:47:21+0000",
+    "document_type": "article",
+    "new_desk": "Metro",
+    "byline": {
+      "original": "By JESSE McKINLEY, THOMAS KAPLAN and SUSANNE CRAIG",
+      "person": [
+        {
+          "firstname": "Jesse",
+          "middlename": null,
+          "lastname": "McKINLEY",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Thomas",
+          "middlename": null,
+          "lastname": "KAPLAN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        },
+        {
+          "firstname": "Susanne",
+          "middlename": null,
+          "lastname": "CRAIG",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 3
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "54c7dd3638f0d8026925f001",
+    "word_count": 1121,
+    "score": 1.0,
+    "uri": "nyt://article/b0f8eb5c-b27f-5624-906a-b22e04b18cff"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2015/01/28/nyregion/new-york-blizzard.html",
+    "snippet": "After the storm largely spared New York City, officials were left to defend the decision to effectively close it down Monday night.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2015/01/28/nyregion/jpNYSTORM4/jpNYSTORM4-articleLarge.jpg",
+        "height": 388,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2015/01/28/nyregion/jpNYSTORM4/jpNYSTORM4-articleLarge.jpg",
+          "xlargeheight": 388
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2015/01/28/nyregion/jpNYSTORM4/jpNYSTORM4-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2015/01/28/nyregion/jpNYSTORM4/jpNYSTORM4-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2015/01/28/nyregion/jpNYSTORM4/jpNYSTORM4-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2015/01/28/nyregion/jpNYSTORM4/jpNYSTORM4-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Leaders in New York and New Jersey Defend Shutdown for a Blizzard That Wasn\u2019t",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Leaders Defend Shutdown for a Blizzard That Wasn\u2019t",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Snow and Snowstorms",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Northeastern States (US)",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Delays (Transportation)",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "New York City",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "de Blasio, Bill",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Cuomo, Andrew M",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2015-01-27T10:32:19+0000",
+    "document_type": "article",
+    "new_desk": "Metro",
+    "byline": {
+      "original": "By MATT FLEGENHEIMER",
+      "person": [
+        {
+          "firstname": "Matt",
+          "middlename": null,
+          "lastname": "FLEGENHEIMER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "54c7693238f0d834f79db241",
+    "word_count": 1249,
+    "score": 1.0,
+    "uri": "nyt://article/0f334717-e706-5f5e-a4b0-469ae2e404c0"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2015/01/28/us/politics/obama-will-drop-proposal-to-end-529-college-savings-plans.html",
+    "snippet": "The president, facing pressure from both parties, dropped from his budget a proposal to effectively end college savings accounts known as 529s.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2015/01/28/us/28COLLEGEweb/28COLLEGEweb-articleLarge.jpg",
+        "height": 421,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2015/01/28/us/28COLLEGEweb/28COLLEGEweb-articleLarge.jpg",
+          "xlargeheight": 421
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2015/01/28/us/28COLLEGEweb/28COLLEGEweb-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2015/01/28/us/28COLLEGEweb/28COLLEGEweb-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Obama Relents on Proposal to End \u2018529\u2019 College Savings Plans",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Obama Relents on Plan to Alter College Savings",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Colleges and Universities",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Savings",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Tax Credits, Deductions and Exemptions",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Tuition",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Obama, Barack",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "House of Representatives",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Boehner, John A",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Pelosi, Nancy",
+        "rank": 8,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2015-01-27T22:01:23+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "section_name": "Politics",
+    "byline": {
+      "original": "By JONATHAN WEISMAN",
+      "person": [
+        {
+          "firstname": "Jonathan",
+          "middlename": null,
+          "lastname": "WEISMAN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "54c80ab238f0d8026925f0aa",
+    "word_count": 1182,
+    "score": 1.0,
+    "uri": "nyt://article/074f170e-ca96-5215-bd3e-4a05099fbd8f"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2015/01/28/us/politics/as-in-2012-romney-can-do-no-right-in-murdochs-eyes.html",
+    "snippet": "As Mitt Romney considers a 2016 presidential run, he again finds ill will instead of favor from Rupert Murdoch, a reality that has pained and angered Mr. Romney&#8217;s allies.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2015/01/28/us/28murdoch2web/28murdoch2web-articleLarge.jpg",
+        "height": 400,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2015/01/28/us/28murdoch2web/28murdoch2web-articleLarge.jpg",
+          "xlargeheight": 400
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2015/01/28/us/28murdoch2web/28murdoch2web-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2015/01/28/us/28murdoch2web/28murdoch2web-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2015/01/28/us/28murdoch2web/28murdoch2web-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2015/01/28/us/28murdoch2web/28murdoch2web-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Again for Murdoch, Romney Can Do No Right ",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Again for Murdoch, Romney Can Do No Right",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Romney, Mitt",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Murdoch, Rupert",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Presidential Election of 2016",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "News and News Media",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "News Corporation",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2015-01-27T16:00:15+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "section_name": "Politics",
+    "byline": {
+      "original": "By AMY CHOZICK and MICHAEL BARBARO",
+      "person": [
+        {
+          "firstname": "Amy",
+          "middlename": null,
+          "lastname": "CHOZICK",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Michael",
+          "middlename": null,
+          "lastname": "BARBARO",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "54c7b60b38f0d834f79db342",
+    "word_count": 1339,
+    "score": 1.0,
+    "uri": "nyt://article/e69b2157-ba1e-595b-9256-14612b94ec41"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2015/01/28/dining/a-food-sisterhood-flourishes-in-north-carolina.html",
+    "snippet": "Women are prominent in every part of the state&#8217;s food operation, from farms to restaurants.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2015/01/28/dining/20150128-CAROLINA-slide-OUFW/20150128-CAROLINA-slide-OUFW-articleLarge.jpg",
+        "height": 400,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2015/01/28/dining/20150128-CAROLINA-slide-OUFW/20150128-CAROLINA-slide-OUFW-articleLarge.jpg",
+          "xlargeheight": 400
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2015/01/28/dining/20150128-CAROLINA-slide-OUFW/20150128-CAROLINA-slide-OUFW-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2015/01/28/dining/20150128-CAROLINA-slide-OUFW/20150128-CAROLINA-slide-OUFW-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2015/01/28/dining/20150128-CAROLINA-slide-OUFW/20150128-CAROLINA-slide-OUFW-thumbStandard-v2.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2015/01/28/dining/20150128-CAROLINA-slide-OUFW/20150128-CAROLINA-slide-OUFW-thumbStandard-v2.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "The North Carolina Way",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "The North Carolina Way",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "North Carolina",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Food",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Women and Girls",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Restaurants",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Agriculture and Farming",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Meat",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Farmers' Markets",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Chefs",
+        "rank": 8,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2015-01-27T17:53:35+0000",
+    "document_type": "article",
+    "new_desk": "Dining",
+    "byline": {
+      "original": "By KIM SEVERSON",
+      "person": [
+        {
+          "firstname": "Kim",
+          "middlename": null,
+          "lastname": "SEVERSON",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "54c7d09a38f0d8026925efd4",
+    "word_count": 1778,
+    "score": 1.0,
+    "uri": "nyt://article/f2edf669-dd70-523d-8c32-266eb7cb60f5"
+  }
+]

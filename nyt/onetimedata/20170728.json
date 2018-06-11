@@ -1,0 +1,2805 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2017/07/28/opinion/sunday/trump-tillerson-state-department-diplomats.html",
+    "snippet": "Why is Trump hollowing out the State Department?",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/07/30/opinion/sunday/30cohen/30cohen-articleLarge.jpg",
+        "height": 600,
+        "width": 600,
+        "legacy": {
+          "xlarge": "images/2017/07/30/opinion/sunday/30cohen/30cohen-articleLarge.jpg",
+          "xlargewidth": 600,
+          "xlargeheight": 600
+        },
+        "subType": "xlarge",
+        "crop_name": "articleLarge"
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/07/30/opinion/sunday/30cohen/30cohen-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2017/07/30/opinion/sunday/30cohen/30cohen-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": "thumbWide"
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/07/30/opinion/sunday/30cohen/30cohen-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnail": "images/2017/07/30/opinion/sunday/30cohen/30cohen-thumbStandard.jpg",
+          "thumbnailwidth": 75,
+          "thumbnailheight": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": "thumbStandard"
+      },
+      {
+        "rank": 0,
+        "subtype": "articleInline",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/07/30/opinion/sunday/30cohen/30cohen-articleInline.jpg",
+        "height": 190,
+        "width": 190,
+        "legacy": {},
+        "subType": "articleInline",
+        "crop_name": "articleInline"
+      },
+      {
+        "rank": 0,
+        "subtype": "blog225",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/07/30/opinion/sunday/30cohen/30cohen-blog225.jpg",
+        "height": 225,
+        "width": 225,
+        "legacy": {},
+        "subType": "blog225",
+        "crop_name": "blog225"
+      },
+      {
+        "rank": 0,
+        "subtype": "blog427",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/07/30/opinion/sunday/30cohen/30cohen-blog427.jpg",
+        "height": 427,
+        "width": 427,
+        "legacy": {},
+        "subType": "blog427",
+        "crop_name": "blog427"
+      },
+      {
+        "rank": 0,
+        "subtype": "blog480",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/07/30/opinion/sunday/30cohen/30cohen-blog480.jpg",
+        "height": 480,
+        "width": 480,
+        "legacy": {},
+        "subType": "blog480",
+        "crop_name": "blog480"
+      },
+      {
+        "rank": 0,
+        "subtype": "blog533",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/07/30/opinion/sunday/30cohen/30cohen-blog533.jpg",
+        "height": 533,
+        "width": 533,
+        "legacy": {},
+        "subType": "blog533",
+        "crop_name": "blog533"
+      },
+      {
+        "rank": 0,
+        "subtype": "blogSmallInline",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/07/30/opinion/sunday/30cohen/30cohen-blogSmallInline.jpg",
+        "height": 151,
+        "width": 151,
+        "legacy": {},
+        "subType": "blogSmallInline",
+        "crop_name": "blogSmallInline"
+      },
+      {
+        "rank": 0,
+        "subtype": "blogSmallThumb",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/07/30/opinion/sunday/30cohen/30cohen-blogSmallThumb.jpg",
+        "height": 50,
+        "width": 50,
+        "legacy": {},
+        "subType": "blogSmallThumb",
+        "crop_name": "blogSmallThumb"
+      },
+      {
+        "rank": 0,
+        "subtype": "facebookJumbo",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/07/30/opinion/sunday/30cohen/30cohen-facebookJumbo.jpg",
+        "height": 550,
+        "width": 1050,
+        "legacy": {},
+        "subType": "facebookJumbo",
+        "crop_name": "facebookJumbo"
+      },
+      {
+        "rank": 0,
+        "subtype": "filmstrip",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/07/30/opinion/sunday/30cohen/30cohen-filmstrip.jpg",
+        "height": 190,
+        "width": 190,
+        "legacy": {},
+        "subType": "filmstrip",
+        "crop_name": "filmstrip"
+      },
+      {
+        "rank": 0,
+        "subtype": "hpLarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/07/30/opinion/sunday/30cohen/30cohen-hpLarge.jpg",
+        "height": 287,
+        "width": 511,
+        "legacy": {},
+        "subType": "hpLarge",
+        "crop_name": "hpLarge"
+      },
+      {
+        "rank": 0,
+        "subtype": "hpSmall",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/07/30/opinion/sunday/30cohen/30cohen-hpSmall.jpg",
+        "height": 163,
+        "width": 163,
+        "legacy": {},
+        "subType": "hpSmall",
+        "crop_name": "hpSmall"
+      },
+      {
+        "rank": 0,
+        "subtype": "jumbo",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/07/30/opinion/sunday/30cohen/30cohen-jumbo.jpg",
+        "height": 1024,
+        "width": 1024,
+        "legacy": {},
+        "subType": "jumbo",
+        "crop_name": "jumbo"
+      },
+      {
+        "rank": 0,
+        "subtype": "largeHorizontal375",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/07/30/opinion/sunday/30cohen/30cohen-largeHorizontal375.jpg",
+        "height": 250,
+        "width": 375,
+        "legacy": {},
+        "subType": "largeHorizontal375",
+        "crop_name": "largeHorizontal375"
+      },
+      {
+        "rank": 0,
+        "subtype": "largeHorizontalJumbo",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/07/30/opinion/sunday/30cohen/30cohen-largeHorizontalJumbo.jpg",
+        "height": 683,
+        "width": 1024,
+        "legacy": {},
+        "subType": "largeHorizontalJumbo",
+        "crop_name": "largeHorizontalJumbo"
+      },
+      {
+        "rank": 0,
+        "subtype": "largeWidescreen573",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/07/30/opinion/sunday/30cohen/30cohen-largeWidescreen573.jpg",
+        "height": 322,
+        "width": 573,
+        "legacy": {},
+        "subType": "largeWidescreen573",
+        "crop_name": "largeWidescreen573"
+      },
+      {
+        "rank": 0,
+        "subtype": "largeWidescreen1050",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/07/30/opinion/sunday/30cohen/30cohen-largeWidescreen1050.jpg",
+        "height": 591,
+        "width": 1050,
+        "legacy": {},
+        "subType": "largeWidescreen1050",
+        "crop_name": "largeWidescreen1050"
+      },
+      {
+        "rank": 0,
+        "subtype": "master1050",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/07/30/opinion/sunday/30cohen/30cohen-master1050.jpg",
+        "height": 1050,
+        "width": 1050,
+        "legacy": {},
+        "subType": "master1050",
+        "crop_name": "master1050"
+      },
+      {
+        "rank": 0,
+        "subtype": "master180",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/07/30/opinion/sunday/30cohen/30cohen-master180.jpg",
+        "height": 180,
+        "width": 180,
+        "legacy": {},
+        "subType": "master180",
+        "crop_name": "master180"
+      },
+      {
+        "rank": 0,
+        "subtype": "master315",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/07/30/opinion/sunday/30cohen/30cohen-master315.jpg",
+        "height": 315,
+        "width": 315,
+        "legacy": {},
+        "subType": "master315",
+        "crop_name": "master315"
+      },
+      {
+        "rank": 0,
+        "subtype": "master495",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/07/30/opinion/sunday/30cohen/30cohen-master495.jpg",
+        "height": 495,
+        "width": 495,
+        "legacy": {},
+        "subType": "master495",
+        "crop_name": "master495"
+      },
+      {
+        "rank": 0,
+        "subtype": "master768",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/07/30/opinion/sunday/30cohen/30cohen-master768.jpg",
+        "height": 768,
+        "width": 768,
+        "legacy": {},
+        "subType": "master768",
+        "crop_name": "master768"
+      },
+      {
+        "rank": 0,
+        "subtype": "master675",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/07/30/opinion/sunday/30cohen/30cohen-master675.jpg",
+        "height": 675,
+        "width": 675,
+        "legacy": {},
+        "subType": "master675",
+        "crop_name": "master675"
+      },
+      {
+        "rank": 0,
+        "subtype": "mediumFlexible177",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/07/30/opinion/sunday/30cohen/30cohen-mediumFlexible177.jpg",
+        "height": 177,
+        "width": 177,
+        "legacy": {},
+        "subType": "mediumFlexible177",
+        "crop_name": "mediumFlexible177"
+      },
+      {
+        "rank": 0,
+        "subtype": "mediumSquare149",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/07/30/opinion/sunday/30cohen/30cohen-mediumSquare149.jpg",
+        "height": 149,
+        "width": 149,
+        "legacy": {},
+        "subType": "mediumSquare149",
+        "crop_name": "mediumSquare149"
+      },
+      {
+        "rank": 0,
+        "subtype": "mediumThreeByTwo210",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/07/30/opinion/sunday/30cohen/30cohen-mediumThreeByTwo210.jpg",
+        "height": 140,
+        "width": 210,
+        "legacy": {},
+        "subType": "mediumThreeByTwo210",
+        "crop_name": "mediumThreeByTwo210"
+      },
+      {
+        "rank": 0,
+        "subtype": "mediumThreeByTwo225",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/07/30/opinion/sunday/30cohen/30cohen-mediumThreeByTwo225.jpg",
+        "height": 150,
+        "width": 225,
+        "legacy": {},
+        "subType": "mediumThreeByTwo225",
+        "crop_name": "mediumThreeByTwo225"
+      },
+      {
+        "rank": 0,
+        "subtype": "mediumThreeByTwo440",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/07/30/opinion/sunday/30cohen/30cohen-mediumThreeByTwo440.jpg",
+        "height": 293,
+        "width": 440,
+        "legacy": {},
+        "subType": "mediumThreeByTwo440",
+        "crop_name": "mediumThreeByTwo440"
+      },
+      {
+        "rank": 0,
+        "subtype": "mediumThreeByTwo378",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/07/30/opinion/sunday/30cohen/30cohen-mediumThreeByTwo378.jpg",
+        "height": 252,
+        "width": 378,
+        "legacy": {},
+        "subType": "mediumThreeByTwo378",
+        "crop_name": "mediumThreeByTwo378"
+      },
+      {
+        "rank": 0,
+        "subtype": "mediumThreeByTwo252",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/07/30/opinion/sunday/30cohen/30cohen-mediumThreeByTwo252.jpg",
+        "height": 168,
+        "width": 252,
+        "legacy": {},
+        "subType": "mediumThreeByTwo252",
+        "crop_name": "mediumThreeByTwo252"
+      },
+      {
+        "rank": 0,
+        "subtype": "miniMoth",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/07/30/opinion/sunday/30cohen/30cohen-miniMoth.jpg",
+        "height": 70,
+        "width": 151,
+        "legacy": {},
+        "subType": "miniMoth",
+        "crop_name": "miniMoth"
+      },
+      {
+        "rank": 0,
+        "subtype": "moth",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/07/30/opinion/sunday/30cohen/30cohen-moth.jpg",
+        "height": 151,
+        "width": 151,
+        "legacy": {},
+        "subType": "moth",
+        "crop_name": "moth"
+      },
+      {
+        "rank": 0,
+        "subtype": "popup",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/07/30/opinion/sunday/30cohen/30cohen-popup.jpg",
+        "height": 500,
+        "width": 500,
+        "legacy": {},
+        "subType": "popup",
+        "crop_name": "popup"
+      },
+      {
+        "rank": 0,
+        "subtype": "sfSpan",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/07/30/opinion/sunday/30cohen/30cohen-sfSpan.jpg",
+        "height": 263,
+        "width": 395,
+        "legacy": {},
+        "subType": "sfSpan",
+        "crop_name": "sfSpan"
+      },
+      {
+        "rank": 0,
+        "subtype": "slide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/07/30/opinion/sunday/30cohen/30cohen-slide.jpg",
+        "height": 500,
+        "width": 500,
+        "legacy": {},
+        "subType": "slide",
+        "crop_name": "slide"
+      },
+      {
+        "rank": 0,
+        "subtype": "smallSquare168",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/07/30/opinion/sunday/30cohen/30cohen-smallSquare168.jpg",
+        "height": 168,
+        "width": 168,
+        "legacy": {},
+        "subType": "smallSquare168",
+        "crop_name": "smallSquare168"
+      },
+      {
+        "rank": 0,
+        "subtype": "smallSquare252",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/07/30/opinion/sunday/30cohen/30cohen-smallSquare252.jpg",
+        "height": 252,
+        "width": 252,
+        "legacy": {},
+        "subType": "smallSquare252",
+        "crop_name": "smallSquare252"
+      },
+      {
+        "rank": 0,
+        "subtype": "square320",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/07/30/opinion/sunday/30cohen/30cohen-square320.jpg",
+        "height": 320,
+        "width": 320,
+        "legacy": {},
+        "subType": "square320",
+        "crop_name": "square320"
+      },
+      {
+        "rank": 0,
+        "subtype": "square640",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/07/30/opinion/sunday/30cohen/30cohen-square640.jpg",
+        "height": 640,
+        "width": 640,
+        "legacy": {},
+        "subType": "square640",
+        "crop_name": "square640"
+      },
+      {
+        "rank": 0,
+        "subtype": "superJumbo",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/07/30/opinion/sunday/30cohen/30cohen-superJumbo.jpg",
+        "height": 2048,
+        "width": 2048,
+        "legacy": {},
+        "subType": "superJumbo",
+        "crop_name": "superJumbo"
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbLarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/07/30/opinion/sunday/30cohen/30cohen-thumbLarge.jpg",
+        "height": 150,
+        "width": 150,
+        "legacy": {},
+        "subType": "thumbLarge",
+        "crop_name": "thumbLarge"
+      },
+      {
+        "rank": 0,
+        "subtype": "tmagArticle",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/07/30/opinion/sunday/30cohen/30cohen-tmagArticle.jpg",
+        "height": 592,
+        "width": 592,
+        "legacy": {},
+        "subType": "tmagArticle",
+        "crop_name": "tmagArticle"
+      },
+      {
+        "rank": 0,
+        "subtype": "tmagSF",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/07/30/opinion/sunday/30cohen/30cohen-tmagSF.jpg",
+        "height": 362,
+        "width": 362,
+        "legacy": {},
+        "subType": "tmagSF",
+        "crop_name": "tmagSF"
+      },
+      {
+        "rank": 0,
+        "subtype": "verticalTwoByThree735",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/07/30/opinion/sunday/30cohen/30cohen-verticalTwoByThree735.jpg",
+        "height": 1103,
+        "width": 735,
+        "legacy": {},
+        "subType": "verticalTwoByThree735",
+        "crop_name": "verticalTwoByThree735"
+      },
+      {
+        "rank": 0,
+        "subtype": "videoFifteenBySeven1305",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/07/30/opinion/sunday/30cohen/30cohen-videoFifteenBySeven1305.jpg",
+        "height": 609,
+        "width": 1305,
+        "legacy": {},
+        "subType": "videoFifteenBySeven1305",
+        "crop_name": "videoFifteenBySeven1305"
+      },
+      {
+        "rank": 0,
+        "subtype": "videoFifteenBySeven2610",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/07/30/opinion/sunday/30cohen/30cohen-videoFifteenBySeven2610.jpg",
+        "height": 1218,
+        "width": 2610,
+        "legacy": {},
+        "subType": "videoFifteenBySeven2610",
+        "crop_name": "videoFifteenBySeven2610"
+      },
+      {
+        "rank": 0,
+        "subtype": "videoHpMedium",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/07/30/opinion/sunday/30cohen/30cohen-videoHpMedium.jpg",
+        "height": 211,
+        "width": 375,
+        "legacy": {},
+        "subType": "videoHpMedium",
+        "crop_name": "videoHpMedium"
+      },
+      {
+        "rank": 0,
+        "subtype": "videoLarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/07/30/opinion/sunday/30cohen/30cohen-videoLarge.jpg",
+        "height": 507,
+        "width": 768,
+        "legacy": {},
+        "subType": "videoLarge",
+        "crop_name": "videoLarge"
+      },
+      {
+        "rank": 0,
+        "subtype": "videoSixteenByNine1050",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/07/30/opinion/sunday/30cohen/30cohen-videoSixteenByNine1050.jpg",
+        "height": 591,
+        "width": 1050,
+        "legacy": {},
+        "subType": "videoSixteenByNine1050",
+        "crop_name": "videoSixteenByNine1050"
+      },
+      {
+        "rank": 0,
+        "subtype": "videoSixteenByNine150",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/07/30/opinion/sunday/30cohen/30cohen-videoSixteenByNine150.jpg",
+        "height": 84,
+        "width": 150,
+        "legacy": {},
+        "subType": "videoSixteenByNine150",
+        "crop_name": "videoSixteenByNine150"
+      },
+      {
+        "rank": 0,
+        "subtype": "videoSixteenByNine225",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/07/30/opinion/sunday/30cohen/30cohen-videoSixteenByNine225.jpg",
+        "height": 126,
+        "width": 225,
+        "legacy": {},
+        "subType": "videoSixteenByNine225",
+        "crop_name": "videoSixteenByNine225"
+      },
+      {
+        "rank": 0,
+        "subtype": "videoSixteenByNine3000",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/07/30/opinion/sunday/30cohen/30cohen-videoSixteenByNine3000.jpg",
+        "height": 1688,
+        "width": 3000,
+        "legacy": {},
+        "subType": "videoSixteenByNine3000",
+        "crop_name": "videoSixteenByNine3000"
+      },
+      {
+        "rank": 0,
+        "subtype": "videoSixteenByNine310",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/07/30/opinion/sunday/30cohen/30cohen-videoSixteenByNine310.jpg",
+        "height": 174,
+        "width": 310,
+        "legacy": {},
+        "subType": "videoSixteenByNine310",
+        "crop_name": "videoSixteenByNine310"
+      },
+      {
+        "rank": 0,
+        "subtype": "videoSixteenByNine390",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/07/30/opinion/sunday/30cohen/30cohen-videoSixteenByNine390.jpg",
+        "height": 219,
+        "width": 390,
+        "legacy": {},
+        "subType": "videoSixteenByNine390",
+        "crop_name": "videoSixteenByNine390"
+      },
+      {
+        "rank": 0,
+        "subtype": "videoSixteenByNine480",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/07/30/opinion/sunday/30cohen/30cohen-videoSixteenByNine480.jpg",
+        "height": 270,
+        "width": 480,
+        "legacy": {},
+        "subType": "videoSixteenByNine480",
+        "crop_name": "videoSixteenByNine480"
+      },
+      {
+        "rank": 0,
+        "subtype": "videoSixteenByNine495",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/07/30/opinion/sunday/30cohen/30cohen-videoSixteenByNine495.jpg",
+        "height": 278,
+        "width": 495,
+        "legacy": {},
+        "subType": "videoSixteenByNine495",
+        "crop_name": "videoSixteenByNine495"
+      },
+      {
+        "rank": 0,
+        "subtype": "videoSixteenByNine540",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/07/30/opinion/sunday/30cohen/30cohen-videoSixteenByNine540.jpg",
+        "height": 304,
+        "width": 540,
+        "legacy": {},
+        "subType": "videoSixteenByNine540",
+        "crop_name": "videoSixteenByNine540"
+      },
+      {
+        "rank": 0,
+        "subtype": "videoSixteenByNine600",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/07/30/opinion/sunday/30cohen/30cohen-videoSixteenByNine600.jpg",
+        "height": 338,
+        "width": 600,
+        "legacy": {},
+        "subType": "videoSixteenByNine600",
+        "crop_name": "videoSixteenByNine600"
+      },
+      {
+        "rank": 0,
+        "subtype": "videoSixteenByNine768",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/07/30/opinion/sunday/30cohen/30cohen-videoSixteenByNine768.jpg",
+        "height": 432,
+        "width": 768,
+        "legacy": {},
+        "subType": "videoSixteenByNine768",
+        "crop_name": "videoSixteenByNine768"
+      },
+      {
+        "rank": 0,
+        "subtype": "videoSixteenByNine96",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/07/30/opinion/sunday/30cohen/30cohen-videoSixteenByNine96.jpg",
+        "height": 54,
+        "width": 96,
+        "legacy": {},
+        "subType": "videoSixteenByNine96",
+        "crop_name": "videoSixteenByNine96"
+      },
+      {
+        "rank": 0,
+        "subtype": "videoSixteenByNineJumbo1600",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/07/30/opinion/sunday/30cohen/30cohen-videoSixteenByNineJumbo1600.jpg",
+        "height": 900,
+        "width": 1600,
+        "legacy": {},
+        "subType": "videoSixteenByNineJumbo1600",
+        "crop_name": "videoSixteenByNineJumbo1600"
+      },
+      {
+        "rank": 0,
+        "subtype": "videoSmall",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/07/30/opinion/sunday/30cohen/30cohen-videoSmall.jpg",
+        "height": 281,
+        "width": 500,
+        "legacy": {},
+        "subType": "videoSmall",
+        "crop_name": "videoSmall"
+      },
+      {
+        "rank": 0,
+        "subtype": "videoThumb",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/07/30/opinion/sunday/30cohen/30cohen-videoThumb.jpg",
+        "height": 50,
+        "width": 75,
+        "legacy": {},
+        "subType": "videoThumb",
+        "crop_name": "videoThumb"
+      },
+      {
+        "rank": 0,
+        "subtype": "watch268",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/07/30/opinion/sunday/30cohen/30cohen-watch268.jpg",
+        "height": 303,
+        "width": 272,
+        "legacy": {},
+        "subType": "watch268",
+        "crop_name": "watch268"
+      },
+      {
+        "rank": 0,
+        "subtype": "watch308",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/07/30/opinion/sunday/30cohen/30cohen-watch308.jpg",
+        "height": 348,
+        "width": 312,
+        "legacy": {},
+        "subType": "watch308",
+        "crop_name": "watch308"
+      },
+      {
+        "rank": 0,
+        "subtype": "windowsTile336H",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/07/30/opinion/sunday/30cohen/30cohen-windowsTile336H.jpg",
+        "height": 336,
+        "width": 694,
+        "legacy": {},
+        "subType": "windowsTile336H",
+        "crop_name": "windowsTile336H"
+      }
+    ],
+    "headline": {
+      "main": "The Desperation of Our Diplomats",
+      "kicker": "Op-Ed Columnist",
+      "content_kicker": "Op-Ed Columnist",
+      "print_headline": "The Diplomats Can\u2019t Save Us",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Diplomatic Service, Embassies and Consulates",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Foreign Service (US)",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "State Department",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States International Relations",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Politics and Government",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Tillerson, Rex W",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Trump, Donald J",
+        "rank": 7,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2017-07-28T07:21:20+0000",
+    "document_type": "article",
+    "new_desk": "OpEd",
+    "section_name": "Sunday Review",
+    "byline": {
+      "original": "By ROGER COHEN",
+      "person": [
+        {
+          "firstname": "Roger",
+          "middlename": null,
+          "lastname": "COHEN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "Op-Ed",
+    "_id": "597ae6077c459f246b61b756",
+    "word_count": 2200,
+    "score": 1.0,
+    "uri": "nyt://article/4ebb1015-c048-5eb5-b0b0-10df4bee5e42"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2017/07/28/us/john-mccains-real-return.html",
+    "snippet": "Critics said he had come back to the Senate preaching the virtues of bipartisanship but not practicing it. They were wrong.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/07/29/us/29McCain_hp/29McCain_hp-articleLarge.jpg",
+        "height": 400,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2017/07/29/us/29McCain_hp/29McCain_hp-articleLarge.jpg",
+          "xlargeheight": 400
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/07/29/us/29McCain_hp/29McCain_hp-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2017/07/29/us/29McCain_hp/29McCain_hp-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/07/29/us/29McCain_hp/29McCain_hp-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2017/07/29/us/29McCain_hp/29McCain_hp-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "McCain Provides a Dramatic Finale on Health Care: Thumb Down",
+      "kicker": "On Washington",
+      "content_kicker": "On Washington",
+      "print_headline": "Dramatic Health Care Finale: Thumbs-Down From McCain",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "McCain, John",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Health Insurance and Managed Care",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Patient Protection and Affordable Care Act (2010)",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Law and Legislation",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Senate",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Republican Party",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Politics and Government",
+        "rank": 7,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2017-07-28T12:36:51+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "byline": {
+      "original": "By CARL HULSE",
+      "person": [
+        {
+          "firstname": "Carl",
+          "middlename": null,
+          "lastname": "HULSE",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "597b2feb7c459f246b61b822",
+    "word_count": 1028,
+    "score": 1.0,
+    "uri": "nyt://article/0eb2dd60-9049-5d74-8388-9a1ad53c3d92"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2017/07/28/world/asia/north-korea-ballistic-missile.html",
+    "snippet": "The missile flew on a high trajectory that, if lowered, may allow it to reach large American cities, a milestone for the North\u2019s weapons program, experts say.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/07/29/us/29dc-nkorea/merlin-to-scoop-125331194-635016-articleLarge.jpg",
+        "height": 400,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2017/07/29/us/29dc-nkorea/merlin-to-scoop-125331194-635016-articleLarge.jpg",
+          "xlargeheight": 400
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/07/29/us/29dc-nkorea/29dc-nkorea-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2017/07/29/us/29dc-nkorea/29dc-nkorea-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/07/29/us/29dc-nkorea/29dc-nkorea-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2017/07/29/us/29dc-nkorea/29dc-nkorea-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "North Korea Tests a Ballistic Missile That Experts Say Could Hit California",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "North Koreans Put California In Strike Range",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "North Korea",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Kim Jong-un",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Nuclear Tests",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Missiles and Missile Defense Systems",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Defense and Military Forces",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "South Korea",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States International Relations",
+        "rank": 7,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2017-07-28T15:59:21+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Asia Pacific",
+    "byline": {
+      "original": "By DAVID E. SANGER, CHOE SANG-HUN and WILLIAM J. BROAD",
+      "person": [
+        {
+          "firstname": "David",
+          "middlename": "E.",
+          "lastname": "SANGER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Choe",
+          "middlename": null,
+          "lastname": "SANG-HUN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        },
+        {
+          "firstname": "William",
+          "middlename": "J.",
+          "lastname": "BROAD",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 3
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "597b5f5c7c459f246b61b8bf",
+    "word_count": 1583,
+    "score": 1.0,
+    "uri": "nyt://article/9e06b62e-bbcb-5e3c-ac03-c37e5449c05b"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2017/07/27/us/politics/obamacare-partial-repeal-senate-republicans-revolt.html",
+    "snippet": "The party\u2019s senators trimmed their vision of a bill to repeal the Affordable Care Act, but three Republicans turned on the bill in the dead of night.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/07/28/us/politics/McCain-for-video-clip/McCain-for-video-clip-articleLarge.jpg",
+        "height": 338,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2017/07/28/us/politics/McCain-for-video-clip/McCain-for-video-clip-articleLarge.jpg",
+          "xlargeheight": 338
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/07/28/us/politics/McCain-for-video-clip/McCain-for-video-clip-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2017/07/28/us/politics/McCain-for-video-clip/McCain-for-video-clip-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/07/28/us/politics/McCain-for-video-clip/McCain-for-video-clip-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2017/07/28/us/politics/McCain-for-video-clip/McCain-for-video-clip-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Senate Rejects Slimmed-Down Obamacare Repeal as McCain Votes No",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "G.O.P. in Senate Trims Ambitions To Start Voting",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "organizations",
+        "value": "Senate",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Republican Party",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Law and Legislation",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Patient Protection and Affordable Care Act (2010)",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Health Insurance and Managed Care",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "McCain, John",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Trump, Donald J",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Politics and Government",
+        "rank": 8,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2017-07-28T01:06:09+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "section_name": "Politics",
+    "byline": {
+      "original": "By ROBERT PEAR and THOMAS KAPLAN",
+      "person": [
+        {
+          "firstname": "Robert",
+          "middlename": null,
+          "lastname": "PEAR",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Thomas",
+          "middlename": null,
+          "lastname": "KAPLAN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "597a8e097c459f246b61b6b0",
+    "word_count": 1539,
+    "score": 1.0,
+    "uri": "nyt://article/cc0de9dd-c8c6-5c6d-a198-ebcc815388b1"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2017/07/28/world/asia/pakistan-prime-minister-nawaz-sharif-removed.html",
+    "snippet": "Mr. Sharif stepped down after the Supreme Court ordered him removed from office, roiling the country\u2019s fragile political balance.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/07/29/world/29Pakistan5/29Pakistan5-articleLarge-v2.jpg",
+        "height": 398,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2017/07/29/world/29Pakistan5/29Pakistan5-articleLarge-v2.jpg",
+          "xlargeheight": 398
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/07/29/world/29Pakistan5/29Pakistan5-thumbWide-v2.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2017/07/29/world/29Pakistan5/29Pakistan5-thumbWide-v2.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/07/29/world/29Pakistan5/29Pakistan5-thumbStandard-v2.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2017/07/29/world/29Pakistan5/29Pakistan5-thumbStandard-v2.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Nawaz Sharif, Pakistan\u2019s Prime Minister, Is Toppled by Corruption Case",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Graft Case Forces Out Pakistani Premier, Roiling Fragile System",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Pakistan",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Sharif, Nawaz",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Khan, Imran",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Politics and Government",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Panama Papers",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2017-07-28T07:17:14+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Asia Pacific",
+    "byline": {
+      "original": "By SALMAN MASOOD",
+      "person": [
+        {
+          "firstname": "Salman",
+          "middlename": null,
+          "lastname": "MASOOD",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "597ae5037c459f246b61b751",
+    "word_count": 1260,
+    "score": 1.0,
+    "uri": "nyt://article/360472f8-0050-53c9-8160-c1c91fa39433"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2017/07/28/world/africa/congo-kasai-kabila-militia-graves.html",
+    "snippet": "Soldiers are stationed at grave sites that could expose a massacre by the security forces, as Congolese civilians are caught between warring sides.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/06/14/world/28Congo/xxcongo2-articleLarge.jpg",
+        "height": 400,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2017/06/14/world/28Congo/xxcongo2-articleLarge.jpg",
+          "xlargeheight": 400
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/06/14/world/28Congo/xxcongo2-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2017/06/14/world/28Congo/xxcongo2-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/06/14/world/28Congo/xxcongo2-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2017/06/14/world/28Congo/xxcongo2-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Who\u2019s in Congo\u2019s Mass Graves? And Why Are Soldiers Guarding Them?",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "In Congo, Mass Graves Multiply, but the Military Wants Silence",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Congo, Democratic Republic of (Congo-Kinshasa)",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Defense and Military Forces",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Civilian Casualties",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Human Rights and Human Rights Violations",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Kabila, Joseph",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2017-07-28T06:59:29+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Africa",
+    "byline": {
+      "original": "By KIMIKO de FREYTAS-TAMURA",
+      "person": [
+        {
+          "firstname": "Kimiko",
+          "middlename": null,
+          "lastname": "de FREYTAS-TAMURA",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "597ae0d37c459f246b61b742",
+    "word_count": 1759,
+    "score": 1.0,
+    "uri": "nyt://article/b0065b44-97f0-54f6-a9ba-b39331965fdb"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2017/07/28/business/spain-europe-economy-recovery-unemployment.html",
+    "snippet": "After nearly a decade of economic crisis, Spain is finally growing again, underscoring hopes that the eurozone has reached a healthier place.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/07/27/business/30SPAINECON-1/30SPAINECON-1-articleLarge.jpg",
+        "height": 440,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2017/07/27/business/30SPAINECON-1/30SPAINECON-1-articleLarge.jpg",
+          "xlargeheight": 440
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/07/27/business/30SPAINECON-1/30SPAINECON-1-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2017/07/27/business/30SPAINECON-1/30SPAINECON-1-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/07/27/business/30SPAINECON-1/30SPAINECON-1-thumbStandard-v2.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2017/07/27/business/30SPAINECON-1/30SPAINECON-1-thumbStandard-v2.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Spain\u2019s Long Economic Nightmare Is Finally Over",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "A Nation Bounces Back",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Spain",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Economic Conditions and Trends",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Labor and Jobs",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Unemployment",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Barcelona (Spain)",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Eurozone",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Europe",
+        "rank": 7,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2017-07-28T08:19:09+0000",
+    "document_type": "article",
+    "new_desk": "SundayBusiness",
+    "byline": {
+      "original": "By PETER S. GOODMAN",
+      "person": [
+        {
+          "firstname": "Peter",
+          "middlename": "S.",
+          "lastname": "GOODMAN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "597af3867c459f246b61b77c",
+    "word_count": 2310,
+    "score": 1.0,
+    "uri": "nyt://article/fcac08a1-3dee-5b94-8560-7ed810210a47"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2017/07/27/business/wells-fargo-unwanted-auto-insurance.html",
+    "snippet": "An internal report shows customers with car loans had costly, unnecessary insurance tacked onto their bills, and 274,000 were pushed into delinquency.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/07/28/us/30WELLS1/30WELLS1-articleLarge.jpg",
+        "height": 400,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2017/07/28/us/30WELLS1/30WELLS1-articleLarge.jpg",
+          "xlargeheight": 400
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/07/28/us/30WELLS1/30WELLS1-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2017/07/28/us/30WELLS1/30WELLS1-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/07/28/us/30WELLS1/30WELLS1-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2017/07/28/us/30WELLS1/30WELLS1-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Wells Fargo Forced Unwanted Auto Insurance on Borrowers",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Wells Fargo Required Borrowers To Buy Needless Auto Insurance",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "organizations",
+        "value": "Wells Fargo & Company",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Automobile Insurance and Liability",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Banking and Financial Institutions",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Oliver Wyman Group",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Frauds and Swindling",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2017-07-28T00:52:47+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By GRETCHEN MORGENSON",
+      "person": [
+        {
+          "firstname": "Gretchen",
+          "middlename": null,
+          "lastname": "MORGENSON",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "597a8ae27c459f246b61b6a9",
+    "word_count": 1265,
+    "score": 1.0,
+    "uri": "nyt://article/afed2316-e6c2-5278-9664-6ab18b8cf87d"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2017/07/28/nyregion/liz-smith-lions-of-new-york.html",
+    "snippet": "She was the most powerful gossip columnist in the 1980s. A tabloid celebrity herself, she could turn anyone into a star overnight. Until she couldn\u2019t.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/07/30/nyregion/30lizsmith-web-end/30lizsmith-web-end-articleLarge.jpg",
+        "height": 400,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2017/07/30/nyregion/30lizsmith-web-end/30lizsmith-web-end-articleLarge.jpg",
+          "xlargeheight": 400
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/07/30/nyregion/30lizsmith-web-end/30lizsmith-web-end-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2017/07/30/nyregion/30lizsmith-web-end/30lizsmith-web-end-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/07/30/nyregion/30lizsmith-web-end/30lizsmith-web-end-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2017/07/30/nyregion/30lizsmith-web-end/30lizsmith-web-end-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "The Rise and Fall of Liz Smith, Celebrity Accomplice",
+      "kicker": "Lions of New York",
+      "content_kicker": "Lions of New York",
+      "print_headline": "Life Among the Boldface Names",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Smith, Liz",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Gossip",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Celebrities",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "News and News Media",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Trump, Donald J",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "New York Daily News",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "New York Post",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "New York City",
+        "rank": 8,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2017-07-28T09:00:11+0000",
+    "document_type": "article",
+    "new_desk": "Metropolitan",
+    "byline": {
+      "original": "By JOHN LELAND",
+      "person": [
+        {
+          "firstname": "John",
+          "middlename": null,
+          "lastname": "LELAND",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "597afd217c459f246b61b792",
+    "word_count": 2532,
+    "score": 1.0,
+    "uri": "nyt://article/9e53b7af-be6c-5d1b-b2a2-48b3a313b2bb"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2017/07/28/us/politics/reince-priebus-white-house-trump.html",
+    "snippet": "A six-month stint as President Trump\u2019s top aide failed to impose order on an unruly and fractious White House.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/07/28/us/28priebusalpha/28priebusalpha-articleLarge-v2.jpg",
+        "height": 400,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2017/07/28/us/28priebusalpha/28priebusalpha-articleLarge-v2.jpg",
+          "xlargeheight": 400
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/07/28/us/28priebusalpha/28priebusalpha-thumbWide-v2.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2017/07/28/us/28priebusalpha/28priebusalpha-thumbWide-v2.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/07/28/us/28priebusalpha/28priebusalpha-thumbStandard-v2.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2017/07/28/us/28priebusalpha/28priebusalpha-thumbStandard-v2.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Reince Priebus Is Ousted Amid Stormy Days for White House",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Priebus Is Ousted Amid Stormy Days for White House",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Priebus, Reince R",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Kelly, John F (1950- )",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Trump, Donald J",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Politics and Government",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Appointments and Executive Changes",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2017-07-28T20:51:35+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "section_name": "Politics",
+    "byline": {
+      "original": "By PETER BAKER and MAGGIE HABERMAN",
+      "person": [
+        {
+          "firstname": "Peter",
+          "middlename": null,
+          "lastname": "BAKER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Maggie",
+          "middlename": null,
+          "lastname": "HABERMAN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "597ba3e77c459f246b61b9af",
+    "word_count": 1533,
+    "score": 1.0,
+    "uri": "nyt://article/cb944a49-7d93-5d2c-a687-b285bd7e92e1"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2017/07/28/realestate/what-to-do-when-youve-picked-the-wrong-suburb.html",
+    "snippet": "After leaving the city, some people discover that the first town they choose isn\u2019t quite right and they have to search for a place that is a better fit.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/07/30/realestate/30SUBURBS1/30SUBURBS1-articleLarge-v2.jpg",
+        "height": 440,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2017/07/30/realestate/30SUBURBS1/30SUBURBS1-articleLarge-v2.jpg",
+          "xlargeheight": 440
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/07/30/realestate/30SUBURBS1/30SUBURBS1-thumbWide-v2.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2017/07/30/realestate/30SUBURBS1/30SUBURBS1-thumbWide-v2.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/07/30/realestate/30SUBURBS1/30SUBURBS1-thumbStandard-v2.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2017/07/30/realestate/30SUBURBS1/30SUBURBS1-thumbStandard-v2.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "What to Do When You\u2019ve Picked the Wrong Suburb",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": " Exchanging Suburbs",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Real Estate and Housing (Residential)",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Suburbs",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Katonah (NY)",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Rye (NY)",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Montclair (NJ)",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "New York Metropolitan Area",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2017-07-28T13:00:29+0000",
+    "document_type": "article",
+    "new_desk": "RealEstate",
+    "byline": {
+      "original": "By BROOKE LEA FOSTER",
+      "person": [
+        {
+          "firstname": "Brooke",
+          "middlename": "Lea",
+          "lastname": "FOSTER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "597b35747c459f246b61b833",
+    "word_count": 2001,
+    "score": 1.0,
+    "uri": "nyt://article/580fdb51-7e1b-5545-8339-73a7fe585a6a"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2017/07/27/nyregion/claus-meyer-brownsville-culinary-center-brooklyn.html",
+    "snippet": "The world-renowned chef Claus Meyer is behind a new culinary center in Brownsville meant to serve the poor \u2014 and Williamsburg is not invited.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/07/28/nyregion/30BIG/30BIG-articleLarge.jpg",
+        "height": 400,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2017/07/28/nyregion/30BIG/30BIG-articleLarge.jpg",
+          "xlargeheight": 400
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/07/28/nyregion/30BIG/30BIG-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2017/07/28/nyregion/30BIG/30BIG-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/07/28/nyregion/30BIG/30BIG-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2017/07/28/nyregion/30BIG/30BIG-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Brooklyn\u2019s Anti-Gentrification Restaurant",
+      "kicker": "Big City",
+      "content_kicker": "Big City",
+      "print_headline": "Gentrification  Isn\u2019t on the Menu",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "organizations",
+        "value": "Brownsville Community Culinary Center (Brooklyn, NY)",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Meyer, Claus",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Restaurants",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Poverty",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Chefs",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Brownsville (Brooklyn, NY)",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2017-07-28T00:00:07+0000",
+    "document_type": "article",
+    "new_desk": "Metropolitan",
+    "byline": {
+      "original": "By GINIA BELLAFANTE",
+      "person": [
+        {
+          "firstname": "Ginia",
+          "middlename": null,
+          "lastname": "BELLAFANTE",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "597a7e8e7c459f246b61b693",
+    "word_count": 962,
+    "score": 1.0,
+    "uri": "nyt://article/3dd9748d-a910-50c5-aee4-b33336a2093e"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2017/07/27/us/politics/white-house-lgbt-rights-military-civil-rights-act.html",
+    "snippet": "Activists called Wednesday the White House\u2019s \u201canti-L.G.B.T. day\u201d after it barred transgender people from the military, intervened in an employment suit and nominated a gay rights opponent as an ambassador.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/07/28/us/politics/28dc-rights-1/merlin-to-scoop-125262620-766596-articleLarge.jpg",
+        "height": 400,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2017/07/28/us/politics/28dc-rights-1/merlin-to-scoop-125262620-766596-articleLarge.jpg",
+          "xlargeheight": 400
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/07/28/us/politics/28dc-rights-1/merlin-to-scoop-125262620-766596-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2017/07/28/us/politics/28dc-rights-1/merlin-to-scoop-125262620-766596-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/07/28/us/politics/28dc-rights-1/28dc-rights-1-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2017/07/28/us/politics/28dc-rights-1/28dc-rights-1-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "In One Day, Trump Administration Lands 3 Punches Against Gay Rights",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "White House Lands 3 Punches Against Gay Rights in One Day",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Homosexuality and Bisexuality",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Transgender and Transsexuals",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Discrimination",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Defense and Military Forces",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Trump, Donald J",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Politics and Government",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Justice Department",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Civil Rights and Liberties",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Brownback, Sam",
+        "rank": 9,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Appointments and Executive Changes",
+        "rank": 10,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2017-07-28T01:12:04+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "section_name": "Politics",
+    "byline": {
+      "original": "By MICHAEL D. SHEAR and CHARLIE SAVAGE",
+      "person": [
+        {
+          "firstname": "Michael",
+          "middlename": null,
+          "lastname": null,
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "597a8f6d7c459f246b61b6b3",
+    "word_count": 1347,
+    "score": 1.0,
+    "uri": "nyt://article/9e522337-7241-5282-879f-2c806c4a51f6"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2017/07/28/us/politics/health-care-senate-repeal-trump.html",
+    "snippet": "The professions of a desire for cooperation on changing the Affordable Care Act were as profuse on Friday as the short-term outlook for tangible results was grim.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/07/29/us/29dc-health-jp-sub1/29dc-health-jp-sub1-articleLarge.jpg",
+        "height": 413,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2017/07/29/us/29dc-health-jp-sub1/29dc-health-jp-sub1-articleLarge.jpg",
+          "xlargeheight": 413
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/07/29/us/29dc-health-jp-sub1/29dc-health-jp-sub1-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2017/07/29/us/29dc-health-jp-sub1/29dc-health-jp-sub1-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/07/29/us/29dc-health-jp-sub1/29dc-health-jp-sub1-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2017/07/29/us/29dc-health-jp-sub1/29dc-health-jp-sub1-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Lawmakers Have Bipartisan Health Ideas. Now to Persuade Their Leaders ...",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "On Health, the Path Forward Is Unclear",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Health Insurance and Managed Care",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Patient Protection and Affordable Care Act (2010)",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Law and Legislation",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Senate",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "House of Representatives",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Democratic Party",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Republican Party",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Trump, Donald J",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Politics and Government",
+        "rank": 9,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2017-07-28T15:52:41+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "section_name": "Politics",
+    "byline": {
+      "original": "By ROBERT PEAR and THOMAS KAPLAN",
+      "person": [
+        {
+          "firstname": "Robert",
+          "middlename": null,
+          "lastname": "PEAR",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Thomas",
+          "middlename": null,
+          "lastname": "KAPLAN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "597b5dd47c459f246b61b8b7",
+    "word_count": 1328,
+    "score": 1.0,
+    "uri": "nyt://article/8f3eb168-b5ad-5bc8-bb12-ebc2b4982e57"
+  }
+]

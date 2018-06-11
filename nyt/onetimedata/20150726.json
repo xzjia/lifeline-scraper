@@ -1,0 +1,177 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2015/07/27/us/racial-divide-persists-in-texas-county-where-sandra-bland-died.html",
+    "snippet": "The area where Ms. Bland graduated from college, returned for a job and later died has joined a list of places in America where assumptions of racial progress have been upended.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2015/07/27/us/27hempstead-slide-PW72/27hempstead-slide-PW72-articleLarge.jpg",
+        "height": 400,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2015/07/27/us/27hempstead-slide-PW72/27hempstead-slide-PW72-articleLarge.jpg",
+          "xlargeheight": 400
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2015/07/27/us/27hempstead-slide-PW72/27hempstead-slide-PW72-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2015/07/27/us/27hempstead-slide-PW72/27hempstead-slide-PW72-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2015/07/27/us/27hempstead-slide-PW72/27hempstead-slide-PW72-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2015/07/27/us/27hempstead-slide-PW72/27hempstead-slide-PW72-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Texas County\u2019s Racial Past Is Seen as Prelude to Sandra Bland\u2019s Death",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Texas County&#8217;s Racial Past Seen as Prelude to a Death",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Bland, Sandra (1987-2015)",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Suicides and Suicide Attempts",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Waller County (Tex)",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Police Brutality, Misconduct and Shootings",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Blacks",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Texas",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Discrimination",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Race and Ethnicity",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Encinia, Brian T (1985- )",
+        "rank": 9,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Prairie View A&M University",
+        "rank": 10,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2015-07-26T22:47:08+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "byline": {
+      "original": "By SHARON LaFRANIERE, RICHARD A. OPPEL Jr. and DAVID MONTGOMERY",
+      "person": [
+        {
+          "firstname": "Sharon",
+          "middlename": null,
+          "lastname": "LaFRANIERE",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Richard",
+          "middlename": "A.",
+          "lastname": "OPPEL",
+          "qualifier": "Jr.",
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        },
+        {
+          "firstname": "David",
+          "middlename": null,
+          "lastname": "MONTGOMERY",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 3
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "55b5636e38f0d8556445e79a",
+    "word_count": 1747,
+    "score": 1.0,
+    "uri": "nyt://article/092364f9-1877-59fc-a3e9-2a994d10de9c"
+  }
+]

@@ -1,0 +1,702 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2015/05/04/sports/meet-mago-former-heavyweight.html",
+    "snippet": "For Magomed Abdusalamov, 34, also known as the Russian Tyson, life was never the same after he lost for the first time in his 19th professional fight.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2015/05/04/sports/04barry2web/04barry2-articleLarge.jpg",
+        "height": 402,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2015/05/04/sports/04barry2web/04barry2-articleLarge.jpg",
+          "xlargeheight": 402
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2015/05/04/sports/04barry2web/04barry2web-thumbWide-v2.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2015/05/04/sports/04barry2web/04barry2web-thumbWide-v2.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2015/05/04/sports/04barry2web/04barry2web-thumbStandard-v2.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2015/05/04/sports/04barry2web/04barry2web-thumbStandard-v2.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Meet Mago, Former Heavyweight",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Meet Mago",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Boxing",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Abdusalamov, Magomed",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Sports Injuries",
+        "rank": 3,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2015-05-03T22:12:19+0000",
+    "document_type": "article",
+    "new_desk": "Sports",
+    "byline": {
+      "original": "By DAN BARRY",
+      "person": [
+        {
+          "firstname": "Dan",
+          "middlename": null,
+          "lastname": "BARRY",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "55469d4a38f0d80915694248",
+    "word_count": 1148,
+    "score": 1.0,
+    "uri": "nyt://article/a1d5c791-c86d-5e1b-a46b-0cf638f62c4e"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2015/05/03/us/sandtown-winchester-baltimore-home-to-a-lot-of-freddie-grays.html",
+    "snippet": "The neighborhood where Freddie Gray came of age has survived harrowing rates of unemployment, poor health, violent crime and incarceration.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2015/05/03/us/03WESTBALTIMORE-web01/03WESTBALTIMORE1-articleLarge.jpg",
+        "height": 402,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2015/05/03/us/03WESTBALTIMORE-web01/03WESTBALTIMORE1-articleLarge.jpg",
+          "xlargeheight": 402
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2015/05/03/us/03WESTBALTIMORE-web01/03WESTBALTIMORE-web01-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2015/05/03/us/03WESTBALTIMORE-web01/03WESTBALTIMORE-web01-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2015/05/03/us/03WESTBALTIMORE-web01/03WESTBALTIMORE-web01-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2015/05/03/us/03WESTBALTIMORE-web01/03WESTBALTIMORE-web01-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Hard but Hopeful Home to \u2018Lot of Freddies\u2019",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "A Hard but Hopeful Home to &#8216;a Lot of Freddies&#8217;",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Gray, Freddie (1989-2015)",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Baltimore (Md)",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Police Brutality, Misconduct and Shootings",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Blacks",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Poverty",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2015-05-03T04:45:41+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "byline": {
+      "original": "By SCOTT SHANE, NIKITA STEWART and RON NIXON",
+      "person": [
+        {
+          "firstname": "Scott",
+          "middlename": null,
+          "lastname": "SHANE",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Nikita",
+          "middlename": null,
+          "lastname": "STEWART",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        },
+        {
+          "firstname": "Ron",
+          "middlename": null,
+          "lastname": "NIXON",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 3
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5545a7f938f0d877bca49322",
+    "word_count": 2168,
+    "score": 1.0,
+    "uri": "nyt://article/a838904e-cfa2-54f5-9d03-06fb0b14573d"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2015/05/04/world/asia/china-pursuing-strategic-interests-builds-presence-in-antarctica.html",
+    "snippet": "As China spends more on the Antarctic, and the early occupiers, the United States and Australia, face stagnant budgets, a debate rages about what China wants.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2015/04/24/world/24China-web/24China-web-articleLarge.jpg",
+        "height": 397,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2015/04/24/world/24China-web/24China-web-articleLarge.jpg",
+          "xlargeheight": 397
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2015/04/24/world/24China-web/24China-web-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2015/04/24/world/24China-web/24China-web-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2015/04/24/world/24China-web/24China-web-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2015/04/24/world/24China-web/24China-web-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "China, Pursuing Strategic Interests, Builds Presence in Antarctica",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Chinese Aspirations in Antarctica Fuel Concern ",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "China",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Antarctic Regions",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Australia",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Research",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Krill",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Xi Jinping",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Global Warming",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "United States",
+        "rank": 8,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2015-05-03T22:11:20+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Asia Pacific",
+    "byline": {
+      "original": "By JANE PERLEZ",
+      "person": [
+        {
+          "firstname": "Jane",
+          "middlename": null,
+          "lastname": "PERLEZ",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "55469d0b38f0d80915694247",
+    "word_count": 1404,
+    "score": 1.0,
+    "uri": "nyt://article/0c658610-7e1d-5f17-a023-7d708e71046e"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2015/05/03/style/its-called-the-met-gala-but-its-definitely-anna-wintours-party.html",
+    "snippet": "How the editor of Vogue mixed celebrities and fashion to turn a museum benefit into big business.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2015/05/03/arts/03METGALA/03METGALA-articleLarge.jpg",
+        "height": 440,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2015/05/03/arts/03METGALA/03METGALA-articleLarge.jpg",
+          "xlargeheight": 440
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2015/05/03/arts/03METGALA/03METGALA-thumbWide-v2.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2015/05/03/arts/03METGALA/03METGALA-thumbWide-v2.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2015/05/03/arts/03METGALA/03METGALA-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2015/05/03/arts/03METGALA/03METGALA-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "It\u2019s Called the Met Gala, but It\u2019s Definitely Anna Wintour\u2019s Party",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "It May Be Called the Met Ball, but It\u2019s Anna Wintour\u2019s Party",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "organizations",
+        "value": "Costume Institute",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Wintour, Anna",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Metropolitan Museum of Art",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Parties (Social)",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Conde Nast Publications Inc",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Culture (Arts)",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Museums",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Vogue",
+        "rank": 8,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2015-05-03T00:23:00+0000",
+    "document_type": "article",
+    "new_desk": "Metro",
+    "byline": {
+      "original": "By VANESSA FRIEDMAN",
+      "person": [
+        {
+          "firstname": "Vanessa",
+          "middlename": null,
+          "lastname": "FRIEDMAN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "55456a6638f0d877bca492c5",
+    "word_count": 1783,
+    "score": 1.0,
+    "uri": "nyt://article/0eb1fece-38c5-58ae-9717-2c721829bd32"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2015/05/04/technology/david-goldbergs-lifetime-of-advocating-for-women.html",
+    "snippet": "The late chief executive of SurveyMonkey and husband of the Facebook executive Sheryl Sandberg was raised around \u201cwoman power\u201d and was an avid supporter of female achievement.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2015/05/04/business/04couple-hp/04couple-hp-articleLarge.jpg",
+        "height": 458,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2015/05/04/business/04couple-hp/04couple-hp-articleLarge.jpg",
+          "xlargeheight": 458
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2015/05/04/business/04couple-hp/04couple-hp-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2015/05/04/business/04couple-hp/04couple-hp-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2015/05/04/business/04couple-hp/04couple-hp-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2015/05/04/business/04couple-hp/04couple-hp-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Dave Goldberg Was Lifelong Women\u2019s Advocate",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "A Lifelong Advocate for Women",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Goldberg, David Bruce",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Sandberg, Sheryl K",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "SurveyMonkey",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Women and Girls",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Women's Rights",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Books and Literature",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Marriages",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Facebook Inc",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Silicon Valley (Calif)",
+        "rank": 9,
+        "major": "N"
+      },
+      {
+        "name": "creative_works",
+        "value": "Lean In: Women, Work, and the Will to Lead (Book)",
+        "rank": 10,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2015-05-03T19:41:16+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By JODI KANTOR",
+      "person": [
+        {
+          "firstname": "Jodi",
+          "middlename": null,
+          "lastname": "KANTOR",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "554679df38f0d8091569420c",
+    "word_count": 1083,
+    "score": 1.0,
+    "uri": "nyt://article/1409b694-41c0-589e-829e-c4c13ccebcec"
+  }
+]

@@ -1,0 +1,160 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2015/08/31/world/asia/behind-tianjin-tragedy-a-company-that-flouted-regulations-and-reaped-profits.html",
+    "snippet": "Rui Hai International Logistics, whose warehouses were hit by the deadly explosions, has become a symbol of the high cost of rapid industrialization in a closed political system rife with graft.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2015/08/31/world/asia/20150831_TIANJIN-slide-FRO0/20150831_TIANJIN-slide-FRO0-articleLarge.jpg",
+        "height": 368,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2015/08/31/world/asia/20150831_TIANJIN-slide-FRO0/20150831_TIANJIN-slide-FRO0-articleLarge.jpg",
+          "xlargeheight": 368
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2015/08/31/world/asia/20150831_TIANJIN-slide-FRO0/20150831_TIANJIN-slide-FRO0-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2015/08/31/world/asia/20150831_TIANJIN-slide-FRO0/20150831_TIANJIN-slide-FRO0-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2015/08/31/world/asia/20150831_TIANJIN-slide-FRO0/20150831_TIANJIN-slide-FRO0-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2015/08/31/world/asia/20150831_TIANJIN-slide-FRO0/20150831_TIANJIN-slide-FRO0-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Behind Deadly Tianjin Blast, Shortcuts and Lax Rules",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Behind Blast, Shortcuts and Lax Rules",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "China",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Rui Hai International Logistics Co Ltd",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Hazardous and Toxic Substances",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Explosions (Accidental)",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Tianjin (China)",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Corruption (Institutional)",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Communist Party of China",
+        "rank": 7,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2015-08-30T09:50:27+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Asia Pacific",
+    "byline": {
+      "original": "By ANDREW JACOBS, JAVIER C. HERN\u00c1NDEZ and CHRIS BUCKLEY",
+      "person": [
+        {
+          "firstname": "Andrew",
+          "middlename": null,
+          "lastname": "JACOBS",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Javier",
+          "middlename": "C.",
+          "lastname": "HERN\u00c1NDEZ",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        },
+        {
+          "firstname": "Chris",
+          "middlename": null,
+          "lastname": "BUCKLEY",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 3
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "55e2d1e738f0d84a4ed1554b",
+    "word_count": 3163,
+    "score": 1.0,
+    "uri": "nyt://article/bea3db1f-7486-5a1c-8e1a-d12bbbf5fed7"
+  }
+]

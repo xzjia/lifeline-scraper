@@ -1,0 +1,121 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2016/07/04/nyregion/in-new-jersey-student-loan-program-even-death-may-not-bring-a-reprieve.html",
+    "snippet": "Called \u201cstate-sanctioned loan-sharking\u201d by a bankruptcy lawyer, the program\u2019s aggressive collections and stringent rules can easily mean financial ruin for borrowers.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2016/07/04/nyregion/00NJLOANS1/00NJLOANS1-articleLarge.jpg",
+        "height": 400,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2016/07/04/nyregion/00NJLOANS1/00NJLOANS1-articleLarge.jpg",
+          "xlargeheight": 400
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2016/07/04/nyregion/00NJLOANS1/00NJLOANS1-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2016/07/04/nyregion/00NJLOANS1/00NJLOANS1-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2016/07/04/nyregion/00NJLOANS1/00NJLOANS1-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2016/07/04/nyregion/00NJLOANS1/00NJLOANS1-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "In New Jersey Student Loan Program, Even Death May Not Bring a Reprieve",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Even Death Is No Reprieve From a Student\u2019s Debt",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Student Loans",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "New Jersey",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Higher Education Student Assistance Authority (NJ)",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Personal Bankruptcies",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2016-07-03T13:00:27+0000",
+    "document_type": "article",
+    "new_desk": "Metro",
+    "byline": {
+      "original": "By ANNIE WALDMAN",
+      "person": [
+        {
+          "firstname": "Annie",
+          "middlename": null,
+          "lastname": "WALDMAN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "57790c7238f0d8343812c1a0",
+    "word_count": 2417,
+    "score": 1.0,
+    "uri": "nyt://article/8fed0f30-8189-5bc1-ab18-1646d03133fe"
+  }
+]

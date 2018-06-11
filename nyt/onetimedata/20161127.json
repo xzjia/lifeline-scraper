@@ -1,0 +1,164 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2016/11/27/us/politics/trump-adviser-steps-up-searing-attack-on-romney.html",
+    "snippet": "The president-elect made the unsubstantiated claim as part of a storm of Twitter posts voicing anger about a three-state recount push.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2016/11/28/us/28TRANSITION2-web/28TRANSITION2-web-articleLarge.jpg",
+        "height": 422,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2016/11/28/us/28TRANSITION2-web/28TRANSITION2-web-articleLarge.jpg",
+          "xlargeheight": 422
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2016/11/28/us/28TRANSITION2-web/28TRANSITION2-web-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2016/11/28/us/28TRANSITION2-web/28TRANSITION2-web-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2016/11/28/us/28TRANSITION2-web/28TRANSITION2-web-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2016/11/28/us/28TRANSITION2-web/28TRANSITION2-web-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Trump Claims, With No Evidence, That \u2018Millions of People\u2019 Voted Illegally",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Trump Promotes a Baseless Claim on Illegal Voting",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Trump, Donald J",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Presidential Election of 2016",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Romney, Mitt",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Conway, Kellyanne",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Priebus, Reince R",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Elias, Marc E",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Clinton, Hillary Rodham",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Stein, Jill",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Voting and Voters",
+        "rank": 9,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Politics and Government",
+        "rank": 10,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Twitter",
+        "rank": 11,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2016-11-27T16:49:29+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "section_name": "Politics",
+    "byline": {
+      "original": "By MICHAEL D. SHEAR and MAGGIE HABERMAN",
+      "person": [
+        {
+          "firstname": "Michael",
+          "middlename": null,
+          "lastname": null,
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "583b0e9d7c459f2525d0e899",
+    "word_count": 1221,
+    "score": 1.0,
+    "uri": "nyt://article/82bb01db-7a99-59d7-ac65-9ec61d5f8fa6"
+  }
+]

@@ -1,0 +1,125 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2016/06/30/technology/facebook-to-change-news-feed-to-focus-on-friends-and-family.html",
+    "snippet": "News content posted by publishers will show up less prominently, resulting in less traffic to companies that have come to rely on Facebook audiences.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2016/06/29/business/30FACEBOOK/30FACEBOOK-articleLarge.jpg",
+        "height": 400,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2016/06/29/business/30FACEBOOK/30FACEBOOK-articleLarge.jpg",
+          "xlargeheight": 400
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2016/06/29/business/30FACEBOOK/30FACEBOOK-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2016/06/29/business/30FACEBOOK/30FACEBOOK-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2016/06/29/business/30FACEBOOK/30FACEBOOK-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2016/06/29/business/30FACEBOOK/30FACEBOOK-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Facebook to Change News Feed to Focus on Friends and Family",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Facebook Tweaks Its News Feed to Focus on Friends and Family",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "organizations",
+        "value": "Facebook Inc",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "News and News Media",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Social Media",
+        "rank": 3,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2016-06-29T14:00:18+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By MIKE ISAAC and SYDNEY EMBER",
+      "person": [
+        {
+          "firstname": "Mike",
+          "middlename": null,
+          "lastname": "ISAAC",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Sydney",
+          "middlename": null,
+          "lastname": "EMBER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5773d47338f0d840365e85fb",
+    "word_count": 1163,
+    "score": 1.0,
+    "uri": "nyt://article/60b032a7-49f5-5e8f-aeee-645b04ac2ba9"
+  }
+]

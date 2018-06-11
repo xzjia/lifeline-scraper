@@ -1,0 +1,128 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2016/04/25/arts/music/beyonce-unearths-pain-and-lets-it-flow-in-lemonade.html",
+    "snippet": "In daring to think beyond herself, the singer created something bolder and deeper and more uncomfortable than anything that could have been predicted.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2016/04/25/arts/25BEYONCEHBO/25BEYONCEHBO-articleLarge-v2.jpg",
+        "height": 440,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2016/04/25/arts/25BEYONCEHBO/25BEYONCEHBO-articleLarge-v2.jpg",
+          "xlargeheight": 440
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2016/04/25/arts/25BEYONCEHBO/25BEYONCEHBO-thumbWide-v2.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2016/04/25/arts/25BEYONCEHBO/25BEYONCEHBO-thumbWide-v2.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2016/04/25/arts/25BEYONCEHBO/25BEYONCEHBO-thumbStandard-v2.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2016/04/25/arts/25BEYONCEHBO/25BEYONCEHBO-thumbStandard-v2.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Beyonc\u00e9 Unearths Pain and Lets It Flow in \u2018Lemonade\u2019",
+      "kicker": "Critic\u2019s Notebook",
+      "content_kicker": "Critic\u2019s Notebook",
+      "print_headline": "Rich With Pain",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Music",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "creative_works",
+        "value": "Lemonade (Album)",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Pop and Rock Music",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Jay-Z",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Knowles, Beyonce",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2016-04-24T22:04:41+0000",
+    "document_type": "article",
+    "new_desk": "Culture",
+    "section_name": "Music",
+    "byline": {
+      "original": "By WESLEY MORRIS",
+      "person": [
+        {
+          "firstname": "Wesley",
+          "middlename": null,
+          "lastname": "MORRIS",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "571d42fc38f0d8550bf1a5fa",
+    "word_count": 1133,
+    "score": 1.0,
+    "uri": "nyt://article/931fe45b-6363-5825-9797-cc62495cda46"
+  }
+]

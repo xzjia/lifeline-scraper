@@ -1,0 +1,969 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2015/01/04/style/what-isnt-there-an-app-for.html",
+    "snippet": "A writer spent three weeks trying to improve his life through apps.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2015/01/04/fashion/04APPS/04APPS-articleLarge-v2.jpg",
+        "height": 777,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2015/01/04/fashion/04APPS/04APPS-articleLarge-v2.jpg",
+          "xlargeheight": 777
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2015/01/04/fashion/04APPS/04APPS-thumbWide-v2.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2015/01/04/fashion/04APPS/04APPS-thumbWide-v2.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2015/01/04/fashion/04APPS/04APPS-thumbStandard-v2.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2015/01/04/fashion/04APPS/04APPS-thumbStandard-v2.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "What Isn\u2019t There an App For?",
+      "kicker": "Circa Now",
+      "content_kicker": "Circa Now",
+      "print_headline": "What Isn\u2019t There an App for?",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Mobile Applications",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Advertising and Marketing",
+        "rank": 2,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2015-01-02T22:51:25+0000",
+    "document_type": "article",
+    "new_desk": "Styles",
+    "byline": {
+      "original": "By HENRY ALFORD",
+      "person": [
+        {
+          "firstname": "Henry",
+          "middlename": null,
+          "lastname": "ALFORD",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "54a720eb38f0d85f31aae57b",
+    "word_count": 2187,
+    "score": 1.0,
+    "uri": "nyt://article/12d9f31e-2c75-556b-87a6-c252fa882730"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2015/01/03/us/in-response-to-sony-attack-us-levies-sanctions-on-10-north-koreans.html",
+    "snippet": "The Obama administration doubled down on its allegation that North Korea&#8217;s leadership was behind the hacking of Sony Pictures.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "More Sanctions on North Korea After Sony Case",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "More Sanctions on North Korea After Sony Case",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "North Korea",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Sony Pictures Entertainment",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Cyberwarfare",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Movies",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Embargoes and Sanctions",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Politics and Government",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Obama, Barack",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "creative_works",
+        "value": "The Interview (Movie)",
+        "rank": 8,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2015-01-02T19:01:01+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Politics",
+    "byline": {
+      "original": "By DAVID E. SANGER and MICHAEL S. SCHMIDT",
+      "person": [
+        {
+          "firstname": "David",
+          "middlename": "E.",
+          "lastname": "SANGER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Michael",
+          "middlename": "S.",
+          "lastname": "SCHMIDT",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "54a6eaef38f0d85f31aae4e7",
+    "word_count": 1045,
+    "score": 1.0,
+    "uri": "nyt://article/a15f19be-ab87-5433-a935-02a61e5cf233"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2015/01/04/opinion/sunday/how-my-mom-got-hacked.html",
+    "snippet": "Navigating the nefarious, shadowy world of ransomware criminals.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2015/01/04/sunday-review/04CYBERWALL/04CYBERWALL-articleLarge-v2.gif",
+        "height": 399,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2015/01/04/sunday-review/04CYBERWALL/04CYBERWALL-articleLarge-v2.gif",
+          "xlargeheight": 399
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2015/01/04/sunday-review/04CYBERWALL/04CYBERWALL-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2015/01/04/sunday-review/04CYBERWALL/04CYBERWALL-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2015/01/04/sunday-review/04CYBERWALL/04CYBERWALL-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2015/01/04/sunday-review/04CYBERWALL/04CYBERWALL-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "How My Mom Got Hacked ",
+      "kicker": "Opinion",
+      "content_kicker": "Opinion",
+      "print_headline": "How My Mom Got Hacked",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Cyberattacks and Hackers",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Computer Security",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Bitcoin (Currency)",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "E-Commerce",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Internet Crime Complaint Center",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Federal Bureau of Investigation",
+        "rank": 7,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2015-01-02T23:14:09+0000",
+    "document_type": "article",
+    "new_desk": "OpEd",
+    "section_name": "Sunday Review",
+    "byline": {
+      "original": "By ALINA SIMONE",
+      "person": [
+        {
+          "firstname": "Alina",
+          "middlename": null,
+          "lastname": "SIMONE",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "Op-Ed",
+    "_id": "54a7264038f0d85f31aae585",
+    "word_count": 1673,
+    "score": 1.0,
+    "uri": "nyt://article/67081738-e473-5325-8870-e6ad18e6ba42"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2015/01/04/travel/a-prairie-prologue-in-nebraska-.html",
+    "snippet": "The author Jim Harrison recalls a teenage trip to the Sand Hills, which foretold the novels he would write years later.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2015/01/04/travel/04SANDHILLS_COMBO-Front/04SANDHILLS_COMBO-articleLarge.jpg",
+        "height": 507,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2015/01/04/travel/04SANDHILLS_COMBO-Front/04SANDHILLS_COMBO-articleLarge.jpg",
+          "xlargeheight": 507
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2015/01/04/travel/04SANDHILLS_COMBO-Front/04SANDHILLS_COMBO-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2015/01/04/travel/04SANDHILLS_COMBO-Front/04SANDHILLS_COMBO-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2015/01/04/travel/04SANDHILLS_COMBO-Front/04SANDHILLS_COMBO-thumbStandard-v2.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2015/01/04/travel/04SANDHILLS_COMBO-Front/04SANDHILLS_COMBO-thumbStandard-v2.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Jim Harrison: A Prairie Prologue in Nebraska",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "A Prairie Prologue",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Travel and Vacations",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Harrison, Jim",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Nebraska",
+        "rank": 3,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2015-01-02T18:59:52+0000",
+    "document_type": "article",
+    "new_desk": "Travel",
+    "byline": {
+      "original": "By JIM HARRISON",
+      "person": [
+        {
+          "firstname": "Jim",
+          "middlename": null,
+          "lastname": "HARRISON",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "54a6eaad38f0d85f31aae4e6",
+    "word_count": 2124,
+    "score": 1.0,
+    "uri": "nyt://article/20399abd-e5a0-515e-8221-18351b7759ac"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2015/01/03/your-money/an-annual-checkup-of-your-financial-health.html",
+    "snippet": "To track your financial progress, here are some personal markers you can turn to this year, and every year.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2015/01/03/your-money/03money-illo1/03money-illo1-articleLarge.jpg",
+        "height": 1237,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2015/01/03/your-money/03money-illo1/03money-illo1-articleLarge.jpg",
+          "xlargeheight": 1237
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2015/01/03/your-money/03money-illo1/03money-illo1-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2015/01/03/your-money/03money-illo1/03money-illo1-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2015/01/03/your-money/03money-illo1/03money-illo1-thumbStandard-v2.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2015/01/03/your-money/03money-illo1/03money-illo1-thumbStandard-v2.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Time to Assess Your Financial Fitness",
+      "kicker": "Your Money",
+      "content_kicker": "Your Money",
+      "print_headline": "Time to Assess Your Financial Fitness",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Personal Finances",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Savings",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Retirement",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Disability Insurance",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Tax Credits, Deductions and Exemptions",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2015-01-02T12:35:47+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By RON LIEBER",
+      "person": [
+        {
+          "firstname": "Ron",
+          "middlename": null,
+          "lastname": "LIEBER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "54a690a338f0d82181f3554d",
+    "word_count": 1261,
+    "score": 1.0,
+    "uri": "nyt://article/36e7e458-c7f1-5d1a-9fc8-b93451feb18b"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2015/01/02/health/ebola-doctors-are-divided-on-iv-therapy-in-africa.html",
+    "snippet": "Doctors seeking to stem the Ebola epidemic disagree on whether most patients in West Africa should, or can, be given intravenous hydration, a standard therapy in developed countries.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2015/01/02/world/africa/A1-sub-Hydrate/A1-sub-Hydrate-articleLarge.jpg",
+        "height": 480,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2015/01/02/world/africa/A1-sub-Hydrate/A1-sub-Hydrate-articleLarge.jpg",
+          "xlargeheight": 480
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2015/01/02/world/africa/A1-sub-Hydrate/A1-sub-Hydrate-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2015/01/02/world/africa/A1-sub-Hydrate/A1-sub-Hydrate-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2015/01/02/world/africa/A1-sub-Hydrate/A1-sub-Hydrate-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2015/01/02/world/africa/A1-sub-Hydrate/A1-sub-Hydrate-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Ebola Doctors Are Divided on IV Therapy in Africa",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Ebola Doctors Are Divided on IV Therapy in Africa",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Ebola Virus",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Africa",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Centers for Disease Control and Prevention",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "World Health Organization",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Partners in Health",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Doctors Without Borders",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Epidemics",
+        "rank": 7,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2015-01-02T02:36:35+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "byline": {
+      "original": "By DONALD G. McNEIL Jr",
+      "person": [
+        {
+          "firstname": "Donald",
+          "middlename": "G.",
+          "lastname": "McNEIL",
+          "qualifier": "Jr",
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "54a6043138f0d82181f351d4",
+    "word_count": 1725,
+    "score": 1.0,
+    "uri": "nyt://article/afcc234b-eadb-5b68-a2ce-60737c0f7550"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2015/01/02/nyregion/mario-cuomo-new-york-governor-and-liberal-beacon-dies-at-82.html",
+    "snippet": "Mr. Cuomo, a spellbinding orator and colorful personality who flirted with running for the presidency, lived to see his son Andrew follow in his footsteps as governor.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/06/05/obituaries/Mario-Cuomo-Advanced-Obit-slide-V377/Mario-Cuomo-Advanced-Obit-slide-V377-articleLarge.jpg",
+        "height": 401,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2013/06/05/obituaries/Mario-Cuomo-Advanced-Obit-slide-V377/Mario-Cuomo-Advanced-Obit-slide-V377-articleLarge.jpg",
+          "xlargeheight": 401
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/06/05/obituaries/Mario-Cuomo-Advanced-Obit-slide-V377/Mario-Cuomo-Advanced-Obit-slide-V377-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2013/06/05/obituaries/Mario-Cuomo-Advanced-Obit-slide-V377/Mario-Cuomo-Advanced-Obit-slide-V377-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/06/05/obituaries/Mario-Cuomo-Advanced-Obit-slide-V377/Mario-Cuomo-Advanced-Obit-slide-V377-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2013/06/05/obituaries/Mario-Cuomo-Advanced-Obit-slide-V377/Mario-Cuomo-Advanced-Obit-slide-V377-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Mario Cuomo, Ex-New York Governor and Liberal Beacon, Dies at 82",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Mario Cuomo, 82, Dies; Three-Term Governor Was a Liberal Beacon",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Deaths (Obituaries)",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Cuomo, Mario M",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "New York State",
+        "rank": 3,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2015-01-02T01:12:36+0000",
+    "document_type": "article",
+    "new_desk": "Metro",
+    "byline": {
+      "original": "By ADAM NAGOURNEY",
+      "person": [
+        {
+          "firstname": "Adam",
+          "middlename": null,
+          "lastname": "NAGOURNEY",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "Obituary (Obit)",
+    "_id": "54a5f08438f0d82181f35016",
+    "word_count": 4318,
+    "score": 1.0,
+    "uri": "nyt://article/f8057c3d-4eb0-57df-a24d-5d5ddd401bd4"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2015/01/03/us/gun-control-groups-blocked-in-washington-turn-attention-to-states.html",
+    "snippet": "The gun control movement, facing mounting losses in federal elections, is tweaking its name, refining its goals and using the gay-marriage movement as a model.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2015/01/02/us/03GUNS1-web/JP-GUNS1-articleLarge.jpg",
+        "height": 389,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2015/01/02/us/03GUNS1-web/JP-GUNS1-articleLarge.jpg",
+          "xlargeheight": 389
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2015/01/02/us/03GUNS1-web/JP-GUNS1-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2015/01/02/us/03GUNS1-web/JP-GUNS1-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2015/01/02/us/03GUNS1-web/JP-GUNS1-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2015/01/02/us/03GUNS1-web/JP-GUNS1-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Fight on Guns Is Being Taken to State Ballots",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Fight on Guns Is Being Taken to State Ballots",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Gun Control",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "States (US)",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Law and Legislation",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "National Rifle Assn",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Giffords, Gabrielle",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "McAuliffe, Terry",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Virginia",
+        "rank": 7,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2015-01-02T16:51:19+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "section_name": "Politics",
+    "byline": {
+      "original": "By JENNIFER STEINHAUER",
+      "person": [
+        {
+          "firstname": "Jennifer",
+          "middlename": null,
+          "lastname": "STEINHAUER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "54a6cc8438f0d82181f3560c",
+    "word_count": 1339,
+    "score": 1.0,
+    "uri": "nyt://article/fb019346-bf78-5cfc-ab72-29def6740b22"
+  }
+]
