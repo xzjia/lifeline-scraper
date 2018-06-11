@@ -3,6 +3,11 @@ import re
 from datetime import datetime
 from requests_html import HTMLSession
 
+SPLIT_HYPHEN = '-|–|－'
+EVENTS_INDEX = 1
+BIRTHS_INDEX = 2
+DEATHS_INDEX = 3
+
 
 class bcolors:
     HEADER = '\033[95m'
@@ -23,13 +28,26 @@ def get_date_links():
     return set.union(*map(lambda one_month: one_month.absolute_links, nav))
 
 
+def get_correct_raw_html(html_string):
+    with_links = html_string.replace(
+        '/wiki/', 'https://en.wikipedia.org/wiki/')
+    splitted = re.split(SPLIT_HYPHEN, with_links, maxsplit=1)
+    assert len(splitted) == 2
+    return splitted[1]
+
+
+def get_correct_links(links, year):
+    res = [x for x in links if year not in x]
+    return res
+
+
 def process_events(events_list, date_without_year, postfix=''):
     def event_2_dict(event):
         if event.find('ul'):
             print('{}Error: Nested list of {} {} **{}** '.format(bcolors.FAIL, date_without_year,
                                                                  bcolors.ENDC, event.text))
             return None
-        splitted = re.split('-|–|－', event.text)
+        splitted = re.split(SPLIT_HYPHEN, event.text, maxsplit=1)
         if len(splitted) < 2:
             print('{}Error: No hyphen of {} {} **{}** '.format(bcolors.FAIL, date_without_year,
                                                                bcolors.ENDC, event.text))
@@ -39,8 +57,8 @@ def process_events(events_list, date_without_year, postfix=''):
         desc = splitted[1].strip()
         result['date'] = year + '-' + date_without_year
         result['title'] = desc + postfix
-        result['text'] = event.html
-        result['link'] = list(event.absolute_links)
+        result['text'] = get_correct_raw_html(event.html)
+        result['link'] = get_correct_links(event.absolute_links, year)
         return result
     return filter(lambda e: e, map(event_2_dict, events_list))
 
@@ -71,11 +89,11 @@ def get_one_date(one_date_wiki_url, date_without_year):
         assert '1 Events' in all_uls[0].text
         offset = 0
     result.extend(process_one_list(
-        all_uls[1+offset].find('li'), 'events', date_without_year))
+        all_uls[EVENTS_INDEX+offset].find('li'), 'events', date_without_year))
     result.extend(process_one_list(
-        all_uls[2+offset].find('li'), 'births', date_without_year))
+        all_uls[BIRTHS_INDEX+offset].find('li'), 'births', date_without_year))
     result.extend(process_one_list(
-        all_uls[3+offset].find('li'), 'deaths', date_without_year))
+        all_uls[DEATHS_INDEX+offset].find('li'), 'deaths', date_without_year))
     return result
 
 
@@ -92,11 +110,6 @@ def process_one_date(one_date_wiki_url):
 
 
 def main():
-    # Some data needs to be fixed by hand because of unstructured Wikipedia page
-    # 1936-7-18: Fix the wrong hyphen place
-    # Feb-6: Delete entries that has no year because of bad hyphen location
-    # 1959-11-20: Fix the wrong hyphen place
-    # Sep-11: Delete entries that has no year because of bad hyphen location
     all_links = get_date_links()
     for single_link in all_links:
         process_one_date(single_link)
