@@ -92,6 +92,11 @@ def process_one_date(one_date_wiki_url):
 
 
 def main():
+    # Some data needs to be fixed by hand because of unstructured Wikipedia page
+    # 1936-7-18: Fix the wrong hyphen place
+    # Feb-6: Delete entries that has no year because of bad hyphen location
+    # 1959-11-20: Fix the wrong hyphen place
+    # Sep-11: Delete entries that has no year because of bad hyphen location
     all_links = get_date_links()
     for single_link in all_links:
         process_one_date(single_link)
