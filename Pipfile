@@ -9,6 +9,7 @@ alembic = "*"
 sqlalchemy = "*"
 "psycopg2-binary" = "*"
 requests-html = "*"
+"boto3" = "*"
 
 [dev-packages]
 pylint = "*"
