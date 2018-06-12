@@ -1,0 +1,313 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2010/08/31/nyregion/31nyecon.html",
+    "snippet": "The city has weathered the recession better than was feared, but the view is often bleaker outside Manhattan.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/08/31/nyregion/31econspan/31econspan-articleLarge.jpg",
+        "height": 315,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2010/08/31/nyregion/31econspan/31econspan-articleLarge.jpg",
+          "xlargeheight": 315
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/08/31/nyregion/31econspan/31econspan-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2010/08/31/nyregion/31econspan/31econspan-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/08/31/nyregion/31econspan/31econspan-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/08/31/nyregion/31econspan/31econspan-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "New York Rebounds From Slump, Unevenly",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "New York Gains Economic Health Faster Than U.S.",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Recession and Depression",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "New York City",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Economic Conditions and Trends",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Labor and Jobs",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Unemployment",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-08-30T16:05:26+0000",
+    "document_type": "article",
+    "new_desk": "Metro",
+    "byline": {
+      "original": "By PATRICK McGEEHAN",
+      "person": [
+        {
+          "firstname": "Patrick",
+          "middlename": null,
+          "lastname": "McGEEHAN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "541a134238f0d80959e6c1b5",
+    "word_count": 1512,
+    "score": 1.0,
+    "uri": "nyt://article/f724e842-cc52-5e9d-81e2-457fc661bbee"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2010/08/31/health/research/31muscle.html",
+    "snippet": "Why muscles wither is captivating more scientists and drug and food companies, let alone aging baby boomers.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/08/31/business/31MUSCLE-1283203800170/31MUSCLE-1283203800170-articleLarge.jpg",
+        "height": 330,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2010/08/31/business/31MUSCLE-1283203800170/31MUSCLE-1283203800170-articleLarge.jpg",
+          "xlargeheight": 330
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/08/31/business/31MUSCLE-1283203800170/31MUSCLE-1283203800170-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/08/31/business/31MUSCLE-1283203800170/31MUSCLE-1283203800170-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Doctors Seek Way to Treat Muscle Loss",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Keeping Old Bodies Strong",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Muscles",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Elderly",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Drugs (Pharmaceuticals)",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-08-30T20:46:24+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "section_name": "Research",
+    "byline": {
+      "original": "By ANDREW POLLACK",
+      "person": [
+        {
+          "firstname": "Andrew",
+          "middlename": null,
+          "lastname": "POLLACK",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "541a15c038f0d80959e6c1ed",
+    "word_count": 1126,
+    "score": 1.0,
+    "uri": "nyt://article/e0b38063-78c5-5bde-9415-e17da4f60049"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2010/08/30/technology/30adstalk.html",
+    "snippet": "Ads tailored to online shoppers based on the products they have perused are leaving consumers with an eerie feeling.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/08/30/business/adstalk/adstalk-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/08/30/business/adstalk/adstalk-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Retargeting Ads Follow Surfers to Other Sites",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Seeing That Ad on Every Site? You\u2019re Right. It\u2019s Tracking You.",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Online Advertising",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Zappos",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "E-Commerce",
+        "rank": 3,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-08-30T02:44:08+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By MIGUEL HELFT and TANZINA VEGA",
+      "person": [
+        {
+          "firstname": "Miguel",
+          "middlename": null,
+          "lastname": "HELFT",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Tanzina",
+          "middlename": null,
+          "lastname": "VEGA",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "541a101838f0d80959e6c172",
+    "word_count": 1178,
+    "score": 1.0,
+    "uri": "nyt://article/8131e6ad-7ad2-572f-a2bf-a8317201e224"
+  }
+]

@@ -1,0 +1,133 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2014/02/16/us/rescuing-a-vietnam-casualty-johnsons-legacy.html",
+    "snippet": "As the 50th anniversary of Lyndon B. Johnson\u2019s presidential milestones approaches, his allies are highlighting domestic successes they say were overshadowed by the Vietnam War.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2014/02/16/us/sub-lbj/sub-lbj-articleLarge.jpg",
+        "height": 672,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2014/02/16/us/sub-lbj/sub-lbj-articleLarge.jpg",
+          "xlargeheight": 672
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2014/02/16/us/sub-lbj/sub-lbj-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2014/02/16/us/sub-lbj/sub-lbj-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2014/02/16/us/sub-lbj/sub-lbj-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2014/02/16/us/sub-lbj/sub-lbj-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Rescuing a Vietnam Casualty: Johnson\u2019s Legacy",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Rescuing a Vietnam Casualty: Johnson\u2019s Legacy",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Johnson, Lyndon Baines",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Vietnam War",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Johnson, Lyndon Baines, Presidential Library",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Johnson, Lyndon Baines, Foundation",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Johnson, Luci Baines",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Robb, Lynda Bird Johnson",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2014-02-16T01:37:41+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "byline": {
+      "original": "By ADAM NAGOURNEY",
+      "person": [
+        {
+          "firstname": "Adam",
+          "middlename": null,
+          "lastname": "NAGOURNEY",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5300166738f0d8295c4a21ed",
+    "word_count": 1531,
+    "score": 1.0,
+    "uri": "nyt://article/64ee4bee-90e9-50f0-8ee3-c4d1e4d7119c"
+  }
+]

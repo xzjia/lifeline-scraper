@@ -1,0 +1,104 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2010/06/20/education/20donovan.html",
+    "snippet": "School districts try to balance instruction in functional skills and academics with providing custodial care.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/06/20/nyregion/20donovan-span/20donovan-span-articleLarge-v2.jpg",
+        "height": 354,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2010/06/20/nyregion/20donovan-span/20donovan-span-articleLarge-v2.jpg",
+          "xlargeheight": 354
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/06/20/nyregion/20donovan-span/20donovan-span-thumbStandard-v2.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/06/20/nyregion/20donovan-span/20donovan-span-thumbStandard-v2.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "A Struggle to Educate the Severely Disabled",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Educating Donovan: A 15-Year Struggle",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Special Education (Handicapped)",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Education and Schools",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "United States",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "New York City",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-06-20T01:34:40+0000",
+    "document_type": "article",
+    "new_desk": "Metro",
+    "byline": {
+      "original": "By SHARON OTTERMAN",
+      "person": [
+        {
+          "firstname": "Sharon",
+          "middlename": null,
+          "lastname": "OTTERMAN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5417ab8738f0d851fd3a84a9",
+    "word_count": 3841,
+    "score": 1.0,
+    "uri": "nyt://article/72ead9cc-6095-5092-bc4f-6f4f43baa98b"
+  }
+]

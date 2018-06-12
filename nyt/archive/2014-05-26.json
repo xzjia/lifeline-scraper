@@ -1,0 +1,122 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2014/05/27/world/europe/established-parties-rocked-by-anti-europe-vote.html",
+    "snippet": "In France, Britain and elsewhere, voters turned against traditional parties to support anti-immigrant groups opposed to the European Union.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2014/05/27/world/JP-EUROVOTE/JP-EUROVOTE-articleLarge.jpg",
+        "height": 560,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2014/05/27/world/JP-EUROVOTE/JP-EUROVOTE-articleLarge.jpg",
+          "xlargeheight": 560
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2014/05/27/world/JP-EUROVOTE/JP-EUROVOTE-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2014/05/27/world/JP-EUROVOTE/JP-EUROVOTE-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2014/05/27/world/JP-EUROVOTE/JP-EUROVOTE-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2014/05/27/world/JP-EUROVOTE/JP-EUROVOTE-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Populists\u2019 Rise in Europe Vote Shakes Leaders",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Populists\u2019 Rise in Europe Vote Shakes Leaders",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Elections",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Europe",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "European Parliament",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "European Union",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2014-05-26T12:37:30+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Europe",
+    "byline": {
+      "original": "By ANDREW HIGGINS",
+      "person": [
+        {
+          "firstname": "Andrew",
+          "middlename": null,
+          "lastname": "HIGGINS",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "59f6275b7c459f246b6316f2",
+    "word_count": 1348,
+    "score": 1.0,
+    "uri": "nyt://article/0610982e-1f78-5b10-a7e7-c5332588141f"
+  }
+]

@@ -1,0 +1,514 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2009/11/19/fashion/19stylist.html",
+    "snippet": "Lisa Kline, the New York stylist who bought Sarah Palin and her family their notorious $150,000 wardrobes, goes public with details of the spending.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/11/18/fashion/19stylist4_337-span/articleLarge.jpg",
+        "height": 330,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/11/18/fashion/19stylist4_337-span/articleLarge.jpg",
+          "xlargeheight": 330
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/11/18/fashion/19stylist4_337-span/thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/11/18/fashion/19stylist4_337-span/thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Only Palin\u2019s Stylist Knows for Sure",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Only Her Stylist Knows for Sure",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Palin, Sarah",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Fashion and Apparel",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Conventions, National (US)",
+        "rank": 3,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-11-18T22:28:12+0000",
+    "document_type": "article",
+    "new_desk": "Styles",
+    "byline": {
+      "original": "By LAUREN LIPTON",
+      "person": [
+        {
+          "firstname": "Lauren",
+          "middlename": null,
+          "lastname": "LIPTON",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "545899fa38f0d8086c45e879",
+    "word_count": 1584,
+    "score": 1.0,
+    "uri": "nyt://article/381f2193-222b-5794-b5aa-40654455cb76"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/11/18/technology/18reader.html",
+    "snippet": "Some readers prefer the convenience of small-screen smartphones to e-readers.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/11/18/business/18reader_CA0/articleLarge.jpg",
+        "height": 329,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/11/18/business/18reader_CA0/articleLarge.jpg",
+          "xlargeheight": 329
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/11/18/business/18reader_CA0/thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/11/18/business/18reader_CA0/thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Cellphone Apps Challenge the Rise of E-Readers",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Library in a Pocket",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Electronic Books and Readers",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "iPhone",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Smartphones",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Computers and the Internet",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Books and Literature",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Software",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Amazon Kindle",
+        "rank": 7,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-11-18T01:37:05+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By MOTOKO RICH and BRAD STONE",
+      "person": [
+        {
+          "firstname": "Motoko",
+          "middlename": null,
+          "lastname": "RICH",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Brad",
+          "middlename": null,
+          "lastname": "STONE",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5458944238f0d8086c45e7fb",
+    "word_count": 1029,
+    "score": 1.0,
+    "uri": "nyt://article/a093e2bd-6d2b-51f7-a60e-e238f23addf2"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/11/18/science/earth/18offset.html",
+    "snippet": "The sheer size of the airline industry\u2019s emissions makes it hard to judge the effectiveness of carbon offset programs.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/11/18/world/18offset_CA0/thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/11/18/world/18offset_CA0/thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Paying More for Flights Eases Guilt, Not Emissions",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Paying a Bit Extra Each Flight Eases Guilt but Not Emissions",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Carbon Dioxide",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Greenhouse Gas Emissions",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Airlines and Airplanes",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Environment",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-11-18T02:17:45+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Environment",
+    "byline": {
+      "original": "By ELISABETH ROSENTHAL",
+      "person": [
+        {
+          "firstname": "Elisabeth",
+          "middlename": null,
+          "lastname": "ROSENTHAL",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "545896a038f0d8086c45e828",
+    "word_count": 1136,
+    "score": 1.0,
+    "uri": "nyt://article/3e074a88-e6b7-542c-99fa-95ab914292a1"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/11/18/business/economy/18leonhardt.html",
+    "snippet": "A \u201ccash for caulkers\u201d program has the potential to get contractors working again, as well as keep more money in homeowners\u2019 pockets.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/11/18/business/18leonhardt_CA0_337-395/thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/11/18/business/18leonhardt_CA0_337-395/thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "A Stimulus That Could Save Money",
+      "kicker": "Economic Scene",
+      "content_kicker": "Economic Scene",
+      "print_headline": "A Stimulus That Could Save Money",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Energy Efficiency",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Buildings (Structures)",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Economy",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Law and Legislation",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Car Allowance Rebate System",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Economic Conditions and Trends",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "American Recovery and Reinvestment Act (2009)",
+        "rank": 8,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-11-18T02:12:02+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "section_name": "Economy",
+    "byline": {
+      "original": "By DAVID LEONHARDT",
+      "person": [
+        {
+          "firstname": "David",
+          "middlename": null,
+          "lastname": "LEONHARDT",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "545895d438f0d8086c45e824",
+    "word_count": 1218,
+    "score": 1.0,
+    "uri": "nyt://article/37884cd0-eb35-5b5a-ba1d-030c46113577"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/11/19/garden/19manners.html",
+    "snippet": "When families come together, rudeness is often served with the cranberries and yams.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/11/19/garden/19mannersspan-1/articleLarge.jpg",
+        "height": 327,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/11/19/garden/19mannersspan-1/articleLarge.jpg",
+          "xlargeheight": 327
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/11/19/garden/19mannersspan-1/thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/11/19/garden/19mannersspan-1/thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Duck! It\u2019s the Holidays.",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Duck! It\u2019s the Holidays.",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Families and Family Life",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Thanksgiving Day",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Customs, Etiquette and Manners",
+        "rank": 3,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-11-18T23:43:33+0000",
+    "document_type": "article",
+    "new_desk": "Home",
+    "byline": {
+      "original": "By JOYCE WADLER",
+      "person": [
+        {
+          "firstname": "Joyce",
+          "middlename": null,
+          "lastname": "WADLER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "54589b9f38f0d8086c45e89e",
+    "word_count": 2453,
+    "score": 1.0,
+    "uri": "nyt://article/c8d36368-bb69-58c4-beaf-a193dddb94d7"
+  }
+]

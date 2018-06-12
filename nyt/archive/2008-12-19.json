@@ -1,0 +1,493 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2008/12/20/business/20auto.html",
+    "snippet": "A $13.4 billion loan to General Motors and Chrysler may be followed by $4 billion more if the Obama administration finds sufficient progress.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/12/19/business/bailout.span.jpg",
+        "height": 295,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2008/12/19/business/bailout.span.jpg",
+          "xlargeheight": 295
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/12/19/business/bailout.75755.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2008/12/19/business/bailout.75755.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Bush Aids Detroit, but Hard Choices Wait for Obama",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "BUSH AIDS DETROIT, BUT HARD CHOICES WAIT FOR OBAMA",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "organizations",
+        "value": "General Motors Corp",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Chrysler LLC",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Subprime Mortgage Crisis",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Politics and Government",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2008-12-19T14:10:00+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By DAVID E. SANGER, DAVID M. HERSZENHORN and BILL VLASIC",
+      "person": [
+        {
+          "firstname": "David",
+          "middlename": "E.",
+          "lastname": "SANGER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "David",
+          "middlename": null,
+          "lastname": null,
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5475a75b38f0d8119c6afdbb",
+    "word_count": 1359,
+    "score": 1.0,
+    "uri": "nyt://article/fddce805-c674-5866-bf81-ae16f12d8514"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2008/12/20/your-money/taxes/20money.html",
+    "snippet": "Even some tax experts are scratching their heads about how best to approach your 2008 tax bill.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/12/20/your-money/ym_75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2008/12/20/your-money/ym_75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Searching the Tax Code for Upsides to a Downturn",
+      "kicker": "Your Money",
+      "content_kicker": "Your Money",
+      "print_headline": "Searching for Tax Upsides to a Downturn",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Taxation",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Missing Persons",
+        "rank": 2,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2008-12-19T20:07:18+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "section_name": "Taxes",
+    "byline": {
+      "original": "By TARA SIEGEL BERNARD",
+      "person": [
+        {
+          "firstname": "Tara",
+          "middlename": "Siegel",
+          "lastname": "BERNARD",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5475a8ec38f0d8119c6afddb",
+    "word_count": 1351,
+    "score": 1.0,
+    "uri": "nyt://article/9dcf667c-9eed-5511-a1bf-ab1f62ab7705"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2008/12/21/travel/21airport.html",
+    "snippet": "Over the holidays, travelers will be spending a lot of time in airports, coping with cancellations, delays and endless lines. In some places, they can also get a decent meal.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/12/20/travel/AIRPORT_600.jpg",
+        "height": 400,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2008/12/20/travel/AIRPORT_600.jpg",
+          "xlargeheight": 400
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/12/20/travel/21airport_75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2008/12/20/travel/21airport_75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Grabbing a Bite Between Flights",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Grabbing a Bite Between Flights",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Travel and Vacations",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Food",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Airports",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Business Travel",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2008-12-19T14:12:30+0000",
+    "document_type": "article",
+    "new_desk": "Travel",
+    "byline": {
+      "original": "By MATT GROSS",
+      "person": [
+        {
+          "firstname": "Matt",
+          "middlename": null,
+          "lastname": "GROSS",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "545bb48c38f0d85e5ee910d3",
+    "word_count": 2900,
+    "score": 1.0,
+    "uri": "nyt://article/141a6dd3-4b74-5e2d-8c19-d8ba5e409c1d"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2008/12/19/business/19tax.html",
+    "snippet": "A 1997 change that ended the capital gains tax on home sales was a new incentive to plow money into real estate.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/12/19/business/19tax01-600.jpg",
+        "height": 320,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2008/12/19/business/19tax01-600.jpg",
+          "xlargeheight": 320
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/12/19/business/19tax01-75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2008/12/19/business/19tax01-75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Tax Break May Have Helped Cause Housing Bubble",
+      "kicker": "The Reckoning",
+      "content_kicker": "The Reckoning",
+      "print_headline": "1997 Tax Break on Home Sales May Have Helped Inflate Bubble",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Subprime Mortgage Crisis",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Housing",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Capital Gains Tax",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Sales",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Tax Exemptions",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Clinton, Bill",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Economy",
+        "rank": 7,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2008-12-19T02:54:41+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By VIKAS BAJAJ and DAVID LEONHARDT",
+      "person": [
+        {
+          "firstname": "Vikas",
+          "middlename": null,
+          "lastname": "BAJAJ",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "David",
+          "middlename": null,
+          "lastname": "LEONHARDT",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "Series",
+    "_id": "5475a61438f0d8119c6afd9a",
+    "word_count": 1900,
+    "score": 1.0,
+    "uri": "nyt://article/e21511c6-224d-5651-bf0b-8a3adb2350f0"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2008/12/19/nyregion/19santa.html",
+    "snippet": "A program that lets New Yorkers buy presents for needy children was shut down because of a \u201cprivacy breach.\u201d",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "Postal Service Tells Gift-Givers Not to Help Santa",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "After Breach, Post Office Says Santa Doesn\u2019t Need Any Help",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Postal Service",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Santa Claus",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Christmas",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Holidays and Special Occasions",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Children and Youth",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2008-12-19T02:55:24+0000",
+    "document_type": "article",
+    "new_desk": "Metro",
+    "byline": {
+      "original": "By N. R. KLEINFIELD",
+      "person": [
+        {
+          "firstname": "N.",
+          "middlename": "R.",
+          "lastname": "KLEINFIELD",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5475a5b938f0d8119c6afd93",
+    "word_count": 965,
+    "score": 1.0,
+    "uri": "nyt://article/c9243ba5-6c38-538c-94a9-64d809afe3cf"
+  }
+]

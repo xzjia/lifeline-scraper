@@ -1,0 +1,171 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2009/02/11/business/economy/11bailout.html",
+    "snippet": "The White House plan to rescue the financial system is far bigger than predicted and envisions a far greater government role in markets and banks than at any time since the 1930s.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "Bailout Plan: $2.5 Trillion and a Strong U.S. Hand",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Bailout Plan: $2.5 Trillion and a Strong U.S. Hand",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Geithner, Timothy F",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Obama Stimulus Plan",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Banks and Banking",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Treasury Department",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Emergency Economic Stabilization Act (2008)",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-02-10T14:08:15+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "section_name": "Economy",
+    "byline": {
+      "original": "By EDMUND L. ANDREWS and STEPHEN LABATON",
+      "person": [
+        {
+          "firstname": "Edmund",
+          "middlename": "L.",
+          "lastname": "ANDREWS",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Stephen",
+          "middlename": null,
+          "lastname": "LABATON",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "53f597b438f0d87ef470e7e2",
+    "word_count": 1587,
+    "score": 1.0,
+    "uri": "nyt://article/16136580-d965-5cde-acab-1b0318977fe1"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/02/11/dining/11check.html",
+    "snippet": "Since the economic downturn, many business meals are ending with a cold, hard calculation of who is worth paying for and who isn\u2019t.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/02/10/dining/11check_75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/02/10/dining/11check_75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "At the Power Lunch, the Check Is Kryptonite",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "At the Power Lunch, The Check Is Kryptonite",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Restaurants",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Customs, Etiquette and Manners",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Executives and Management",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Recession and Depression",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-02-10T23:33:17+0000",
+    "document_type": "article",
+    "new_desk": "Dining",
+    "byline": {
+      "original": "By LAURA M. HOLSON",
+      "person": [
+        {
+          "firstname": "Laura",
+          "middlename": null,
+          "lastname": null,
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5474c68038f0d8119c6aec58",
+    "word_count": 1406,
+    "score": 1.0,
+    "uri": "nyt://article/c0d7ef62-23d8-5b80-acec-387ec97ea07a"
+  }
+]

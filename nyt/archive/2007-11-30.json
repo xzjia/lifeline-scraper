@@ -1,0 +1,218 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2007/11/30/sports/30obesity.html",
+    "snippet": "Weight problems among high school football players have far outpaced those of other male children and adolescents, according to two recent medical studies.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2007/11/30/sports/30obesity-600.jpg",
+        "height": 330,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2007/11/30/sports/30obesity-600.jpg",
+          "xlargeheight": 330
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2007/11/30/sports/30obesity-75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2007/11/30/sports/30obesity-75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Putting on Weight for Football Glory",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Assuming an Unhealthy Burden In the Pursuit of Football Glory",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Medicine and Health",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Obesity",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Weight",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Football",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "National Football League",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2007-11-30T05:00:00+0000",
+    "document_type": "article",
+    "new_desk": "Sports",
+    "byline": {
+      "original": "By JER\u00c9 LONGMAN",
+      "person": [
+        {
+          "firstname": "Jer\u00e9",
+          "middlename": null,
+          "lastname": "LONGMAN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5488465138f0d8602128f324",
+    "word_count": 1586,
+    "score": 1.0,
+    "uri": "nyt://article/2c85b804-c84b-5b94-bcc3-33d620fe1b29"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2007/11/30/business/30golden.html",
+    "snippet": "Medicare spends billions of dollars each year on products and services that are available at far lower prices.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2007/11/30/business/30golden_span.600.jpg",
+        "height": 324,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2007/11/30/business/30golden_span.600.jpg",
+          "xlargeheight": 324
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2007/11/30/business/30golden_span.75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2007/11/30/business/30golden_span.75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Oxygen Suppliers Fight to Keep a Medicare Boon",
+      "kicker": "Golden Opportunities",
+      "content_kicker": "Golden Opportunities",
+      "print_headline": "Oxygen Suppliers Fight to Keep a Medicare Boon",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Medicare",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Oxygen",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Medicine and Health",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Health Insurance and Managed Care",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Prices (Fares, Fees and Rates)",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2007-11-30T05:00:00+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By CHARLES DUHIGG",
+      "person": [
+        {
+          "firstname": "Charles",
+          "middlename": null,
+          "lastname": "DUHIGG",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "Series",
+    "_id": "54828a9f38f0d8403d9cc75a",
+    "word_count": 2375,
+    "score": 1.0,
+    "uri": "nyt://article/a5318692-620c-5f5b-94a1-64f73d0ac4b3"
+  }
+]

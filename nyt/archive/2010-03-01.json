@@ -1,0 +1,667 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2010/03/02/us/politics/02senate.html",
+    "snippet": "Senator Barbara Boxer, a three-term California Democrat, is seen as vulnerable, but divisions among Republicans have opened up in the primary.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/03/02/us/02senate_CA0/02senate_CA0-articleLarge.jpg",
+        "height": 330,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2010/03/02/us/02senate_CA0/02senate_CA0-articleLarge.jpg",
+          "xlargeheight": 330
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/03/02/us/02senate_CA0/02senate_CA0-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/03/02/us/02senate_CA0/02senate_CA0-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "G.O.P. Aims for California, but Rifts Arise",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "G.O.P. Aims For California, But Rifts Arise",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Boxer, Barbara",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Republican Party",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Senate",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "California",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Fiorina, Carleton S",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Campbell, Tom",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-03-01T17:42:48+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "section_name": "Politics",
+    "byline": {
+      "original": "By ADAM NAGOURNEY",
+      "person": [
+        {
+          "firstname": "Adam",
+          "middlename": null,
+          "lastname": "NAGOURNEY",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "544367ee38f0d8246e88d235",
+    "word_count": 1164,
+    "score": 1.0,
+    "uri": "nyt://article/fabc4a6f-2648-5ca7-9d6c-9f8218a40548"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2010/03/01/us/politics/01nuke.html",
+    "snippet": "Aides to President Obama say he will permanently reduce America\u2019s arsenal by thousands of weapons.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "White House Is Rethinking Nuclear Policy",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "White House Is Rethinking Nuclear Policy",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Nuclear Weapons",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "United States",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Obama, Barack",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Defense and Military Forces",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Arms Control and Limitation and Disarmament",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States International Relations",
+        "rank": 7,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-03-01T04:01:33+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Politics",
+    "byline": {
+      "original": "By DAVID E. SANGER and THOM SHANKER",
+      "person": [
+        {
+          "firstname": "David",
+          "middlename": "E.",
+          "lastname": "SANGER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Thom",
+          "middlename": null,
+          "lastname": "SHANKER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5443653838f0d8246e88d201",
+    "word_count": 1305,
+    "score": 1.0,
+    "uri": "nyt://article/94c34028-f968-5c60-bd4e-47ab2a9bc4c2"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2010/03/02/technology/02billboard.html",
+    "snippet": "The effect of high-tech billboards on highway safety is being debated in state legislatures.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/03/02/technology/02billboard-2/02billboard-2-articleLarge.jpg",
+        "height": 315,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2010/03/02/technology/02billboard-2/02billboard-2-articleLarge.jpg",
+          "xlargeheight": 315
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/03/02/technology/02billboard-2/02billboard-2-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/03/02/technology/02billboard-2/02billboard-2-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Digital Billboards, Diversions Drivers Can\u2019t Escape",
+      "kicker": "Driven to Distraction",
+      "content_kicker": "Driven to Distraction",
+      "print_headline": "Roadside Marquee",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Outdoor Advertising",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Accidents and Safety",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Automobiles",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Roads and Traffic",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Law and Legislation",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Michigan",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-03-01T23:20:29+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By MATT RICHTEL",
+      "person": [
+        {
+          "firstname": "Matt",
+          "middlename": null,
+          "lastname": "RICHTEL",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "Series",
+    "_id": "54436c1438f0d8246e88d290",
+    "word_count": 1164,
+    "score": 1.0,
+    "uri": "nyt://article/e12b6d61-b944-571f-845c-02a09a077024"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2010/03/02/science/02evo.html",
+    "snippet": "Biologists are finding evidence that culture has been interacting with genes to shape human evolution.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/03/02/science/02evo_span/02evo_span-articleLarge.jpg",
+        "height": 315,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2010/03/02/science/02evo_span/02evo_span-articleLarge.jpg",
+          "xlargeheight": 315
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/03/02/science/02evo_span/02evo_span-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/03/02/science/02evo_span/02evo_span-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Human Culture, an Evolutionary Force",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Human Culture, an Evolutionary Force",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Evolution",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Genetics and Heredity",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Archaeology and Anthropology",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Science and Technology",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-03-01T22:06:19+0000",
+    "document_type": "article",
+    "new_desk": "Science",
+    "byline": {
+      "original": "By NICHOLAS WADE",
+      "person": [
+        {
+          "firstname": "Nicholas",
+          "middlename": null,
+          "lastname": "WADE",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "54436ab538f0d8246e88d274",
+    "word_count": 1551,
+    "score": 1.0,
+    "uri": "nyt://article/3351c1ba-485b-532a-9c13-6b6b6da93e4b"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2010/03/01/us/01water.html",
+    "snippet": "Many of the nation\u2019s largest water polluters are outside the E.P.A.\u2019s reach because of disputes on jurisdiction.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/03/01/business/01water_CA0/01water_CA0-articleLarge.jpg",
+        "height": 360,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2010/03/01/business/01water_CA0/01water_CA0-articleLarge.jpg",
+          "xlargeheight": 360
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/03/01/business/01water_CA0/01water_CA0-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/03/01/business/01water_CA0/01water_CA0-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Rulings Restrict Clean Water Act, Foiling E.P.A.",
+      "kicker": "Toxic Waters",
+      "content_kicker": "Toxic Waters",
+      "print_headline": "RULINGS RESTRICT CLEAN WATER ACT, HAMPERING E.P.A.",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Clean Water Act",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Supreme Court",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Environmental Protection Agency",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Water Pollution",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Law and Legislation",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Water",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Environment",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Waste Materials and Disposal",
+        "rank": 8,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-03-01T02:21:56+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By CHARLES DUHIGG and JANET ROBERTS",
+      "person": [
+        {
+          "firstname": "Charles",
+          "middlename": null,
+          "lastname": "DUHIGG",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Janet",
+          "middlename": null,
+          "lastname": "ROBERTS",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5443645338f0d8246e88d1ee",
+    "word_count": 1626,
+    "score": 1.0,
+    "uri": "nyt://article/112a4512-ae3c-541c-ae00-d9aef097b5fa"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2010/03/02/science/02topo.html",
+    "snippet": "Some believe that a practice called peering is fundamentally altering the Net. Others say it is of little consequence.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/03/02/science/02topo_span/02topo_span-articleLarge.jpg",
+        "height": 300,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2010/03/02/science/02topo_span/02topo_span-articleLarge.jpg",
+          "xlargeheight": 300
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/03/02/science/02topo_span/02topo_span-thumbStandard-v2.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/03/02/science/02topo_span/02topo_span-thumbStandard-v2.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Scientists Strive to Map the Shape-Shifting Net",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Striving to Map the Shape-Shifting Net",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Computers and the Internet",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Computer Security",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Cloud Computing",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Data Centers",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Science and Technology",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-03-01T22:26:07+0000",
+    "document_type": "article",
+    "new_desk": "Science",
+    "byline": {
+      "original": "By JOHN MARKOFF",
+      "person": [
+        {
+          "firstname": "John",
+          "middlename": null,
+          "lastname": "MARKOFF",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "54436b8138f0d8246e88d285",
+    "word_count": 1837,
+    "score": 1.0,
+    "uri": "nyt://article/c2dc63ca-b003-5c35-9ade-e663e7b6f6fe"
+  }
+]

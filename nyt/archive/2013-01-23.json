@@ -1,0 +1,711 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2013/01/24/technology/apple-earnings.html",
+    "snippet": "Investors have come to expect nothing short of perfection from Apple, but with the company\u2019s stock sinking 11 percent, it is clear there are a range of challenges.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/01/24/technology/24apple-web/24apple-web-articleLarge-v2.jpg",
+        "height": 370,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2013/01/24/technology/24apple-web/24apple-web-articleLarge-v2.jpg",
+          "xlargeheight": 370
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/01/24/technology/24apple-web/24apple-web-thumbWide-v2.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2013/01/24/technology/24apple-web/24apple-web-thumbWide-v2.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/01/24/technology/24apple-web/24apple-web-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2013/01/24/technology/24apple-web/24apple-web-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Heady Returns, but Apple Finds Its Stock Falling",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Heady Returns, But Apple Finds Its Stock Falling",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Company Reports",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Apple Inc",
+        "rank": 2,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2013-01-23T22:13:32+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By NICK WINGFIELD",
+      "person": [
+        {
+          "firstname": "Nick",
+          "middlename": null,
+          "lastname": "WINGFIELD",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "59382cf87c459f24986e446e",
+    "word_count": 1003,
+    "score": 1.0,
+    "uri": "nyt://article/ad403d01-d5fb-511b-861b-d86d0e0dd060"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2013/01/24/us/politics/house-passes-3-month-extension-of-debt-limit.html",
+    "snippet": "The move staves off an impasse that could have been disastrous, but an economic showdown with the president is still looming.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/01/24/us/24congress-1/24congress-1-articleLarge.jpg",
+        "height": 400,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2013/01/24/us/24congress-1/24congress-1-articleLarge.jpg",
+          "xlargeheight": 400
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/01/24/us/24congress-1/24congress-1-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2013/01/24/us/24congress-1/24congress-1-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/01/24/us/24congress-1/24congress-1-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2013/01/24/us/24congress-1/24congress-1-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "House Vote Sidesteps an Ultimatum on Debt",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "House Vote Sidesteps an Ultimatum on Debt",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Federal Budget (US)",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "House of Representatives",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Obama, Barack",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "National Debt (US)",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2013-01-23T18:40:46+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "section_name": "Politics",
+    "byline": {
+      "original": "By JONATHAN WEISMAN",
+      "person": [
+        {
+          "firstname": "Jonathan",
+          "middlename": null,
+          "lastname": "WEISMAN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "59f389557c459f246b63135f",
+    "word_count": 924,
+    "score": 1.0,
+    "uri": "nyt://article/e57bbd68-8921-549a-bf01-cc92fd9dd11c"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2013/01/24/world/europe/cameron-britain-referendum-european-union.html",
+    "snippet": "Prime Minister David Cameron of Britain has added to Europe\u2019s malaise, vowing to reduce entanglement with the European Union or allow people to decide whether to leave the bloc.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/01/24/world/24britain2-cnd/24britain2-cnd-articleLarge.jpg",
+        "height": 400,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2013/01/24/world/24britain2-cnd/24britain2-cnd-articleLarge.jpg",
+          "xlargeheight": 400
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/01/24/world/24britain2-cnd/24britain2-cnd-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2013/01/24/world/24britain2-cnd/24britain2-cnd-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/01/24/world/24britain2-cnd/24britain2-cnd-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2013/01/24/world/24britain2-cnd/24britain2-cnd-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Europe Is Edgy as Cameron Seeks to Loosen Ties",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Europe Is Edgy As Briton Seeks To Loosen Ties",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Cameron, David",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "European Union",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Great Britain",
+        "rank": 3,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2013-01-23T07:19:24+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Europe",
+    "byline": {
+      "original": "By ANDREW HIGGINS",
+      "person": [
+        {
+          "firstname": "Andrew",
+          "middlename": null,
+          "lastname": "HIGGINS",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "50ff918f00315214fbb86925",
+    "word_count": 1101,
+    "score": 1.0,
+    "uri": "nyt://article/1d24fbf6-6d51-5963-92d2-4a01fd970e29"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2013/01/27/travel/how-to-get-a-seat-out-of-your-award-miles.html",
+    "snippet": "Frustrated by the challenge of booking award flights? Here are strategies for scoring a seat, from timing to online searches.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/01/27/travel/27GETAWAY_SPAN/27SUBGETAWAY-articleLarge.jpg",
+        "height": 244,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2013/01/27/travel/27GETAWAY_SPAN/27SUBGETAWAY-articleLarge.jpg",
+          "xlargeheight": 244
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/01/27/travel/27GETAWAY_SPAN/27GETAWAY_SPAN-thumbWide-v2.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2013/01/27/travel/27GETAWAY_SPAN/27GETAWAY_SPAN-thumbWide-v2.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/01/27/travel/27GETAWAY_SPAN/27GETAWAY_SPAN-thumbStandard-v2.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2013/01/27/travel/27GETAWAY_SPAN/27GETAWAY_SPAN-thumbStandard-v2.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "How to Get a Seat Out of Your Miles",
+      "kicker": "The Getaway",
+      "content_kicker": "The Getaway",
+      "print_headline": "How to Get a Seat Out of Your Miles",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Frequent Flier Programs",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Travel and Vacations",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Airlines and Airplanes",
+        "rank": 3,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2013-01-23T17:35:57+0000",
+    "document_type": "article",
+    "new_desk": "Travel",
+    "byline": {
+      "original": "By SUSAN STELLIN",
+      "person": [
+        {
+          "firstname": "Susan",
+          "middlename": null,
+          "lastname": "STELLIN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5100ebb300315214fbb86b28",
+    "word_count": 1090,
+    "score": 1.0,
+    "uri": "nyt://article/61f64981-ea32-5d1f-ae71-4d218bc617f9"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2013/01/24/us/pentagon-says-it-is-lifting-ban-on-women-in-combat.html",
+    "snippet": "The groundbreaking decision overturns a 1994 Pentagon rule that restricts women from artillery, armor, infantry and other such combat roles.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/01/24/us/Military/Military-articleLarge.jpg",
+        "height": 366,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2013/01/24/us/Military/Military-articleLarge.jpg",
+          "xlargeheight": 366
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/01/24/us/Military/Military-thumbWide-v2.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2013/01/24/us/Military/Military-thumbWide-v2.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/01/24/us/Military/Military-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2013/01/24/us/Military/Military-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Pentagon Is Set to Lift Combat Ban for Women",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Equality at the Front Line: Pentagon is Set to Lift Ban on Women in Combat Roles",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "United States Defense and Military Forces",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Women and Girls",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Panetta, Leon E",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Joint Chiefs of Staff",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Dempsey, Martin E",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2013-01-23T20:39:31+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "byline": {
+      "original": "By ELISABETH BUMILLER and THOM SHANKER",
+      "person": [
+        {
+          "firstname": "Elisabeth",
+          "middlename": null,
+          "lastname": "BUMILLER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Thom",
+          "middlename": null,
+          "lastname": "SHANKER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5100eb4d00315214fbb86b1a",
+    "word_count": 1290,
+    "score": 1.0,
+    "uri": "nyt://article/7da83132-094b-5180-bd24-bceee8d65795"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2013/01/23/world/asia/for-rape-victims-in-india-police-are-often-part-of-the-problem.html",
+    "snippet": "In many rape cases, the police spend more time seeking reconciliation, even marriage, between the attacker and the victim, instead of an investigation.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/01/23/world/asia/INDIA/INDIA-articleLarge.jpg",
+        "height": 342,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2013/01/23/world/asia/INDIA/INDIA-articleLarge.jpg",
+          "xlargeheight": 342
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/01/23/world/asia/INDIA/INDIA-thumbWide-v2.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2013/01/23/world/asia/INDIA/INDIA-thumbWide-v2.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/01/23/world/asia/INDIA/INDIA-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2013/01/23/world/asia/INDIA/INDIA-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "For Rape Victims in India, Police Are Often Part of the Problem",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "For Rape Victims in India, Police Are Often Part of the Problem",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Sex Crimes",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "India",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Women and Girls",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Police Brutality and Misconduct",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2013-01-23T01:45:48+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Asia Pacific",
+    "byline": {
+      "original": "By GARDINER HARRIS",
+      "person": [
+        {
+          "firstname": "Gardiner",
+          "middlename": null,
+          "lastname": "HARRIS",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "50ff47b400315214fbb86897",
+    "word_count": 1328,
+    "score": 1.0,
+    "uri": "nyt://article/9c5a0602-d50f-5377-a71e-cec643b5fd31"
+  }
+]

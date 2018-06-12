@@ -1,0 +1,580 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2009/03/23/us/23border.html",
+    "snippet": "Tucson is coping with a wave of drug crime the police suspect is tied to the battles between Mexico\u2019s drug cartels.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/03/23/us/23border_span.jpg",
+        "height": 330,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/03/23/us/23border_span.jpg",
+          "xlargeheight": 330
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/03/23/us/23border_75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/03/23/us/23border_75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Mexican Drug Cartel Violence Spills Over, Alarming U.S.",
+      "kicker": "WAR WITHOUT BORDERS ",
+      "content_kicker": "WAR WITHOUT BORDERS ",
+      "print_headline": "Drug Cartel Violence Spills Over From Mexico, Alarming U.S.",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Mexico",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Drug Abuse and Traffic",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "United States",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Tucson (Ariz)",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Cartels",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Smuggling",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-03-23T03:00:06+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "byline": {
+      "original": "By RANDAL C. ARCHIBOLD",
+      "person": [
+        {
+          "firstname": "Randal",
+          "middlename": "C.",
+          "lastname": "ARCHIBOLD",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "Series",
+    "_id": "5452de7b38f0d81b603ed2db",
+    "word_count": 1969,
+    "score": 1.0,
+    "uri": "nyt://article/ecd3573a-a769-5f17-a33d-fd57e49558a1"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/03/24/health/24docs.html",
+    "snippet": "Difficult cases raise questions about who is fit to become a doctor.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/03/24/science/24docs-600.jpg",
+        "height": 331,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/03/24/science/24docs-600.jpg",
+          "xlargeheight": 331
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/03/24/science/24docs-75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/03/24/science/24docs-75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "A Quandary in Sweden: Criminals in Med School",
+      "kicker": "The Doctor's World",
+      "content_kicker": "The Doctor's World",
+      "print_headline": "A Quandary in Sweden: Criminals in Med School",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Svensson, Karl Helge Hampus",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Sweden",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Medical Schools",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Admissions Standards",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Medicine and Health",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Crime and Criminals",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-03-23T16:59:35+0000",
+    "document_type": "article",
+    "new_desk": "Science",
+    "byline": {
+      "original": "By LAWRENCE K. ALTMAN, M.D",
+      "person": [
+        {
+          "firstname": "Lawrence",
+          "middlename": "K.",
+          "lastname": "ALTMAN",
+          "qualifier": "M.D",
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5468a62138f0d81e5cd0dd2c",
+    "word_count": 1456,
+    "score": 1.0,
+    "uri": "nyt://article/450176de-b346-508d-bc0e-44d73b9625c5"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/03/24/business/economy/24bailout.html",
+    "snippet": "The Treasury presented its plan to draw private investors into partnership with a new federal entity to buy up risky assets.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/03/24/business/24bailout.600.jpg",
+        "height": 334,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/03/24/business/24bailout.600.jpg",
+          "xlargeheight": 334
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/03/24/business/24bailout.75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/03/24/business/24bailout.75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "U.S. Expands Plan to Buy Banks\u2019 Troubled Assets",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "U.S. Expands Plan to Buy Banks\u2019 Troubled Assets",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Obama Financial Stability Plan",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Treasury Department",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Subprime Mortgage Crisis",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Obama, Barack",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Banks and Banking",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Term Asset-Backed Securities Loan Facility (TALF)",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Federal Deposit Insurance Corp",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Geithner, Timothy F",
+        "rank": 8,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-03-23T12:34:18+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "section_name": "Economy",
+    "byline": {
+      "original": "By EDMUND L. ANDREWS and ERIC DASH",
+      "person": [
+        {
+          "firstname": "Edmund",
+          "middlename": "L.",
+          "lastname": "ANDREWS",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Eric",
+          "middlename": null,
+          "lastname": "DASH",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5468a5a438f0d81e5cd0dd1f",
+    "word_count": 1188,
+    "score": 1.0,
+    "uri": "nyt://article/220638b9-678f-5412-9e30-460c28fbede2"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/03/23/business/media/23warner.html",
+    "snippet": "Some videos on YouTube are disappearing in a disagreement over fees for Warner Music\u2019s copyrighted works.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/03/23/business/23warner.75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/03/23/business/23warner.75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "As Rights Clash on YouTube, Some Music Vanishes",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Rights Clash on YouTube, and Videos Disappear",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "organizations",
+        "value": "Warner Music Group",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "YouTube.com",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Copyrights",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Computers and the Internet",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Recordings and Downloads (Video)",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Music",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Royalties",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Google Inc",
+        "rank": 8,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-03-23T00:31:58+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "section_name": "Media",
+    "byline": {
+      "original": "By TIM ARANGO",
+      "person": [
+        {
+          "firstname": "Tim",
+          "middlename": null,
+          "lastname": "ARANGO",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5468a1cc38f0d81e5cd0dccb",
+    "word_count": 1191,
+    "score": 1.0,
+    "uri": "nyt://article/04b532f6-80ac-557f-8b77-34ca7490de4e"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/03/23/world/europe/23saab.html",
+    "snippet": "The carmaker has fallen on hard times in a country where Nordic socialism has fallen out of favor.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/03/23/world/23saab01-600.jpg",
+        "height": 320,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/03/23/world/23saab01-600.jpg",
+          "xlargeheight": 320
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/03/23/world/23saab01-75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/03/23/world/23saab01-75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Sweden Says No to Saving Saab",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Sweden Says No To Saving Saab, A National Icon",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "organizations",
+        "value": "Saab Automobile AB",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Sweden",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Automobiles",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Subprime Mortgage Crisis",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-03-23T01:18:37+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Europe",
+    "byline": {
+      "original": "By SARAH LYALL",
+      "person": [
+        {
+          "firstname": "Sarah",
+          "middlename": null,
+          "lastname": "LYALL",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5468a26038f0d81e5cd0dcdb",
+    "word_count": 1145,
+    "score": 1.0,
+    "uri": "nyt://article/ffb2e258-94b2-5cf9-b618-8d130105ce77"
+  }
+]

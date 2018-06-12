@@ -1,0 +1,110 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2011/08/29/nyregion/wind-and-rain-from-hurricane-irene-lash-new-york.html",
+    "snippet": "The morning commute was relatively painless in the city, but fallen trees and downed wires caused problems in suburban New York and Connecticut.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/08/29/nyregion/28nystorm2/28nystorm2-articleLarge.jpg",
+        "height": 366,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2011/08/29/nyregion/28nystorm2/28nystorm2-articleLarge.jpg",
+          "xlargeheight": 366
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/08/29/nyregion/28nystorm2/28nystorm2-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/08/29/nyregion/28nystorm2/28nystorm2-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Recovery Is Slower in New York Suburbs",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "New York Spared Brunt of Storm; Suburbs Hit Hard",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Hurricane Irene (2011)",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Wind",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Floods",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "New Jersey",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "New York City",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-08-28T12:48:08+0000",
+    "document_type": "article",
+    "new_desk": "Metro",
+    "byline": {
+      "original": "By SAM DOLNICK",
+      "person": [
+        {
+          "firstname": "Sam",
+          "middlename": null,
+          "lastname": "DOLNICK",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "528a84b538f0d833dcdee8f8",
+    "word_count": 1495,
+    "score": 1.0,
+    "uri": "nyt://article/59fc9d6f-5a75-5397-83cf-91657b72f9c8"
+  }
+]

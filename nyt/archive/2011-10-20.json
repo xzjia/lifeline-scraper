@@ -1,0 +1,697 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2011/10/20/sports/seemingly-ordinary-football-game-then-a-player-dies.html",
+    "snippet": "Despite efforts to improve safety, brains \u2014 especially those of teens \u2014 remain vulnerable, and routine collisions can kill.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/10/20/sports/FOOTBALL/FOOTBALL-articleLarge.jpg",
+        "height": 315,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2011/10/20/sports/FOOTBALL/FOOTBALL-articleLarge.jpg",
+          "xlargeheight": 315
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/10/20/sports/FOOTBALL/FOOTBALL-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/10/20/sports/FOOTBALL/FOOTBALL-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "An Ordinary Football Game, Then a Player Dies",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Seemingly Ordinary Game, Then a Player Dies",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Sports Injuries",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Concussions",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Football",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Barden, Ridge",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Brain",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-10-20T01:40:42+0000",
+    "document_type": "article",
+    "new_desk": "Sports",
+    "byline": {
+      "original": "By JORGE CASTILLO",
+      "person": [
+        {
+          "firstname": "Jorge",
+          "middlename": null,
+          "lastname": "CASTILLO",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "54024a3338f0d80cceb1fa56",
+    "word_count": 1193,
+    "score": 1.0,
+    "uri": "nyt://article/1dafe16b-3031-5a0c-8e77-b8d0125f8514"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/10/20/us/rush-to-drill-for-gas-creates-mortgage-conflicts.html",
+    "snippet": "Worried about property values, and landowners signing drilling leases without clearance, lenders are trying to reinforce restrictions.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/10/20/us/NATGAS1/NATGAS1-articleLarge.jpg",
+        "height": 315,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2011/10/20/us/NATGAS1/NATGAS1-articleLarge.jpg",
+          "xlargeheight": 315
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/10/20/us/NATGAS1/NATGAS1-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/10/20/us/NATGAS1/NATGAS1-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Rush to Drill for Natural Gas Creates Conflicts With Mortgages",
+      "kicker": "Drilling Down",
+      "content_kicker": "Drilling Down",
+      "print_headline": "A Rush to Sign Leases for Gas Runs Into Mortgage Restriction",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Natural Gas",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Mortgages",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Land Use Policies",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Banking and Financial Institutions",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Real Estate and Housing (Residential)",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Series",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "New York State",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Pennsylvania",
+        "rank": 8,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-10-20T03:58:30+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "byline": {
+      "original": "By IAN URBINA",
+      "person": [
+        {
+          "firstname": "Ian",
+          "middlename": null,
+          "lastname": "URBINA",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "540244cc38f0d80cceb1fa33",
+    "word_count": 2095,
+    "score": 1.0,
+    "uri": "nyt://article/9849a03e-d3d5-5d86-8841-dd705aeb084f"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/10/20/us/politics/romney-and-perry-have-history-of-clashes.html",
+    "snippet": "Hostilities flaring between Mitt Romney and Gov. Rick Perry of Texas may signal a more combative phase in the Republican presidential campaign. But their conflict began years ago.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/10/20/us/REBUBS/REBUBS-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/10/20/us/REBUBS/REBUBS-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Bad Blood Between Perry and Romney Is Longstanding",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "2 Republicans Share History Of Bad Blood",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Presidential Election of 2012",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Republican Party",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Romney, Mitt",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Perry, Rick",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-10-20T02:05:01+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "section_name": "Politics",
+    "byline": {
+      "original": "By MICHAEL D. SHEAR and JEFF ZELENY",
+      "person": [
+        {
+          "firstname": "Michael",
+          "middlename": null,
+          "lastname": null,
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "54024b2838f0d80cceb1fa5d",
+    "word_count": 1093,
+    "score": 1.0,
+    "uri": "nyt://article/69a09522-fdc5-5baa-8875-c571bbf6b4f5"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/10/21/world/asia/clinton-issues-blunt-warning-to-pakistan.html",
+    "snippet": "Secretary of State Hillary Rodham Clinton said the United States would act unilaterally if necessary to attack extremist groups that use Pakistan as a haven to kill Americans.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/10/21/world/asia/21diplo/21diplo-articleLarge.jpg",
+        "height": 330,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2011/10/21/world/asia/21diplo/21diplo-articleLarge.jpg",
+          "xlargeheight": 330
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/10/21/world/asia/21diplo/21diplo-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/10/21/world/asia/21diplo/21diplo-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "U.S. Officials Deliver Warning in Pakistan Over Extremists",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "U.S. Officials Deliver Blunt Warning in Pakistan Over Extremists",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "United States International Relations",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Pakistan",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Clinton, Hillary Rodham",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Terrorism",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Central Intelligence Agency",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Petraeus, David H",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Dempsey, Martin E",
+        "rank": 7,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-10-20T11:59:05+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Asia Pacific",
+    "byline": {
+      "original": "By STEVEN LEE MYERS",
+      "person": [
+        {
+          "firstname": "Steven",
+          "middlename": "Lee",
+          "lastname": "MYERS",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "54024c6938f0d80cceb1fa66",
+    "word_count": 1047,
+    "score": 1.0,
+    "uri": "nyt://article/667f9b18-ac32-5bff-8167-7ed0ef00faa6"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/10/21/technology/book-offers-new-details-of-jobs-cancer-fight.html",
+    "snippet": "A 630-page biography on Steve Jobs also includes previously unknown details about his romantic life, his marriage, his relationship with his sister and his business dealings.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/10/21/business/Jobs/Jobs-articleLarge.jpg",
+        "height": 350,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2011/10/21/business/Jobs/Jobs-articleLarge.jpg",
+          "xlargeheight": 350
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/10/21/business/Jobs/Jobs-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/10/21/business/Jobs/Jobs-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Jobs Tried Exotic Treatments to Combat Cancer, Book Says",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Jobs Tried Exotic Treatments To Combat Cancer, Book Says",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Jobs, Steven P",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Books and Literature",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Apple Incorporated",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Isaacson, Walter",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Biographical Information",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-10-20T23:38:16+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By STEVE LOHR",
+      "person": [
+        {
+          "firstname": "Steve",
+          "middlename": null,
+          "lastname": "LOHR",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "515db558cf28d0219d003fff",
+    "word_count": 1253,
+    "score": 1.0,
+    "uri": "nyt://article/b2da9f39-c490-5dde-963c-8b3936df5f27"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/10/21/world/africa/qaddafi-is-killed-as-libyan-forces-take-surt.html",
+    "snippet": "Col. Muammar el-Qaddafi was killed Thursday as fighters battling the vestiges of his fallen regime took control of his hometown of Surt after a prolonged struggle, the interim government said.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/10/21/world/africa/21libyaspan/21libyaspan-articleLarge-v2.jpg",
+        "height": 400,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2011/10/21/world/africa/21libyaspan/21libyaspan-articleLarge-v2.jpg",
+          "xlargeheight": 400
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/10/21/world/africa/21libyaspan/21libyaspan-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2011/10/21/world/africa/21libyaspan/21libyaspan-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/10/21/world/africa/21libyaspan/21libyaspan-thumbStandard-v2.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/10/21/world/africa/21libyaspan/21libyaspan-thumbStandard-v2.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Violent End to an Era as Qaddafi Dies in Libya",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Qaddafi, Seized by Foes, Meets a Violent End",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Middle East and North Africa Unrest (2010- )",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Qaddafi, Muammar el-",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Surt (Libya)",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Libya",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Video Recordings and Downloads",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-10-20T11:16:08+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Africa",
+    "byline": {
+      "original": "By KAREEM FAHIM, ANTHONY SHADID and RICK GLADSTONE",
+      "person": [
+        {
+          "firstname": "Kareem",
+          "middlename": null,
+          "lastname": "FAHIM",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Anthony",
+          "middlename": null,
+          "lastname": "SHADID",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        },
+        {
+          "firstname": "Rick",
+          "middlename": null,
+          "lastname": "GLADSTONE",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 3
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "54024c4038f0d80cceb1fa63",
+    "word_count": 1499,
+    "score": 1.0,
+    "uri": "nyt://article/3ad9d588-9a4b-5bca-9fcd-7efbe52b2cd6"
+  }
+]

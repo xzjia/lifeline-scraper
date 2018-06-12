@@ -1,0 +1,178 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2008/05/09/world/asia/09myanmar.html",
+    "snippet": "Frustrated United Nations officials all but demanded that the nation end barriers to supplies and workers.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/05/09/world/myanmar.600.jpg",
+        "height": 280,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2008/05/09/world/myanmar.600.jpg",
+          "xlargeheight": 280
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/05/09/world/myanmar.75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2008/05/09/world/myanmar.75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "U.N. Pressures Myanmar to Allow Aid",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "U.N. Pressuring Myanmar to End Barriers to Aid",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Myanmar",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Disasters",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Foreign Aid",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "International Relations",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Politics and Government",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Cyclones",
+        "rank": 7,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2008-05-09T04:00:00+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Asia Pacific",
+    "byline": {
+      "original": "By ANDY NEWMAN",
+      "person": [
+        {
+          "firstname": "Andy",
+          "middlename": null,
+          "lastname": "NEWMAN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5474fd6b38f0d8119c6af59f",
+    "word_count": 1483,
+    "score": 1.0,
+    "uri": "nyt://article/29dffe79-3674-563e-b1b6-35723eb59bdf"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2008/05/09/nyregion/09schools.html",
+    "snippet": "Critics say that the process the city uses to determine when to build new schools is flawed, preventing construction from keeping pace with residential development.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "New York\u2019s Coveted Public Schools Face Pupil Jam",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "In City\u2019s Growing Neighborhoods, Public Schools Face Pupil Jam",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Education and Schools",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Building (Construction)",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "New York City",
+        "rank": 3,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2008-05-09T04:00:00+0000",
+    "document_type": "article",
+    "new_desk": "Metro",
+    "byline": {
+      "original": "By ELISSA GOOTMAN",
+      "person": [
+        {
+          "firstname": "Elissa",
+          "middlename": null,
+          "lastname": "GOOTMAN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "548148fe38f0d874625c82e9",
+    "word_count": 1469,
+    "score": 1.0,
+    "uri": "nyt://article/36ddbafc-7faa-529b-a13b-c7e30a40e2a1"
+  }
+]

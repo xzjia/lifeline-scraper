@@ -1,0 +1,111 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2008/04/17/business/worldbusiness/17warm.html",
+    "snippet": "The collapse of Australia\u2019s rice production may foretell some of the effects of global warming on agriculture.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/04/17/business/17warm.600.jpg",
+        "height": 280,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2008/04/17/business/17warm.600.jpg",
+          "xlargeheight": 280
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/04/17/business/Aussie75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2008/04/17/business/Aussie75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "A Drought in Australia, a Global Shortage of Rice",
+      "kicker": "The Food Chain",
+      "content_kicker": "The Food Chain",
+      "print_headline": "From Six-Year Drought in Australia, a Global Crisis Over Rice",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Australia",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Rice",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Prices (Fares, Fees and Rates)",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "International Trade and World Market",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Global Warming",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2008-04-17T04:00:00+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "section_name": "World Business",
+    "byline": {
+      "original": "By KEITH BRADSHER",
+      "person": [
+        {
+          "firstname": "Keith",
+          "middlename": null,
+          "lastname": "BRADSHER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "Series",
+    "_id": "54805ad838f0d82816288b59",
+    "word_count": 1753,
+    "score": 1.0,
+    "uri": "nyt://article/266602c8-04b9-5f3f-a507-1d04f77eb3f4"
+  }
+]

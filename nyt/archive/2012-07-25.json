@@ -1,0 +1,569 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2012/07/26/world/asia/north-korean-leader-marries-reports-say.html",
+    "snippet": "The appearance of Kim Jong-un\u2019s wife is a sign that he is breaking from the style of his father, who was known for marrying beautiful performers but never introduced them to his people.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/07/26/world/26kim/26kim-thumbStandard-v2.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2012/07/26/world/26kim/26kim-thumbStandard-v2.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "That Mystery Woman in North Korea? Turns Out She\u2019s the First Lady",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "That Mystery Woman in North Korea? Turns Out She\u2019s First Lady",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "North Korea",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Kim Jong-un",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Ri Sol-ju",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Kim Jong Il",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2012-07-25T12:27:10+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Asia Pacific",
+    "byline": {
+      "original": "By CHOE SANG-HUN",
+      "person": [
+        {
+          "firstname": "Choe",
+          "middlename": null,
+          "lastname": "SANG-HUN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "593ede787c459f24986e5a04",
+    "word_count": 1237,
+    "score": 1.0,
+    "uri": "nyt://article/0353f1f2-b825-55ce-b1b4-916f069b1c07"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2012/07/26/business/food-prices-to-rise-in-wake-of-severe-drought.html",
+    "snippet": "The Agriculture Department said the cost of beef would increase the most, up to 5 percent, because of the weather and rising prices for animal feed.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/07/26/business/26crop/26crop-articleLarge.jpg",
+        "height": 350,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2012/07/26/business/26crop/26crop-articleLarge.jpg",
+          "xlargeheight": 350
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/07/26/business/26crop/26crop-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2012/07/26/business/26crop/26crop-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Severe Drought Seen as Driving Cost of Food Up",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Severe Drought Seen As Driving Cost Of Food Up",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Drought",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Agriculture and Farming",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Farm Bill (US)",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Prices (Fares, Fees and Rates)",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Food",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Corn",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Beef",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Weather",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Economy",
+        "rank": 9,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2012-07-25T14:09:20+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By ANNIE LOWREY and RON NIXON",
+      "person": [
+        {
+          "firstname": "Annie",
+          "middlename": null,
+          "lastname": "LOWREY",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Ron",
+          "middlename": null,
+          "lastname": "NIXON",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "59383ba17c459f24986e4887",
+    "word_count": 908,
+    "score": 1.0,
+    "uri": "nyt://article/a306b80c-6204-56d5-bf00-e88d7b286b76"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2012/07/25/us/politics/adelsons-latest-foray-courts-jews-for-the-gop.html",
+    "snippet": "The Republican Jewish Coalition, backed by the casino magnate Sheldon Adelson, is starting a new effort in battleground states to win over Jewish voters.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/07/25/us/25donate1_soan/25donate1_soan-articleLarge.jpg",
+        "height": 340,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2012/07/25/us/25donate1_soan/25donate1_soan-articleLarge.jpg",
+          "xlargeheight": 340
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/07/25/us/25donate1_soan/25donate1_soan-thumbStandard-v2.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2012/07/25/us/25donate1_soan/25donate1_soan-thumbStandard-v2.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Mogul\u2019s Latest Foray Courts Jews for the G.O.P.",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Mogul\u2019s Latest Foray Courts Jews for the G.O.P.",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Presidential Election of 2012",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Political Advertising",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Jews and Judaism",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Republican Jewish Coalition",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Adelson, Sheldon G",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Obama, Barack",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Romney, Mitt",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Florida",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Pennsylvania",
+        "rank": 9,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Ohio",
+        "rank": 10,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2012-07-25T06:30:14+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "section_name": "Politics",
+    "byline": {
+      "original": "By JEFF ZELENY",
+      "person": [
+        {
+          "firstname": "Jeff",
+          "middlename": null,
+          "lastname": "ZELENY",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "59f52e8e7c459f246b6315b1",
+    "word_count": 1162,
+    "score": 1.0,
+    "uri": "nyt://article/597f8d3d-569e-56b9-ba73-70dc197e125c"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2012/07/25/world/middleeast/al-qaeda-insinuating-its-way-into-syrias-conflict.html",
+    "snippet": "The terrorist network has helped to alter the Syrian revolution, injecting the weapon it perfected in Iraq \u2014 suicide bombings \u2014 into the battle against President Bashar al-Assad.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "Al Qaeda Taking Deadly New Role in Syria\u2019s Conflict",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Al Qaeda Taking Deadly New Role In Syria Conflict",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Syria",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Al Qaeda",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Middle East and North Africa Unrest (2010- )",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Assad, Bashar al-",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Iraq",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Terrorism",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2012-07-25T02:11:17+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Middle East",
+    "byline": {
+      "original": "By ROD NORDLAND",
+      "person": [
+        {
+          "firstname": "Rod",
+          "middlename": null,
+          "lastname": "NORDLAND",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "53f91d1a38f0d84410bcab8d",
+    "word_count": 1434,
+    "score": 1.0,
+    "uri": "nyt://article/e48fc44c-7239-53ee-acda-fb83e6e342f2"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2012/07/26/garden/emma-koenigs-so-called-redacted-life.html",
+    "snippet": "Emma Koenig has a viral blog, a book out next month and a deal pending with a production company to develop a TV series \u2014 and she has finally moved out of her parents\u2019 house.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/07/26/garden/26TWENTIES_SPAN/26TWENTIES-articleLarge.jpg",
+        "height": 360,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2012/07/26/garden/26TWENTIES_SPAN/26TWENTIES-articleLarge.jpg",
+          "xlargeheight": 360
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/07/26/garden/26TWENTIES_SPAN/26TWENTIES-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2012/07/26/garden/26TWENTIES_SPAN/26TWENTIES-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Wash That Blog Out With Soap",
+      "kicker": "At Home With Emma Koenig",
+      "content_kicker": "At Home With Emma Koenig",
+      "print_headline": "Wash That Blog Out With Soap",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Koenig, Emma",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Blogs and Blogging (Internet)",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Tumblr",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Books and Literature",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Television",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Dating and Courtship",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "New York City",
+        "rank": 7,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2012-07-25T23:06:10+0000",
+    "document_type": "article",
+    "new_desk": "Home",
+    "byline": {
+      "original": "By PENELOPE GREEN",
+      "person": [
+        {
+          "firstname": "Penelope",
+          "middlename": null,
+          "lastname": "GREEN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "53f9288438f0d84410bcac1e",
+    "word_count": 2028,
+    "score": 1.0,
+    "uri": "nyt://article/6b9d2367-b422-5ea6-a924-42850d0011a6"
+  }
+]

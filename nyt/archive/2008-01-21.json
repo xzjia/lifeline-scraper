@@ -1,0 +1,117 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2008/01/21/sports/football/21nfc.html",
+    "snippet": "Lawrence Tynes kicked a 47-yard field goal in overtime to belatedly and unexpectedly send the Giants to Super Bowl XLII where they will play the undefeated New England Patriots.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/01/21/sports/football/21giants-600.jpg",
+        "height": 330,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2008/01/21/sports/football/21giants-600.jpg",
+          "xlargeheight": 330
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/01/21/sports/football/21giants-75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2008/01/21/sports/football/21giants-75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "It\u2019s Good, and Giants Head to Super Bowl",
+      "kicker": "N.F.C. Championship | Giants 23, Packers 20, O.T.",
+      "content_kicker": "N.F.C. Championship | Giants 23, Packers 20, O.T.",
+      "print_headline": "It\u2019s Good, and Giants Head to Super Bowl",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "organizations",
+        "value": "New York Giants",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Football",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Green Bay Packers",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Super Bowl",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Tynes, Lawrence",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Manning, Eli",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2008-01-21T05:00:00+0000",
+    "document_type": "article",
+    "new_desk": "Sports",
+    "section_name": "Pro Football",
+    "byline": {
+      "original": "By JOHN BRANCH",
+      "person": [
+        {
+          "firstname": "John",
+          "middlename": null,
+          "lastname": "BRANCH",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "547d0e5b38f0d822abda1b52",
+    "word_count": 1394,
+    "score": 1.0,
+    "uri": "nyt://article/2c7d2bae-cac9-5cc9-8903-7c69da29a005"
+  }
+]

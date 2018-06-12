@@ -1,0 +1,202 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2008/04/21/sports/othersports/21patrick.html",
+    "snippet": "Danica Patrick became the first woman to win an Indy car race, using successful fuel strategy to capture an IndyCar Series event in Motegi, Japan.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/04/20/sports/20patrick_75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2008/04/20/sports/20patrick_75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Racing to Victory, and Leaving the Men and the Doubters Behind",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Racing to Victory, and Leaving the Men and the Doubters Behind",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Automobile Racing",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Patrick, Danica",
+        "rank": 2,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2008-04-21T04:00:00+0000",
+    "document_type": "article",
+    "new_desk": "Sports",
+    "section_name": "More Sports",
+    "byline": {
+      "original": "By DAVE CALDWELL",
+      "person": [
+        {
+          "firstname": "Dave",
+          "middlename": null,
+          "lastname": "CALDWELL",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "54807f1d38f0d82816288ecb",
+    "word_count": 1089,
+    "score": 1.0,
+    "uri": "nyt://article/28f7c006-ec25-5df6-a8db-412fbe8b5666"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2008/04/21/business/21crop.html",
+    "snippet": "Governments, consumers and food companies are feeling pressures to relax resistance to genetically engineered crops.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/04/21/business/21crop-span-600.jpg",
+        "height": 231,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2008/04/21/business/21crop-span-600.jpg",
+          "xlargeheight": 231
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/04/21/business/21crop-span-75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2008/04/21/business/21crop-span-75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "In Lean Times, Biotech Grains Are Less Taboo",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "In Lean Times, Biotech Grains Are Less Taboo",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Genetic Engineering",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Biotechnology",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Prices (Fares, Fees and Rates)",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Agriculture",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "International Trade and World Market",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Grain",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Demonstrations and Riots",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Food",
+        "rank": 8,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2008-04-21T04:00:00+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By ANDREW POLLACK",
+      "person": [
+        {
+          "firstname": "Andrew",
+          "middlename": null,
+          "lastname": "POLLACK",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5480837c38f0d82816288f33",
+    "word_count": 1327,
+    "score": 1.0,
+    "uri": "nyt://article/e38aea46-0279-54bd-a680-56593de9c8eb"
+  }
+]

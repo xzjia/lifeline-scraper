@@ -1,0 +1,831 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2009/05/14/business/14regs.html",
+    "snippet": "The proposal would require credit-default swaps and other types of derivative contracts to be traded on exchanges and backed by capital reserves.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "Obama Proposes a First Overhaul of Finance Rules",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "OBAMA PROPOSES A FIRST OVERHAUL OF FINANCE RULES",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Derivatives (Financial Transactions)",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Regulation and Deregulation of Industry",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Subprime Mortgage Crisis",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Treasury Department",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Law and Legislation",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Obama, Barack",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-05-13T19:03:14+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By STEPHEN LABATON and JACKIE CALMES",
+      "person": [
+        {
+          "firstname": "Stephen",
+          "middlename": null,
+          "lastname": "LABATON",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Jackie",
+          "middlename": null,
+          "lastname": "CALMES",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "546a8d9638f0d84ca2c5c6c5",
+    "word_count": 1264,
+    "score": 1.0,
+    "uri": "nyt://article/af9a6f6c-a3e4-559c-a08b-bd265f2b8e39"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/05/13/business/economy/13leonhardt.html",
+    "snippet": "Providing health insurance to the roughly 50 million Americans without it will cost about $120 billion a year, and the president is far short.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/05/13/business/13leonhardt01-600.jpg",
+        "height": 162,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/05/13/business/13leonhardt01-600.jpg",
+          "xlargeheight": 162
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Health Care, a Lesson in Pain",
+      "kicker": "Economic Scene",
+      "content_kicker": "Economic Scene",
+      "print_headline": "Health Care, A Lesson In Pain",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Health Insurance and Managed Care",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Obama, Barack",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Politics and Government",
+        "rank": 3,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-05-13T01:40:25+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "section_name": "Economy",
+    "byline": {
+      "original": "By DAVID LEONHARDT",
+      "person": [
+        {
+          "firstname": "David",
+          "middlename": null,
+          "lastname": "LEONHARDT",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "546a886138f0d84ca2c5c584",
+    "word_count": 1252,
+    "score": 1.0,
+    "uri": "nyt://article/78a41af8-b460-5362-b362-dfaecb5f00d8"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/05/13/us/politics/13stimulus.html",
+    "snippet": "The federal government has paid out less than 6 percent of the $787 billion economic stimulus package, largely in the form of social service payments to states.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "Stimulus Aid Trickles Out, but States Seek Quicker Relief",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Sliver of Cash From Stimulus In State Hands",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "American Recovery and Reinvestment Act (2009)",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Economy",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Infrastructure (Public Works)",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "States (US)",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-05-13T01:40:10+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "section_name": "Politics",
+    "byline": {
+      "original": "By MICHAEL COOPER",
+      "person": [
+        {
+          "firstname": "Michael",
+          "middlename": null,
+          "lastname": "COOPER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "546a891638f0d84ca2c5c64f",
+    "word_count": 1107,
+    "score": 1.0,
+    "uri": "nyt://article/037da23c-f41d-594c-9718-3e6b0dec0260"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/05/13/world/middleeast/13christians.html",
+    "snippet": "The pope this week is addressing a dwindling Christian population driven away by violence, lack of economic opportunity and the rise of radical Islam.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/05/13/world/13christians2_600.JPG",
+        "height": 334,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/05/13/world/13christians2_600.JPG",
+          "xlargeheight": 334
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/05/13/world/13christians_75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/05/13/world/13christians_75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Mideast\u2019s Christians Losing Numbers and Sway",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Mideast\u2019s Christians Losing Numbers and Sway",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Middle East",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Christians and Christianity",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Benedict XVI",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Islam",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Palestinians",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-05-13T00:02:07+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Middle East",
+    "byline": {
+      "original": "By ETHAN BRONNER",
+      "person": [
+        {
+          "firstname": "Ethan",
+          "middlename": null,
+          "lastname": "BRONNER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "546a883038f0d84ca2c5c549",
+    "word_count": 1138,
+    "score": 1.0,
+    "uri": "nyt://article/37370fac-4e95-5be6-ab88-1834f425394f"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/05/14/technology/personaltech/14pogue.html",
+    "snippet": "Consumer tech companies revel in misdirected marketing of their products. Here are a few ways to determine what\u2019s really important among features.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/05/14/technology/personaltech/14pogue.600.jpg",
+        "height": 300,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/05/14/technology/personaltech/14pogue.600.jpg",
+          "xlargeheight": 300
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/05/14/technology/personaltech/14pogue.75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/05/14/technology/personaltech/14pogue.75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Decoding the Hype on Gadgets",
+      "kicker": "State of the Art",
+      "content_kicker": "State of the Art",
+      "print_headline": "Decoding The Hype On Gadgets",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Computers and the Internet",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Cameras",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Advertising and Marketing",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Camcorders",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Wireless Communications",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Apple Inc",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-05-13T23:01:33+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "section_name": "Personal Tech",
+    "byline": {
+      "original": "By DAVID POGUE",
+      "person": [
+        {
+          "firstname": "David",
+          "middlename": null,
+          "lastname": "POGUE",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "546a917238f0d84ca2c5c729",
+    "word_count": 1324,
+    "score": 1.0,
+    "uri": "nyt://article/4d650ebd-8e79-512c-9000-03de6db21d16"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/05/13/business/13surgeon.html",
+    "snippet": "A former Army surgeon who is also a consultant for a medical company has been accused of overstating the benefits of a product used in treating soldiers.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "Doctor Falsified Study on Injured G.I.\u2019s, Army Says",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Doctor\u2019s Study of Injured G.I.\u2019s Made False Claims, Army Says",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "organizations",
+        "value": "Medtronic Inc",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Conflicts of Interest",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Defense and Military Forces",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Reed, Walter, Army Medical Center",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Surgery and Surgeons",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Iraq War (2003- )",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Bones",
+        "rank": 7,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-05-13T01:24:24+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By DUFF WILSON and BARRY MEIER",
+      "person": [
+        {
+          "firstname": "Duff",
+          "middlename": null,
+          "lastname": "WILSON",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Barry",
+          "middlename": null,
+          "lastname": "MEIER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "546a890d38f0d84ca2c5c647",
+    "word_count": 1305,
+    "score": 1.0,
+    "uri": "nyt://article/1d30ad63-eda5-5ef8-b39e-bdc1d128853c"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/05/13/business/13madoff.html",
+    "snippet": "About $12 billion was pulled out of accounts at Bernard L. Madoff\u2019s firm in 2008, half of which was taken out in the three months before his arrest.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "Billions Withdrawn Before Madoff Arrest",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Madoff Case Suits Seek $6.1 Billion",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Madoff, Bernard L",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Ponzi Schemes",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Frauds and Swindling",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Picard, Irving H",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Picower Foundation",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-05-13T01:12:48+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By DIANA B. HENRIQUES and ZACHERY KOUWE",
+      "person": [
+        {
+          "firstname": "Diana",
+          "middlename": null,
+          "lastname": null,
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "546a88c638f0d84ca2c5c5fb",
+    "word_count": 889,
+    "score": 1.0,
+    "uri": "nyt://article/fb45a864-4732-5da7-8a36-06892e8175f9"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/05/14/business/global/14frugal.html",
+    "snippet": "Instead of spending its oil riches, Norway saved, and it is now growing in the midst of the global recession.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/05/13/business/14norway2_600.JPG",
+        "height": 331,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/05/13/business/14norway2_600.JPG",
+          "xlargeheight": 331
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/05/13/business/frugal-75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/05/13/business/frugal-75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Thriving Norway Provides an Economics Lesson",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Thriving Norway Provides an Economics Lesson",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Norway",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Sovereign Wealth Funds",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Economic Conditions and Trends",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Oil (Petroleum) and Gasoline",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Subprime Mortgage Crisis",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-05-13T22:33:08+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "section_name": "Global Business",
+    "byline": {
+      "original": "By LANDON THOMAS Jr",
+      "person": [
+        {
+          "firstname": "Landon",
+          "middlename": null,
+          "lastname": "THOMAS",
+          "qualifier": "Jr",
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "546a910d38f0d84ca2c5c721",
+    "word_count": 1054,
+    "score": 1.0,
+    "uri": "nyt://article/3417e760-6116-558a-ac1e-649d3cf0b710"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/05/14/garden/14return.html",
+    "snippet": "When hard economic times force adults to move back into their parents\u2019 homes, the move is rarely without tensions.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/05/14/garden/14return75.1.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/05/14/garden/14return75.1.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Caught in the Safety Net",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Caught in The Safety Net",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Families and Family Life",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Recession and Depression",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Children and Youth",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Parenting",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Economic Conditions and Trends",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-05-13T22:21:35+0000",
+    "document_type": "article",
+    "new_desk": "Home",
+    "byline": {
+      "original": "By JOYCE WADLER",
+      "person": [
+        {
+          "firstname": "Joyce",
+          "middlename": null,
+          "lastname": "WADLER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "546a8ff838f0d84ca2c5c705",
+    "word_count": 2882,
+    "score": 1.0,
+    "uri": "nyt://article/511f9e0f-d3e9-5129-9643-0f0446adae18"
+  }
+]

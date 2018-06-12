@@ -1,0 +1,596 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2011/02/26/sports/baseball/26mets.html",
+    "snippet": "Major League Baseball\u2019s intervention is yet one more sign of the distress plaguing the team\u2019s owners, Fred Wilpon and Saul Katz.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/02/26/sports/26mets1/26mets1-articleLarge.jpg",
+        "height": 315,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2011/02/26/sports/26mets1/26mets1-articleLarge.jpg",
+          "xlargeheight": 315
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/02/26/sports/26mets1/26mets1-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/02/26/sports/26mets1/26mets1-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Baseball Gave $25 Million Lifeline to Mets",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Baseball Gave Mets a Lifeline Of $25 Million",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "organizations",
+        "value": "New York Mets",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Baseball",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Wilpon, Fred",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Madoff, Bernard L",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Katz, Saul B",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Selig, Bud",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Picard, Irving H",
+        "rank": 7,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-02-25T22:26:29+0000",
+    "document_type": "article",
+    "new_desk": "Sports",
+    "section_name": "Baseball",
+    "byline": {
+      "original": "By MICHAEL S. SCHMIDT and DAVID WALDSTEIN",
+      "person": [
+        {
+          "firstname": "Michael",
+          "middlename": "S.",
+          "lastname": "SCHMIDT",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "David",
+          "middlename": null,
+          "lastname": "WALDSTEIN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "540b2a1e38f0d84fb8834762",
+    "word_count": 993,
+    "score": 1.0,
+    "uri": "nyt://article/d110b410-75e1-5b99-af7e-bcec55652668"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/02/27/realestate/27cov.html",
+    "snippet": "The role of a building super is evolving: Some are donning suits and others are taking on doormen and concierge tasks.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/02/27/realestate/27-COVER-SPAN/27-COVER-SPAN-articleLarge.jpg",
+        "height": 315,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2011/02/27/realestate/27-COVER-SPAN/27-COVER-SPAN-articleLarge.jpg",
+          "xlargeheight": 315
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/02/27/realestate/27-COVER-SPAN/27-COVER-SPAN-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/02/27/realestate/27-COVER-SPAN/27-COVER-SPAN-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "The Super Comes Out of the Basement",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Out Of The Basement",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Building Service Employees",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "New York City",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Housing and Real Estate",
+        "rank": 3,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-02-25T15:51:09+0000",
+    "document_type": "article",
+    "new_desk": "RealEstate",
+    "byline": {
+      "original": "By JULIE SATOW",
+      "person": [
+        {
+          "firstname": "Julie",
+          "middlename": null,
+          "lastname": "SATOW",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "540b20e938f0d84fb88346ab",
+    "word_count": 1813,
+    "score": 1.0,
+    "uri": "nyt://article/c4ba620f-6035-59ac-9810-5d1eee2f06ce"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/02/27/fashion/27Stein.html",
+    "snippet": "As one of the most visible characters on the young literary scene in New York, Mr. Stein is seen as capable of giving The Paris Review a much-needed infusion of its original cool.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/02/27/fashion/STEIN/STEIN-articleLarge.jpg",
+        "height": 365,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2011/02/27/fashion/STEIN/STEIN-articleLarge.jpg",
+          "xlargeheight": 365
+        },
+        "subType": "xlarge",
+        "crop_name": "articleLarge"
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/02/27/fashion/STEIN/STEIN-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/02/27/fashion/STEIN/STEIN-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": "thumbStandard"
+      },
+      {
+        "rank": 0,
+        "subtype": "articleInline",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/02/27/fashion/STEIN/STEIN-articleInline.jpg",
+        "height": 127,
+        "width": 190,
+        "legacy": {},
+        "subType": "articleInline",
+        "crop_name": "articleInline"
+      },
+      {
+        "rank": 0,
+        "subtype": "jumbo",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/02/27/fashion/STEIN/STEIN-jumbo.jpg",
+        "height": 682,
+        "width": 1024,
+        "legacy": {},
+        "subType": "jumbo",
+        "crop_name": "jumbo"
+      },
+      {
+        "rank": 0,
+        "subtype": "popup",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/02/27/fashion/STEIN/STEIN-popup.jpg",
+        "height": 433,
+        "width": 650,
+        "legacy": {},
+        "subType": "popup",
+        "crop_name": "popup"
+      },
+      {
+        "rank": 0,
+        "subtype": "sfSpan",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/02/27/fashion/STEIN/STEIN-sfSpan.jpg",
+        "height": 263,
+        "width": 395,
+        "legacy": {},
+        "subType": "sfSpan",
+        "crop_name": "sfSpan"
+      }
+    ],
+    "headline": {
+      "main": "Lorin Stein, the Paris Review\u2019s New Party Boy",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "The Paris Review\u2019s New Party Boy",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Stein, Lorin",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Paris Review",
+        "rank": 2,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-02-25T19:58:20+0000",
+    "document_type": "article",
+    "new_desk": "Styles",
+    "byline": {
+      "original": "By JULIE BOSMAN",
+      "person": [
+        {
+          "firstname": "Julie",
+          "middlename": null,
+          "lastname": "BOSMAN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "540b290538f0d84fb883474c",
+    "word_count": 1803,
+    "score": 1.0,
+    "uri": "nyt://article/8043ff62-77ed-5d76-9d32-2a00b552c417"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/02/25/world/asia/25afghanistan.html",
+    "snippet": "American officials say the Pech Valley consumed resources disproportionate with its importance and there are not enough troops to win decisively against the Taliban and Al Qaeda.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/02/25/world/25afghanistan_337-span/25afghanistan_337-span-articleLarge.jpg",
+        "height": 330,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2011/02/25/world/25afghanistan_337-span/25afghanistan_337-span-articleLarge.jpg",
+          "xlargeheight": 330
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/02/25/world/25afghanistan_337-span/25afghanistan_337-span-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/02/25/world/25afghanistan_337-span/25afghanistan_337-span-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "U.S. Pulling Back in Afghan Valley It Called Vital to War",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "U.S. PULLING BACK IN AFGHAN VALLEY IT CALLED CRUCIAL",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Afghanistan",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Afghanistan War (2001- )",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Defense and Military Forces",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-02-25T02:14:45+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Asia Pacific",
+    "byline": {
+      "original": "By C. J. CHIVERS, ALISSA J. RUBIN and WESLEY MORGAN",
+      "person": [
+        {
+          "firstname": "C.",
+          "middlename": "J.",
+          "lastname": "CHIVERS",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Alissa",
+          "middlename": "J.",
+          "lastname": "RUBIN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        },
+        {
+          "firstname": "Wesley",
+          "middlename": null,
+          "lastname": "MORGAN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 3
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "540b252e38f0d84fb88346fd",
+    "word_count": 1553,
+    "score": 1.0,
+    "uri": "nyt://article/513aad69-5440-5883-bc94-e57b239a3a06"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/02/27/nyregion/27barrett.html",
+    "snippet": "Wayne Barrett, in 37 years at The Village Voice, was the master of chronicling the underbelly of New York City politics.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/02/27/nyregion/27-BARRETT-SPAN/27-BARRETT-SPAN-articleLarge.jpg",
+        "height": 352,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2011/02/27/nyregion/27-BARRETT-SPAN/27-BARRETT-SPAN-articleLarge.jpg",
+          "xlargeheight": 352
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/02/27/nyregion/27-BARRETT-SPAN/27-BARRETT-SPAN-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/02/27/nyregion/27-BARRETT-SPAN/27-BARRETT-SPAN-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "The (Ex) Voice of the Village",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "The (Ex) Voice of the Village",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Barrett, Wayne",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Village Voice",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "News and News Media",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Newspapers",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "New York City",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-02-25T19:24:06+0000",
+    "document_type": "article",
+    "new_desk": "Metro",
+    "byline": {
+      "original": "By RICHARD P\u00c9REZ-PE\u00d1A",
+      "person": [
+        {
+          "firstname": "Richard",
+          "middlename": null,
+          "lastname": "P\u00c9REZ-PE\u00d1A",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "540b284438f0d84fb883473c",
+    "word_count": 2594,
+    "score": 1.0,
+    "uri": "nyt://article/1338df43-aa7a-580b-b202-13a47aa73d64"
+  }
+]

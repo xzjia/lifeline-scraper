@@ -1,0 +1,172 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2011/03/12/world/asia/12japan.html",
+    "snippet": "Japan was filled with scenes of desperation a day after an 8.9-magnitude quake, as survivors called for help and rescuers looked for people buried in rubble.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/03/12/world/12japan4_span/12japan4_span-articleLarge.jpg",
+        "height": 330,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2011/03/12/world/12japan4_span/12japan4_span-articleLarge.jpg",
+          "xlargeheight": 330
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/03/12/world/12japan4_span/12japan4_span-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/03/12/world/12japan4_span/12japan4_span-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Powerful Quake and Tsunami Devastate Northern Japan",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Powerful Quake and Tsunami Devastate Northern Japan",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Japan Earthquake and Tsunami (2011)",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Japan",
+        "rank": 2,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-03-11T07:15:00+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Asia Pacific",
+    "byline": {
+      "original": "By MARTIN FACKLER",
+      "person": [
+        {
+          "firstname": "Martin",
+          "middlename": null,
+          "lastname": "FACKLER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "52a64d0b38f0d85fb93fcdd2",
+    "word_count": 1530,
+    "score": 1.0,
+    "uri": "nyt://article/61a990b4-810f-56a3-af10-2fda13b1dea8"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/03/13/realestate/13cov.html",
+    "snippet": "Buyers and sellers must choose between a large real estate agency with vast resources or a smaller firm that promises individual attention.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/03/13/realestate/13COVER/13COVER-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/03/13/realestate/13COVER/13COVER-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "The Ascent of the Little Guys",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "The Ascent Of the Little Guys",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Housing and Real Estate",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Real Estate Brokers",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "New York City",
+        "rank": 3,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-03-11T16:32:32+0000",
+    "document_type": "article",
+    "new_desk": "RealEstate",
+    "byline": {
+      "original": "By HILARY STOUT",
+      "person": [
+        {
+          "firstname": "Hilary",
+          "middlename": null,
+          "lastname": "STOUT",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "540b8c8938f0d85e13e4c666",
+    "word_count": 1830,
+    "score": 1.0,
+    "uri": "nyt://article/91aa330e-1ef7-5ec2-8d4b-56579185ddc8"
+  }
+]

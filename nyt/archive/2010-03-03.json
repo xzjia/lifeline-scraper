@@ -1,0 +1,411 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2010/03/03/nyregion/03recession.html",
+    "snippet": "City officials and private economists revised their employment forecasts, saying the decline would be about 200,000 jobs.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "In New York, Wall Street Bailout Softens the Blow of a Recession",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "In New York, Wall Street Bailout Softens the Blow of a Recession",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [],
+    "pub_date": "2010-03-03T05:00:00+0000",
+    "document_type": "article",
+    "new_desk": "Metro",
+    "byline": {
+      "original": "By PATRICK McGEEHAN",
+      "person": [
+        {
+          "firstname": "Patrick",
+          "middlename": null,
+          "lastname": "McGEEHAN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5443794738f0d8246e88d3a2",
+    "word_count": 1209,
+    "score": 1.0,
+    "uri": "nyt://article/cdd0523c-e15c-560b-b7fd-f23a6119aeb2"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2010/03/04/nyregion/04rangel.html",
+    "snippet": "Caught in a swirl of ethics inquiries, Representative Charles B. Rangel said that he would step aside as leader of the House Ways and Means Committee. ",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/03/04/us/04rangelspan2-cnd/04rangelspan2-cnd-articleLarge.jpg",
+        "height": 331,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2010/03/04/us/04rangelspan2-cnd/04rangelspan2-cnd-articleLarge.jpg",
+          "xlargeheight": 331
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/03/04/us/04rangelspan2-cnd/04rangelspan2-cnd-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/03/04/us/04rangelspan2-cnd/04rangelspan2-cnd-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Rangel Steps Aside From  Post During Ethics Inquiry",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Under Attack, Rangel Steps Down From Key Post",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Rangel, Charles B",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "House Committee on Ways and Means",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Ethics",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "House of Representatives",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "New York State",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-03-03T13:55:48+0000",
+    "document_type": "article",
+    "new_desk": "Metro",
+    "byline": {
+      "original": "By CARL HULSE and DAVID M. HERSZENHORN",
+      "person": [
+        {
+          "firstname": "Carl",
+          "middlename": null,
+          "lastname": "HULSE",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "David",
+          "middlename": null,
+          "lastname": null,
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5400b94d38f0d841b2f38666",
+    "word_count": 1203,
+    "score": 1.0,
+    "uri": "nyt://article/066fcd72-9551-5bd5-9a79-712c7d681165"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2010/03/04/nyregion/04paterson.html",
+    "snippet": "A state commission asked prosecutors to determine if criminal charges should be brought against Gov. David A. Paterson for what it called his false testimony.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/03/04/nyregion/paterson_allsizes/paterson_allsizes-articleLarge.jpg",
+        "height": 324,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2010/03/04/nyregion/paterson_allsizes/paterson_allsizes-articleLarge.jpg",
+          "xlargeheight": 324
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/03/04/nyregion/paterson_allsizes/paterson_allsizes-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/03/04/nyregion/paterson_allsizes/paterson_allsizes-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Paterson\u2019s Ethics Breach Is Turned Over to Prosecutors",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Inquiry on Gifts Finds Governor Testified Falsely",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Paterson, David A",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Ethics",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Democratic Party",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "New York State",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Politics and Government",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Johnson, David W",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "State Commission on Public Integrity",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "New York Yankees",
+        "rank": 8,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-03-03T16:31:15+0000",
+    "document_type": "article",
+    "new_desk": "Metro",
+    "byline": {
+      "original": "By NICHOLAS CONFESSORE and JEREMY W. PETERS",
+      "person": [
+        {
+          "firstname": "Nicholas",
+          "middlename": null,
+          "lastname": "CONFESSORE",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Jeremy",
+          "middlename": "W.",
+          "lastname": "PETERS",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "540e048038f0d863ce5a4552",
+    "word_count": 1337,
+    "score": 1.0,
+    "uri": "nyt://article/6b8c5b09-4325-5cdd-8800-0265230b7de8"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2010/03/04/health/policy/04health.html",
+    "snippet": "President Obama sketched out an ambitious \u2014 and, some Democrats said, unrealistic \u2014 timetable for his party to pass the bill.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/03/04/us/04health_CA0/04health_CA0-articleLarge.jpg",
+        "height": 315,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2010/03/04/us/04health_CA0/04health_CA0-articleLarge.jpg",
+          "xlargeheight": 315
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/03/04/us/04health_CA0/04health_CA0-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/03/04/us/04health_CA0/04health_CA0-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Obama Calls for \u2018Up or Down Vote\u2019 on Health Care Bill",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "PRESIDENT CALLS FOR FINAL VOTE ON HEALTH BILL",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Obama, Barack",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Health Insurance and Managed Care",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Reform and Reorganization",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Politics and Government",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-03-03T19:06:31+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "section_name": "Money & Policy",
+    "byline": {
+      "original": "By SHERYL GAY STOLBERG and ROBERT PEAR",
+      "person": [
+        {
+          "firstname": "Sheryl",
+          "middlename": "Gay",
+          "lastname": "STOLBERG",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Robert",
+          "middlename": null,
+          "lastname": "PEAR",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "54437e6b38f0d8246e88d432",
+    "word_count": 1233,
+    "score": 1.0,
+    "uri": "nyt://article/9529085c-e008-5709-995b-3af44ff6c778"
+  }
+]

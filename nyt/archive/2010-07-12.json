@@ -1,0 +1,529 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2010/07/12/nyregion/12frisk.html",
+    "snippet": "Questions are swirling over \u201cStop, Question, Frisk,\u201d a tactic police increasingly pursue in the Brownsville neighborhood of Brooklyn.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/07/12/nyregion/12frisk1_span/frisk-articleLarge.jpg",
+        "height": 350,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2010/07/12/nyregion/12frisk1_span/frisk-articleLarge.jpg",
+          "xlargeheight": 350
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/07/12/nyregion/12frisk1_span/frisk-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/07/12/nyregion/12frisk1_span/frisk-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "A Few Blocks, 4 Years, 52,000 Police Stops",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "A Few Blocks, 4 Years, 52,000 Police Stops",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Search and Seizure",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Police",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Public Housing",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Brownsville (NYC)",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Police Department (NYC)",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-07-12T01:41:10+0000",
+    "document_type": "article",
+    "new_desk": "Metro",
+    "byline": {
+      "original": "By RAY RIVERA, AL BAKER and JANET ROBERTS",
+      "person": [
+        {
+          "firstname": "Ray",
+          "middlename": null,
+          "lastname": "RIVERA",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Al",
+          "middlename": null,
+          "lastname": "BAKER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        },
+        {
+          "firstname": "Janet",
+          "middlename": null,
+          "lastname": "ROBERTS",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 3
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5286587838f0d862f8287f00",
+    "word_count": 3247,
+    "score": 1.0,
+    "uri": "nyt://article/ae8b0e1a-0c36-5ea4-b826-32e3b8705ec1"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2010/07/12/sports/baseball/12sandomir.html",
+    "snippet": "The stature of Bob Sheppard seemed to transcend that of many of the broadcasters who worked alongside him at Yankee Stadium.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/07/12/sports/SANDOMIR/SANDOMIR-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/07/12/sports/SANDOMIR/SANDOMIR-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Simple Intonation, a Lasting Impression",
+      "kicker": "An Appraisal",
+      "content_kicker": "An Appraisal",
+      "print_headline": "Sheppard\u2019s Intonations Are Lasting Impression",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Sheppard, Bob",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "New York Yankees",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Yankee Stadium (NYC)",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Baseball",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-07-12T00:32:44+0000",
+    "document_type": "article",
+    "new_desk": "Sports",
+    "section_name": "Baseball",
+    "byline": {
+      "original": "By RICHARD SANDOMIR",
+      "person": [
+        {
+          "firstname": "Richard",
+          "middlename": null,
+          "lastname": "SANDOMIR",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "Obituary (Obit)",
+    "_id": "5418666538f0d86afc99ffa5",
+    "word_count": 689,
+    "score": 1.0,
+    "uri": "nyt://article/79fc8d33-3a07-5280-8fba-8d5a5d5fe314"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2010/07/13/science/13gravity.html",
+    "snippet": "A string theorist is not tethered to the notion of gravity, saying the force is a consequence of thermodynamics.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/07/13/science/13gravity/13gravity-articleLarge.jpg",
+        "height": 415,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2010/07/13/science/13gravity/13gravity-articleLarge.jpg",
+          "xlargeheight": 415
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/07/13/science/13gravity/13gravity-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/07/13/science/13gravity/13gravity-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "A Scientist Takes On Gravity",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Is Gravity Real? A Scientist Takes On Newton",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Gravitation and Gravity",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Physics",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Black Holes (Space)",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Science and Technology",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Newton, Isaac",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-07-12T19:46:27+0000",
+    "document_type": "article",
+    "new_desk": "Science",
+    "byline": {
+      "original": "By DENNIS OVERBYE",
+      "person": [
+        {
+          "firstname": "Dennis",
+          "middlename": null,
+          "lastname": "OVERBYE",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "54186cd038f0d86afc9a003a",
+    "word_count": 1977,
+    "score": 1.0,
+    "uri": "nyt://article/827ea9e5-74f7-557f-8000-a5b5524abe15"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2010/07/12/business/12census.html",
+    "snippet": "The Census Bureau is shedding hundreds of thousands of positions, sending workers into a daunting job market.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/07/12/business/12census_span/12census_span-articleLarge.jpg",
+        "height": 350,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2010/07/12/business/12census_span/12census_span-articleLarge.jpg",
+          "xlargeheight": 350
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/07/12/business/12census_span/12census_span-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/07/12/business/12census_span/12census_span-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "End of Census, and for Many, End of Job",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "End of Census, And for Many, End of a Job",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "organizations",
+        "value": "Census Bureau",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Labor and Jobs",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Providence (RI)",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Census",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-07-12T00:54:32+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By MICHAEL POWELL",
+      "person": [
+        {
+          "firstname": "Michael",
+          "middlename": null,
+          "lastname": "POWELL",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "54186ac738f0d86afc9a000e",
+    "word_count": 1162,
+    "score": 1.0,
+    "uri": "nyt://article/eeea7515-52e8-52a3-923b-310538f60332"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2010/07/13/world/asia/13factory.html",
+    "snippet": "High demand for factory labor has emboldened workers, resulting in higher salaries and better treatment.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/07/13/world/13factory2_337-395/13factory2_337-395-articleLarge.jpg",
+        "height": 350,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2010/07/13/world/13factory2_337-395/13factory2_337-395-articleLarge.jpg",
+          "xlargeheight": 350
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/07/13/world/13factory2_337-395/13factory2_337-395-thumbStandard-v2.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/07/13/world/13factory2_337-395/13factory2_337-395-thumbStandard-v2.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Chinese Factories Now Compete to Woo Laborers",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "In a Shift, Chinese Workers Set Their Terms",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "China",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Labor and Jobs",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Factories and Manufacturing",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Wages and Salaries",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-07-12T21:51:45+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Asia Pacific",
+    "byline": {
+      "original": "By ANDREW JACOBS",
+      "person": [
+        {
+          "firstname": "Andrew",
+          "middlename": null,
+          "lastname": "JACOBS",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5418725838f0d86afc9a00b4",
+    "word_count": 1279,
+    "score": 1.0,
+    "uri": "nyt://article/ff9d1d28-a090-599b-b158-ae3512f9a1d3"
+  }
+]

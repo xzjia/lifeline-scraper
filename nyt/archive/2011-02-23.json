@@ -1,0 +1,432 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2011/02/24/world/africa/24libya.html",
+    "snippet": "Libya\u2019s leader called on mercenaries and irregular security forces to defend Tripoli, in what some took as a sign that the uprising might be entering a decisive stage.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/02/24/world/24libya6_span/24libya6_span-articleLarge.jpg",
+        "height": 330,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2011/02/24/world/24libya6_span/24libya6_span-articleLarge.jpg",
+          "xlargeheight": 330
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/02/24/world/24libya6_span/24libya6_span-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/02/24/world/24libya6_span/24libya6_span-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Qaddafi Massing Forces in Tripoli as Rebellion Spreads",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Qaddafi Massing Forces in Tripoli",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Libya",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Demonstrations, Protests, and Riots",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Middle East and North Africa Unrest (2010- )",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Qaddafi, Muammar el-",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Mercenaries",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Defense and Military Forces",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-02-23T09:11:06+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Africa",
+    "byline": {
+      "original": "By KAREEM FAHIM and DAVID D. KIRKPATRICK",
+      "person": [
+        {
+          "firstname": "Kareem",
+          "middlename": null,
+          "lastname": "FAHIM",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "David",
+          "middlename": null,
+          "lastname": null,
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "540b119138f0d84fb883459f",
+    "word_count": 1479,
+    "score": 1.0,
+    "uri": "nyt://article/58fefbc7-5929-56a6-b5e4-7a781ad8da2c"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/02/23/us/chicago-mayor-election.html",
+    "snippet": "Rahm Emanuel was elected mayor of Chicago, which will mark a new path for a city that has, for 22 years, been led by Richard M. Daley.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/02/23/us/subjpCHICAGO/subjpCHICAGO-articleLarge.jpg",
+        "height": 340,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2011/02/23/us/subjpCHICAGO/subjpCHICAGO-articleLarge.jpg",
+          "xlargeheight": 340
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/02/23/us/subjpCHICAGO/subjpCHICAGO-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/02/23/us/subjpCHICAGO/subjpCHICAGO-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Emanuel Triumphs in Chicago Mayoral Race",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "EMANUEL TAKES CHICAGO\u2019S RACE FOR CITY HALL",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Emanuel, Rahm",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Chicago (Ill)",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Mayors",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Elections",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-02-23T02:22:46+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "byline": {
+      "original": "By MONICA DAVEY and EMMA GRAVES FITZSIMMONS",
+      "person": [
+        {
+          "firstname": "Monica",
+          "middlename": null,
+          "lastname": "DAVEY",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Emma",
+          "middlename": "Graves",
+          "lastname": "FITZSIMMONS",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "540b0ef038f0d84fb883456a",
+    "word_count": 1132,
+    "score": 1.0,
+    "uri": "nyt://article/168e0e2e-c27d-5dee-b0f3-33c888923daf"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/02/23/business/economy/23leonhardt.html",
+    "snippet": "Germany\u2019s austerity has failed, yet many American lawmakers insist that cuts are the path to prosperity.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/04/19/business/leonhardt-75/leonhardt-75-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/04/19/business/leonhardt-75/leonhardt-75-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Why Budget Cuts Don\u2019t Bring Prosperity",
+      "kicker": "Economic Scene",
+      "content_kicker": "Economic Scene",
+      "print_headline": "Why Cuts Don\u2019t Bring Prosperity",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "United States Economy",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Federal Budget (US)",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Politics and Government",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Recession and Depression",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Economic Conditions and Trends",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-02-23T00:33:57+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "section_name": "Economy",
+    "byline": {
+      "original": "By DAVID LEONHARDT",
+      "person": [
+        {
+          "firstname": "David",
+          "middlename": null,
+          "lastname": "LEONHARDT",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "540b0ec538f0d84fb8834567",
+    "word_count": 1070,
+    "score": 1.0,
+    "uri": "nyt://article/1ca9bf17-60a6-58d1-99ed-178558f69e06"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/02/24/us/24marriage.html",
+    "snippet": "When suits challenge the 1996 law barring recognition of same-sex marriages, federal lawyers will now tell judges it should be struck down.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/02/24/us/jp-MARRIAGE/jp-MARRIAGE-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/02/24/us/jp-MARRIAGE/jp-MARRIAGE-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "In Shift, U.S. Says Marriage Act Blocks Gay Rights",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "IN TURNABOUT, U.S. SAYS MARRIAGE ACT BLOCKS GAY RIGHTS",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Homosexuality",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Defense of Marriage Act (1996)",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Justice Department",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Same-Sex Marriage, Civil Unions and Domestic Partnerships",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Obama, Barack",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-02-23T17:58:57+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "byline": {
+      "original": "By CHARLIE SAVAGE and SHERYL GAY STOLBERG",
+      "person": [
+        {
+          "firstname": "Charlie",
+          "middlename": null,
+          "lastname": "SAVAGE",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Sheryl",
+          "middlename": "Gay",
+          "lastname": "STOLBERG",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "540b107e38f0d84fb8834587",
+    "word_count": 1331,
+    "score": 1.0,
+    "uri": "nyt://article/467affe0-0fd2-5f59-8030-a9601ef0e67a"
+  }
+]

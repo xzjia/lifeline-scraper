@@ -1,0 +1,520 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2009/09/25/health/research/25aids.html",
+    "snippet": "A new AIDS vaccine tested in Thailand has protected a significant minority against infection.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/09/25/world/25aids.75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/09/25/world/25aids.75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "For First Time, AIDS Vaccine Shows Some Success",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Vaccine for AIDS Passes Trial; Limits of Success to Be Studied",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Vaccination and Immunization",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Acquired Immune Deficiency Syndrome",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Medicine and Health",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Thailand",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Tests and Testing",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Sanofi-Aventis SA",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Genetech Inc",
+        "rank": 7,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-09-24T05:44:07+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Research",
+    "byline": {
+      "original": "By DONALD G. McNEIL Jr",
+      "person": [
+        {
+          "firstname": "Donald",
+          "middlename": "G.",
+          "lastname": "McNEIL",
+          "qualifier": "Jr",
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5456837f38f0d86ef22a05f7",
+    "word_count": 1078,
+    "score": 1.0,
+    "uri": "nyt://article/6b1001ea-bcdf-5f00-911b-b4db1f9a8367"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/09/25/us/politics/25poll.html",
+    "snippet": "President Obama is finding tepid support on two key issues, according to the latest Times/CBS News poll.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "In Poll, Public Wary of Obama on War and Health",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Poll Finds Frustration on War And Confusion on Health Plan",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Polls and Public Opinion",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Obama, Barack",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Afghanistan War (2001- )",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Emergency Economic Stabilization Act (2008)",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Economy",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Reform and Reorganization",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Health Insurance and Managed Care",
+        "rank": 7,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-09-24T22:32:15+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "section_name": "Politics",
+    "byline": {
+      "original": "By ADAM NAGOURNEY and DALIA SUSSMAN",
+      "person": [
+        {
+          "firstname": "Adam",
+          "middlename": null,
+          "lastname": "NAGOURNEY",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Dalia",
+          "middlename": null,
+          "lastname": "SUSSMAN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "54568bac38f0d86ef22a06a9",
+    "word_count": 1138,
+    "score": 1.0,
+    "uri": "nyt://article/3d7fe8d0-75be-5a2f-9765-4b77f939ea42"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/09/24/business/24coupon.html",
+    "snippet": "Coupon use has caught on among young and well-off shoppers, though digital versions haven\u2019t gained much.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/09/24/business/24coupon.1.600.jpg",
+        "height": 356,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/09/24/business/24coupon.1.600.jpg",
+          "xlargeheight": 356
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/09/24/business/24coupon_75a.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/09/24/business/24coupon_75a.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "A Clip-and-Save Renaissance",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Clip-and-Save Renaissance",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Coupons",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Economic Conditions and Trends",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Shopping and Retail",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Recession and Depression",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-09-24T00:17:39+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By STEPHANIE ROSENBLOOM",
+      "person": [
+        {
+          "firstname": "Stephanie",
+          "middlename": null,
+          "lastname": "ROSENBLOOM",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5456806038f0d86ef22a05b4",
+    "word_count": 1274,
+    "score": 1.0,
+    "uri": "nyt://article/0bf42f10-1d48-5d0e-8bbd-855e6842ecf3"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/09/24/garden/24cheap.html",
+    "snippet": "A reader\u2019s Brooklyn loft gets a makeover on a $5,000 budget with the help of a professional designer, who took the space from stark to sleek just in time for a party with colleagues.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/09/24/garden/24cheap600.1a.jpg",
+        "height": 331,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/09/24/garden/24cheap600.1a.jpg",
+          "xlargeheight": 331
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/09/24/garden/24cheap75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/09/24/garden/24cheap75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "A Place Fit for the Boss",
+      "kicker": "On the Cheap",
+      "content_kicker": "On the Cheap",
+      "print_headline": "A Place Fit for The Boss",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Home Furnishings",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Shopping and Retail",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Furniture",
+        "rank": 3,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-09-24T00:02:37+0000",
+    "document_type": "article",
+    "new_desk": "Home",
+    "byline": {
+      "original": "By JULIE SCELFO",
+      "person": [
+        {
+          "firstname": "Julie",
+          "middlename": null,
+          "lastname": "SCELFO",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "54567da438f0d86ef22a057e",
+    "word_count": 1685,
+    "score": 1.0,
+    "uri": "nyt://article/0f57cadc-9395-503f-9876-e464f639fcf3"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/09/25/health/policy/25knee.html",
+    "snippet": "The Food and Drug Administration said that four congressmen and its former commissioner influenced the process that led it to approve a patch for injured knees.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "F.D.A. Reveals It Fell to a Push by Lawmakers",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "F.D.A. Reveals It Fell to a Push By Lawmakers",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "organizations",
+        "value": "Food and Drug Administration",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "ReGen Biologics Inc",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Knees",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Medical Devices",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Ethics",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Menendez, Robert",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Lautenberg, Frank R",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Pallone, Frank Jr",
+        "rank": 9,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Rothman, Steven R",
+        "rank": 10,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "von Eschenbach, Andrew C",
+        "rank": 11,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "New Jersey",
+        "rank": 12,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-09-24T18:52:46+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "section_name": "Money & Policy",
+    "byline": {
+      "original": "By GARDINER HARRIS and DAVID M. HALBFINGER",
+      "person": [
+        {
+          "firstname": "Gardiner",
+          "middlename": null,
+          "lastname": "HARRIS",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "David",
+          "middlename": null,
+          "lastname": null,
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5456870338f0d86ef22a064b",
+    "word_count": 1124,
+    "score": 1.0,
+    "uri": "nyt://article/6511450b-ebeb-5ef1-84e6-f0a4dc78beef"
+  }
+]

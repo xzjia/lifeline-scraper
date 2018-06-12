@@ -1,0 +1,791 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2013/06/05/world/middleeast/syrian-rebels-attempt-shift-from-guerrilla-tactics.html",
+    "snippet": "The rebels have been pulled between the limits of a lightly equipped guerrilla force and their urge to fight with the battlefield weight of an army.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/06/04/world/middleeast/20130605-REBELS-slide-6E5T/20130605-REBELS-slide-6E5T-articleLarge.jpg",
+        "height": 400,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2013/06/04/world/middleeast/20130605-REBELS-slide-6E5T/20130605-REBELS-slide-6E5T-articleLarge.jpg",
+          "xlargeheight": 400
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/06/04/world/middleeast/20130605-REBELS-slide-6E5T/20130605-REBELS-slide-6E5T-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2013/06/04/world/middleeast/20130605-REBELS-slide-6E5T/20130605-REBELS-slide-6E5T-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/06/04/world/middleeast/20130605-REBELS-slide-6E5T/20130605-REBELS-slide-6E5T-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2013/06/04/world/middleeast/20130605-REBELS-slide-6E5T/20130605-REBELS-slide-6E5T-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Syrian Rebels Meet Setbacks on a New Front",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Rebels in Syria, Opening a Front, Meet Obstacles",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Syria",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Middle East and North Africa Unrest (2010- )",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Alawite Muslims",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Sunni Muslims",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Free Syrian Army",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Syrian Army",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Defense and Military Forces",
+        "rank": 7,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2013-06-05T01:05:05+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Middle East",
+    "byline": {
+      "original": "By C. J. CHIVERS",
+      "person": [
+        {
+          "firstname": "C.",
+          "middlename": "J.",
+          "lastname": "CHIVERS",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "51ae8ec340e9ec65d203b4c5",
+    "word_count": 1604,
+    "score": 1.0,
+    "uri": "nyt://article/177e04cd-b12b-5bca-b6f5-cea909e79c8d"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2013/06/06/technology/personaltech/too-many-passwords-and-no-way-to-remember-them-until-now.html",
+    "snippet": "Dashlane is a dedicated password memorization program stuffed with features, and it\u2019s free.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/04/19/business/pogue-75/pogue-75-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/04/19/business/pogue-75/pogue-75-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Remember All Those Passwords? No Need",
+      "kicker": "State of the Art",
+      "content_kicker": "State of the Art",
+      "print_headline": "Remember All Those Passwords? No Need",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Computer Security",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Mobile Applications",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Dashlane Inc",
+        "rank": 3,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2013-06-05T19:09:07+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "section_name": "Personal Tech",
+    "byline": {
+      "original": "By DAVID POGUE",
+      "person": [
+        {
+          "firstname": "David",
+          "middlename": null,
+          "lastname": "POGUE",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "51af8cd640e9ec65d203b78d",
+    "word_count": 1262,
+    "score": 1.0,
+    "uri": "nyt://article/24c57068-f55a-552c-b514-224b74205235"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2013/06/06/garden/scrubbing-the-house-right-down-to-the-vibes.html",
+    "snippet": "Those known as space clearers make sure the house is scrubbed right down to the vibes.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/06/06/garden/06CLEARINGSUB_SPAN/06CLEARINGSUB_SPAN-articleLarge.jpg",
+        "height": 399,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2013/06/06/garden/06CLEARINGSUB_SPAN/06CLEARINGSUB_SPAN-articleLarge.jpg",
+          "xlargeheight": 399
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/06/06/garden/06CLEARINGSUB_SPAN/06CLEARINGSUB_SPAN-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2013/06/06/garden/06CLEARINGSUB_SPAN/06CLEARINGSUB_SPAN-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/06/06/garden/06CLEARINGSUB_SPAN/06CLEARINGSUB_SPAN-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2013/06/06/garden/06CLEARINGSUB_SPAN/06CLEARINGSUB_SPAN-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Cleaning More Than Cobwebs",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Cleaning More Than Cobwebs",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Real Estate and Housing (Residential)",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Cleaning Services",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Domestic Service",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Religion and Belief",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Shaye, Bhakti Sondra",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2013-06-05T22:24:20+0000",
+    "document_type": "article",
+    "new_desk": "Home",
+    "byline": {
+      "original": "By PENELOPE GREEN",
+      "person": [
+        {
+          "firstname": "Penelope",
+          "middlename": null,
+          "lastname": "GREEN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "51afba9640e9ec65d203b82d",
+    "word_count": 1809,
+    "score": 1.0,
+    "uri": "nyt://article/cfb7917c-a9c5-5869-8d6d-3cb03c6ad8c2"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2013/06/05/us/politics/us-china-meetings-aim-personal-diplomacy.html",
+    "snippet": "An upcoming visit between President Obama and President Xi Jinping of China, aimed at nurturing a high-level friendship, will be less scripted than such meetings usually are.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/06/05/us/05altpresidents/05altpresidents-articleLarge.jpg",
+        "height": 400,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2013/06/05/us/05altpresidents/05altpresidents-articleLarge.jpg",
+          "xlargeheight": 400
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/06/05/us/05altpresidents/05altpresidents-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2013/06/05/us/05altpresidents/05altpresidents-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/06/05/us/05altpresidents/05altpresidents-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2013/06/05/us/05altpresidents/05altpresidents-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "U.S.-China Meeting\u2019s Aim: Personal Diplomacy",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "U.S.-China Meeting\u2019s Aim: Personal Diplomacy",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Xi Jinping",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Obama, Barack",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States International Relations",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Politics and Government",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "China",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "United States",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2013-06-05T03:19:03+0000",
+    "document_type": "article",
+    "new_desk": "Washington",
+    "section_name": "Asia Pacific",
+    "byline": {
+      "original": "By MARK LANDLER and JACKIE CALMES",
+      "person": [
+        {
+          "firstname": "Mark",
+          "middlename": null,
+          "lastname": "LANDLER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Jackie",
+          "middlename": null,
+          "lastname": "CALMES",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "51aeae2740e9ec65d203b517",
+    "word_count": 1225,
+    "score": 1.0,
+    "uri": "nyt://article/ff855910-8693-5bfa-a8d2-f4ba3c40f13b"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2013/06/05/us/as-vandals-take-to-national-parks-some-point-to-social-media.html",
+    "snippet": "Park personnel say there is reason to believe that a spike in vandalism and graffiti that has found its way into the wilderness coincides with the rise of social media.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/06/05/us/PARKS-copy/PARKS-articleLarge-v2.jpg",
+        "height": 400,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2013/06/05/us/PARKS-copy/PARKS-articleLarge-v2.jpg",
+          "xlargeheight": 400
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/06/05/us/PARKS-copy/PARKS-thumbWide-v2.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2013/06/05/us/PARKS-copy/PARKS-thumbWide-v2.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/06/05/us/PARKS-copy/PARKS-thumbStandard-v6.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2013/06/05/us/PARKS-copy/PARKS-thumbStandard-v6.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "As Vandals Deface U.S. Parks, Some Point to Online Show-Offs",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "As Vandals Deface U.S. Parks, Some Point to Online Show-Offs",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Saguaro National Park (Ariz)",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Graffiti",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Vandalism",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "National Parks, Monuments and Seashores",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Social Networking (Internet)",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Rocky Mountain National Park (Colo)",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Joshua Tree National Park (Calif)",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Western States (US)",
+        "rank": 8,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2013-06-05T01:44:03+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "byline": {
+      "original": "By FELICITY BARRINGER",
+      "person": [
+        {
+          "firstname": "Felicity",
+          "middlename": null,
+          "lastname": "BARRINGER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "51ae97e440e9ec65d203b4e2",
+    "word_count": 1155,
+    "score": 1.0,
+    "uri": "nyt://article/f98d0317-fe47-5811-8297-02feabc5d2b8"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2013/06/06/technology/wishing-you-and-your-start-up-were-here.html",
+    "snippet": "As Congress debates immigration, countries like Canada and Australia are trying to lure foreign entrepreneurs. But there\u2019s only one place they want to be.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/06/06/business/06startup-cars/06startup-cars-articleLarge.jpg",
+        "height": 400,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2013/06/06/business/06startup-cars/06startup-cars-articleLarge.jpg",
+          "xlargeheight": 400
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/06/06/business/06startup-cars/06startup-cars-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2013/06/06/business/06startup-cars/06startup-cars-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/06/06/business/06startup-cars/06startup-cars-thumbStandard-v3.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2013/06/06/business/06startup-cars/06startup-cars-thumbStandard-v3.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Countries Seek Entrepreneurs From Silicon Valley",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Wooing in Silicon Valley",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Entrepreneurship",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Immigration and Emigration",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Visas",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Start-ups",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Law and Legislation",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Silicon Valley (Calif)",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Australia",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Canada",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Chile",
+        "rank": 9,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Foreign Workers",
+        "rank": 10,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Computers and the Internet",
+        "rank": 11,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2013-06-05T21:34:12+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By SOMINI SENGUPTA",
+      "person": [
+        {
+          "firstname": "Somini",
+          "middlename": null,
+          "lastname": "SENGUPTA",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "51afaed640e9ec65d203b80b",
+    "word_count": 1195,
+    "score": 1.0,
+    "uri": "nyt://article/7283688b-dd05-50d2-9e9a-cf4c2cef9658"
+  }
+]

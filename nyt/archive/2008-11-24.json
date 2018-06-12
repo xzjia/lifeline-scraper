@@ -1,0 +1,256 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2008/11/25/science/25robots.html",
+    "snippet": "Some scientists propose that fighting robots have benefits, but moral questions linger.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/11/24/science/24dean1a_600.jpg",
+        "height": 323,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2008/11/24/science/24dean1a_600.jpg",
+          "xlargeheight": 323
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/11/24/science/24dean1a_75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2008/11/24/science/24dean1a_75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "A Soldier, Taking Orders From Its Ethical Judgment Center",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "A Soldier, Taking Orders From Its Ethical Judgment Center",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Robots",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Armament and Defense",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Ethics",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Terrorism",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Artificial Intelligence",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Science and Technology",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2008-11-24T23:18:47+0000",
+    "document_type": "article",
+    "new_desk": "Science",
+    "byline": {
+      "original": "By CORNELIA DEAN",
+      "person": [
+        {
+          "firstname": "Cornelia",
+          "middlename": null,
+          "lastname": "DEAN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "547a774b38f0d803f445ba1f",
+    "word_count": 1522,
+    "score": 1.0,
+    "uri": "nyt://article/e4c3b338-a86a-5e32-b795-a7ed1f19497c"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2008/11/25/business/25assess.html",
+    "snippet": "Will the latest rescue by the U.S. government finally restore confidence in the American financial system?",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "Another Crisis, Another Guarantee",
+      "kicker": "News Analysis",
+      "content_kicker": "News Analysis",
+      "print_headline": "Another Crisis, Another Guarantee",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "organizations",
+        "value": "Federal Reserve System",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Citigroup Incorporated",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Subprime Mortgage Crisis",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Paulson, Henry M Jr",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2008-11-24T14:04:05+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By FLOYD NORRIS",
+      "person": [
+        {
+          "firstname": "Floyd",
+          "middlename": null,
+          "lastname": "NORRIS",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News Analysis",
+    "_id": "547a763038f0d803f445ba07",
+    "word_count": 1115,
+    "score": 1.0,
+    "uri": "nyt://article/9b76bf9b-8190-50f1-8b8f-806b82024f39"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2008/11/25/business/25fares.html",
+    "snippet": "Bracing for a painful holiday season, hotels, airlines and cruise operators are offering deals to entice vacationers.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "Holiday Travel Is Bargain Spot for the Willing",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Holiday Travel Is Bargain Spot For the Willing",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Travel and Vacations",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Prices (Fares, Fees and Rates)",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Holidays and Special Occasions",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Personal Finances",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Budgets and Budgeting",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2008-11-24T19:36:31+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By MICHELLE HIGGINS",
+      "person": [
+        {
+          "firstname": "Michelle",
+          "middlename": null,
+          "lastname": "HIGGINS",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5475774038f0d8119c6af92e",
+    "word_count": 1371,
+    "score": 1.0,
+    "uri": "nyt://article/bbc00617-002e-5cae-86a1-8bc599d29ca1"
+  }
+]

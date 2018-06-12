@@ -1,0 +1,82 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2008/03/24/business/media/24press.html",
+    "snippet": "Iraq coverage by major American news sources has dropped to about one-fifth of what it was last summer, according to a survey.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "The War Endures, but Where\u2019s the Media?",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "The War Endures, But Where\u2019s The Media?",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "News and News Media",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Iraq",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Newspapers",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Armament and Defense",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Television",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Project for Excellence in Journalism",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2008-03-24T04:00:00+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "section_name": "Media",
+    "byline": {
+      "original": "By RICHARD P\u00c9REZ-PE\u00d1A",
+      "person": [
+        {
+          "firstname": "Richard",
+          "middlename": null,
+          "lastname": "P\u00c9REZ-PE\u00d1A",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "547f70dc38f0d828162875a4",
+    "word_count": 882,
+    "score": 1.0,
+    "uri": "nyt://article/ea4a2146-48e7-5a3f-adbe-9b1b24b25414"
+  }
+]

@@ -1,0 +1,730 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2011/12/12/us/politics/gingrichs-electromagnetic-pulse-warning-has-skeptics.html",
+    "snippet": "Newt Gingrich is ringing alarm bells over a type of nuclear attack called the electromagnetic pulse, which some scientists say is far-fetched.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/12/12/us/12nuclear1_span/12nuclear1_span-articleLarge.jpg",
+        "height": 350,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2011/12/12/us/12nuclear1_span/12nuclear1_span-articleLarge.jpg",
+          "xlargeheight": 350
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/12/12/us/12nuclear1_span/12nuclear1_span-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/12/12/us/12nuclear1_span/12nuclear1_span-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Among Gingrich\u2019s Passions, a Doomsday Vision",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Among Gingrich\u2019s Passions, a Doomsday Vision",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Presidential Election of 2012",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Missiles and Missile Defense Systems",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Gingrich, Newt",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Nuclear Weapons",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Defense and Military Forces",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-12-12T02:23:14+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "section_name": "Politics",
+    "byline": {
+      "original": "By WILLIAM J. BROAD",
+      "person": [
+        {
+          "firstname": "William",
+          "middlename": "J.",
+          "lastname": "BROAD",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "52070c6638f0d8740ac8ada4",
+    "word_count": 1263,
+    "score": 1.0,
+    "uri": "nyt://article/0e981e31-cb69-5220-885b-aec82463ee44"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/12/13/world/europe/billionaire-to-oppose-putin-in-russian-presidential-election.html",
+    "snippet": "Mikhail D. Prokhorov, a billionaire industrialist and owner of the New Jersey Nets, said he is seeking to fill a void in Russia\u2019s opposition by challenging Vladimir V. Putin for the presidency.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/12/13/world/13RUSSIA1_span/RUSSIA-articleLarge.jpg",
+        "height": 360,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2011/12/13/world/13RUSSIA1_span/RUSSIA-articleLarge.jpg",
+          "xlargeheight": 360
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/12/13/world/13RUSSIA1_span/RUSSIA-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/12/13/world/13RUSSIA1_span/RUSSIA-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Russian Mogul Joins the Race Against Putin",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Russian Mogul Joins the Race Against Putin",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Prokhorov, Mikhail D",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Russia",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Elections",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Putin, Vladimir V",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Kudrin, Aleksei L",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Basketball",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "New Jersey Nets",
+        "rank": 7,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-12-12T13:48:43+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Europe",
+    "byline": {
+      "original": "By ELLEN BARRY and ANDREW E. KRAMER",
+      "person": [
+        {
+          "firstname": "Ellen",
+          "middlename": null,
+          "lastname": "BARRY",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Andrew",
+          "middlename": "E.",
+          "lastname": "KRAMER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "51c1c2c87e0d9c0839d298a2",
+    "word_count": 1228,
+    "score": 1.0,
+    "uri": "nyt://article/1c681854-2229-5dcc-93fb-4abf48be025e"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/12/12/world/middleeast/militarys-last-detainee-in-iraq-poses-dilemma-for-obama.html",
+    "snippet": "The Obama administration is wrestling with a decision about whether to turn Ali Musa Daqduq over to the Iraqi government or to find a way to take him with the military as it withdraws.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/12/12/world/JP-DETAIN/JP-DETAIN-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/12/12/world/JP-DETAIN/JP-DETAIN-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Detainee in Iraq Poses a Dilemma as U.S. Exit Nears",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Detainee in Iraq Poses a Dilemma as U.S. Exit Nears",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Detainees",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Iraq War (2003- )",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Obama, Barack",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Defense and Military Forces",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Republican Party",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Politics and Government",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Iraq",
+        "rank": 8,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-12-12T02:09:27+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Middle East",
+    "byline": {
+      "original": "By CHARLIE SAVAGE",
+      "person": [
+        {
+          "firstname": "Charlie",
+          "middlename": null,
+          "lastname": "SAVAGE",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "520b553238f0d8740ac8b6ea",
+    "word_count": 1114,
+    "score": 1.0,
+    "uri": "nyt://article/692efe2b-81cb-53cc-a7fd-e2902f1bbe7b"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/12/12/technology/personaltech/amazons-fire-some-say-may-become-the-edsel-of-tablets.html",
+    "snippet": "Amazon does not say so, but the company is soon likely to release an improved version of the device, which is generating a lot of negative customer feedback.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/12/12/business/Amazon1/Amazon1-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/12/12/business/Amazon1/Amazon1-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "As Kindle Fire Faces Critics, Remedies Are Promised",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "As Kindle Fire Faces Critics, Remedies Are Promised",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Amazon Kindle",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "E-Books and Readers",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Tablet Computers",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Amazon.com Inc",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Computers and the Internet",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-12-12T01:06:02+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "section_name": "Personal Tech",
+    "byline": {
+      "original": "By DAVID STREITFELD",
+      "person": [
+        {
+          "firstname": "David",
+          "middlename": null,
+          "lastname": "STREITFELD",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "51c1c2a47e0d9c0839d2989e",
+    "word_count": 1206,
+    "score": 1.0,
+    "uri": "nyt://article/a94d6578-e598-5279-8faa-223a3a133b04"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/12/13/books/steve-jobs-biography-and-other-hot-titles-bookstore-lures.html",
+    "snippet": "In the so-called year of the e-book, retail bookshops are reporting brisk sales for high-priced titles.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/12/13/arts/HOLIDAY/HOLIDAY-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/12/13/arts/HOLIDAY/HOLIDAY-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "E-Books, Shmee-Books: Readers Return to the Stores",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "E-Books, Shmee-Books: Readers Return to the Stores",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Books and Literature",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Book Trade and Publishing",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Shopping and Retail",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "E-Books and Readers",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-12-12T23:48:25+0000",
+    "document_type": "article",
+    "new_desk": "Culture",
+    "byline": {
+      "original": "By JULIE BOSMAN",
+      "person": [
+        {
+          "firstname": "Julie",
+          "middlename": null,
+          "lastname": "BOSMAN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "540425e538f0d80e250f4933",
+    "word_count": 1040,
+    "score": 1.0,
+    "uri": "nyt://article/9e0c6203-cedb-5f9a-b31e-153f2f937c1e"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/12/13/us/supreme-court-to-rule-on-immigration-law-in-arizona.html",
+    "snippet": "The Obama administration challenged parts of the tough immigration law in court, saying it could not be reconciled with federal immigration policies.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/12/13/us/13scotus_cnd/13scotus_cnd-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/12/13/us/13scotus_cnd/13scotus_cnd-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Court to Weigh Arizona Statute on Immigration",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Court To Weigh Arizona Statute On Immigration",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "organizations",
+        "value": "Supreme Court",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Arizona Immigration Law (SB 1070)",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Arizona",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Illegal Immigrants",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Obama, Barack",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Patient Protection and Affordable Care Act (2010)",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Texas",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Redistricting and Reapportionment",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Presidential Election of 2012",
+        "rank": 9,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-12-12T15:30:33+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "byline": {
+      "original": "By ADAM LIPTAK",
+      "person": [
+        {
+          "firstname": "Adam",
+          "middlename": null,
+          "lastname": "LIPTAK",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5404230938f0d80e250f4902",
+    "word_count": 1277,
+    "score": 1.0,
+    "uri": "nyt://article/fc1ac48c-421a-5690-b6cf-78b0f1cd99ce"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/12/12/business/media/when-truth-survives-free-speech.html",
+    "snippet": "A defamation suit that seemed to be an example of a blogger being unfairly denied the protections of a journalist was actually something else entirely.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/04/12/business/media/carr-50/carr-50-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/04/12/business/media/carr-50/carr-50-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "When Truth Survives Free Speech",
+      "kicker": "The Media Equation",
+      "content_kicker": "The Media Equation",
+      "print_headline": "When Truth Survives Free Speech",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Blogs and Blogging (Internet)",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Freedom of Speech and Expression",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "News and News Media",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Libel and Slander",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Decisions and Verdicts",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-12-12T02:57:38+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "section_name": "Media",
+    "byline": {
+      "original": "By DAVID CARR",
+      "person": [
+        {
+          "firstname": "David",
+          "middlename": null,
+          "lastname": "CARR",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "54041df238f0d80e250f48b5",
+    "word_count": 1588,
+    "score": 1.0,
+    "uri": "nyt://article/99f02af5-7171-5c5e-b3ec-23e4baac4b95"
+  }
+]

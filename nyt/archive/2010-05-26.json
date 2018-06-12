@@ -1,0 +1,598 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2010/05/27/garden/27clean.html",
+    "snippet": "A New York \u201cbuilding biology\u201d consultant can evaluate apartments for environmental hazards, checking everything from scented candles to shower heads.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/05/27/garden/27cleanspan-1/Clean-articleLarge.jpg",
+        "height": 330,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2010/05/27/garden/27cleanspan-1/Clean-articleLarge.jpg",
+          "xlargeheight": 330
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/05/27/garden/27cleanspan-1/Clean-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/05/27/garden/27cleanspan-1/Clean-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Domestic Detox: Extreme Home Cleaning",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Domestic Detox: Cleaning to Extremes",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Hazardous and Toxic Substances",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Housing and Real Estate",
+        "rank": 2,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-05-26T23:24:20+0000",
+    "document_type": "article",
+    "new_desk": "Home",
+    "byline": {
+      "original": "By PENELOPE GREEN",
+      "person": [
+        {
+          "firstname": "Penelope",
+          "middlename": null,
+          "lastname": "GREEN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5446d5fc38f0d850b0935027",
+    "word_count": 2975,
+    "score": 1.0,
+    "uri": "nyt://article/ec6a3cd9-0203-5dd3-b8aa-0b44980a1f39"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2010/05/27/world/asia/27china.html",
+    "snippet": "After resistance to development from property owners, reforms are working their way through the bureaucracy.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/05/27/world/CHINA/CHINA-articleLarge.jpg",
+        "height": 315,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2010/05/27/world/CHINA/CHINA-articleLarge.jpg",
+          "xlargeheight": 315
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/05/27/world/CHINA/CHINA-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/05/27/world/CHINA/CHINA-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Trampled in a Land Rush, Chinese Resist",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Trampled in a Land Rush, Chinese Push Back",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "China",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Housing and Real Estate",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Land Use Policies",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Local Government",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Demonstrations and Riots",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-05-26T22:06:26+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Asia Pacific",
+    "byline": {
+      "original": "By MICHAEL WINES  and JONATHAN ANSFIELD",
+      "person": [
+        {
+          "firstname": "Michael",
+          "middlename": null,
+          "lastname": "WINES",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Jonathan",
+          "middlename": null,
+          "lastname": "ANSFIELD",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5400b81238f0d841b2f385df",
+    "word_count": 1615,
+    "score": 1.0,
+    "uri": "nyt://article/0bc9b07c-f821-5459-a44c-54e5a5a41ab9"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2010/05/27/technology/personaltech/27pogue.html",
+    "snippet": "Two new Kin app phones from Microsoft and the Incredible (yes, the Incredible) from HTC have arrived after months of rumors and leaks.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/05/27/business/JPPOGUE1/JPPOGUE1-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/05/27/business/JPPOGUE1/JPPOGUE1-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Rumors Are Realized in New App Phones",
+      "kicker": "State of the Art",
+      "content_kicker": "State of the Art",
+      "print_headline": "Rumors Realized in Phones",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Smartphones",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Microsoft Corp",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "HTC Corp",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Cellular Telephones",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-05-26T20:59:49+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "section_name": "Personal Tech",
+    "byline": {
+      "original": "By DAVID POGUE",
+      "person": [
+        {
+          "firstname": "David",
+          "middlename": null,
+          "lastname": "POGUE",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5446d2f938f0d850b0934fe5",
+    "word_count": 1310,
+    "score": 1.0,
+    "uri": "nyt://article/10a14a4c-a3a1-50a3-baa6-b7ef3bbacffa"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2010/05/27/technology/27apple.html",
+    "snippet": "Apple, which had been given up for dead a decade ago, is now the world\u2019s most valuable technology company.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/05/27/technology/27apple1/27apple1-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/05/27/technology/27apple1/27apple1-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Apple Passes Microsoft as No. 1 in Tech",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Apple Is No. 1 in Tech, Overtaking Microsoft",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "organizations",
+        "value": "Apple Inc",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Stocks and Bonds",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Microsoft Corp",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Jobs, Steven P",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Computers and the Internet",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-05-26T18:55:20+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By MIGUEL HELFT  and ASHLEE VANCE",
+      "person": [
+        {
+          "firstname": "Miguel",
+          "middlename": null,
+          "lastname": "HELFT",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Ashlee",
+          "middlename": null,
+          "lastname": "VANCE",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5446d17138f0d850b0934fc0",
+    "word_count": 1158,
+    "score": 1.0,
+    "uri": "nyt://article/374e06a1-2f4b-5f3f-8381-af4858c829bf"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2010/05/27/technology/27suicide.html",
+    "snippet": "A Taiwan-based supplier to many computer makers faces scrutiny after a rash of suicides.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/05/27/business/global/27suicide/27suicide-articleLarge.jpg",
+        "height": 330,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2010/05/27/business/global/27suicide/27suicide-articleLarge.jpg",
+          "xlargeheight": 330
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/05/27/business/global/27suicide/27suicide-thumbStandard-v2.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/05/27/business/global/27suicide/27suicide-thumbStandard-v2.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Electronics Maker Promises Review After Suicides",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Deaths Shake A Titan In China",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Suicides and Suicide Attempts",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Labor and Jobs",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Foxconn Technology",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "China",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Factories and Manufacturing",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-05-26T14:52:56+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By DAVID BARBOZA",
+      "person": [
+        {
+          "firstname": "David",
+          "middlename": null,
+          "lastname": "BARBOZA",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5446cfcd38f0d850b0934f9a",
+    "word_count": 1337,
+    "score": 1.0,
+    "uri": "nyt://article/8c19171c-3143-5d60-bb1e-d48f9e40b6f3"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2010/05/27/us/politics/27prop14.html",
+    "snippet": "Voters will decide on June 8 if they want to replace the primary system with one involving two rounds of voting.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/05/27/us/jp-PROP14/jp-PROP14-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/05/27/us/jp-PROP14/jp-PROP14-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "California Puts Vote Overhaul on the Ballot",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "California Puts Vote Overhaul On the Ballot",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "California",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Primaries and Caucuses",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Elections",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Referendums",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Voting and Voters",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-05-26T23:54:38+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "section_name": "Politics",
+    "byline": {
+      "original": "By JESSE McKINLEY",
+      "person": [
+        {
+          "firstname": "Jesse",
+          "middlename": null,
+          "lastname": "McKINLEY",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5446d58638f0d850b093501e",
+    "word_count": 1243,
+    "score": 1.0,
+    "uri": "nyt://article/f5d5a8c0-ad3c-545a-b8dc-0a557ed1ca48"
+  }
+]

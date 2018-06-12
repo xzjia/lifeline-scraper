@@ -1,0 +1,390 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2008/10/06/business/06econ.html",
+    "snippet": "Consumers are pulling back on their spending, all but guaranteeing that the economic situation will get worse.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/10/06/business/06econ.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2008/10/06/business/06econ.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Full of Doubts, U.S. Shoppers Cut Spending",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Full of Doubts, U.S. Shoppers Cut Spending",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Subprime Mortgage Crisis",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Consumer Behavior",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Economy",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Retail Stores and Trade",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Personal Finances",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2008-10-06T01:28:41+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By LOUIS UCHITELLE, ANDREW MARTIN and STEPHANIE ROSENBLOOM",
+      "person": [
+        {
+          "firstname": "Louis",
+          "middlename": null,
+          "lastname": "UCHITELLE",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Andrew",
+          "middlename": null,
+          "lastname": "MARTIN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        },
+        {
+          "firstname": "Stephanie",
+          "middlename": null,
+          "lastname": "ROSENBLOOM",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 3
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5478adfc38f0d86bf592e537",
+    "word_count": 1540,
+    "score": 1.0,
+    "uri": "nyt://article/2de4274a-4400-52bb-82ac-bb8e66b1034d"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2008/10/06/science/space/06gap.html",
+    "snippet": "From 2010 to 2015, the U.S. will have to rely upon Russia to carry its astronauts in to space.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/10/06/us/06gap-span-600.jpg",
+        "height": 360,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2008/10/06/us/06gap-span-600.jpg",
+          "xlargeheight": 360
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/10/06/us/06gap-span-190.126.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2008/10/06/us/06gap-span-190.126.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/10/06/us/06gap-span-75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2008/10/06/us/06gap-span-75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "One Way Up: U.S. Space Plan Relies on Russia",
+      "kicker": "The Long Countdown",
+      "content_kicker": "The Long Countdown",
+      "print_headline": "One Way Up: U.S. Space Plan Relies on Russia",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Soyuz Project",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "International Space Cooperation and Ventures",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Russia",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Space Shuttle",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "National Aeronautics and Space Administration",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States International Relations",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Georgia (Georgian Republic)",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Politics and Government",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Griffin, Michael D",
+        "rank": 9,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Space Stations",
+        "rank": 10,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Space",
+        "rank": 11,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "International Space Station",
+        "rank": 12,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2008-10-06T01:53:16+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "section_name": "Space & Cosmos",
+    "byline": {
+      "original": "By JOHN SCHWARTZ",
+      "person": [
+        {
+          "firstname": "John",
+          "middlename": null,
+          "lastname": "SCHWARTZ",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "Series",
+    "_id": "5475f3ec38f0d8119c6b04c9",
+    "word_count": 1673,
+    "score": 1.0,
+    "uri": "nyt://article/ee67e5f8-7894-5e1c-9d42-cca3a8555167"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2008/10/06/books/06games.html",
+    "snippet": "Publishers, authors and even libraries are embracing video games to promote books to young readers.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/10/06/arts/06games-inline1-75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2008/10/06/arts/06games-inline1-75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Using Video Games as Bait to Hook Readers",
+      "kicker": "The Future of Reading",
+      "content_kicker": "The Future of Reading",
+      "print_headline": "Using Video Games as Bait to Hook Readers",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Computer and Video Games",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Books and Literature",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Writing and Writers",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Children and Youth",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Computers and the Internet",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Reading and Writing Skills",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Libraries and Librarians",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Education and Schools",
+        "rank": 8,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2008-10-06T02:14:58+0000",
+    "document_type": "article",
+    "new_desk": "Culture",
+    "byline": {
+      "original": "By MOTOKO RICH",
+      "person": [
+        {
+          "firstname": "Motoko",
+          "middlename": null,
+          "lastname": "RICH",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "Series",
+    "_id": "545598b738f0d84a08fb251c",
+    "word_count": 1795,
+    "score": 1.0,
+    "uri": "nyt://article/938a63c5-eb0b-5d15-be5d-10b0b244fc15"
+  }
+]

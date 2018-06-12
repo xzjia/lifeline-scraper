@@ -1,0 +1,1155 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2011/04/29/us/29storm.html",
+    "snippet": "Gov. Robert Bentley of Alabama said that at least 194 people had died in his state, bringing the number of people killed to at least 280 across six states.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/04/29/us/STORM/STORM-articleLarge.jpg",
+        "height": 315,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2011/04/29/us/STORM/STORM-articleLarge.jpg",
+          "xlargeheight": 315
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/04/29/us/STORM/STORM-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/04/29/us/STORM/STORM-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "South Assesses the Toll After a Deadly Barrage of Tornadoes",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "After Storms Kill Hundreds, South Tries to Regroup",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Southern States (US)",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Weather",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Tornadoes",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Deaths (Fatalities)",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Alabama",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-04-28T05:00:01+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "byline": {
+      "original": "By CAMPBELL ROBERTSON AND KIM SEVERSON",
+      "person": [
+        {
+          "firstname": "Campbell",
+          "middlename": null,
+          "lastname": "ROBERTSON",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Kim",
+          "middlename": null,
+          "lastname": "SEVERSON",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "52b8ca3538f0d86bcb2a709a",
+    "word_count": 1305,
+    "score": 1.0,
+    "uri": "nyt://article/4e59d36d-ff5b-5c8c-a6ae-f82a7b09fbec"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/04/28/business/28aig.html",
+    "snippet": "American International Group\u2019s lawsuit against ICP Asset Management and Moore Capital makes a case for $350 million in damages as well as recouping a \u201cwindfall.\u201d",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/04/28/business/28AIG/28AIG-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/04/28/business/28AIG/28AIG-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "A.I.G. to Sue 2 Firms to Recover Some Losses",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "A.I.G. to Sue 2 Firms to Recover Some Losses",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Subprime Mortgage Crisis",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "American International Group Inc",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Suits and Litigation",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-04-28T02:00:29+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By LOUISE STORY",
+      "person": [
+        {
+          "firstname": "Louise",
+          "middlename": null,
+          "lastname": "STORY",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "540d32f238f0d85bf251548f",
+    "word_count": 1172,
+    "score": 1.0,
+    "uri": "nyt://article/49ee1083-3190-525e-beab-cafcb8e03fc5"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/04/29/business/economy/29econ.html",
+    "snippet": "Higher commodity prices and winter blizzards that shuttered businesses and delayed construction were among the main causes of the slowdown.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "U.S. Economic Growth Slows to 1.8% Rate in Quarter",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Growth Slowed In First Quarter For U.S. Economy",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "United States Economy",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Commerce Department",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Gross Domestic Product",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "United States",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-04-28T12:38:41+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "section_name": "Economy",
+    "byline": {
+      "original": "By CATHERINE RAMPELL",
+      "person": [
+        {
+          "firstname": "Catherine",
+          "middlename": null,
+          "lastname": "RAMPELL",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "540d35d138f0d85bf25154be",
+    "word_count": 981,
+    "score": 1.0,
+    "uri": "nyt://article/25155011-fdca-5e68-a8ef-2c46591f48c1"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/04/28/science/earth/28solar.html",
+    "snippet": "Installations have been popping up across New Jersey for about a year, but some residents worry aloud about the effect on property values.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/04/28/nyregion/SOLAR1/SOLAR1-articleLarge.jpg",
+        "height": 350,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2011/04/28/nyregion/SOLAR1/SOLAR1-articleLarge.jpg",
+          "xlargeheight": 350
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/04/28/nyregion/SOLAR1/SOLAR1-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/04/28/nyregion/SOLAR1/SOLAR1-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Solar Panels Rise Pole by Pole, Followed by Gasps of \u2018Eyesore\u2019",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Solar Panels Rise Pole by Pole, Followed by Gasps of \u2018Eyesore\u2019",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Solar Energy",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Electric Light and Power",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Public Service Electric and Gas Co",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "New Jersey",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-04-28T01:21:06+0000",
+    "document_type": "article",
+    "new_desk": "Metro",
+    "section_name": "Environment",
+    "byline": {
+      "original": "By MIREYA NAVARRO",
+      "person": [
+        {
+          "firstname": "Mireya",
+          "middlename": null,
+          "lastname": "NAVARRO",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5400b13338f0d841b2f383e6",
+    "word_count": 1122,
+    "score": 1.0,
+    "uri": "nyt://article/f4bb45b0-0c73-5dcf-a925-8869c26a0ee7"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/04/28/us/28military.html",
+    "snippet": "The latest evidence of a 10-year shift in American missions is seen with Leon E. Panetta, the intelligence chief, going to the Pentagon, and Gen. David H. Petraeus going to the C.I.A.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/04/28/us/28teamspan/28teamspan-articleLarge-v3.jpg",
+        "height": 300,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2011/04/28/us/28teamspan/28teamspan-articleLarge-v3.jpg",
+          "xlargeheight": 300
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/04/28/us/28teamspan/28teamspan-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/04/28/us/28teamspan/28teamspan-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Obama\u2019s Pentagon and C.I.A. Picks Show Shift in How U.S. Fights",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Obama to Name Pentagon Chief And C.I.A. Head",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Obama, Barack",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Panetta, Leon E",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Petraeus, David H",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Defense Department",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Central Intelligence Agency",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Defense and Military Forces",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Intelligence Services",
+        "rank": 7,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-04-28T04:03:44+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "byline": {
+      "original": "By MARK MAZZETTI and ERIC SCHMITT",
+      "person": [
+        {
+          "firstname": "Mark",
+          "middlename": null,
+          "lastname": "MAZZETTI",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Eric",
+          "middlename": null,
+          "lastname": "SCHMITT",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "540d2cc438f0d85bf2515431",
+    "word_count": 1067,
+    "score": 1.0,
+    "uri": "nyt://article/affff1f5-8088-569b-88ba-7cab84283bc8"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/04/28/nyregion/at-911-trial-lawyers-will-watch-the-clock.html",
+    "snippet": "The sides in a wrongful-death suit stemming from the 2001 terrorist attacks will be limited to about a month in court.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/04/28/nyregion/TIME2/TIME2-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/04/28/nyregion/TIME2/TIME2-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "A 9/11 Judge Sets a Month as Time Limit for a Trial",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Judge Hearing A Last 9/11 Suit Has Set Timer",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "September 11 (2001)",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Suits and Litigation",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Bavis, Mark",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Hellerstein, Alvin K",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "United Airlines",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Airlines and Airplanes",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Terrorism",
+        "rank": 7,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-04-28T01:38:14+0000",
+    "document_type": "article",
+    "new_desk": "Metro",
+    "byline": {
+      "original": "By BENJAMIN WEISER",
+      "person": [
+        {
+          "firstname": "Benjamin",
+          "middlename": null,
+          "lastname": "WEISER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "540d333238f0d85bf2515494",
+    "word_count": 1087,
+    "score": 1.0,
+    "uri": "nyt://article/5ff29e0b-d084-54e2-99cd-61c2f31e8bf1"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/05/01/arts/design/laurie-anderson-trisha-brown-gordon-matta-clark-stars-of-70s-soho.html",
+    "snippet": "Why was SoHo in its early days special in ways that, despite the art world\u2019s current money and hype, seem so hard to come by now?",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/05/01/arts/ABROAD-Jp-1/ABROAD-Jp-1-articleLarge.jpg",
+        "height": 315,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2011/05/01/arts/ABROAD-Jp-1/ABROAD-Jp-1-articleLarge.jpg",
+          "xlargeheight": 315
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/05/01/arts/ABROAD-Jp-1/ABROAD-Jp-1-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/05/01/arts/ABROAD-Jp-1/ABROAD-Jp-1-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "When Art and Energy Were SoHo Neighbors",
+      "kicker": "Abroad",
+      "content_kicker": "Abroad",
+      "print_headline": "When Art And Energy Were SoHo Neighbors",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Art",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "SoHo (NYC)",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Anderson, Laurie",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Brown, Trisha",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Matta-Clark, Gordon",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-04-28T16:26:53+0000",
+    "document_type": "article",
+    "new_desk": "Arts&Leisure",
+    "section_name": "Art & Design",
+    "byline": {
+      "original": "By MICHAEL KIMMELMAN",
+      "person": [
+        {
+          "firstname": "Michael",
+          "middlename": null,
+          "lastname": "KIMMELMAN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "540d26f138f0d85bf25153c7",
+    "word_count": 1653,
+    "score": 1.0,
+    "uri": "nyt://article/5ccd9471-26eb-5329-93af-14382c711fd8"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/04/29/business/29label.html",
+    "snippet": "The Federal Trade Commission\u2019s plan seeks to restrict the marketing of products like sugary cereals and fast-food meals to help stem childhood obesity.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/04/29/business/Labeljp/Labeljp-articleLarge.jpg",
+        "height": 345,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2011/04/29/business/Labeljp/Labeljp-articleLarge.jpg",
+          "xlargeheight": 345
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/04/29/business/Labeljp/Labeljp-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/04/29/business/Labeljp/Labeljp-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "U.S. Seeks New Limits on Food Ads for Children",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "U.S. Seeks New Limits on Food Ads for Children",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Food",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Advertising and Marketing",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Children and Youth",
+        "rank": 3,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-04-28T18:09:37+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By WILLIAM NEUMAN",
+      "person": [
+        {
+          "firstname": "William",
+          "middlename": null,
+          "lastname": "NEUMAN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "540d39a438f0d85bf2515506",
+    "word_count": 1093,
+    "score": 1.0,
+    "uri": "nyt://article/aaa1cca7-c6c1-5c9d-8759-7295d560d6ed"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/04/28/sports/28durkin.html",
+    "snippet": "Tom Durkin, who has called the Kentucky Derby 13 times, said he did not renew his contract with NBC because of the anxiety the race had caused.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/04/28/sports/28durkin_337/28durkin_337-articleLarge.jpg",
+        "height": 364,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2011/04/28/sports/28durkin_337/28durkin_337-articleLarge.jpg",
+          "xlargeheight": 364
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/04/28/sports/28durkin_337/28durkin_337-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/04/28/sports/28durkin_337/28durkin_337-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Panic of Final Stretch Stills Voice of Triple Crown",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Panic of Final Stretch Stills Voice of Triple Crown",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Horse Racing",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Durkin, Tom",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Kentucky Derby",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Triple Crown (Horse Racing)",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Belmont Stakes",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Preakness Stakes",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Collmus, Larry",
+        "rank": 7,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-04-28T01:18:12+0000",
+    "document_type": "article",
+    "new_desk": "Sports",
+    "byline": {
+      "original": "By JOE DRAPE",
+      "person": [
+        {
+          "firstname": "Joe",
+          "middlename": null,
+          "lastname": "DRAPE",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "53ebbe2038f0d85f2df0578e",
+    "word_count": 1115,
+    "score": 1.0,
+    "uri": "nyt://article/a2390d04-2bf0-5b8d-8204-4ccc933a39ab"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/04/29/nyregion/deal-reached-to-expand-xanadu-mall-project-in-nj.html",
+    "snippet": "Gov. Chris Christie and the developers of the Mall of America have reportedly struck a deal to pour in $1 billion more in hopes of reviving an oft-ridiculed white elephant.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/04/29/nyregion/XANADU/XANADU-articleLarge.jpg",
+        "height": 350,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2011/04/29/nyregion/XANADU/XANADU-articleLarge.jpg",
+          "xlargeheight": 350
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/04/29/nyregion/XANADU/XANADU-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/04/29/nyregion/XANADU/XANADU-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "For Xanadu Mall, Stalled and Scorned, Deal May Offer New Life",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "For Xanadu Mall, Stalled and Scorned, Deal May Offer New Life",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "organizations",
+        "value": "Meadowlands Xanadu (NJ)",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Triple Five Group",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Meadowlands (NJ)",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Shopping Centers and Malls",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Christie, Christopher J",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-04-28T14:40:41+0000",
+    "document_type": "article",
+    "new_desk": "Metro",
+    "byline": {
+      "original": "By CHARLES V. BAGLI and RICHARD P\u00c9REZ-PE\u00d1A",
+      "person": [
+        {
+          "firstname": "Charles",
+          "middlename": "V.",
+          "lastname": "BAGLI",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Richard",
+          "middlename": null,
+          "lastname": "P\u00c9REZ-PE\u00d1A",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "540d376638f0d85bf25154db",
+    "word_count": 1098,
+    "score": 1.0,
+    "uri": "nyt://article/1b6852d5-ab1e-588f-995c-553bd31e7840"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/04/29/world/africa/29refugees.html",
+    "snippet": "Most of the refugees are now living with Tunisian families in an area that in normal times counts just 150,000 residents.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/04/29/world/29refugee_cnd/29refugee_cnd-articleLarge.jpg",
+        "height": 330,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2011/04/29/world/29refugee_cnd/29refugee_cnd-articleLarge.jpg",
+          "xlargeheight": 330
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/04/29/world/29refugee_cnd/29refugee_cnd-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/04/29/world/29refugee_cnd/29refugee_cnd-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Thousands Fleeing Qaddafi Bask in Tunisia\u2019s Hospitality",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Thousands Fleeing Qaddafi Bask in Tunisia\u2019s Hospitality",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Libya",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Tunisia",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Refugees and Displaced Persons",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Middle East and North Africa Unrest (2010- )",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Qaddafi, Muammar el-",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-04-28T16:12:17+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Africa",
+    "byline": {
+      "original": "By SCOTT SAYARE",
+      "person": [
+        {
+          "firstname": "Scott",
+          "middlename": null,
+          "lastname": "SAYARE",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "540d377438f0d85bf25154dc",
+    "word_count": 1111,
+    "score": 1.0,
+    "uri": "nyt://article/54f6eb7f-7b6c-5333-a049-d67d785736f4"
+  }
+]

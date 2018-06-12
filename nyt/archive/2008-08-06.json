@@ -1,0 +1,193 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2008/08/07/washington/07anthrax.html",
+    "snippet": "The F.B.I. presented a sweeping but circumstantial case that Bruce E. Ivins was solely responsible for mailing the deadly anthrax letters.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "F.B.I. Presents Anthrax Case, Saying Scientist Acted Alone",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "F.B.I. Presents Anthrax Case, Saying Scientist Acted Alone",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "organizations",
+        "value": "Justice Department",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Anthrax",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Ivins, Bruce E",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Suicides and Suicide Attempts",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2008-08-06T14:25:31+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "byline": {
+      "original": "By SCOTT SHANE and ERIC LICHTBLAU",
+      "person": [
+        {
+          "firstname": "Scott",
+          "middlename": null,
+          "lastname": "SHANE",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Eric",
+          "middlename": null,
+          "lastname": "LICHTBLAU",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5401ede438f0d841b2f3a445",
+    "word_count": 1530,
+    "score": 1.0,
+    "uri": "nyt://article/2d63ceb1-794b-5c15-af14-3c794501165d"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2008/08/06/nyregion/06soulfood.html",
+    "snippet": "Soul food appears to be dying in much of New York City in the face of changing tastes and eating habits.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/08/06/nyregion/06soul_600.jpg",
+        "height": 310,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2008/08/06/nyregion/06soul_600.jpg",
+          "xlargeheight": 310
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/08/06/nyregion/06soul_75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2008/08/06/nyregion/06soul_75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "In Changing Harlem, Soul Food Struggles",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "In Changing Harlem, Pig\u2019s Feet and Greens Lose Spots on Menu",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Harlem (NYC)",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Soul Food (Cuisine)",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Restaurants",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Oils and Fats",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Sylvia's",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Miss Maude's Spoonbread Too",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2008-08-06T02:26:29+0000",
+    "document_type": "article",
+    "new_desk": "Metro",
+    "byline": {
+      "original": "By TIMOTHY WILLIAMS",
+      "person": [
+        {
+          "firstname": "Timothy",
+          "middlename": null,
+          "lastname": "WILLIAMS",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "54767da438f0d83924901cab",
+    "word_count": 1439,
+    "score": 1.0,
+    "uri": "nyt://article/4ce6f5e6-7b92-5609-8239-f0df0f5192ac"
+  }
+]

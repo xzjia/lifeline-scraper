@@ -1,0 +1,570 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2014/10/18/us/ferguson-case-officer-is-said-to-cite-struggle.html",
+    "snippet": "The man who fatally shot a teenager in Missouri in August has told investigators that he feared for his life, according to officials.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "Police Officer in Ferguson Is Said to Recount a Struggle",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Ferguson Case: Officer Is Said to Cite Struggle",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Ferguson (Mo)",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Civil Rights and Liberties",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Brown, Michael (1996-2014)",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Police Brutality, Misconduct and Shootings",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Wilson, Darren (1986- )",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Blacks",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Justice Department",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Discrimination",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Federal Bureau of Investigation",
+        "rank": 9,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2014-10-18T01:04:09+0000",
+    "document_type": "article",
+    "new_desk": "NODESK",
+    "byline": {
+      "original": "By MICHAEL S. SCHMIDT, MATT APUZZO and JULIE BOSMAN",
+      "person": [
+        {
+          "firstname": "Michael",
+          "middlename": "S.",
+          "lastname": "SCHMIDT",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Matt",
+          "middlename": null,
+          "lastname": "APUZZO",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        },
+        {
+          "firstname": "Julie",
+          "middlename": null,
+          "lastname": "BOSMAN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 3
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5441bc8c38f0d811e19d76a4",
+    "word_count": 1106,
+    "score": 1.0,
+    "uri": "nyt://article/a02f009a-7fc0-5e43-b7c8-04aa735e4195"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2014/10/19/us/life-in-quarantine-for-ebola-exposure-21-days-of-fear-and-loathing.html",
+    "snippet": "The number of people who have locked themselves away, either under government orders or voluntarily, has grown well beyond those who lived with and cared for the first Ebola victim in Dallas.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2014/10/19/us/SUB-JP-QUARANTINE1/SUB-JP-QUARANTINE1-articleLarge.jpg",
+        "height": 400,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2014/10/19/us/SUB-JP-QUARANTINE1/SUB-JP-QUARANTINE1-articleLarge.jpg",
+          "xlargeheight": 400
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2014/10/19/us/SUB-JP-QUARANTINE1/SUB-JP-QUARANTINE1-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2014/10/19/us/SUB-JP-QUARANTINE1/SUB-JP-QUARANTINE1-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2014/10/19/us/SUB-JP-QUARANTINE1/SUB-JP-QUARANTINE1-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2014/10/19/us/SUB-JP-QUARANTINE1/SUB-JP-QUARANTINE1-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Life in Quarantine for Ebola Exposure: 21 Days of Fear and Loathing",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Life in Quarantine: 21 Days of Fear and Loathing",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Ebola Virus",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Duncan, Thomas Eric",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Texas",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Cleveland (Ohio)",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Texas Health Presbyterian Hospital",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Troh, Louise",
+        "rank": 7,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2014-10-18T16:58:43+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "byline": {
+      "original": "By KEVIN SACK, JACK HEALY and FRANCES ROBLES",
+      "person": [
+        {
+          "firstname": "Kevin",
+          "middlename": null,
+          "lastname": "SACK",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Jack",
+          "middlename": null,
+          "lastname": "HEALY",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        },
+        {
+          "firstname": "Frances",
+          "middlename": null,
+          "lastname": "ROBLES",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 3
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "54429c4638f0d8246e88c16a",
+    "word_count": 1566,
+    "score": 1.0,
+    "uri": "nyt://article/f684e679-299a-5211-a74d-e15daae5c8a3"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2014/10/18/sports/ncaafootball/fsu-fans-galvanized-amid-blitz-of-coverage.html",
+    "snippet": "With controversy swirling around the star quarterback Jameis Winston, the showdown between second-ranked Florida State and No. 5 Notre Dame almost seems secondary.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2014/10/18/sports/FSU/FSU-articleLarge.jpg",
+        "height": 452,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2014/10/18/sports/FSU/FSU-articleLarge.jpg",
+          "xlargeheight": 452
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2014/10/18/sports/FSU/FSU-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2014/10/18/sports/FSU/FSU-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2014/10/18/sports/FSU/FSU-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2014/10/18/sports/FSU/FSU-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "F.S.U. Fans Galvanized Amid Blitz of Coverage",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Blitz is One",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "organizations",
+        "value": "Florida State University",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "University of Notre Dame",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Winston, Jameis",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Football (College)",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "College Athletics",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Tallahassee (Fla)",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Fisher, Jimbo",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Cornwell, David",
+        "rank": 8,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2014-10-18T01:36:48+0000",
+    "document_type": "article",
+    "new_desk": "Sports",
+    "section_name": "College Football",
+    "byline": {
+      "original": "By TOM SPOUSTA",
+      "person": [
+        {
+          "firstname": "Tom",
+          "middlename": null,
+          "lastname": "SPOUSTA",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5441c43238f0d811e19d76c3",
+    "word_count": 1257,
+    "score": 1.0,
+    "uri": "nyt://article/39c6b570-4ece-5920-8da6-ffe319043954"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2014/10/19/us/in-black-vote-democrats-see-lifeline-for-midterms.html",
+    "snippet": "Democrats are deploying black elected officials and others to target African-American voters, who could help swing midterm elections if they turn out in higher-than-forecast rates.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2014/10/19/us/JP-BLACKVOTE2/JP-BLACKVOTE2-articleLarge.jpg",
+        "height": 400,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2014/10/19/us/JP-BLACKVOTE2/JP-BLACKVOTE2-articleLarge.jpg",
+          "xlargeheight": 400
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2014/10/19/us/JP-BLACKVOTE2/JP-BLACKVOTE2-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2014/10/19/us/JP-BLACKVOTE2/JP-BLACKVOTE2-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2014/10/19/us/JP-BLACKVOTE2/JP-BLACKVOTE2-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2014/10/19/us/JP-BLACKVOTE2/JP-BLACKVOTE2-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Black Vote Seen as Last Hope for Democrats to Hold Senate",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Black Vote Seen as Last Hope for Democrats to Hold Senate",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "United States",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Obama, Barack",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Blacks",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Midterm Elections (2014)",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Georgia",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "North Carolina",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Louisiana",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Arkansas",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Democratic Party",
+        "rank": 9,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Elections, Senate",
+        "rank": 10,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2014-10-18T22:57:42+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "section_name": "Politics",
+    "byline": {
+      "original": "By SHERYL GAY STOLBERG",
+      "person": [
+        {
+          "firstname": "Sheryl",
+          "middlename": "Gay",
+          "lastname": "STOLBERG",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5442f06938f0d8246e88c862",
+    "word_count": 1372,
+    "score": 1.0,
+    "uri": "nyt://article/6fffe7f9-258e-578c-b1f6-f1097812fb82"
+  }
+]

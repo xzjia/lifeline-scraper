@@ -1,0 +1,303 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2010/01/23/books/23kindle.html",
+    "snippet": "Here\u2019s a riddle: How do you make your book a best seller on the Kindle? Answer: Give copies away.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/01/23/arts/23kindle_CA0/articleLarge.jpg",
+        "height": 330,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2010/01/23/arts/23kindle_CA0/articleLarge.jpg",
+          "xlargeheight": 330
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/01/23/arts/23kindle_CA0/thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/01/23/arts/23kindle_CA0/thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "With Kindle, the Best Sellers Don\u2019t Need to Sell",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "On Kindle\u2019s List, the Best Sellers Don\u2019t Necessarily Need to Sell",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Amazon Kindle",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Electronic Books and Readers",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Writing and Writers",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Amazon.com Inc",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Book Trade",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "E-Commerce",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-01-23T02:37:03+0000",
+    "document_type": "article",
+    "new_desk": "Culture",
+    "byline": {
+      "original": "By MOTOKO RICH",
+      "person": [
+        {
+          "firstname": "Motoko",
+          "middlename": null,
+          "lastname": "RICH",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "543817bd38f0d83c143b8760",
+    "word_count": 1216,
+    "score": 1.0,
+    "uri": "nyt://article/25c21da9-63a0-58b0-bfc0-af7bf8b09cea"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2010/01/24/us/politics/24union.html",
+    "snippet": "President Obama is reconstituting the team that helped him win the White House to counter Republican challenges in the midterm elections.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/01/24/us/24union_CA0/thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/01/24/us/24union_CA0/thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Obama Moves to Centralize Control Over Party Strategy",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "OBAMA SUMMONS TEAM FROM 2008 FOR RACES IN FALL",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Obama, Barack",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Democratic Party",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Elections",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Plouffe, David",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Democratic National Committee",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-01-23T17:44:15+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "section_name": "Politics",
+    "byline": {
+      "original": "By JEFF ZELENY and PETER BAKER",
+      "person": [
+        {
+          "firstname": "Jeff",
+          "middlename": null,
+          "lastname": "ZELENY",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Peter",
+          "middlename": null,
+          "lastname": "BAKER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5438192638f0d83c143b8877",
+    "word_count": 1265,
+    "score": 1.0,
+    "uri": "nyt://article/8b7be977-ad03-5f0d-ae16-b540c931efd2"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2010/01/24/fashion/24bonus.html",
+    "snippet": "The Wall Street bonus has come roaring back. Facing a fed-up public, however,  the rich are keeping indulgences under wraps.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/01/24/fashion/24bonus-1/thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/01/24/fashion/24bonus-1/thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Ready to Spend, but Not to Boast",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Ready to Spend, But Not to Boast",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Bonuses",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "High Net Worth Individuals",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Luxury Goods",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Fashion and Apparel",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-01-23T00:45:50+0000",
+    "document_type": "article",
+    "new_desk": "Styles",
+    "byline": {
+      "original": "By LAURA M. HOLSON",
+      "person": [
+        {
+          "firstname": "Laura",
+          "middlename": null,
+          "lastname": null,
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "543818b738f0d83c143b8816",
+    "word_count": 1562,
+    "score": 1.0,
+    "uri": "nyt://article/ab152f95-4116-55c6-a323-cabb1eeb9ea0"
+  }
+]

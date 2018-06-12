@@ -1,0 +1,117 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2008/10/26/world/europe/26mayor.html",
+    "snippet": "Yuri M. Luzhkov has spent hundreds of millions of dollars over the last decade to support ethnic Russians and stoke separatism in nations on Russia\u2019s borders.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/10/26/world/europe/26mayor_subspan.jpg",
+        "height": 328,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2008/10/26/world/europe/26mayor_subspan.jpg",
+          "xlargeheight": 328
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/10/26/world/europe/26mayor_75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2008/10/26/world/europe/26mayor_75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Moscow\u2019s Mayor Exports Russia\u2019s New Nationalism",
+      "kicker": "Kremlin Rules",
+      "content_kicker": "Kremlin Rules",
+      "print_headline": "Mayor of Moscow Exports Russia\u2019s New Nationalism",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Moscow (Russia)",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Luzhkov, Yuri M",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Russia",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Georgia (Georgian Republic)",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "South Ossetia (Georgian Republic)",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Putin, Vladimir V",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2008-10-25T16:35:44+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Europe",
+    "byline": {
+      "original": "By CLIFFORD J. LEVY",
+      "person": [
+        {
+          "firstname": "Clifford",
+          "middlename": "J.",
+          "lastname": "LEVY",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "Series",
+    "_id": "5479671c38f0d86bf592f543",
+    "word_count": 2429,
+    "score": 1.0,
+    "uri": "nyt://article/49337725-247d-5d7e-9663-ab8068b5b096"
+  }
+]

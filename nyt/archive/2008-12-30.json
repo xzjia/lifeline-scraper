@@ -1,0 +1,353 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2008/12/30/us/30divorce.html",
+    "snippet": "With homes worth less than the mortgage owed, some divorcing couples fight not to get the house.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/12/30/us/30divorce2_600.jpg",
+        "height": 331,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2008/12/30/us/30divorce2_600.jpg",
+          "xlargeheight": 331
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/12/30/us/30divorce2_75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2008/12/30/us/30divorce2_75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Breaking Up Is Harder to Do After Housing Fall",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "In Housing Fall, Breaking Up Is Harder to Do",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Divorce, Separations and Annulments",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Housing",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Finances",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Mortgages",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Personal Finances",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2008-12-30T02:22:35+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "byline": {
+      "original": "By JOHN LELAND",
+      "person": [
+        {
+          "firstname": "John",
+          "middlename": null,
+          "lastname": "LELAND",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5475f53838f0d8119c6b04e3",
+    "word_count": 1366,
+    "score": 1.0,
+    "uri": "nyt://article/b14d77a1-6a9d-5b29-a373-e8a0cd5626ee"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2008/12/31/business/31drug.html",
+    "snippet": "The pharmaceutical industry has agreed to a voluntary moratorium on branded promotional items.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/12/30/business/31drug_600.jpg",
+        "height": 331,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2008/12/30/business/31drug_600.jpg",
+          "xlargeheight": 331
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/12/30/business/31drug_75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2008/12/30/business/31drug_75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "No Mug? Drug Makers Cut Out Goodies for Doctors",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "No Lipitor Mug? Drug Makers Cut Out Goodies for Doctors",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Drugs (Pharmaceuticals)",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Doctors",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Advertising and Marketing",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Conflicts of Interest",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2008-12-30T23:24:14+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By NATASHA SINGER",
+      "person": [
+        {
+          "firstname": "Natasha",
+          "middlename": null,
+          "lastname": "SINGER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "545bce4038f0d85e5ee9135a",
+    "word_count": 1086,
+    "score": 1.0,
+    "uri": "nyt://article/0af29bb7-8098-5829-90f4-b7f89707253b"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2008/12/31/dining/31year.html",
+    "snippet": "This was probably the best year for new restaurants in this city since 2004, when New York welcomed two four-star restaurants in one month.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "Same Table Next Year? Not So Fast",
+      "kicker": "Critic\u2019s Notebook",
+      "content_kicker": "Critic\u2019s Notebook",
+      "print_headline": "Same Table Next Year? Not So Fast",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Restaurants",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "New York City",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Reviews",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Manhattan (NYC)",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2008-12-30T23:12:12+0000",
+    "document_type": "article",
+    "new_desk": "Dining",
+    "byline": {
+      "original": "By FRANK BRUNI",
+      "person": [
+        {
+          "firstname": "Frank",
+          "middlename": null,
+          "lastname": "BRUNI",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5475f83c38f0d8119c6b0532",
+    "word_count": 2171,
+    "score": 1.0,
+    "uri": "nyt://article/43aa531d-7a06-53b7-aeeb-570dbcbd207f"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2008/12/30/world/middleeast/30hamas.html",
+    "snippet": "The group\u2019s return to military actions against Israel is part of its strategy to appear as Palestinians\u2019 principal resistance.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "Hamas Credo Led It to End Cease-Fire",
+      "kicker": "News Analysis",
+      "content_kicker": "News Analysis",
+      "print_headline": "A Credo of Rejection",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "organizations",
+        "value": "Hamas",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Israel",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Palestinians",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Fatah, Al",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Armament, Defense and Military Forces",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2008-12-30T02:51:04+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Middle East",
+    "byline": {
+      "original": "By STEPHEN FARRELL",
+      "person": [
+        {
+          "firstname": "Stephen",
+          "middlename": null,
+          "lastname": "FARRELL",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News Analysis",
+    "_id": "545bcd4d38f0d85e5ee9133e",
+    "word_count": 1107,
+    "score": 1.0,
+    "uri": "nyt://article/bad51346-a262-54bc-9959-264cf20c2fc2"
+  }
+]

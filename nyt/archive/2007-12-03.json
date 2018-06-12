@@ -1,0 +1,114 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2007/12/03/us/03lands.html",
+    "snippet": "Nevada is reaping the rewards from the sale of almost $3 billion of federal lands near Las Vegas.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2007/12/03/us/03lands.xlarge2.jpg",
+        "height": 220,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2007/12/03/us/03lands.xlarge2.jpg",
+          "xlargeheight": 220
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2007/12/03/us/03lands.752.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2007/12/03/us/03lands.752.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Nevada Learns to Cash In on Sales of Federal Land",
+      "kicker": "Public Lands",
+      "content_kicker": "Public Lands",
+      "print_headline": "Nevada Learns to Cash In on Sales of Federal Land",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Las Vegas (Nev)",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Wilderness Areas",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Sales",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Law and Legislation",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2007-12-03T05:00:00+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "byline": {
+      "original": "By JESSE McKINLEY  and GRIFFIN PALMER",
+      "person": [
+        {
+          "firstname": "Jesse",
+          "middlename": null,
+          "lastname": "McKINLEY",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Griffin",
+          "middlename": null,
+          "lastname": "PALMER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "Series",
+    "_id": "54885fec38f0d8602128f58f",
+    "word_count": 3726,
+    "score": 1.0,
+    "uri": "nyt://article/e299608f-6666-5817-848a-f5d065c6b7ee"
+  }
+]

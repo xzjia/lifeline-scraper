@@ -1,0 +1,328 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2008/11/05/us/politics/05recon.html",
+    "snippet": "The disciplined and nimble Obama team navigated an intense contest making remarkably few stumbles.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "Near-Flawless Run Is Credited in Victory",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Near-Flawless Run From Start to Finish Is Credited in Victory",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Obama, Barack",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Presidential Election of 2008",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Elections",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Politics and Government",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Axelrod, David",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "McCain, John",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Plouffe, David",
+        "rank": 7,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2008-11-05T05:48:41+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "section_name": "Politics",
+    "byline": {
+      "original": "By ADAM NAGOURNEY, JIM RUTENBERG and JEFF ZELENY",
+      "person": [
+        {
+          "firstname": "Adam",
+          "middlename": null,
+          "lastname": "NAGOURNEY",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Jim",
+          "middlename": null,
+          "lastname": "RUTENBERG",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        },
+        {
+          "firstname": "Jeff",
+          "middlename": null,
+          "lastname": "ZELENY",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 3
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5479c73138f0d86bf592fd52",
+    "word_count": 4494,
+    "score": 1.0,
+    "uri": "nyt://article/f2486a60-588b-5fe9-bc62-3afdcdecf0cd"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2008/11/06/arts/design/06chan.html",
+    "snippet": "In two galleries, steps apart on West 24th Street, you encounter large brushy grisaille paintings based on newspaper images or other photographs.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/11/05/arts/Xiespan.jpg",
+        "height": 386,
+        "width": 600,
+        "legacy": {
+          "xlarge": "images/2008/11/05/arts/Xiespan.jpg",
+          "xlargewidth": 600,
+          "xlargeheight": 386
+        },
+        "subType": "xlarge",
+        "crop_name": "articleLarge"
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/11/05/arts/Xie75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnail": "images/2008/11/05/arts/Xie75.jpg",
+          "thumbnailwidth": 75,
+          "thumbnailheight": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": "thumbStandard"
+      },
+      {
+        "rank": 0,
+        "subtype": "popup",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/11/05/arts/Xiespan.jpg",
+        "height": 386,
+        "width": 600,
+        "legacy": {},
+        "subType": "popup",
+        "crop_name": "popup"
+      },
+      {
+        "rank": 0,
+        "subtype": "sfSpan",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/11/05/arts/Xiesec.jpg",
+        "height": 251,
+        "width": 395,
+        "legacy": {},
+        "subType": "sfSpan",
+        "crop_name": "sfSpan"
+      }
+    ],
+    "headline": {
+      "main": "When Newspaper Photographs Are Worth a Thousand Paintings",
+      "kicker": "Last Chance",
+      "content_kicker": "Last Chance",
+      "print_headline": "When Newspaper Photographs Are Worth a Thousand Paintings",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Art",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Luhring Augustine",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Kahrs, Johannes",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2008-11-05T23:38:30+0000",
+    "document_type": "article",
+    "new_desk": "Culture",
+    "section_name": "Art & Design",
+    "byline": {
+      "original": "By ROBERTA SMITH",
+      "person": [
+        {
+          "firstname": "Roberta",
+          "middlename": null,
+          "lastname": "SMITH",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "Review",
+    "_id": "5479cbd438f0d86bf592fdb1",
+    "word_count": 817,
+    "score": 1.0,
+    "uri": "nyt://article/c31a75ea-04fb-5836-88c6-12cf6d2fa8aa"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2008/11/05/us/politics/05elect.html",
+    "snippet": "Barack Hussein Obama was elected the 44th president of the United States, as the country chose him as its first black chief executive.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/11/04/us/05elect-600.jpg",
+        "height": 353,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2008/11/04/us/05elect-600.jpg",
+          "xlargeheight": 353
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/11/04/us/05elect-75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2008/11/04/us/05elect-75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Obama Elected President as Racial Barrier Falls",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Obama: Racial Barrier Falls in Decisive Victory",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Presidential Election of 2008",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Obama, Barack",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "McCain, John",
+        "rank": 3,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2008-11-05T03:15:11+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "section_name": "Politics",
+    "byline": {
+      "original": "By ADAM NAGOURNEY",
+      "person": [
+        {
+          "firstname": "Adam",
+          "middlename": null,
+          "lastname": "NAGOURNEY",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5479c50538f0d86bf592fd22",
+    "word_count": 1748,
+    "score": 1.0,
+    "uri": "nyt://article/7a332457-9262-55fe-9791-c79e4fab23a7"
+  }
+]

@@ -1,0 +1,846 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2012/12/04/world/asia/pakistans-hazara-shiites-under-siege.html",
+    "snippet": "More than 100 Hazaras have been killed by Sunni extremist gunmen this year, many in broad daylight.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/12/04/world/JP-SHIITES/JP-SHIITES-articleLarge.jpg",
+        "height": 401,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2012/12/04/world/JP-SHIITES/JP-SHIITES-articleLarge.jpg",
+          "xlargeheight": 401
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/12/04/world/JP-SHIITES/JP-SHIITES-thumbStandard-v2.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2012/12/04/world/JP-SHIITES/JP-SHIITES-thumbStandard-v2.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Pakistan Reels With Violence Against Shiites",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Pakistan Reels With Violence Against Shiites",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Hazaras (Ethnic Group)",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Pakistan",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Shiite Muslims",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Sunni Muslims",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Murders and Attempted Murders",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Muslims and Islam",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2012-12-04T01:49:52+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Asia Pacific",
+    "byline": {
+      "original": "By DECLAN WALSH",
+      "person": [
+        {
+          "firstname": "Declan",
+          "middlename": null,
+          "lastname": "WALSH",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "50be626200315214fbb7d622",
+    "word_count": 1324,
+    "score": 1.0,
+    "uri": "nyt://article/1d0a80bf-001f-5eaa-a76b-09ed88daa481"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2012/12/04/us/when-hollywood-comes-to-town.html",
+    "snippet": "A studio was built to attract filmmakers and bring jobs to Pontiac, Mich., but for millions given in incentives to the film industry, only a handful of local jobs have appeared.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/11/18/business/20121118_INCENTIVES3-slide-OKVR/20121118_INCENTIVES3-slide-OKVR-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2012/11/18/business/20121118_INCENTIVES3-slide-OKVR/20121118_INCENTIVES3-slide-OKVR-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/11/18/business/20121118_INCENTIVES3-slide-OKVR/20121118_INCENTIVES3-slide-OKVR-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2012/11/18/business/20121118_INCENTIVES3-slide-OKVR/20121118_INCENTIVES3-slide-OKVR-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Michigan Town Woos Hollywood, but Ends Up With a Bit Part",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Michigan Town Woos Hollywood, but Ends Up With a Bit Part",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Tax Credits, Deductions and Exemptions",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Michigan",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Movies",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Labor and Jobs",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "General Motors",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Federal Taxes (US)",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Granholm, Jennifer M",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Binder, Mike",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Emanuel, Ariel Z",
+        "rank": 9,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Nelson, Linden D",
+        "rank": 10,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Taubman, A Alfred",
+        "rank": 11,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Series",
+        "rank": 13,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2012-12-04T02:04:40+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "byline": {
+      "original": "By LOUISE STORY",
+      "person": [
+        {
+          "firstname": "Louise",
+          "middlename": null,
+          "lastname": "STORY",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "50be626200315214fbb7d642",
+    "word_count": 2862,
+    "score": 1.0,
+    "uri": "nyt://article/7113e2c6-72c6-5843-a1ed-8e6eac977cdf"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2012/12/05/business/economy/republicans-balk-at-obamas-short-term-stimulus.html",
+    "snippet": "The president claims the economy needs a shot in the arm now, but Republicans say the nation should not widen the deficit.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/12/05/business/JP-SLOWDOWN-1/JP-SLOWDOWN-1-articleLarge.jpg",
+        "height": 392,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2012/12/05/business/JP-SLOWDOWN-1/JP-SLOWDOWN-1-articleLarge.jpg",
+          "xlargeheight": 392
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/12/05/business/JP-SLOWDOWN-1/JP-SLOWDOWN-1-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2012/12/05/business/JP-SLOWDOWN-1/JP-SLOWDOWN-1-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/12/05/business/JP-SLOWDOWN-1/JP-SLOWDOWN-1-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2012/12/05/business/JP-SLOWDOWN-1/JP-SLOWDOWN-1-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Republicans Balk at Short-Term Stimulus in Obama Plan",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "In a Fitful Recovery, Republicans Balk at Obama\u2019s Short-Term Stimulus",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Federal Budget (US)",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Economy",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Politics and Government",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Obama, Barack",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Boehner, John A",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Senate",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "House of Representatives",
+        "rank": 7,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2012-12-04T14:23:10+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "section_name": "Economy",
+    "byline": {
+      "original": "By ANNIE LOWREY",
+      "person": [
+        {
+          "firstname": "Annie",
+          "middlename": null,
+          "lastname": "LOWREY",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "50be625300315214fbb7d5d5",
+    "word_count": 932,
+    "score": 1.0,
+    "uri": "nyt://article/3c77f24b-3a2f-52fb-90f9-ffeac89cead9"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2012/12/04/business/more-dads-buy-the-toys-so-barbie-and-stores-get-makeovers.html",
+    "snippet": "Fathers are doing more of the family shopping just as girls are being steered toward toys that develop math skills.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/12/04/business/subGirls1/subGirls1-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2012/12/04/business/subGirls1/subGirls1-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "More Dads Buy the Toys, So Barbie, and Stores, Get Makeovers",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "More Dads Buy the Toys, So Barbie, and Stores, Get Makeovers",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Toys",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Women and Girls",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Consumer Behavior",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Barbie (Doll)",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Parenting",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Mega Bloks Incorporated",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Mattel Inc",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Lego Group",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Shopping and Retail",
+        "rank": 9,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Men and Boys",
+        "rank": 10,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2012-12-04T02:14:32+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By STEPHANIE CLIFFORD",
+      "person": [
+        {
+          "firstname": "Stephanie",
+          "middlename": null,
+          "lastname": "CLIFFORD",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "50be626200315214fbb7d635",
+    "word_count": 1060,
+    "score": 1.0,
+    "uri": "nyt://article/24825b46-f249-516d-8082-811fc1df2aab"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2012/12/04/science/earth/after-hurricane-sandy-dunes-prove-they-blunt-storms.html",
+    "snippet": "Dunes protected several communities from catastrophic damage during Hurricane Sandy, while Long Beach, N.Y., which built no dunes, suffered $200 million in losses.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/12/04/nyregion/JP-DUNES/JP-DUNES-articleLarge-v2.jpg",
+        "height": 360,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2012/12/04/nyregion/JP-DUNES/JP-DUNES-articleLarge-v2.jpg",
+          "xlargeheight": 360
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/12/04/nyregion/JP-DUNES/JP-DUNES-thumbStandard-v2.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2012/12/04/nyregion/JP-DUNES/JP-DUNES-thumbStandard-v2.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Resisted for Blocking the View, Dunes Prove They Blunt Storms",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Resisted for Blocking the View, Dunes Prove They Blunt Storms",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Hurricane Sandy (2012)",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Dunes",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Long Beach (NY)",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Lido Beach (NY)",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Atlantic Beach (NY)",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Bradley Beach (NJ)",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Point Lookout (NY)",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Sand and Gravel",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Coastal Areas",
+        "rank": 9,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Beaches",
+        "rank": 10,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2012-12-04T03:47:44+0000",
+    "document_type": "article",
+    "new_desk": "Metro",
+    "section_name": "Environment",
+    "byline": {
+      "original": "By MIREYA NAVARRO and RACHEL NUWER",
+      "person": [
+        {
+          "firstname": "Mireya",
+          "middlename": null,
+          "lastname": "NAVARRO",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Rachel",
+          "middlename": null,
+          "lastname": "NUWER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "50be625300315214fbb7d5cd",
+    "word_count": 1119,
+    "score": 1.0,
+    "uri": "nyt://article/9daa4ca9-e81f-5919-8874-b2e7d7443c7a"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2012/12/05/nyregion/jewish-congregation-applauds-un-vote-on-palestine.html",
+    "snippet": "Congregants of B\u2019nai Jeshurun in Manhattan were divided \u2014 some appalled, some enthusiastic \u2014 after rabbis sent an e-mail supporting the United Nations\u2019 vote to upgrade Palestine.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/12/05/nyregion/CONGREGATION/CONGREGATION-articleLarge.jpg",
+        "height": 389,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2012/12/05/nyregion/CONGREGATION/CONGREGATION-articleLarge.jpg",
+          "xlargeheight": 389
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/12/05/nyregion/CONGREGATION/CONGREGATION-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2012/12/05/nyregion/CONGREGATION/CONGREGATION-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/12/05/nyregion/CONGREGATION/CONGREGATION-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2012/12/05/nyregion/CONGREGATION/CONGREGATION-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Cheering U.N. Palestine Vote, Synagogue Tests Its Members",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Cheering U.N. Palestine Vote, Synagogue Tests Its Members",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "organizations",
+        "value": "B'nai Jeshurun",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Jews and Judaism",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Palestinians",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "United Nations",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Synagogues",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Rabbis",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Bronstein, Marcelo R",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Matalon, J Rolando",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Sol, Felicia L",
+        "rank": 9,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Upper West Side (NYC)",
+        "rank": 10,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Israel",
+        "rank": 11,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2012-12-04T18:27:17+0000",
+    "document_type": "article",
+    "new_desk": "Metro",
+    "byline": {
+      "original": "By SHARON OTTERMAN and JOSEPH BERGER",
+      "person": [
+        {
+          "firstname": "Sharon",
+          "middlename": null,
+          "lastname": "OTTERMAN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Joseph",
+          "middlename": null,
+          "lastname": "BERGER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "50be627f00315214fbb7d688",
+    "word_count": 1162,
+    "score": 1.0,
+    "uri": "nyt://article/b0a5a3cb-3954-5c4d-b9f2-ac0711d237c1"
+  }
+]

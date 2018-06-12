@@ -1,0 +1,116 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2008/05/26/nyregion/26barefoot.html",
+    "snippet": "As sun blankets the city, many people hardly think twice before shedding their inhibitions \u2014 and their shoes. But some doctors see risks associated with the practice.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/05/26/nyregion/26barefoot.xlarge1.jpg",
+        "height": 300,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2008/05/26/nyregion/26barefoot.xlarge1.jpg",
+          "xlargeheight": 300
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/05/26/nyregion/26barefoot.751.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2008/05/26/nyregion/26barefoot.751.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Barefoot in the Park? Watch Your Step",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Barefoot in the Park? Watch Your Step",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Feet",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Medicine and Health",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Grass",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Shoes and Boots",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Bacteria",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "New York City",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2008-05-26T04:00:00+0000",
+    "document_type": "article",
+    "new_desk": "Metro",
+    "byline": {
+      "original": "By ANEMONA HARTOCOLLIS",
+      "person": [
+        {
+          "firstname": "Anemona",
+          "middlename": null,
+          "lastname": "HARTOCOLLIS",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5481ba8a38f0d874625c9023",
+    "word_count": 1234,
+    "score": 1.0,
+    "uri": "nyt://article/583f5513-514c-56f2-9c46-4c0adda5f598"
+  }
+]

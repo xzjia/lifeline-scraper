@@ -1,0 +1,467 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2010/05/04/science/04angier.html",
+    "snippet": "A growing number of artists are rummaging through the life sciences for materials and ideas.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/05/04/science/04angier/04angier-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/05/04/science/04angier/04angier-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Of Compost, Molecules and Insects, Art Is Born",
+      "kicker": "Basics",
+      "content_kicker": "Basics",
+      "print_headline": "Of Compost, Molecules And Insects, Art Is Born",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Art",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Insects",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Rupp, Christy",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Museum of Arts and Design",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Science and Technology",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-05-03T20:45:54+0000",
+    "document_type": "article",
+    "new_desk": "Science",
+    "byline": {
+      "original": "By NATALIE ANGIER",
+      "person": [
+        {
+          "firstname": "Natalie",
+          "middlename": null,
+          "lastname": "ANGIER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5445cabf38f0d832c813f42d",
+    "word_count": 1417,
+    "score": 1.0,
+    "uri": "nyt://article/b3147ff7-eaec-555f-83f8-7e77cc6def7b"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2010/05/04/us/04spill.html",
+    "snippet": "Crews were building a containment dome, a 4-story, 70-ton structure that the company plans to lower into place over one of the three leaks to catch the escaping oil.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/05/04/us/04BP_1/04BP_1-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/05/04/us/04BP_1/04BP_1-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "On Defensive, BP Readies Dome to Contain Spill",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "On Defensive, BP Tests Ideas To Stem Leaks",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Gulf of Mexico",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Oil (Petroleum) and Gasoline",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "BP Plc",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Explosions",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Obama, Barack",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Accidents and Safety",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Offshore Drilling and Exploration",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Transocean Inc",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Halliburton Co",
+        "rank": 9,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-05-03T17:47:52+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "byline": {
+      "original": "By IAN URBINA, JUSTIN GILLIS and CLIFFORD KRAUSS",
+      "person": [
+        {
+          "firstname": "Ian",
+          "middlename": null,
+          "lastname": "URBINA",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Justin",
+          "middlename": null,
+          "lastname": "GILLIS",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        },
+        {
+          "firstname": "Clifford",
+          "middlename": null,
+          "lastname": "KRAUSS",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 3
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5445c99c38f0d832c813f419",
+    "word_count": 1128,
+    "score": 1.0,
+    "uri": "nyt://article/8e71b446-bb5a-57e2-8ee7-40f3c8f3c4eb"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2010/05/04/nyregion/04bomb.html",
+    "snippet": "Authorities arrested a Connecticut man, Faisal Shahzad, at Kennedy Airport early Tuesday in connection with Saturday\u2019s failed Times Square car bombing, people briefed on the investigation said.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/05/04/nyregion/04bomb_CA0/04bomb_CA0-articleLarge.jpg",
+        "height": 325,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2010/05/04/nyregion/04bomb_CA0/04bomb_CA0-articleLarge.jpg",
+          "xlargeheight": 325
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Arrest Made in Times Square Bomb Case",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Owner of S.U.V. Arrested In Times Sq. Bomb Case",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Times Square and 42nd Street (NYC)",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Bombs and Explosives",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Terrorism",
+        "rank": 3,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-05-03T14:56:09+0000",
+    "document_type": "article",
+    "new_desk": "Metro",
+    "byline": {
+      "original": "By WILLIAM K. RASHBAUM, MARK MAZZETTI and PETER BAKER",
+      "person": [
+        {
+          "firstname": "William",
+          "middlename": "K.",
+          "lastname": "RASHBAUM",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Mark",
+          "middlename": null,
+          "lastname": "MAZZETTI",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        },
+        {
+          "firstname": "Peter",
+          "middlename": null,
+          "lastname": "BAKER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 3
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5445c7d738f0d832c813f3f7",
+    "word_count": 927,
+    "score": 1.0,
+    "uri": "nyt://article/95a88701-989e-5f25-b3a1-e2a7aa8b8101"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2010/05/04/science/04tier.html",
+    "snippet": "Chimpanzees have robust tool kits that help them in daily life, including for subsistence, self-maintenance and sex.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/05/04/science/04tierney/04tierney-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/05/04/science/04tierney/04tierney-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "When It Comes to Sex, Chimps Need Help, Too",
+      "kicker": "Findings",
+      "content_kicker": "Findings",
+      "print_headline": "When It Comes to Sex, Chimps Need Help, Too",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Monkeys and Apes",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Sex",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Science and Technology",
+        "rank": 3,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-05-03T21:59:44+0000",
+    "document_type": "article",
+    "new_desk": "Science",
+    "byline": {
+      "original": "By JOHN TIERNEY",
+      "person": [
+        {
+          "firstname": "John",
+          "middlename": null,
+          "lastname": "TIERNEY",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5445c90238f0d832c813f40b",
+    "word_count": 881,
+    "score": 1.0,
+    "uri": "nyt://article/865375a4-7d1b-5ac5-b7be-b811d43a7ae0"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2010/05/04/business/04air.html",
+    "snippet": "The deal, completed in three weeks, gives the airlines the muscle to fend off low-cost rivals at home and to take on foreign carriers abroad.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "In United-Continental Deal, Birth of a Behemoth",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Air Merger With a Note Of Urgency",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Mergers, Acquisitions and Divestitures",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "United Airlines",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Continental Airlines Inc",
+        "rank": 3,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-05-03T13:16:19+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By JAD MOUAWAD",
+      "person": [
+        {
+          "firstname": "Jad",
+          "middlename": null,
+          "lastname": "MOUAWAD",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5445c73838f0d832c813f3e6",
+    "word_count": 968,
+    "score": 1.0,
+    "uri": "nyt://article/6e6a976b-3a12-5be3-ae87-3152beb6b1ed"
+  }
+]

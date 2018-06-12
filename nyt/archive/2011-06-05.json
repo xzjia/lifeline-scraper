@@ -1,0 +1,469 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2011/06/06/world/middleeast/06mideast.html",
+    "snippet": "Israeli forces fired at protesters on the Syrian frontier after protesters tried to breach the border for the second time in three weeks. A Syrian news agency reported 22 killed.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/06/06/world/SUB-MIDEAST-2/SUB-MIDEAST-2-articleLarge.jpg",
+        "height": 315,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2011/06/06/world/SUB-MIDEAST-2/SUB-MIDEAST-2-articleLarge.jpg",
+          "xlargeheight": 315
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/06/06/world/SUB-MIDEAST-2/SUB-MIDEAST-2-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/06/06/world/SUB-MIDEAST-2/SUB-MIDEAST-2-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Israeli Soldiers Shoot at Protesters on Syrian Border",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "PROTESTS DRAW ISRAELI GUNFIRE AT SYRIA BORDER",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Demonstrations, Protests, and Riots",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Golan Heights",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Israel",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Palestinians",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Syria",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-06-05T13:54:17+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Middle East",
+    "byline": {
+      "original": "By ISABEL KERSHNER",
+      "person": [
+        {
+          "firstname": "Isabel",
+          "middlename": null,
+          "lastname": "KERSHNER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "540e6ebd38f0d863ce5a4d4d",
+    "word_count": 1130,
+    "score": 1.0,
+    "uri": "nyt://article/4f42e661-c2cc-56c5-ab49-45d104a952f3"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/06/06/world/middleeast/06yemen.html",
+    "snippet": "Yemenis celebrated after the embattled president, Ali Abdullah Saleh, went to Saudi Arabia for urgent medical treatment.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/06/06/world/middleeast/YEMEN/YEMEN-articleLarge.jpg",
+        "height": 315,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2011/06/06/world/middleeast/YEMEN/YEMEN-articleLarge.jpg",
+          "xlargeheight": 315
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/06/06/world/middleeast/YEMEN/YEMEN-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/06/06/world/middleeast/YEMEN/YEMEN-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Protesters in Yemen Rejoice as Leader Goes to Saudi Arabia",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Joy and Doubts After President Leaves Yemen",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Middle East and North Africa Unrest (2010- )",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Yemen",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Saleh, Ali Abdullah",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Demonstrations, Protests, and Riots",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Saudi Arabia",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-06-05T13:44:49+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Middle East",
+    "byline": {
+      "original": "By NEIL MacFARQUHAR",
+      "person": [
+        {
+          "firstname": "Neil",
+          "middlename": null,
+          "lastname": "MacFARQUHAR",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "540e6eb738f0d863ce5a4d4c",
+    "word_count": 1098,
+    "score": 1.0,
+    "uri": "nyt://article/42654f2c-0372-5869-b657-afc6c4d1df2f"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/06/06/world/asia/06gates.html",
+    "snippet": "President Obama\u2019s national security team is pondering greater troop reductions, with some officials saying the rising cost of the war and the death of Osama bin Laden justify a change.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/06/06/world/06gates-span/06gates-span-articleLarge.jpg",
+        "height": 362,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2011/06/06/world/06gates-span/06gates-span-articleLarge.jpg",
+          "xlargeheight": 362
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/06/06/world/06gates-span/06gates-span-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/06/06/world/06gates-span/06gates-span-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Steeper Pullout Is Raised as Option for Afghanistan",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "STEEPER PULLOUT RAISED AS OPTION FOR AFGHANISTAN",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Obama, Barack",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Defense and Military Forces",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Afghanistan War (2001- )",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Gates, Robert M",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Defense Department",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-06-05T18:14:19+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Asia Pacific",
+    "byline": {
+      "original": "By DAVID E. SANGER, ERIC SCHMITT and THOM SHANKER",
+      "person": [
+        {
+          "firstname": "David",
+          "middlename": "E.",
+          "lastname": "SANGER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Eric",
+          "middlename": null,
+          "lastname": "SCHMITT",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        },
+        {
+          "firstname": "Thom",
+          "middlename": null,
+          "lastname": "SHANKER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 3
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "540e6edb38f0d863ce5a4d51",
+    "word_count": 1160,
+    "score": 1.0,
+    "uri": "nyt://article/80ccd1fd-06e5-520a-92ce-ba71027c3fa6"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/06/06/business/media/06couric.html",
+    "snippet": "ABC announced that it has signed Katie Couric to a multiyear contract to host a new daytime talk show, and she will also join the ABC News division.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/06/06/business/jp-couric/jp-couric-articleLarge.jpg",
+        "height": 315,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2011/06/06/business/jp-couric/jp-couric-articleLarge.jpg",
+          "xlargeheight": 315
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/06/06/business/jp-couric/jp-couric-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2011/06/06/business/jp-couric/jp-couric-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/06/06/business/jp-couric/jp-couric-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/06/06/business/jp-couric/jp-couric-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "For Couric, ABC\u2019s Pitch Proved Best",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "For Couric, ABC\u2019s Pitch Proved Best",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Television",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "News and News Media",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "ABC Inc",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Couric, Katie",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-06-05T23:22:42+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "section_name": "Media",
+    "byline": {
+      "original": "By BILL CARTER",
+      "person": [
+        {
+          "firstname": "Bill",
+          "middlename": null,
+          "lastname": "CARTER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "540e70ab38f0d863ce5a4d6d",
+    "word_count": 1520,
+    "score": 1.0,
+    "uri": "nyt://article/5643a1ac-2cdf-52a5-8170-3a8cafe9b9c0"
+  }
+]

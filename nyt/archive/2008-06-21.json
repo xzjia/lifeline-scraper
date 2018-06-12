@@ -1,0 +1,122 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2008/06/21/world/middleeast/21security.html",
+    "snippet": "Despite great strides in tamping down violence, Iraq lacks the formal rules to share power and spoils.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/06/21/world/21security.600.jpg",
+        "height": 320,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2008/06/21/world/21security.600.jpg",
+          "xlargeheight": 320
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Big Gains for Iraq Security, but Questions Linger",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Big Gains for Iraq Security, but Questions Linger",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Iraq",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Maliki, Nuri Kamal al-",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Politics and Government",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Armament, Defense and Military Forces",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Baghdad (Iraq)",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Basra (Iraq)",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Mosul (Iraq)",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Security and Warning Systems",
+        "rank": 8,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2008-06-21T04:00:00+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Middle East",
+    "byline": {
+      "original": "By STEPHEN FARRELL and RICHARD A. OPPEL Jr",
+      "person": [
+        {
+          "firstname": "Stephen",
+          "middlename": null,
+          "lastname": "FARRELL",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Richard",
+          "middlename": "A.",
+          "lastname": "OPPEL",
+          "qualifier": "Jr",
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5475041a38f0d8119c6af6d0",
+    "word_count": 2323,
+    "score": 1.0,
+    "uri": "nyt://article/c0f5d96e-54a5-51b1-ac39-1f50d411e05c"
+  }
+]

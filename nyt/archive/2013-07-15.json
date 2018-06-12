@@ -1,0 +1,655 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2013/07/15/business/attention-shopper-stores-are-tracking-your-cell.html",
+    "snippet": "Using video surveillance, and signals from shoppers\u2019 cellphones and apps, retailers are tracking customers\u2019 behavior and moods.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/05/05/business/video-retailnext-surveillance/video-retailnext-surveillance-articleLarge.jpg",
+        "height": 338,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2013/05/05/business/video-retailnext-surveillance/video-retailnext-surveillance-articleLarge.jpg",
+          "xlargeheight": 338
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/05/05/business/video-retailnext-surveillance/video-retailnext-surveillance-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2013/05/05/business/video-retailnext-surveillance/video-retailnext-surveillance-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/05/05/business/video-retailnext-surveillance/video-retailnext-surveillance-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2013/05/05/business/video-retailnext-surveillance/video-retailnext-surveillance-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Attention, Shoppers: Store Is Tracking Your Cell",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Attention, Shoppers: Store Is Tracking Your Cell",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Shopping and Retail",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Data-Mining and Database Marketing",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "E-Commerce",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Wireless Communications",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Privacy",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Nordstrom Inc",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Customer Relations",
+        "rank": 7,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2013-07-15T01:07:52+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By STEPHANIE CLIFFORD and QUENTIN HARDY",
+      "person": [
+        {
+          "firstname": "Stephanie",
+          "middlename": null,
+          "lastname": "CLIFFORD",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Quentin",
+          "middlename": null,
+          "lastname": "HARDY",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "51e34b697e0d9c0839d2fbb0",
+    "word_count": 1228,
+    "score": 1.0,
+    "uri": "nyt://article/9fe07210-8836-5bd1-8ea2-fb7119f3ff13"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2013/07/16/us/politics/democrats-seeing-precedent-press-on-to-curb-filibuster.html",
+    "snippet": "Senators emerged from a closed-door meeting saying  they were confident an agreement could be reached Tuesday to end the standoff over a change to filibuster rules, though no deal had been struck.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "Senate\u2019s Leader Sets Showdown Over Changes to Filibuster",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Senate\u2019s Leader Sets Showdown Over Filibuster",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Filibusters and Debate Curbs",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Politics and Government",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Senate",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Reid, Harry",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "United States",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2013-07-15T14:25:22+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "section_name": "Politics",
+    "byline": {
+      "original": "By JONATHAN WEISMAN and ASHLEY PARKER",
+      "person": [
+        {
+          "firstname": "Jonathan",
+          "middlename": null,
+          "lastname": "WEISMAN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Ashley",
+          "middlename": null,
+          "lastname": "PARKER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "51e406557e0d9c0839d2fd16",
+    "word_count": 1263,
+    "score": 1.0,
+    "uri": "nyt://article/8c0a9548-9ffd-5771-89b6-bf35458459f1"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2013/07/15/world/middleeast/no-quick-impact-in-us-arms-plan-for-syria-rebels.html",
+    "snippet": "The plan calls for the C.I.A. to supply only small arms, and only to a limited segment of the opposition; the actual numbers are unclear.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/07/15/world/0715REBELSjp/0715REBELSjp-articleLarge.jpg",
+        "height": 400,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2013/07/15/world/0715REBELSjp/0715REBELSjp-articleLarge.jpg",
+          "xlargeheight": 400
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/07/15/world/0715REBELSjp/0715REBELSjp-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2013/07/15/world/0715REBELSjp/0715REBELSjp-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/07/15/world/0715REBELSjp/0715REBELSjp-thumbStandard-v5.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2013/07/15/world/0715REBELSjp/0715REBELSjp-thumbStandard-v5.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "No Quick Impact in U.S. Arms Plan for Syria Rebels",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "No Quick Impact in U.S. Arms Plan for Syria Rebels",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "United States International Relations",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Defense and Military Forces",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Central Intelligence Agency",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Syria",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Assad, Bashar al-",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Free Syrian Army",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Middle East and North Africa Unrest (2010- )",
+        "rank": 7,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2013-07-15T01:25:08+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Middle East",
+    "byline": {
+      "original": "By MARK MAZZETTI, ERIC SCHMITT and ERIN BANCO",
+      "person": [
+        {
+          "firstname": "Mark",
+          "middlename": null,
+          "lastname": "MAZZETTI",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Eric",
+          "middlename": null,
+          "lastname": "SCHMITT",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        },
+        {
+          "firstname": "Erin",
+          "middlename": null,
+          "lastname": "BANCO",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 3
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "51e34f757e0d9c0839d2fbbb",
+    "word_count": 1369,
+    "score": 1.0,
+    "uri": "nyt://article/54b3fd9a-057e-5b85-8008-9c08ad4842ab"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2013/07/15/world/asia/bangladesh-pollution-told-in-colors-and-smells.html",
+    "snippet": "A deadly building collapse brought the dangers of Bangladesh\u2019s clothing manufacturing to world notice, but the environmental destruction is taking a daily toll as well.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/07/15/world/asia/Bangladesh/Bangladesh-articleLarge.jpg",
+        "height": 369,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2013/07/15/world/asia/Bangladesh/Bangladesh-articleLarge.jpg",
+          "xlargeheight": 369
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/07/15/world/asia/Bangladesh/Bangladesh-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2013/07/15/world/asia/Bangladesh/Bangladesh-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/07/15/world/asia/Bangladesh/Bangladesh-thumbStandard-v2.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2013/07/15/world/asia/Bangladesh/Bangladesh-thumbStandard-v2.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Bangladesh Pollution, Told in Colors and Smells",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Bangladesh Pollution, Told in Colors and Smells",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Factories and Manufacturing",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Water Pollution",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Fashion and Apparel",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Bangladesh",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2013-07-15T01:34:36+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Asia Pacific",
+    "byline": {
+      "original": "By JIM YARDLEY",
+      "person": [
+        {
+          "firstname": "Jim",
+          "middlename": null,
+          "lastname": "YARDLEY",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "51e351ae7e0d9c0839d2fbbe",
+    "word_count": 1372,
+    "score": 1.0,
+    "uri": "nyt://article/13926e56-8ab2-5448-8f03-2f4ef0d7f131"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2013/07/16/world/middleeast/egypt-morsi.html",
+    "snippet": "Liberal Egyptians have long had an uneasy relationship with the military, but since the military pushed out President Mohamed Morsi, a majority of liberals have been intolerant of dissenters.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/07/16/world/middleeast/16egypt-span/16egypt-span-articleLarge.jpg",
+        "height": 400,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2013/07/16/world/middleeast/16egypt-span/16egypt-span-articleLarge.jpg",
+          "xlargeheight": 400
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/07/16/world/middleeast/16egypt-span/16egypt-span-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2013/07/16/world/middleeast/16egypt-span/16egypt-span-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/07/16/world/middleeast/16egypt-span/16egypt-span-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2013/07/16/world/middleeast/16egypt-span/16egypt-span-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Egyptian Liberals Embrace the Military, Brooking No Dissent",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Egyptian Liberals Embracing Army In Turnaround",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Egypt",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Muslim Brotherhood (Egypt)",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Morsi, Mohamed",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Defense and Military Forces",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Middle East and North Africa Unrest (2010- )",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Muslims and Islam",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Sisi, Abdul-Fattah el-",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Maher, Ahmed",
+        "rank": 8,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2013-07-15T18:20:21+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Middle East",
+    "byline": {
+      "original": "By DAVID D. KIRKPATRICK",
+      "person": [
+        {
+          "firstname": "David",
+          "middlename": null,
+          "lastname": null,
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "51e43d677e0d9c0839d2fdee",
+    "word_count": 1372,
+    "score": 1.0,
+    "uri": "nyt://article/722fa7a2-77a1-562b-9f82-dcdf7affc458"
+  }
+]

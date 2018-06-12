@@ -1,0 +1,525 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2009/03/01/movies/01films.html",
+    "snippet": "Even as the economy teeters, Hollywood has been startled by a box-office surge with little modern precedent.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "In Downturn, Americans Flock to the Movies",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Americans Flock to the Movies, Seeking a Silver-Screen Lining",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Motion Pictures",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Economy",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Recession and Depression",
+        "rank": 3,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-02-28T19:08:58+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By MICHAEL CIEPLY and BROOKS BARNES",
+      "person": [
+        {
+          "firstname": "Michael",
+          "middlename": null,
+          "lastname": "CIEPLY",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Brooks",
+          "middlename": null,
+          "lastname": "BARNES",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5467cd6538f0d81e5cd0ca63",
+    "word_count": 948,
+    "score": 1.0,
+    "uri": "nyt://article/695c704e-f551-5d9e-9366-8fce3a43f5fd"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/03/01/fashion/01private.html",
+    "snippet": "Parents debate whether private school is really worth it.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/02/27/fashion/01private_75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/02/27/fashion/01private_75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "About His Deposit ...",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "About His Deposit ...",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Private and Sectarian Schools",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Tuition",
+        "rank": 2,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-02-28T02:37:59+0000",
+    "document_type": "article",
+    "new_desk": "Styles",
+    "byline": {
+      "original": "By JAN HOFFMAN",
+      "person": [
+        {
+          "firstname": "Jan",
+          "middlename": null,
+          "lastname": "HOFFMAN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5467c81f38f0d81e5cd0c9df",
+    "word_count": 1639,
+    "score": 1.0,
+    "uri": "nyt://article/3a1f68e8-fc11-5d90-96c5-0ddec0654d81"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/02/28/sports/othersports/28doping.html",
+    "snippet": "The sport\u2019s governing body is preparing to bring a case based not on failed drug tests, but on telltale changes in the blood.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "Cycling to Use Blood Profiles in Doping Case",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Cycling to Use Blood Profiles In Doping Case",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Doping (Sports)",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Bicycles and Bicycling",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Tests and Testing",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Testosterone",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Blood",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "International Cycling Union",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "World Anti-Doping Agency",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "United States Anti-Doping Agency",
+        "rank": 8,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-02-28T02:46:19+0000",
+    "document_type": "article",
+    "new_desk": "Sports",
+    "section_name": "More Sports",
+    "byline": {
+      "original": "By JULIET MACUR",
+      "person": [
+        {
+          "firstname": "Juliet",
+          "middlename": null,
+          "lastname": "MACUR",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "547188d538f0d847c5e42f77",
+    "word_count": 1261,
+    "score": 1.0,
+    "uri": "nyt://article/f8bf7dee-7d9b-5933-a5b5-940ab54383dd"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/02/28/education/28college.html",
+    "snippet": "Many smaller schools depend on full enrollment to stay afloat, and are eager to attract enough students.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/02/28/us/28college.xlarge1.jpg",
+        "height": 360,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/02/28/us/28college.xlarge1.jpg",
+          "xlargeheight": 360
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/02/28/us/28college.751.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/02/28/us/28college.751.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "To Keep Students, Colleges Cut Anything but Aid",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "To Keep Students, Colleges Cut Anything but Aid",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Scholarships and Fellowships",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Economy",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Colleges and Universities",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Recession and Depression",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Finances",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-02-28T02:54:26+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "byline": {
+      "original": "By KATE ZERNIKE",
+      "person": [
+        {
+          "firstname": "Kate",
+          "middlename": null,
+          "lastname": "ZERNIKE",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5471887338f0d847c5e42f6f",
+    "word_count": 1135,
+    "score": 1.0,
+    "uri": "nyt://article/9d98575e-c3ed-51f4-ac9c-de67ab310201"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/02/28/your-money/28money.html",
+    "snippet": "Those with incomes of $200,000 to $400,000 may not see as much of a tax increase under the president\u2019s budget as they may have feared.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "Braced for a Higher Tax Bill, Some May Dodge the Bullet",
+      "kicker": "Your Money",
+      "content_kicker": "Your Money",
+      "print_headline": "Braced for a Higher Tax Bill, Some May Dodge the Bullet",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Federal Budget (US)",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Personal Finances",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Taxation",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Economy",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-02-28T02:47:58+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By RON LIEBER and TARA SIEGEL BERNARD",
+      "person": [
+        {
+          "firstname": "Ron",
+          "middlename": null,
+          "lastname": "LIEBER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Tara",
+          "middlename": "Siegel",
+          "lastname": "BERNARD",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5471894638f0d847c5e42f7c",
+    "word_count": 1037,
+    "score": 1.0,
+    "uri": "nyt://article/5586e860-9f62-5646-8d99-d715d36593bb"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/03/01/us/01survival.html",
+    "snippet": "Mark Cooper\u2019s tumble from security manager to janitor is one of the often hidden consequences of the downturn.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/03/01/us/01survival_span.jpg",
+        "height": 330,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/03/01/us/01survival_span.jpg",
+          "xlargeheight": 330
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/03/01/us/01survival_75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/03/01/us/01survival_75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Forced From Executive Pay to Hourly Wage",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Forced Down the Job Ladder, From Executive Pay to Hourly Wage",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Layoffs and Job Reductions",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Recession and Depression",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Unemployment",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Part-Time Employment",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-02-28T22:29:11+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "byline": {
+      "original": "By MICHAEL LUO",
+      "person": [
+        {
+          "firstname": "Michael",
+          "middlename": null,
+          "lastname": "LUO",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5467cdc238f0d81e5cd0ca6c",
+    "word_count": 1323,
+    "score": 1.0,
+    "uri": "nyt://article/e6aeb834-3234-5ca9-9466-c06a034b8713"
+  }
+]

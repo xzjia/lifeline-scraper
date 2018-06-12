@@ -1,0 +1,104 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2008/04/05/us/05doctors.html",
+    "snippet": "An influx of newly insured patients is widening the gap between the supply of primary care physicians and the demand for their services.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/04/05/us/05doctors-600.jpg",
+        "height": 330,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2008/04/05/us/05doctors-600.jpg",
+          "xlargeheight": 330
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/04/05/us/05doctors_75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2008/04/05/us/05doctors_75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "In Massachusetts, Universal Coverage Strains Care",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Universal Coverage Strains Massachusetts Care",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Doctors",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Medicine and Health",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Health Insurance and Managed Care",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Massachusetts",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2008-04-05T04:00:00+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "byline": {
+      "original": "By KEVIN SACK",
+      "person": [
+        {
+          "firstname": "Kevin",
+          "middlename": null,
+          "lastname": "SACK",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "547ff18538f0d828162881d5",
+    "word_count": 1530,
+    "score": 1.0,
+    "uri": "nyt://article/9cb96779-a0f5-59b7-8401-702c08b34710"
+  }
+]

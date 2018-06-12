@@ -1,0 +1,687 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2011/07/08/us/politics/08fiscal.html",
+    "snippet": "G.O.P. leaders and President Obama emerged from talks with a consensus to aim for the biggest possible deal \u2014 one resulting in up to $4 trillion in savings.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/07/08/us/08fiscalspan/08fiscalspan-articleLarge.jpg",
+        "height": 330,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2011/07/08/us/08fiscalspan/08fiscalspan-articleLarge.jpg",
+          "xlargeheight": 330
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/07/08/us/08fiscalspan/08fiscalspan-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/07/08/us/08fiscalspan/08fiscalspan-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Still \u2018Far Apart\u2019 on Debt, 2 Sides Will Seek Broader Cuts",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Still \u2018Far Apart\u2019 on Debt, 2 Sides Will Seek $4 Trillion in Savings",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "United States Politics and Government",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Federal Budget (US)",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Taxation",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Obama, Barack",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "National Debt (US)",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "House of Representatives",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Senate",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Republican Party",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Democratic Party",
+        "rank": 9,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Social Security (US)",
+        "rank": 10,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Medicare",
+        "rank": 11,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-07-07T13:04:53+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "section_name": "Politics",
+    "byline": {
+      "original": "By MARK LANDLER and CARL HULSE",
+      "person": [
+        {
+          "firstname": "Mark",
+          "middlename": null,
+          "lastname": "LANDLER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Carl",
+          "middlename": null,
+          "lastname": "HULSE",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "54074d1c38f0d843936a6f48",
+    "word_count": 1188,
+    "score": 1.0,
+    "uri": "nyt://article/45d45ed3-c708-54bf-80fc-84697e55d47b"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/07/07/us/politics/07fiscal.html",
+    "snippet": "President Obama, who will meet with the bipartisan leadership of Congress on Thursday, wants to move well beyond the $2 trillion in savings sought earlier.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "Obama to Push for Wider Deal With G.O.P. on Deficit Cuts",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "President Looks To Broader Deal In Deficit Talks",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "United States Politics and Government",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Federal Budget (US)",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Economy",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Obama, Barack",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Boehner, John A",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Republican Party",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-07-07T00:52:21+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "section_name": "Politics",
+    "byline": {
+      "original": "By CARL HULSE and MARK LANDLER",
+      "person": [
+        {
+          "firstname": "Carl",
+          "middlename": null,
+          "lastname": "HULSE",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Mark",
+          "middlename": null,
+          "lastname": "LANDLER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "540f7dc238f0d87641c67d37",
+    "word_count": 1177,
+    "score": 1.0,
+    "uri": "nyt://article/47382eee-d2b0-55e9-8428-27cba5e4fcae"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/07/10/arts/music/blake-shelton-the-voice-coach-makes-good-countrywide.html",
+    "snippet": "Blake Shelton, a celebrity coach on \u201cThe Voice,\u201d is the highest-profile country star appearing regularly in prime time and among the most visible ambassadors from Nashville to the American mainstream.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/07/10/arts/BLAKE/BLAKE-articleLarge-v2.jpg",
+        "height": 430,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2011/07/10/arts/BLAKE/BLAKE-articleLarge-v2.jpg",
+          "xlargeheight": 430
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/07/10/arts/BLAKE/BLAKE-thumbStandard-v2.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/07/10/arts/BLAKE/BLAKE-thumbStandard-v2.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Country Boy for the Whole Country",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Country Boy For the Whole Country",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Shelton, Blake",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Country Music",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Television",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-07-07T11:30:17+0000",
+    "document_type": "article",
+    "new_desk": "Arts&Leisure",
+    "section_name": "Music",
+    "byline": {
+      "original": "By JON CARAMANICA",
+      "person": [
+        {
+          "firstname": "Jon",
+          "middlename": null,
+          "lastname": "CARAMANICA",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "540f738638f0d87641c67c69",
+    "word_count": 1874,
+    "score": 1.0,
+    "uri": "nyt://article/883f950d-0afd-54eb-b1dc-ed84c1dd0cee"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/07/10/theater/musical-or-opera-the-fine-line-that-divides-them.html",
+    "snippet": "Words or music? The one that drives the work helps define whether it\u2019s an opera or a musical.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/07/10/theater/10musical1_span/10musical1_span-articleLarge.jpg",
+        "height": 330,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2011/07/10/theater/10musical1_span/10musical1_span-articleLarge.jpg",
+          "xlargeheight": 330
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/07/10/theater/10musical1_span/10musical1_span-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/07/10/theater/10musical1_span/10musical1_span-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Opera? Musical? Please Respect the Difference",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Opera? Musical? Please Respect The Difference",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Theater",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Opera",
+        "rank": 2,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-07-07T20:14:55+0000",
+    "document_type": "article",
+    "new_desk": "Arts&Leisure",
+    "byline": {
+      "original": "By ANTHONY TOMMASINI",
+      "person": [
+        {
+          "firstname": "Anthony",
+          "middlename": null,
+          "lastname": "TOMMASINI",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "540f712d38f0d87641c67c43",
+    "word_count": 2021,
+    "score": 1.0,
+    "uri": "nyt://article/1c550cc3-d33c-50be-973d-5c1993c2d22d"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/07/08/world/europe/08britain.html",
+    "snippet": "An arrest seems imminent for The News of the World\u2019s once politically influential former editor after the Murdochs announced plans to shut down the tabloid.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/07/08/world/08britain_337/08britain_337-articleLarge.jpg",
+        "height": 330,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2011/07/08/world/08britain_337/08britain_337-articleLarge.jpg",
+          "xlargeheight": 330
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/07/08/world/08britain_337/08britain_337-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/07/08/world/08britain_337/08britain_337-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Scandal Shifts Britain\u2019s Media and Political Landscape",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Murdoch Closing Tabloid Linked to British Hacking",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "organizations",
+        "value": "News of the World",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "News Corp",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Wiretapping and Other Eavesdropping Devices and Methods",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Great Britain",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Murdoch, Rupert",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Coulson, Andy",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Cameron, David",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Brooks, Rebekah",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Klein, Joel I",
+        "rank": 9,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "News International Ltd",
+        "rank": 10,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "British Sky Broadcasting",
+        "rank": 11,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Newspapers",
+        "rank": 12,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-07-07T07:36:23+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Europe",
+    "byline": {
+      "original": "By SARAH LYALL",
+      "person": [
+        {
+          "firstname": "Sarah",
+          "middlename": null,
+          "lastname": "LYALL",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "540f7fe238f0d87641c67d5d",
+    "word_count": 1526,
+    "score": 1.0,
+    "uri": "nyt://article/06672171-7855-569a-a744-a894db1788f6"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/07/07/nyregion/cuomo-triumphs-by-courting-the-capitol-he-ran-against.html",
+    "snippet": "In just six months in office, Gov. Andrew M. Cuomo has had several major legislative victories, thanks to his ability to work a system that stymied his predecessors.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/07/07/nyregion/yCUOMO/yCUOMO-articleLarge.jpg",
+        "height": 360,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2011/07/07/nyregion/yCUOMO/yCUOMO-articleLarge.jpg",
+          "xlargeheight": 360
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/07/07/nyregion/yCUOMO/yCUOMO-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/07/07/nyregion/yCUOMO/yCUOMO-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Cuomo Triumphs by Courting the Capitol He Ran Against",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Cuomo Triumphs by Courting The Capitol He Ran Against",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Cuomo, Andrew M",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Politics and Government",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "State Legislatures",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "New York State",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-07-07T01:52:00+0000",
+    "document_type": "article",
+    "new_desk": "Metro",
+    "byline": {
+      "original": "By NICHOLAS CONFESSORE",
+      "person": [
+        {
+          "firstname": "Nicholas",
+          "middlename": null,
+          "lastname": "CONFESSORE",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "540f7e7b38f0d87641c67d43",
+    "word_count": 1250,
+    "score": 1.0,
+    "uri": "nyt://article/132f61cc-b82e-51f0-810f-12f4e2afdf53"
+  }
+]

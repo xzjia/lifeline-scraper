@@ -1,0 +1,661 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2011/01/04/business/global/04smoke.html",
+    "snippet": "After a rise in the cigarette tax, demand for a Pfizer antismoking drug outstripped the supply.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/01/04/business/Smoke/Smoke-articleLarge.jpg",
+        "height": 315,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2011/01/04/business/Smoke/Smoke-articleLarge.jpg",
+          "xlargeheight": 315
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/01/04/business/Smoke/Smoke-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/01/04/business/Smoke/Smoke-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "In Japan, Pfizer Is Short of Drug to Help Smokers",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "In Japan, Pfizer Is Short of Drug To Help Smokers",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Smoking and Tobacco",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Japan",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Drugs (Pharmaceuticals)",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Pfizer Inc",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Taxation",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-01-03T17:41:34+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "section_name": "Global Business",
+    "byline": {
+      "original": "By HIROKO TABUCHI",
+      "person": [
+        {
+          "firstname": "Hiroko",
+          "middlename": null,
+          "lastname": "TABUCHI",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5406182038f0d81983bde57d",
+    "word_count": 1161,
+    "score": 1.0,
+    "uri": "nyt://article/2a2f9916-6aee-5951-9859-4b7f759a8047"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/01/04/business/04minivan.html",
+    "snippet": "Minivan makers are trying to recast the much-ridiculed mom-mobile as something that parents can be proud \u2014 or at least unashamed \u2014 of driving.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/01/04/business/04minivan-span/04minivan-span-articleLarge.jpg",
+        "height": 315,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2011/01/04/business/04minivan-span/04minivan-span-articleLarge.jpg",
+          "xlargeheight": 315
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/01/04/business/04minivan-span/04minivan-span-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/01/04/business/04minivan-span/04minivan-span-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Mocked as Uncool, the Minivan Rises Again",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Mocked as Uncool, the Minivan Rises Again",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Vans",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Families and Family Life",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Advertising and Marketing",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Toyota Motor Corp",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Honda Motor Co Ltd",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Chrysler LLC",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Ford Motor Co",
+        "rank": 7,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-01-03T22:56:26+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By NICK BUNKLEY",
+      "person": [
+        {
+          "firstname": "Nick",
+          "middlename": null,
+          "lastname": "BUNKLEY",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "54061c0a38f0d81983bde5ce",
+    "word_count": 1194,
+    "score": 1.0,
+    "uri": "nyt://article/a68a2232-8dd9-5311-9cdd-e70309e4ddc8"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/01/03/business/03wikileaks-bank.html",
+    "snippet": "Since WikiLeaks threatened to \u201ctake down\u201d a major American bank, Bank of America has been hunting for signs that its systems have been compromised.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "Facing Threat From WikiLeaks, Bank Plays Defense",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Facing a New Type of Threat From WikiLeaks, a Bank Plays Defense",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "organizations",
+        "value": "Wikileaks",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Bank of America Corporation",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Banking and Financial Institutions",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Classified Information and State Secrets",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Computer Security",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-01-03T03:12:46+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By NELSON D. SCHWARTZ",
+      "person": [
+        {
+          "firstname": "Nelson",
+          "middlename": null,
+          "lastname": null,
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5406126538f0d81983bde50a",
+    "word_count": 1352,
+    "score": 1.0,
+    "uri": "nyt://article/4ec8d905-bedb-52e6-89b7-8c348b487bab"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/01/03/business/media/03carr.html",
+    "snippet": "As the media landscape continues to change, a look at some of the developments that will make news in the coming year.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/04/12/business/media/carr-50/carr-50-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/04/12/business/media/carr-50/carr-50-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "The Great Mashup of 2011",
+      "kicker": "The Media Equation",
+      "content_kicker": "The Media Equation",
+      "print_headline": "The Great Mashup Of 2011",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "News and News Media",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Computers and the Internet",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Television",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Newspapers",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Online Advertising",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Tablet Computers",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "iPad",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Social Networking (Internet)",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Media",
+        "rank": 9,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Advertising and Marketing",
+        "rank": 10,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-01-03T02:42:30+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "section_name": "Media",
+    "byline": {
+      "original": "By DAVID CARR",
+      "person": [
+        {
+          "firstname": "David",
+          "middlename": null,
+          "lastname": "CARR",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "540613a938f0d81983bde528",
+    "word_count": 1409,
+    "score": 1.0,
+    "uri": "nyt://article/173ea7d6-e13b-56e5-a15d-420c5be89a8c"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/01/04/science/04angier.html",
+    "snippet": "New research is trying to define courage: where it comes from, how it manifests itself in the body and brain, and why we love it so much.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/01/04/science/04ANGIER/04ANGIER-articleLarge.jpg",
+        "height": 347,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2011/01/04/science/04ANGIER/04ANGIER-articleLarge.jpg",
+          "xlargeheight": 347
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/01/04/science/04ANGIER/04ANGIER-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/01/04/science/04ANGIER/04ANGIER-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Searching for the Source of a Fountain of Courage",
+      "kicker": "Basics",
+      "content_kicker": "Basics",
+      "print_headline": "Searching for the Source Of a Fountain of Courage",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Brain",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Emotions",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Fires and Firefighters",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Biology and Biochemistry",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Psychology and Psychologists",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Science and Technology",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-01-03T23:23:59+0000",
+    "document_type": "article",
+    "new_desk": "Science",
+    "byline": {
+      "original": "By NATALIE ANGIER",
+      "person": [
+        {
+          "firstname": "Natalie",
+          "middlename": null,
+          "lastname": "ANGIER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "54061b2438f0d81983bde5be",
+    "word_count": 1604,
+    "score": 1.0,
+    "uri": "nyt://article/effe1c77-bce0-5fa2-b0e5-599c4814884d"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/01/03/nyregion/03cuomo.html",
+    "snippet": "As part of his emergency fiscal plan, Gov. Andrew M. Cuomo is expected to take aim at unions during his State of the State address on Wednesday, officials said.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/01/03/nyregion/03CUOMO/03CUOMO-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/01/03/nyregion/03CUOMO/03CUOMO-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Cuomo Plans One-Year Freeze on State Workers\u2019 Pay",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Cuomo Plans Year\u2019s Freeze On State Pay",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "New York State",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Wages and Salaries",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Cuomo, Andrew M",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "State of the State Message (NYS)",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Labor and Jobs",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Layoffs and Job Reductions",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Budgets and Budgeting",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Civil Service Employees Assn",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Government Employees",
+        "rank": 9,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Organized Labor",
+        "rank": 10,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-01-03T02:42:48+0000",
+    "document_type": "article",
+    "new_desk": "Metro",
+    "byline": {
+      "original": "By NICHOLAS CONFESSORE",
+      "person": [
+        {
+          "firstname": "Nicholas",
+          "middlename": null,
+          "lastname": "CONFESSORE",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5406158d38f0d81983bde54c",
+    "word_count": 937,
+    "score": 1.0,
+    "uri": "nyt://article/8e062103-195e-5d12-83db-33b2875f1376"
+  }
+]

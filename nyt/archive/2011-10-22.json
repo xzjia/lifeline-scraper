@@ -1,0 +1,454 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2011/10/23/nyregion/a-diverse-new-york-city-in-some-ways-anything-but.html",
+    "snippet": "In matters of race, the belief that New York City is better than other cities increasingly seems misplaced.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/10/23/nyregion/23SUBBIGCITY1_SPAN/23SUBBIGCITY1_SPAN-articleLarge.jpg",
+        "height": 360,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2011/10/23/nyregion/23SUBBIGCITY1_SPAN/23SUBBIGCITY1_SPAN-articleLarge.jpg",
+          "xlargeheight": 360
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/10/23/nyregion/23SUBBIGCITY1_SPAN/23SUBBIGCITY1_SPAN-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/10/23/nyregion/23SUBBIGCITY1_SPAN/23SUBBIGCITY1_SPAN-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "A Diverse City? In Some Ways, Anything But",
+      "kicker": "Big City",
+      "content_kicker": "Big City",
+      "print_headline": "A Diverse City? In Some Ways, Anything But",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "New York City",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Race and Ethnicity",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Racial Profiling",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Police Brutality and Misconduct",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Discrimination",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Daragjati, Michael",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-10-22T00:31:23+0000",
+    "document_type": "article",
+    "new_desk": "Metro",
+    "byline": {
+      "original": "By GINIA BELLAFANTE",
+      "person": [
+        {
+          "firstname": "Ginia",
+          "middlename": null,
+          "lastname": "BELLAFANTE",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "519d3f4240e9ec457e2a2fe4",
+    "word_count": 985,
+    "score": 1.0,
+    "uri": "nyt://article/29aee2cf-0edd-56fa-87a1-252c6d5babcc"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/10/23/opinion/sunday/social-inequality-and-the-new-elite.html",
+    "snippet": "In economic terms, the United States has gone from being a comparatively egalitarian society to one of the most unequal democracies in the world.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/10/23/sunday-review/23INCLUSION/23INCLUSION-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/10/23/sunday-review/23INCLUSION/23INCLUSION-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "The Paradox of the New Elite",
+      "kicker": "Opinion",
+      "content_kicker": "Opinion",
+      "print_headline": "The Paradox Of the New Elite",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Discrimination",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Economy",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Blacks",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Colleges and Universities",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Ivy League",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Obama, Barack",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "United States",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Income Inequality",
+        "rank": 8,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-10-22T19:56:43+0000",
+    "document_type": "article",
+    "new_desk": "OpEd",
+    "section_name": "Sunday Review",
+    "byline": {
+      "original": "By ALEXANDER STILLE",
+      "person": [
+        {
+          "firstname": "Alexander",
+          "middlename": null,
+          "lastname": "STILLE",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "Op-Ed",
+    "_id": "51a504fb40e9ec65d2039ca3",
+    "word_count": 1805,
+    "score": 1.0,
+    "uri": "nyt://article/21d6cebb-25fa-59a4-b974-cde861bc15a6"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/10/23/nyregion/on-recycling-nyc-goes-from-leader-to-laggard.html",
+    "snippet": "With New York City far behind cities like San Francisco, there generally is nowhere to put a plastic lunch container but a wastebasket.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/10/23/nyregion/23RECYCLE_SPAN/23RECYCLE_SPAN-articleLarge.jpg",
+        "height": 356,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2011/10/23/nyregion/23RECYCLE_SPAN/23RECYCLE_SPAN-articleLarge.jpg",
+          "xlargeheight": 356
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/10/23/nyregion/23RECYCLE_SPAN/23RECYCLE_SPAN-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/10/23/nyregion/23RECYCLE_SPAN/23RECYCLE_SPAN-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Lunch, Landfills and What I Tossed",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Lunch, Landfills And What I Tossed",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Waste Materials and Disposal",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Recycling of Waste Materials",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Compost",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "New York City",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Restaurants",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Plastics",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-10-22T01:28:39+0000",
+    "document_type": "article",
+    "new_desk": "Metro",
+    "byline": {
+      "original": "By MIREYA NAVARRO",
+      "person": [
+        {
+          "firstname": "Mireya",
+          "middlename": null,
+          "lastname": "NAVARRO",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "519d3e8c40e9ec457e2a2fd9",
+    "word_count": 2609,
+    "score": 1.0,
+    "uri": "nyt://article/ca8ffb1d-3250-553f-abf7-3efc0992a083"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/10/23/technology/at-waldorf-school-in-silicon-valley-technology-can-wait.html",
+    "snippet": "The Waldorf School\u2019s computer-free environment has become a draw for parents at high-tech companies like Google.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/10/23/business/waldorf/waldorf-articleLarge.jpg",
+        "height": 350,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2011/10/23/business/waldorf/waldorf-articleLarge.jpg",
+          "xlargeheight": 350
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/10/23/business/waldorf/waldorf-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/10/23/business/waldorf/waldorf-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "A Silicon Valley School That Doesn\u2019t Compute",
+      "kicker": "Grading the Digital School",
+      "content_kicker": "Grading the Digital School",
+      "print_headline": "A Silicon Valley School That Doesn\u2019t Compute",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Education (K-12)",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Computers and the Internet",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Private and Sectarian Schools",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Silicon Valley (Calif)",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Children and Childhood",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Series",
+        "rank": 7,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-10-22T18:47:59+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By MATT RICHTEL",
+      "person": [
+        {
+          "firstname": "Matt",
+          "middlename": null,
+          "lastname": "RICHTEL",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "515db53ccf28d0219d003fb6",
+    "word_count": 1577,
+    "score": 1.0,
+    "uri": "nyt://article/42cbeca4-4065-5c4b-9b19-9592709cf148"
+  }
+]

@@ -1,0 +1,618 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2012/02/29/world/middleeast/us-sees-iran-attacks-as-likely-if-israel-strikes.html",
+    "snippet": "American officials assessed that Iran would retaliate to an Israeli strike by launching missiles on Israel and terrorist-style attacks on United States civilian and military personnel overseas.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/02/29/world/middleeast/STRIKE/STRIKE-articleLarge.jpg",
+        "height": 360,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2012/02/29/world/middleeast/STRIKE/STRIKE-articleLarge.jpg",
+          "xlargeheight": 360
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/02/29/world/middleeast/STRIKE/STRIKE-thumbStandard-v2.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2012/02/29/world/middleeast/STRIKE/STRIKE-thumbStandard-v2.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "U.S. Sees Iran Attacks as Likely if Israel Strikes",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "U.S. Sees Iran Attacks as Likely if Israel Strikes",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Politics and Government",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Nuclear Weapons",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Israel",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Iran",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Defense and Military Forces",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States International Relations",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2012-02-29T05:09:06+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Middle East",
+    "byline": {
+      "original": "By THOM SHANKER, HELENE COOPER and ETHAN BRONNER",
+      "person": [
+        {
+          "firstname": "Thom",
+          "middlename": null,
+          "lastname": "SHANKER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Helene",
+          "middlename": null,
+          "lastname": "COOPER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        },
+        {
+          "firstname": "Ethan",
+          "middlename": null,
+          "lastname": "BRONNER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 3
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "53f4176138f0d857ea2d0b7e",
+    "word_count": 1207,
+    "score": 1.0,
+    "uri": "nyt://article/8e08f2c1-62d7-5b1a-9448-6b8af72b376b"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2012/03/01/nyregion/dozens-said-to-be-arrested-in-health-care-fraud-scheme.html",
+    "snippet": "An organized crime ring conspired to steal more than $250 million, federal authorities said.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "A $250 Million Fraud Scheme Finds a Path to Brighton Beach",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "A $250 Million Fraud Scheme Finds a Path to Brighton Beach",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Health Insurance and Managed Care",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Frauds and Swindling",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Organized Crime",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Russia",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Brighton Beach (NYC)",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "New York City",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Brooklyn (NYC)",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Immigration and Emigration",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Russian-Americans",
+        "rank": 9,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2012-02-29T13:37:55+0000",
+    "document_type": "article",
+    "new_desk": "Metro",
+    "byline": {
+      "original": "By WILLIAM K. RASHBAUM",
+      "person": [
+        {
+          "firstname": "William",
+          "middlename": "K.",
+          "lastname": "RASHBAUM",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "53f419d238f0d857ea2d0ba3",
+    "word_count": 1063,
+    "score": 1.0,
+    "uri": "nyt://article/013cc8aa-2040-56d1-8a30-91e8315b0d42"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2012/03/01/arts/music/van-halen-at-madison-square-garden.html",
+    "snippet": "Van Halen played only a few songs from its new album, \u201cA Different Kind of Truth,\u201d choosing instead to satiate its fans at Madison Square Garden on Tuesday by largely sticking to the classics in its catalog.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/03/01/arts/JP-HALEN/JP-HALEN-articleLarge.jpg",
+        "height": 350,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2012/03/01/arts/JP-HALEN/JP-HALEN-articleLarge.jpg",
+          "xlargeheight": 350
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/03/01/arts/JP-HALEN/JP-HALEN-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2012/03/01/arts/JP-HALEN/JP-HALEN-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "All of the Nostalgia, but Fewer High Kicks",
+      "kicker": "Music Review",
+      "content_kicker": "Music Review",
+      "print_headline": "All of the Nostalgia, But Fewer High Kicks",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "organizations",
+        "value": "Van Halen",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Music",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Roth, David Lee",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "van Halen, Eddie",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Madison Square Garden",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Rock Music",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2012-02-29T10:18:41+0000",
+    "document_type": "article",
+    "new_desk": "Culture",
+    "section_name": "Music",
+    "byline": {
+      "original": "By NATE CHINEN",
+      "person": [
+        {
+          "firstname": "Nate",
+          "middlename": null,
+          "lastname": "CHINEN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "Review",
+    "_id": "515dabf8cf28d0219d002813",
+    "word_count": 668,
+    "score": 1.0,
+    "uri": "nyt://article/c77d65cd-32ad-55b1-82aa-c988831e4eb9"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2012/03/01/world/asia/us-says-north-korea-agrees-to-curb-nuclear-work.html",
+    "snippet": "North Korea\u2019s surprise announcement raised the possibility of ending an impasse that has allowed its nuclear program to continue for years without international oversight.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/02/29/world/29northkorea/29northkorea-articleLarge.jpg",
+        "height": 330,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2012/02/29/world/29northkorea/29northkorea-articleLarge.jpg",
+          "xlargeheight": 330
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/02/29/world/29northkorea/29northkorea-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2012/02/29/world/29northkorea/29northkorea-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "North Koreans Agree to Freeze Nuclear Work; U.S. to Give Aid",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "North Koreans Agree to Freeze Nuclear Efforts",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "North Korea",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Food Aid",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Nuclear Tests",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Nuclear Weapons",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States International Relations",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Kim Jong Un",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2012-02-29T14:40:46+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Asia Pacific",
+    "byline": {
+      "original": "By STEVEN LEE MYERS and CHOE SANG-HUN",
+      "person": [
+        {
+          "firstname": "Steven",
+          "middlename": "Lee",
+          "lastname": "MYERS",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Choe",
+          "middlename": null,
+          "lastname": "SANG-HUN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "593edce77c459f24986e59c8",
+    "word_count": 1145,
+    "score": 1.0,
+    "uri": "nyt://article/40c6b738-d21f-51f3-9fd8-8cb0cf22ea97"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2012/02/29/us/politics/arizona-michigan-primaries.html",
+    "snippet": "Mitt Romney successfully fended off a challenge from Rick Santorum in Michigan, a key battleground state, helping his chances of becoming the Republican nominee.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/02/28/us/politics/29politics-slide-SF0E/29politics-slide-SF0E-articleLarge.jpg",
+        "height": 423,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2012/02/28/us/politics/29politics-slide-SF0E/29politics-slide-SF0E-articleLarge.jpg",
+          "xlargeheight": 423
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/02/28/us/politics/29politics-slide-SF0E/29politics-slide-SF0E-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2012/02/28/us/politics/29politics-slide-SF0E/29politics-slide-SF0E-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/02/28/us/politics/29politics-slide-SF0E/29politics-slide-SF0E-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2012/02/28/us/politics/29politics-slide-SF0E/29politics-slide-SF0E-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Romney Regains Stride With Victories in 2 States",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Romney Regains Stride With Wins in Two States",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Presidential Election of 2012",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Primaries and Caucuses",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Romney, Mitt",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Santorum, Rick",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Gingrich, Newt",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Paul, Ron",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Arizona",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Michigan",
+        "rank": 8,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2012-02-29T02:10:06+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "section_name": "Politics",
+    "byline": {
+      "original": "By JEFF ZELENY",
+      "person": [
+        {
+          "firstname": "Jeff",
+          "middlename": null,
+          "lastname": "ZELENY",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "53f4159b38f0d857ea2d0b64",
+    "word_count": 1231,
+    "score": 1.0,
+    "uri": "nyt://article/6399ea99-453d-5239-b566-6d0e4e01a887"
+  }
+]

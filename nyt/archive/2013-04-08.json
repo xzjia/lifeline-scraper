@@ -1,0 +1,937 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2013/04/09/world/europe/tributes-pour-in-for-margaret-thatcher.html",
+    "snippet": "Margaret Thatcher\u2019s conservative prescriptions for her country\u2019s economy have never found fertile soil on the Continent, not even amid a gloom at least as dark as that of \u201970s Britain.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/04/09/world/JP-ENGLAND/JP-ENGLAND-articleLarge-v2.jpg",
+        "height": 408,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2013/04/09/world/JP-ENGLAND/JP-ENGLAND-articleLarge-v2.jpg",
+          "xlargeheight": 408
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/04/09/world/JP-ENGLAND/JP-ENGLAND-thumbWide-v2.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2013/04/09/world/JP-ENGLAND/JP-ENGLAND-thumbWide-v2.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/04/09/world/JP-ENGLAND/JP-ENGLAND-thumbStandard-v2.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2013/04/09/world/JP-ENGLAND/JP-ENGLAND-thumbStandard-v2.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Thatcher\u2019s Fiscal Policies Are Still a Tough Sell for Europe",
+      "kicker": "News Analysis",
+      "content_kicker": "News Analysis",
+      "print_headline": "Hard Policies In Hard Times",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Thatcher, Margaret H",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Great Britain",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Economic Conditions and Trends",
+        "rank": 3,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2013-04-08T13:09:45+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Europe",
+    "byline": {
+      "original": "By JOHN F. BURNS and ALAN COWELL",
+      "person": [
+        {
+          "firstname": "John",
+          "middlename": "F.",
+          "lastname": "BURNS",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Alan",
+          "middlename": null,
+          "lastname": "COWELL",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News Analysis",
+    "_id": "5162c19acf28d0219d0063f9",
+    "word_count": 1156,
+    "score": 1.0,
+    "uri": "nyt://article/4132adc7-1310-5a31-a74f-14a4aae1a87d"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2013/04/08/health/for-scientists-an-exploding-world-of-pseudo-academia.html",
+    "snippet": "A parallel world of pseudo-academia, with prestigiously titled conferences and journals that will print seemingly anything for a fee, has the scientific community alarmed.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/04/08/us/JOURNALS/JOURNALS-articleLarge.jpg",
+        "height": 377,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2013/04/08/us/JOURNALS/JOURNALS-articleLarge.jpg",
+          "xlargeheight": 377
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/04/08/us/JOURNALS/JOURNALS-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2013/04/08/us/JOURNALS/JOURNALS-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/04/08/us/JOURNALS/JOURNALS-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2013/04/08/us/JOURNALS/JOURNALS-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Scientific Articles Accepted (Personal Checks, Too)",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Scientific Articles Accepted (Personal Checks, Too)",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Science and Technology",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Academic and Scientific Journals",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Frauds and Swindling",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Nature (Journal)",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Research",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2013-04-08T02:46:46+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "byline": {
+      "original": "By GINA KOLATA",
+      "person": [
+        {
+          "firstname": "Gina",
+          "middlename": null,
+          "lastname": "KOLATA",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "51622f99cf28d0219d00626f",
+    "word_count": 1391,
+    "score": 1.0,
+    "uri": "nyt://article/d679f88b-38ca-5d78-977d-faa2b7f66bd2"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2013/04/08/us/politics/obama-must-walk-fine-line-as-congress-weighs-agenda.html",
+    "snippet": "President Obama\u2019s second-term priorities \u2014 the deficit, gun safety and immigration \u2014 may hinge on his ability to inject himself into negotiations to just the right degree.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/04/08/us/ALT-OBAMA/ALT-OBAMA-articleLarge.jpg",
+        "height": 363,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2013/04/08/us/ALT-OBAMA/ALT-OBAMA-articleLarge.jpg",
+          "xlargeheight": 363
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/04/08/us/ALT-OBAMA/ALT-OBAMA-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2013/04/08/us/ALT-OBAMA/ALT-OBAMA-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/04/08/us/ALT-OBAMA/ALT-OBAMA-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2013/04/08/us/ALT-OBAMA/ALT-OBAMA-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Obama Must Walk Fine Line as Congress Takes Up Agenda",
+      "kicker": "White House Memo",
+      "content_kicker": "White House Memo",
+      "print_headline": "Obama Must Walk Fine Line As Congress Takes Up Agenda",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Obama, Barack",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Federal Budget (US)",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "McConnell, Mitch",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Politics and Government",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Immigration and Emigration",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Gun Control",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Republican Party",
+        "rank": 7,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2013-04-08T01:38:41+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "section_name": "Politics",
+    "byline": {
+      "original": "By JACKIE CALMES",
+      "person": [
+        {
+          "firstname": "Jackie",
+          "middlename": null,
+          "lastname": "CALMES",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "51621fa9cf28d0219d00624b",
+    "word_count": 1387,
+    "score": 1.0,
+    "uri": "nyt://article/bfda37ef-acf3-50a6-9bcd-f45a5ac31bb2"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2013/04/09/us/politics/obama-in-connecticut-to-push-for-gun-control.html",
+    "snippet": "As President Obama gave an impassioned speech in Connecticut, Republicans on Capitol Hill were threatening to prevent a gun-control measure from even coming up for debate.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/04/09/us/jp-OBAMA/jp-OBAMA-articleLarge.jpg",
+        "height": 387,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2013/04/09/us/jp-OBAMA/jp-OBAMA-articleLarge.jpg",
+          "xlargeheight": 387
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/04/09/us/jp-OBAMA/jp-OBAMA-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2013/04/09/us/jp-OBAMA/jp-OBAMA-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/04/09/us/jp-OBAMA/jp-OBAMA-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2013/04/09/us/jp-OBAMA/jp-OBAMA-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Obama Invokes Newtown Dead in Pressing for New Gun Laws",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Invoking Newtown Dead, Obama Presses Gun Laws",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Obama, Barack",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Gun Control",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Newtown, Conn, Shooting (2012)",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Senate",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Law and Legislation",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2013-04-08T17:08:25+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "section_name": "Politics",
+    "byline": {
+      "original": "By PETER APPLEBOME and JONATHAN WEISMAN",
+      "person": [
+        {
+          "firstname": "Peter",
+          "middlename": null,
+          "lastname": "APPLEBOME",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Jonathan",
+          "middlename": null,
+          "lastname": "WEISMAN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5162f98bcf28d0219d0064b8",
+    "word_count": 1139,
+    "score": 1.0,
+    "uri": "nyt://article/363f831b-bb7b-5cf0-8728-e9e7663bab6b"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2013/04/08/world/targeted-killing-comes-to-define-war-on-terror.html",
+    "snippet": "Despite administration officials\u2019 statements that their strong preference is for capturing terrorists, a reliance on killing terrorism suspects has defined the Obama years.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/04/08/world/JP-CAPTURE-1/JP-CAPTURE-1-articleLarge.jpg",
+        "height": 464,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2013/04/08/world/JP-CAPTURE-1/JP-CAPTURE-1-articleLarge.jpg",
+          "xlargeheight": 464
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/04/08/world/JP-CAPTURE-1/JP-CAPTURE-1-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2013/04/08/world/JP-CAPTURE-1/JP-CAPTURE-1-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/04/08/world/JP-CAPTURE-1/JP-CAPTURE-1-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2013/04/08/world/JP-CAPTURE-1/JP-CAPTURE-1-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Targeted Killing Comes to Define War on Terror",
+      "kicker": "Rise of the Predators",
+      "content_kicker": "Rise of the Predators",
+      "print_headline": "Targeted Killing Comes to Define War on Terror",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "United States Politics and Government",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Terrorism",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Targeted Killings",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Drones (Pilotless Planes)",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Defense and Military Forces",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Central Intelligence Agency",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Obama, Barack",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Brennan, John O",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Series",
+        "rank": 9,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Abu Ghaith, Sulaiman",
+        "rank": 10,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2013-04-08T01:20:58+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "byline": {
+      "original": "By SCOTT SHANE",
+      "person": [
+        {
+          "firstname": "Scott",
+          "middlename": null,
+          "lastname": "SHANE",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "51621b85cf28d0219d006240",
+    "word_count": 1717,
+    "score": 1.0,
+    "uri": "nyt://article/04a71632-7b6b-5f11-92a5-6b8da1135f37"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2013/04/09/nyregion/christie-condemns-rutgers-coach-but-stands-by-president.html",
+    "snippet": "Gov. Chris Christie of New Jersey had little to say last week about the Rutgers scandal, but on Monday he used a news conference to all but claim credit for Coach Mike Rice\u2019s ouster.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/04/09/nyregion/JP-CHRISTIE-01/JP-CHRISTIE-01-articleLarge.jpg",
+        "height": 400,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2013/04/09/nyregion/JP-CHRISTIE-01/JP-CHRISTIE-01-articleLarge.jpg",
+          "xlargeheight": 400
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/04/09/nyregion/JP-CHRISTIE-01/JP-CHRISTIE-01-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2013/04/09/nyregion/JP-CHRISTIE-01/JP-CHRISTIE-01-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/04/09/nyregion/JP-CHRISTIE-01/JP-CHRISTIE-01-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2013/04/09/nyregion/JP-CHRISTIE-01/JP-CHRISTIE-01-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Brash Christie Plays Rutgers Circumspectly",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Brash Christie Plays Rutgers Circumspectly",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Barchi, Robert L",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Rice, Mike Jr (1969- )",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Christie, Christopher J",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Rutgers, The State University of New Jersey",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Coaches and Managers",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Colleges and Universities",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Basketball (College)",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "New Jersey",
+        "rank": 8,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2013-04-08T17:27:53+0000",
+    "document_type": "article",
+    "new_desk": "Metro",
+    "byline": {
+      "original": "By DAVID M. HALBFINGER",
+      "person": [
+        {
+          "firstname": "David",
+          "middlename": null,
+          "lastname": null,
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5162fe1bcf28d0219d0064c7",
+    "word_count": 1206,
+    "score": 1.0,
+    "uri": "nyt://article/75b701b8-e0ff-5a95-8714-357d3cc3a694"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2013/04/09/world/europe/former-prime-minister-margaret-thatcher-of-britain-has-died.html",
+    "snippet": "Mrs. Thatcher, who set her country on a rightward economic path, held her nation\u2019s top office longer than any other British politician in the 20th century.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/04/09/world/europe/THATCHER/THATCHER-articleLarge.jpg",
+        "height": 401,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2013/04/09/world/europe/THATCHER/THATCHER-articleLarge.jpg",
+          "xlargeheight": 401
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/04/09/world/europe/THATCHER/THATCHER-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2013/04/09/world/europe/THATCHER/THATCHER-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/04/09/world/europe/THATCHER/THATCHER-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2013/04/09/world/europe/THATCHER/THATCHER-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Margaret Thatcher, \u2018Iron Lady\u2019 Who Set Britain on New Course, Dies at 87",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "\u2018Iron Lady\u2019 Who Set Britain on a New Course",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Thatcher, Margaret H",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Great Britain",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Deaths (Obituaries)",
+        "rank": 3,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2013-04-08T12:08:10+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Europe",
+    "byline": {
+      "original": "By JOSEPH R. GREGORY",
+      "person": [
+        {
+          "firstname": "Joseph",
+          "middlename": "R.",
+          "lastname": "GREGORY",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "Obituary (Obit)",
+    "_id": "5162b32ccf28d0219d0063ce",
+    "word_count": 5382,
+    "score": 1.0,
+    "uri": "nyt://article/7917c358-49bc-5442-a664-3e0dfc4f6fdb"
+  }
+]

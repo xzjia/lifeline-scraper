@@ -1,0 +1,443 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2009/03/04/business/04penny.html",
+    "snippet": "Executives from the company synonymous with the housing bubble are now buying distressed properties.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/03/04/business/04penny_600.jpg",
+        "height": 331,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/03/04/business/04penny_600.jpg",
+          "xlargeheight": 331
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/03/04/business/04penny_75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/03/04/business/04penny_75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Ex-Leaders of Countrywide Profit From Bad Loans",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Ex-Lenders Profit From Home Loans Gone Bad",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "organizations",
+        "value": "Countrywide Financial Corp",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Mortgages",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Housing and Real Estate",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Subprime Mortgage Crisis",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-03-03T22:42:17+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By ERIC LIPTON",
+      "person": [
+        {
+          "firstname": "Eric",
+          "middlename": null,
+          "lastname": "LIPTON",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5467e4e138f0d81e5cd0cc81",
+    "word_count": 1462,
+    "score": 1.0,
+    "uri": "nyt://article/d6bbafc6-358d-58eb-9e40-98804022837f"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/03/03/business/03medschool.html",
+    "snippet": "More than 200 Harvard Medical School students and sympathetic faculty are intent on exposing and curtailing the industry influence in their classrooms and laboratories.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/03/03/business/03medschool.1.600.jpg",
+        "height": 337,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/03/03/business/03medschool.1.600.jpg",
+          "xlargeheight": 337
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/03/03/business/03medschool.1.75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/03/03/business/03medschool.1.75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Harvard Medical School in Ethics Quandary",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Patching a Wound",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "organizations",
+        "value": "Harvard Medical School",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Conflicts of Interest",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Harvard University",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Medical Schools",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Pfizer Inc",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Bristol-Myers Squibb Co",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Baxter International Inc",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Ethics",
+        "rank": 8,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-03-03T01:28:30+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By DUFF WILSON",
+      "person": [
+        {
+          "firstname": "Duff",
+          "middlename": null,
+          "lastname": "WILSON",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5467ddce38f0d81e5cd0cbdd",
+    "word_count": 1533,
+    "score": 1.0,
+    "uri": "nyt://article/2dabdb4e-b32b-55cf-b9eb-3d5e53dd6af8"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/03/03/washington/03prexy.html",
+    "snippet": "The letter suggested the United States would back off on a missile defense system if Moscow would help stop Iran from developing long-range weapons.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/03/03/world/03prexy.75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/03/03/world/03prexy.75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Obama Offered Deal to Russia in Secret Letter",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "OBAMA SUGGESTS U.S. MAY RETHINK ANTIMISSILE PLAN",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Obama, Barack",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Medvedev, Dmitri A",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Armament and Defense",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Missiles and Missile Defense Systems",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Russia",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States International Relations",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "International Relations",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Letters",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Iran",
+        "rank": 9,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-03-03T02:30:25+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "byline": {
+      "original": "By PETER BAKER",
+      "person": [
+        {
+          "firstname": "Peter",
+          "middlename": null,
+          "lastname": "BAKER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5467df4038f0d81e5cd0cc00",
+    "word_count": 1006,
+    "score": 1.0,
+    "uri": "nyt://article/5a1372d8-64ec-5d56-a8cd-db904f551a06"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/03/04/world/middleeast/04diplo.html",
+    "snippet": "An understanding with Syria could increase pressure on Iran to respond to the United States\u2019 offer of direct talks.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/03/04/world/clinton600.jpg",
+        "height": 280,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/03/04/world/clinton600.jpg",
+          "xlargeheight": 280
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Clinton Says U.S. Is Ready to Begin Talks With Syria",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "CLINTON SAYS U.S. IS READY TO BEGIN TALKS WITH SYRIA",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Syria",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States International Relations",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Clinton, Hillary Rodham",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Assad, Bashar Al-",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Israel",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Middle East",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-03-03T14:14:11+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Middle East",
+    "byline": {
+      "original": "By MARK LANDLER",
+      "person": [
+        {
+          "firstname": "Mark",
+          "middlename": null,
+          "lastname": "LANDLER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5467e07d38f0d81e5cd0cc1e",
+    "word_count": 1140,
+    "score": 1.0,
+    "uri": "nyt://article/aa8acb1a-0482-5e7f-a546-2c3f5613e833"
+  }
+]

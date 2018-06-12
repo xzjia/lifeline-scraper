@@ -1,0 +1,123 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2007/12/18/business/media/18strike.html",
+    "snippet": "NBC announced that Jay Leno and Conan O\u2019Brien will return to the air even if writers are still striking.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2007/12/17/arts/television/17strike-600.jpg",
+        "height": 330,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2007/12/17/arts/television/17strike-600.jpg",
+          "xlargeheight": 330
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2007/12/17/arts/television/17strike-75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2007/12/17/arts/television/17strike-75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Amid Strike, 2 NBC Hosts Will Return to the Air",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Amid Strike, 2 NBC Hosts Will Return To the Air",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Television",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Writers Guild of America",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Writing and Writers",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "National Broadcasting Co",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Leno, Jay",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "O'Brien, Conan",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Letterman, David",
+        "rank": 7,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2007-12-18T05:00:00+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "section_name": "Media",
+    "byline": {
+      "original": "By BILL CARTER",
+      "person": [
+        {
+          "firstname": "Bill",
+          "middlename": null,
+          "lastname": "CARTER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5474ee9138f0d8119c6af2f1",
+    "word_count": 1166,
+    "score": 1.0,
+    "uri": "nyt://article/40552025-422d-5889-999c-a49f9df6216c"
+  }
+]

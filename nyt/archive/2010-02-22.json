@@ -1,0 +1,353 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2010/02/23/technology/23video.html",
+    "snippet": "Wal-Mart\u2019s purchase of the start-up Vudu represents a major move into selling movies over the Internet.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/02/23/business/23video_CA0/23video_CA0-articleLarge.jpg",
+        "height": 315,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2010/02/23/business/23video_CA0/23video_CA0-articleLarge.jpg",
+          "xlargeheight": 315
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/02/23/business/23video_CA0/23video_CA0-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/02/23/business/23video_CA0/23video_CA0-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Wal-Mart Adds Its Clout to Movie Streaming",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Adding Wal-Mart\u2019s Clout to Streamed Shows",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "organizations",
+        "value": "Vudu Inc",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Movies",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Computers and the Internet",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Wal-Mart Stores Inc",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Digital and High-Definition Television",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Mergers, Acquisitions and Divestitures",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-02-22T18:40:56+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By BRAD STONE",
+      "person": [
+        {
+          "firstname": "Brad",
+          "middlename": null,
+          "lastname": "STONE",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "544324c438f0d8246e88cca3",
+    "word_count": 970,
+    "score": 1.0,
+    "uri": "nyt://article/d88e457f-a521-5399-a149-bccf89de7659"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2010/02/22/health/research/22trial.html",
+    "snippet": "At what may be a watershed moment in understanding genetic changes that cause cancer, a small band of doctors is doggedly testing a drug known as PLX4032.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/02/22/us/22trial01/22trial01-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/02/22/us/22trial01/22trial01-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "A Roller Coaster Chase for a Cure",
+      "kicker": "Target Cancer",
+      "content_kicker": "Target Cancer",
+      "print_headline": "Urgent Chase for a Cure",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Cancer",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Genetics and Heredity",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Drugs (Pharmaceuticals)",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Clinical Trials",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Doctors",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Research",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Melanomas",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Roche Holding AG",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "University of Pennsylvania",
+        "rank": 10,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-02-22T02:57:16+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "section_name": "Research",
+    "byline": {
+      "original": "By AMY HARMON",
+      "person": [
+        {
+          "firstname": "Amy",
+          "middlename": null,
+          "lastname": "HARMON",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "Series",
+    "_id": "5400b95838f0d841b2f3866d",
+    "word_count": 3931,
+    "score": 1.0,
+    "uri": "nyt://article/65308395-83d6-5442-b31a-5d0f91db567f"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2010/02/22/business/22toyota.html",
+    "snippet": "An internal memo claimed that the company saved millions by negotiating with U.S. regulators on a limited recall of floor mats.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "Toyota Cited $100 Million Savings After Limiting Recall",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Toyota Cited Its Savings In a Recall",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "organizations",
+        "value": "Toyota Motor Corp",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Recalls and Bans of Products",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Automobiles",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Accidents and Safety",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Regulation and Deregulation of Industry",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Politics and Government",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Toyoda, Akio",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Issa, Darrell E",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "LaHood, Ray",
+        "rank": 9,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Lexus Division of Toyota Motor Sales USA",
+        "rank": 10,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "House Committee on Oversight and Government Reform",
+        "rank": 11,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "National Highway Traffic Safety Administration",
+        "rank": 12,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Transportation Department (US)",
+        "rank": 13,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-02-22T04:52:25+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By MICHELINE MAYNARD",
+      "person": [
+        {
+          "firstname": "Micheline",
+          "middlename": null,
+          "lastname": "MAYNARD",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "544321b338f0d8246e88cc63",
+    "word_count": 601,
+    "score": 1.0,
+    "uri": "nyt://article/9582ff58-6245-5791-8cc8-5868efd317d0"
+  }
+]

@@ -1,0 +1,188 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2007/11/12/us/12koval.html",
+    "snippet": "George Koval, who infiltrated the Manhattan Project, was one of the most important spies of the 20th century. ",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2007/11/12/world/12koval.xlarge1.jpg",
+        "height": 250,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2007/11/12/world/12koval.xlarge1.jpg",
+          "xlargeheight": 250
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2007/11/12/world/12koval.751.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2007/11/12/world/12koval.751.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "A Spy\u2019s Path: Iowa to A-Bomb to Kremlin Honor",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "A Spy\u2019s Path: Iowa to A-Bomb to Kremlin Honor",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Espionage",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Manhattan Project",
+        "rank": 2,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2007-11-12T05:00:00+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "byline": {
+      "original": "By WILLIAM J. BROAD",
+      "person": [
+        {
+          "firstname": "William",
+          "middlename": "J.",
+          "lastname": "BROAD",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "54876d3738f0d8602128e32f",
+    "word_count": 1591,
+    "score": 1.0,
+    "uri": "nyt://article/cd3683d5-e387-5870-8697-92c90152ba72"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2007/11/12/nyregion/12flush.html",
+    "snippet": "Increasingly, parents have seen their children forced to contend with the fear of automatic flush toilets.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2007/11/12/nyregion/12flush.xlarge1.jpg",
+        "height": 350,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2007/11/12/nyregion/12flush.xlarge1.jpg",
+          "xlargeheight": 350
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2007/11/12/nyregion/12flush.752.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2007/11/12/nyregion/12flush.752.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "For Children, a Scary World Out There (in There, Too)",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "For Children, A Scary World Out There (In There, Too)",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Bathrooms and Toilets",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Children and Youth",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Anxiety",
+        "rank": 3,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2007-11-12T05:00:00+0000",
+    "document_type": "article",
+    "new_desk": "Metro",
+    "byline": {
+      "original": "By TINA KELLEY",
+      "person": [
+        {
+          "firstname": "Tina",
+          "middlename": null,
+          "lastname": "KELLEY",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "54876bc638f0d8602128e30d",
+    "word_count": 1040,
+    "score": 1.0,
+    "uri": "nyt://article/f7b32e87-f89e-5f30-8090-a6914303b7e8"
+  }
+]

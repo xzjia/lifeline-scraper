@@ -1,0 +1,906 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2013/10/06/realestate/more-surveillance-cameras-at-new-york-residences.html",
+    "snippet": "Large and small, doorman or no, New York City residences are stepping up their reliance on surveillance equipment.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/10/06/realestate/06COVER_SPAN/06cover-articleLarge.jpg",
+        "height": 400,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2013/10/06/realestate/06COVER_SPAN/06cover-articleLarge.jpg",
+          "xlargeheight": 400
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/10/06/realestate/06COVER_SPAN/06cover-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2013/10/06/realestate/06COVER_SPAN/06cover-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/10/06/realestate/06COVER_SPAN/06cover-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2013/10/06/realestate/06COVER_SPAN/06cover-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "The Building Has 1,000 Eyes",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "The Building Has 1,000 Eyes",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Real Estate Brokers",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Security and Warning Systems",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "New York City",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Cameras",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Real Estate and Housing (Residential)",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2013-10-04T16:45:48+0000",
+    "document_type": "article",
+    "new_desk": "RealEstate",
+    "byline": {
+      "original": "By JOANNE KAUFMAN",
+      "person": [
+        {
+          "firstname": "Joanne",
+          "middlename": null,
+          "lastname": "KAUFMAN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "524ef0be38f0d819897404ec",
+    "word_count": 1881,
+    "score": 1.0,
+    "uri": "nyt://article/e10ec351-7c5a-552f-8b96-58ecccd12ea2"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2013/10/05/your-money/estimating-income-and-other-questions-on-the-health-care-plan.html",
+    "snippet": "In the first week of the Obama administration\u2019s health care enrollment period, consumers had questions on insuring dependent children over 26 years old, immigrants and pre-existing conditions.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/10/05/business/Money/Money-articleLarge.jpg",
+        "height": 212,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2013/10/05/business/Money/Money-articleLarge.jpg",
+          "xlargeheight": 212
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/10/05/business/Money/Money-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2013/10/05/business/Money/Money-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/10/05/business/Money/Money-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2013/10/05/business/Money/Money-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Questions Often Asked About Health Law",
+      "kicker": "Your Money",
+      "content_kicker": "Your Money",
+      "print_headline": "Questions Often Asked About Health Law",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Personal Finances",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Patient Protection and Affordable Care Act (2010)",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Health Insurance and Managed Care",
+        "rank": 3,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2013-10-04T22:12:09+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By TARA SIEGEL BERNARD",
+      "person": [
+        {
+          "firstname": "Tara",
+          "middlename": "Siegel",
+          "lastname": "BERNARD",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "Question",
+    "_id": "524f3d3c38f0d81989740611",
+    "word_count": 2090,
+    "score": 1.0,
+    "uri": "nyt://article/60742a1e-69e2-57f5-a9c5-b2077e08ce6e"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2013/10/04/nyregion/new-york-city-mayor-poll-bill-de-blasio-joseph-lhota.html",
+    "snippet": "By an enormous margin, New York City voters support Bill de Blasio for mayor, though many are concerned about some of his policies, according to a New York Times/Siena College poll.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/10/04/nyregion/Y-04nycmayor-02/Y-04nycmayor-02-articleLarge.jpg",
+        "height": 400,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2013/10/04/nyregion/Y-04nycmayor-02/Y-04nycmayor-02-articleLarge.jpg",
+          "xlargeheight": 400
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/10/04/nyregion/Y-04nycmayor-02/Y-04nycmayor-02-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2013/10/04/nyregion/Y-04nycmayor-02/Y-04nycmayor-02-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/10/04/nyregion/Y-04nycmayor-02/Y-04nycmayor-02-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2013/10/04/nyregion/Y-04nycmayor-02/Y-04nycmayor-02-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Poll Finds Support for de Blasio, if Not All His Ideas",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Poll Says Voters Back de Blasio, If Not His Plans",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Elections, Mayors",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "de Blasio, Bill",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Lhota, Joseph J",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Polls and Public Opinion",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "New York City",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Siena College",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2013-10-04T06:47:12+0000",
+    "document_type": "article",
+    "new_desk": "Metro",
+    "byline": {
+      "original": "By DAVID W. CHEN and MEGAN THEE-BRENAN",
+      "person": [
+        {
+          "firstname": "David",
+          "middlename": "W.",
+          "lastname": "CHEN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Megan",
+          "middlename": null,
+          "lastname": "THEE-BRENAN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "524e647438f0d81989740368",
+    "word_count": 1178,
+    "score": 1.0,
+    "uri": "nyt://article/ad6b3805-ed72-551e-b407-69090de2e39e"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2013/10/05/business/in-rural-iowa-ambivalence-about-the-shutdown.html",
+    "snippet": "While Representative Steve King\u2019s constituents are beginning to question his tactics and his focus on the health law, they support his core commitment to cutting the size of government.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/10/05/us/STEWART-2/STEWART-2-articleLarge-v2.jpg",
+        "height": 397,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2013/10/05/us/STEWART-2/STEWART-2-articleLarge-v2.jpg",
+          "xlargeheight": 397
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/10/05/us/STEWART-2/STEWART-2-thumbWide-v3.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2013/10/05/us/STEWART-2/STEWART-2-thumbWide-v3.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/10/05/us/STEWART-2/STEWART-2-thumbStandard-v3.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2013/10/05/us/STEWART-2/STEWART-2-thumbStandard-v3.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "In Rural Iowa, Spending, Not the Shutdown, Raises Worry",
+      "kicker": "Common Sense",
+      "content_kicker": "Common Sense",
+      "print_headline": "In Rural Iowa, Spending, Not the Shutdown, Raises Worry",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "King, Steven A",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Iowa",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Tea Party Movement",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Politics and Government",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Patient Protection and Affordable Care Act (2010)",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Federal Budget (US)",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "National Debt (US)",
+        "rank": 7,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2013-10-04T18:41:05+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By JAMES B. STEWART",
+      "person": [
+        {
+          "firstname": "James",
+          "middlename": null,
+          "lastname": null,
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "524f0bc838f0d8198974054d",
+    "word_count": 1828,
+    "score": 1.0,
+    "uri": "nyt://article/a1e9bca4-988e-5dc2-a033-9bbca560060c"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2013/10/04/us/politics/gop-elders-see-liabilities-in-shutdown.html",
+    "snippet": "Senior Republican officials say the conservatives pushing the shutdown are undermining the party and its efforts to modernize, and helping President Obama just as his standing with the public has begun to slide.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/10/04/us/04debtlimit_span/04debtlimit_span-articleLarge-v2.jpg",
+        "height": 347,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2013/10/04/us/04debtlimit_span/04debtlimit_span-articleLarge-v2.jpg",
+          "xlargeheight": 347
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/10/04/us/04debtlimit_span/04debtlimit_span-thumbWide-v2.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2013/10/04/us/04debtlimit_span/04debtlimit_span-thumbWide-v2.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/10/04/us/04debtlimit_span/04debtlimit_span-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2013/10/04/us/04debtlimit_span/04debtlimit_span-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "G.O.P. Elders See Liabilities in Shutdown",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "G.O.P. Elders See Liabilities In Shutdown",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "United States Politics and Government",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Shutdowns (Institutional)",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Federal Budget (US)",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Republican Party",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Tea Party Movement",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Patient Protection and Affordable Care Act (2010)",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "United States",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Health Insurance and Managed Care",
+        "rank": 8,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2013-10-04T01:19:17+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "section_name": "Politics",
+    "byline": {
+      "original": "By JONATHAN MARTIN",
+      "person": [
+        {
+          "firstname": "Jonathan",
+          "middlename": null,
+          "lastname": "MARTIN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "524e179a38f0d819897402c6",
+    "word_count": 1106,
+    "score": 1.0,
+    "uri": "nyt://article/97ce29dc-fd3a-56e7-9e3d-ff46b422b725"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2013/10/06/sports/snowboarding-in-middle-earth.html",
+    "snippet": "Every August, the world\u2019s best snowboarders flock to Wanaka, New Zealand, where the only Olympic-size halfpipe anywhere in the world is open at that time of year.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/10/06/sports/skiing/06newzealand_ss-slide-66Y9/06newzealand_ss-slide-66Y9-articleLarge.jpg",
+        "height": 400,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2013/10/06/sports/skiing/06newzealand_ss-slide-66Y9/06newzealand_ss-slide-66Y9-articleLarge.jpg",
+          "xlargeheight": 400
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/10/06/sports/skiing/06newzealand_ss-slide-66Y9/06newzealand_ss-slide-66Y9-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2013/10/06/sports/skiing/06newzealand_ss-slide-66Y9/06newzealand_ss-slide-66Y9-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/10/06/sports/skiing/06newzealand_ss-slide-66Y9/06newzealand_ss-slide-66Y9-thumbStandard-v3.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2013/10/06/sports/skiing/06newzealand_ss-slide-66Y9/06newzealand_ss-slide-66Y9-thumbStandard-v3.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Summer Camp for the Winter Olympics",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Air Pressure",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Snowboarding",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "New Zealand",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Clark, Kelly",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Pearce, Kevin",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Tolkien, J R R",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "White, Shaun",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2013-10-04T16:18:59+0000",
+    "document_type": "article",
+    "new_desk": "Sports",
+    "byline": {
+      "original": "By JOE DRAPE",
+      "person": [
+        {
+          "firstname": "Joe",
+          "middlename": null,
+          "lastname": "DRAPE",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "593830957c459f24986e453f",
+    "word_count": 3102,
+    "score": 1.0,
+    "uri": "nyt://article/57b5fdfb-fc55-58c8-ad76-2115328a9745"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2013/10/06/travel/treasures-of-the-cinque-terre.html",
+    "snippet": "Two years after a torrential rainfall struck the area on Italy\u2019s Ligurian coast, a visit reveals both recent recovery and timeless pleasures.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/10/06/travel/06CINQUE_SPAN/06CINQUE_SPAN-articleLarge.jpg",
+        "height": 600,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2013/10/06/travel/06CINQUE_SPAN/06CINQUE_SPAN-articleLarge.jpg",
+          "xlargeheight": 600
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/10/06/travel/06CINQUE_SPAN/06CINQUE_SPAN-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2013/10/06/travel/06CINQUE_SPAN/06CINQUE_SPAN-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/10/06/travel/06CINQUE_SPAN/06CINQUE_SPAN-thumbStandard-v2.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2013/10/06/travel/06CINQUE_SPAN/06CINQUE_SPAN-thumbStandard-v2.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Treasures of the Cinque Terre",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Treasures of the Cinque Terre",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Travel and Vacations",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Hikes and Hiking",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Cinque Terre (Italy)",
+        "rank": 3,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2013-10-04T17:46:06+0000",
+    "document_type": "article",
+    "new_desk": "Travel",
+    "byline": {
+      "original": "By LIESL SCHILLINGER",
+      "person": [
+        {
+          "firstname": "Liesl",
+          "middlename": null,
+          "lastname": "SCHILLINGER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "524efee338f0d8198974051a",
+    "word_count": 3255,
+    "score": 1.0,
+    "uri": "nyt://article/16186257-cf5b-5165-ae4b-53c575ef0245"
+  }
+]

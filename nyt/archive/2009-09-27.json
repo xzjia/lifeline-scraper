@@ -1,0 +1,102 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2009/09/28/movies/28polanski.html",
+    "snippet": "Roman Polanski\u2019s arrest raised a strong possibility that he will face sentencing under his conviction for having sex with a 13-year-old girl in 1977.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/09/27/movies/27polanski2-600.jpg",
+        "height": 331,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/09/27/movies/27polanski2-600.jpg",
+          "xlargeheight": 331
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/09/27/movies/29polanski-75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/09/27/movies/29polanski-75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Polanski\u2019s Arrest Could Lead to Extradition",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Polanski Arrested in Switzerland in 1970s Sex Case",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Polanski, Roman",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Sex Crimes",
+        "rank": 2,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-09-27T15:14:59+0000",
+    "document_type": "article",
+    "new_desk": "Culture",
+    "byline": {
+      "original": "By MICHAEL CIEPLY and BROOKS BARNES",
+      "person": [
+        {
+          "firstname": "Michael",
+          "middlename": null,
+          "lastname": "CIEPLY",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Brooks",
+          "middlename": null,
+          "lastname": "BARNES",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5456a15538f0d86ef22a086f",
+    "word_count": 1318,
+    "score": 1.0,
+    "uri": "nyt://article/19cf7df9-15ef-5e4e-bbfe-248477414719"
+  }
+]

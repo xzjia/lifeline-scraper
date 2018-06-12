@@ -1,0 +1,92 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2010/02/28/realestate/28cov.html",
+    "snippet": "Want to move? Detest the very thought? Feelings about home may be complicated by market conditions.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/02/28/realestate/28cov_CA0/28cov_CA0-articleLarge.jpg",
+        "height": 380,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2010/02/28/realestate/28cov_CA0/28cov_CA0-articleLarge.jpg",
+          "xlargeheight": 380
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/02/28/realestate/28cov_CA0/28cov_CA0-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/02/28/realestate/28cov_CA0/28cov_CA0-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "The Psychology of Moving",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Boxed In",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Housing and Real Estate",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Psychology and Psychologists",
+        "rank": 2,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-02-26T23:17:44+0000",
+    "document_type": "article",
+    "new_desk": "RealEstate",
+    "byline": {
+      "original": "By SARAH KERSHAW",
+      "person": [
+        {
+          "firstname": "Sarah",
+          "middlename": null,
+          "lastname": "KERSHAW",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "544348d338f0d8246e88cfc6",
+    "word_count": 1708,
+    "score": 1.0,
+    "uri": "nyt://article/5c9b8831-e904-5b0b-974d-ebb9def44e1a"
+  }
+]

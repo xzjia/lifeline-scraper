@@ -1,0 +1,107 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2008/01/01/sports/ncaafootball/01araton.html",
+    "snippet": "Just so the Michigan faithful have been forewarned: your new model coach is not of the traditional Lloyd Carr cloth, having already cut and run from the place he once called home.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/01/01/sports/01araton.1.75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2008/01/01/sports/01araton.1.75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": "thumbStandard"
+      },
+      {
+        "rank": 0,
+        "subtype": "articleInline",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/01/01/sports/01araton.1.190.jpg",
+        "height": 240,
+        "width": 190,
+        "legacy": {},
+        "subType": "articleInline",
+        "crop_name": "articleInline"
+      }
+    ],
+    "headline": {
+      "main": "Michigan Will Miss Carr When He\u2019s Gone",
+      "kicker": "Sports of The Times",
+      "content_kicker": "Sports of The Times",
+      "print_headline": "Michigan Will Miss Carr When He\u2019s Gone",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Carr, Lloyd",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "University of Michigan",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Football",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "College Athletics",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Rodriguez, Rich (1963- )",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2008-01-01T05:00:00+0000",
+    "document_type": "article",
+    "new_desk": "Sports",
+    "section_name": "College Football",
+    "byline": {
+      "original": "By HARVEY ARATON",
+      "person": [
+        {
+          "firstname": "Harvey",
+          "middlename": null,
+          "lastname": "ARATON",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "547c587238f0d813efccbfd9",
+    "word_count": 869,
+    "score": 1.0,
+    "uri": "nyt://article/0c5d134b-a06d-535c-9092-d418033dfe4a"
+  }
+]

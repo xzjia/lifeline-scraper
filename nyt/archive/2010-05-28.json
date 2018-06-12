@@ -1,0 +1,126 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2010/05/29/us/29spill.html",
+    "snippet": "Amid mixed messages about problems and progress, officials said they would continue for another 48 hours before considering other options.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/05/29/us/29govs_1/29govs_1-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2010/05/29/us/29govs_1/29govs_1-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/05/29/us/29govs_1/29govs_1-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/05/29/us/29govs_1/29govs_1-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "BP Engineers Making Little Headway on Leaking Well",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Little Headway Is Made in Gulf As BP Struggles to Halt Oil Leak",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Offshore Drilling and Exploration",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "BP Plc",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Gulf of Mexico",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Oil (Petroleum) and Gasoline",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Accidents and Safety",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Obama, Barack",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-05-28T12:19:41+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "byline": {
+      "original": "By CLIFFORD KRAUSS and JACKIE CALMES",
+      "person": [
+        {
+          "firstname": "Clifford",
+          "middlename": null,
+          "lastname": "KRAUSS",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Jackie",
+          "middlename": null,
+          "lastname": "CALMES",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5400b86a38f0d841b2f385fe",
+    "word_count": 1161,
+    "score": 1.0,
+    "uri": "nyt://article/af6afcec-9adc-5bdf-8562-57e7bfe0755b"
+  }
+]

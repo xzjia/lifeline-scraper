@@ -1,0 +1,128 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2011/05/02/business/energy-environment/02shell.html",
+    "snippet": "The Obama administration is under pressure as it weighs whether to allow Shell to drill in the Arctic.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/05/02/business/shell/shell-articleLarge.jpg",
+        "height": 315,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2011/05/02/business/shell/shell-articleLarge.jpg",
+          "xlargeheight": 315
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/05/02/business/shell/shell-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2011/05/02/business/shell/shell-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/05/02/business/shell/shell-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/05/02/business/shell/shell-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Shell Tries to Calm Fears on Drilling in Alaska",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Gulf Spill Casts Shadow Over Shell Plans in Alaska",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Alaska",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Royal Dutch Shell Plc",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Oil (Petroleum) and Gasoline",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Offshore Drilling and Exploration",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Arctic Regions",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-05-01T23:00:58+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "section_name": "Energy & Environment ",
+    "byline": {
+      "original": "By CLIFFORD KRAUSS",
+      "person": [
+        {
+          "firstname": "Clifford",
+          "middlename": null,
+          "lastname": "KRAUSS",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "52b8cfe438f0d86bcb2a70ba",
+    "word_count": 1101,
+    "score": 1.0,
+    "uri": "nyt://article/04714cf2-c171-5664-8bd2-15a1a640e3a9"
+  }
+]

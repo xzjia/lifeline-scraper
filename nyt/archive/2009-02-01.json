@@ -1,0 +1,179 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2009/02/02/movies/awardsseason/02oscars.html",
+    "snippet": "Some of Hollywood\u2019s most prominent players are privately grumbling that the rituals of Oscar night have outlived any real sense of excitement about the event.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "Oscars Suspense: Will People Watch?",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Oscars Suspense: Will People Watch?",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Academy Awards (Oscars)",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Motion Pictures",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Celebrities",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Television",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-02-01T22:24:32+0000",
+    "document_type": "article",
+    "new_desk": "Culture",
+    "section_name": "Awards Season",
+    "byline": {
+      "original": "By MICHAEL CIEPLY",
+      "person": [
+        {
+          "firstname": "Michael",
+          "middlename": null,
+          "lastname": "CIEPLY",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "547258be38f0d85d607d55c9",
+    "word_count": 1249,
+    "score": 1.0,
+    "uri": "nyt://article/be8e8338-949f-5bae-b603-cdcc3eab3b82"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/02/02/world/middleeast/02iraq.html",
+    "snippet": "Prime Minister Nuri Kamal al-Maliki and secular parties scored gains in provincial elections, early reports showed.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/02/02/world/02iraq2.ms.600.jpg",
+        "height": 401,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/02/02/world/02iraq2.ms.600.jpg",
+          "xlargeheight": 401
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/02/02/world/02iraq2.ms.75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/02/02/world/02iraq2.ms.75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Secular Parties and Premier Lead in Iraq",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Secular Parties And Premier Ahead in Iraq",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Iraq",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Elections",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Maliki, Nuri Kamal al-",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Politics and Government",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Election Results",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-02-01T19:45:32+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Middle East",
+    "byline": {
+      "original": "By ALISSA J. RUBIN",
+      "person": [
+        {
+          "firstname": "Alissa",
+          "middlename": "J.",
+          "lastname": "RUBIN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "547258a638f0d85d607d55c7",
+    "word_count": 1131,
+    "score": 1.0,
+    "uri": "nyt://article/0a75d24a-c1b0-54d4-9137-eec71138db7d"
+  }
+]

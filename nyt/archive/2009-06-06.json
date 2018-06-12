@@ -1,0 +1,859 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2009/06/07/world/europe/07russia.html",
+    "snippet": "Sergei Kanev, a bold journalist, says that only by facing the truth can Russians retake their country.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/06/07/world/07russia.600.jpg",
+        "height": 333,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/06/07/world/07russia.600.jpg",
+          "xlargeheight": 333
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/06/07/world/07russia_75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/06/07/world/07russia_75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Moscow Crime Reporter, Facing His Obituary Daily",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "A Moscow Reporter, Facing His Obituary Daily",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Russia",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "News and News Media",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Freedom of the Press",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Freedom and Human Rights",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-06-06T15:57:06+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Europe",
+    "byline": {
+      "original": "By ELLEN BARRY",
+      "person": [
+        {
+          "firstname": "Ellen",
+          "middlename": null,
+          "lastname": "BARRY",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "54529f9638f0d81b603eccd5",
+    "word_count": 1287,
+    "score": 1.0,
+    "uri": "nyt://article/59e10ffa-bf70-59c2-ae7a-466553ade01c"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/06/07/nyregion/07law.html",
+    "snippet": "Big, as a business model at many of New York\u2019s corporate law firms, seems bound for obsolescence.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/06/07/nyregion/07law.span.jpg",
+        "height": 384,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/06/07/nyregion/07law.span.jpg",
+          "xlargeheight": 384
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/06/07/nyregion/07law.75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/06/07/nyregion/07law.75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "A Study in Why Major Law Firms Are Shrinking",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Bleak Day at The Bar",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Layoffs and Job Reductions",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Legal Profession",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Economy",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "White & Case",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Wall Street (NYC)",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-06-06T00:37:36+0000",
+    "document_type": "article",
+    "new_desk": "Metro",
+    "byline": {
+      "original": "By ALAN FEUER",
+      "person": [
+        {
+          "firstname": "Alan",
+          "middlename": null,
+          "lastname": "FEUER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5452931638f0d81b603ecbad",
+    "word_count": 2478,
+    "score": 1.0,
+    "uri": "nyt://article/495943f7-2640-5e3d-8874-82c6a85082e6"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/06/07/fashion/07planb.html",
+    "snippet": "A reporter tries out three \u201cdream\u201d Plan B careers, so you don\u2019t have to.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/06/05/fashion/07planb_600.jpg",
+        "height": 200,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/06/05/fashion/07planb_600.jpg",
+          "xlargeheight": 200
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/06/05/fashion/07planb_75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/06/05/fashion/07planb_75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "What\u2019s Your Backup Plan?",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "What\u2019s Your Backup Plan?",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Economic Conditions and Trends",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Layoffs and Job Reductions",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Dogs",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Massage",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Truffles",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-06-06T01:10:34+0000",
+    "document_type": "article",
+    "new_desk": "Styles",
+    "byline": {
+      "original": "By ALEX WILLIAMS",
+      "person": [
+        {
+          "firstname": "Alex",
+          "middlename": null,
+          "lastname": "WILLIAMS",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5452937338f0d81b603ecbb6",
+    "word_count": 1958,
+    "score": 1.0,
+    "uri": "nyt://article/17176b61-a7ac-5475-8da7-e9c06ede93f6"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/06/07/us/politics/07policy.html",
+    "snippet": "President Obama is preparing a push for legislation that will include speeches, town-hall-style meetings and much deeper engagement with lawmakers, officials say.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "Obama to Forge a Greater Role on Health Care",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Obama to Forge a Greater Role on Health Care",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Obama, Barack",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Health Insurance and Managed Care",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Reform and Reorganization",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Senate",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Politics and Government",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-06-06T18:14:30+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "section_name": "Politics",
+    "byline": {
+      "original": "By SHERYL GAY STOLBERG",
+      "person": [
+        {
+          "firstname": "Sheryl",
+          "middlename": "Gay",
+          "lastname": "STOLBERG",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "54529e4438f0d81b603eccae",
+    "word_count": 1233,
+    "score": 1.0,
+    "uri": "nyt://article/d30de94a-1651-5f0c-814d-608c1d856c83"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/06/06/us/politics/06gitmo.html",
+    "snippet": "The Obama administration is considering a change in the law for Guant\u00e1namo military commissions that could let prosecutors avoid trials that would air details of interrogation techniques.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/06/06/us/gitmo_600.jpg",
+        "height": 352,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/06/06/us/gitmo_600.jpg",
+          "xlargeheight": 352
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/06/06/us/gitmo_75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/06/06/us/gitmo_75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "U.S. May Permit 9/11 Guilty Pleas in Capital Cases",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "U.S. MAY PERMIT 9/11 GUILTY PLEAS IN CAPITAL CASES",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Military Commissions Act",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Obama, Barack",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Detainees",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Interrogations",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Politics and Government",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Terrorism",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Central Intelligence Agency",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Guantanamo Bay Naval Base (Cuba)",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "September 11 (2001)",
+        "rank": 9,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-06-06T00:54:33+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "section_name": "Politics",
+    "byline": {
+      "original": "By WILLIAM GLABERSON",
+      "person": [
+        {
+          "firstname": "William",
+          "middlename": null,
+          "lastname": "GLABERSON",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5452998538f0d81b603ecc40",
+    "word_count": 1102,
+    "score": 1.0,
+    "uri": "nyt://article/3456cee9-815f-5a15-aa60-d7c1de67e0dd"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/06/06/technology/06digital.html",
+    "snippet": "Despite government efforts to promote the switch to digital signals and a delay of four months in the schedule, three million homes are unprepared.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/06/06/business/06digital.xlarge1.jpg",
+        "height": 360,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/06/06/business/06digital.xlarge1.jpg",
+          "xlargeheight": 360
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/06/06/business/06digital.751.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/06/06/business/06digital.751.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Millions Face Blank Screens in TV Switch",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Millions Face Blank Screens In TV Switch",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Digital Television Transition",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Digital and High-Definition Television",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Television",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Television Sets",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Americorps",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Federal Communications Commission",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Politics and Government",
+        "rank": 7,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-06-06T01:23:24+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By STEPHEN LABATON",
+      "person": [
+        {
+          "firstname": "Stephen",
+          "middlename": null,
+          "lastname": "LABATON",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "54529b5538f0d81b603ecc68",
+    "word_count": 1142,
+    "score": 1.0,
+    "uri": "nyt://article/8b606f9c-004c-55d4-bd3b-76a0fa380118"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/06/06/us/06blago.html",
+    "snippet": "Patricia Blagojevich, best known for her foul-mouthed tirades captured on federal wiretaps of her husband, is part of the cast on a new NBC reality series.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/06/06/us/blaggo_75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/06/06/us/blaggo_75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "A Blagojevich Tries Reality TV",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "After Bit Part in Legal Drama, A Blagojevich Tries Reality TV",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Blagojevich, Patricia",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Blagojevich, Rod R",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Television",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Politics and Government",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Chicago (Ill)",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Reality Television",
+        "rank": 7,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-06-06T02:14:58+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "byline": {
+      "original": "By SUSAN SAULNY",
+      "person": [
+        {
+          "firstname": "Susan",
+          "middlename": null,
+          "lastname": "SAULNY",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "54529c7638f0d81b603ecc7d",
+    "word_count": 989,
+    "score": 1.0,
+    "uri": "nyt://article/d3f2d672-72e2-5fc8-a4ef-a8db7c2b12b4"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/06/07/us/politics/07affirm.html",
+    "snippet": "Judge Sonia Sotomayor and Justice Clarence Thomas have walked parallel paths, but they stand at opposite poles of thinking about race, identity and opportunity.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/06/07/us/07affirm.span.jpg",
+        "height": 250,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/06/07/us/07affirm.span.jpg",
+          "xlargeheight": 250
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "For Sotomayor and Thomas, Paths Diverge at Race",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "For Sotomayor and Thomas, Paths Fork at Race and Identity",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Sotomayor, Sonia",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Supreme Court",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Thomas, Clarence",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Race",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Appointments and Executive Changes",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Minorities",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Affirmative Action",
+        "rank": 7,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-06-06T16:05:59+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "section_name": "Politics",
+    "byline": {
+      "original": "By JODI KANTOR and DAVID GONZALEZ",
+      "person": [
+        {
+          "firstname": "Jodi",
+          "middlename": null,
+          "lastname": "KANTOR",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "David",
+          "middlename": null,
+          "lastname": "GONZALEZ",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "54529fbd38f0d81b603eccd8",
+    "word_count": 2101,
+    "score": 1.0,
+    "uri": "nyt://article/49f18a27-963a-5318-971d-d94b917dc1cf"
+  }
+]

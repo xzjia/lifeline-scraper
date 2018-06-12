@@ -1,0 +1,787 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2011/09/10/business/global/a-top-ecb-official-to-resign.html",
+    "snippet": "The departure of J\u00fcrgen Stark, described as the European Central Bank\u2019s chief economist, brought the discord over the response to Europe\u2019s sovereign debt crisis into full view.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/09/10/business/ECB/ECB-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/09/10/business/ECB/ECB-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "A Setback for the Euro Zone",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "A Setback for the Euro Zone: Central Bank Resignation Reveals A Widening Split on the Debt Crisis",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "European Sovereign Debt Crisis (2010- )",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "European Central Bank",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Suspensions, Dismissals and Resignations",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "European Union",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-09-09T14:14:14+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "section_name": "Global Business",
+    "byline": {
+      "original": "By JACK EWING AND NICHOLAS KULISH",
+      "person": [
+        {
+          "firstname": "Jack",
+          "middlename": null,
+          "lastname": "EWING",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Nicholas",
+          "middlename": null,
+          "lastname": "KULISH",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5400d33438f0d841b2f38fe2",
+    "word_count": 1038,
+    "score": 1.0,
+    "uri": "nyt://article/a9e08bcf-fa57-5b97-bf5d-f7548ca8b058"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/09/10/business/economy/in-the-real-world-will-the-jobs-plan-make-a-difference.html",
+    "snippet": "The dismal economy is the main reason many companies aren\u2019t hiring, and few executives think President Obama\u2019s plan will change that.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/09/10/us/JP-JOBS-1/JP-JOBS-1-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/09/10/us/JP-JOBS-1/JP-JOBS-1-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Employers Say Jobs Plan Won\u2019t Lead to Hiring Spur",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Employers Say Jobs Plan Won\u2019t Lead to Hiring Spur",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Labor and Jobs",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Obama, Barack",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Economy",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Politics and Government",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-09-09T18:15:02+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "section_name": "Economy",
+    "byline": {
+      "original": "By MOTOKO RICH",
+      "person": [
+        {
+          "firstname": "Motoko",
+          "middlename": null,
+          "lastname": "RICH",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5400d4d238f0d841b2f39005",
+    "word_count": 1428,
+    "score": 1.0,
+    "uri": "nyt://article/25a8fb9d-ed8d-5bac-835f-c849f3b63f3c"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/09/09/nyregion/omitting-clergy-from-911-ceremony-prompts-protest.html",
+    "snippet": "Ten years after the Sept. 11 attacks, any consensus that existed about the appropriate role of religion in public ceremonies marking a monumental American trauma has fallen apart.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "Omitting Clergy at 9/11 Ceremony Prompts Protest",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Omitting Clergy At 9/11 Ceremony Prompts Protest",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "September 11 (2001)",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Clergy",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Christians and Christianity",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Washington National Cathedral",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Evangelical Movement",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Bloomberg, Michael R",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "New York City",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Washington (DC)",
+        "rank": 8,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-09-09T00:54:53+0000",
+    "document_type": "article",
+    "new_desk": "Metro",
+    "byline": {
+      "original": "By LAURIE GOODSTEIN",
+      "person": [
+        {
+          "firstname": "Laurie",
+          "middlename": null,
+          "lastname": "GOODSTEIN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5400d04b38f0d841b2f38faa",
+    "word_count": 991,
+    "score": 1.0,
+    "uri": "nyt://article/80d7a052-0ae5-5352-82ef-57e329325d7f"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/09/09/us/politics/09social.html",
+    "snippet": "Republicans and Democrats are no longer fighting over whether to tackle the popular entitlement programs \u2014 Medicare, Medicaid and Social Security \u2014 but how to do it.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "A Bipartisan Move to Tackle Benefits Programs",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "A Bipartisan Move to Tackle Benefits Programs",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Medicare",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Social Security (US)",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Politics and Government",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Presidential Election of 2012",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Perry, Rick",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Obama, Barack",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Republican Party",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Democratic Party",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Economy",
+        "rank": 9,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-09-09T02:02:12+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "section_name": "Politics",
+    "byline": {
+      "original": "By JACKIE CALMES and ROBERT PEAR",
+      "person": [
+        {
+          "firstname": "Jackie",
+          "middlename": null,
+          "lastname": "CALMES",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Robert",
+          "middlename": null,
+          "lastname": "PEAR",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5400d0fe38f0d841b2f38fb9",
+    "word_count": 1147,
+    "score": 1.0,
+    "uri": "nyt://article/b48356a6-4c55-52b9-bf80-aa47a5958bf3"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/09/11/arts/dance/paul-mccartneys-ocean-kingdom-at-city-ballet.html",
+    "snippet": "Paul McCartney and Peter Martins\u2019s new ballet, \u201cOcean\u2019s Kingdom,\u201d will have its debut at City Ballet later this month.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/09/11/arts/11McCARTNEY1_SPAN/11JPSUBMcCARTNEY1-articleLarge.jpg",
+        "height": 360,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2011/09/11/arts/11McCARTNEY1_SPAN/11JPSUBMcCARTNEY1-articleLarge.jpg",
+          "xlargeheight": 360
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/09/11/arts/11McCARTNEY1_SPAN/11JPSUBMcCARTNEY1-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/09/11/arts/11McCARTNEY1_SPAN/11JPSUBMcCARTNEY1-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Hands-On Brand Name Composer For a Ballet",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Hands-On Brand Name Composer For a Ballet",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Dancing",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "McCartney, Paul",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Music",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "New York City Ballet",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Mearns, Sara",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "McCartney, Stella",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Martins, Peter",
+        "rank": 7,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-09-09T14:24:09+0000",
+    "document_type": "article",
+    "new_desk": "Arts&Leisure",
+    "section_name": "Dance",
+    "byline": {
+      "original": "By JON PARELES",
+      "person": [
+        {
+          "firstname": "Jon",
+          "middlename": null,
+          "lastname": "PARELES",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5400c5dc38f0d841b2f38e4f",
+    "word_count": 1928,
+    "score": 1.0,
+    "uri": "nyt://article/57abad3b-7c2b-517a-b90c-aea6a95d23ac"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/09/11/realestate/combine-and-conquer-your-place-and-mine.html",
+    "snippet": "More New Yorkers are selling their apartments jointly with a neighbor\u2019s apartment, as potential combinations and at a higher price.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/09/11/realestate/11COVER_SPAN/11COVER_SPAN-articleLarge.jpg",
+        "height": 230,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2011/09/11/realestate/11COVER_SPAN/11COVER_SPAN-articleLarge.jpg",
+          "xlargeheight": 230
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/09/11/realestate/11COVER_SPAN/11COVER_SPAN-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/09/11/realestate/11COVER_SPAN/11COVER_SPAN-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Combine and Conquer: Your Place and Mine",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Combine And Conquer: Your Place And Mine",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "New York City",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Real Estate and Housing (Residential)",
+        "rank": 2,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-09-09T15:59:03+0000",
+    "document_type": "article",
+    "new_desk": "RealEstate",
+    "byline": {
+      "original": "By VIVIAN S. TOY",
+      "person": [
+        {
+          "firstname": "Vivian",
+          "middlename": "S.",
+          "lastname": "TOY",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5400ca9238f0d841b2f38f4d",
+    "word_count": 2307,
+    "score": 1.0,
+    "uri": "nyt://article/952be40f-7f47-5208-b2df-05f03c445523"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/09/09/sports/normalcy-is-deceiving-for-linwood-nj-after-death-of-football-players.html",
+    "snippet": "The Mainland Regional High School football team in New Jersey is preparing for its season opener while dealing with the deaths of four players.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/09/09/sports/Coach/Coach-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/09/09/sports/Coach/Coach-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "For High School Team, a Loss That Goes Beyond Any Game",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "For High School Team, a Loss That Goes Beyond Any Game",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "New Jersey",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Football",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Interscholastic Athletics",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Traffic Accidents and Safety",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Deaths (Fatalities)",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Linwood (NJ)",
+        "rank": 8,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-09-09T03:09:44+0000",
+    "document_type": "article",
+    "new_desk": "Sports",
+    "byline": {
+      "original": "By HARVEY ARATON",
+      "person": [
+        {
+          "firstname": "Harvey",
+          "middlename": null,
+          "lastname": "ARATON",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "53f3a84638f0d857ea2d04f9",
+    "word_count": 1416,
+    "score": 1.0,
+    "uri": "nyt://article/fff90826-3700-5420-9714-cf766b022c29"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/09/11/fashion/for-only-the-authentic-cultural-studies.html",
+    "snippet": "The word \u201cauthentic\u201d is being uttered everywhere and perhaps losing its original meaning, joining the ranks of \u201cawesome.\u201d",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/09/11/fashion/11CULTURAL_SPAN/11CULTURAL_SPAN-articleLarge.jpg",
+        "height": 255,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2011/09/11/fashion/11CULTURAL_SPAN/11CULTURAL_SPAN-articleLarge.jpg",
+          "xlargeheight": 255
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/09/11/fashion/11CULTURAL_SPAN/11CULTURAL_SPAN-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/09/11/fashion/11CULTURAL_SPAN/11CULTURAL_SPAN-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Authentic? Get Real",
+      "kicker": "Cultural Studies",
+      "content_kicker": "Cultural Studies",
+      "print_headline": "Authentic? Get Real",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Social Conditions and Trends",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Celebrities",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "English Language",
+        "rank": 3,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-09-09T20:26:12+0000",
+    "document_type": "article",
+    "new_desk": "Styles",
+    "byline": {
+      "original": "By STEPHANIE ROSENBLOOM",
+      "person": [
+        {
+          "firstname": "Stephanie",
+          "middlename": null,
+          "lastname": "ROSENBLOOM",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5400d51538f0d841b2f3900b",
+    "word_count": 1004,
+    "score": 1.0,
+    "uri": "nyt://article/89157188-7b72-5f60-afe0-1c79f04af11e"
+  }
+]

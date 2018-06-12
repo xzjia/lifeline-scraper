@@ -1,0 +1,367 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2009/05/13/nyregion/13crash.html",
+    "snippet": "The transcript from the crash in February that killed 50 people included a conversation that violated protocol.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "Pilots Chatted in Moments Before Buffalo Crash",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Hearing Suggests Inattention by Pilots Before Buffalo Crash",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "organizations",
+        "value": "Continental Airlines Inc",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Airlines and Airplanes",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Accidents and Safety",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Clarence Center (NY)",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "National Transportation Safety Board",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-05-12T20:46:14+0000",
+    "document_type": "article",
+    "new_desk": "Metro",
+    "byline": {
+      "original": "By MATTHEW L. WALD",
+      "person": [
+        {
+          "firstname": "Matthew",
+          "middlename": "L.",
+          "lastname": "WALD",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "546a877d38f0d84ca2c5c430",
+    "word_count": 1061,
+    "score": 1.0,
+    "uri": "nyt://article/ed102b40-18ac-55e3-b9cc-3bb0987c5d71"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/05/13/us/politics/13health.html",
+    "snippet": "The Medicare hospital insurance trust fund may be depleted by 2017 and Social Security reserves gone by 2037, a new report from trustees says.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/05/12/us/politics/20090513-health-graphic2.gif",
+        "height": 285,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/05/12/us/politics/20090513-health-graphic2.gif",
+          "xlargeheight": 285
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Recession Drains Social Security and Medicare",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Recession Erodes 2 Largest Funds In U.S. Safety Net",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "United States Economy",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Medicare",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Social Security (US)",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Finances",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Obama, Barack",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Health Insurance and Managed Care",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Recession and Depression",
+        "rank": 7,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-05-12T19:40:25+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "section_name": "Politics",
+    "byline": {
+      "original": "By ROBERT PEAR",
+      "person": [
+        {
+          "firstname": "Robert",
+          "middlename": null,
+          "lastname": "PEAR",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "546a88da38f0d84ca2c5c610",
+    "word_count": 863,
+    "score": 1.0,
+    "uri": "nyt://article/388c0a26-a249-59f0-8cd5-5c2147b3d51c"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/05/12/technology/internet/12digital.html",
+    "snippet": "E-reader technology is making it easier to obtain and distribute copyrighted material on the Web for free.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/05/12/business/12digital01-75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/05/12/business/12digital01-75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Print Books Are Target of Pirates on the Web",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Print Books Are Target Of Pirates On the Web",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Books and Literature",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Copyrights",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Computers and the Internet",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Electronic Books and Readers",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-05-12T00:48:03+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "section_name": "Internet",
+    "byline": {
+      "original": "By MOTOKO RICH",
+      "person": [
+        {
+          "firstname": "Motoko",
+          "middlename": null,
+          "lastname": "RICH",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5456d82f38f0d86ef22a0d35",
+    "word_count": 1040,
+    "score": 1.0,
+    "uri": "nyt://article/6fc1ab44-92bc-5128-a4bc-6bfab61e1469"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/05/13/dining/13local.html",
+    "snippet": "Corporate food executives are turning to the concept of \u201clocal food\u201d to sell products, embracing a broad interpretation of what eating locally means.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/05/13/dining/13local600.1.jpg",
+        "height": 331,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/05/13/dining/13local600.1.jpg",
+          "xlargeheight": 331
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/05/13/dining/13local75.1.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/05/13/dining/13local75.1.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "When \u2018Local\u2019 Makes It Big",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "When \u2018Local\u2019 Makes It Big",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Local Food",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Advertising and Marketing",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Food",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Frito-Lay Inc",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-05-12T22:26:32+0000",
+    "document_type": "article",
+    "new_desk": "Dining",
+    "byline": {
+      "original": "By KIM SEVERSON",
+      "person": [
+        {
+          "firstname": "Kim",
+          "middlename": null,
+          "lastname": "SEVERSON",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "546a87cd38f0d84ca2c5c4c1",
+    "word_count": 1238,
+    "score": 1.0,
+    "uri": "nyt://article/4d8c8520-d510-5956-b64f-6e001375c302"
+  }
+]

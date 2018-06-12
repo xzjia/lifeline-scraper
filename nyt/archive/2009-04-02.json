@@ -1,0 +1,478 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2009/04/02/nyregion/02comp.html",
+    "snippet": "Nearly a century after the workers\u2019 compensation system was introduced, employers and employees remain at odds.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/04/02/nyregion/02comp_xl.jpg",
+        "height": 330,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/04/02/nyregion/02comp_xl.jpg",
+          "xlargeheight": 330
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/04/02/nyregion/02comp_75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/04/02/nyregion/02comp_75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "In Workplace Injury System, Ill Will on All Sides",
+      "kicker": "A World of Hurt",
+      "content_kicker": "A World of Hurt",
+      "print_headline": "System to Resolve Workplace Injury Leaves Ill Will on All Sides",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Workers' Compensation Insurance",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "New York State",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Labor",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Medicine and Health",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-04-02T01:55:20+0000",
+    "document_type": "article",
+    "new_desk": "Metro",
+    "byline": {
+      "original": "By STEVEN GREENHOUSE",
+      "person": [
+        {
+          "firstname": "Steven",
+          "middlename": null,
+          "lastname": "GREENHOUSE",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "Series",
+    "_id": "546912f238f0d8317bec08e4",
+    "word_count": 3212,
+    "score": 1.0,
+    "uri": "nyt://article/2c125e5e-6cbb-51ad-ab33-ff4eaf3d2429"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/04/03/arts/design/03stadia.html",
+    "snippet": "The new homes of the Yankees and Mets, both major upgrades over their predecessors, subtly reflect the character of the franchises that built them.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/04/02/arts/02yankees_600.jpg",
+        "height": 348,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/04/02/arts/02yankees_600.jpg",
+          "xlargeheight": 348
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/04/02/arts/02yankees_75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/04/02/arts/02yankees_75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Two New Baseball Palaces, One Stoic, One Scrappy",
+      "kicker": "Architecture Review",
+      "content_kicker": "Architecture Review",
+      "print_headline": "One Stoic, the Other Scrappy, 2 Baseball Palaces Nod to Past",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Yankee Stadium (NYC)",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Citi Field (NYC)",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Baseball",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "New York City",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "New York Yankees",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Stadiums and Arenas",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "New York Mets",
+        "rank": 7,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-04-02T21:39:35+0000",
+    "document_type": "article",
+    "new_desk": "Culture",
+    "section_name": "Art & Design",
+    "byline": {
+      "original": "By NICOLAI OUROUSSOFF",
+      "person": [
+        {
+          "firstname": "Nicolai",
+          "middlename": null,
+          "lastname": "OUROUSSOFF",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "Review",
+    "_id": "546914f938f0d8317bec091f",
+    "word_count": 1101,
+    "score": 1.0,
+    "uri": "nyt://article/c15fed20-cde8-5592-b929-24bc18c085dc"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/04/03/world/europe/03summit.html",
+    "snippet": "President Obama conceded that there were \u201cno guarantees\u201d that the measures proposed by the Group of 20 would reverse the global downturn.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/04/03/world/03summit01-600.jpg",
+        "height": 320,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/04/03/world/03summit01-600.jpg",
+          "xlargeheight": 320
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "World Leaders Pledge $1.1 Trillion for Crisis",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "World Leaders Pledge $1.1 Trillion to Tackle Crisis",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Obama, Barack",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Group of Twenty",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Subprime Mortgage Crisis",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Economic Conditions and Trends",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "International Monetary Fund",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "International Trade and World Market",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Regulation and Deregulation of Industry",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Summit Conferences",
+        "rank": 8,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-04-02T07:38:45+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Europe",
+    "byline": {
+      "original": "By MARK LANDLER and DAVID E. SANGER",
+      "person": [
+        {
+          "firstname": "Mark",
+          "middlename": null,
+          "lastname": "LANDLER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "David",
+          "middlename": "E.",
+          "lastname": "SANGER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5469142a38f0d8317bec0906",
+    "word_count": 1239,
+    "score": 1.0,
+    "uri": "nyt://article/8852f8dc-5d58-5436-8e4a-1ff2e4e736c6"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/04/02/us/politics/02scott.html",
+    "snippet": "Some conservatives think Richard L. Scott, who in 1997 was ousted from Columbia/HCA, isn\u2019t an ideal spokesman.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/04/02/us/02scott.span.jpg",
+        "height": 311,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/04/02/us/02scott.span.jpg",
+          "xlargeheight": 311
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/04/02/us/02scott.75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/04/02/us/02scott.75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Health Critic Brings a Past and a Wallet",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Health Critic Brings a Past And a Wallet",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Scott, Richard L",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Frauds and Swindling",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Health Insurance and Managed Care",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Political Advertising",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Medicine and Health",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Reform and Reorganization",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Politics and Government",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Suspensions, Dismissals and Resignations",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Obama, Barack",
+        "rank": 10,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-04-02T02:06:35+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "section_name": "Politics",
+    "byline": {
+      "original": "By JIM RUTENBERG",
+      "person": [
+        {
+          "firstname": "Jim",
+          "middlename": null,
+          "lastname": "RUTENBERG",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5469131638f0d8317bec08e8",
+    "word_count": 1238,
+    "score": 1.0,
+    "uri": "nyt://article/ef447834-b098-5e44-a397-8b7d26c832a1"
+  }
+]

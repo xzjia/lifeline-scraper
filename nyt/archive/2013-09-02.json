@@ -1,0 +1,155 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2013/09/02/us/drug-agents-use-vast-phone-trove-eclipsing-nsas.html",
+    "snippet": "The scale and longevity of a data storage program run by the government in partnership with AT&T was unmatched by other government programs, including the National Security Agency\u2019s gathering of phone call logs.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/09/02/us/jp-DATABASE-2/jp-DATABASE-2-articleLarge.jpg",
+        "height": 400,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2013/09/02/us/jp-DATABASE-2/jp-DATABASE-2-articleLarge.jpg",
+          "xlargeheight": 400
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/09/02/us/jp-DATABASE-2/jp-DATABASE-2-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2013/09/02/us/jp-DATABASE-2/jp-DATABASE-2-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/09/02/us/jp-DATABASE-2/jp-DATABASE-2-thumbStandard-v2.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2013/09/02/us/jp-DATABASE-2/jp-DATABASE-2-thumbStandard-v2.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Drug Agents Use Vast Phone Trove, Eclipsing N.S.A.\u2019s",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Drug Agents Use Vast Phone Trove, Eclipsing N.S.A.\u2019s",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "organizations",
+        "value": "AT&T Inc",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Drug Enforcement Administration",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Surveillance of Citizens by Government",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Telephones and Telecommunications",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Industrial Espionage",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Drug Abuse and Traffic",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "White House Office of National Drug Control Policy",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "National Security Agency",
+        "rank": 8,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2013-09-02T01:31:43+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "byline": {
+      "original": "By SCOTT SHANE and COLIN MOYNIHAN",
+      "person": [
+        {
+          "firstname": "Scott",
+          "middlename": null,
+          "lastname": "SHANE",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Colin",
+          "middlename": null,
+          "lastname": "MOYNIHAN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5223ea8138f0d8740ac9d278",
+    "word_count": 1234,
+    "score": 1.0,
+    "uri": "nyt://article/0a88df28-ebd8-54d6-9691-693a73b1b375"
+  }
+]

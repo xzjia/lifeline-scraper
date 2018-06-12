@@ -1,0 +1,201 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2010/04/16/arts/design/16public.html",
+    "snippet": "The Marina Abramovic retrospective, which features performers in the nude, has generated unwelcome behavior by visitors.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/04/15/arts/abramovic_cap/abramovic_cap-thumbStandard-v2.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/04/15/arts/abramovic_cap/abramovic_cap-thumbStandard-v2.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Some at MoMA Show Forget \u2018Look but Don\u2019t Touch\u2019",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "At MoMA Show, Some Forget You Should Not Touch the Art",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Abramovic, Marina",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Museum of Modern Art",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Art",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Nudism and Nudity",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-04-15T17:37:51+0000",
+    "document_type": "article",
+    "new_desk": "Culture",
+    "section_name": "Art & Design",
+    "byline": {
+      "original": "By CLAUDIA LA ROCCO",
+      "person": [
+        {
+          "firstname": "Claudia",
+          "middlename": null,
+          "lastname": "LA ROCCO",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5445221938f0d82782d9c8bd",
+    "word_count": 887,
+    "score": 1.0,
+    "uri": "nyt://article/d4a61a3a-02f1-5b4e-8b34-dd7085e7ffa3"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2010/04/16/world/europe/16ash.html",
+    "snippet": "The plume of ash from a volcano in Iceland forced aviation authorities to order the restrictions, affecting thousands of flights in a wide arc from Ireland to Scandinavia.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/04/16/world/16ashspan-cnd/16ashspan-cnd-articleLarge.jpg",
+        "height": 331,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2010/04/16/world/16ashspan-cnd/16ashspan-cnd-articleLarge.jpg",
+          "xlargeheight": 331
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/04/16/world/16ashspan-cnd/16ashspan-cnd-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/04/16/world/16ashspan-cnd/16ashspan-cnd-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Volcanic Ash to Curtail Air Traffic Into  Midday Friday",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Volcanic Ash Grounds Air Traffic in Northern Europe",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Volcanoes",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Airlines and Airplanes",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Iceland",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Eyjafjallajokull Volcano (Iceland)",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-04-15T07:03:22+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Europe",
+    "byline": {
+      "original": "By NICOLA CLARK and LIZ ROBBINS",
+      "person": [
+        {
+          "firstname": "Nicola",
+          "middlename": null,
+          "lastname": "CLARK",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Liz",
+          "middlename": null,
+          "lastname": "ROBBINS",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "54451f8338f0d82782d9c87e",
+    "word_count": 1153,
+    "score": 1.0,
+    "uri": "nyt://article/3d9459a7-1919-52de-9e7a-f7c9ad1ea7d5"
+  }
+]

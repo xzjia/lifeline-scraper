@@ -1,0 +1,196 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2010/06/18/us/18assess.html",
+    "snippet": "With President Obama\u2019s successful move to force BP to establish a $20 billion fund, he has reinvigorated a debate about the reach of government power.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/06/18/us/18assess01/18assess01-articleLarge.jpg",
+        "height": 320,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2010/06/18/us/18assess01/18assess01-articleLarge.jpg",
+          "xlargeheight": 320
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/06/18/us/18assess01/18assess01-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/06/18/us/18assess01/18assess01-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Twisting Arms at BP, Obama Sets Off a Debate on Tactics",
+      "kicker": "News Analysis",
+      "content_kicker": "News Analysis",
+      "print_headline": "Strong Steps Or Oversteps?",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Oil (Petroleum) and Gasoline",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "BP Plc",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Offshore Drilling and Exploration",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Accidents and Safety",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Obama, Barack",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Gulf of Mexico",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-06-18T01:32:44+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "byline": {
+      "original": "By DAVID E. SANGER",
+      "person": [
+        {
+          "firstname": "David",
+          "middlename": "E.",
+          "lastname": "SANGER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News Analysis",
+    "_id": "54179c3638f0d851fd3a834b",
+    "word_count": 1137,
+    "score": 1.0,
+    "uri": "nyt://article/ebc4b820-16af-5e5c-b1cc-31d5aaea9929"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2010/06/18/us/politics/18ads.html",
+    "snippet": "Democrats are seeking to rein in special interests, but as they struggle to pass the bill, they are also carving out loopholes for, yes, special interests.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "Loopholes Grow in Bill to Offset Ruling on Campaigns ",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Loopholes Grow In Bill to Temper Campaign Ruling",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Campaign Finance",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Law and Legislation",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "National Rifle Assn",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Lobbying and Lobbyists",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Political Advertising",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "House of Representatives",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-06-18T01:23:52+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "section_name": "Politics",
+    "byline": {
+      "original": "By CARL HULSE",
+      "person": [
+        {
+          "firstname": "Carl",
+          "middlename": null,
+          "lastname": "HULSE",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "54179c7338f0d851fd3a8352",
+    "word_count": 1098,
+    "score": 1.0,
+    "uri": "nyt://article/a5abc6ef-b7d8-561a-9bec-3199a89ff94a"
+  }
+]

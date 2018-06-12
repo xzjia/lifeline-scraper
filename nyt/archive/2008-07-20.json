@@ -1,0 +1,225 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2008/07/20/realestate/20COV.html",
+    "snippet": "Some New Yorkers rent their apartments and houses to film crews for between $500 to $10,000 a day.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/07/20/realestate/20lights01_600.jpg",
+        "height": 280,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2008/07/20/realestate/20lights01_600.jpg",
+          "xlargeheight": 280
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/07/20/realestate/20lights01_75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2008/07/20/realestate/20lights01_75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Lights! Camera! Ka-Ching!",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Lights! Camera! Ka-Ching!",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Motion Pictures",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Renting and Leasing",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "New York City",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Television",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Housing",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2008-07-20T04:00:00+0000",
+    "document_type": "article",
+    "new_desk": "RealEstate",
+    "byline": {
+      "original": "By VIVIAN S. TOY",
+      "person": [
+        {
+          "firstname": "Vivian",
+          "middlename": "S.",
+          "lastname": "TOY",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "548318ee38f0d8403d9cd78e",
+    "word_count": 2056,
+    "score": 1.0,
+    "uri": "nyt://article/a21c9fcf-eb30-53e6-b31f-f10f81d631b9"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2008/07/20/business/20debt.html",
+    "snippet": "Practices that produced record profits for many banks have led millions of Americans to the brink.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/07/20/business/20debt75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "wide": "images/2008/07/20/business/20debt75.jpg",
+          "widewidth": 75,
+          "wideheight": 75
+        },
+        "subType": "wide",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Given a Shovel, Americans Dig Deeper Into Debt",
+      "kicker": "The Debt Trap",
+      "content_kicker": "The Debt Trap",
+      "print_headline": "Given a Shovel, Digging Deeper Into Debt",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Personal Finances",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Credit and Money Cards",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Mortgages",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Credit",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Finances",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Foreclosures",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Bankruptcies",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Capital One Financial Corp",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "GE Capital Corp",
+        "rank": 9,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2008-07-20T04:00:00+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By GRETCHEN MORGENSON",
+      "person": [
+        {
+          "firstname": "Gretchen",
+          "middlename": null,
+          "lastname": "MORGENSON",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "51ed5e5938f0d8431a75a91d",
+    "word_count": 3252,
+    "score": 1.0,
+    "uri": "nyt://article/0df3b412-8e29-5932-a520-a48d15161eb2"
+  }
+]

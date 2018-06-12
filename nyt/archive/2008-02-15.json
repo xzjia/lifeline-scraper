@@ -1,0 +1,120 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2008/02/15/us/15shoot.html",
+    "snippet": "Friday\u2019s classes were canceled at Northern Illinois University after a gunman went into a lecture hall on Thursday and killed six students and himself. Fifteen other students were wounded.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/02/15/us/15illi.ms.600.jpg",
+        "height": 350,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2008/02/15/us/15illi.ms.600.jpg",
+          "xlargeheight": 350
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/02/15/us/15illi.ms.75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2008/02/15/us/15illi.ms.75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Gunman Slays 6 at N. Illinois University",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Gunman Slays Five in Illinois At a University",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "organizations",
+        "value": "Northern Illinois University",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Murders and Attempted Murders",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Police",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Education and Schools",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Colleges and Universities",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2008-02-15T05:00:00+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "byline": {
+      "original": "By  SUSAN SAULNY and MONICA DAVEY",
+      "person": [
+        {
+          "firstname": "Susan",
+          "middlename": null,
+          "lastname": "SAULNY",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Monica",
+          "middlename": null,
+          "lastname": "DAVEY",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "54047d0c38f0d80e250f4e26",
+    "word_count": 1163,
+    "score": 1.0,
+    "uri": "nyt://article/2f37fd06-de14-5c38-a016-c30056c300a8"
+  }
+]

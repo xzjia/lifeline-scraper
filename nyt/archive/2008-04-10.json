@@ -1,0 +1,371 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2008/04/10/us/10names.html",
+    "snippet": "Why do so many feel a connection \u2014 be it kinship or competition \u2014 just because they share a name?",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/04/10/us/10name01-600.jpg",
+        "height": 280,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2008/04/10/us/10name01-600.jpg",
+          "xlargeheight": 280
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/04/10/us/10name01-75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2008/04/10/us/10name01-75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Names That Match Forge a Bond on the Internet",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Googling Me and Finding You: Names That Match Forge a Bond",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Computers and the Internet",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Names, Personal",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Google Inc",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Facebook.com",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2008-04-10T04:00:00+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "byline": {
+      "original": "By STEPHANIE ROSENBLOOM",
+      "person": [
+        {
+          "firstname": "Stephanie",
+          "middlename": null,
+          "lastname": "ROSENBLOOM",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "547c323938f0d813efccbcb6",
+    "word_count": 1401,
+    "score": 1.0,
+    "uri": "nyt://article/7f28a9ce-940a-50cf-8115-a77f2fbaa114"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2008/04/10/health/nutrition/10BEST.html",
+    "snippet": "For some activities, a monitor may help you reach your goal. Or it may distract you.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/04/09/fashion/10best600.1.jpg",
+        "height": 300,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2008/04/09/fashion/10best600.1.jpg",
+          "xlargeheight": 300
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/04/09/fashion/10best75.1.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2008/04/09/fashion/10best75.1.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "The Flutter Over Heart Rate",
+      "kicker": "Personal Best",
+      "content_kicker": "Personal Best",
+      "print_headline": "The Flutter Over Heart Rate",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Heart",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Health Clubs",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Bicycles and Bicycling",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Medicine and Health",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Exercise",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2008-04-10T04:00:00+0000",
+    "document_type": "article",
+    "new_desk": "Styles",
+    "section_name": "Fitness & Nutrition",
+    "byline": {
+      "original": "By GINA KOLATA",
+      "person": [
+        {
+          "firstname": "Gina",
+          "middlename": null,
+          "lastname": "KOLATA",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "54800a9f38f0d8281628840c",
+    "word_count": 1281,
+    "score": 1.0,
+    "uri": "nyt://article/f6077567-5ef1-5c7d-8df8-a73fc0bba1c0"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2008/04/10/health/10scan.html",
+    "snippet": "As doctors learn to interpret digital mammograms, they are more likely to request second tests.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/04/09/health/mammogram600.jpg",
+        "height": 424,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2008/04/09/health/mammogram600.jpg",
+          "xlargeheight": 424
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "In Shift to Digital, More Repeat Mammograms",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Sharper Digital Breast Exams Can Add Anxiety",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Mammography",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Breast",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Cancer",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "X-Rays",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Medicine and Health",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Women",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2008-04-10T04:00:00+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "byline": {
+      "original": "By DENISE GRADY",
+      "person": [
+        {
+          "firstname": "Denise",
+          "middlename": null,
+          "lastname": "GRADY",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "548014fc38f0d828162884f4",
+    "word_count": 1564,
+    "score": 1.0,
+    "uri": "nyt://article/4f4c4ae3-2d0e-51fa-b752-923c18d2e002"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2008/04/10/education/10gifted.html",
+    "snippet": "A change in the rules allocating seats in New York City School\u2019s gifted programs will allow more children to qualify.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "Broader Rule Sought to Pick Gifted Pupils",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Broader Rule Sought to Pick Gifted Pupils",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Gifted Students",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "New York City",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Education and Schools",
+        "rank": 3,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2008-04-10T04:00:00+0000",
+    "document_type": "article",
+    "new_desk": "Metro",
+    "byline": {
+      "original": "By ELISSA GOOTMAN",
+      "person": [
+        {
+          "firstname": "Elissa",
+          "middlename": null,
+          "lastname": "GOOTMAN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "54801c1138f0d8281628859e",
+    "word_count": 699,
+    "score": 1.0,
+    "uri": "nyt://article/8295c448-9708-5a3b-9f4a-6da0a14a0106"
+  }
+]

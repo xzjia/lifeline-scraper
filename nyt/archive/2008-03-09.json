@@ -1,0 +1,105 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2008/03/09/sports/ncaabasketball/09duke.html",
+    "snippet": "No. 1 North Carolina beat No. 6 Duke, 76-68, in a finish that will no doubt be added to the list of highlight-reel games that have marked this series.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/03/09/sports/09nc.xlarge1.jpg",
+        "height": 350,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2008/03/09/sports/09nc.xlarge1.jpg",
+          "xlargeheight": 350
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/03/09/sports/09nc.751.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2008/03/09/sports/09nc.751.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "North Carolina Pulls Away From Duke",
+      "kicker": "No. 1 North Carolina 76, No. 6 Duke 68",
+      "content_kicker": "No. 1 North Carolina 76, No. 6 Duke 68",
+      "print_headline": "Tar Heels Top Duke And Claim A.C.C. Title",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "NCAA Basketball Tournament",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Basketball",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "University of North Carolina",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Duke University",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2008-03-09T05:00:00+0000",
+    "document_type": "article",
+    "new_desk": "Sports",
+    "section_name": "College Basketball",
+    "byline": {
+      "original": "By VIV BERNSTEIN",
+      "person": [
+        {
+          "firstname": "Viv",
+          "middlename": null,
+          "lastname": "BERNSTEIN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "547ee91f38f0d84a61c0f4b5",
+    "word_count": 773,
+    "score": 1.0,
+    "uri": "nyt://article/b3e4200a-ce96-5d0d-b85f-e9090720fd15"
+  }
+]

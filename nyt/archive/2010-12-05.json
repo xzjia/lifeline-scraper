@@ -1,0 +1,272 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2010/12/06/world/middleeast/06wikileaks-financing.html",
+    "snippet": "American officials say that millions of dollars are going to extremist groups and that some Middle East allies are not helping to stop it.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/12/06/world/06financing-web1/06financing-web1-articleLarge.jpg",
+        "height": 315,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2010/12/06/world/06financing-web1/06financing-web1-articleLarge.jpg",
+          "xlargeheight": 315
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/12/06/world/06financing-web1/06financing-web1-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2010/12/06/world/06financing-web1/06financing-web1-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Cash Flow to Terrorists Evades U.S. Efforts",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "STATE'S SECRETS | DAY 8; Cash Flow to Terrorists Evades U.S. Efforts",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Middle East",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Wikileaks",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "State Department",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States International Relations",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Terrorism",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Classified Information and State Secrets",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Finances",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Clinton, Hillary Rodham",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Yemen",
+        "rank": 9,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Saudi Arabia",
+        "rank": 10,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-12-05T11:59:27+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Middle East",
+    "byline": {
+      "original": "By ERIC LICHTBLAU and ERIC SCHMITT",
+      "person": [
+        {
+          "firstname": "Eric",
+          "middlename": null,
+          "lastname": "LICHTBLAU",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Eric",
+          "middlename": null,
+          "lastname": "SCHMITT",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5421f58438f0d83c6e5b77bf",
+    "word_count": 1802,
+    "score": 1.0,
+    "uri": "nyt://article/3ec054c7-8643-55a3-a8ad-c1175d2a2012"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2010/12/05/us/05bully.html",
+    "snippet": "Parents trying to protect their children from Internet bullying are scrambling to catch up with the technology.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/12/05/fashion/Cyberbully-1/Cyberbully-1-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/12/05/fashion/Cyberbully-1/Cyberbully-1-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "As Bullies Go Digital, Parents Play Catch-Up",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "POISONED WEB; As Bullies Go Digital, Parents Play Catch-Up",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Bullies",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Children and Youth",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Families and Family Life",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Computers and the Internet",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Text Messaging",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Parenting",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Social Networking (Internet)",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Teenagers and Adolescence",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Police",
+        "rank": 9,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Facebook.com",
+        "rank": 10,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-12-05T02:38:36+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "byline": {
+      "original": "By JAN HOFFMAN",
+      "person": [
+        {
+          "firstname": "Jan",
+          "middlename": null,
+          "lastname": "HOFFMAN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "540c26eb38f0d85e13e4d02b",
+    "word_count": 4085,
+    "score": 1.0,
+    "uri": "nyt://article/dd11ab54-df3b-58bc-8dce-b73b0ce610ce"
+  }
+]

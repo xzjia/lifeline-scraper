@@ -1,0 +1,192 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2008/06/30/washington/30tribal.html",
+    "snippet": "American accommodation to Pakistan\u2019s government and a shift away from counterterrorism efforts to preparations for the war in Iraq helped make Pakistan a haven for Al Qaeda.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/06/30/world/30tribal-spanA1-600.jpg",
+        "height": 349,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2008/06/30/world/30tribal-spanA1-600.jpg",
+          "xlargeheight": 349
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/06/30/world/30tribal-spanA1-75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2008/06/30/world/30tribal-spanA1-75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Amid U.S. Policy Disputes, Qaeda Grows in Pakistan",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Amid U.S. Policy Disputes, Qaeda Grows in Pakistan",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Pakistan",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Al Qaeda",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Tribes and Tribalism",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Terrorism",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Armament and Defense",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Musharraf, Pervez",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Bush, George W",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Tenet, George J",
+        "rank": 9,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Powell, Colin L",
+        "rank": 10,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Rumsfeld, Donald H",
+        "rank": 11,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Bin Laden, Osama",
+        "rank": 12,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Defense Department",
+        "rank": 13,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Central Intelligence Agency",
+        "rank": 14,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Taliban",
+        "rank": 15,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Waziristan (Pakistan)",
+        "rank": 16,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "North-West Frontier Province (Pakistan)",
+        "rank": 17,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Afghanistan",
+        "rank": 18,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2008-06-30T04:00:00+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "byline": {
+      "original": "By MARK MAZZETTI and DAVID ROHDE",
+      "person": [
+        {
+          "firstname": "Mark",
+          "middlename": null,
+          "lastname": "MAZZETTI",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "David",
+          "middlename": null,
+          "lastname": "ROHDE",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5476537138f0d8392490190a",
+    "word_count": 3881,
+    "score": 1.0,
+    "uri": "nyt://article/71dbe029-901f-524f-94c1-8b820ba128b5"
+  }
+]

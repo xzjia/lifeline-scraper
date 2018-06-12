@@ -1,0 +1,106 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2010/06/06/us/politics/06paul.html",
+    "snippet": "While Ron Paul\u2019s views produced a family of like-minded thinkers, they inspired Rand to follow his father\u2019s path.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/06/06/us/06paul/06paul-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/06/06/us/06paul/06paul-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "For Paul Family, Libertarian Ethos Began at Home",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Few Rules, No Curfew: The Pauls\u2019 Libertarianism Began at Home",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Paul, Ron",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Paul, Rand",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Texas",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "House of Representatives",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Senate",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Kentucky",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Politics and Government",
+        "rank": 7,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-06-05T16:05:22+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "section_name": "Politics",
+    "byline": {
+      "original": "By MARK LEIBOVICH",
+      "person": [
+        {
+          "firstname": "Mark",
+          "middlename": null,
+          "lastname": "LEIBOVICH",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "54172b5c38f0d851fd3a7904",
+    "word_count": 1509,
+    "score": 1.0,
+    "uri": "nyt://article/269187ea-ce2d-5daa-a1d0-5b062e93bf86"
+  }
+]

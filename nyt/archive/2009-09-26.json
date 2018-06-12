@@ -1,0 +1,523 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2009/09/27/us/27mothers.html",
+    "snippet": "The U.S. military has in large part adapted to women fighting successfully alongside men. Motherhood, though, poses a more formidable challenge.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/09/27/us/mothers.5755.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/09/27/us/mothers.5755.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Wartime Soldier, Conflicted Mom",
+      "kicker": "Women at Arms",
+      "content_kicker": "Women at Arms",
+      "print_headline": "Wartime Soldier, Conflicted Mom",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Women and Girls",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Defense and Military Forces",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Parenting",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Iraq War (2003- )",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Afghanistan War (2001- )",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Families and Family Life",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Children and Youth",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "United States Army",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Stress (Human)",
+        "rank": 9,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-09-26T20:30:40+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "byline": {
+      "original": "By LIZETTE ALVAREZ",
+      "person": [
+        {
+          "firstname": "Lizette",
+          "middlename": null,
+          "lastname": "ALVAREZ",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "Series",
+    "_id": "5400bb8838f0d841b2f387de",
+    "word_count": 2432,
+    "score": 1.0,
+    "uri": "nyt://article/8c29633a-16dc-538c-8672-e95c44dba46e"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/09/27/science/earth/27waste.html",
+    "snippet": "Exporting waste illegally to poor countries is now a vast business, as companies try to reduce the costs of environmental laws.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/09/26/world/trash.7575.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/09/26/world/trash.7575.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Smuggling Europe\u2019s Waste to Poorer Countries",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Smuggling Europe\u2019s Waste to Poorer Countries",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "International Trade and World Market",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Waste Materials and Disposal",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Hazardous and Toxic Substances",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Environment",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Europe",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Rotterdam (Netherlands)",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Smuggling",
+        "rank": 7,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-09-26T16:51:22+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Environment",
+    "byline": {
+      "original": "By ELISABETH ROSENTHAL",
+      "person": [
+        {
+          "firstname": "Elisabeth",
+          "middlename": null,
+          "lastname": "ROSENTHAL",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "54569f1338f0d86ef22a083d",
+    "word_count": 1212,
+    "score": 1.0,
+    "uri": "nyt://article/e7d20e72-1b0b-53bd-ba29-139d5ffe76d1"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/09/27/world/middleeast/27nuke.html",
+    "snippet": "The Obama administration plans to tell Iran this week that it must soon open a newly revealed nuclear enrichment site to international inspectors, according to senior officials.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/09/26/world/iran.7575.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/09/26/world/iran.7575.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "U.S. to Demand Inspection of New Iran Plant \u2018Within Weeks\u2019",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "U.S. WILL DEMAND EARLY INSPECTION OF NEW IRAN SITE",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Iran",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Ahmadinejad, Mahmoud",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Nuclear Weapons",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Embargoes and Economic Sanctions",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "United Nations",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "International Atomic Energy Agency",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Obama, Barack",
+        "rank": 7,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-09-26T09:17:23+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Middle East",
+    "byline": {
+      "original": "By DAVID E. SANGER and WILLIAM J. BROAD",
+      "person": [
+        {
+          "firstname": "David",
+          "middlename": "E.",
+          "lastname": "SANGER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "William",
+          "middlename": "J.",
+          "lastname": "BROAD",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "54569de338f0d86ef22a0822",
+    "word_count": 1410,
+    "score": 1.0,
+    "uri": "nyt://article/c441aa88-f3a9-5cf7-9375-0a6a98422a51"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/09/26/us/politics/26activist.html",
+    "snippet": "Americans for Limited Government, a conservative advocacy group, is demonstrating how valuable it can be to have a well-defined enemy.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/09/26/us/activist600.jpg",
+        "height": 348,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/09/26/us/activist600.jpg",
+          "xlargeheight": 348
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/09/26/us/activist75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/09/26/us/activist75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "A Critic Finds Obama Policies a Perfect Target",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "A Critic Finds Obama Policies A Perfect Target",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Conservatism (US Politics)",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Politics and Government",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Obama, Barack",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-09-26T01:52:25+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "section_name": "Politics",
+    "byline": {
+      "original": "By SCOTT SHANE",
+      "person": [
+        {
+          "firstname": "Scott",
+          "middlename": null,
+          "lastname": "SHANE",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "54569afe38f0d86ef22a07e0",
+    "word_count": 1181,
+    "score": 1.0,
+    "uri": "nyt://article/d56ece78-621a-5b7b-ac37-0dd93d7d7447"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/09/26/health/26contracept.html",
+    "snippet": "Critics say Yaz and Yasmin, the top-selling birth control line in the U.S., pose greater health risks to women.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/09/26/business/26contracept.600.jpg",
+        "height": 356,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/09/26/business/26contracept.600.jpg",
+          "xlargeheight": 356
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Health Concerns Over Popular Contraceptives",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Health Concerns Over Popular Contraceptives",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "organizations",
+        "value": "Bayer AG",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Birth Control and Family Planning",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Drugs (Pharmaceuticals)",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Suits and Litigation",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Advertising and Marketing",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-09-26T01:21:41+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By NATASHA SINGER",
+      "person": [
+        {
+          "firstname": "Natasha",
+          "middlename": null,
+          "lastname": "SINGER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "54569a9b38f0d86ef22a07d7",
+    "word_count": 1499,
+    "score": 1.0,
+    "uri": "nyt://article/9eddf02f-c38d-5617-8e8e-a1d85759fa3b"
+  }
+]

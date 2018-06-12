@@ -1,0 +1,209 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2011/03/16/world/africa/16libya.html",
+    "snippet": "Forces loyal to Col. Muammar el-Qaddafi routed insurgents in Ajdabiya, their last defensive line before the rebel capital of Benghazi.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/03/16/world/16libya2_cnd/16libya2_cnd-articleLarge.jpg",
+        "height": 330,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2011/03/16/world/16libya2_cnd/16libya2_cnd-articleLarge.jpg",
+          "xlargeheight": 330
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/03/16/world/16libya2_cnd/16libya2_cnd-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/03/16/world/16libya2_cnd/16libya2_cnd-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Libyan Forces Rout Rebels as West\u2019s Effort for No-Flight Zone Stalls",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Qaddafi Forces Routing Rebels",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Libya",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Middle East and North Africa Unrest (2010- )",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "International Relations",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Qaddafi, Muammar el-",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "No-Fly Zones",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States International Relations",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-03-15T08:02:51+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Africa",
+    "byline": {
+      "original": "By ANTHONY SHADID",
+      "person": [
+        {
+          "firstname": "Anthony",
+          "middlename": null,
+          "lastname": "SHADID",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "52b8972338f0d86bcb2a655c",
+    "word_count": 1404,
+    "score": 1.0,
+    "uri": "nyt://article/e9b9d0fe-36ef-56f0-b1a7-c175efb27720"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/03/15/business/media/15libraries.html",
+    "snippet": "As librarians push for access to more e-books, publishers are reconsidering how much that access should be worth.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/03/15/business/Libraries1/Libraries1-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/03/15/business/Libraries1/Libraries1-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Publisher Limits Shelf Life for Library E-Books",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Library E-Books Live Longer, So Publisher Limits Shelf Life",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Libraries and Librarians",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Electronic Books and Readers",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Book Trade and Publishing",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "HarperCollins Publishers",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Random House",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-03-15T01:48:55+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "section_name": "Media",
+    "byline": {
+      "original": "By JULIE BOSMAN",
+      "person": [
+        {
+          "firstname": "Julie",
+          "middlename": null,
+          "lastname": "BOSMAN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "540bbdb038f0d85e13e4c97c",
+    "word_count": 1146,
+    "score": 1.0,
+    "uri": "nyt://article/48493a04-c488-5150-9558-d579b078cfd7"
+  }
+]

@@ -1,0 +1,171 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2008/10/23/business/23hedge.html",
+    "snippet": "Hedge funds, the fast money that defined an era on Wall Street, are in the throes of an unprecedented shakeout.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "Investors Flee as Hedge Fund Woes Deepen",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Hedge Funds\u2019 Steep Fall Sends Investors Fleeing",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Hedge Funds",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Subprime Mortgage Crisis",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Stocks and Bonds",
+        "rank": 3,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2008-10-23T02:04:22+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By LOUISE STORY",
+      "person": [
+        {
+          "firstname": "Louise",
+          "middlename": null,
+          "lastname": "STORY",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "54794c6738f0d86bf592f319",
+    "word_count": 1220,
+    "score": 1.0,
+    "uri": "nyt://article/df0f4982-bef6-509b-8acf-92c3ea27d85f"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2008/10/23/business/economy/23paulson.html",
+    "snippet": "In an interview, Treasury Secretary Henry M. Paulson Jr. said Lehman Brothers could not have been rescued.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/10/23/business/23paulson.75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2008/10/23/business/23paulson.75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Struggling to Keep Up as the Crisis Raced On",
+      "kicker": "The Reckoning",
+      "content_kicker": "The Reckoning",
+      "print_headline": "Running a Step Behind as a Crisis Raged",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Paulson, Henry M Jr",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Treasury Department",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Subprime Mortgage Crisis",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Emergency Economic Stabilization Act (2008)",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Lehman Brothers Holdings Inc",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Politics and Government",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2008-10-23T01:54:40+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "section_name": "Economy",
+    "byline": {
+      "original": "By JOE NOCERA  and EDMUND L. ANDREWS",
+      "person": [
+        {
+          "firstname": "Joe",
+          "middlename": null,
+          "lastname": "NOCERA",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Edmund",
+          "middlename": "L.",
+          "lastname": "ANDREWS",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "Series",
+    "_id": "54794cc238f0d86bf592f321",
+    "word_count": 2578,
+    "score": 1.0,
+    "uri": "nyt://article/f329af38-4b4f-5da9-a02a-e5c4ab5ef8fb"
+  }
+]

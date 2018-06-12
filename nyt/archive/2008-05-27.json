@@ -1,0 +1,134 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2008/05/27/nyregion/27crops.html",
+    "snippet": "For some farmers in western New York, adapting to crackdowns on unauthorized immigrant laborers has meant making changes that cannot be easily reversed.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/05/27/nyregion/27crops1.600.jpg",
+        "height": 360,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2008/05/27/nyregion/27crops1.600.jpg",
+          "xlargeheight": 360
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/05/27/nyregion/27crops1.75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2008/05/27/nyregion/27crops1.75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "With Migrant Workers in Short Supply, a Farmer Looks to Machines",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Migrant Workers in Short Supply",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Agriculture",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "New York State",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Migrant and Foreign Workers",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Labor",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Immigration and Refugees",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Fruit",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Cocoa",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Cabbage",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Vegetables",
+        "rank": 9,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2008-05-27T04:00:00+0000",
+    "document_type": "article",
+    "new_desk": "Metro",
+    "byline": {
+      "original": "By JOSHUA BRUSTEIN",
+      "person": [
+        {
+          "firstname": "Joshua",
+          "middlename": null,
+          "lastname": "BRUSTEIN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5481c02138f0d874625c90ca",
+    "word_count": 1175,
+    "score": 1.0,
+    "uri": "nyt://article/05d7c726-c657-523d-b230-03657791bdfb"
+  }
+]

@@ -1,0 +1,323 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2009/01/20/world/europe/20italy.html",
+    "snippet": "Authorities are investigating groups devoted to Mafiosi.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/01/20/world/italy75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/01/20/world/italy75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "On Facebook, Sicilian Mafia Is a Hot Topic",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Good Guys in Sicilian Mafia? On Facebook, It\u2019s a Hot Topic",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Italy",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Organized Crime",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Computers and the Internet",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Facebook.com",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Riina, Salvatore",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Sicily (Italy)",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-01-20T02:43:57+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Europe",
+    "byline": {
+      "original": "By RACHEL DONADIO",
+      "person": [
+        {
+          "firstname": "Rachel",
+          "middlename": null,
+          "lastname": "DONADIO",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5471e48238f0d847c5e4375a",
+    "word_count": 943,
+    "score": 1.0,
+    "uri": "nyt://article/0b4b2658-ef91-5fa9-b007-9a6ed4a2964d"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/01/21/dining/21tele.html",
+    "snippet": "Mobile phones have become high-tech cooking tools, transforming the kitchen lives of many Americans.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/01/21/dining/21cell_span.600.jpg",
+        "height": 417,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/01/21/dining/21cell_span.600.jpg",
+          "xlargeheight": 417
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/01/21/dining/21tele.75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/01/21/dining/21tele.75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Top Kitchen Toy? The Cellphone",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Top Kitchen Toy? The Cellphone",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Cellular Telephones",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Cooking and Cookbooks",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Computers and the Internet",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Smartphones",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Recipes",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-01-20T23:55:46+0000",
+    "document_type": "article",
+    "new_desk": "Dining",
+    "byline": {
+      "original": "By JULIA MOSKIN",
+      "person": [
+        {
+          "firstname": "Julia",
+          "middlename": null,
+          "lastname": "MOSKIN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5471e9f238f0d847c5e437d0",
+    "word_count": 1677,
+    "score": 1.0,
+    "uri": "nyt://article/1435c388-ac86-5b74-ad22-55fe26a791cc"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/01/20/us/politics/20transition.html",
+    "snippet": "Barack Obama has not been shy about making decisions, but he has also sought to tap into the nation\u2019s dialogue.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/01/20/us/20inaug-600.jpg",
+        "height": 331,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/01/20/us/20inaug-600.jpg",
+          "xlargeheight": 331
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/01/20/us/20inaug-75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/01/20/us/20inaug-75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Transition Holds Clues to How Obama Will Govern",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "On Eve of History, Obama Follows Low-Key Path: In Transition, Clues to How a Leader Might Govern",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Obama, Barack",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Appointments and Executive Changes",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Politics and Government",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Politics and Government",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Democratic Party",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Podesta, John D",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-01-20T03:36:34+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "section_name": "Politics",
+    "byline": {
+      "original": "By PETER BAKER",
+      "person": [
+        {
+          "firstname": "Peter",
+          "middlename": null,
+          "lastname": "BAKER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5471e63238f0d847c5e4377d",
+    "word_count": 1389,
+    "score": 1.0,
+    "uri": "nyt://article/1dfceac3-b5f9-5dd0-9c7e-958d76288c8b"
+  }
+]

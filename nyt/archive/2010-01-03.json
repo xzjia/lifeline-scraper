@@ -1,0 +1,105 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2010/01/04/arts/television/04shore.html",
+    "snippet": "Surely MTV\u2019s new series, \u201cJersey Shore,\u201d must have some redeeming value, mustn\u2019t it? Yes, it must.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/01/04/arts/04shore_337-span/articleLarge.jpg",
+        "height": 330,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2010/01/04/arts/04shore_337-span/articleLarge.jpg",
+          "xlargeheight": 330
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/01/04/arts/04shore_337-span/thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/01/04/arts/04shore_337-span/thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Surf, Skin and Jersey. What\u2019s Not to Love?",
+      "kicker": "Television",
+      "content_kicker": "Television",
+      "print_headline": "Surf, Skin and Jersey. What\u2019s Not to Love?",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "organizations",
+        "value": "MTV Networks",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Television",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "New Jersey",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Reality Television",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-01-03T19:03:15+0000",
+    "document_type": "article",
+    "new_desk": "Culture",
+    "section_name": "Television",
+    "byline": {
+      "original": "By NEIL GENZLINGER",
+      "person": [
+        {
+          "firstname": "Neil",
+          "middlename": null,
+          "lastname": "GENZLINGER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5424618a38f0d8525e453418",
+    "word_count": 885,
+    "score": 1.0,
+    "uri": "nyt://article/a7f06f22-03e1-59fb-a5ec-53373e686a48"
+  }
+]

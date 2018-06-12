@@ -1,0 +1,333 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2009/11/28/us/politics/28crasher.html",
+    "snippet": "The disclosure that a celebrity- seeking couple who sneaked into a state dinner came face to face with the president underscored the seriousness of the security breach.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/11/28/us/28paty01/articleLarge.jpg",
+        "height": 360,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/11/28/us/28paty01/articleLarge.jpg",
+          "xlargeheight": 360
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/11/28/us/28paty01/thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/11/28/us/28paty01/thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Crashers Met Obama; Secret Service Apologizes",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Uninvited White House Guests Made It All the Way to the Top",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "organizations",
+        "value": "Secret Service",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Obama, Barack",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Salahi, Tareq",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Salahi, Michaele",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-11-27T21:01:42+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "section_name": "Politics",
+    "byline": {
+      "original": "By HELENE COOPER and BRIAN STELTER",
+      "person": [
+        {
+          "firstname": "Helene",
+          "middlename": null,
+          "lastname": "COOPER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Brian",
+          "middlename": null,
+          "lastname": "STELTER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5458f3d638f0d8086c45f046",
+    "word_count": 942,
+    "score": 1.0,
+    "uri": "nyt://article/8e0af5d6-0183-5762-a230-a1769800dac1"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/11/27/health/research/27brain.html",
+    "snippet": "Hundreds have undergone brain surgery for problems like depression, anxiety, even obesity.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/11/27/us/27brain_CA0/thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/11/27/us/27brain_CA0/thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Surgery for Mental Ills Offers Both Hope and Risk",
+      "kicker": "Brain Power",
+      "content_kicker": "Brain Power",
+      "print_headline": "Surgery for Mental Ills Offers Hope and Risk",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Obsessive-Compulsive Disorder",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Surgery and Surgeons",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Brain",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Medicine and Health",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Mental Health and Disorders",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-11-27T01:59:00+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "section_name": "Research",
+    "byline": {
+      "original": "By BENEDICT CAREY",
+      "person": [
+        {
+          "firstname": "Benedict",
+          "middlename": null,
+          "lastname": "CAREY",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "Series",
+    "_id": "5458eda138f0d8086c45efaa",
+    "word_count": 2115,
+    "score": 1.0,
+    "uri": "nyt://article/be553580-756c-5485-b8a9-1c3b5da83c14"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/11/29/fashion/29video.html",
+    "snippet": "Surprise visits home by soldiers are being caught on camera and shown on news broadcasts, YouTube and countless other Web sites. But what is the effect on children?",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/11/29/fashion/29videospan-1/articleLarge.jpg",
+        "height": 400,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/11/29/fashion/29videospan-1/articleLarge.jpg",
+          "xlargeheight": 400
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/11/29/fashion/29videospan-1/thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/11/29/fashion/29videospan-1/thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "War\u2019s Other Enduring Videos",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "War\u2019s Other Enduring Videos",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "United States Defense and Military Forces",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Families and Family Life",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Children and Youth",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Recordings and Downloads (Video)",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Emotions",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Computers and the Internet",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Afghanistan War (2001- )",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Iraq War (2003- )",
+        "rank": 8,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-11-27T20:33:37+0000",
+    "document_type": "article",
+    "new_desk": "Styles",
+    "byline": {
+      "original": "By JAN HOFFMAN",
+      "person": [
+        {
+          "firstname": "Jan",
+          "middlename": null,
+          "lastname": "HOFFMAN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5458f32f38f0d8086c45f033",
+    "word_count": 1803,
+    "score": 1.0,
+    "uri": "nyt://article/cc1166d1-1450-5c5c-8a14-7e6109a05710"
+  }
+]

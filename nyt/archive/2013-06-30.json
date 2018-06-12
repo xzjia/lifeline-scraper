@@ -1,0 +1,134 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2013/07/01/world/middleeast/egypt.html",
+    "snippet": "In an outpouring of rage against President Mohamed Morsi, a core of protesters set fire to the headquarters of Mr. Morsi\u2019s Muslim Brotherhood movement in Cairo.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/07/01/world/egypt/egypt-articleLarge.jpg",
+        "height": 392,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2013/07/01/world/egypt/egypt-articleLarge.jpg",
+          "xlargeheight": 392
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/07/01/world/egypt/egypt-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2013/07/01/world/egypt/egypt-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/07/01/world/egypt/egypt-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2013/07/01/world/egypt/egypt-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "By the Millions, Egyptians Seek Morsi\u2019s Ouster",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "By the Millions, Egyptians Seek Morsi\u2019s Ouster",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Demonstrations, Protests, and Riots",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Middle East and North Africa Unrest (2010- )",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Muslim Brotherhood (Egypt)",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Morsi, Mohamed",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Tahrir Square (Cairo)",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Egypt",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2013-06-30T14:20:40+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Middle East",
+    "byline": {
+      "original": "By DAVID D. KIRKPATRICK, KAREEM FAHIM and BEN HUBBARD",
+      "person": [
+        {
+          "firstname": "David",
+          "middlename": null,
+          "lastname": null,
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "51d03eba7e0d9c0839d2d280",
+    "word_count": 1406,
+    "score": 1.0,
+    "uri": "nyt://article/c526a4a3-5a57-5d7e-b0a0-6f2d33245909"
+  }
+]

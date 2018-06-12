@@ -1,0 +1,195 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2008/04/13/sports/golf/13masters.html",
+    "snippet": "Trevor Immelman birdied the 18th hole for a round of 69 that put him at 11-under-par, but Tiger Woods, who climbed to five-under par, is still in the hunt.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/04/13/sports/13masters.600.jpg",
+        "height": 350,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2008/04/13/sports/13masters.600.jpg",
+          "xlargeheight": 350
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/04/13/sports/13masters.75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2008/04/13/sports/13masters.75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Woods Refuses to Fade Away",
+      "kicker": "The Masters",
+      "content_kicker": "The Masters",
+      "print_headline": "Woods Refuses to Fade Away",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Masters Golf Tournament",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Golf",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Woods, Tiger",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Immelman, Trevor",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2008-04-13T04:00:00+0000",
+    "document_type": "article",
+    "new_desk": "Sports",
+    "section_name": "Golf",
+    "byline": {
+      "original": "By LARRY DORMAN",
+      "person": [
+        {
+          "firstname": "Larry",
+          "middlename": null,
+          "lastname": "DORMAN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "54803a1738f0d8281628885b",
+    "word_count": 981,
+    "score": 1.0,
+    "uri": "nyt://article/1d36e202-bc18-5409-8749-186cfec843ab"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2008/04/13/fashion/13flea.html",
+    "snippet": "Thousands in Brooklyn rekindle their long-lost hunter-gatherer instincts at the highly anticipated opening day of the Brooklyn Flea market.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/04/13/fashion/13flea-600.jpg",
+        "height": 369,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2008/04/13/fashion/13flea-600.jpg",
+          "xlargeheight": 369
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/04/13/fashion/13flea-75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2008/04/13/fashion/13flea-75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Scavengers on the Urban Savannah",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Scavengers On the Urban Savannah",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Flea Markets",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Brooklyn (NYC)",
+        "rank": 2,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2008-04-13T04:00:00+0000",
+    "document_type": "article",
+    "new_desk": "Styles",
+    "byline": {
+      "original": "By GUY TREBAY",
+      "person": [
+        {
+          "firstname": "Guy",
+          "middlename": null,
+          "lastname": "TREBAY",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "54802b1538f0d828162886e9",
+    "word_count": 1379,
+    "score": 1.0,
+    "uri": "nyt://article/39340c90-8ce5-571a-96e4-e422b1b2a7b7"
+  }
+]

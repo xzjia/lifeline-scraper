@@ -1,0 +1,197 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2008/08/19/world/asia/19pstan.html",
+    "snippet": "American officials must now deal with an elected coalition in Pakistan that has so far proven unwilling or incapable of confronting the Taliban insurgency.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/08/19/world/19musharraf_600.jpg",
+        "height": 310,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2008/08/19/world/19musharraf_600.jpg",
+          "xlargeheight": 310
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/08/19/world/19musharraf_75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2008/08/19/world/19musharraf_75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "In Musharraf\u2019s Wake, U.S. Faces Political Disarray",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "MUSHARRAF OUT, LEAVING FACTIONS TO VIE FOR POWER",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Pakistan",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Musharraf, Pervez",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Impeachment",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Politics and Government",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Suspensions, Dismissals and Resignations",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2008-08-18T05:45:57+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Asia Pacific",
+    "byline": {
+      "original": "By JANE PERLEZ",
+      "person": [
+        {
+          "firstname": "Jane",
+          "middlename": null,
+          "lastname": "PERLEZ",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5476edf238f0d839249026f5",
+    "word_count": 1523,
+    "score": 1.0,
+    "uri": "nyt://article/792fd742-bc2e-5f21-b87b-d697f3fe96c1"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2008/08/18/sports/olympics/18psych.html",
+    "snippet": "Many athletes who surged to worldwide glory in Beijing will soon be engulfed by the fog known as ordinary life.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "After Glory of a Lifetime, Asking \u2018What Now?\u2019",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "After Glory of a Lifetime, Asking \u2018What Now?\u2019",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Psychology and Psychologists",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Olympic Games",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Olympic Games (2008)",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Athletics and Sports",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Research",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Jenner, Bruce",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Phelps, Michael",
+        "rank": 7,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2008-08-18T05:59:21+0000",
+    "document_type": "article",
+    "new_desk": "Sports",
+    "section_name": "Olympics",
+    "byline": {
+      "original": "By BENEDICT CAREY",
+      "person": [
+        {
+          "firstname": "Benedict",
+          "middlename": null,
+          "lastname": "CAREY",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5476ed7e38f0d839249026ea",
+    "word_count": 1175,
+    "score": 1.0,
+    "uri": "nyt://article/bca588fa-ad98-5953-a2ae-09fbbd2fc555"
+  }
+]

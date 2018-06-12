@@ -1,0 +1,104 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2008/06/25/education/25gift.html",
+    "snippet": "A New York school district has revived a controversial retention practice to not only hold back nearly 12 percent of its first-graders this spring but to segregate them come fall.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/06/25/nyregion/25gift2-600.jpg",
+        "height": 330,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2008/06/25/nyregion/25gift2-600.jpg",
+          "xlargeheight": 330
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/06/25/nyregion/25gift2-75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2008/06/25/nyregion/25gift2-75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Holding Back Young Students: Is Program a Gift or a Stigma?",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Holding Back Young Students: Is Program a Gift or a Stigma?",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Education and Schools",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Grading of Students",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Children and Youth",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "New York State",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2008-06-25T04:00:00+0000",
+    "document_type": "article",
+    "new_desk": "Metro",
+    "byline": {
+      "original": "By WINNIE HU",
+      "person": [
+        {
+          "firstname": "Winnie",
+          "middlename": null,
+          "lastname": "HU",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "54828a9638f0d8403d9cc759",
+    "word_count": 1536,
+    "score": 1.0,
+    "uri": "nyt://article/6ef304b1-55cc-530a-b42e-d6bb2124230e"
+  }
+]

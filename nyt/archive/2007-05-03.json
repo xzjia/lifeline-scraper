@@ -1,0 +1,108 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2007/05/03/business/smallbusiness/03zingerman.html",
+    "snippet": "Zingerman\u2019s in Ann Arbor, Mich., turns 25 and continues to expand its gourmet enterprise.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2007/05/03/business/03Zingerman-75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2007/05/03/business/03Zingerman-75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": "thumbStandard"
+      },
+      {
+        "rank": 0,
+        "subtype": "articleInline",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2007/05/03/business/03Zingerman-190.jpg",
+        "height": 260,
+        "width": 190,
+        "legacy": {},
+        "subType": "articleInline",
+        "crop_name": "articleInline"
+      },
+      {
+        "rank": 0,
+        "subtype": "popup",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2007/05/03/business/03Zingerman-450.jpg",
+        "height": 450,
+        "width": 300,
+        "legacy": {},
+        "subType": "popup",
+        "crop_name": "popup"
+      }
+    ],
+    "headline": {
+      "main": "A Corner Deli With International Appeal",
+      "kicker": "Small Business",
+      "content_kicker": "Small Business",
+      "print_headline": "The Corner Deli That Dared to Break Out of the Neighborhood",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Food",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Ann Arbor (Mich)",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Zingerman's Community of Businesses",
+        "rank": 3,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2007-05-03T04:00:00+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "section_name": "Entrepreneurship",
+    "byline": {
+      "original": "By MICHELINE MAYNARD",
+      "person": [
+        {
+          "firstname": "Micheline",
+          "middlename": null,
+          "lastname": "MAYNARD",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5489ab4d38f0d82a67124952",
+    "word_count": 1642,
+    "score": 1.0,
+    "uri": "nyt://article/0179586e-8dcd-58e0-973f-32fb1379e933"
+  }
+]

@@ -1,0 +1,249 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2008/12/08/world/europe/08kremlin.html",
+    "snippet": "The Kremlin is exploiting the economic crisis to establish more control over industries that it has long coveted.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/12/08/world/europe/08kremlin_span.jpg",
+        "height": 330,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2008/12/08/world/europe/08kremlin_span.jpg",
+          "xlargeheight": 330
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/12/08/world/europe/08russia.319.jpg",
+        "height": 220,
+        "width": 319,
+        "legacy": {
+          "wide": "images/2008/12/08/world/europe/08russia.319.jpg",
+          "widewidth": 319,
+          "wideheight": 220
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/12/08/world/europe/08kremlin_75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2008/12/08/world/europe/08kremlin_75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "In Hard Times, Russia Tries to Reclaim Industries",
+      "kicker": "Kremlin Rules",
+      "content_kicker": "Kremlin Rules",
+      "print_headline": "In Hard Times, Russia Moves In to Reclaim Private Industries",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Putin, Vladimir V",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Mines and Mining",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Russia",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Politics and Government",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Accidents and Safety",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Economic Conditions and Trends",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2008-12-07T23:06:57+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Europe",
+    "byline": {
+      "original": "By CLIFFORD J. LEVY",
+      "person": [
+        {
+          "firstname": "Clifford",
+          "middlename": "J.",
+          "lastname": "LEVY",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "Series",
+    "_id": "547aed0738f0d803f445c400",
+    "word_count": 1785,
+    "score": 1.0,
+    "uri": "nyt://article/665f8d6c-1bdd-5529-a059-b7f4df39a4ab"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2008/12/08/washington/08autos.html",
+    "snippet": "Congressional Democrats were drafting legislation for government control of the auto industry, including the possible creation of an oversight board.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/12/07/us/politics/07meet_75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2008/12/07/us/politics/07meet_75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Detroit Bailout Is Set to Bring on More U.S. Oversight",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Detroit Bailout Is to Bring On U.S. Oversight",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Automobiles",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Subprime Mortgage Crisis",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Regulation and Deregulation of Industry",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Economy",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Reform and Reorganization",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "General Motors Corp",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Chrysler LLC",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Ford Motor Co",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Obama, Barack",
+        "rank": 9,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2008-12-07T18:35:55+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "byline": {
+      "original": "By DAVID M. HERSZENHORN and JACKIE CALMES",
+      "person": [
+        {
+          "firstname": "David",
+          "middlename": null,
+          "lastname": null,
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5474e24c38f0d8119c6af0b4",
+    "word_count": 1077,
+    "score": 1.0,
+    "uri": "nyt://article/d8598469-68f4-54ec-9f54-b5b2d2e7dc4e"
+  }
+]

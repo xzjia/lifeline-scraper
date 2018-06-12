@@ -1,0 +1,768 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2009/02/25/washington/25troops.html",
+    "snippet": "The president was prepared to extend the timetable by three months to respond to ground commanders\u2019 concerns, officials said.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "Obama Favoring Mid-2010 Pullout in Iraq, Aides Say",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "OBAMA FAVORING MID-2010 PULLOUT IN IRAQ, AIDES SAY",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Obama, Barack",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Iraq War (2003- )",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Armament and Defense",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Afghanistan War (2001- )",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Defense Department",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Gates, Robert M",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-02-25T00:57:33+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "byline": {
+      "original": "By PETER BAKER and ELISABETH BUMILLER",
+      "person": [
+        {
+          "firstname": "Peter",
+          "middlename": null,
+          "lastname": "BAKER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Elisabeth",
+          "middlename": null,
+          "lastname": "BUMILLER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "54716b2f38f0d847c5e42cff",
+    "word_count": 842,
+    "score": 1.0,
+    "uri": "nyt://article/fcc9a02d-2e94-5094-9c9f-e30daebb2cbb"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/02/25/books/25human.html",
+    "snippet": "Questions about the importance of the liberal arts in a complex and technologically demanding world have taken on new urgency.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/02/25/books/humanities-1-600.jpg",
+        "height": 350,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/02/25/books/humanities-1-600.jpg",
+          "xlargeheight": 350
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/02/25/books/humanities-1-75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/02/25/books/humanities-1-75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "In Tough Times, the Humanities Must Justify Their Worth",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "In Tough Times, Humanities Must Justify Their Worth",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Colleges and Universities",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Humanities",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Education and Schools",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Books and Literature",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Economic Conditions and Trends",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Delbanco, Andrew",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Freeland, Richard M",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Bok, Derek",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Recession and Depression",
+        "rank": 10,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-02-25T00:41:29+0000",
+    "document_type": "article",
+    "new_desk": "Culture",
+    "byline": {
+      "original": "By PATRICIA COHEN",
+      "person": [
+        {
+          "firstname": "Patricia",
+          "middlename": null,
+          "lastname": "COHEN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5467ca8e38f0d81e5cd0ca17",
+    "word_count": 1173,
+    "score": 1.0,
+    "uri": "nyt://article/212f9739-1fd3-58b6-b956-df17d18a420e"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/02/25/us/politics/25assess.html",
+    "snippet": "The president sought to convince Americans that now is the right time for expanding aspirations.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/02/24/us/25obama5_600.JPG",
+        "height": 331,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/02/24/us/25obama5_600.JPG",
+          "xlargeheight": 331
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/02/24/us/25obama4_75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/02/24/us/25obama4_75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "In Time of Crisis, Urging Bold Action and Big Ideas",
+      "kicker": "News Analysis",
+      "content_kicker": "News Analysis",
+      "print_headline": "In Time of Crisis, Urging Bold Action and Big Ideas",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Obama, Barack",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Economy",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Politics and Government",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Speeches and Statements",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "American Recovery and Reinvestment Act (2009)",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Subprime Mortgage Crisis",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Obama Financial Stability Plan",
+        "rank": 7,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-02-25T05:08:58+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "section_name": "Politics",
+    "byline": {
+      "original": "By PETER BAKER",
+      "person": [
+        {
+          "firstname": "Peter",
+          "middlename": null,
+          "lastname": "BAKER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News Analysis",
+    "_id": "54716e9138f0d847c5e42d58",
+    "word_count": 851,
+    "score": 1.0,
+    "uri": "nyt://article/ca08f708-1e70-5a9a-8d11-93f03a85d2ed"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/02/26/garden/26primates.html",
+    "snippet": "There are many thousands of pet primates in the U.S., and their owners seem to have a remarkably consistent way of looking at them.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/02/26/garden/26primate-600.jpg",
+        "height": 346,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/02/26/garden/26primate-600.jpg",
+          "xlargeheight": 346
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/02/26/garden/26primate-75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/02/26/garden/26primate-75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "My Monkey, My Self",
+      "kicker": "Living Together",
+      "content_kicker": "Living Together",
+      "print_headline": "My Monkey, My Self",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Pets",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Monkeys and Apes",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Housing",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Animals",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Families and Family Life",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-02-25T23:16:37+0000",
+    "document_type": "article",
+    "new_desk": "Home",
+    "byline": {
+      "original": "By JOYCE WADLER",
+      "person": [
+        {
+          "firstname": "Joyce",
+          "middlename": null,
+          "lastname": "WADLER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "547173f838f0d847c5e42dcb",
+    "word_count": 3408,
+    "score": 1.0,
+    "uri": "nyt://article/ce734f0c-6181-5e5c-b361-217fb38a0828"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/02/26/health/nutrition/26food.html",
+    "snippet": "Many experts worry that some parents are becoming overzealous in efforts to engender good eating habits in children.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/02/25/fashion/26food-75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/02/25/fashion/26food-75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "What\u2019s Eating Our Kids? Fears About \u2018Bad\u2019 Foods",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "What\u2019s Eating Our Kids? Fears About \u2018Bad\u2019 Foods",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Diet and Nutrition",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Parenting",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Children and Youth",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Eating Disorders",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Psychology and Psychologists",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-02-25T22:43:47+0000",
+    "document_type": "article",
+    "new_desk": "Styles",
+    "section_name": "Fitness & Nutrition",
+    "byline": {
+      "original": "By ABBY ELLIN",
+      "person": [
+        {
+          "firstname": "Abby",
+          "middlename": null,
+          "lastname": "ELLIN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "547171ee38f0d847c5e42d9d",
+    "word_count": 1539,
+    "score": 1.0,
+    "uri": "nyt://article/7752404c-3b56-5d04-b5a1-6df5d2c6e4fb"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/02/25/business/economy/25leonhardt.html",
+    "snippet": "Americans are going to have to pay higher taxes in order to continue to field a strong military and maintain popular programs like Medicare.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/02/25/business/25leon_small.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2009/02/25/business/25leon_small.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/02/25/business/25leon_small.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "thumbnailheight": 126,
+          "thumbnail": "images/2009/02/25/business/25leon_small.jpg",
+          "thumbnailwidth": 190
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Like Having Medicare? Then Taxes Must Rise",
+      "kicker": "Economic Scene",
+      "content_kicker": "Economic Scene",
+      "print_headline": "The Upside Of Paying More Taxes",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "United States Economy",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Taxation",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Federal Budget (US)",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Politics and Government",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Obama, Barack",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Miller, Matt",
+        "rank": 7,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-02-25T02:44:50+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "section_name": "Economy",
+    "byline": {
+      "original": "By DAVID LEONHARDT",
+      "person": [
+        {
+          "firstname": "David",
+          "middlename": null,
+          "lastname": "LEONHARDT",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "54716d3838f0d847c5e42d26",
+    "word_count": 1198,
+    "score": 1.0,
+    "uri": "nyt://article/d107669e-f3be-5857-93b3-34222e88550c"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/02/26/technology/personaltech/26pogue.html",
+    "snippet": "Let\u2019s sift through some of the lesser-known projects created during Google\u2019s \u201c20 percent time.\u201d",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/02/26/technology/personaltech/pogue.1.600.jpg",
+        "height": 300,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/02/26/technology/personaltech/pogue.1.600.jpg",
+          "xlargeheight": 300
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/02/26/technology/personaltech/pogue.75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/02/26/technology/personaltech/pogue.75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Geniuses at Play, on the Job",
+      "kicker": "State of the Art",
+      "content_kicker": "State of the Art",
+      "print_headline": "Geniuses At Play, On the Job",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Computers and the Internet",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Google Inc",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Maps",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Electronic Mail",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Text Messaging",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-02-25T22:34:13+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "section_name": "Personal Tech",
+    "byline": {
+      "original": "By DAVID POGUE",
+      "person": [
+        {
+          "firstname": "David",
+          "middlename": null,
+          "lastname": "POGUE",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5471740338f0d847c5e42dcc",
+    "word_count": 1276,
+    "score": 1.0,
+    "uri": "nyt://article/12126f70-aecd-5fc5-9183-a25e984db757"
+  }
+]

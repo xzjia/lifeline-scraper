@@ -1,0 +1,305 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2008/09/24/business/24pay.html",
+    "snippet": "The stratospheric pay packages of Wall Street executives have become a lightning rod issue.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "In Bailout Furor, Wall Street Pay Becomes a Target",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "In Bailout Furor, Wall St. Pay Becomes Target for Congress",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Executive Compensation",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Economy",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Law and Legislation",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Politics and Government",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Senate",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "House of Representatives",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Stocks and Bonds",
+        "rank": 7,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2008-09-24T02:17:26+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By STEVE LOHR",
+      "person": [
+        {
+          "firstname": "Steve",
+          "middlename": null,
+          "lastname": "LOHR",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5478457338f0d854b20b2dfb",
+    "word_count": 974,
+    "score": 1.0,
+    "uri": "nyt://article/29800adf-afc2-5cfb-8175-23a913e3f1cd"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2008/09/25/world/asia/25korea.html",
+    "snippet": "The move left the country on the verge of restarting a nuclear weapons program whose shutdown was portrayed as a significant diplomatic achievement.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/09/25/world/25korea.large.jpg",
+        "height": 506,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2008/09/25/world/25korea.large.jpg",
+          "xlargeheight": 506
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "North Koreans Bar Inspectors at Nuclear Site",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "NORTH KOREANS BAR INSPECTORS AT NUCLEAR SITE",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "North Korea",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "International Atomic Energy Agency",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Atomic Weapons",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Atomic Energy",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Arms Control and Limitation and Disarmament",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2008-09-24T09:43:11+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Asia Pacific",
+    "byline": {
+      "original": "By STEVEN LEE MYERS and ELAINE SCIOLINO",
+      "person": [
+        {
+          "firstname": "Steven",
+          "middlename": "Lee",
+          "lastname": "MYERS",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Elaine",
+          "middlename": null,
+          "lastname": "SCIOLINO",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5478445338f0d854b20b2de1",
+    "word_count": 1448,
+    "score": 1.0,
+    "uri": "nyt://article/07058de4-1555-5cb0-bb34-93b00dba22aa"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2008/09/24/world/europe/24diet.html",
+    "snippet": "Associated with lower rates of heart disease and cancer, the Mediterranean diet is in retreat in its home region.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/09/24/world/24diet_600.jpg",
+        "height": 310,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2008/09/24/world/24diet_600.jpg",
+          "xlargeheight": 310
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Fast Food Hits Mediterranean; a Diet Succumbs",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Fast Food Hits Mediterranean; a Diet Succumbs",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Greece",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Diet and Nutrition",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Food",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Obesity",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Children and Youth",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Medicine and Health",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Crete (Greece)",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Weight",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Cooking and Cookbooks",
+        "rank": 9,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2008-09-24T01:42:14+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Europe",
+    "byline": {
+      "original": "By ELISABETH ROSENTHAL",
+      "person": [
+        {
+          "firstname": "Elisabeth",
+          "middlename": null,
+          "lastname": "ROSENTHAL",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5478431438f0d854b20b2dc6",
+    "word_count": 1516,
+    "score": 1.0,
+    "uri": "nyt://article/9b9d098a-2b89-58e3-be26-247a3af1694d"
+  }
+]

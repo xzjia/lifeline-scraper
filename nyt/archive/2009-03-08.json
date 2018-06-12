@@ -1,0 +1,105 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2009/03/09/world/europe/09ulster.html",
+    "snippet": "Politicians said the shootings Saturday had the earmarks of a bid by dissidents to destabilize the government.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/03/09/world/09ulster01-600.jpg",
+        "height": 320,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/03/09/world/09ulster01-600.jpg",
+          "xlargeheight": 320
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/03/09/world/09ulster01-75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/03/09/world/09ulster01-75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Irish Assault Raises Specter of Brutal Days",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Irish Assault Raises Specter Of Brutal Days",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "organizations",
+        "value": "Real IRA",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Northern Ireland",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Irish Republican Army",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Terrorism",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-03-08T23:14:23+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Europe",
+    "byline": {
+      "original": "By JOHN F. BURNS",
+      "person": [
+        {
+          "firstname": "John",
+          "middlename": "F.",
+          "lastname": "BURNS",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "546813b238f0d81e5cd0d08d",
+    "word_count": 1025,
+    "score": 1.0,
+    "uri": "nyt://article/0ff72092-8fd6-5b59-8a8f-291fe8cf49c2"
+  }
+]

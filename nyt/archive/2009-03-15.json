@@ -1,0 +1,377 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2009/03/16/world/asia/16pstan.html",
+    "snippet": "After a weekend of protests, the Pakistani government agreed to reinstate the former chief justice of the Supreme Court, a stunning concession to the opposition leader Nawaz Sharif.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/03/16/world/16pstan-600.jpg",
+        "height": 331,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/03/16/world/16pstan-600.jpg",
+          "xlargeheight": 331
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/03/16/world/16pstan-75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/03/16/world/16pstan-75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Pakistan Leader Backs Down and Reinstates Top Judge",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "PAKISTAN LEADER FORCED TO BOW TO OPPOSITION",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Pakistan",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Sharif, Nawaz",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Zardari, Asif Ali",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Chaudhry, Iftikhar Muhammad",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Politics and Government",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Courts",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-03-15T08:15:56+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Asia Pacific",
+    "byline": {
+      "original": "By JANE PERLEZ",
+      "person": [
+        {
+          "firstname": "Jane",
+          "middlename": null,
+          "lastname": "PERLEZ",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "54685a9938f0d81e5cd0d6a2",
+    "word_count": 1410,
+    "score": 1.0,
+    "uri": "nyt://article/7fa6f75b-397d-56a7-8559-6c75de4b70ee"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/03/15/sports/ncaabasketball/15bigeast.html",
+    "snippet": "The Louisville Cardinals ended the Orange\u2019s long week and won the Big East title, staking their claim to a No. 1 seed in the N.C.A.A. tournament.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/03/15/sports/15ncaa.xlarge2.jpg",
+        "height": 360,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/03/15/sports/15ncaa.xlarge2.jpg",
+          "xlargeheight": 360
+        },
+        "subType": "xlarge",
+        "crop_name": "articleLarge"
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/03/15/sports/15ncaa.752.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/03/15/sports/15ncaa.752.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": "thumbStandard"
+      },
+      {
+        "rank": 0,
+        "subtype": "popup",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/03/15/sports/15ncaa.xlarge2.jpg",
+        "height": 360,
+        "width": 600,
+        "legacy": {},
+        "subType": "popup",
+        "crop_name": "popup"
+      },
+      {
+        "rank": 0,
+        "subtype": "sfSpan",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/03/15/sports/15ncaa.3952.jpg",
+        "height": 260,
+        "width": 395,
+        "legacy": {},
+        "subType": "sfSpan",
+        "crop_name": "sfSpan"
+      }
+    ],
+    "headline": {
+      "main": "Louisville Wins Big East Title, Ending Orange\u2019s Run",
+      "kicker": "Louisville 76, Syracuse 66",
+      "content_kicker": "Louisville 76, Syracuse 66",
+      "print_headline": "Louisville Brings Syracuse to Its Knees",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "organizations",
+        "value": "University of Louisville",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Basketball",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "College Athletics",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "NCAA Basketball Tournament (Men)",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Athletics and Sports",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Syracuse University",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Tranghese, Mike",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Samuels, Samardo",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Boeheim, Jim",
+        "rank": 9,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Clark, Earl",
+        "rank": 10,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Sosa, Edgar (1988- )",
+        "rank": 11,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-03-15T04:39:04+0000",
+    "document_type": "article",
+    "new_desk": "Sports",
+    "section_name": "College Basketball",
+    "byline": {
+      "original": "By PETE THAMEL",
+      "person": [
+        {
+          "firstname": "Pete",
+          "middlename": null,
+          "lastname": "THAMEL",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5468581238f0d81e5cd0d667",
+    "word_count": 833,
+    "score": 1.0,
+    "uri": "nyt://article/d5550fdf-3c21-5e6f-9f52-b9eb21a640e6"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/03/15/business/15AIG.html",
+    "snippet": "The insurer planned to pay about $165 million in bonuses by Sunday, though some payments were reduced after the Treasury secretary intervened.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "A.I.G. Planning Huge Bonuses After $170 Billion Bailout",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "At A.I.G., Huge Bonuses After $170 Billion Bailout",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "organizations",
+        "value": "American International Group",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Bonuses",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Executive Compensation",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Treasury Department",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Subprime Mortgage Crisis",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Emergency Economic Stabilization Act (2008)",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-03-15T00:24:19+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "byline": {
+      "original": "By EDMUND L. ANDREWS and PETER BAKER",
+      "person": [
+        {
+          "firstname": "Edmund",
+          "middlename": "L.",
+          "lastname": "ANDREWS",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Peter",
+          "middlename": null,
+          "lastname": "BAKER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5468578738f0d81e5cd0d65d",
+    "word_count": 1146,
+    "score": 1.0,
+    "uri": "nyt://article/5d873b9b-2e51-589b-9d80-081fc6b5ce1b"
+  }
+]

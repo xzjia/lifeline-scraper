@@ -1,0 +1,713 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2009/04/24/health/policy/24cancer.html",
+    "snippet": "The death rate for cancer has barely changed since 1950, despite Richard M. Nixon\u2019s pledge to cure cancer in five years. Now, President Obama is making a similar vow.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/04/24/us/24cancer_600.JPG",
+        "height": 331,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/04/24/us/24cancer_600.JPG",
+          "xlargeheight": 331
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/04/24/us/24cancer_75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/04/24/us/24cancer_75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Advances Elusive in the Drive to Cure Cancer",
+      "kicker": "Forty Years\u2019 War",
+      "content_kicker": "Forty Years\u2019 War",
+      "print_headline": "In Long Drive to Cure Cancer, Advances Have Been Elusive",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Cancer",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Research",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Medicine and Health",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "United States",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "National Cancer Institute",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Breasts",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-04-24T02:25:05+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "section_name": "Money & Policy",
+    "byline": {
+      "original": "By GINA KOLATA",
+      "person": [
+        {
+          "firstname": "Gina",
+          "middlename": null,
+          "lastname": "KOLATA",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "Series",
+    "_id": "5453655338f0d81b603edec5",
+    "word_count": 1806,
+    "score": 1.0,
+    "uri": "nyt://article/fe7fae12-6b9a-574a-b213-f7879b3d7621"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/04/26/fashion/26looks.html",
+    "snippet": "Snap judgments can be wrong, but scientists say they're only natural.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/04/26/fashion/wir-boyle-75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/04/26/fashion/wir-boyle-75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Yes, Looks Do Matter",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Yes, Looks Do Matter",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Psychology and Psychologists",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Boyle, Susan",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Beauty",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-04-24T20:18:18+0000",
+    "document_type": "article",
+    "new_desk": "Styles",
+    "byline": {
+      "original": "By PAM BELLUCK",
+      "person": [
+        {
+          "firstname": "Pam",
+          "middlename": null,
+          "lastname": "BELLUCK",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5469d51638f0d8317bec1a5b",
+    "word_count": 1288,
+    "score": 1.0,
+    "uri": "nyt://article/5d262268-2492-57a5-b5cb-89bee3124493"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/04/25/world/europe/25migrants.html",
+    "snippet": "After a decade of growth that attracted workers to booming Western countries, a reversal is taking place.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/04/25/world/25migrant.large1.jpg",
+        "height": 360,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/04/25/world/25migrant.large1.jpg",
+          "xlargeheight": 360
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/04/25/world/25migrant.751.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/04/25/world/25migrant.751.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "As Jobs Die, Europe\u2019s Migrants Head Home",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "As Jobs Die, Europe\u2019s Migrants Head for Home",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Immigration and Emigration",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Migrant and Foreign Workers",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Labor",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Unemployment",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Economic Conditions and Trends",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Europe",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "European Union",
+        "rank": 7,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-04-24T23:54:13+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Europe",
+    "byline": {
+      "original": "By RACHEL DONADIO and NELSON D. SCHWARTZ",
+      "person": [
+        {
+          "firstname": "Rachel",
+          "middlename": null,
+          "lastname": "DONADIO",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Nelson",
+          "middlename": null,
+          "lastname": null,
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5469d8a438f0d8317bec1aa5",
+    "word_count": 1080,
+    "score": 1.0,
+    "uri": "nyt://article/ade53e32-7180-508d-af6b-6d6ef206fb9e"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/04/25/world/asia/25indonesia.html",
+    "snippet": "People in the world\u2019s most populous Muslim nation are punishing narrowly religious parties at the polls, going against a trend in other Islamic countries.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/04/25/world/25indonesia_xl.jpg",
+        "height": 360,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/04/25/world/25indonesia_xl.jpg",
+          "xlargeheight": 360
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/04/25/world/25indonesia_75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/04/25/world/25indonesia_75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Indonesia\u2019s Voters Retreat From Radical Islam",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Indonesia\u2019s Voters Retreat From Radical Islam",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Islam",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Politics and Government",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Indonesia",
+        "rank": 3,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-04-24T23:41:47+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Asia Pacific",
+    "byline": {
+      "original": "By NORIMITSU ONISHI",
+      "person": [
+        {
+          "firstname": "Norimitsu",
+          "middlename": null,
+          "lastname": "ONISHI",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5469d9e038f0d8317bec1ac0",
+    "word_count": 1163,
+    "score": 1.0,
+    "uri": "nyt://article/830a4112-6ea3-5ab8-8daf-b11abe4cdc40"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/04/24/business/24pensions.html",
+    "snippet": "Pension experts predict that a government takeover of the plans at G.M. and Chrysler would spur other auto companies and all types of manufacturers to abandon such benefits for competitive reasons.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "Plight of Carmakers Could Upset All Pension Plans",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Plight of Carmakers Could Upset All Pension Plans",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Automobiles",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Pensions and Retirement Plans",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Subprime Mortgage Crisis",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "General Motors Corp",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Chrysler LLC",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-04-24T02:54:44+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By MARY WILLIAMS WALSH",
+      "person": [
+        {
+          "firstname": "Mary",
+          "middlename": "Williams",
+          "lastname": "WALSH",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5469cdb238f0d8317bec199f",
+    "word_count": 1242,
+    "score": 1.0,
+    "uri": "nyt://article/3684fc09-60c4-5c36-92a9-a60a515b2f9e"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/04/25/your-money/25money.html",
+    "snippet": "With automakers facing bankruptcy, car shoppers would do well to think beyond the sticker price.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/04/25/your-money/25money.600.jpg",
+        "height": 350,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/04/25/your-money/25money.600.jpg",
+          "xlargeheight": 350
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/04/25/your-money/25money.75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/04/25/your-money/25money.75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "The Pros and Cons of Buying a Chrysler or G.M.",
+      "kicker": "Your Money",
+      "content_kicker": "Your Money",
+      "print_headline": "To Buy or Not To Buy?",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "organizations",
+        "value": "General Motors Corp",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Chrysler LLC",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Automobiles",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Subprime Mortgage Crisis",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Guarantees and Warranties",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Personal Finances",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-04-24T17:42:52+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By RON LIEBER",
+      "person": [
+        {
+          "firstname": "Ron",
+          "middlename": null,
+          "lastname": "LIEBER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5469d3ea38f0d8317bec1a42",
+    "word_count": 1239,
+    "score": 1.0,
+    "uri": "nyt://article/a76c02dd-dcae-5bbb-9593-38e68fc3227b"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/04/26/fashion/26kindle.html",
+    "snippet": "The publishing world is all caught up in weighty questions about the Kindle and other electronic books and readers.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/04/26/fashion/26kindle_600.jpg",
+        "height": 341,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/04/26/fashion/26kindle_600.jpg",
+          "xlargeheight": 341
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/04/26/fashion/26kindle_75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/04/26/fashion/26kindle_75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "With Kindle, Can You Tell It\u2019s Proust?",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "With Kindle, Can You Tell It\u2019s Proust?",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Books and Literature",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Electronic Books and Readers",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Amazon Kindle",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Book Trade",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-04-24T20:38:17+0000",
+    "document_type": "article",
+    "new_desk": "Styles",
+    "byline": {
+      "original": "By JOANNE KAUFMAN",
+      "person": [
+        {
+          "firstname": "Joanne",
+          "middlename": null,
+          "lastname": "KAUFMAN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5469d48f38f0d8317bec1a4f",
+    "word_count": 1138,
+    "score": 1.0,
+    "uri": "nyt://article/160c83ff-30a0-50ad-afb9-1d227d749542"
+  }
+]

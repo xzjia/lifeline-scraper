@@ -1,0 +1,334 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2010/07/08/world/europe/08russia.html",
+    "snippet": "A jailed Russian convicted of spying for the United States has been moved in preparation for a possible trade involving Russian spy suspects detained in the United States.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/07/08/world/08sutyagin-cnd/08sutyagin-cnd-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/07/08/world/08sutyagin-cnd/08sutyagin-cnd-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Steps Point to Possible Swap of Spy Suspects With Russia",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "U.S. AND RUSSIA DISCUSS A TRADE TO END SPY CASE",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Sutyagin, Igor",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Russia",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Espionage",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Russian Illegals Program (2010)",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "United States",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Central Intelligence Agency",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Foreign Intelligence Service (Russia)",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Prisons and Prisoners",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Classified Information and State Secrets",
+        "rank": 9,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-07-07T14:40:04+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Europe",
+    "byline": {
+      "original": "By ANDREW E. KRAMER, SCOTT SHANE and BENJAMIN WEISER",
+      "person": [
+        {
+          "firstname": "Andrew",
+          "middlename": "E.",
+          "lastname": "KRAMER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Scott",
+          "middlename": null,
+          "lastname": "SHANE",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        },
+        {
+          "firstname": "Benjamin",
+          "middlename": null,
+          "lastname": "WEISER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 3
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "541841f838f0d851fd3a924d",
+    "word_count": 1331,
+    "score": 1.0,
+    "uri": "nyt://article/cff5bdb7-f9f0-5229-8b1e-db4551be5392"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2010/07/08/technology/personaltech/08pogue.html",
+    "snippet": "A primer on social networking sites for those who don\u2019t know a Yelp from a FriendFeed.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/07/08/business/POGUE/POGUE-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/07/08/business/POGUE/POGUE-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "For Those Facebook Left Behind",
+      "kicker": "State of the Art",
+      "content_kicker": "State of the Art",
+      "print_headline": "For Those Facebook Left Behind",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Social Networking (Internet)",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Facebook.com",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Twitter",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Yelp",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Foursquare",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-07-07T21:44:40+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "section_name": "Personal Tech",
+    "byline": {
+      "original": "By DAVID POGUE",
+      "person": [
+        {
+          "firstname": "David",
+          "middlename": null,
+          "lastname": "POGUE",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5418466738f0d851fd3a92c0",
+    "word_count": 1318,
+    "score": 1.0,
+    "uri": "nyt://article/5c0dca64-036a-5064-b8ef-fd689a90ddae"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2010/07/07/business/economy/07generation.html",
+    "snippet": "In the Nicholson family, America is not delivering for a grandson as it did for his father and grandfather.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/07/07/business/07Generationsjp1/07Generationsjp1-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/07/07/business/07Generationsjp1/07Generationsjp1-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "American Dream Is Elusive for New Generation",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "A New Generation, an Elusive American Dream",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "United States Economy",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Children and Youth",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Labor and Jobs",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Hiring and Promotion",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Careers and Professions",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Recession and Depression",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Economic Conditions and Trends",
+        "rank": 7,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-07-07T01:31:15+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "section_name": "Economy",
+    "byline": {
+      "original": "By LOUIS UCHITELLE",
+      "person": [
+        {
+          "firstname": "Louis",
+          "middlename": null,
+          "lastname": "UCHITELLE",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "54183f5938f0d851fd3a920e",
+    "word_count": 2635,
+    "score": 1.0,
+    "uri": "nyt://article/9489c2a0-5dc2-5eaa-bfe7-484252b4bbb2"
+  }
+]

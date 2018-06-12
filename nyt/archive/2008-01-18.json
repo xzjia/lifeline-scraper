@@ -1,0 +1,154 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2008/01/18/health/18prostate.html",
+    "snippet": "Americans with prostate cancer are traveling abroad for a treatment that is not approved in the United States. ",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/01/18/business/18prostate.75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2008/01/18/business/18prostate.75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Despite Doubts, Cancer Therapy Draws Patients",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Despite Doubts, Cancer Therapy Draws Patients",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Prostate Gland",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Cancer",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Medicine and Health",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Mexico",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Food and Drug Administration",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2008-01-18T05:00:00+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By STEPHANIE SAUL",
+      "person": [
+        {
+          "firstname": "Stephanie",
+          "middlename": null,
+          "lastname": "SAUL",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "547cf50b38f0d822abda18fe",
+    "word_count": 1392,
+    "score": 1.0,
+    "uri": "nyt://article/e2bff5df-4b83-55ae-8689-5a5e9f110f7b"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2008/01/18/technology/18google.html",
+    "snippet": "Google will spend up to $175 million in its first round of grants and investments over the next three years, officials said.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "Google Offers a Map for Its Philanthropy",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Google\u2019s Searches Now Include Ways to Make a Better World",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "organizations",
+        "value": "Google.org",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Philanthropy",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Google Inc",
+        "rank": 3,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2008-01-18T05:00:00+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By HARRIET RUBIN",
+      "person": [
+        {
+          "firstname": "Harriet",
+          "middlename": null,
+          "lastname": "RUBIN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5474f03d38f0d8119c6af341",
+    "word_count": 1407,
+    "score": 1.0,
+    "uri": "nyt://article/5362053a-751c-5729-903d-30e72b59bee7"
+  }
+]

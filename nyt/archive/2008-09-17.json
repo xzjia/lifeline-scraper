@@ -1,0 +1,459 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2008/09/18/business/18insure.html",
+    "snippet": "A frenzied, weeklong effort to persuade banks to prop up the ailing insurance giant A.I.G. failed and the Fed decided it had no choice but to do the unthinkable: bail out A.I.G.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "Throwing a Lifeline to a Troubled Giant",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Throwing a Lifeline To a Troubled Giant",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "organizations",
+        "value": "American International Group",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Federal Reserve System",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Insurance",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Credit",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Paulson, Henry M Jr",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Bernanke, Ben S",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2008-09-17T12:29:48+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By ERIC DASH and ANDREW ROSS SORKIN",
+      "person": [
+        {
+          "firstname": "Eric",
+          "middlename": null,
+          "lastname": "DASH",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Andrew",
+          "middlename": "Ross",
+          "lastname": "SORKIN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5477ff4138f0d854b20b27f6",
+    "word_count": 1666,
+    "score": 1.0,
+    "uri": "nyt://article/5f104d64-cae0-5d07-a812-4d4baa5744c7"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2008/09/18/us/18legal.html",
+    "snippet": "A diminishing number of foreign courts seem to pay attention to the writings of the Supreme Court justices.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/09/18/us/18legal.126.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2008/09/18/us/18legal.126.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/09/18/us/18legal.75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2008/09/18/us/18legal.75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "U.S. Court Is Now Guiding Fewer Nations",
+      "kicker": "American Exception",
+      "content_kicker": "American Exception",
+      "print_headline": "U.S. Court, a Longtime Beacon, Is Now Guiding Fewer Nations",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "organizations",
+        "value": "Supreme Court",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "European Court of Human Rights",
+        "rank": 2,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2008-09-17T16:06:58+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "byline": {
+      "original": "By ADAM LIPTAK",
+      "person": [
+        {
+          "firstname": "Adam",
+          "middlename": null,
+          "lastname": "LIPTAK",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "Series",
+    "_id": "5478019838f0d854b20b2826",
+    "word_count": 2570,
+    "score": 1.0,
+    "uri": "nyt://article/62eb378b-d130-51ae-802c-cf8f1c07510b"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2008/09/18/us/politics/18poll.html",
+    "snippet": "Senator John McCain is widely viewed as a \u201ctypical Republican\u201d who would continue or expand President Bush\u2019s policies.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/09/18/us/0918-nat-webPOLLB.190.gif",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2008/09/18/us/0918-nat-webPOLLB.190.gif",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "McCain Seen as Less Likely to Bring Change, Poll Finds",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "McCain Seen as Less Likely To Bring Change, Poll Finds",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Presidential Election of 2008",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "McCain, John",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Obama, Barack",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Economy",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2008-09-17T23:11:00+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "section_name": "Politics",
+    "byline": {
+      "original": "By ROBIN TONER and ADAM NAGOURNEY",
+      "person": [
+        {
+          "firstname": "Robin",
+          "middlename": null,
+          "lastname": "TONER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Adam",
+          "middlename": null,
+          "lastname": "NAGOURNEY",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5474d78a38f0d8119c6aeec7",
+    "word_count": 1429,
+    "score": 1.0,
+    "uri": "nyt://article/daef558f-0d03-5d6b-9481-9ab0f2c8d7d2"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2008/09/17/dining/17diet.html",
+    "snippet": "Many dieters are shunning deprivation diets and instead focusing on adding seasonal vegetables, nuts, berries and other healthful foods to their plates.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/09/17/dining/17diet_75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2008/09/17/dining/17diet_75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Instead of Eating to Diet, They\u2019re Eating to Enjoy",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Instead of Eating to Diet, They\u2019re Eating to Enjoy",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Weight",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Diet and Nutrition",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Food",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Cooking and Cookbooks",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Calories",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Organic Food",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Fruit",
+        "rank": 7,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2008-09-17T01:49:30+0000",
+    "document_type": "article",
+    "new_desk": "Dining",
+    "byline": {
+      "original": "By TARA PARKER-POPE",
+      "person": [
+        {
+          "firstname": "Tara",
+          "middlename": null,
+          "lastname": "PARKER-POPE",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5477f96638f0d854b20b277a",
+    "word_count": 1234,
+    "score": 1.0,
+    "uri": "nyt://article/efcc2a4f-6b08-5a0c-80ba-d9f150c3f5ed"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2008/09/18/business/18markets.html",
+    "snippet": "The financial crisis entered a potentially dangerous new phase as investors worldwide frantically moved their money into the safest investments, like Treasury bills.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/09/17/business/18markets_75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2008/09/17/business/18markets_75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Financial Crisis Enters New Phase",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "NEW PHASE IN FINANCE CRISIS\nAS INVESTORS RUN TO SAFETY",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Stocks and Bonds",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "American International Group",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Economy",
+        "rank": 3,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2008-09-17T05:08:58+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By VIKAS BAJAJ",
+      "person": [
+        {
+          "firstname": "Vikas",
+          "middlename": null,
+          "lastname": "BAJAJ",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5477ff4738f0d854b20b27f7",
+    "word_count": 1426,
+    "score": 1.0,
+    "uri": "nyt://article/41d0e443-e962-5822-914a-94a4b3292bc1"
+  }
+]

@@ -1,0 +1,171 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2008/10/08/business/08fear.html",
+    "snippet": "The markets have become a case study in crowd psychology, experts say, as investors seem to be selling first and asking questions later.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "Forget Logic; Fear Appears to Have Edge",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Forget Logic; Fear Appears To Have Edge",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Stocks and Bonds",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Psychology and Psychologists",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Economy",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Subprime Mortgage Crisis",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2008-10-08T02:57:30+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By VIKAS BAJAJ",
+      "person": [
+        {
+          "firstname": "Vikas",
+          "middlename": null,
+          "lastname": "BAJAJ",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5478c1d538f0d86bf592e711",
+    "word_count": 1223,
+    "score": 1.0,
+    "uri": "nyt://article/a123b5fa-9cf0-58f6-8beb-a58acb0fff86"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2008/10/09/business/economy/09econ.html",
+    "snippet": "Treasury officials say the just-passed $700 billion bailout bill gives them the authority to inject cash into banks that request it.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/10/08/business/09econ5_75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2008/10/08/business/09econ5_75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "U.S. May Take Ownership Stake in Banks",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "U.S. MAY TAKE OWNERSHIP STAKE IN BANKS TO EASE CREDIT CRISIS",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "organizations",
+        "value": "Federal Reserve System",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Treasury Department",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Economy",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Subprime Mortgage Crisis",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Banks and Banking",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2008-10-08T14:42:02+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "section_name": "Economy",
+    "byline": {
+      "original": "By EDMUND L. ANDREWS  and MARK LANDLER",
+      "person": [
+        {
+          "firstname": "Edmund",
+          "middlename": "L.",
+          "lastname": "ANDREWS",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Mark",
+          "middlename": null,
+          "lastname": "LANDLER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5478c55838f0d86bf592e764",
+    "word_count": 1355,
+    "score": 1.0,
+    "uri": "nyt://article/7df620ea-dbd5-51b6-89a6-43b87ef5a1d6"
+  }
+]

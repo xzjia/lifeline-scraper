@@ -1,0 +1,597 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2011/11/09/nyregion/immigrant-entrepreneurs-succeed-without-english.html",
+    "snippet": "A small class of newcomers who arrived in the United States with nothing has, with the help of technology, become prosperous, despite speaking little or no English.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/11/09/nyregion/subimmig1/subimmig1-articleLarge.jpg",
+        "height": 350,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2011/11/09/nyregion/subimmig1/subimmig1-articleLarge.jpg",
+          "xlargeheight": 350
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/11/09/nyregion/subimmig1/subimmig1-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/11/09/nyregion/subimmig1/subimmig1-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Moving to U.S. and Amassing a Fortune, No English Needed",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Moving to U.S. And Prospering, Without English",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Entrepreneurship",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Immigration and Emigration",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "English Language",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "New York City",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Social Conditions and Trends",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-11-09T01:53:14+0000",
+    "document_type": "article",
+    "new_desk": "Metro",
+    "byline": {
+      "original": "By KIRK SEMPLE",
+      "person": [
+        {
+          "firstname": "Kirk",
+          "middlename": null,
+          "lastname": "SEMPLE",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "53e2c37b38f0d81ea91a370e",
+    "word_count": 1282,
+    "score": 1.0,
+    "uri": "nyt://article/d6d99224-cb12-5760-bee1-0e03fbcd5282"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/11/10/technology/personaltech/bracelet-tries-to-nudge-you-closer-to-good-health-state-of-the-art.html",
+    "snippet": "Jawbone offers the Up wristband, which monitors your sleep and activities and also provides a visual record of your habits.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/11/10/business/POGUE/POGUE-thumbStandard-v3.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/11/10/business/POGUE/POGUE-thumbStandard-v3.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "A Monitor of Health, Worn Lightly",
+      "kicker": "State of the Art",
+      "content_kicker": "State of the Art",
+      "print_headline": "A Monitor Of Health, Worn Lightly",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Mobile Applications",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Exercise",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Computers and the Internet",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Sleep",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-11-09T22:51:28+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "section_name": "Personal Tech",
+    "byline": {
+      "original": "By DAVID POGUE",
+      "person": [
+        {
+          "firstname": "David",
+          "middlename": null,
+          "lastname": "POGUE",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "540302a638f0d80cceb200e8",
+    "word_count": 1255,
+    "score": 1.0,
+    "uri": "nyt://article/99316d06-999f-5162-af64-38947e96fa3e"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/11/10/movies/eddie-murphy-drops-out-of-oscars-telecast.html",
+    "snippet": "Brian Grazer will produce next year\u2019s Oscar show, after the sudden departures of the ceremony\u2019s co-producer, Brett Ratner, and its host, Eddie Murphy.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/11/10/arts/10oscarweb/10oscarweb-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/11/10/arts/10oscarweb/10oscarweb-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Oscar Show Replaces Key Player After Furor",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Oscar Show Replaces Key Player After Furor",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Movies",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Academy Awards (Oscars)",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Grazer, Brian",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Murphy, Eddie",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Ratner, Brett",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-11-09T18:55:36+0000",
+    "document_type": "article",
+    "new_desk": "Culture",
+    "byline": {
+      "original": "By MICHAEL CIEPLY",
+      "person": [
+        {
+          "firstname": "Michael",
+          "middlename": null,
+          "lastname": "CIEPLY",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "51c1b7597e0d9c0839d29759",
+    "word_count": 994,
+    "score": 1.0,
+    "uri": "nyt://article/102feeca-4243-5a72-8aac-138237abc45f"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/11/09/us/politics/ohio-turns-back-a-law-limiting-unions-rights.html",
+    "snippet": "Voters in Ohio delivered their verdict on a centerpiece of the conservative legislative agenda.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/11/09/us/09ohio4/09ohio4-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/11/09/us/09ohio4/09ohio4-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Ohio Turns Back a Law Limiting Unions\u2019 Rights",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Ohio Overturns A Law Limiting Unions\u2019 Rights",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Ohio",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Elections",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Organized Labor",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Collective Bargaining",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Kasich, John R",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Politics and Government",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Presidential Election of 2012",
+        "rank": 7,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-11-09T03:03:00+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "section_name": "Politics",
+    "byline": {
+      "original": "By SABRINA TAVERNISE",
+      "person": [
+        {
+          "firstname": "Sabrina",
+          "middlename": null,
+          "lastname": "TAVERNISE",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5402f6b938f0d80cceb20075",
+    "word_count": 954,
+    "score": 1.0,
+    "uri": "nyt://article/0dc1aada-cb45-55f3-b2a4-24bf1335190a"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/11/10/sports/ncaafootball/-joe-paterno-and-graham-spanier-out-at-penn-state.html",
+    "snippet": "Amid a sexual abuse scandal, Joe Paterno, the football coach, was fired and Graham B. Spanier, the university president, was removed Wednesday night.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "Paterno Is Finished at Penn State, and President Is Out",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Paterno Ousted With President By Penn State",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Paterno, Joe",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Pennsylvania State University",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Football",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "College Athletics",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Child Abuse and Neglect",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Sex Crimes",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Football (College)",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Sandusky, Jerry",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Spanier, Graham B",
+        "rank": 9,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Colleges and Universities",
+        "rank": 10,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Suspensions, Dismissals and Resignations",
+        "rank": 11,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-11-09T16:05:07+0000",
+    "document_type": "article",
+    "new_desk": "Sports",
+    "section_name": "College Football",
+    "byline": {
+      "original": "By MARK VIERA",
+      "person": [
+        {
+          "firstname": "Mark",
+          "middlename": null,
+          "lastname": "VIERA",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "515db43ecf28d0219d003cc5",
+    "word_count": 1302,
+    "score": 1.0,
+    "uri": "nyt://article/6b12b28e-848d-5815-b3f3-0d89c88dac81"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/11/10/garden/generators-emerge-as-a-status-symbol.html",
+    "snippet": "After recent storms, generator envy ran wide and deep, defining the haves and the have-nots in many neighborhoods.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/11/10/garden/10GENERATOR1_SPAN/10GENERATOR1_SPAN-articleLarge.jpg",
+        "height": 380,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2011/11/10/garden/10GENERATOR1_SPAN/10GENERATOR1_SPAN-articleLarge.jpg",
+          "xlargeheight": 380
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/11/10/garden/10GENERATOR1_SPAN/10GENERATOR1_SPAN-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/11/10/garden/10GENERATOR1_SPAN/10GENERATOR1_SPAN-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Power Envy",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Dark With Envy",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Energy and Power",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Real Estate and Housing (Residential)",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Power Outages and Blackouts",
+        "rank": 3,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-11-09T23:27:27+0000",
+    "document_type": "article",
+    "new_desk": "Home",
+    "byline": {
+      "original": "By PENELOPE GREEN",
+      "person": [
+        {
+          "firstname": "Penelope",
+          "middlename": null,
+          "lastname": "GREEN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "51cb586d7e0d9c0839d2c73e",
+    "word_count": 1988,
+    "score": 1.0,
+    "uri": "nyt://article/257206f1-1517-5b4f-a754-41be2d260f05"
+  }
+]

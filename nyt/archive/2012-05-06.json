@@ -1,0 +1,100 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2012/05/07/world/europe/hollande-and-sarkozy-in-crucial-runoff-in-france.html",
+    "snippet": "Fran\u00e7ois Hollande became the first Socialist president of France since 1981, but his victory over Nicolas Sarkozy will also be seen as a challenge to the policy of austerity in the euro zone.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/05/07/world/europe/fraance/fraance-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2012/05/07/world/europe/fraance/fraance-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Hollande Ousts Sarkozy in French Presidential Election",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Socialist Wins French Election Against Sarkozy",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "European Sovereign Debt Crisis (2010- )",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Hollande, Francois",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Sarkozy, Nicolas",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "France",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Elections",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "National Front (France)",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2012-05-06T10:41:27+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Europe",
+    "byline": {
+      "original": "By STEVEN ERLANGER",
+      "person": [
+        {
+          "firstname": "Steven",
+          "middlename": null,
+          "lastname": "ERLANGER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "53f66fb538f0d821a37b21cc",
+    "word_count": 1433,
+    "score": 1.0,
+    "uri": "nyt://article/b262fcc3-d26c-5fac-b2f2-99e45d99a2d7"
+  }
+]

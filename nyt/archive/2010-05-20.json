@@ -1,0 +1,202 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2010/05/21/arts/television/21lost.html",
+    "snippet": "As the \u201cLost\u201d finale nears, speculation among fans about the direction and meaning of the series has become its own machine.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/05/21/arts/21lostspan-1/21lostspan-1-articleLarge.jpg",
+        "height": 343,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2010/05/21/arts/21lostspan-1/21lostspan-1-articleLarge.jpg",
+          "xlargeheight": 343
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/05/21/arts/21lostspan-1/21lostspan-1-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/05/21/arts/21lostspan-1/21lostspan-1-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "In \u2018Lost,\u2019 Mythology Trumps Mystery",
+      "kicker": "Television",
+      "content_kicker": "Television",
+      "print_headline": "In \u2018Lost,\u2019 Mythology Trumps Mystery",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Television",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "ABC Inc",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Cuse, Carlton",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Lindelof, Damon",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-05-20T19:02:12+0000",
+    "document_type": "article",
+    "new_desk": "Weekend",
+    "section_name": "Television",
+    "byline": {
+      "original": "By MIKE HALE",
+      "person": [
+        {
+          "firstname": "Mike",
+          "middlename": null,
+          "lastname": "HALE",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5446698f38f0d832c81401bc",
+    "word_count": 1179,
+    "score": 1.0,
+    "uri": "nyt://article/befb555f-77d0-5c4a-9b58-cd9b130ef08a"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2010/05/21/business/21regulate.html",
+    "snippet": "The Senate vote on Thursday puts Congress on the brink of approving a far-reaching financial regulatory bill.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/05/21/us/21regulate3_337-395/21regulate3_337-395-thumbStandard-v2.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/05/21/us/21regulate3_337-395/21regulate3_337-395-thumbStandard-v2.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Bill Passed in Senate Broadly Expands Oversight of Wall St.",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Senate, 59-39, Approves Vast Financial Overhaul",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Banks and Banking",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Regulation and Deregulation of Industry",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Politics and Government",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Subprime Mortgage Crisis",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Senate",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Law and Legislation",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-05-20T19:07:14+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By DAVID M. HERSZENHORN",
+      "person": [
+        {
+          "firstname": "David",
+          "middlename": null,
+          "lastname": null,
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "54466a9838f0d832c81401d2",
+    "word_count": 1203,
+    "score": 1.0,
+    "uri": "nyt://article/3a0aa87c-9eee-5fc5-9290-a9522627d11d"
+  }
+]

@@ -1,0 +1,440 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2009/05/03/nyregion/long-island/03Rprom.html",
+    "snippet": "Even as the recession forces families to redefine their financial priorities, most are still willing to pay for an event they consider a rite of passage.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/05/03/nyregion/03kpromspan.600.jpg",
+        "height": 358,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/05/03/nyregion/03kpromspan.600.jpg",
+          "xlargeheight": 358
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/05/03/nyregion/03rprom.wt.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2009/05/03/nyregion/03rprom.wt.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/05/03/nyregion/30prom75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/05/03/nyregion/30prom75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "A Prom With All the Glitz, but Every Dollar Squeezed",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "A Prom With All the Glitz, But Every Dollar Squeezed",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Parties (Social)",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Westchester County (NY)",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Economic Conditions and Trends",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Long Island (NY)",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "New Jersey",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Education and Schools",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Families and Family Life",
+        "rank": 7,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-04-30T21:14:37+0000",
+    "document_type": "article",
+    "new_desk": "Regionals",
+    "section_name": "Long Island",
+    "byline": {
+      "original": "By CHRISTINE HAUGHNEY",
+      "person": [
+        {
+          "firstname": "Christine",
+          "middlename": null,
+          "lastname": "HAUGHNEY",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "546a023a38f0d8317bec1e7f",
+    "word_count": 1806,
+    "score": 1.0,
+    "uri": "nyt://article/4dd2fccb-ab85-5317-ad8e-115e97419773"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/05/01/nyregion/01kindergarten.html",
+    "snippet": "Though the extent of the problem is not yet clear, anger is growing, particularly in Greenwich Village and on the Upper East Side.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/05/01/nyregion/01kindergarten.75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/05/01/nyregion/01kindergarten.75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "School Waiting Lists Raise Manhattan Parents\u2019 Ire",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Schools Fill Up. Parents, Told to Wait, Heat Up.",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Education (Pre-School)",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Manhattan (NYC)",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Bloomberg, Michael R",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Education and Schools",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Education Department (NYC)",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Parenting",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Children and Youth",
+        "rank": 7,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-04-30T20:48:08+0000",
+    "document_type": "article",
+    "new_desk": "Metro",
+    "byline": {
+      "original": "By ELISSA GOOTMAN",
+      "person": [
+        {
+          "firstname": "Elissa",
+          "middlename": null,
+          "lastname": "GOOTMAN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "546a108438f0d8317bec1fd5",
+    "word_count": 1113,
+    "score": 1.0,
+    "uri": "nyt://article/d5033de5-54ff-57e0-a418-011ce14974e7"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/04/30/us/politics/30repubs.html",
+    "snippet": "Republicans are debating how to rebuild the party in the wake of Senator Arlen Specter\u2019s departure.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/04/30/us/30repubs_75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/04/30/us/30repubs_75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "G.O.P. Debate: A Broader Party or a Purer One?",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "G.O.P. Debate: A Broader Party or a Purer One?",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "organizations",
+        "value": "Republican Party",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Specter, Arlen",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Politics and Government",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Elections",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-04-30T01:48:57+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "section_name": "Politics",
+    "byline": {
+      "original": "By ADAM NAGOURNEY and DAVID M. HERSZENHORN",
+      "person": [
+        {
+          "firstname": "Adam",
+          "middlename": null,
+          "lastname": "NAGOURNEY",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "David",
+          "middlename": null,
+          "lastname": null,
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "546a07ce38f0d8317bec1f00",
+    "word_count": 1034,
+    "score": 1.0,
+    "uri": "nyt://article/8770f3b3-7eeb-5036-9367-35edbead42eb"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/05/01/business/01auto.html",
+    "snippet": "President Obama forced Chrysler into federal bankruptcy protection on Thursday so it could pursue a lifesaving alliance with the Italian automaker Fiat.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/05/01/business/01auto_subspan.jpg",
+        "height": 330,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/05/01/business/01auto_subspan.jpg",
+          "xlargeheight": 330
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Chrysler Files to Seek Bankruptcy Protection",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "CHRYSLER FILES FOR BANKRUPTCY; U.A.W. AND FIAT TO TAKE CONTROL",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "organizations",
+        "value": "Chrysler LLC",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Automobiles",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Obama, Barack",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Bankruptcies",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Subprime Mortgage Crisis",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-04-30T14:08:58+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By JIM RUTENBERG and BILL VLASIC",
+      "person": [
+        {
+          "firstname": "Jim",
+          "middlename": null,
+          "lastname": "RUTENBERG",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Bill",
+          "middlename": null,
+          "lastname": "VLASIC",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "546a0b0738f0d8317bec1f51",
+    "word_count": 1014,
+    "score": 1.0,
+    "uri": "nyt://article/2dc48eae-c490-5eff-bfb7-0b8d006e7427"
+  }
+]

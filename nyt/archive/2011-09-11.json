@@ -1,0 +1,328 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2011/09/12/nyregion/september-11-anniversary.html",
+    "snippet": "Thousands gathered to mark the 10th anniversary of the Sept. 11 terrorist attacks that changed a city and a nation.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/09/11/nyregion/ANNIVERSARY-511-slide-648S/ANNIVERSARY-511-slide-648S-articleLarge.jpg",
+        "height": 340,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2011/09/11/nyregion/ANNIVERSARY-511-slide-648S/ANNIVERSARY-511-slide-648S-articleLarge.jpg",
+          "xlargeheight": 340
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/09/11/nyregion/ANNIVERSARY-511-slide-648S/ANNIVERSARY-511-slide-648S-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/09/11/nyregion/ANNIVERSARY-511-slide-648S/ANNIVERSARY-511-slide-648S-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "On 9/11, Vows of Remembrance",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "After 10 Years, Names and Memories Echo",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "September 11 (2001)",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "World Trade Center (NYC)",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Monuments and Memorials",
+        "rank": 3,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-09-11T11:28:21+0000",
+    "document_type": "article",
+    "new_desk": "Metro",
+    "byline": {
+      "original": "By ROBERT D. McFADDEN",
+      "person": [
+        {
+          "firstname": "Robert",
+          "middlename": null,
+          "lastname": null,
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5400e15238f0d841b2f39105",
+    "word_count": 2047,
+    "score": 1.0,
+    "uri": "nyt://article/d1dcb332-0916-502e-83a8-e30520f1ff34"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/09/12/business/media/news-consumption-tilts-toward-niche-sites.html",
+    "snippet": "As news surges on the Web, news giants are being outmaneuvered by smaller sites that have passionate audiences and sharply focused information.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/04/12/business/media/carr-50/carr-50-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/04/12/business/media/carr-50/carr-50-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "News Trends Tilt Toward Niche Sites",
+      "kicker": "The Media Equation",
+      "content_kicker": "The Media Equation",
+      "print_headline": "News Trends Tilt Toward Niche Sites",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "News and News Media",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Computers and the Internet",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "AOL",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "TechCrunch",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Gawker Media",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Yahoo! Inc",
+        "rank": 7,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-09-11T23:58:20+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "section_name": "Media",
+    "byline": {
+      "original": "By DAVID CARR",
+      "person": [
+        {
+          "firstname": "David",
+          "middlename": null,
+          "lastname": "CARR",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5400e48638f0d841b2f39145",
+    "word_count": 1228,
+    "score": 1.0,
+    "uri": "nyt://article/99309300-3a84-51de-90c0-63ac3bf0ec7b"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/09/12/business/global/german-dissent-magnifies-uncertainty.html",
+    "snippet": "Fresh doubts about the health of French banks, which hold billions of euros\u2019 worth of Greek bonds, have investors bracing for more market turmoil this week.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/09/12/business/eurojump/eurojump-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/09/12/business/eurojump/eurojump-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Markets Brace as the Crisis in Europe Flares Up Again",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Investors Brace As Europe Crisis Flares Up Again",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "organizations",
+        "value": "European Union",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "European Central Bank",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "European Sovereign Debt Crisis (2010- )",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Euro (Currency)",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Merkel, Angela",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Greece",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Papandreou, George A",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Venizelos, Evangelos",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "France",
+        "rank": 9,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Germany",
+        "rank": 10,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-09-11T16:12:54+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "section_name": "Global Business",
+    "byline": {
+      "original": "By LIZ ALDERMAN and NELSON D. SCHWARTZ",
+      "person": [
+        {
+          "firstname": "Liz",
+          "middlename": null,
+          "lastname": "ALDERMAN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Nelson",
+          "middlename": null,
+          "lastname": null,
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News Analysis",
+    "_id": "5400e20038f0d841b2f39114",
+    "word_count": 993,
+    "score": 1.0,
+    "uri": "nyt://article/e0c902bc-6581-5fc1-b431-fae2cc878965"
+  }
+]

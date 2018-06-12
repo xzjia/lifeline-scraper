@@ -1,0 +1,169 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2007/07/11/theater/reviews/11xana.html",
+    "snippet": "This new, improved \u201cXanadu\u201d is an outlandishly enjoyable stage spoof of the outrageously bad movie from 1980.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2007/07/11/arts/Xan75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnail": "images/2007/07/11/arts/Xan75.jpg",
+          "thumbnailwidth": 75,
+          "thumbnailheight": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": "thumbStandard"
+      },
+      {
+        "rank": 0,
+        "subtype": "articleInline",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2007/07/11/arts/Xan1190.jpg",
+        "height": 238,
+        "width": 190,
+        "legacy": {},
+        "subType": "articleInline",
+        "crop_name": "articleInline"
+      },
+      {
+        "rank": 0,
+        "subtype": "popup",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2007/07/11/arts/Xan1450.jpg",
+        "height": 450,
+        "width": 360,
+        "legacy": {},
+        "subType": "popup",
+        "crop_name": "popup"
+      },
+      {
+        "rank": 0,
+        "subtype": "sfSpan",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2007/07/11/arts/Xan390.jpg",
+        "height": 220,
+        "width": 395,
+        "legacy": {},
+        "subType": "sfSpan",
+        "crop_name": "sfSpan"
+      }
+    ],
+    "headline": {
+      "main": "Heaven on Wheels, and in Leg Warmers",
+      "kicker": "Theater Review | 'Xanadu'",
+      "content_kicker": "Theater Review | 'Xanadu'",
+      "print_headline": "Heaven on Wheels, and in Leg Warmers",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Theater",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Beane, Douglas Carter",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Roberts, Tony",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Butler, Kerry",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Jackson, Cheyenne",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Carpinello, James",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Hoffman, Jackie",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Testa, Mary",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Ashley, Christopher",
+        "rank": 9,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Gallo, David",
+        "rank": 10,
+        "major": "N"
+      },
+      {
+        "name": "creative_works",
+        "value": "Xanadu (Play)",
+        "rank": 11,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2007-07-11T04:00:00+0000",
+    "document_type": "article",
+    "new_desk": "Culture",
+    "section_name": "Theater Reviews",
+    "byline": {
+      "original": "By CHARLES ISHERWOOD",
+      "person": [
+        {
+          "firstname": "Charles",
+          "middlename": null,
+          "lastname": "ISHERWOOD",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "Review",
+    "_id": "5481c37138f0d874625c9131",
+    "word_count": 1403,
+    "score": 1.0,
+    "uri": "nyt://article/a0e5d791-ba1b-5e9f-8000-d10f4ed351df"
+  }
+]

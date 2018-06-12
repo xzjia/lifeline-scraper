@@ -1,0 +1,81 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2008/03/04/books/04fake.html",
+    "snippet": "Margaret Seltzer admitted that the personal story she tells in \u201cLove and Consequences\u201d was entirely fabricated.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/02/26/arts/jones75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2008/02/26/arts/jones75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Gang Memoir, Turning Page, Is Pure Fiction",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Gang Memoir, Turning Page, Is Pure Fiction",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Books and Literature",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Riverhead Books",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Jones, Margaret B",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2008-03-04T05:00:00+0000",
+    "document_type": "article",
+    "new_desk": "Arts&Leisure",
+    "byline": {
+      "original": "By MOTOKO RICH",
+      "person": [
+        {
+          "firstname": "Motoko",
+          "middlename": null,
+          "lastname": "RICH",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "547c144238f0d813efccba76",
+    "word_count": 1334,
+    "score": 1.0,
+    "uri": "nyt://article/c178c1c4-40e6-5028-80f3-3f78461d40b5"
+  }
+]

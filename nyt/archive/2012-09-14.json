@@ -1,0 +1,804 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2012/09/16/realestate/the-hamptons-for-500000.html",
+    "snippet": "A growing number of modest but more affordable properties are popping up for $500,000 or less, creating opportunities for second-home buyers who were previously priced out.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/09/16/realestate/16COVER_SPAN/16COVER_SPAN-articleLarge.jpg",
+        "height": 380,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2012/09/16/realestate/16COVER_SPAN/16COVER_SPAN-articleLarge.jpg",
+          "xlargeheight": 380
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/09/16/realestate/16COVER_SPAN/16COVER_SPAN-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2012/09/16/realestate/16COVER_SPAN/16COVER_SPAN-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "The Hamptons, for $500,000",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "The Hamptons, for $500,000",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Hamptons (NY)",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Real Estate and Housing (Residential)",
+        "rank": 2,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2012-09-14T17:57:16+0000",
+    "document_type": "article",
+    "new_desk": "RealEstate",
+    "byline": {
+      "original": "By MICHELLE HIGGINS",
+      "person": [
+        {
+          "firstname": "Michelle",
+          "middlename": null,
+          "lastname": "HIGGINS",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5053732d1c22dfde670c8906",
+    "word_count": 1332,
+    "score": 1.0,
+    "uri": "nyt://article/e1ed8413-224c-5131-a506-b973c3d42e81"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2012/09/16/arts/shock-me-if-you-can.html",
+    "snippet": "A hundred years after \u201cRite of Spring\u201d sparked an uproar in Paris, shock has grown mainstream, raising a question: Can art still shock today?",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/09/16/arts/16shock-span-new/16shock-span-new-articleLarge.jpg",
+        "height": 384,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2012/09/16/arts/16shock-span-new/16shock-span-new-articleLarge.jpg",
+          "xlargeheight": 384
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/09/16/arts/16shock-span-new/16shock-span-new-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2012/09/16/arts/16shock-span-new/16shock-span-new-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/09/16/arts/16shock-span-new/16shock-span-new-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2012/09/16/arts/16shock-span-new/16shock-span-new-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Shock Me if You Can",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Shock Me If You Can: After a Century of Shaking and Rattling Audiences, Artists Still Push the Boundaries of Confrontation",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Culture (Arts)",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Bradshaw, Thomas",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Finley, Karen",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Waters, John",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Dancing",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Music",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Stravinsky, Igor",
+        "rank": 7,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2012-09-14T14:21:55+0000",
+    "document_type": "article",
+    "new_desk": "Arts&Leisure",
+    "byline": {
+      "original": "By JENNIFER SCHUESSLER",
+      "person": [
+        {
+          "firstname": "Jennifer",
+          "middlename": null,
+          "lastname": "SCHUESSLER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "59381eff7c459f24986e4112",
+    "word_count": 1780,
+    "score": 1.0,
+    "uri": "nyt://article/14213142-9d18-51b2-b6d0-5dcda827bada"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2012/09/14/us/politics/fossil-fuel-industry-opens-wallet-to-defeat-obama.html",
+    "snippet": "Major fossil fuel companies are financing an effort to defeat President Obama, while his former allies in promoting wind and solar power are disenchanted and sitting out the campaign.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/09/14/business/14energy_395/14energy_395-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2012/09/14/business/14energy_395/14energy_395-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Fossil Fuel Industry Ads Dominate TV Campaign",
+      "kicker": "The Energy Rush",
+      "content_kicker": "The Energy Rush",
+      "print_headline": "Fossil Fuel Ads Dominate TV In Campaign",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Oil (Petroleum) and Gasoline",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Alternative and Renewable Energy",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Political Advertising",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Presidential Election of 2012",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Coal",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Campaign Finance",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Series",
+        "rank": 7,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2012-09-14T02:51:01+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "section_name": "Politics",
+    "byline": {
+      "original": "By ERIC LIPTON and CLIFFORD KRAUSS",
+      "person": [
+        {
+          "firstname": "Eric",
+          "middlename": null,
+          "lastname": "LIPTON",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Clifford",
+          "middlename": null,
+          "lastname": "KRAUSS",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "59ef311a7c459f246b630618",
+    "word_count": 1596,
+    "score": 1.0,
+    "uri": "nyt://article/d8960daf-5cc6-55c0-bf9a-0af5f1a86010"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2012/09/14/us/trikes-three-wheeled-motorcycles-on-rise-as-riders-age.html",
+    "snippet": "When motorcyclists have trouble meeting the physical demands of a bike, many decide that it might be time to add a third wheel.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/09/14/us/Trike/Trike-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2012/09/14/us/Trike/Trike-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Born to Be Wild, Aging Bikers Settle for Comfy",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Born to Be Wild, Aging Bikers Settle for Comfy",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Motorcycles, Motor Bikes and Motorscooters",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Baby Boomers",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Harley-Davidson Inc",
+        "rank": 3,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2012-09-14T03:28:43+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "byline": {
+      "original": "By JESSE McKINLEY",
+      "person": [
+        {
+          "firstname": "Jesse",
+          "middlename": null,
+          "lastname": "McKINLEY",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5052a65a1c22dfde670c869e",
+    "word_count": 1225,
+    "score": 1.0,
+    "uri": "nyt://article/5a81dd36-5a52-5e47-aa07-9e7f1034025f"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2012/09/15/education/optimism-for-a-deal-on-chicago-teachers-contract.html",
+    "snippet": "After a weeklong strike, Chicago teachers and the school board said that they had the outlines of a contract deal. Schools in the nation\u2019s third largest district are expected to reopen on Monday.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/09/15/us/JP-STRIKE/JP-STRIKE-articleLarge.jpg",
+        "height": 330,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2012/09/15/us/JP-STRIKE/JP-STRIKE-articleLarge.jpg",
+          "xlargeheight": 330
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/09/15/us/JP-STRIKE/JP-STRIKE-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2012/09/15/us/JP-STRIKE/JP-STRIKE-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Chicago Forges Outline to End Teacher Strike",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Chicago Forges Outline to End Teacher Strike",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Strikes",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Chicago (Ill)",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Organized Labor",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Education (K-12)",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Chicago Teachers Union",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Emanuel, Rahm",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Lewis, Karen (1953- )",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Teachers and School Employees",
+        "rank": 8,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2012-09-14T12:21:57+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "byline": {
+      "original": "By MONICA DAVEY and STEVEN YACCINO",
+      "person": [
+        {
+          "firstname": "Monica",
+          "middlename": null,
+          "lastname": "DAVEY",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Steven",
+          "middlename": null,
+          "lastname": "YACCINO",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5053235e1c22dfde670c87b1",
+    "word_count": 1197,
+    "score": 1.0,
+    "uri": "nyt://article/9246a4c9-c3e9-5aae-b9f4-19d738e0fd4d"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2012/09/15/us/politics/obama-erases-romneys-edge-on-economy-poll-finds.html",
+    "snippet": "President Obama has taken away Mitt Romney\u2019s advantage as the candidate voters say is most likely to restore the economy, according to the latest poll by The New York Times and CBS News.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/09/15/us/JP-POLL/JP-POLL-articleLarge.jpg",
+        "height": 330,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2012/09/15/us/JP-POLL/JP-POLL-articleLarge.jpg",
+          "xlargeheight": 330
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/09/15/us/JP-POLL/JP-POLL-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2012/09/15/us/JP-POLL/JP-POLL-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Poll Finds Obama Is Erasing Romney\u2019s Edge on Economy",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Poll Finds Obama Is Erasing Romney\u2019s Edge on Economy",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Presidential Election of 2012",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Obama, Barack",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Romney, Mitt",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Polls and Public Opinion",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2012-09-14T22:33:07+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "section_name": "Politics",
+    "byline": {
+      "original": "By JEFF ZELENY and MEGAN THEE-BRENAN",
+      "person": [
+        {
+          "firstname": "Jeff",
+          "middlename": null,
+          "lastname": "ZELENY",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Megan",
+          "middlename": null,
+          "lastname": "THEE-BRENAN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5053b2c61c22dfde670c8a25",
+    "word_count": 1205,
+    "score": 1.0,
+    "uri": "nyt://article/6a7cba81-501e-57dc-b319-a180debcef6f"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2012/09/14/world/middleeast/egypt-hearing-from-obama-moves-to-heal-rift-from-protests.html",
+    "snippet": "A blunt phone call from President Obama prompted Egyptian leaders to scramble Thursday to try to repair the country\u2019s alliance with Washington.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/09/14/world/jpegypt1/jpegypt1-articleLarge.jpg",
+        "height": 400,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2012/09/14/world/jpegypt1/jpegypt1-articleLarge.jpg",
+          "xlargeheight": 400
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/09/14/world/jpegypt1/jpegypt1-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2012/09/14/world/jpegypt1/jpegypt1-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Egypt, Hearing From Obama, Moves to Heal Rift From Protests",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Egypt, Hearing From Obama, Moves to Heal Rift From Protests",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Obama, Barack",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Morsi, Mohamed",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States International Relations",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Egypt",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Libya",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Diplomatic Service, Embassies and Consulates",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Muslims and Islam",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Middle East and North Africa Unrest (2010- )",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "creative_works",
+        "value": "Innocence of Muslims (Movie)",
+        "rank": 9,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2012-09-14T02:09:55+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Middle East",
+    "byline": {
+      "original": "By DAVID D. KIRKPATRICK, HELENE COOPER and MARK LANDLER",
+      "person": [
+        {
+          "firstname": "David",
+          "middlename": null,
+          "lastname": null,
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "505294551c22dfde670c8679",
+    "word_count": 1517,
+    "score": 1.0,
+    "uri": "nyt://article/5b337d26-ed63-5a2a-8034-7d548c874994"
+  }
+]

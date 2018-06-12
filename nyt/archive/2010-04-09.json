@@ -1,0 +1,230 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2010/04/10/us/politics/10stevens.html",
+    "snippet": "The leading candidates to replace Justice John Paul Stevens present a spectrum of ideological reputations, and the choice will shape the Senate confirmation battle.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/04/10/us/10stevens3-cnd/10stevens3-cnd-articleLarge-v2.jpg",
+        "height": 368,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2010/04/10/us/10stevens3-cnd/10stevens3-cnd-articleLarge-v2.jpg",
+          "xlargeheight": 368
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/04/10/us/10stevens3-cnd/10stevens3-cnd-thumbStandard-v2.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/04/10/us/10stevens3-cnd/10stevens3-cnd-thumbStandard-v2.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Stevens\u2019s Retirement Is Political Test for Obama",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Justice Stevens Retiring, Giving Obama a 2nd Pick",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Stevens, John Paul",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Supreme Court",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Retirement",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Obama, Barack",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Garland, Merrick B",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Kagan, Elena",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Wood, Diane Pamela",
+        "rank": 7,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-04-09T15:14:54+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "section_name": "Politics",
+    "byline": {
+      "original": "By SHERYL GAY STOLBERG and CHARLIE SAVAGE",
+      "person": [
+        {
+          "firstname": "Sheryl",
+          "middlename": "Gay",
+          "lastname": "STOLBERG",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Charlie",
+          "middlename": null,
+          "lastname": "SAVAGE",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5444eaf838f0d82782d9c400",
+    "word_count": 1366,
+    "score": 1.0,
+    "uri": "nyt://article/9ed731a6-1219-52c6-a491-e4ff71722811"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2010/04/09/us/09miner.html",
+    "snippet": "The deaths of at least 25 miners have not affected the pride, resignation and economics that define a miner\u2019s life.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/04/09/us/09miner_CA2/09miner_CA2-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/04/09/us/09miner_CA2/09miner_CA2-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Miners&#8217; Lives: Security, but Never Peace of Mind",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Miners&#8217; Lives: Security, but Never Peace of Mind",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Mines and Mining",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Accidents and Safety",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "West Virginia",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Massey Energy Co",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Coal",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Explosions",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-04-09T00:55:22+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "byline": {
+      "original": "By SHAILA DEWAN",
+      "person": [
+        {
+          "firstname": "Shaila",
+          "middlename": null,
+          "lastname": "DEWAN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5444dbd338f0d82782d9c2ad",
+    "word_count": 1203,
+    "score": 1.0,
+    "uri": "nyt://article/14d8e163-8b7e-50c9-a0c3-bb46ba339472"
+  }
+]

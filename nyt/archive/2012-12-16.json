@@ -1,0 +1,122 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2012/12/17/us/politics/bloomberg-urges-obama-to-take-action-on-gun-control.html",
+    "snippet": "In a bereaved Connecticut town, President Obama chided the nation for not having done enough to protect its children from attacks like the one Friday that left 20 elementary school students dead.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/12/16/us/17shooting_ss-slide-9UH4/17shooting_ss-slide-9UH4-articleLarge.jpg",
+        "height": 350,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2012/12/16/us/17shooting_ss-slide-9UH4/17shooting_ss-slide-9UH4-articleLarge.jpg",
+          "xlargeheight": 350
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "\u2018These Tragedies Must End,\u2019 Obama Says",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Obama Tells Town 'These Tragedies Must End'",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Obama, Barack",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Gun Control",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Newtown, Conn, Shooting (2012)",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Sandy Hook Elementary School (Newtown, Conn)",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Bloomberg, Michael R",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Newtown (Conn)",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Education (K-12)",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Lanza, Adam",
+        "rank": 8,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2012-12-16T19:18:07+0000",
+    "document_type": "article",
+    "new_desk": "Washington",
+    "section_name": "Politics",
+    "byline": {
+      "original": "By MARK LANDLER and PETER BAKER",
+      "person": [
+        {
+          "firstname": "Mark",
+          "middlename": null,
+          "lastname": "LANDLER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Peter",
+          "middlename": null,
+          "lastname": "BAKER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "50d0e4d300315214fbb7fb27",
+    "word_count": 1602,
+    "score": 1.0,
+    "uri": "nyt://article/263efd9e-439a-5779-9c08-6e351b2636f2"
+  }
+]

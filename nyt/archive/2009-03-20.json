@@ -1,0 +1,548 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2009/03/22/realestate/22cov.html",
+    "snippet": "With lenders demanding more money upfront, some condominium buyers not only can\u2019t move in, they can\u2019t get their hard-earned deposits back either.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/03/22/realestate/22cov-600.jpg",
+        "height": 349,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/03/22/realestate/22cov-600.jpg",
+          "xlargeheight": 349
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/03/22/realestate/22cov-75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/03/22/realestate/22cov-75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Up in Smoke: The Deposit Vanishes",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Up in Smoke: The Deposit Vanishes",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Mortgages",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Housing and Real Estate",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Sales",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Personal Finances",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-03-20T20:48:24+0000",
+    "document_type": "article",
+    "new_desk": "RealEstate",
+    "byline": {
+      "original": "By VIVIAN S. TOY",
+      "person": [
+        {
+          "firstname": "Vivian",
+          "middlename": "S.",
+          "lastname": "TOY",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "53f58df138f0d87ef470e73d",
+    "word_count": 1835,
+    "score": 1.0,
+    "uri": "nyt://article/1ad75bbb-5019-5119-bbff-f67e65678eab"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/03/21/nyregion/21islands.html",
+    "snippet": "A dispute over islets and reefs in the sea between South Korea and Japan is playing out on dry cleaners\u2019 bags in New York.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/03/20/nyregion/20islands-600.jpg",
+        "height": 349,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/03/20/nyregion/20islands-600.jpg",
+          "xlargeheight": 349
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/03/20/nyregion/20islands-75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/03/20/nyregion/20islands-75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "On City\u2019s Plastic Bags, an Old and Distant Dispute",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "An Old and Faraway Dispute Goes Home With the Cleaning",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Dokdo Islands",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "South Korea",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Japan",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "New York City",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Korean-Americans",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Japanese-Americans",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-03-20T14:27:19+0000",
+    "document_type": "article",
+    "new_desk": "Metro",
+    "byline": {
+      "original": "By KAREEM FAHIM",
+      "person": [
+        {
+          "firstname": "Kareem",
+          "middlename": null,
+          "lastname": "FAHIM",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "54688c5638f0d81e5cd0dafd",
+    "word_count": 1062,
+    "score": 1.0,
+    "uri": "nyt://article/d9b3847c-13eb-54b1-9022-68f92b292ed7"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/03/20/dining/20garden.html",
+    "snippet": "Michelle Obama is planning the first vegetable garden at the White House since Eleanor Roosevelt\u2019s victory garden in World War II.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/03/19/dining/19garden.75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/03/19/dining/19garden.75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Obamas to Plant Vegetable Garden at White House",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Obama to Eat Local Produce (Really Local)",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Obama, Michelle",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "White House (Washington, DC)",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Gardens and Gardening",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Diet and Nutrition",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Local Food",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Vegetables",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-03-20T01:53:22+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "byline": {
+      "original": "By MARIAN BURROS",
+      "person": [
+        {
+          "firstname": "Marian",
+          "middlename": null,
+          "lastname": "BURROS",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5454fb9738f0d839202ead04",
+    "word_count": 951,
+    "score": 1.0,
+    "uri": "nyt://article/b006c7d1-1fb8-53ac-8d9a-56d0b52b0b78"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/03/21/your-money/21money.html",
+    "snippet": "There are many ways to give support to friends and former colleagues who\u2019ve lost their jobs.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/03/21/your-money/21money.600.jpg",
+        "height": 361,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/03/21/your-money/21money.600.jpg",
+          "xlargeheight": 361
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/03/21/your-money/21money.75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/03/21/your-money/21money.75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Not Laid Off? How to Aid the Less Fortunate",
+      "kicker": "Your Money",
+      "content_kicker": "Your Money",
+      "print_headline": "Layoff Survivor\u2019s Duty To the Less Fortunate",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Friendship",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Layoffs and Job Reductions",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Personal Finances",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Families and Family Life",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Unemployment",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Budgets and Budgeting",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Wages and Salaries",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "LinkedIn",
+        "rank": 8,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-03-20T19:48:08+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By RON LIEBER",
+      "person": [
+        {
+          "firstname": "Ron",
+          "middlename": null,
+          "lastname": "LIEBER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "54688ea838f0d81e5cd0db2d",
+    "word_count": 1506,
+    "score": 1.0,
+    "uri": "nyt://article/4ad53222-a8c1-5a4b-b568-c33bf010e539"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/03/20/nyregion/20dodd.html",
+    "snippet": "Christopher Dodd\u2019s constituents unleashed their anger over his role in allowing post-bailout bonuses at A.I.G.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/03/20/nyregion/20dodd.75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/03/20/nyregion/20dodd.75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Connecticut Senator Draws Voters\u2019 Ire for His Bonus Role",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "House Approves 90% Tax On Bonuses After Bailouts: Connecticut Senator Draws Voters\u2019 Ire for Payout Role",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Dodd, Christopher J",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "American International Group",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Bonuses",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Executive Compensation",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Connecticut",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Emergency Economic Stabilization Act (2008)",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-03-20T01:53:18+0000",
+    "document_type": "article",
+    "new_desk": "Metro",
+    "byline": {
+      "original": "By RAYMOND HERNANDEZ and THOMAS KAPLAN",
+      "person": [
+        {
+          "firstname": "Raymond",
+          "middlename": null,
+          "lastname": "HERNANDEZ",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Thomas",
+          "middlename": null,
+          "lastname": "KAPLAN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "54687bdb38f0d81e5cd0d9a1",
+    "word_count": 1078,
+    "score": 1.0,
+    "uri": "nyt://article/4db43602-f331-58ec-b7cb-38c64b218b73"
+  }
+]

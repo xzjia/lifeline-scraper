@@ -1,0 +1,677 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2012/10/11/arts/design/tassafaronga-village-and-richardson-apartments-in-bay-area.html",
+    "snippet": "Tassafaronga Village, a mixed-income development in Oakland, Calif., and the Richardson Apartments for the formerly homeless in San Francisco have created ripples of change in their communities.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/10/11/arts/11BAKER1/11BAKER1-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2012/10/11/arts/11BAKER1/11BAKER1-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Design as Balm for a Community\u2019s Soul",
+      "kicker": "Architecture Review",
+      "content_kicker": "Architecture Review",
+      "print_headline": "Design as Balm for a Community\u2019s Soul",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Architecture",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "San Francisco (Calif)",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Oakland (Calif)",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Real Estate and Housing (Residential)",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Baker, David (1949- )",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "San Francisco Bay Area (Calif)",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2012-10-10T19:24:37+0000",
+    "document_type": "article",
+    "new_desk": "Culture",
+    "section_name": "Art & Design",
+    "byline": {
+      "original": "By MICHAEL KIMMELMAN",
+      "person": [
+        {
+          "firstname": "Michael",
+          "middlename": null,
+          "lastname": "KIMMELMAN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "Review",
+    "_id": "507c4f7095e998af711865b9",
+    "word_count": 1266,
+    "score": 1.0,
+    "uri": "nyt://article/3062f264-acbf-5ca8-8167-0ca974e29f20"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2012/10/10/world/middleeast/us-military-sent-to-jordan-on-syria-crisis.html",
+    "snippet": "The United States military has secretly sent a task force to Jordan to help handle a flood of Syrian refugees and be positioned should the turmoil in Syria expand into a wider conflict.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/10/10/world/JP-FORCE-1/JP-FORCE-1-articleLarge.jpg",
+        "height": 350,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2012/10/10/world/JP-FORCE-1/JP-FORCE-1-articleLarge.jpg",
+          "xlargeheight": 350
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "U.S. Military Is Sent to Jordan to Help With Crisis in Syria",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "U.S. Military Sent to Jordan On Syria Crisis",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Refugees and Displaced Persons",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Defense and Military Forces",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Middle East and North Africa Unrest (2010- )",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Jordan",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Syria",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Defense and Military Forces",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2012-10-10T02:08:35+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Middle East",
+    "byline": {
+      "original": "By MICHAEL R. GORDON and ELISABETH BUMILLER",
+      "person": [
+        {
+          "firstname": "Michael",
+          "middlename": "R.",
+          "lastname": "GORDON",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Elisabeth",
+          "middlename": null,
+          "lastname": "BUMILLER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "507c4e7c95e998af71186070",
+    "word_count": 924,
+    "score": 1.0,
+    "uri": "nyt://article/3a232391-fe6f-5bc3-b3ab-163a872e939e"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2012/10/11/sports/cycling/agency-details-doping-case-against-lance-armstrong.html",
+    "snippet": "Evidence put forth by the United States Anti-Doping Agency drew a picture of Lance Armstrong as an infamous cheat, a defiant liar and a bully who pushed others to cheat with him.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/10/11/sports/cycling/11armstrong2/11armstrong2-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2012/10/11/sports/cycling/11armstrong2/11armstrong2-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/10/11/sports/cycling/11armstrong2/11armstrong2-thumbStandard-v2.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2012/10/11/sports/cycling/11armstrong2/11armstrong2-thumbStandard-v2.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Details of Doping Scheme Paint Armstrong as Leader",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Details of Doping Scheme Paint Armstrong as Leader",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Armstrong, Lance",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Doping (Sports)",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Bicycles and Bicycling",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "United States Anti-Doping Agency",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "World Anti-Doping Agency",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Bruyneel, Johan",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Hincapie, George",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Zabriskie, David",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Ferrari, Michele",
+        "rank": 9,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "del Moral, Luis Garcia",
+        "rank": 10,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Vande Velde, Christian",
+        "rank": 11,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2012-10-10T13:58:32+0000",
+    "document_type": "article",
+    "new_desk": "Sports",
+    "section_name": "Cycling",
+    "byline": {
+      "original": "By JULIET MACUR",
+      "person": [
+        {
+          "firstname": "Juliet",
+          "middlename": null,
+          "lastname": "MACUR",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "507c4d9b95e998af71185f22",
+    "word_count": 1701,
+    "score": 1.0,
+    "uri": "nyt://article/4042e0ea-4129-5ddc-a767-0f06dcc41ec7"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2012/10/11/fashion/americans-are-barmy-over-britishisms.html",
+    "snippet": "Snippets of British vernacular \u2014 \u201ccheers\u201d as a thank you \u2014 that were until recently as rare as steak and kidney pie on these shores are cropping up in the daily speech of Americans (particularly, New Yorkers).",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/10/11/fashion/11BRITSHISMS_SPAN/11BRITSHISMS_SPAN-articleLarge-v3.jpg",
+        "height": 385,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2012/10/11/fashion/11BRITSHISMS_SPAN/11BRITSHISMS_SPAN-articleLarge-v3.jpg",
+          "xlargeheight": 385
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/10/11/fashion/11BRITSHISMS_SPAN/11BRITSHISMS_SPAN-thumbWide-v2.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2012/10/11/fashion/11BRITSHISMS_SPAN/11BRITSHISMS_SPAN-thumbWide-v2.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/10/11/fashion/11BRITSHISMS_SPAN/11BRITSHISMS_SPAN-thumbStandard-v3.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2012/10/11/fashion/11BRITSHISMS_SPAN/11BRITSHISMS_SPAN-thumbStandard-v3.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Americans Are Barmy Over Britishisms",
+      "kicker": "Noted",
+      "content_kicker": "Noted",
+      "print_headline": "And Bob\u2019s Your Uncle",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Slang",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "English Language",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Great Britain",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Fashion and Apparel",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2012-10-10T20:37:26+0000",
+    "document_type": "article",
+    "new_desk": "Styles",
+    "byline": {
+      "original": "By ALEX WILLIAMS",
+      "person": [
+        {
+          "firstname": "Alex",
+          "middlename": null,
+          "lastname": "WILLIAMS",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "53e3ace338f0d832aed403ce",
+    "word_count": 1391,
+    "score": 1.0,
+    "uri": "nyt://article/ff948208-0ede-5b59-9521-8dd3200088f8"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2012/10/10/nyregion/after-losing-st-vincents-hospital-manhattan-sees-rise-in-clinic-care.html",
+    "snippet": "The demise of St. Vincent\u2019s Hospital in Greenwich Village two years ago has led to a struggle for health care supremacy, offering a glimpse at what might be the future of urban medicine.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/10/10/nyregion/SUB-Y-JP-VILLAGE1/SUB-Y-JP-VILLAGE1-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2012/10/10/nyregion/SUB-Y-JP-VILLAGE1/SUB-Y-JP-VILLAGE1-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "New Style of Health Care Emerges to Fill Hospital\u2019s Void",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Walk-In Clinics Filling Hospital Void Downtown",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "organizations",
+        "value": "St Vincent's Hospital Manhattan",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Continuum Health Partners",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "New York University Langone Medical Center",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Greenwich Village (NYC)",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Chelsea (NYC)",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Hospitals",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Emergency Medical Treatment",
+        "rank": 7,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2012-10-10T00:06:23+0000",
+    "document_type": "article",
+    "new_desk": "Metro",
+    "byline": {
+      "original": "By ANEMONA HARTOCOLLIS",
+      "person": [
+        {
+          "firstname": "Anemona",
+          "middlename": null,
+          "lastname": "HARTOCOLLIS",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "507c4da295e998af71185f7f",
+    "word_count": 1572,
+    "score": 1.0,
+    "uri": "nyt://article/78918e77-8a9f-51f9-99a6-62044a02ef29"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2012/10/10/us/politics/as-romney-repeats-trade-message-bain-maintains-china-ties.html",
+    "snippet": "Mitt Romney has kept up his criticism of China even as the equity firm he co-founded, Bain Capital, maintains its China-related holdings.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/10/10/us/sub-jp10bain2/sub-jp10bain2-thumbStandard-v2.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2012/10/10/us/sub-jp10bain2/sub-jp10bain2-thumbStandard-v2.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "As Romney Repeats Trade Message, Bain Maintains China Ties",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Romney\u2019s Trade Message and Bain\u2019s China Ties",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Presidential Election of 2012",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "International Trade and World Market",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Bain Capital",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Romney, Mitt",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "China",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2012-10-10T03:14:52+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "section_name": "Politics",
+    "byline": {
+      "original": "By SHARON LaFRANIERE and MIKE McINTIRE",
+      "person": [
+        {
+          "firstname": "Sharon",
+          "middlename": null,
+          "lastname": "LaFRANIERE",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Mike",
+          "middlename": null,
+          "lastname": "McINTIRE",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "507c4da395e998af71185fd9",
+    "word_count": 1817,
+    "score": 1.0,
+    "uri": "nyt://article/66ffc33c-c4ea-5301-913d-239e599ad602"
+  }
+]

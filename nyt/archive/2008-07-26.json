@@ -1,0 +1,69 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2008/07/26/us/26fats.html",
+    "snippet": "Under a new law, the fats long linked to health problems must be excised from restaurants and retail baked goods.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "California Bars Restaurant Use of Trans Fats",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "CALIFORNIA BARS RESTAURANT USE OF TRANS FATS",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Trans Fatty Acids",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "California",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Schwarzenegger, Arnold",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Recalls and Bans of Products",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2008-07-26T04:00:00+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "byline": {
+      "original": "By JENNIFER STEINHAUER",
+      "person": [
+        {
+          "firstname": "Jennifer",
+          "middlename": null,
+          "lastname": "STEINHAUER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "54834e0c38f0d80df4fa3502",
+    "word_count": 1068,
+    "score": 1.0,
+    "uri": "nyt://article/22b4744f-e765-5597-a923-db360a3b81c7"
+  }
+]

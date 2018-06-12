@@ -1,0 +1,540 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2010/10/08/us/08picture.html",
+    "snippet": "Publishers are scaling back on picture books as more parents favor text-heavy chapter books for their young children.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/10/08/us/PICTURE/PICTURE-articleLarge.jpg",
+        "height": 315,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2010/10/08/us/PICTURE/PICTURE-articleLarge.jpg",
+          "xlargeheight": 315
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/10/08/us/PICTURE/PICTURE-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/10/08/us/PICTURE/PICTURE-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Picture Books No Longer a Staple for Children",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Picture Books, Long a Staple, Lose Out in the Rush to Read",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Books and Literature",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Children and Youth",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Book Trade and Publishing",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Parenting",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-10-08T00:29:26+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "byline": {
+      "original": "By JULIE BOSMAN",
+      "person": [
+        {
+          "firstname": "Julie",
+          "middlename": null,
+          "lastname": "BOSMAN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "541b742738f0d8296cb0fa09",
+    "word_count": 1193,
+    "score": 1.0,
+    "uri": "nyt://article/d6e1b1f3-210c-5e8c-9cee-c2281f94efd9"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2010/10/09/world/09nobel.html",
+    "snippet": "In awarding the prize to Liu Xiaobo, the Nobel Committee delivered a stinging rebuke of China\u2019s growing intolerance for domestic dissent.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/10/09/world/09nobel1-cnd/09nobel1-cnd-articleLarge.jpg",
+        "height": 350,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2010/10/09/world/09nobel1-cnd/09nobel1-cnd-articleLarge.jpg",
+          "xlargeheight": 350
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/10/09/world/09nobel1-cnd/09nobel1-cnd-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/10/09/world/09nobel1-cnd/09nobel1-cnd-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Nobel Peace Prize Given to Jailed Chinese Dissident",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Jailed Activist In China Wins Nobel for Peace",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Nobel Prizes",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Liu Xiaobo",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "China",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Political Prisoners",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Human Rights and Human Rights Violations",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-10-08T09:12:53+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "byline": {
+      "original": "By ANDREW JACOBS and JONATHAN ANSFIELD",
+      "person": [
+        {
+          "firstname": "Andrew",
+          "middlename": null,
+          "lastname": "JACOBS",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Jonathan",
+          "middlename": null,
+          "lastname": "ANSFIELD",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "541b76e638f0d8296cb0fa49",
+    "word_count": 1838,
+    "score": 1.0,
+    "uri": "nyt://article/c372e7c5-4b05-5352-81cc-9680ebb75f31"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2010/10/08/business/08frozen.html",
+    "snippet": "The shoddy preparation of foreclosure documents is hammering the market, especially in the worst-hit states.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/10/08/business/08FROZEN/FROZEN-articleLarge.jpg",
+        "height": 315,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2010/10/08/business/08FROZEN/FROZEN-articleLarge.jpg",
+          "xlargeheight": 315
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/10/08/business/08FROZEN/FROZEN-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/10/08/business/08FROZEN/FROZEN-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Flawed Foreclosure Documents Thwart Home Sales",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Halt in Foreclosures a New Blow to Home Sales",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Foreclosures",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Housing and Real Estate",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Subprime Mortgage Crisis",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Florida",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Bank of America Corp",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "GMAC LLC",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "JPMorgan Chase & Co",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Federal National Mortgage Assn",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Mortgages",
+        "rank": 9,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-10-08T01:01:36+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By ANDREW MARTIN and DAVID STREITFELD",
+      "person": [
+        {
+          "firstname": "Andrew",
+          "middlename": null,
+          "lastname": "MARTIN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "David",
+          "middlename": null,
+          "lastname": "STREITFELD",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "541b748338f0d8296cb0fa11",
+    "word_count": 1306,
+    "score": 1.0,
+    "uri": "nyt://article/2a2152e6-2939-5de4-a806-06fca079b6c3"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2010/10/10/fashion/10coulter.html",
+    "snippet": "Now that the Tea Party has stolen much of her thunder, Ann Coulter, the conservative columnist, is taking some new positions.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/10/10/fashion/10coulter/10coulter-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/10/10/fashion/10coulter/10coulter-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Outflanked on Right, Coulter Seeks New Image",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Not Done Yet",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Coulter, Ann",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Tea Party Movement",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Homosexuality",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Religion and Belief",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Politics and Government",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Conservatism (US Politics)",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-10-08T20:46:34+0000",
+    "document_type": "article",
+    "new_desk": "Styles",
+    "byline": {
+      "original": "By LAURA M. HOLSON",
+      "person": [
+        {
+          "firstname": "Laura",
+          "middlename": null,
+          "lastname": null,
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "541b78d038f0d8296cb0fa77",
+    "word_count": 2248,
+    "score": 1.0,
+    "uri": "nyt://article/bf375831-b8a5-5913-b898-655d920eee1c"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2010/10/10/nyregion/10critic.html",
+    "snippet": "The tramway, a commuter\u2019s version of the 35-year-old utopian community that it connects to Midtown, is undergoing a seven-month, $25 million renovation.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/10/10/nyregion/jp-CRITIC-4/jp-CRITIC-4-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/10/10/nyregion/jp-CRITIC-4/jp-CRITIC-4-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Roosevelt Island\u2019s Flying Buses to Return Soon",
+      "kicker": "City Critic",
+      "content_kicker": "City Critic",
+      "print_headline": "Returning to the East Side: The Commuter as Aerialist",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Cable Cars and Trams",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Transit Systems",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Roosevelt Island (NYC)",
+        "rank": 3,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-10-08T23:09:29+0000",
+    "document_type": "article",
+    "new_desk": "Metro",
+    "byline": {
+      "original": "By ARIEL KAMINER",
+      "person": [
+        {
+          "firstname": "Ariel",
+          "middlename": null,
+          "lastname": "KAMINER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "541b798a38f0d8296cb0fa86",
+    "word_count": 818,
+    "score": 1.0,
+    "uri": "nyt://article/d2f7fd4d-df3a-5e1b-a7b6-8ead131f3372"
+  }
+]

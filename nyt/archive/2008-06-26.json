@@ -1,0 +1,178 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2008/06/26/garden/26inheritance.html",
+    "snippet": "It is often difficult to get rid of family furnishings, which carry not only your memories, but your relatives\u2019 as well.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/06/25/garden/26inheritance-75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2008/06/25/garden/26inheritance-75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "The Tyranny of the Heirloom",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "The Tyranny of the Heirloom",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Home Furnishings",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Families and Family Life",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Furniture",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Inheritance and Estate Taxes",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2008-06-26T04:00:00+0000",
+    "document_type": "article",
+    "new_desk": "Home",
+    "byline": {
+      "original": "By JOYCE WADLER",
+      "person": [
+        {
+          "firstname": "Joyce",
+          "middlename": null,
+          "lastname": "WADLER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "54828fce38f0d8403d9cc7f7",
+    "word_count": 2757,
+    "score": 1.0,
+    "uri": "nyt://article/e59ab84b-1ed9-51df-a36b-9fb1fcdf55c2"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2008/06/26/nyregion/26hiv.html",
+    "snippet": "Officials are planning an ambitious effort to give an H.I.V. test to every adult living in the Bronx.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/06/26/nyregion/26hiv_75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2008/06/26/nyregion/26hiv_75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Push in Bronx for H.I.V. Test for All",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Push in Bronx For H.I.V. Test For All Adults",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Acquired Immune Deficiency Syndrome",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Tests and Testing",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Medicine and Health",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Bronx (NYC)",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "New York City",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2008-06-26T04:00:00+0000",
+    "document_type": "article",
+    "new_desk": "Metro",
+    "byline": {
+      "original": "By ANEMONA HARTOCOLLIS",
+      "person": [
+        {
+          "firstname": "Anemona",
+          "middlename": null,
+          "lastname": "HARTOCOLLIS",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5482934638f0d8403d9cc85e",
+    "word_count": 1258,
+    "score": 1.0,
+    "uri": "nyt://article/5dd11e42-863e-5d30-8fce-27477a95848e"
+  }
+]

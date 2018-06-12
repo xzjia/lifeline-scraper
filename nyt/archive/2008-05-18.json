@@ -1,0 +1,112 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2008/05/18/sports/football/18rhoden.html",
+    "snippet": "We often expect little from politicians. But at a time when commercial sports has lost its way, only politicians are capable of pulling a failing industry back to its roots.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/05/18/sports/18rhoden.1.75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2008/05/18/sports/18rhoden.1.75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Politicians Challenge Integrity of N.F.L.",
+      "kicker": "Sports of The Times",
+      "content_kicker": "Sports of The Times",
+      "print_headline": "Politicians Challenge Integrity Of N.F.L.",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Football",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Cheating",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Politics and Government",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "National Football League",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "New England Patriots",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Specter, Arlen",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Belichick, Bill",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Walsh, Matt",
+        "rank": 8,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2008-05-18T04:00:00+0000",
+    "document_type": "article",
+    "new_desk": "Sports",
+    "section_name": "Pro Football",
+    "byline": {
+      "original": "By WILLIAM C. RHODEN",
+      "person": [
+        {
+          "firstname": "William",
+          "middlename": "C.",
+          "lastname": "RHODEN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "548185c038f0d874625c89ed",
+    "word_count": 961,
+    "score": 1.0,
+    "uri": "nyt://article/95f6e3ec-4615-5f34-a96f-3b9617fc97fc"
+  }
+]

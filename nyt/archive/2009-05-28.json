@@ -1,0 +1,290 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2009/05/28/garden/28repair.html",
+    "snippet": "Thanks to the recession, many consumers are choosing not to buy new appliances to replace broken ones, calling the repairman instead.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/05/27/garden/28repair600.1.jpg",
+        "height": 331,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/05/27/garden/28repair600.1.jpg",
+          "xlargeheight": 331
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/05/27/garden/28repair75.1c.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/05/27/garden/28repair75.1c.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Appliance Anxiety: Replace It or Fix It?",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Appliance Anxiety: Replace It Or Fix It?",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Home Appliances",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Shopping and Retail",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Guarantees and Warranties",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Recession and Depression",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Economic Conditions and Trends",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Personal Finances",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-05-28T00:05:14+0000",
+    "document_type": "article",
+    "new_desk": "Home",
+    "byline": {
+      "original": "By JULIE SCELFO",
+      "person": [
+        {
+          "firstname": "Julie",
+          "middlename": null,
+          "lastname": "SCELFO",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "54527bfb38f0d81b603ec97a",
+    "word_count": 1137,
+    "score": 1.0,
+    "uri": "nyt://article/226989fb-348e-5bb1-a71b-64015989e43a"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/05/29/business/29auto.html",
+    "snippet": "G.M. said a key group of bondholders agreed to a 10 percent stake, with warrants to buy an additional 15 percent, in exchange for accepting the bankruptcy plan.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/05/29/business/29auto_span.jpg",
+        "height": 330,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/05/29/business/29auto_span.jpg",
+          "xlargeheight": 330
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "G.M. Plan Gets Support From Key Bondholders",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "G.M. Gains Bondholder Support",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Automobiles",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "General Motors Corp",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Subprime Mortgage Crisis",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Bankruptcies",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-05-28T14:22:23+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By MICHAEL J. de la MERCED and MICHELINE MAYNARD",
+      "person": [
+        {
+          "firstname": "Michael",
+          "middlename": "J.",
+          "lastname": "de la MERCED",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Micheline",
+          "middlename": null,
+          "lastname": "MAYNARD",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "546b188438f0d84ca2c5d323",
+    "word_count": 1063,
+    "score": 1.0,
+    "uri": "nyt://article/505f38a2-8319-5849-8f0b-80d6e3f3d73c"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/05/29/theater/29youn.html",
+    "snippet": "If you love live theater, and the experience is one you want to pass on, think of the expense as tickets to another world \u2014 and cheaper than plane fare.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/05/29/arts/Young75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/05/29/arts/Young75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Babes in Broadwayland: How Old Is Old Enough?",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Babes in Broadwayland: How Old Is Old Enough?",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Theater",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Children and Youth",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Families and Family Life",
+        "rank": 3,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-05-28T22:07:23+0000",
+    "document_type": "article",
+    "new_desk": "Weekend",
+    "byline": {
+      "original": "By ROBIN POGREBIN",
+      "person": [
+        {
+          "firstname": "Robin",
+          "middlename": null,
+          "lastname": "POGREBIN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "546b1d4a38f0d84ca2c5d39b",
+    "word_count": 2199,
+    "score": 1.0,
+    "uri": "nyt://article/39e4d0b3-d802-5a36-a73d-1dfe1ffedd05"
+  }
+]

@@ -1,0 +1,368 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2010/05/12/world/europe/12britain.html",
+    "snippet": "David Cameron, the Conservative leader, became prime minister. Nick Clegg will become his deputy as the Liberal Democrats approved a coalition deal.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/05/12/world/12britainspan3-cnd/12britainspan3-cnd-articleLarge.jpg",
+        "height": 363,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2010/05/12/world/12britainspan3-cnd/12britainspan3-cnd-articleLarge.jpg",
+          "xlargeheight": 363
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/05/12/world/12britainspan3-cnd/12britainspan3-cnd-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/05/12/world/12britainspan3-cnd/12britainspan3-cnd-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Cameron Takes Over as British Premier After Brown Resigns",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Tories in Britain Reclaim Power With a Coalition",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Great Britain",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Elections",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Liberal Democrats (Great Britain)",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Conservative Party (Great Britain)",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Labour Party (Great Britain)",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Cameron, David",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Clegg, Nick",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Brown, Gordon",
+        "rank": 8,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-05-11T12:28:49+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Europe",
+    "byline": {
+      "original": "By JOHN F. BURNS",
+      "person": [
+        {
+          "firstname": "John",
+          "middlename": "F.",
+          "lastname": "BURNS",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5446125238f0d832c813fa24",
+    "word_count": 1372,
+    "score": 1.0,
+    "uri": "nyt://article/e408aa81-7d66-5426-bb33-301bff82f256"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2010/05/12/business/12bank.html",
+    "snippet": "Four giants of American finance each managed what is normally a rare feat: a perfect trading quarter.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "4 Big Banks Score Perfect 61-Day Run",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "4 Big Banks Score Perfect 61-Day Run",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Banks and Banking",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Company Reports",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Stocks and Bonds",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Bank of America Corp",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Goldman Sachs Group",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "JPMorgan Chase & Co",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-05-11T22:57:36+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By ERIC DASH",
+      "person": [
+        {
+          "firstname": "Eric",
+          "middlename": null,
+          "lastname": "DASH",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "544617f438f0d832c813fa9f",
+    "word_count": 802,
+    "score": 1.0,
+    "uri": "nyt://article/7dd9bffe-4b65-5368-86ee-a503733b4a9c"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2010/05/12/health/research/12allergies.html",
+    "snippet": "Part of the confusion is over what is a food allergy and what is a food intolerance, a researcher says.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "Doubt Is Cast on Many Reports of Food Allergies",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Doubt Is Cast on Many Reports of Food Allergies",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Food",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Allergies",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Medicine and Health",
+        "rank": 3,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-05-11T21:45:30+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "section_name": "Research",
+    "byline": {
+      "original": "By GINA KOLATA",
+      "person": [
+        {
+          "firstname": "Gina",
+          "middlename": null,
+          "lastname": "KOLATA",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "544616ad38f0d832c813fa88",
+    "word_count": 940,
+    "score": 1.0,
+    "uri": "nyt://article/04a65706-8299-585c-a5af-58dee59a8495"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2010/05/11/us/politics/11nominees.html",
+    "snippet": "Like other Democratic nominees since the 1960s, Elena Kagan does not fit the profile sought by the left, which hungers for a liberal counterweight to Antonin Scalia.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/05/11/us/11nominees_CA0/11nominees_CA0-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/05/11/us/11nominees_CA0/11nominees_CA0-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Kagan Nomination Leaves Longing on the Left",
+      "kicker": "News Analysis",
+      "content_kicker": "News Analysis",
+      "print_headline": "Liberal, in Moderation",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Kagan, Elena",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Supreme Court",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Liberalism (US Politics)",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Politics and Government",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Scalia, Antonin",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Appointments and Executive Changes",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-05-11T01:20:48+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "section_name": "Politics",
+    "byline": {
+      "original": "By PETER BAKER",
+      "person": [
+        {
+          "firstname": "Peter",
+          "middlename": null,
+          "lastname": "BAKER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News Analysis",
+    "_id": "544610ff38f0d832c813fa0b",
+    "word_count": 1191,
+    "score": 1.0,
+    "uri": "nyt://article/07dd4a8b-b6b5-54f7-a645-7b9303c87cac"
+  }
+]

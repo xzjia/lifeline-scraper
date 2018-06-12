@@ -1,0 +1,316 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2009/09/30/world/middleeast/30intel.html",
+    "snippet": "While the similarities between 2002, when faulty intelligence estimates on Iraq were produced, and 2009 are unmistakable, the differences are profound.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/09/30/world/30intel.span.600.jpg",
+        "height": 313,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/09/30/world/30intel.span.600.jpg",
+          "xlargeheight": 313
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "In Dispute With Iran, Path to Iraq Is in Spotlight",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "In New Confrontation With Iran, Path to Iraq Is Again in Spotlight",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Iran",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Nuclear Weapons",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States International Relations",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Iraq",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Iraq War (2003- )",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-09-30T01:40:39+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Middle East",
+    "byline": {
+      "original": "By SCOTT SHANE",
+      "person": [
+        {
+          "firstname": "Scott",
+          "middlename": null,
+          "lastname": "SHANE",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5456b17b38f0d86ef22a09e6",
+    "word_count": 1128,
+    "score": 1.0,
+    "uri": "nyt://article/c7bb8843-7c25-54b5-a4ac-eebdeba8fdd6"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/10/01/garden/01collective.html",
+    "snippet": "Young urbanites are forming collectives or group homes \u2014 arrangements that are like the communes of yore, except that their groups are tiny and linked to outside interests.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/09/30/garden/01coll600.1.jpg",
+        "height": 247,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/09/30/garden/01coll600.1.jpg",
+          "xlargeheight": 247
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/09/30/garden/01coll75c.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/09/30/garden/01coll75c.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "A Modern Answer to the Commune",
+      "kicker": "Living Together",
+      "content_kicker": "Living Together",
+      "print_headline": "A Modern Answer To the Commune",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Roommates",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Housing and Real Estate",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Communes",
+        "rank": 3,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-09-30T23:25:24+0000",
+    "document_type": "article",
+    "new_desk": "Home",
+    "byline": {
+      "original": "By PENELOPE GREEN",
+      "person": [
+        {
+          "firstname": "Penelope",
+          "middlename": null,
+          "lastname": "GREEN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5456c06f38f0d86ef22a0b2d",
+    "word_count": 1882,
+    "score": 1.0,
+    "uri": "nyt://article/c94c269a-1d1f-53fb-8fc8-bebbd374cb50"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/09/30/business/economy/30leonhardt.html",
+    "snippet": "Lobbyists for unions and big business are staunchly opposed to a tax on generous health insurance plans, but their motives are questionable.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2016/07/15/timestopics/sub2-leonhardt-topics/sub2-leonhardt-topics-articleLarge.jpg",
+        "height": 600,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2016/07/15/timestopics/sub2-leonhardt-topics/sub2-leonhardt-topics-articleLarge.jpg",
+          "xlargeheight": 600
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2016/07/15/timestopics/sub2-leonhardt-topics/sub2-leonhardt-topics-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2016/07/15/timestopics/sub2-leonhardt-topics/sub2-leonhardt-topics-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2016/07/15/timestopics/sub2-leonhardt-topics/sub2-leonhardt-topics-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2016/07/15/timestopics/sub2-leonhardt-topics/sub2-leonhardt-topics-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "How a Tax Can Cut Health Costs",
+      "kicker": "Economic Scene",
+      "content_kicker": "Economic Scene",
+      "print_headline": "How a Tax Can Cut Health Costs",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Health Insurance and Managed Care",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Taxation",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Medicine and Health",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Organized Labor",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Reform and Reorganization",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-09-30T01:06:05+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "section_name": "Economy",
+    "byline": {
+      "original": "By DAVID LEONHARDT",
+      "person": [
+        {
+          "firstname": "David",
+          "middlename": null,
+          "lastname": "LEONHARDT",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5456b40938f0d86ef22a0a1f",
+    "word_count": 1291,
+    "score": 1.0,
+    "uri": "nyt://article/65a0ed54-3503-534a-acf4-a5d23906078c"
+  }
+]

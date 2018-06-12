@@ -1,0 +1,88 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2010/08/16/world/asia/16petraeus.html",
+    "snippet": "The commander of American and NATO forces said he did not come to Afghanistan to preside over a \u201cgraceful exit.\u201d",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/08/16/world/petraeus/petraeus-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/08/16/world/petraeus/petraeus-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Petraeus Opposes a Rapid Pullout in Afghanistan",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "General Opposes A Rapid Pullout In Afghanistan",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Afghanistan War (2001- )",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Petraeus, David H",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Afghanistan",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Defense and Military Forces",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-08-15T18:25:10+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Asia Pacific",
+    "byline": {
+      "original": "By DEXTER FILKINS",
+      "person": [
+        {
+          "firstname": "Dexter",
+          "middlename": null,
+          "lastname": "FILKINS",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5400b70e38f0d841b2f38570",
+    "word_count": 1206,
+    "score": 1.0,
+    "uri": "nyt://article/d4d2ccab-544f-53c0-beee-803f1cc7e460"
+  }
+]

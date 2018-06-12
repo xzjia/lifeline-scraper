@@ -1,0 +1,576 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2008/12/06/business/yourmoney/06money.html",
+    "snippet": "This may turn out to be the buying opportunity of a lifetime for those who can qualify for a mortgage.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/12/06/business/06money.600.jpg",
+        "height": 300,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2008/12/06/business/06money.600.jpg",
+          "xlargeheight": 300
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/12/06/business/06money.75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2008/12/06/business/06money.75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "It May Be Time to Think About Buying a House",
+      "kicker": "Your Money",
+      "content_kicker": "Your Money",
+      "print_headline": "Maybe It\u2019s Time to Buy That First House",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Housing",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Mortgages",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Personal Finances",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Sales",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Credit Scores",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Interest Rates",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2008-12-05T19:55:52+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "section_name": "Your Money",
+    "byline": {
+      "original": "By RON LIEBER",
+      "person": [
+        {
+          "firstname": "Ron",
+          "middlename": null,
+          "lastname": "LIEBER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "54691de038f0d8317bec09d0",
+    "word_count": 1395,
+    "score": 1.0,
+    "uri": "nyt://article/3bbc8ee9-f321-5043-bb41-4e6279af8e46"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2008/12/05/us/05trailer.html",
+    "snippet": "Young victims of Hurricane Katrina are behind in school and suffering from illness and mental health problems.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/12/05/us/05trailer2_75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2008/12/05/us/05trailer2_75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Many Children Lack Stability Long After Storm",
+      "kicker": "Leaving the Trailer",
+      "content_kicker": "Leaving the Trailer",
+      "print_headline": "Many Children Lack Stability Long After Storm",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Children and Youth",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Hurricane Katrina",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Education and Schools",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Families and Family Life",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Medicine and Health",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Federal Emergency Management Agency",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "New Orleans (La)",
+        "rank": 7,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2008-12-05T02:02:26+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "byline": {
+      "original": "By SHAILA DEWAN",
+      "person": [
+        {
+          "firstname": "Shaila",
+          "middlename": null,
+          "lastname": "DEWAN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "546a5cdb38f0d84ca2c5c259",
+    "word_count": 1585,
+    "score": 1.0,
+    "uri": "nyt://article/0aed9925-a654-5267-ac75-de3eb7456134"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2008/12/05/business/05housing.html",
+    "snippet": "The Treasury Department is working on a plan to boost the housing market by subsidizing 30-year home mortgages with rates as low as 4.5 percent.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/12/05/business/05housing01-600.jpg",
+        "height": 320,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2008/12/05/business/05housing01-600.jpg",
+          "xlargeheight": 320
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/12/05/business/05housing01-75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2008/12/05/business/05housing01-75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Washington\u2019s New Tack: Helping Home Buyers",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Washington\u2019s New Tack: Helping Home Buyers",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Subprime Mortgage Crisis",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Mortgages",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Housing",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Federal Reserve System",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Interest Rates",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2008-12-05T01:38:47+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By EDMUND L. ANDREWS",
+      "person": [
+        {
+          "firstname": "Edmund",
+          "middlename": "L.",
+          "lastname": "ANDREWS",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "547ad72b38f0d803f445c22e",
+    "word_count": 1233,
+    "score": 1.0,
+    "uri": "nyt://article/eed95d94-0c98-57a4-94b8-c391bcb5b7f8"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2008/12/05/arts/design/05moca.html",
+    "snippet": "By putting art ahead of the bottom line, the Museum of Contemporary Art in Los Angeles has suffered financially.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/12/05/arts/05moca600.2.jpg",
+        "height": 349,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2008/12/05/arts/05moca600.2.jpg",
+          "xlargeheight": 349
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/12/05/arts/05moca_75a.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2008/12/05/arts/05moca_75a.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Soaring in Art, Museum Trips Over Finances",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Soaring in Art, Museum Trips Over Finances",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "organizations",
+        "value": "Museum of Contemporary Art",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Finances",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Budgets and Budgeting",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Art",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Museums",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Los Angeles (Calif)",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2008-12-05T02:51:15+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "section_name": "Art & Design",
+    "byline": {
+      "original": "By EDWARD WYATT and JORI FINKEL",
+      "person": [
+        {
+          "firstname": "Edward",
+          "middlename": null,
+          "lastname": "WYATT",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Jori",
+          "middlename": null,
+          "lastname": "FINKEL",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "54758eee38f0d8119c6afb72",
+    "word_count": 1538,
+    "score": 1.0,
+    "uri": "nyt://article/c72a39fa-27b6-534b-98f5-952934722cc6"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2008/12/06/business/economy/06jobs.html",
+    "snippet": "The government\u2019s report of vast job losses in November puts increased pressure on Washington to act quickly on a stimulus package.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/12/05/us/unemployment600.1.jpg",
+        "height": 319,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2008/12/05/us/unemployment600.1.jpg",
+          "xlargeheight": 319
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/12/05/us/unemployment.7575.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2008/12/05/us/unemployment.7575.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "U.S. Loses 533,000 Jobs in Biggest Drop Since 1974",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "STEEP JOB LOSSES ADD TO PRESSURE FOR U.S. STIMULUS",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Unemployment",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Economy",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Recession and Depression",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "United States",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2008-12-05T13:33:09+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "section_name": "Economy",
+    "byline": {
+      "original": "By LOUIS UCHITELLE, EDMUND L. ANDREWS and STEPHEN LABATON",
+      "person": [
+        {
+          "firstname": "Louis",
+          "middlename": null,
+          "lastname": "UCHITELLE",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Edmund",
+          "middlename": "L.",
+          "lastname": "ANDREWS",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        },
+        {
+          "firstname": "Stephen",
+          "middlename": null,
+          "lastname": "LABATON",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 3
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "547ada1838f0d803f445c270",
+    "word_count": 1369,
+    "score": 1.0,
+    "uri": "nyt://article/f80b1737-602e-5a37-bf01-a627fc96a476"
+  }
+]

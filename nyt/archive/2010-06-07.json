@@ -1,0 +1,567 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2010/06/07/us/07spill.html",
+    "snippet": "The Coast Guard warned that even if the flow of oil was capped by summer, it could take until autumn to deal with the damage spreading across the gulf.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/06/07/us/JP-SPILL/JP-SPILL-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/06/07/us/JP-SPILL/JP-SPILL-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Coast Guard Sees Cleanup of Spill Lasting Until the Fall",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "COAST GUARD SEES OIL SPILL CLEANUP LASTING INTO FALL",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Oil (Petroleum) and Gasoline",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Offshore Drilling and Exploration",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Allen, Thad W",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Accidents and Safety",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Gulf of Mexico",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "BP Plc",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-06-07T01:01:00+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "byline": {
+      "original": "By CLIFFORD KRAUSS and JOHN M. BRODER",
+      "person": [
+        {
+          "firstname": "Clifford",
+          "middlename": null,
+          "lastname": "KRAUSS",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "John",
+          "middlename": null,
+          "lastname": null,
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5417300338f0d851fd3a7965",
+    "word_count": 1201,
+    "score": 1.0,
+    "uri": "nyt://article/aaec5d8d-c51f-57ce-8e88-ca7e265e4146"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2010/06/07/world/asia/07convoys.html",
+    "snippet": "The security firms are suspected of using U.S. funds to bribe the Taliban and fake attacks to make their services sought after.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/06/07/world/07CONVOY01_span/07CONVOY01_span-articleLarge.jpg",
+        "height": 350,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2010/06/07/world/07CONVOY01_span/07CONVOY01_span-articleLarge.jpg",
+          "xlargeheight": 350
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/06/07/world/07CONVOY01_span/07CONVOY01_span-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/06/07/world/07CONVOY01_span/07CONVOY01_span-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Convoy Guards in Afghanistan Face an Inquiry",
+      "kicker": "Rule of the Gun",
+      "content_kicker": "Rule of the Gun",
+      "print_headline": "Convoy Guards In Afghanistan Face an Inquiry",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Afghanistan",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Private Military Contractors",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Taliban",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Bribery",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Afghanistan War (2001- )",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Defense and Military Forces",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "North Atlantic Treaty Organization",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Karzai, Hamid",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Karzai, Hashmat",
+        "rank": 9,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Karzai, Ahmed Wali",
+        "rank": 10,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-06-07T01:23:15+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Asia Pacific",
+    "byline": {
+      "original": "By DEXTER FILKINS",
+      "person": [
+        {
+          "firstname": "Dexter",
+          "middlename": null,
+          "lastname": "FILKINS",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5417328338f0d851fd3a7998",
+    "word_count": 1900,
+    "score": 1.0,
+    "uri": "nyt://article/f4fc952f-5f3c-5450-8d84-811019a38269"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2010/06/07/technology/07brain.html",
+    "snippet": "Scientists say our ability to focus is being undermined by bursts of information from e-mail and other interruptions.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/06/07/technology/07BRAIN01_span/BRAIN-articleLarge.jpg",
+        "height": 350,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2010/06/07/technology/07BRAIN01_span/BRAIN-articleLarge.jpg",
+          "xlargeheight": 350
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/06/07/technology/07BRAIN01_span/BRAIN-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/06/07/technology/07BRAIN01_span/BRAIN-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Attached to Technology and Paying a Price",
+      "kicker": "Your Brain on Computers",
+      "content_kicker": "Your Brain on Computers",
+      "print_headline": "Hooked on Gadgets, and Paying a Mental Price",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Brain",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Computers and the Internet",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Social Conditions and Trends",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Families and Family Life",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-06-07T02:41:28+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By MATT RICHTEL",
+      "person": [
+        {
+          "firstname": "Matt",
+          "middlename": null,
+          "lastname": "RICHTEL",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5416f26f38f0d85fde323fe2",
+    "word_count": 3647,
+    "score": 1.0,
+    "uri": "nyt://article/d15d626a-af28-59e8-88d4-183addf0c7d8"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2010/06/08/science/space/08space.html",
+    "snippet": "A Nevada company is preparing the solar system\u2019s first private space station.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/06/08/science/08space-span/08space-span-articleLarge.jpg",
+        "height": 330,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2010/06/08/science/08space-span/08space-span-articleLarge.jpg",
+          "xlargeheight": 330
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/06/08/science/08space-span/08space-span-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/06/08/science/08space-span/08space-span-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "In New Space Race, Enter the Entrepreneurs",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "In New Space Race, Enter the Entrepreneurs",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Space Stations",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Entrepreneurship",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "National Aeronautics and Space Administration",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Science and Technology",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-06-07T22:18:59+0000",
+    "document_type": "article",
+    "new_desk": "Science",
+    "section_name": "Space & Cosmos",
+    "byline": {
+      "original": "By KENNETH CHANG",
+      "person": [
+        {
+          "firstname": "Kenneth",
+          "middlename": null,
+          "lastname": "CHANG",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5417380138f0d851fd3a7a0f",
+    "word_count": 1941,
+    "score": 1.0,
+    "uri": "nyt://article/3b73b9e7-5f92-55e7-a6f1-bd7d64b09f71"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2010/06/08/science/08tier.html",
+    "snippet": "A bill passed by the House recalls a hypothesis about differences in the sexes\u2019 aptitude for math and science.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/06/08/science/08TIER-span/jpTIER-articleLarge.jpg",
+        "height": 330,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2010/06/08/science/08TIER-span/jpTIER-articleLarge.jpg",
+          "xlargeheight": 330
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/06/08/science/08TIER-span/jpTIER-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/06/08/science/08TIER-span/jpTIER-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Daring to Discuss Women in Science",
+      "kicker": "Findings",
+      "content_kicker": "Findings",
+      "print_headline": "Daring to Discuss Women in Science",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Women and Girls",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Science and Technology",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Mathematics",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Summers, Lawrence H",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Law and Legislation",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "House of Representatives",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-06-07T21:11:07+0000",
+    "document_type": "article",
+    "new_desk": "Science",
+    "byline": {
+      "original": "By JOHN TIERNEY",
+      "person": [
+        {
+          "firstname": "John",
+          "middlename": null,
+          "lastname": "TIERNEY",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5417376038f0d851fd3a7a03",
+    "word_count": 1279,
+    "score": 1.0,
+    "uri": "nyt://article/7ffb00fd-3a00-50d9-b3bb-5fa971bad5f0"
+  }
+]

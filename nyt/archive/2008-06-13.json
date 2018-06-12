@@ -1,0 +1,184 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2008/06/13/us/politics/13split.html",
+    "snippet": "Gov. Arnold Schwarzenegger is supporting Senator John McCain, while his wife, Maria Shriver, is backing Senator Barack Obama.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/06/13/us/13split.600.jpg",
+        "height": 320,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2008/06/13/us/13split.600.jpg",
+          "xlargeheight": 320
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/06/13/us/13split.75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2008/06/13/us/13split.75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "In California, a House Divided Stands Strong",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "In California, a House Divided Stands Strong",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Schwarzenegger, Arnold",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Shriver, Maria",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "California",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Presidential Election of 2008",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Families and Family Life",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Republican Party",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Democratic Party",
+        "rank": 7,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2008-06-13T04:00:00+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "section_name": "Politics",
+    "byline": {
+      "original": "By JENNIFER STEINHAUER",
+      "person": [
+        {
+          "firstname": "Jennifer",
+          "middlename": null,
+          "lastname": "STEINHAUER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "54823c3c38f0d8403d9cbe28",
+    "word_count": 965,
+    "score": 1.0,
+    "uri": "nyt://article/51a21ff2-a9ad-5c0a-8b83-3bf79a877ef0"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2008/06/13/business/13speculate.html",
+    "snippet": "Hostility in Washington toward speculators is starting to worry people who know how commodity markets work.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "A Bull Market Sees the Worst in Speculators",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "A Bull Market Sees the Worst In Speculators",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Futures and Options Trading",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Commodity Futures Trading Commission",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Politics and Government",
+        "rank": 3,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2008-06-13T04:00:00+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By DIANA B. HENRIQUES",
+      "person": [
+        {
+          "firstname": "Diana",
+          "middlename": null,
+          "lastname": null,
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "548239ee38f0d8403d9cbddf",
+    "word_count": 1597,
+    "score": 1.0,
+    "uri": "nyt://article/1aa970ff-7653-5e7a-93f5-0db37b19884f"
+  }
+]

@@ -1,0 +1,99 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2009/01/18/nyregion/thecity/18infr.html",
+    "snippet": "Should federal dollars go to improve education, roads and bridges, health care? New Yorkers suggest how the president-elect can create a New Deal.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/01/18/nyregion/thecity/18infr.span2.jpg",
+        "height": 326,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/01/18/nyregion/thecity/18infr.span2.jpg",
+          "xlargeheight": 326
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/01/18/nyregion/thecity/18citypromo.75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/01/18/nyregion/thecity/18citypromo.75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "\u2018Obama, Pave Atlantic Avenue\u2019",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "\u2018Obama, Pave Atlantic Avenue\u2019",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Infrastructure (Public Works)",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Obama, Barack",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "New York City",
+        "rank": 3,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-01-17T00:35:44+0000",
+    "document_type": "article",
+    "new_desk": "CityWeekly",
+    "section_name": "The City",
+    "byline": {
+      "original": "By GRAHAM T. BECK",
+      "person": [
+        {
+          "firstname": "Graham",
+          "middlename": "T.",
+          "lastname": "BECK",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5471cb8d38f0d847c5e4354c",
+    "word_count": 2302,
+    "score": 1.0,
+    "uri": "nyt://article/f0f8a08a-7912-53b5-9f30-421df24e77b6"
+  }
+]

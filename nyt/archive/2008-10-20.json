@@ -1,0 +1,340 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2008/10/20/us/politics/20health.html",
+    "snippet": "The limited information provided by the candidates is a departure from recent, more forthcoming, campaigns.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "Many Holes in Disclosure of Nominees\u2019 Health",
+      "kicker": "The Doctor\u2019s World",
+      "content_kicker": "The Doctor\u2019s World",
+      "print_headline": "Many Holes in Disclosure of Nominees\u2019 Health",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Presidential Election of 2008",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Medicine and Health",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "McCain, John",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Obama, Barack",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Melanomas",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Aneurysms",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Smoking and Tobacco",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Doctors",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Age, Chronological",
+        "rank": 9,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Biden, Joseph R Jr",
+        "rank": 10,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Palin, Sarah",
+        "rank": 11,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2008-10-20T01:49:05+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "section_name": "Politics",
+    "byline": {
+      "original": "By LAWRENCE K. ALTMAN, M.D",
+      "person": [
+        {
+          "firstname": "Lawrence",
+          "middlename": "K.",
+          "lastname": "ALTMAN",
+          "qualifier": "M.D",
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "54792fda38f0d86bf592f088",
+    "word_count": 4504,
+    "score": 1.0,
+    "uri": "nyt://article/ef5ba6b8-5213-5bbb-b1ec-89ce495b6642"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2008/10/20/business/economy/20cost.html",
+    "snippet": "Lawmakers have elected to pay for the bailout mainly by borrowing rather than spending cuts or tax hikes.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/10/20/business/20cost.conrad.190.jpg",
+        "height": 129,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2008/10/20/business/20cost.conrad.190.jpg",
+          "widewidth": 190,
+          "wideheight": 129
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/10/20/business/20cost.conrad.75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2008/10/20/business/20cost.conrad.75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Deficit Rises, and Consensus Is to Let It Grow",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Deficit Rises, And Consensus Is to Let It Grow",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Federal Budget (US)",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Economy",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Emergency Economic Stabilization Act (2008)",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Subprime Mortgage Crisis",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "National Debt (US)",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2008-10-20T01:45:05+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "section_name": "Economy",
+    "byline": {
+      "original": "By LOUIS UCHITELLE  and ROBERT PEAR",
+      "person": [
+        {
+          "firstname": "Louis",
+          "middlename": null,
+          "lastname": "UCHITELLE",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Robert",
+          "middlename": null,
+          "lastname": "PEAR",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "547930a738f0d86bf592f099",
+    "word_count": 1416,
+    "score": 1.0,
+    "uri": "nyt://article/21d75767-e758-5de2-a7b2-9fe9d20f42a0"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2008/10/20/us/20gene.html",
+    "snippet": "Ten volunteers are putting their genomes online, hoping to aid research.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/10/20/us/20gene-inline1-75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2008/10/20/us/20gene-inline1-75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Taking a Peek at the Experts\u2019 Genetic Secrets",
+      "kicker": "The DNA Age",
+      "content_kicker": "The DNA Age",
+      "print_headline": "Project Lets Anyone Take a Peek At the Experts\u2019 Genetic Secrets",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Dyson, Esther",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Genetics and Heredity",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Pinker, Steven",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Medicine and Health",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Harvard University",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Families and Family Life",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Privacy",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "DNA (Deoxyribonucleic Acid)",
+        "rank": 9,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2008-10-20T02:21:43+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "byline": {
+      "original": "By AMY HARMON",
+      "person": [
+        {
+          "firstname": "Amy",
+          "middlename": null,
+          "lastname": "HARMON",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "Series",
+    "_id": "547930bf38f0d86bf592f09c",
+    "word_count": 1652,
+    "score": 1.0,
+    "uri": "nyt://article/47502b52-fb93-5ab6-8a9a-079774d95612"
+  }
+]

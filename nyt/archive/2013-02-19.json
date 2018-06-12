@@ -1,0 +1,880 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2013/02/20/us/battle-in-genteel-charleston-over-cruise-ships.html",
+    "snippet": "A genteel South Carolina city is debating the benefits and disruptions of building a newer cruise ship terminal.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/02/20/us/20charleston_cnd/20charleston_cnd-articleLarge.jpg",
+        "height": 399,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2013/02/20/us/20charleston_cnd/20charleston_cnd-articleLarge.jpg",
+          "xlargeheight": 399
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/02/20/us/20charleston_cnd/20charleston_cnd-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2013/02/20/us/20charleston_cnd/20charleston_cnd-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/02/20/us/20charleston_cnd/20charleston_cnd-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2013/02/20/us/20charleston_cnd/20charleston_cnd-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "This Charleston Harbor Battle Is Over Cruise Ships",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "This Charleston Harbor Battle Is Over Impact of Cruise Ships",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Cruises",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Ports",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Charleston (SC)",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Carnival Cruise Lines",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2013-02-19T19:58:54+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "byline": {
+      "original": "By KIM SEVERSON",
+      "person": [
+        {
+          "firstname": "Kim",
+          "middlename": null,
+          "lastname": "SEVERSON",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5123dc39cf28d009de000c3f",
+    "word_count": 1194,
+    "score": 1.0,
+    "uri": "nyt://article/2408a5ca-ac93-5ba3-a356-d929163250fa"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2013/02/20/dining/the-mallorcas-of-san-juan.html",
+    "snippet": "Puffy, sweet buns summon teenage days shopping in Old San Juan, and the treats savored afterward.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/02/20/dining/20PUERTORICO_SPAN/20PUERTORICO-articleLarge.jpg",
+        "height": 400,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2013/02/20/dining/20PUERTORICO_SPAN/20PUERTORICO-articleLarge.jpg",
+          "xlargeheight": 400
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/02/20/dining/20PUERTORICO_SPAN/20PUERTORICO-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2013/02/20/dining/20PUERTORICO_SPAN/20PUERTORICO-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/02/20/dining/20PUERTORICO_SPAN/20PUERTORICO-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2013/02/20/dining/20PUERTORICO_SPAN/20PUERTORICO-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "A Tropical Madeleine",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "A Tropical Madeleine",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Bakeries and Baked Products",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Cooking and Cookbooks",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "San Juan (Puerto Rico)",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Bread",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2013-02-19T20:49:17+0000",
+    "document_type": "article",
+    "new_desk": "Dining",
+    "byline": {
+      "original": "By MIREYA NAVARRO",
+      "person": [
+        {
+          "firstname": "Mireya",
+          "middlename": null,
+          "lastname": "NAVARRO",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5123e7bfcf28d009de000c5c",
+    "word_count": 1329,
+    "score": 1.0,
+    "uri": "nyt://article/75797821-f928-5711-ad07-2ad9b6ad23a9"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2013/02/19/technology/chinas-army-is-seen-as-tied-to-hacking-against-us.html",
+    "snippet": "An overwhelming percentage of the attacks on American companies and government agencies start in a building on the edge of Shanghai, say cybersecurity experts and American intelligence officials.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/02/19/business/Hack/Hack-articleLarge.jpg",
+        "height": 457,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2013/02/19/business/Hack/Hack-articleLarge.jpg",
+          "xlargeheight": 457
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/02/19/business/Hack/Hack-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2013/02/19/business/Hack/Hack-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/02/19/business/Hack/Hack-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2013/02/19/business/Hack/Hack-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Chinese Army Unit Is Seen as Tied to Hacking Against U.S.",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "China\u2019s Army Seen as Tied To Hacking Against U.S.",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Cyberattacks and Hackers",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "China",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Computer Security",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Mandiant Corp",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Cyberwarfare",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Espionage and Intelligence Services",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Chinese People's Liberation Army",
+        "rank": 7,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2013-02-19T03:01:12+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By DAVID E. SANGER, DAVID BARBOZA and NICOLE PERLROTH",
+      "person": [
+        {
+          "firstname": "David",
+          "middlename": "E.",
+          "lastname": "SANGER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "David",
+          "middlename": null,
+          "lastname": "BARBOZA",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        },
+        {
+          "firstname": "Nicole",
+          "middlename": null,
+          "lastname": "PERLROTH",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 3
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5122ebc6cf28d009de000a0c",
+    "word_count": 3001,
+    "score": 1.0,
+    "uri": "nyt://article/b4492c33-9f1b-5817-9db6-ae7b46fcfd81"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2013/02/20/theater/upright-citizens-brigade-grows-by-not-paying-performers.html",
+    "snippet": "Upright Citizens Brigade Theater has become a major player in the comedy world partly by not paying some performers.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/02/20/arts/20COMEDY/20COMEDY-articleLarge.jpg",
+        "height": 393,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2013/02/20/arts/20COMEDY/20COMEDY-articleLarge.jpg",
+          "xlargeheight": 393
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/02/20/arts/20COMEDY/20COMEDY-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2013/02/20/arts/20COMEDY/20COMEDY-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/02/20/arts/20COMEDY/20COMEDY-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2013/02/20/arts/20COMEDY/20COMEDY-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Laughs Can Be Cheap at a Comedy Theater",
+      "kicker": "Critic\u2019s Notebook",
+      "content_kicker": "Critic\u2019s Notebook",
+      "print_headline": "Laughs Can Be Cheap at a Comedy Theater",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Comedy and Humor",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Upright Citizens Brigade",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Theater",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Wages and Salaries",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2013-02-19T22:34:48+0000",
+    "document_type": "article",
+    "new_desk": "Culture",
+    "byline": {
+      "original": "By JASON ZINOMAN",
+      "person": [
+        {
+          "firstname": "Jason",
+          "middlename": null,
+          "lastname": "ZINOMAN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "512400ebcf28d009de000ccd",
+    "word_count": 1247,
+    "score": 1.0,
+    "uri": "nyt://article/1999b7b3-86b2-5363-86e2-195d9e659984"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2013/02/19/education/gym-class-isnt-just-fun-and-games-anymore.html",
+    "snippet": "It is no longer enough in some schools for students to run around during gym. Now they are often taught math or English or health at the same time.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/02/19/education/PHYSED/PHYSED-articleLarge-v2.jpg",
+        "height": 400,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2013/02/19/education/PHYSED/PHYSED-articleLarge-v2.jpg",
+          "xlargeheight": 400
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/02/19/education/PHYSED/PHYSED-thumbWide-v2.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2013/02/19/education/PHYSED/PHYSED-thumbWide-v2.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/02/19/education/PHYSED/PHYSED-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2013/02/19/education/PHYSED/PHYSED-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Gym Class Isn\u2019t Just Fun and Games Anymore",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Gym Class Isn\u2019t Just Fun and Games Anymore",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Education (K-12)",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Physical Education and Training",
+        "rank": 2,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2013-02-19T03:16:00+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "byline": {
+      "original": "By MOTOKO RICH",
+      "person": [
+        {
+          "firstname": "Motoko",
+          "middlename": null,
+          "lastname": "RICH",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5122ef3ecf28d009de000a15",
+    "word_count": 1143,
+    "score": 1.0,
+    "uri": "nyt://article/5ba29479-811c-5cd8-af09-36a9fa2f48a0"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2013/02/20/us/politics/supreme-court-to-hear-campaign-finance-case.html",
+    "snippet": "The Supreme Court will examine caps on aggregate contributions by individual donors, setting the stage for what could end up as the most important campaign finance case since the 2010 decision in Citizens United.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/02/20/us/politics/video-tc-130220-scotus/video-tc-130220-scotus-articleLarge.jpg",
+        "height": 338,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2013/02/20/us/politics/video-tc-130220-scotus/video-tc-130220-scotus-articleLarge.jpg",
+          "xlargeheight": 338
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/02/20/us/politics/video-tc-130220-scotus/video-tc-130220-scotus-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2013/02/20/us/politics/video-tc-130220-scotus/video-tc-130220-scotus-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/02/20/us/politics/video-tc-130220-scotus/video-tc-130220-scotus-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2013/02/20/us/politics/video-tc-130220-scotus/video-tc-130220-scotus-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Justices Take Case on\r\nOverall Limit to\r\nPolitical Donations",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Court Takes Case On Overall Limit In Election Cash",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "organizations",
+        "value": "Supreme Court",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Campaign Finance",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Fourth Amendment (US Constitution)",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Decisions and Verdicts",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2013-02-19T22:42:42+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "section_name": "Politics",
+    "byline": {
+      "original": "By ADAM LIPTAK",
+      "person": [
+        {
+          "firstname": "Adam",
+          "middlename": null,
+          "lastname": "LIPTAK",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "512402adcf28d009de000cd6",
+    "word_count": 1071,
+    "score": 1.0,
+    "uri": "nyt://article/4b579383-0991-5c0f-9077-ca85ad465267"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2013/02/20/business/college-degree-required-by-increasing-number-of-companies.html",
+    "snippet": "These days, Busch, Slipakoff & Schuh, a law firm in Atlanta, hires only people with a bachelor\u2019s degree \u2014 no exceptions. And it is far from alone.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/02/20/business/20degree-sf/20degree-sf-articleLarge.jpg",
+        "height": 399,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2013/02/20/business/20degree-sf/20degree-sf-articleLarge.jpg",
+          "xlargeheight": 399
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/02/20/business/20degree-sf/20degree-sf-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2013/02/20/business/20degree-sf/20degree-sf-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/02/20/business/20degree-sf/20degree-sf-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2013/02/20/business/20degree-sf/20degree-sf-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "It Takes a B.A. to Find a Job as a File Clerk",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "It Takes a B.A. To Find a Job As a File Clerk",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "organizations",
+        "value": "Busch, Slipakoff & Schuh LLP",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Atlanta (Ga)",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Labor and Jobs",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Hiring and Promotion",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Colleges and Universities",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Unemployment",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Legal Profession",
+        "rank": 7,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2013-02-19T20:17:07+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By CATHERINE RAMPELL",
+      "person": [
+        {
+          "firstname": "Catherine",
+          "middlename": null,
+          "lastname": "RAMPELL",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5123e07bcf28d009de000c4c",
+    "word_count": 1155,
+    "score": 1.0,
+    "uri": "nyt://article/a5a63073-a91d-5f0a-9bd2-776e07b5e0df"
+  }
+]

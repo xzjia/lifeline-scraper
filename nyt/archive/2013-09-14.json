@@ -1,0 +1,1563 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2013/09/15/sports/skiing/mark-mcmorris-olympic-snowboarding-gold-contender.html",
+    "snippet": "Mark McMorris, a 19-year-old from the Canada prairies, has the kind of airborne moves in snowboarding that could translate to Olympic gold.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/09/15/sports/skiing/15mcmorris_ss-slide-1R2T/15mcmorris_ss-slide-1R2T-articleLarge.jpg",
+        "height": 400,
+        "width": 600,
+        "legacy": {
+          "xlarge": "images/2013/09/15/sports/skiing/15mcmorris_ss-slide-1R2T/15mcmorris_ss-slide-1R2T-articleLarge.jpg",
+          "xlargewidth": 600,
+          "xlargeheight": 400
+        },
+        "subType": "xlarge",
+        "crop_name": "articleLarge"
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/09/15/sports/skiing/15mcmorris_ss-slide-1R2T/15mcmorris_ss-slide-1R2T-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2013/09/15/sports/skiing/15mcmorris_ss-slide-1R2T/15mcmorris_ss-slide-1R2T-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": "thumbWide"
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/09/15/sports/skiing/15mcmorris_ss-slide-1R2T/15mcmorris_ss-slide-1R2T-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnail": "images/2013/09/15/sports/skiing/15mcmorris_ss-slide-1R2T/15mcmorris_ss-slide-1R2T-thumbStandard.jpg",
+          "thumbnailwidth": 75,
+          "thumbnailheight": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": "thumbStandard"
+      },
+      {
+        "rank": 0,
+        "subtype": "articleInline",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/09/15/sports/skiing/15mcmorris_ss-slide-1R2T/15mcmorris_ss-slide-1R2T-articleInline.jpg",
+        "height": 127,
+        "width": 190,
+        "legacy": {},
+        "subType": "articleInline",
+        "crop_name": "articleInline"
+      },
+      {
+        "rank": 0,
+        "subtype": "blog225",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/09/15/sports/skiing/15mcmorris_ss-slide-1R2T/15mcmorris_ss-slide-1R2T-blog225.jpg",
+        "height": 150,
+        "width": 225,
+        "legacy": {},
+        "subType": "blog225",
+        "crop_name": "blog225"
+      },
+      {
+        "rank": 0,
+        "subtype": "blog427",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/09/15/sports/skiing/15mcmorris_ss-slide-1R2T/15mcmorris_ss-slide-1R2T-blog427.jpg",
+        "height": 285,
+        "width": 427,
+        "legacy": {},
+        "subType": "blog427",
+        "crop_name": "blog427"
+      },
+      {
+        "rank": 0,
+        "subtype": "blog480",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/09/15/sports/skiing/15mcmorris_ss-slide-1R2T/15mcmorris_ss-slide-1R2T-blog480.jpg",
+        "height": 320,
+        "width": 480,
+        "legacy": {},
+        "subType": "blog480",
+        "crop_name": "blog480"
+      },
+      {
+        "rank": 0,
+        "subtype": "blog533",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/09/15/sports/skiing/15mcmorris_ss-slide-1R2T/15mcmorris_ss-slide-1R2T-blog533.jpg",
+        "height": 355,
+        "width": 533,
+        "legacy": {},
+        "subType": "blog533",
+        "crop_name": "blog533"
+      },
+      {
+        "rank": 0,
+        "subtype": "blogSmallInline",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/09/15/sports/skiing/15mcmorris_ss-slide-1R2T/15mcmorris_ss-slide-1R2T-blogSmallInline.jpg",
+        "height": 101,
+        "width": 151,
+        "legacy": {},
+        "subType": "blogSmallInline",
+        "crop_name": "blogSmallInline"
+      },
+      {
+        "rank": 0,
+        "subtype": "blogSmallThumb",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/09/15/sports/skiing/15mcmorris_ss-slide-1R2T/15mcmorris_ss-slide-1R2T-blogSmallThumb.jpg",
+        "height": 50,
+        "width": 50,
+        "legacy": {},
+        "subType": "blogSmallThumb",
+        "crop_name": "blogSmallThumb"
+      },
+      {
+        "rank": 0,
+        "subtype": "filmstrip",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/09/15/sports/skiing/15mcmorris_ss-slide-1R2T/15mcmorris_ss-slide-1R2T-filmstrip.jpg",
+        "height": 190,
+        "width": 190,
+        "legacy": {},
+        "subType": "filmstrip",
+        "crop_name": "filmstrip"
+      },
+      {
+        "rank": 0,
+        "subtype": "hpLarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/09/15/sports/skiing/15mcmorris_ss-slide-1R2T/15mcmorris_ss-slide-1R2T-hpLarge.jpg",
+        "height": 256,
+        "width": 511,
+        "legacy": {},
+        "subType": "hpLarge",
+        "crop_name": "hpLarge"
+      },
+      {
+        "rank": 0,
+        "subtype": "hpSmall",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/09/15/sports/skiing/15mcmorris_ss-slide-1R2T/15mcmorris_ss-slide-1R2T-hpSmall.jpg",
+        "height": 109,
+        "width": 163,
+        "legacy": {},
+        "subType": "hpSmall",
+        "crop_name": "hpSmall"
+      },
+      {
+        "rank": 0,
+        "subtype": "jumbo",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/09/15/sports/skiing/15mcmorris_ss-slide-1R2T/15mcmorris_ss-slide-1R2T-jumbo.jpg",
+        "height": 683,
+        "width": 1024,
+        "legacy": {},
+        "subType": "jumbo",
+        "crop_name": "jumbo"
+      },
+      {
+        "rank": 0,
+        "subtype": "largeHorizontal375",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/09/15/sports/skiing/15mcmorris_ss-slide-1R2T/15mcmorris_ss-slide-1R2T-largeHorizontal375.jpg",
+        "height": 250,
+        "width": 375,
+        "legacy": {},
+        "subType": "largeHorizontal375",
+        "crop_name": "largeHorizontal375"
+      },
+      {
+        "rank": 0,
+        "subtype": "largeWidescreen573",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/09/15/sports/skiing/15mcmorris_ss-slide-1R2T/15mcmorris_ss-slide-1R2T-largeWidescreen573.jpg",
+        "height": 287,
+        "width": 573,
+        "legacy": {},
+        "subType": "largeWidescreen573",
+        "crop_name": "largeWidescreen573"
+      },
+      {
+        "rank": 0,
+        "subtype": "master1050",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/09/15/sports/skiing/15mcmorris_ss-slide-1R2T/15mcmorris_ss-slide-1R2T-master1050.jpg",
+        "height": 700,
+        "width": 1050,
+        "legacy": {},
+        "subType": "master1050",
+        "crop_name": "master1050"
+      },
+      {
+        "rank": 0,
+        "subtype": "master180",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/09/15/sports/skiing/15mcmorris_ss-slide-1R2T/15mcmorris_ss-slide-1R2T-master180.jpg",
+        "height": 120,
+        "width": 180,
+        "legacy": {},
+        "subType": "master180",
+        "crop_name": "master180"
+      },
+      {
+        "rank": 0,
+        "subtype": "master495",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/09/15/sports/skiing/15mcmorris_ss-slide-1R2T/15mcmorris_ss-slide-1R2T-master495.jpg",
+        "height": 330,
+        "width": 495,
+        "legacy": {},
+        "subType": "master495",
+        "crop_name": "master495"
+      },
+      {
+        "rank": 0,
+        "subtype": "master675",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/09/15/sports/skiing/15mcmorris_ss-slide-1R2T/15mcmorris_ss-slide-1R2T-master675.jpg",
+        "height": 450,
+        "width": 675,
+        "legacy": {},
+        "subType": "master675",
+        "crop_name": "master675"
+      },
+      {
+        "rank": 0,
+        "subtype": "mediumFlexible177",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/09/15/sports/skiing/15mcmorris_ss-slide-1R2T/15mcmorris_ss-slide-1R2T-mediumFlexible177.jpg",
+        "height": 118,
+        "width": 177,
+        "legacy": {},
+        "subType": "mediumFlexible177",
+        "crop_name": "mediumFlexible177"
+      },
+      {
+        "rank": 0,
+        "subtype": "mediumThreeByTwo210",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/09/15/sports/skiing/15mcmorris_ss-slide-1R2T/15mcmorris_ss-slide-1R2T-mediumThreeByTwo210.jpg",
+        "height": 140,
+        "width": 210,
+        "legacy": {},
+        "subType": "mediumThreeByTwo210",
+        "crop_name": "mediumThreeByTwo210"
+      },
+      {
+        "rank": 0,
+        "subtype": "mediumThreeByTwo225",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/09/15/sports/skiing/15mcmorris_ss-slide-1R2T/15mcmorris_ss-slide-1R2T-mediumThreeByTwo225.jpg",
+        "height": 150,
+        "width": 225,
+        "legacy": {},
+        "subType": "mediumThreeByTwo225",
+        "crop_name": "mediumThreeByTwo225"
+      },
+      {
+        "rank": 0,
+        "subtype": "miniMoth",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/09/15/sports/skiing/15mcmorris_ss-slide-1R2T/15mcmorris_ss-slide-1R2T-miniMoth.jpg",
+        "height": 70,
+        "width": 151,
+        "legacy": {},
+        "subType": "miniMoth",
+        "crop_name": "miniMoth"
+      },
+      {
+        "rank": 0,
+        "subtype": "moth",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/09/15/sports/skiing/15mcmorris_ss-slide-1R2T/15mcmorris_ss-slide-1R2T-moth.jpg",
+        "height": 151,
+        "width": 151,
+        "legacy": {},
+        "subType": "moth",
+        "crop_name": "moth"
+      },
+      {
+        "rank": 0,
+        "subtype": "popup",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/09/15/sports/skiing/15mcmorris_ss-slide-1R2T/15mcmorris_ss-slide-1R2T-popup.jpg",
+        "height": 433,
+        "width": 650,
+        "legacy": {},
+        "subType": "popup",
+        "crop_name": "popup"
+      },
+      {
+        "rank": 0,
+        "subtype": "sfSpan",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/09/15/sports/skiing/15mcmorris_ss-slide-1R2T/15mcmorris_ss-slide-1R2T-sfSpan.jpg",
+        "height": 263,
+        "width": 395,
+        "legacy": {},
+        "subType": "sfSpan",
+        "crop_name": "sfSpan"
+      },
+      {
+        "rank": 0,
+        "subtype": "slide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/09/15/sports/skiing/15mcmorris_ss-slide-1R2T/15mcmorris_ss-slide-1R2T-slide.jpg",
+        "height": 400,
+        "width": 600,
+        "legacy": {},
+        "subType": "slide",
+        "crop_name": "slide"
+      },
+      {
+        "rank": 0,
+        "subtype": "square320",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/09/15/sports/skiing/15mcmorris_ss-slide-1R2T/15mcmorris_ss-slide-1R2T-square320.jpg",
+        "height": 320,
+        "width": 320,
+        "legacy": {},
+        "subType": "square320",
+        "crop_name": "square320"
+      },
+      {
+        "rank": 0,
+        "subtype": "square640",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/09/15/sports/skiing/15mcmorris_ss-slide-1R2T/15mcmorris_ss-slide-1R2T-square640.jpg",
+        "height": 640,
+        "width": 640,
+        "legacy": {},
+        "subType": "square640",
+        "crop_name": "square640"
+      },
+      {
+        "rank": 0,
+        "subtype": "superJumbo",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/09/15/sports/skiing/15mcmorris_ss-slide-1R2T/15mcmorris_ss-slide-1R2T-superJumbo.jpg",
+        "height": 1365,
+        "width": 2048,
+        "legacy": {},
+        "subType": "superJumbo",
+        "crop_name": "superJumbo"
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbLarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/09/15/sports/skiing/15mcmorris_ss-slide-1R2T/15mcmorris_ss-slide-1R2T-thumbLarge.jpg",
+        "height": 150,
+        "width": 150,
+        "legacy": {},
+        "subType": "thumbLarge",
+        "crop_name": "thumbLarge"
+      },
+      {
+        "rank": 0,
+        "subtype": "tmagArticle",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/09/15/sports/skiing/15mcmorris_ss-slide-1R2T/15mcmorris_ss-slide-1R2T-tmagArticle.jpg",
+        "height": 395,
+        "width": 592,
+        "legacy": {},
+        "subType": "tmagArticle",
+        "crop_name": "tmagArticle"
+      },
+      {
+        "rank": 0,
+        "subtype": "tmagSF",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/09/15/sports/skiing/15mcmorris_ss-slide-1R2T/15mcmorris_ss-slide-1R2T-tmagSF.jpg",
+        "height": 241,
+        "width": 362,
+        "legacy": {},
+        "subType": "tmagSF",
+        "crop_name": "tmagSF"
+      },
+      {
+        "rank": 0,
+        "subtype": "videoHpMedium",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/09/15/sports/skiing/15mcmorris_ss-slide-1R2T/15mcmorris_ss-slide-1R2T-videoHpMedium.jpg",
+        "height": 190,
+        "width": 337,
+        "legacy": {},
+        "subType": "videoHpMedium",
+        "crop_name": "videoHpMedium"
+      },
+      {
+        "rank": 0,
+        "subtype": "videoLarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/09/15/sports/skiing/15mcmorris_ss-slide-1R2T/15mcmorris_ss-slide-1R2T-videoLarge.jpg",
+        "height": 507,
+        "width": 768,
+        "legacy": {},
+        "subType": "videoLarge",
+        "crop_name": "videoLarge"
+      },
+      {
+        "rank": 0,
+        "subtype": "videoSixteenByNine390",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/09/15/sports/skiing/15mcmorris_ss-slide-1R2T/15mcmorris_ss-slide-1R2T-videoSixteenByNine390.jpg",
+        "height": 219,
+        "width": 390,
+        "legacy": {},
+        "subType": "videoSixteenByNine390",
+        "crop_name": "videoSixteenByNine390"
+      },
+      {
+        "rank": 0,
+        "subtype": "videoSixteenByNine495",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/09/15/sports/skiing/15mcmorris_ss-slide-1R2T/15mcmorris_ss-slide-1R2T-videoSixteenByNine495.jpg",
+        "height": 278,
+        "width": 495,
+        "legacy": {},
+        "subType": "videoSixteenByNine495",
+        "crop_name": "videoSixteenByNine495"
+      },
+      {
+        "rank": 0,
+        "subtype": "videoSixteenByNine540",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/09/15/sports/skiing/15mcmorris_ss-slide-1R2T/15mcmorris_ss-slide-1R2T-videoSixteenByNine540.jpg",
+        "height": 304,
+        "width": 540,
+        "legacy": {},
+        "subType": "videoSixteenByNine540",
+        "crop_name": "videoSixteenByNine540"
+      },
+      {
+        "rank": 0,
+        "subtype": "videoSixteenByNine600",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/09/15/sports/skiing/15mcmorris_ss-slide-1R2T/15mcmorris_ss-slide-1R2T-videoSixteenByNine600.jpg",
+        "height": 338,
+        "width": 600,
+        "legacy": {},
+        "subType": "videoSixteenByNine600",
+        "crop_name": "videoSixteenByNine600"
+      },
+      {
+        "rank": 0,
+        "subtype": "videoSmall",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/09/15/sports/skiing/15mcmorris_ss-slide-1R2T/15mcmorris_ss-slide-1R2T-videoSmall.jpg",
+        "height": 281,
+        "width": 500,
+        "legacy": {},
+        "subType": "videoSmall",
+        "crop_name": "videoSmall"
+      },
+      {
+        "rank": 0,
+        "subtype": "videoThumb",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/09/15/sports/skiing/15mcmorris_ss-slide-1R2T/15mcmorris_ss-slide-1R2T-videoThumb.jpg",
+        "height": 50,
+        "width": 75,
+        "legacy": {},
+        "subType": "videoThumb",
+        "crop_name": "videoThumb"
+      },
+      {
+        "rank": 0,
+        "subtype": "windowsTile336H",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/09/15/sports/skiing/15mcmorris_ss-slide-1R2T/15mcmorris_ss-slide-1R2T-windowsTile336H.jpg",
+        "height": 336,
+        "width": 694,
+        "legacy": {},
+        "subType": "windowsTile336H",
+        "crop_name": "windowsTile336H"
+      }
+    ],
+    "headline": {
+      "main": "\u2018Like a Hurricane in the Air\u2019",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "\u2018Like a Hurricane In the Air\u2019",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Snowboarding",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Olympic Games (2014)",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "McMorris, Mark (1993- )",
+        "rank": 3,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2013-09-14T17:19:44+0000",
+    "document_type": "article",
+    "new_desk": "Sports",
+    "byline": {
+      "original": "By JOHN BRANCH",
+      "person": [
+        {
+          "firstname": "John",
+          "middlename": null,
+          "lastname": "BRANCH",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "52349ab138f0d81989737c15",
+    "word_count": 2894,
+    "score": 1.0,
+    "uri": "nyt://article/728565fc-cf39-53b3-8768-cdb468885fc4"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2013/09/15/nyregion/building-blocs-not-lofts.html",
+    "snippet": "It was evident in two City Council districts in Brooklyn that New York\u2019s immigrant communities helped shape the results of the primary elections.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/09/15/nyregion/10BIG_SPAN/BIG-articleLarge.jpg",
+        "height": 400,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2013/09/15/nyregion/10BIG_SPAN/BIG-articleLarge.jpg",
+          "xlargeheight": 400
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/09/15/nyregion/10BIG_SPAN/BIG-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2013/09/15/nyregion/10BIG_SPAN/BIG-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/09/15/nyregion/10BIG_SPAN/10BIG_SPAN-thumbStandard-v3.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2013/09/15/nyregion/10BIG_SPAN/10BIG_SPAN-thumbStandard-v3.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Building Blocs, Not Lofts",
+      "kicker": "Big City",
+      "content_kicker": "Big City",
+      "print_headline": "Building Blocs, Not Lofts",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "organizations",
+        "value": "City Council (NYC)",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Brooklyn (NYC)",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Reynoso, Antonio",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Voting and Voters",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Menchaca, Carlos",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Lopez, Vito J",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Gentrification",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Hispanic-Americans",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "New York City",
+        "rank": 9,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2013-09-14T01:23:04+0000",
+    "document_type": "article",
+    "new_desk": "Metro",
+    "byline": {
+      "original": "By GINIA BELLAFANTE",
+      "person": [
+        {
+          "firstname": "Ginia",
+          "middlename": null,
+          "lastname": "BELLAFANTE",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "523456c738f0d8198973762e",
+    "word_count": 873,
+    "score": 1.0,
+    "uri": "nyt://article/eab9c827-1e11-55b9-a86d-f2e6b9e37c59"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2013/09/14/us/suicide-of-girl-after-bullying-raises-worries-on-web-sites.html",
+    "snippet": "Rebecca Ann Sedwick, 12, leaped to her death from a platform at an abandoned cement plant near her home in Florida, in a case that highlights the growing use of cellphone apps for cyberbullying.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/09/14/us/ALT-JP-BULLY-1/ALT-JP-BULLY-1-articleLarge.jpg",
+        "height": 400,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2013/09/14/us/ALT-JP-BULLY-1/ALT-JP-BULLY-1-articleLarge.jpg",
+          "xlargeheight": 400
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/09/14/us/ALT-JP-BULLY-1/ALT-JP-BULLY-1-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2013/09/14/us/ALT-JP-BULLY-1/ALT-JP-BULLY-1-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/09/14/us/ALT-JP-BULLY-1/ALT-JP-BULLY-1-thumbStandard-v2.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2013/09/14/us/ALT-JP-BULLY-1/ALT-JP-BULLY-1-thumbStandard-v2.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Girl\u2019s Suicide Points to Rise in Apps Used by Cyberbullies",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Girl\u2019s Suicide Points to Rise In Apps Used by Cyberbullies",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Sedwick, Rebecca Ann",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Bullies",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Suicides and Suicide Attempts",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Computers and the Internet",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Social Media",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Florida",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2013-09-14T02:30:25+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "byline": {
+      "original": "By LIZETTE ALVAREZ",
+      "person": [
+        {
+          "firstname": "Lizette",
+          "middlename": null,
+          "lastname": "ALVAREZ",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "523456d438f0d81989737645",
+    "word_count": 1085,
+    "score": 1.0,
+    "uri": "nyt://article/737e2a95-2780-55e6-87b2-98deeaad40e2"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2013/09/15/business/taste-testing-a-second-career.html",
+    "snippet": "Is that dream job all that it seems? Hire-a-mentor services want to help you decide \u2014 whether you want to become a coffeehouse owner, a D.J. or an Episcopal priest.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/09/15/business/15-MENTOR1/15-MENTOR1-articleLarge.jpg",
+        "height": 400,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2013/09/15/business/15-MENTOR1/15-MENTOR1-articleLarge.jpg",
+          "xlargeheight": 400
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/09/15/business/15-MENTOR1/15-MENTOR1-thumbWide-v2.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2013/09/15/business/15-MENTOR1/15-MENTOR1-thumbWide-v2.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/09/15/business/15-MENTOR1/15-MENTOR1-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2013/09/15/business/15-MENTOR1/15-MENTOR1-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Taste-Testing a Second Career, With a Mentor",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Taste-Testing a Second Career",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Mentors",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Careers and Professions",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "PivotPlanet",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Kurth, Brian",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2013-09-14T20:47:07+0000",
+    "document_type": "article",
+    "new_desk": "SundayBusiness",
+    "byline": {
+      "original": "By MARK OPPENHEIMER",
+      "person": [
+        {
+          "firstname": "Mark",
+          "middlename": null,
+          "lastname": "OPPENHEIMER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5234cb4c38f0d81989737d78",
+    "word_count": 2590,
+    "score": 1.0,
+    "uri": "nyt://article/2fd7c4d6-6f24-58f6-903c-49db5f829fae"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2013/09/15/opinion/sunday/two-state-illusion.html",
+    "snippet": "The idea of a state for Palestinians and one for Israelis is a fantasy that blinds us.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/09/15/sunday-review/15TWOSTATE/15TWOSTATE-articleLarge.jpg",
+        "height": 1203,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2013/09/15/sunday-review/15TWOSTATE/15TWOSTATE-articleLarge.jpg",
+          "xlargeheight": 1203
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/09/15/sunday-review/15TWOSTATE/15TWOSTATE-thumbWide-v2.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2013/09/15/sunday-review/15TWOSTATE/15TWOSTATE-thumbWide-v2.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/09/15/sunday-review/15TWOSTATE/15TWOSTATE-thumbStandard-v3.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2013/09/15/sunday-review/15TWOSTATE/15TWOSTATE-thumbStandard-v3.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Two-State Illusion",
+      "kicker": "Opinion",
+      "content_kicker": "Opinion",
+      "print_headline": "Two-State Illusion",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Israel",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Palestinians",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Israeli Settlements",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "International Relations",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Palestinian Authority",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2013-09-14T18:30:07+0000",
+    "document_type": "article",
+    "new_desk": "OpEd",
+    "section_name": "Sunday Review",
+    "byline": {
+      "original": "By IAN S. LUSTICK",
+      "person": [
+        {
+          "firstname": "Ian",
+          "middlename": "S.",
+          "lastname": "LUSTICK",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "Op-Ed",
+    "_id": "5234ab3038f0d81989737c87",
+    "word_count": 2293,
+    "score": 1.0,
+    "uri": "nyt://article/3ec9c41b-d667-523d-995b-3fee3e346a34"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2013/09/15/nyregion/the-two-wills-of-the-heiress-huguette-clark.html",
+    "snippet": "The relatives of Huguette Clark, who died in 2011 at 104, are contesting the disposition of her estimated $300 million estate after she executed a second will that excluded her family.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/09/15/nyregion/15CLARK2/15CLARK2-thumbWide-v2.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2013/09/15/nyregion/15CLARK2/15CLARK2-thumbWide-v2.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/09/15/nyregion/15CLARK2/15CLARK2-thumbStandard-v2.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2013/09/15/nyregion/15CLARK2/15CLARK2-thumbStandard-v2.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "The Two Wills of the Heiress Huguette Clark",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Two Wills, One Private Heiress",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Clark, Huguette M",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Wills and Estates",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Manhattan (NYC)",
+        "rank": 3,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2013-09-14T01:49:17+0000",
+    "document_type": "article",
+    "new_desk": "Metro",
+    "byline": {
+      "original": "By ANEMONA HARTOCOLLIS",
+      "person": [
+        {
+          "firstname": "Anemona",
+          "middlename": null,
+          "lastname": "HARTOCOLLIS",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "523456ea38f0d81989737671",
+    "word_count": 2724,
+    "score": 1.0,
+    "uri": "nyt://article/cba3f389-65d4-5621-ab87-ac8cf3a3a34a"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2013/09/15/opinion/sunday/friedman-when-complexity-is-free.html",
+    "snippet": "The world of work is changing. If you want to see some American exceptionalism, visit a research lab.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2014/11/01/opinion/friedman-circular/friedman-circular-thumbWide-v2.png",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2014/11/01/opinion/friedman-circular/friedman-circular-thumbWide-v2.png",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2014/11/01/opinion/friedman-circular/friedman-circular-thumbStandard-v2.png",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2014/11/01/opinion/friedman-circular/friedman-circular-thumbStandard-v2.png",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "When Complexity Is Free",
+      "kicker": "Op-Ed Columnist",
+      "content_kicker": "Op-Ed Columnist",
+      "print_headline": "When Complexity Is Free",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "organizations",
+        "value": "General Electric Company",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Computers and the Internet",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "3-D Printers",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "New Models, Design and Products",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Science and Technology",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Research",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2013-09-14T18:30:07+0000",
+    "document_type": "article",
+    "new_desk": "Editorial",
+    "section_name": "Sunday Review",
+    "byline": {
+      "original": "By THOMAS L. FRIEDMAN",
+      "person": [
+        {
+          "firstname": "Thomas",
+          "middlename": "L.",
+          "lastname": "FRIEDMAN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "Op-Ed",
+    "_id": "5234ab3138f0d81989737c88",
+    "word_count": 1162,
+    "score": 1.0,
+    "uri": "nyt://article/522358f9-8ad9-5d2c-9224-34651c8f2edb"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2013/09/15/world/middleeast/syria-talks.html",
+    "snippet": "The announcement by Secretary of State John Kerry and the Russian foreign minister, Sergey V. Lavrov, set the stage for one of the most challenging undertakings in the history of arms control.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/09/15/world/15diplo2_337/15diplo2_337-articleLarge.jpg",
+        "height": 443,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2013/09/15/world/15diplo2_337/15diplo2_337-articleLarge.jpg",
+          "xlargeheight": 443
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/09/15/world/15diplo2_337/15diplo2_337-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2013/09/15/world/15diplo2_337/15diplo2_337-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/09/15/world/15diplo2_337/15diplo2_337-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2013/09/15/world/15diplo2_337/15diplo2_337-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "U.S. and Russia Reach Deal to Destroy Syria\u2019s Chemical Arms",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "U.S. and Russia Reach A Deal on Dismantling Syria\u2019s Chemical Arms",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Syria",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Arms Control and Limitation and Disarmament",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States International Relations",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Russia",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Kerry, John",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Lavrov, Sergey V",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Geneva (Switzerland)",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Biological and Chemical Warfare",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Defense and Military Forces",
+        "rank": 9,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Politics and Government",
+        "rank": 10,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Obama, Barack",
+        "rank": 11,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Middle East and North Africa Unrest (2010- )",
+        "rank": 12,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Ban Ki-moon",
+        "rank": 13,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Security Council (UN)",
+        "rank": 14,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Assad, Bashar al-",
+        "rank": 15,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Idris, Salim",
+        "rank": 16,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2013-09-14T10:00:58+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Middle East",
+    "byline": {
+      "original": "By MICHAEL R. GORDON",
+      "person": [
+        {
+          "firstname": "Michael",
+          "middlename": "R.",
+          "lastname": "GORDON",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5234584238f0d819897378f5",
+    "word_count": 1596,
+    "score": 1.0,
+    "uri": "nyt://article/2d6c6c28-29f3-5d12-b3bf-31574d25c67a"
+  }
+]

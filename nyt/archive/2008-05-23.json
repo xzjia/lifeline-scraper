@@ -1,0 +1,99 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2008/05/23/us/23raid.html",
+    "snippet": "The ruling abruptly threw the largest custody case in recent American history into turmoil.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/05/22/us/22polygamy-75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2008/05/22/us/22polygamy-75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Court Says Texas Illegally Seized Sect\u2019s Children",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Court Says Texas Illegally Seized Sect\u2019s Children",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Polygamy",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Decisions and Verdicts",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Child Abuse and Neglect",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Texas",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Fundamentalist Church of Jesus Christ of Latter-day Saints",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Yearning for Zion Ranch",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2008-05-23T04:00:00+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "byline": {
+      "original": "By RALPH BLUMENTHAL",
+      "person": [
+        {
+          "firstname": "Ralph",
+          "middlename": null,
+          "lastname": "BLUMENTHAL",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5481ab2038f0d874625c8e4d",
+    "word_count": 1443,
+    "score": 1.0,
+    "uri": "nyt://article/22f05177-2beb-5f94-9e0c-d95ba33b502a"
+  }
+]

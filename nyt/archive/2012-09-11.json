@@ -1,0 +1,442 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2012/09/11/nyregion/new-york-faces-rising-seas-and-slow-city-action.html",
+    "snippet": "New York City is facing up to the threats posed by rising seas and flooding in the subway system during severe storms, but the city is years away from \u2014 and billions of dollars short of \u2014 armoring itself.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/09/11/nyregion/JP-SEALEVEL1/JP-SEALEVEL1-articleLarge.jpg",
+        "height": 360,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2012/09/11/nyregion/JP-SEALEVEL1/JP-SEALEVEL1-articleLarge.jpg",
+          "xlargeheight": 360
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/09/11/nyregion/JP-SEALEVEL1/JP-SEALEVEL1-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2012/09/11/nyregion/JP-SEALEVEL1/JP-SEALEVEL1-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "New York Is Lagging as Seas and Risks Rise, Critics Warn",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "New York Is Lagging as Seas And Risks Rise, Critics Warn",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Global Warming",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Hurricanes and Tropical Storms",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Floods",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "New York City",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Office of Long-Term Planning and Sustainability (NYC)",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Infrastructure (Public Works)",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2012-09-11T00:52:41+0000",
+    "document_type": "article",
+    "new_desk": "Metro",
+    "byline": {
+      "original": "By MIREYA NAVARRO",
+      "person": [
+        {
+          "firstname": "Mireya",
+          "middlename": null,
+          "lastname": "NAVARRO",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5050ce161c22dfde670c696c",
+    "word_count": 1854,
+    "score": 1.0,
+    "uri": "nyt://article/6fbec0cf-0e52-56d3-a63b-cb3d7af2cf83"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2012/09/12/world/middleeast/united-states-and-israel-engage-in-public-spat-over-iran-policy.html",
+    "snippet": "Prime Minister Benjamin Netanyahu criticized the Obama administration for not setting clear \u201cred lines\u201d on Iran\u2019s nuclear progress that would prompt the United States to undertake a military strike.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/09/12/world/middleeast/12israel/12israel-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2012/09/12/world/middleeast/12israel/12israel-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Israeli Sharpens Call for United States to Set Iran Trigger",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Israeli Leader Stiffens Call For U.S. to Set Iran Trigger",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Israel",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Iran",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Netanyahu, Benjamin",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States International Relations",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Obama, Barack",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Presidential Election of 2012",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Nuclear Weapons",
+        "rank": 7,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2012-09-11T14:58:25+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Middle East",
+    "byline": {
+      "original": "By DAVID E. SANGER and ISABEL KERSHNER",
+      "person": [
+        {
+          "firstname": "David",
+          "middlename": "E.",
+          "lastname": "SANGER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Isabel",
+          "middlename": null,
+          "lastname": "KERSHNER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "59f1c6a77c459f246b630dbe",
+    "word_count": 1478,
+    "score": 1.0,
+    "uri": "nyt://article/f7c6d9a2-7fd0-5077-88f1-24b2c173add8"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2012/09/11/education/in-chicago-teachers-strike-signs-of-unions-under-siege.html",
+    "snippet": "The high-stakes strike by 26,000 public school teachers in Chicago is only the latest episode in which the nation\u2019s teachers\u2019 unions have been thrown on the defensive.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/09/10/us/STRIKE-slide-HX2V-copy/STRIKE-slide-HX2V-copy-thumbStandard-v2.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2012/09/10/us/STRIKE-slide-HX2V-copy/STRIKE-slide-HX2V-copy-thumbStandard-v2.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "In Standoff, Latest Sign of Unions Under Siege",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "In Standoff, Latest Sign of Unions Under Siege",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Chicago (Ill)",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Strikes",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Teachers and School Employees",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Chicago Teachers Union",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Emanuel, Rahm",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "American Federation of Teachers",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "National Education Assn",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Organized Labor",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Education (K-12)",
+        "rank": 9,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Presidential Election of 2012",
+        "rank": 10,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2012-09-11T02:09:42+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "byline": {
+      "original": "By STEVEN GREENHOUSE",
+      "person": [
+        {
+          "firstname": "Steven",
+          "middlename": null,
+          "lastname": "GREENHOUSE",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "59381e897c459f24986e40ed",
+    "word_count": 1111,
+    "score": 1.0,
+    "uri": "nyt://article/b4d1e3c4-b5cf-55cd-9ebb-3c4cbcf3a0fb"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2012/09/11/business/as-low-rates-depress-savers-governments-reap-the-benefits.html",
+    "snippet": "Low interest rates let governments keep their borrowing costs low, helping them live within their budgets without having to raise taxes or cut spending.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "As Low Rates Depress Savers, Governments Reap Benefits",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "As Low Rates Depress Savers, Governments Reap the Benefits",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Interest Rates",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Economy",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Banking and Financial Institutions",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Government Bonds",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "National Debt (US)",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Federal Reserve System",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Economic Conditions and Trends",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Savings",
+        "rank": 8,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2012-09-11T01:22:11+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By CATHERINE RAMPELL",
+      "person": [
+        {
+          "firstname": "Catherine",
+          "middlename": null,
+          "lastname": "RAMPELL",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5050ce2c1c22dfde670c6978",
+    "word_count": 1249,
+    "score": 1.0,
+    "uri": "nyt://article/54f19c6c-09ff-581c-b08a-0646a496c531"
+  }
+]

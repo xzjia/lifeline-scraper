@@ -1,0 +1,641 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2012/07/08/nyregion/your-home-the-new-frontier-for-tourists-in-new-york-city.html",
+    "snippet": "Some visitors to the city stay in well-appointed houses and apartments while the occupants are elsewhere, submerging themselves perfectly in the mind-set of a certain kind of New Yorker.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/07/08/nyregion/08BIGCITY_SPAN/08BIGCITY_SPAN-articleLarge.jpg",
+        "height": 360,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2012/07/08/nyregion/08BIGCITY_SPAN/08BIGCITY_SPAN-articleLarge.jpg",
+          "xlargeheight": 360
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/07/08/nyregion/08BIGCITY_SPAN/08BIGCITY_SPAN-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2012/07/08/nyregion/08BIGCITY_SPAN/08BIGCITY_SPAN-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "New Frontier for Tourists: Your Home",
+      "kicker": "Big City",
+      "content_kicker": "Big City",
+      "print_headline": "New Frontier For Tourists: Your Home",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Travel and Vacations",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Real Estate and Housing (Residential)",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "New York City",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "One Fine Stay",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Hotels and Motels",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2012-07-07T02:24:27+0000",
+    "document_type": "article",
+    "new_desk": "Metro",
+    "byline": {
+      "original": "By GINIA BELLAFANTE",
+      "person": [
+        {
+          "firstname": "Ginia",
+          "middlename": null,
+          "lastname": "BELLAFANTE",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "515da041cf28d0219d000e27",
+    "word_count": 932,
+    "score": 1.0,
+    "uri": "nyt://article/7895a11d-89f6-553e-bf14-2283d36515d6"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2012/07/08/opinion/sunday/dont-indulge-be-happy.html",
+    "snippet": "Once you have about $75,000 a year, earning more doesn\u2019t really help. The secret to consistent pleasure? Buying for others.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/07/08/sunday-review/08COVER/08COVER-articleLarge.jpg",
+        "height": 312,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2012/07/08/sunday-review/08COVER/08COVER-articleLarge.jpg",
+          "xlargeheight": 312
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/07/08/sunday-review/08COVER/08COVER-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2012/07/08/sunday-review/08COVER/08COVER-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/07/08/sunday-review/08COVER/08COVER-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2012/07/08/sunday-review/08COVER/08COVER-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Don\u2019t Indulge. Be Happy.",
+      "kicker": "Opinion",
+      "content_kicker": "Opinion",
+      "print_headline": "Don\u2019t Indulge. Be Happy.",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Happiness",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Income",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Sociology",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Psychology and Psychologists",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Philanthropy",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2012-07-07T20:53:16+0000",
+    "document_type": "article",
+    "new_desk": "OpEd",
+    "section_name": "Sunday Review",
+    "byline": {
+      "original": "By ELIZABETH W. DUNN and MICHAEL NORTON",
+      "person": [
+        {
+          "firstname": "Elizabeth",
+          "middlename": "W.",
+          "lastname": "DUNN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Michael",
+          "middlename": null,
+          "lastname": "NORTON",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "Op-Ed",
+    "_id": "51ca75607e0d9c0839d2bafe",
+    "word_count": 1358,
+    "score": 1.0,
+    "uri": "nyt://article/4d4a1eff-9654-5dda-9c84-716ec990d3d3"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2012/07/08/nyregion/ben-shaoul-takes-the-village.html",
+    "snippet": "A driving force behind aggressive East Village luxury development, Ben Shaoul is never far from controversy.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/07/08/nyregion/08SHAOUL1_SPAN/08SHAOUL1_SPAN-articleLarge.jpg",
+        "height": 380,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2012/07/08/nyregion/08SHAOUL1_SPAN/08SHAOUL1_SPAN-articleLarge.jpg",
+          "xlargeheight": 380
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/07/08/nyregion/08SHAOUL1_SPAN/08SHAOUL1_SPAN-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2012/07/08/nyregion/08SHAOUL1_SPAN/08SHAOUL1_SPAN-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "He Takes the Village",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "He Takes the Village",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Shaoul, Ben H",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "East Village (NYC)",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Real Estate and Housing (Residential)",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Real Estate (Commercial)",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Landlords",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2012-07-07T03:56:36+0000",
+    "document_type": "article",
+    "new_desk": "Metro",
+    "byline": {
+      "original": "By REBECCA FLINT MARX",
+      "person": [
+        {
+          "firstname": "Rebecca",
+          "middlename": "Flint",
+          "lastname": "MARX",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "515da040cf28d0219d000e25",
+    "word_count": 2677,
+    "score": 1.0,
+    "uri": "nyt://article/ebefe1f2-70c4-599e-8572-a3ee5020e17b"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2012/07/08/us/politics/groups-shield-political-gifts-of-businesses.html",
+    "snippet": "Corporations are funding policy organizations that are free of the disclosure rules applying to parties, candidates and PACs.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "Tax-Exempt Groups Shield Political Gifts of Businesses",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Groups Shield Political Gifts Of Businesses",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Campaign Finance",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Corporations",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Presidential Election of 2012",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Citizens United v Federal Election Commission (Supreme Court Decision)",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Priorities USA",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "American Action Network",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Crossroads Grassroots Policy Strategies",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Political Action Committees",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "American Electric Power Co Inc",
+        "rank": 9,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Dow Chemical Company",
+        "rank": 10,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Chevron Corporation",
+        "rank": 11,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Aetna Inc",
+        "rank": 12,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Express Scripts Inc",
+        "rank": 13,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "MetLife Inc",
+        "rank": 14,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Merck & Company Inc",
+        "rank": 15,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Prudential Financial Inc",
+        "rank": 16,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Organized Labor",
+        "rank": 17,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "United States",
+        "rank": 19,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2012-07-07T23:40:38+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "section_name": "Politics",
+    "byline": {
+      "original": "By MIKE McINTIRE and NICHOLAS CONFESSORE",
+      "person": [
+        {
+          "firstname": "Mike",
+          "middlename": null,
+          "lastname": "McINTIRE",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Nicholas",
+          "middlename": null,
+          "lastname": "CONFESSORE",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "515da02acf28d0219d000df2",
+    "word_count": 1613,
+    "score": 1.0,
+    "uri": "nyt://article/68c47dd5-adcf-5d40-9b41-c9658b3b77c6"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2012/07/08/health/in-gene-sequencing-treatment-for-leukemia-glimpses-of-the-future.html",
+    "snippet": "A novel method known as whole genome sequencing focuses on genes that drive a cancer, not the tissues or organ where it originates.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/07/08/health/gamble/gamble-articleLarge-v2.jpg",
+        "height": 380,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2012/07/08/health/gamble/gamble-articleLarge-v2.jpg",
+          "xlargeheight": 380
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/07/08/health/gamble/gamble-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2012/07/08/health/gamble/gamble-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/07/08/health/gamble/gamble-thumbStandard-v2.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2012/07/08/health/gamble/gamble-thumbStandard-v2.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "In Treatment for Leukemia, Glimpses of the Future",
+      "kicker": "Genetic Gamble ",
+      "content_kicker": "Genetic Gamble ",
+      "print_headline": "In Leukemia Treatment, Glimpses of the Future",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Leukemia",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Washington University",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Genetics and Heredity",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Wartman, Lukas",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Cancer",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2012-07-07T18:25:30+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "byline": {
+      "original": "By GINA KOLATA",
+      "person": [
+        {
+          "firstname": "Gina",
+          "middlename": null,
+          "lastname": "KOLATA",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "513111d9cf28d009de002e97",
+    "word_count": 2576,
+    "score": 1.0,
+    "uri": "nyt://article/235f6e80-786c-53cd-9a38-2461ee0fe0ec"
+  }
+]

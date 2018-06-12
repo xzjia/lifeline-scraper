@@ -1,0 +1,326 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2010/03/21/fashion/21age.html",
+    "snippet": "A program helps baby boomers, who have gone back to full- or part-time work after retiring, transition to new careers.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/03/21/fashion/21agespan-1/21agespan-1-articleLarge.jpg",
+        "height": 331,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2010/03/21/fashion/21agespan-1/21agespan-1-articleLarge.jpg",
+          "xlargeheight": 331
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/03/21/fashion/21agespan-1/21agespan-1-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/03/21/fashion/21agespan-1/21agespan-1-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Ready for Life&#8217;s Encore Performances",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Ready for Life\u2019s Encore Performances",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Baby Boomers",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Retirement",
+        "rank": 2,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-03-19T19:20:48+0000",
+    "document_type": "article",
+    "new_desk": "Styles",
+    "byline": {
+      "original": "By SARAH KERSHAW",
+      "person": [
+        {
+          "firstname": "Sarah",
+          "middlename": null,
+          "lastname": "KERSHAW",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5444229f38f0d82782d9b2f5",
+    "word_count": 1886,
+    "score": 1.0,
+    "uri": "nyt://article/b972adef-d39f-59a1-aeb9-90bcd7ede672"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2010/03/19/us/politics/19policy.html",
+    "snippet": "President Obama and Secretary of State Hillary Rodham Clinton have formed a surprisingly credible partnership. ",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/03/19/world/19policy_CA0/19policy_CA0-articleLarge.jpg",
+        "height": 330,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2010/03/19/world/19policy_CA0/19policy_CA0-articleLarge.jpg",
+          "xlargeheight": 330
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/03/19/world/19policy_CA0/19policy_CA0-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/03/19/world/19policy_CA0/19policy_CA0-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "After a Bitter Campaign, Forging an Alliance",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "From Bitter Campaign to Strong Alliance",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Obama, Barack",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Clinton, Hillary Rodham",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Politics and Government",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States International Relations",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Presidential Election of 2008",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "State Department",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-03-19T01:48:29+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Politics",
+    "byline": {
+      "original": "By MARK LANDLER and HELENE COOPER",
+      "person": [
+        {
+          "firstname": "Mark",
+          "middlename": null,
+          "lastname": "LANDLER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Helene",
+          "middlename": null,
+          "lastname": "COOPER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "544414ca38f0d82782d9b1e1",
+    "word_count": 2719,
+    "score": 1.0,
+    "uri": "nyt://article/7166bd71-44d6-58e0-98fd-2f0dbe1ce9e6"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2010/03/19/nyregion/19bloomberg.html",
+    "snippet": "The mayor\u2019s decision to end giving through the Carnegie Corporation set off worries among arts and service groups.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/03/19/nyregion/19bloomberg_CA1/19bloomberg_CA1-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/03/19/nyregion/19bloomberg_CA1/19bloomberg_CA1-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Bloomberg Is Quietly Ending a Charitable Program",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Bloomberg Is Quietly Closing A Pipeline for Charitable Gifts",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Philanthropy",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Bloomberg, Michael R",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Carnegie Corp",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Bloomberg LP",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Finances",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Grants (Corporate and Foundation)",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "New York City",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Gregorian, Vartan",
+        "rank": 8,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-03-19T01:10:27+0000",
+    "document_type": "article",
+    "new_desk": "Metro",
+    "byline": {
+      "original": "By MICHAEL BARBARO",
+      "person": [
+        {
+          "firstname": "Michael",
+          "middlename": null,
+          "lastname": "BARBARO",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "54441c7a38f0d82782d9b275",
+    "word_count": 1132,
+    "score": 1.0,
+    "uri": "nyt://article/104af5e1-dbea-538d-a245-c1229476b41d"
+  }
+]

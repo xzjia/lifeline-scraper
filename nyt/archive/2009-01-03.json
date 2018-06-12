@@ -1,0 +1,117 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2009/01/03/world/middleeast/03preacher.html",
+    "snippet": "The religion-themed shows of a new generation of \u201csatellite sheiks\u201d have helped fuel a religious revival in the Arab world.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/01/03/world/03preacher01-600.jpg",
+        "height": 320,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/01/03/world/03preacher01-600.jpg",
+          "xlargeheight": 320
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/01/03/world/03preacher01-75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/01/03/world/03preacher01-75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Preaching Moderate Islam and Becoming a TV Star",
+      "kicker": "Generation Faithful",
+      "content_kicker": "Generation Faithful",
+      "print_headline": "Preaching Moderate Islam, Becoming a TV Star",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Islam",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Television",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Saudi Arabia",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Children and Youth",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Arabs",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Teenagers and Adolescence",
+        "rank": 7,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-01-03T02:01:36+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Middle East",
+    "byline": {
+      "original": "By ROBERT F. WORTH",
+      "person": [
+        {
+          "firstname": "Robert",
+          "middlename": "F.",
+          "lastname": "WORTH",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "Series",
+    "_id": "545bd1d038f0d85e5ee913b2",
+    "word_count": 1874,
+    "score": 1.0,
+    "uri": "nyt://article/460229a7-37bd-5336-b269-f927f176c0a7"
+  }
+]

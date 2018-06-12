@@ -1,0 +1,141 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2008/07/14/washington/14fannie.html",
+    "snippet": "The announcement of a plan to inject billions of dollars in loans and investments was intended to show the government would stand behind the beleaguered companies.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/07/14/business/14fannie.757.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2008/07/14/business/14fannie.757.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Treasury Acts to Shore Up Fannie Mae and Freddie Mac",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "TREASURY UNVEILS VAST PLAN TO SAVE MORTGAGE GIANTS",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "organizations",
+        "value": "Fannie Mae",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Freddie Mac",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Treasury Department",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Mortgages",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Stocks and Bonds",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Housing",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Economy",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Government Bonds",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Bush, George W",
+        "rank": 9,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Paulson, Henry M Jr",
+        "rank": 10,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Schumer, Charles E",
+        "rank": 11,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Frank, Barney",
+        "rank": 12,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Federal Reserve System",
+        "rank": 13,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2008-07-14T04:00:00+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By STEPHEN LABATON",
+      "person": [
+        {
+          "firstname": "Stephen",
+          "middlename": null,
+          "lastname": "LABATON",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5483014f38f0d8403d9cd4d2",
+    "word_count": 1492,
+    "score": 1.0,
+    "uri": "nyt://article/148bb9c5-dfa7-54b5-b46e-caa8e3bc2370"
+  }
+]

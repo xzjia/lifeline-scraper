@@ -1,0 +1,962 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2011/08/19/business/daily-stock-market-activity.html",
+    "snippet": "The S.&P. dropped 4.5 percent amid heightened concerns over the impact of the euro zone debt crisis; Asia-Pacific markets fell sharply in early trading on Friday.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "Stocks Fall Anew on Debt Worries and the Economy",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Stocks Fall Anew On Debt Worries And the Economy",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "United States Economy",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Stocks and Bonds",
+        "rank": 2,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-08-18T11:22:03+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By GRAHAM BOWLEY and CHRISTINE HAUSER",
+      "person": [
+        {
+          "firstname": "Graham",
+          "middlename": null,
+          "lastname": "BOWLEY",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Christine",
+          "middlename": null,
+          "lastname": "HAUSER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "54117a0438f0d80f295228bb",
+    "word_count": 1270,
+    "score": 1.0,
+    "uri": "nyt://article/e95932c0-933b-5ee8-bf79-bb26e0a5f382"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/08/18/science/space/18starship.html",
+    "snippet": "Darpa, the government agency that helped invent the Internet, is studying what it would take to send humans to another star.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/08/18/us/jp-STARSHIP-2/jp-STARSHIP-2-articleLarge.jpg",
+        "height": 360,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2011/08/18/us/jp-STARSHIP-2/jp-STARSHIP-2-articleLarge.jpg",
+          "xlargeheight": 360
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/08/18/us/jp-STARSHIP-2/jp-STARSHIP-2-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/08/18/us/jp-STARSHIP-2/jp-STARSHIP-2-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Offering Funds, U.S. Agency Dreams of Sending Humans to Stars",
+      "kicker": "Out There",
+      "content_kicker": "Out There",
+      "print_headline": "Offering Funds, U.S. Agency Dreams of Sending Humans to Stars",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Stars and Galaxies",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Research",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Defense Advanced Research Projects Agency",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Space",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-08-18T03:05:05+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "section_name": "Space & Cosmos",
+    "byline": {
+      "original": "By DENNIS OVERBYE",
+      "person": [
+        {
+          "firstname": "Dennis",
+          "middlename": null,
+          "lastname": "OVERBYE",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5411788438f0d80f2952289c",
+    "word_count": 1543,
+    "score": 1.0,
+    "uri": "nyt://article/81ee040e-aeb1-5340-9a65-206e369752b3"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/08/18/world/africa/18nigeria.html",
+    "snippet": "A shadowy Islamist insurgency that has haunted northern Nigeria appears to be branching out and collaborating with Al Qaeda\u2019s affiliates.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/08/18/world/18nigeria1/18nigeria1-articleLarge.jpg",
+        "height": 315,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2011/08/18/world/18nigeria1/18nigeria1-articleLarge.jpg",
+          "xlargeheight": 315
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/08/18/world/18nigeria1/18nigeria1-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/08/18/world/18nigeria1/18nigeria1-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Islamist Group With Possible Qaeda Links Upends Nigeria",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Islamist Threat With Qaeda Link Grows In Nigeria",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "organizations",
+        "value": "Boko Haram",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Terrorism",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Nigeria",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Al Qaeda in the Islamic Maghreb",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Defense and Military Forces",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-08-18T00:38:31+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Africa",
+    "byline": {
+      "original": "By ADAM NOSSITER",
+      "person": [
+        {
+          "firstname": "Adam",
+          "middlename": null,
+          "lastname": "NOSSITER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "529f91f438f0d81c05f59c96",
+    "word_count": 1352,
+    "score": 1.0,
+    "uri": "nyt://article/b479dcc8-8241-5b28-ac63-67a0fd3e1ca7"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/08/18/nyregion/parents-minor-marijuana-arrests-lead-to-child-neglect-cases.html",
+    "snippet": "Parents caught with marijuana, even amounts too small to lead to criminal charges, are finding themselves scrutinized by child welfare officials.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/08/18/nyregion/JP-MARIJUANA/JP-MARIJUANA-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/08/18/nyregion/JP-MARIJUANA/JP-MARIJUANA-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "No Cause for Marijuana Case, but Enough for Child Neglect",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "No Cause for Marijuana Case, But Enough for Child Neglect",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Marijuana",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Child Abuse and Neglect",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Administration for Children's Services (NYC)",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "New York City",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-08-18T01:52:52+0000",
+    "document_type": "article",
+    "new_desk": "Metro",
+    "byline": {
+      "original": "By MOSI SECRET",
+      "person": [
+        {
+          "firstname": "Mosi",
+          "middlename": null,
+          "lastname": "SECRET",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "53f634a938f0d821a37b1e5c",
+    "word_count": 1532,
+    "score": 1.0,
+    "uri": "nyt://article/45b08a3d-c700-5012-8daa-a8d8cb9d8916"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/08/18/business/cuts-in-health-care-may-undermine-role-in-labor-market.html",
+    "snippet": "Government spending cuts will be working their way through health services, but some believe this is no more than a lull in a sector that has been a jobs engine.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "Cuts in Health Care May Undermine Role in Labor Market",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Prognosis on Jobs Turns Cloudy",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Labor and Jobs",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Health Insurance and Managed Care",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Hospitals",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Patient Protection and Affordable Care Act (2010)",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Medicine and Health",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Unemployment",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-08-18T01:55:06+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By REED ABELSON and KATIE THOMAS",
+      "person": [
+        {
+          "firstname": "Reed",
+          "middlename": null,
+          "lastname": "ABELSON",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Katie",
+          "middlename": null,
+          "lastname": "THOMAS",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5411789038f0d80f2952289d",
+    "word_count": 1304,
+    "score": 1.0,
+    "uri": "nyt://article/1789010a-5c87-5c81-aa1d-006dc34f6685"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/08/18/business/us-inquiry-said-to-focus-on-s-p-ratings.html",
+    "snippet": "The Justice Department is investigating whether Standard & Poor\u2019s rated mortgage securities improperly leading up to the financial crisis.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "U.S. Inquiry Is Said to Focus on S.&P. Ratings",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Justice Inquiry Is Said to Focus On S.&P. Ratings",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "organizations",
+        "value": "Standard & Poor's Corp",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Mortgage-Backed Securities",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Justice Department",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Credit Ratings and Credit Rating Agencies",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Banking and Financial Institutions",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Subprime Mortgage Crisis",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-08-18T01:59:34+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By LOUISE STORY",
+      "person": [
+        {
+          "firstname": "Louise",
+          "middlename": null,
+          "lastname": "STORY",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5411792638f0d80f295228a4",
+    "word_count": 1272,
+    "score": 1.0,
+    "uri": "nyt://article/d5073f63-ae98-597d-9160-581fb6c95cb8"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/08/19/science/19fat.html",
+    "snippet": "The drug, which mimics resveratrol, protected the mice from the usual diseases of obesity and helped them live 44 percent longer than other obese mice, researchers said.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/08/19/us/19fat/19fat-articleLarge.jpg",
+        "height": 350,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2011/08/19/us/19fat/19fat-articleLarge.jpg",
+          "xlargeheight": 350
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/08/19/us/19fat/19fat-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/08/19/us/19fat/19fat-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Longer Lives for Obese Mice, With Hope for Humans of All Sizes",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Longer Lives for Obese Mice, With Hope for Humans of All Sizes",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Longevity",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Mice",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Obesity",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Research",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Science and Technology",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Drugs (Pharmaceuticals)",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-08-18T13:02:24+0000",
+    "document_type": "article",
+    "new_desk": "Science",
+    "byline": {
+      "original": "By NICHOLAS WADE",
+      "person": [
+        {
+          "firstname": "Nicholas",
+          "middlename": null,
+          "lastname": "WADE",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5411766338f0d80f29522877",
+    "word_count": 1124,
+    "score": 1.0,
+    "uri": "nyt://article/e010e82c-fccd-56cb-96bc-91ad15781624"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/08/19/world/middleeast/19diplo.html",
+    "snippet": "The call for Bashar al-Assad to give up power came after months of popular protests and deadly reprisals by Syrian authorities.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/08/19/world/19diplo-cnd01-clinton/19diplo-cnd01-clinton-thumbStandard-v2.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/08/19/world/19diplo-cnd01-clinton/19diplo-cnd01-clinton-thumbStandard-v2.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "U.S. and Allies Say Syria Leader Must Step Down",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "U.S. Leads Allies In Call For Chief Of Syria To Quit",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Syria",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Assad, Bashar Al-",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Middle East and North Africa Unrest (2010- )",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "International Relations",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Obama, Barack",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-08-18T13:15:43+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Middle East",
+    "byline": {
+      "original": "By STEVEN LEE MYERS",
+      "person": [
+        {
+          "firstname": "Steven",
+          "middlename": "Lee",
+          "lastname": "MYERS",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "541174e538f0d80f2952285e",
+    "word_count": 1421,
+    "score": 1.0,
+    "uri": "nyt://article/97310794-0a68-52e0-ba8e-593402379369"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/08/19/nyregion/connecticut-workers-approve-contract-they-had-rejected.html",
+    "snippet": "In return for four-year, no-layoff clause, the unions agreed to a two-year wage freeze and changes to health care and pension benefits.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/08/19/nyregion/Y-CONNECTICUT1/Y-CONNECTICUT1-articleLarge.jpg",
+        "height": 330,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2011/08/19/nyregion/Y-CONNECTICUT1/Y-CONNECTICUT1-articleLarge.jpg",
+          "xlargeheight": 330
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/08/19/nyregion/Y-CONNECTICUT1/Y-CONNECTICUT1-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/08/19/nyregion/Y-CONNECTICUT1/Y-CONNECTICUT1-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Connecticut Workers Approve Contract They Had Rejected",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "In Revote, Connecticut Unions Pick Concessions Over Layoffs",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Organized Labor",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Government Employees",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Malloy, Dannel P",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Connecticut",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-08-18T18:32:43+0000",
+    "document_type": "article",
+    "new_desk": "Metro",
+    "byline": {
+      "original": "By PETER APPLEBOME",
+      "person": [
+        {
+          "firstname": "Peter",
+          "middlename": null,
+          "lastname": "APPLEBOME",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "54117d9d38f0d80f2952290a",
+    "word_count": 1006,
+    "score": 1.0,
+    "uri": "nyt://article/d6794226-a02f-5d44-9313-a3f02af9e5df"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/08/21/books/review/class-warfare-by-steven-brill-book-review.html",
+    "snippet": "In \u201cClass Warfare,\u201d Steven Brill brings a sharp legal mind to the world of education reform and mounts a zealous case against America\u2019s teachers\u2019 unions.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/08/21/books/review/Mosle2/Mosle2-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/08/21/books/review/Mosle2/Mosle2-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Steve Brill\u2019s Report Card on School Reform",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Report Card",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Books and Literature",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Brill, Steven T",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Teachers and School Employees",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Reform and Reorganization",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Education (K-12)",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Collective Bargaining",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Organized Labor",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Charter Schools",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Knowledge Is Power Program",
+        "rank": 9,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Teach for America",
+        "rank": 10,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-08-18T22:58:52+0000",
+    "document_type": "article",
+    "new_desk": "BookReview",
+    "section_name": "Book Review",
+    "byline": {
+      "original": "By SARA MOSLE",
+      "person": [
+        {
+          "firstname": "Sara",
+          "middlename": null,
+          "lastname": "MOSLE",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "Review",
+    "_id": "5400bd8038f0d841b2f388bd",
+    "word_count": 2350,
+    "score": 1.0,
+    "uri": "nyt://article/9691b27a-d450-5fb6-92b1-26e4b586acca"
+  }
+]

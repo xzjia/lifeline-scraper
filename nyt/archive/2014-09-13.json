@@ -1,0 +1,649 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2014/09/13/world/africa/us-scientists-see-long-fight-against-ebola.html",
+    "snippet": "The Ebola outbreak in West Africa is likely to last 12 to 18 months more and could infect hundreds of thousands, say scientists mapping its spread for the American government.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "U.S. Scientists See Long Fight Against Ebola",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "U.S. Scientists See Long Fight Against Ebola",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Ebola Virus",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Epidemics",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Africa",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "World Health Organization",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Centers for Disease Control and Prevention",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Guinea",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Liberia",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Sierra Leone",
+        "rank": 8,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2014-09-13T01:10:21+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Africa",
+    "byline": {
+      "original": "By DENISE GRADY",
+      "person": [
+        {
+          "firstname": "Denise",
+          "middlename": null,
+          "lastname": "GRADY",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5413998238f0d835ee044c4f",
+    "word_count": 1042,
+    "score": 1.0,
+    "uri": "nyt://article/513d1a71-8821-5d6a-b17b-869ef7742bef"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2014/09/14/business/trying-to-hit-the-brake-on-texting-while-driving.html",
+    "snippet": "People keep texting when they\u2019re behind the wheel, so an engineer has found a technological solution. The problem: He can\u2019t do it on his own.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2014/09/14/business/14-SPRINT-1410377278206/14-SPRINT-1410377278206-articleLarge-v2.jpg",
+        "height": 400,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2014/09/14/business/14-SPRINT-1410377278206/14-SPRINT-1410377278206-articleLarge-v2.jpg",
+          "xlargeheight": 400
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2014/09/14/business/14-SPRINT-1410377278206/14-SPRINT-1410377278206-thumbWide-v2.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2014/09/14/business/14-SPRINT-1410377278206/14-SPRINT-1410377278206-thumbWide-v2.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2014/09/14/business/14-SPRINT-1410377278206/14-SPRINT-1410377278206-thumbStandard-v3.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2014/09/14/business/14-SPRINT-1410377278206/14-SPRINT-1410377278206-thumbStandard-v3.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Trying to Hit the Brake on Texting While Driving",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Hitting a Brake on Texting",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Tibbitts, Scott",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Text Messaging",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Driver Distraction and Fatigue",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Traffic Accidents and Safety",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Sprint Nextel Corporation",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Automobile Safety Features and Defects",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "National Safety Council",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Katasi",
+        "rank": 8,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2014-09-13T17:18:32+0000",
+    "document_type": "article",
+    "new_desk": "SundayBusiness",
+    "byline": {
+      "original": "By MATT RICHTEL",
+      "person": [
+        {
+          "firstname": "Matt",
+          "middlename": null,
+          "lastname": "RICHTEL",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "54147c6a38f0d8799c317ca2",
+    "word_count": 2733,
+    "score": 1.0,
+    "uri": "nyt://article/a0bd488b-c8c3-5cdc-8b38-c160475c91d7"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2014/09/14/sports/football/what-were-they-thinking-ugly-video-blind-justice.html",
+    "snippet": "What about this act of violence surprised professional football men? And what about it failed to move and anger New Jersey prosecutors?",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2014/09/14/sports/dogjpPOWELL/dogjpPOWELL-articleLarge.jpg",
+        "height": 400,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2014/09/14/sports/dogjpPOWELL/dogjpPOWELL-articleLarge.jpg",
+          "xlargeheight": 400
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2014/09/14/sports/dogjpPOWELL/dogjpPOWELL-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2014/09/14/sports/dogjpPOWELL/dogjpPOWELL-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2014/09/14/sports/dogjpPOWELL/dogjpPOWELL-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2014/09/14/sports/dogjpPOWELL/dogjpPOWELL-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "What Were They Thinking? Ugly Video, Blind Justice",
+      "kicker": "Sports of The Times",
+      "content_kicker": "Sports of The Times",
+      "print_headline": "What Were They Thinking? Ugly Video, Blind Justice",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Football",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "National Football League",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Rice, Ray (1987- )",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Domestic Violence",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Rice, Janay Palmer",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Baltimore Ravens",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "New Jersey",
+        "rank": 7,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2014-09-13T16:56:08+0000",
+    "document_type": "article",
+    "new_desk": "Sports",
+    "section_name": "Pro Football",
+    "byline": {
+      "original": "By MICHAEL POWELL",
+      "person": [
+        {
+          "firstname": "Michael",
+          "middlename": null,
+          "lastname": "POWELL",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5414772f38f0d8799c317c9c",
+    "word_count": 1135,
+    "score": 1.0,
+    "uri": "nyt://article/289af28f-a0de-5350-bde2-b0160d809b3e"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2014/09/14/upshot/from-white-knight-to-thief.html",
+    "snippet": "Wall Street crime, 1930s style: the astonishing downfall of the financier Richard Whitney, who helped shore up the market at the start of the \u201929 crash.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2014/09/14/upshot/14up-whitney/14up-whitney-articleLarge.jpg",
+        "height": 776,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2014/09/14/upshot/14up-whitney/14up-whitney-articleLarge.jpg",
+          "xlargeheight": 776
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2014/09/14/upshot/14up-whitney/14up-whitney-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2014/09/14/upshot/14up-whitney/14up-whitney-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2014/09/14/upshot/14up-whitney/14up-whitney-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2014/09/14/upshot/14up-whitney/14up-whitney-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "From White Knight to Thief",
+      "kicker": "HistorySource",
+      "content_kicker": "HistorySource",
+      "print_headline": "From White Knight to Thief",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Whitney, Richard (1888-1974)",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Banking and Financial Institutions",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Frauds and Swindling",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Roosevelt, Franklin Delano",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "New York Stock Exchange",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Great Depression (1930's)",
+        "rank": 7,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2014-09-13T13:20:20+0000",
+    "document_type": "article",
+    "new_desk": "SundayBusiness",
+    "byline": {
+      "original": "By MICHAEL BESCHLOSS",
+      "person": [
+        {
+          "firstname": "Michael",
+          "middlename": null,
+          "lastname": "BESCHLOSS",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5414449b38f0d835ee044d30",
+    "word_count": 1138,
+    "score": 1.0,
+    "uri": "nyt://article/563fe82a-8240-5288-8f28-8828b6e87909"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2014/09/14/nyregion/archbishop-sheens-corpse-is-subject-of-long-running-dispute.html",
+    "snippet": "The remains of Archbishop Fulton J. Sheen, who died in 1979, are in a crypt in Manhattan, but the Diocese of Peoria, Ill., is laying claim to them.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2014/09/14/nyregion/2D-SUB-SHEEN/2D-SUB-SHEEN-articleLarge.jpg",
+        "height": 634,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2014/09/14/nyregion/2D-SUB-SHEEN/2D-SUB-SHEEN-articleLarge.jpg",
+          "xlargeheight": 634
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2014/09/14/nyregion/2D-SUB-SHEEN/2D-SUB-SHEEN-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2014/09/14/nyregion/2D-SUB-SHEEN/2D-SUB-SHEEN-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2014/09/14/nyregion/2D-SUB-SHEEN/2D-SUB-SHEEN-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2014/09/14/nyregion/2D-SUB-SHEEN/2D-SUB-SHEEN-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Tug of War for Bishop\u2019s Body, or Its Parts, Delays Sainthood",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Tug of War Between Dioceses Halts a Bishop\u2019s Beatification",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Beatifications and Canonizations",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Roman Catholic Church",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Sheen, Fulton J (1895-1979)",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Dolan, Timothy M",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Jenky, Daniel R",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Peoria (Ill)",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Manhattan (NYC)",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Tombs and Tombstones",
+        "rank": 8,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2014-09-13T23:44:37+0000",
+    "document_type": "article",
+    "new_desk": "Metro",
+    "byline": {
+      "original": "By SHARON OTTERMAN",
+      "person": [
+        {
+          "firstname": "Sharon",
+          "middlename": null,
+          "lastname": "OTTERMAN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5414d6f138f0d8799c317d4a",
+    "word_count": 1179,
+    "score": 1.0,
+    "uri": "nyt://article/a1884ba1-3a9e-5840-8137-2f50fdbefafd"
+  }
+]

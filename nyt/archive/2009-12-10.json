@@ -1,0 +1,552 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2009/12/13/movies/13ferguson.html",
+    "snippet": "Sarah Ferguson, the Duchess of York, shines the spotlight on a new film, \u201cThe Young Victoria.\u201d",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/12/13/arts/13ferguson_span-CA1/articleLarge.jpg",
+        "height": 348,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/12/13/arts/13ferguson_span-CA1/articleLarge.jpg",
+          "xlargeheight": 348
+        },
+        "subType": "xlarge",
+        "crop_name": "articleLarge"
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/12/13/arts/13ferguson_span-CA1/thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/12/13/arts/13ferguson_span-CA1/thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": "thumbStandard"
+      },
+      {
+        "rank": 0,
+        "subtype": "popup",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/12/13/arts/13ferguson_span-CA1/articleLarge.jpg",
+        "height": 348,
+        "width": 600,
+        "legacy": {},
+        "subType": "popup",
+        "crop_name": "popup"
+      },
+      {
+        "rank": 0,
+        "subtype": "sfSpan",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/12/13/arts/13ferguson_span-CA1/sfSpan.jpg",
+        "height": 255,
+        "width": 395,
+        "legacy": {},
+        "subType": "sfSpan",
+        "crop_name": "sfSpan"
+      }
+    ],
+    "headline": {
+      "main": "Not Quite a Royal, but Still in Need of Those Royalties",
+      "kicker": "Film",
+      "content_kicker": "Film",
+      "print_headline": "Not Quite a Royal, But Still in Need Of Those Royalties",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Movies",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Blunt, Emily",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Fellowes, Julian",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Sarah, Duchess of York",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-12-10T21:09:50+0000",
+    "document_type": "article",
+    "new_desk": "0",
+    "byline": {
+      "original": "By FRANK BRUNI",
+      "person": [
+        {
+          "firstname": "Frank",
+          "middlename": null,
+          "lastname": "BRUNI",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "545a481738f0d82ce426897c",
+    "word_count": 1702,
+    "score": 1.0,
+    "uri": "nyt://article/7cfe0731-223c-5334-8092-fec1f7eadefc"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/12/10/health/nutrition/10best.html",
+    "snippet": "Are athletes more efficient in the morning, doing the same work but with less effort, as measured by a lower heart rate?",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/12/09/fashion/10best-span/articleLarge.jpg",
+        "height": 375,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/12/09/fashion/10best-span/articleLarge.jpg",
+          "xlargeheight": 375
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/12/09/fashion/10best-span/thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/12/09/fashion/10best-span/thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Ready to Exercise? Check Your Watch",
+      "kicker": "Personal Best",
+      "content_kicker": "Personal Best",
+      "print_headline": "Ready to Exercise? Check Your Watch",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Heart",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Exercise",
+        "rank": 2,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-12-10T01:21:29+0000",
+    "document_type": "article",
+    "new_desk": "Styles",
+    "section_name": "Fitness & Nutrition",
+    "byline": {
+      "original": "By GINA KOLATA",
+      "person": [
+        {
+          "firstname": "Gina",
+          "middlename": null,
+          "lastname": "KOLATA",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "545a50bb38f0d82ce4268a45",
+    "word_count": 1357,
+    "score": 1.0,
+    "uri": "nyt://article/a579a785-1ca3-559d-b50b-0e2fe7e2b6ae"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/12/10/business/global/10pound.html",
+    "snippet": "A tax seen as the most direct attack on bank bonuses in the world is part of Britain\u2019s effort to shore up its finances.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/12/09/business/09cnd-poundspan/articleLarge.jpg",
+        "height": 331,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/12/09/business/09cnd-poundspan/articleLarge.jpg",
+          "xlargeheight": 331
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/12/09/business/09cnd-poundspan/thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/12/09/business/09cnd-poundspan/thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Britain to Levy a One-Time Tax on Banker Bonuses",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Britain Sets Tax On Bank Bonuses",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Bonuses",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Banks and Banking",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Great Britain",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Taxation",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Royal Bank of Scotland Plc",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Darling, Alistair",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-12-10T02:00:57+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "section_name": "Global Business",
+    "byline": {
+      "original": "By LANDON THOMAS Jr",
+      "person": [
+        {
+          "firstname": "Landon",
+          "middlename": null,
+          "lastname": "THOMAS",
+          "qualifier": "Jr",
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "545a57e738f0d842c59d103d",
+    "word_count": 1156,
+    "score": 1.0,
+    "uri": "nyt://article/71b2eddd-3027-53f9-9f6a-b49195aa3c56"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/12/10/us/10rural.html",
+    "snippet": "The recession and cuts to programs for aging Americans have made growing old in isolated areas even tougher.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/12/10/us/10rural_CA0/articleLarge.jpg",
+        "height": 350,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/12/10/us/10rural_CA0/articleLarge.jpg",
+          "xlargeheight": 350
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/12/10/us/10rural_CA0/thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/12/10/us/10rural_CA0/thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "For Elderly in Rural Areas, Times Are Distinctly Harder",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "For Rural Elderly, Times Are Distinctly Harder",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Elderly",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Rural Areas",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Recession and Depression",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Wyoming",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Nebraska",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-12-10T00:33:17+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "byline": {
+      "original": "By KIRK JOHNSON",
+      "person": [
+        {
+          "firstname": "Kirk",
+          "middlename": null,
+          "lastname": "JOHNSON",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "545a553538f0d82ce4268ab0",
+    "word_count": 1368,
+    "score": 1.0,
+    "uri": "nyt://article/48b1ca3e-1743-5c93-b15a-f960694eea61"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/12/10/fashion/10crashers.html",
+    "snippet": "By crashing a White House state dinner, Michaele and Tareq Salahi trampled countless protocols of official Washington.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/12/10/fashion/10crashers-span/articleLarge.jpg",
+        "height": 353,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/12/10/fashion/10crashers-span/articleLarge.jpg",
+          "xlargeheight": 353
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/12/10/fashion/10crashers-span/thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/12/10/fashion/10crashers-span/thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Dinner Crashers Walked All Over Social Code",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Not in This Town You Don\u2019t",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Parties (Social)",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Customs, Etiquette and Manners",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Washington (DC)",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Salahi, Michaele",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Salahi, Tareq",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-12-10T01:11:12+0000",
+    "document_type": "article",
+    "new_desk": "Styles",
+    "byline": {
+      "original": "By DAVID SEGAL",
+      "person": [
+        {
+          "firstname": "David",
+          "middlename": null,
+          "lastname": "SEGAL",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "545a521438f0d82ce4268a68",
+    "word_count": 1249,
+    "score": 1.0,
+    "uri": "nyt://article/11dd55eb-1a6a-5af9-b30f-a11b4cc9cd70"
+  }
+]

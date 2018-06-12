@@ -1,0 +1,146 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2014/08/11/sports/autoracing/tony-stewart-kills-driver-during-confrontation-on-racetrack.html",
+    "snippet": "Tony Stewart, a three-time Nascar champion, ran over Kevin Ward Jr., 20, on Saturday while competing in a dirt-track sprint car event in upstate New York.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2014/08/11/sports/11stewart1/11stewart1-articleLarge.jpg",
+        "height": 399,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2014/08/11/sports/11stewart1/11stewart1-articleLarge.jpg",
+          "xlargeheight": 399
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2014/08/11/sports/11stewart1/11stewart1-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2014/08/11/sports/11stewart1/11stewart1-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2014/08/11/sports/11stewart1/11stewart1-thumbStandard-v3.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2014/08/11/sports/11stewart1/11stewart1-thumbStandard-v3.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "A Nascar Star\u2019s Deadly Run-In on a Dirt Track",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "A Nascar Star\u2019s Deadly Run-In on a Dirt Track",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Automobile Racing",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Ward, Kevin Jr (1994-2014)",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Stewart, Tony",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "National Assn of Stock Car Auto Racing",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Nascar Sprint Cup Series",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Deaths (Fatalities)",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "New York State",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Traffic Accidents and Safety",
+        "rank": 8,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2014-08-10T15:37:28+0000",
+    "document_type": "article",
+    "new_desk": "Sports",
+    "section_name": "Auto Racing",
+    "byline": {
+      "original": "By VIV BERNSTEIN",
+      "person": [
+        {
+          "firstname": "Viv",
+          "middlename": null,
+          "lastname": "BERNSTEIN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "53e791bc38f0d8422ef9bb8e",
+    "word_count": 1276,
+    "score": 1.0,
+    "uri": "nyt://article/0b29f1d7-8c75-54bc-8c6b-e0f7772f2b2f"
+  }
+]

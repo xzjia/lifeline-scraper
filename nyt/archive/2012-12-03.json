@@ -1,0 +1,787 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2012/12/03/nyregion/call-that-kept-nursing-home-patients-in-sandys-path.html",
+    "snippet": "The city\u2019s recommendation to keep residents at nursing and adult homes in flood-prone areas during Hurricane Sandy had dire consequences.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/12/03/nyregion/evacuate/evacuate-articleLarge.jpg",
+        "height": 360,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2012/12/03/nyregion/evacuate/evacuate-articleLarge.jpg",
+          "xlargeheight": 360
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/12/03/nyregion/evacuate/evacuate-thumbStandard-v2.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2012/12/03/nyregion/evacuate/evacuate-thumbStandard-v2.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Behind a Call That Kept Nursing Home Patients in Storm\u2019s Path",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Behind a Call That Kept Nursing Home Patients in Storm\u2019s Path",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Hurricane Sandy (2012)",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Nursing Homes",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Evacuations and Evacuees",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Disabilities",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Mental Health and Disorders",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Elderly",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Farley, Thomas A",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Queens (NYC)",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Brooklyn (NYC)",
+        "rank": 9,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "New York City",
+        "rank": 10,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2012-12-03T04:21:51+0000",
+    "document_type": "article",
+    "new_desk": "Metro",
+    "byline": {
+      "original": "By JENNIFER PRESTON, SHERI FINK and MICHAEL POWELL",
+      "person": [
+        {
+          "firstname": "Jennifer",
+          "middlename": null,
+          "lastname": "PRESTON",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Sheri",
+          "middlename": null,
+          "lastname": "FINK",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        },
+        {
+          "firstname": "Michael",
+          "middlename": null,
+          "lastname": "POWELL",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 3
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "50be622900315214fbb7d358",
+    "word_count": 2000,
+    "score": 1.0,
+    "uri": "nyt://article/c925897f-6e81-577a-997a-212b6024e845"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2012/12/03/sports/study-bolsters-link-between-routine-hits-to-head-and-long-term-brain-disease.html",
+    "snippet": "Researchers found evidence of long-term degeneration in the brains of athletes, including John Mackey and Derek Boogaard, military veterans and others.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "Study Bolsters Link Between Routine Hits and Brain Disease",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Study Bolsters Link Between Routine Hits and Brain Disease",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Sports Injuries",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Chronic Traumatic Encephalopathy",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Traumatic Brain Injury",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Brain",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Concussions",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Research",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Football",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Hockey, Ice",
+        "rank": 8,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2012-12-03T05:02:42+0000",
+    "document_type": "article",
+    "new_desk": "Sports",
+    "byline": {
+      "original": "By KEN BELSON",
+      "person": [
+        {
+          "firstname": "Ken",
+          "middlename": null,
+          "lastname": "BELSON",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "530e561238f0d82601aab561",
+    "word_count": 804,
+    "score": 1.0,
+    "uri": "nyt://article/27cd9550-f987-5972-9298-7f06140a6193"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2012/12/03/sports/baseball/a-mets-owner-and-claims-of-consumer-fraud.html",
+    "snippet": "Shortly after 1-800-Flowers.com was sued for defrauding customers, its founder and chief executive, James F. McCann, was selected by the Mets as a minority owner.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/12/03/sports/flowers/flowers-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2012/12/03/sports/flowers/flowers-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/12/03/sports/flowers/flowers-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2012/12/03/sports/flowers/flowers-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "A Mets Owner and Claims of Consumer Fraud",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "A Mets Owner and Claims of Consumer Fraud",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "organizations",
+        "value": "1-800-Flowers.com Inc",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "New York Mets",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "McCann, James F",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Frauds and Swindling",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Suits and Litigation",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "E-Commerce",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Wilpon, Fred",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Baseball",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Katz, Saul B",
+        "rank": 9,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2012-12-03T02:58:21+0000",
+    "document_type": "article",
+    "new_desk": "Sports",
+    "section_name": "Baseball",
+    "byline": {
+      "original": "By STEVE EDER, RICHARD SANDOMIR and ALISON LEIGH COWAN",
+      "person": [
+        {
+          "firstname": "Steve",
+          "middlename": null,
+          "lastname": "EDER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Richard",
+          "middlename": null,
+          "lastname": "SANDOMIR",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        },
+        {
+          "firstname": "Alison",
+          "middlename": "Leigh",
+          "lastname": "COWAN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 3
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "50be624500315214fbb7d3ee",
+    "word_count": 2529,
+    "score": 1.0,
+    "uri": "nyt://article/bc70f648-53e7-546b-a968-705024b570ce"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2012/12/04/health/quest-to-eliminate-diagnostic-lapses.html",
+    "snippet": "Computer programs offer a backup for doctors facing tricky symptoms, but are still far from replacing a skilled diagnostician.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/12/04/science/04JPDIAG_SPAN/04JPDIAG_SPAN-articleLarge.jpg",
+        "height": 360,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2012/12/04/science/04JPDIAG_SPAN/04JPDIAG_SPAN-articleLarge.jpg",
+          "xlargeheight": 360
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/12/04/science/04JPDIAG_SPAN/04JPDIAG_SPAN-thumbStandard-v2.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2012/12/04/science/04JPDIAG_SPAN/04JPDIAG_SPAN-thumbStandard-v2.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "For Second Opinion, Consult a Computer?",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Could a Computer Outthink This Doctor?",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Computers and the Internet",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Medicine and Health",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Doctors",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Dhaliwal, Gurpreet S",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Artificial Intelligence",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "International Business Machines Corporation",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2012-12-03T19:09:56+0000",
+    "document_type": "article",
+    "new_desk": "Science",
+    "byline": {
+      "original": "By KATIE HAFNER",
+      "person": [
+        {
+          "firstname": "Katie",
+          "middlename": null,
+          "lastname": "HAFNER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "50be626200315214fbb7d636",
+    "word_count": 1759,
+    "score": 1.0,
+    "uri": "nyt://article/cd31b203-0181-5ab8-8971-f4fddefd6dd3"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2012/12/03/technology/app-maker-uber-hits-regulatory-snarl.html",
+    "snippet": "Uber, which is being sued by San Francisco cabdrivers and Chicago car services over its hire-a-car smartphone app, says the laws holding it back are anticompetitive. And it has plenty of fans.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/12/03/business/jp03Ride2/jp03Ride2-articleLarge.jpg",
+        "height": 344,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2012/12/03/business/jp03Ride2/jp03Ride2-articleLarge.jpg",
+          "xlargeheight": 344
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/12/03/business/jp03Ride2/jp03Ride2-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2012/12/03/business/jp03Ride2/jp03Ride2-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "A Feisty Start-Up Is Met With Regulatory Snarl",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Car-Hiring Apps in a Snarl",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "organizations",
+        "value": "Uber Technologies Inc",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Mobile Applications",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Regulation and Deregulation of Industry",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Suits and Litigation",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Taxicabs and Taxicab Drivers",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Smartphones",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Car Services and Livery Cabs",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Consumer Protection",
+        "rank": 8,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2012-12-03T01:06:11+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By BRIAN X. CHEN",
+      "person": [
+        {
+          "firstname": "Brian",
+          "middlename": "X.",
+          "lastname": "CHEN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "53fdad8338f0d85b064136f5",
+    "word_count": 1421,
+    "score": 1.0,
+    "uri": "nyt://article/0c52645c-7e45-542a-9be1-ca913c3d0bd0"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2012/12/03/us/winners-and-losers-in-texas.html",
+    "snippet": "Texas offers more incentives to attract business than any other state, but questions remain about who benefits more, the companies or the people of Texas.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/12/03/us/JP-INCENTIVES-1/JP-INCENTIVES-1-articleLarge.jpg",
+        "height": 330,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2012/12/03/us/JP-INCENTIVES-1/JP-INCENTIVES-1-articleLarge.jpg",
+          "xlargeheight": 330
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/12/03/us/JP-INCENTIVES-1/JP-INCENTIVES-1-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2012/12/03/us/JP-INCENTIVES-1/JP-INCENTIVES-1-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/12/03/us/JP-INCENTIVES-1/JP-INCENTIVES-1-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2012/12/03/us/JP-INCENTIVES-1/JP-INCENTIVES-1-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Lines Blur as Texas Gives Industries a Bonanza",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Lines Blur as Texas Gives Industries a Bonanza",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Tax Credits, Deductions and Exemptions",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Texas",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Samsung Group",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Perry, Rick",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Corporations",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Austin (Tex)",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Amazon.com Inc",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Series",
+        "rank": 8,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2012-12-03T01:05:05+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "byline": {
+      "original": "By LOUISE STORY",
+      "person": [
+        {
+          "firstname": "Louise",
+          "middlename": null,
+          "lastname": "STORY",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "50be624500315214fbb7d403",
+    "word_count": 4877,
+    "score": 1.0,
+    "uri": "nyt://article/00fb89fb-44e0-599c-a617-f5ea9d4b407c"
+  }
+]

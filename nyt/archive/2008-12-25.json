@@ -1,0 +1,301 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2008/12/26/health/policy/26clinics.html",
+    "snippet": "President Bush has doubled federal financing for community health centers, enabling the creation or expansion of 1,297 clinics in underserved areas.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/12/26/us/26clinic_span.jpg",
+        "height": 330,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2008/12/26/us/26clinic_span.jpg",
+          "xlargeheight": 330
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/12/26/us/26clinic_75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2008/12/26/us/26clinic_75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Expansion of Clinics Shapes Bush Legacy",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "For Bush, a Rise In Health Clinics Shapes a Legacy",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Bush, George W",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Medicine and Health",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Hospitals",
+        "rank": 3,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2008-12-25T22:49:57+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "section_name": "Money & Policy",
+    "byline": {
+      "original": "By KEVIN SACK",
+      "person": [
+        {
+          "firstname": "Kevin",
+          "middlename": null,
+          "lastname": "SACK",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5475db6e38f0d8119c6b026b",
+    "word_count": 1709,
+    "score": 1.0,
+    "uri": "nyt://article/4fe7529e-89de-5ca1-b730-ac9d0ab1cac2"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2008/12/25/business/25sandler.html",
+    "snippet": "Herbert and Marion Sandler, long viewed as model citizens of the mortgage industry, have been swept into the debate over who is to blame.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/12/25/business/25sandlers01-75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2008/12/25/business/25sandlers01-75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Once Trusted Mortgage Pioneers, Now Scrutinized",
+      "kicker": "The Reckoning",
+      "content_kicker": "The Reckoning",
+      "print_headline": "Once Trusted Mortgage Pioneers, Now Scrutinized",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "organizations",
+        "value": "Wachovia Corp",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Sandler, Herbert M",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Mortgages",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Subprime Mortgage Crisis",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Housing",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Foreclosures",
+        "rank": 9,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Sandler, Marion",
+        "rank": 10,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2008-12-25T02:02:32+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By MICHAEL MOSS and GERALDINE FABRIKANT",
+      "person": [
+        {
+          "firstname": "Michael",
+          "middlename": null,
+          "lastname": "MOSS",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Geraldine",
+          "middlename": null,
+          "lastname": "FABRIKANT",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "Series",
+    "_id": "5475d78038f0d8119c6b020b",
+    "word_count": 2718,
+    "score": 1.0,
+    "uri": "nyt://article/9bbc3139-7e17-5f3e-9496-78e0b225bc6f"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2008/12/26/theater/26pinter.html",
+    "snippet": "Mr. Pinter\u2019s gift for finding the noise within silence made him the most influential dramatist of his generation.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/12/26/theater/26pinter_75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2008/12/26/theater/26pinter_75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Harold Pinter, Playwright of the Pause, Dies at 78",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Harold Pinter, Whose Silences Redefined Drama, Dies at 78",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Pinter, Harold",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Theater",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Deaths (Obituaries)",
+        "rank": 3,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2008-12-25T14:42:31+0000",
+    "document_type": "article",
+    "new_desk": "Culture",
+    "byline": {
+      "original": "By MEL GUSSOW and BEN BRANTLEY",
+      "person": [
+        {
+          "firstname": "Mel",
+          "middlename": null,
+          "lastname": "GUSSOW",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Ben",
+          "middlename": null,
+          "lastname": "BRANTLEY",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "Obituary (Obit)",
+    "_id": "5475d9bd38f0d8119c6b0244",
+    "word_count": 3253,
+    "score": 1.0,
+    "uri": "nyt://article/1f635d38-6f1b-5e11-a716-3b10edca561b"
+  }
+]

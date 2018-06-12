@@ -1,0 +1,409 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2009/10/17/business/economy/17wall.html",
+    "snippet": "Efforts to stabilize the financial system also set the stage for financial titans to make fortunes in more lucrative areas than lending people money.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/10/17/business/1017-biz-WALL_190.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2009/10/17/business/1017-biz-WALL_190.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Bailout Helps Fuel a New Era of Wall Street Wealth",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Bailout Helps Revive Banks, And Bonuses",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Stocks and Bonds",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Banks and Banking",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Goldman Sachs Group",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Morgan, J P, Chase & Co",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Wall Street (NYC)",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Emergency Economic Stabilization Act (2008)",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Economy",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Subprime Mortgage Crisis",
+        "rank": 8,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-10-17T01:57:29+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "section_name": "Economy",
+    "byline": {
+      "original": "By GRAHAM BOWLEY",
+      "person": [
+        {
+          "firstname": "Graham",
+          "middlename": null,
+          "lastname": "BOWLEY",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5457631838f0d86ef22a1971",
+    "word_count": 1076,
+    "score": 1.0,
+    "uri": "nyt://article/a33186e9-22e2-5946-b8b1-c3efb7164cfd"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/10/18/world/asia/18hostage.html",
+    "snippet": "A Times reporter, David Rohde, and two Afghan colleagues were kidnapped by the Taliban in 2008 and held for seven months in Pakistan. This is the first installment in a five-part series offering his account.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/10/18/world/18hostage_600.jpg",
+        "height": 349,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/10/18/world/18hostage_600.jpg",
+          "xlargeheight": 349
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/10/18/world/18hostage_75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/10/18/world/18hostage_75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "7 Months, 10 Days in Captivity",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "HELD BY THE TALIBAN",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "organizations",
+        "value": "Taliban",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Kidnapping",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Afghanistan",
+        "rank": 3,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-10-17T19:10:59+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Asia Pacific",
+    "byline": {
+      "original": "By DAVID ROHDE",
+      "person": [
+        {
+          "firstname": "David",
+          "middlename": null,
+          "lastname": "ROHDE",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "Series",
+    "_id": "5457653d38f0d86ef22a19a4",
+    "word_count": 4547,
+    "score": 1.0,
+    "uri": "nyt://article/8f21c1ee-c732-51bb-9468-65db224c11b7"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/10/17/nyregion/17minute.html",
+    "snippet": "Every commuter train that leaves New York City deliberately leaves a minute late, to help the harried.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/10/17/nyregion/17minute1_600.jpg",
+        "height": 374,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/10/17/nyregion/17minute1_600.jpg",
+          "xlargeheight": 374
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/10/17/nyregion/17minute_75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/10/17/nyregion/17minute_75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "The Secret New York Minute: Trains Late by Design",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "The Secret New York Minute: Every Train Leaves a Bit Late",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Time",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Railroads",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Commuting",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "New York City",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-10-17T01:09:37+0000",
+    "document_type": "article",
+    "new_desk": "Metro",
+    "byline": {
+      "original": "By MICHAEL M. GRYNBAUM",
+      "person": [
+        {
+          "firstname": "Michael",
+          "middlename": null,
+          "lastname": null,
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5457614338f0d86ef22a1948",
+    "word_count": 854,
+    "score": 1.0,
+    "uri": "nyt://article/91ff967f-2573-5aaa-acf4-37a8e43dddaf"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/10/17/world/africa/17sudan.html",
+    "snippet": "An official said the White House\u2019s policy would use a mix of \u201cincentives and pressure\u201d to end the human rights abuses that have burned Darfur into the American conscience.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "Obama Drops Plan to Isolate Sudan Leaders",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Obama Drops Plan to Isolate Sudan Leaders",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Darfur (Sudan)",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "War Crimes, Genocide and Crimes Against Humanity",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Sudan",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States International Relations",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "State Department",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Obama, Barack",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Gration, J Scott",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Clinton, Hillary Rodham",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Bashir, Omar Hassan Al-",
+        "rank": 9,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-10-17T02:35:20+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Africa",
+    "byline": {
+      "original": "By GINGER THOMPSON",
+      "person": [
+        {
+          "firstname": "Ginger",
+          "middlename": null,
+          "lastname": "THOMPSON",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "545763d238f0d86ef22a1981",
+    "word_count": 658,
+    "score": 1.0,
+    "uri": "nyt://article/a7fde1b4-e4fd-52dd-b065-27aa665d50d1"
+  }
+]

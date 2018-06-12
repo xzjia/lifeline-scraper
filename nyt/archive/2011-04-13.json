@@ -1,0 +1,560 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2011/04/13/us/13lindytown.html",
+    "snippet": "A small town in West Virginia has essentially disappeared in the wake of the state\u2019s largest surface-mining operation.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/04/13/us/jp-LINDYTOWN-4/jp-LINDYTOWN-4-articleLarge.jpg",
+        "height": 315,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2011/04/13/us/jp-LINDYTOWN-4/jp-LINDYTOWN-4-articleLarge.jpg",
+          "xlargeheight": 315
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/04/13/us/jp-LINDYTOWN-4/jp-LINDYTOWN-4-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/04/13/us/jp-LINDYTOWN-4/jp-LINDYTOWN-4-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "As the Mountaintops Fall, a Coal Town Vanishes",
+      "kicker": "This Land",
+      "content_kicker": "This Land",
+      "print_headline": "As the Mountaintops Fall, a Coal Town Vanishes",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Mountaintop Removal Mining",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Coal",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Massey Energy Co",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "West Virginia",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Labor and Jobs",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-04-13T02:02:20+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "byline": {
+      "original": "By DAN BARRY",
+      "person": [
+        {
+          "firstname": "Dan",
+          "middlename": null,
+          "lastname": "BARRY",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "52b8a35538f0d86bcb2a65d5",
+    "word_count": 2784,
+    "score": 1.0,
+    "uri": "nyt://article/099c0f9f-8690-5b72-893e-5928ba24a07c"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/04/13/business/economy/13leonhardt.html",
+    "snippet": "The expiration of the Bush tax cuts would mean a return to the Clinton tax rates and a good start to a smaller deficit.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/04/19/business/leonhardt-75/leonhardt-75-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/04/19/business/leonhardt-75/leonhardt-75-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Do-Nothing Congress as a Cure",
+      "kicker": "Economic Scene",
+      "content_kicker": "Economic Scene",
+      "print_headline": "Do-Nothing Congress as a Cure",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Federal Budget (US)",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Federal Taxes (US)",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Politics and Government",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Ryan, Paul D Jr",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Obama, Barack",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "House of Representatives",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Senate",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Republican Party",
+        "rank": 8,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-04-13T01:30:49+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "section_name": "Economy",
+    "byline": {
+      "original": "By DAVID LEONHARDT",
+      "person": [
+        {
+          "firstname": "David",
+          "middlename": null,
+          "lastname": "LEONHARDT",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "540cb61638f0d85bf2514c57",
+    "word_count": 991,
+    "score": 1.0,
+    "uri": "nyt://article/6ec44472-76cc-57e1-b5fa-c1c55e6a278c"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/04/17/arts/television/17fey.html",
+    "snippet": "Tina Fey is pregnant with her second child and wrote a memoir. Her secret: \u201cNo pigtails, no tube tops. Cry sparingly.\u201d",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/04/17/arts/FEY/FEY-thumbStandard-v2.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/04/17/arts/FEY/FEY-thumbStandard-v2.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Producer, Writer, Star and One Funny Mama",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Producer, Writer, Star And One Funny Mama",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Writing and Writers",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Books and Literature",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Emmy Awards",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Television",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Silvercup Studios",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "National Broadcasting Co",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Little Brown & Co",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Fey, Tina",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Poehler, Amy",
+        "rank": 9,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Wiig, Kristen",
+        "rank": 10,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Ephron, Nora",
+        "rank": 11,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Palin, Sarah",
+        "rank": 12,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Baldwin, Alec",
+        "rank": 13,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Winfrey, Oprah",
+        "rank": 14,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-04-13T19:51:18+0000",
+    "document_type": "article",
+    "new_desk": "Arts&Leisure",
+    "section_name": "Television",
+    "byline": {
+      "original": "By MELENA RYZIK",
+      "person": [
+        {
+          "firstname": "Melena",
+          "middlename": null,
+          "lastname": "RYZIK",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "52b8c65738f0d86bcb2a7014",
+    "word_count": 1893,
+    "score": 1.0,
+    "uri": "nyt://article/525ed6cf-a79f-526d-bddb-257010553306"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/04/13/us/politics/13lobby.html",
+    "snippet": "In the end, a handful of relatively small-bore line items affecting particular industries attracted some of the most aggressive lobbying behind the scenes in the budget battle.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "Lobbyists Won Key Concessions in Budget Deal",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "LOBBYISTS GAINED\nKEY CONCESSIONS\nIN BUDGET DEAL",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Federal Budget (US)",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Lobbying and Lobbyists",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Health Insurance and Managed Care",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Politics and Government",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "House of Representatives",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Senate",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Wyden, Ron",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Vouchers",
+        "rank": 8,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-04-13T01:13:37+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "section_name": "Politics",
+    "byline": {
+      "original": "By ERIC LICHTBLAU",
+      "person": [
+        {
+          "firstname": "Eric",
+          "middlename": null,
+          "lastname": "LICHTBLAU",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "540cb61d38f0d85bf2514c59",
+    "word_count": 1024,
+    "score": 1.0,
+    "uri": "nyt://article/564239de-69f8-5757-8260-a7d87fa35ec6"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/04/14/us/politics/14obama.html",
+    "snippet": "President Obama proposed a mix of long-term spending cuts, tax increases and changes to social welfare programs as his opening position in a fierce partisan budget battle.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/04/14/us/politics/Obama/Obama-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/04/14/us/politics/Obama/Obama-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Obama\u2019s Debt Plan Sets Stage for Long Battle Over Spending",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Taking On G.O.P., Obama Unveils Debt Relief Plan",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Federal Budget (US)",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Obama, Barack",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "National Debt (US)",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Republican Party",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Politics and Government",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-04-13T17:53:13+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "section_name": "Politics",
+    "byline": {
+      "original": "By MARK LANDLER and MICHAEL D. SHEAR",
+      "person": [
+        {
+          "firstname": "Mark",
+          "middlename": null,
+          "lastname": "LANDLER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Michael",
+          "middlename": null,
+          "lastname": null,
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "540cbb5e38f0d85bf2514cb0",
+    "word_count": 1242,
+    "score": 1.0,
+    "uri": "nyt://article/aec16ee6-434d-5d8a-bfdf-573cd86ad590"
+  }
+]

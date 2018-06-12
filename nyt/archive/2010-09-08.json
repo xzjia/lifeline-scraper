@@ -1,0 +1,638 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2010/09/09/us/politics/09bai.html",
+    "snippet": "President Obama and his party face a problem that stems from decisions he made when he took office.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "Crisis Past, Obama May Have Missed a Chance",
+      "kicker": "Political Times",
+      "content_kicker": "Political Times",
+      "print_headline": "In Obama Economic Stance, Risk of Confusion",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Obama, Barack",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Economy",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "American Recovery and Reinvestment Act (2009)",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Politics and Government",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-09-08T17:14:54+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "section_name": "Politics",
+    "byline": {
+      "original": "By MATT BAI",
+      "person": [
+        {
+          "firstname": "Matt",
+          "middlename": null,
+          "lastname": "BAI",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "541a625638f0d80959e6c8ef",
+    "word_count": 972,
+    "score": 1.0,
+    "uri": "nyt://article/44990bad-817b-5dc1-a90c-4a91804b2e1a"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2010/09/09/business/09botox.html",
+    "snippet": "Allergan will pay $600 million for its marketing tactics while the F.D.A. decides on the drug\u2019s use for migraines.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/09/09/business/09botox1/09botox1-articleLarge.jpg",
+        "height": 350,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2010/09/09/business/09botox1/09botox1-articleLarge.jpg",
+          "xlargeheight": 350
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/09/09/business/09botox1/09botox1-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/09/09/business/09botox1/09botox1-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "After Fine, Botox Awaits Approval for Migraine",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Erasing Frown Lines (and Migraines?)",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Botox (Drug)",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Allergan Incorporated",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Migraine Headaches",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Drugs (Pharmaceuticals)",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Medicine and Health",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Suits and Litigation",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-09-08T22:59:41+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By NATASHA SINGER",
+      "person": [
+        {
+          "firstname": "Natasha",
+          "middlename": null,
+          "lastname": "SINGER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "541a66ce38f0d80959e6c954",
+    "word_count": 1487,
+    "score": 1.0,
+    "uri": "nyt://article/b9c3d354-d97e-50ac-8c19-ac3ce093072f"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2010/09/08/us/politics/08obama.html",
+    "snippet": "The president\u2019s decision not to extend tax cuts for the rich adds a populist twist to an economic package designed to entice support from big businesses and their Republican allies.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "Obama Is Against a Compromise on Bush Tax Cuts",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "OBAMA OPPOSING ANY COMPROMISE ON BUSH TAX CUTS",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Obama, Barack",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Taxation",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Economy",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Politics and Government",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Income Tax",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "High Net Worth Individuals",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-09-08T00:04:43+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "section_name": "Politics",
+    "byline": {
+      "original": "By JACKIE CALMES",
+      "person": [
+        {
+          "firstname": "Jackie",
+          "middlename": null,
+          "lastname": "CALMES",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "541a5eef38f0d80959e6c8a6",
+    "word_count": 1017,
+    "score": 1.0,
+    "uri": "nyt://article/5643ce8a-579f-5e11-9c7f-a0b570e5f8f4"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2010/09/08/sports/08stadium.html",
+    "snippet": "Taxpayers in New Jersey and in other areas of the country are still paying for facilities abandoned by the teams they were built for.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/09/08/sports/JP-STADIUM-1/JP-STADIUM-1-articleLarge.jpg",
+        "height": 315,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2010/09/08/sports/JP-STADIUM-1/JP-STADIUM-1-articleLarge.jpg",
+          "xlargeheight": 315
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/09/08/sports/JP-STADIUM-1/JP-STADIUM-1-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/09/08/sports/JP-STADIUM-1/JP-STADIUM-1-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "As Stadiums Vanish, Their Debt Lives On",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "As Teams Abandon Stadiums, The Public Is Left With the Bill",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Stadiums and Arenas",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Government Bonds",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Politics and Government",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Giants Stadium (NJ)",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Meadowlands Sports Complex",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "New Jersey Sports and Exposition Authority",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "New Jersey",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Credit and Debt",
+        "rank": 8,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-09-08T01:04:04+0000",
+    "document_type": "article",
+    "new_desk": "Sports",
+    "byline": {
+      "original": "By KEN BELSON",
+      "person": [
+        {
+          "firstname": "Ken",
+          "middlename": null,
+          "lastname": "BELSON",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "541a5f5538f0d80959e6c8ae",
+    "word_count": 1889,
+    "score": 1.0,
+    "uri": "nyt://article/b979f578-efaa-53bd-9455-473ba76f0b43"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2010/09/09/us/09secrets.html",
+    "snippet": "A sharply divided appeals court dismissed a lawsuit involving the C.I.A.\u2019s \u201cextraordinary rendition\u201d program.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/09/09/us/jp-SECRETS/jp-SECRETS-articleLarge.jpg",
+        "height": 315,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2010/09/09/us/jp-SECRETS/jp-SECRETS-articleLarge.jpg",
+          "xlargeheight": 315
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/09/09/us/jp-SECRETS/jp-SECRETS-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/09/09/us/jp-SECRETS/jp-SECRETS-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Court Dismisses a Case Asserting Torture by C.I.A.",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Court Dismisses A Case Asserting Torture by C.I.A.",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Extraordinary Rendition",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Central Intelligence Agency",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Classified Information and State Secrets",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Suits and Litigation",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Decisions and Verdicts",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Torture",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Detainees",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Civil Rights and Liberties",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Politics and Government",
+        "rank": 9,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "American Civil Liberties Union",
+        "rank": 10,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Justice Department",
+        "rank": 11,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Obama, Barack",
+        "rank": 12,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Boeing Co",
+        "rank": 13,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Mohamed, Binyam",
+        "rank": 14,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-09-08T21:16:25+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "byline": {
+      "original": "By CHARLIE SAVAGE",
+      "person": [
+        {
+          "firstname": "Charlie",
+          "middlename": null,
+          "lastname": "SAVAGE",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "541a65d138f0d80959e6c93d",
+    "word_count": 1390,
+    "score": 1.0,
+    "uri": "nyt://article/214d37bd-a9ec-52bf-b9c4-499cb123487d"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2010/09/09/technology/personaltech/09pogue.html",
+    "snippet": "The 2010 iPod crop includes modest improvements, a risky new design and a home run in the new iPod Touch.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/09/09/business/POGUE/POGUE-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/09/09/business/POGUE/POGUE-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "In Season 9, iPods Still Get High Ratings",
+      "kicker": "State of the Art",
+      "content_kicker": "State of the Art",
+      "print_headline": "In Season 9, IPods Still Get High Ratings",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "iPod",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Apple Inc",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Digital Audio Players",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Music",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-09-08T20:36:02+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "section_name": "Personal Tech",
+    "byline": {
+      "original": "By DAVID POGUE",
+      "person": [
+        {
+          "firstname": "David",
+          "middlename": null,
+          "lastname": "POGUE",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "541a645938f0d80959e6c91b",
+    "word_count": 1296,
+    "score": 1.0,
+    "uri": "nyt://article/f83087ce-e538-520c-86d2-4048008e618c"
+  }
+]

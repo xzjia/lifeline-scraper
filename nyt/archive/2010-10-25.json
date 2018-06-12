@@ -1,0 +1,388 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2010/10/25/sports/25coverage.html",
+    "snippet": "A high rate of injury makes marathon runners a problematic subset for insurers to cover.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "Distance Runners Are a Paradox for Insurers",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Distance Runners Are a Paradox For Insurers",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Running",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Health Insurance and Managed Care",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Sports Injuries",
+        "rank": 3,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-10-25T00:12:59+0000",
+    "document_type": "article",
+    "new_desk": "Sports",
+    "byline": {
+      "original": "By ERIN BERESINI",
+      "person": [
+        {
+          "firstname": "Erin",
+          "middlename": null,
+          "lastname": "BERESINI",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "541c02ec38f0d8296cb10698",
+    "word_count": 998,
+    "score": 1.0,
+    "uri": "nyt://article/a1d5260a-89b5-5c20-adde-2b407a0ede75"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2010/10/26/world/asia/26afghan.html",
+    "snippet": "President Hamid Karzai said that he uses an off-the-books fund to pay expenses incurred in the course of doing his job.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/10/26/world/AFGHAN-1/AFGHAN-1-articleLarge.jpg",
+        "height": 360,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2010/10/26/world/AFGHAN-1/AFGHAN-1-articleLarge.jpg",
+          "xlargeheight": 360
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/10/26/world/AFGHAN-1/AFGHAN-1-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/10/26/world/AFGHAN-1/AFGHAN-1-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Afghan Leader Admits His Office Gets Cash from Iran",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "KARZAI CONFIRMS THAT IRAN GIVES \u2018BAGS OF MONEY\u2019",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Karzai, Hamid",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Iran",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Afghanistan",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Private Military Contractors",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States International Relations",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-10-25T12:36:49+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Asia Pacific",
+    "byline": {
+      "original": "By DEXTER FILKINS and ALISSA J. RUBIN",
+      "person": [
+        {
+          "firstname": "Dexter",
+          "middlename": null,
+          "lastname": "FILKINS",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Alissa",
+          "middlename": "J.",
+          "lastname": "RUBIN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "541c056438f0d8296cb106dd",
+    "word_count": 1149,
+    "score": 1.0,
+    "uri": "nyt://article/71670d67-6d71-534f-bff7-faee3d028bee"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2010/10/26/science/26whitney.html",
+    "snippet": "Because of unusual materials and unconventional techniques, modern works of art can present conservation difficulties.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/10/26/science/26whitspan/26whitspan-articleLarge.jpg",
+        "height": 330,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2010/10/26/science/26whitspan/26whitspan-articleLarge.jpg",
+          "xlargeheight": 330
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/10/26/science/26whitspan/26whitspan-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/10/26/science/26whitspan/26whitspan-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "The Improvised Remedies of an Art Healer",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "The Improvisational Remedies of an Art Healer",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Art",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Restoration and Renovation",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Thek, Paul",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Whitney Museum of American Art",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Sculpture",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-10-25T19:11:08+0000",
+    "document_type": "article",
+    "new_desk": "Science",
+    "byline": {
+      "original": "By HENRY FOUNTAIN",
+      "person": [
+        {
+          "firstname": "Henry",
+          "middlename": null,
+          "lastname": "FOUNTAIN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "541c07b338f0d8296cb1071a",
+    "word_count": 1553,
+    "score": 1.0,
+    "uri": "nyt://article/e3fced02-dd86-5e12-bb17-45a2aa54a57c"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2010/10/25/business/media/25watchdog.html",
+    "snippet": "The Parents Television Council has been hurt by court challenges to the F.C.C. and low finances.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/10/25/business/WATCHDOG-2/WATCHDOG-2-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/10/25/business/WATCHDOG-2/WATCHDOG-2-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "TV Watchdog Group Is on the Defensive",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Guardians of TV Morals, Bowed",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Television",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Indecency, Obscenity and Profanity",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Federal Communications Commission",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "CBS Corp",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "News Corporation",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Fox Broadcasting Co",
+        "rank": 7,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-10-25T00:19:01+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "section_name": "Media",
+    "byline": {
+      "original": "By BROOKS BARNES",
+      "person": [
+        {
+          "firstname": "Brooks",
+          "middlename": null,
+          "lastname": "BARNES",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "541c027638f0d8296cb1068d",
+    "word_count": 1815,
+    "score": 1.0,
+    "uri": "nyt://article/b35c9780-2c09-57ba-b93c-043ce5ddc539"
+  }
+]

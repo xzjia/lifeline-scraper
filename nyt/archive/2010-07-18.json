@@ -1,0 +1,127 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2010/07/18/science/earth/18enviro.html",
+    "snippet": "Every oil spill is different, but the thread that unites some major ones is a growing scientific awareness of the persistent damage that spills can do.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/07/18/science/earth/2nd-sub-enviro-1/2nd-sub-enviro-1-articleLarge.jpg",
+        "height": 330,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2010/07/18/science/earth/2nd-sub-enviro-1/2nd-sub-enviro-1-articleLarge.jpg",
+          "xlargeheight": 330
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/07/18/science/earth/2nd-sub-enviro-1/2nd-sub-enviro-1-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/07/18/science/earth/2nd-sub-enviro-1/2nd-sub-enviro-1-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "After Oil Spills, Hidden Damage Can Last for Years",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "The Corrosive Legacy of Oil Spills",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Environment",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Oil (Petroleum) and Gasoline",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Gulf of Mexico",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Offshore Drilling and Exploration",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Accidents and Safety",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "BP Plc",
+        "rank": 7,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-07-18T00:42:27+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "section_name": "Environment",
+    "byline": {
+      "original": "By JUSTIN GILLIS  and LESLIE KAUFMAN",
+      "person": [
+        {
+          "firstname": "Justin",
+          "middlename": null,
+          "lastname": "GILLIS",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Leslie",
+          "middlename": null,
+          "lastname": "KAUFMAN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5418a2f938f0d86afc9a053a",
+    "word_count": 2783,
+    "score": 1.0,
+    "uri": "nyt://article/62f5a78a-b9bf-52df-897f-9528ced0d1d8"
+  }
+]

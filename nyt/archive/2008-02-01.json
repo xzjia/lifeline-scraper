@@ -1,0 +1,155 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2008/02/01/education/01virtual.html",
+    "snippet": "Half a million American children take classes online, and many attend virtual public schools that compete with districts for financing.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/02/01/us/01virtual.600.jpg",
+        "height": 330,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2008/02/01/us/01virtual.600.jpg",
+          "xlargeheight": 330
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Online Schooling Grows, Setting Off a Debate",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Online Schooling Grows, Setting Off a Debate",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Education and Schools",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Computers and the Internet",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Children and Youth",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Decisions and Verdicts",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2008-02-01T05:00:00+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "byline": {
+      "original": "By SAM DILLON",
+      "person": [
+        {
+          "firstname": "Sam",
+          "middlename": null,
+          "lastname": "DILLON",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "547c04c938f0d813efccb940",
+    "word_count": 1318,
+    "score": 1.0,
+    "uri": "nyt://article/91757dc2-c768-53b4-acbc-81f4ffcf47f9"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2008/02/01/sports/baseball/01minors.html",
+    "snippet": "A reliever in the Cleveland Indians\u2019 system set up a Web site through which fans could purchase a piece of his future major league earnings.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "Buying Low: Minor Leaguer Takes Stock of Himself",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Buying Low: Minor Leaguer Takes Stock of Himself",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Baseball",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Minor Leagues",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Wages and Salaries",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Stocks and Bonds",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2008-02-01T05:00:00+0000",
+    "document_type": "article",
+    "new_desk": "Sports",
+    "section_name": "Baseball",
+    "byline": {
+      "original": "By ALAN SCHWARZ",
+      "person": [
+        {
+          "firstname": "Alan",
+          "middlename": null,
+          "lastname": "SCHWARZ",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "547d798838f0d822abda24cd",
+    "word_count": 894,
+    "score": 1.0,
+    "uri": "nyt://article/606329a6-968c-5351-9b2f-ae5de6e02cca"
+  }
+]

@@ -1,0 +1,115 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2009/05/18/world/asia/18lanka.html",
+    "snippet": "The ethnic Tamil separatist rebels of Sri Lanka acknowledged Sunday that their war of over a quarter century for a homeland had \u201creached its bitter end.\u201d",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/05/18/world/18lanka.xlarge.jpg",
+        "height": 360,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/05/18/world/18lanka.xlarge.jpg",
+          "xlargeheight": 360
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/05/18/world/18lanka.751.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/05/18/world/18lanka.751.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Rebels Routed in Sri Lanka After 25 Years of War",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Rebels Routed In Sri Lanka After 25 Years",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Sri Lanka",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Civil War and Guerrilla Warfare",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Liberation Tigers of Tamil Eelam",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Civilian Casualties",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-05-17T06:55:22+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Asia Pacific",
+    "byline": {
+      "original": "By SOMINI SENGUPTA and SETH MYDANS",
+      "person": [
+        {
+          "firstname": "Somini",
+          "middlename": null,
+          "lastname": "SENGUPTA",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Seth",
+          "middlename": null,
+          "lastname": "MYDANS",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "546ab32d38f0d84ca2c5ca27",
+    "word_count": 938,
+    "score": 1.0,
+    "uri": "nyt://article/8ec2fcb3-b132-5818-83c2-16fcbda7f967"
+  }
+]

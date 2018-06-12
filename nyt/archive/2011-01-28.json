@@ -1,0 +1,568 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2011/01/28/world/middleeast/28jazeera.html",
+    "snippet": "The channel has helped shape a narrative of popular rage against oppressive American-backed Arab governments.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/01/28/world/JAZEERA/JAZEERA-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/01/28/world/JAZEERA/JAZEERA-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Seizing a Moment, Al Jazeera Galvanizes Arab Frustration",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Seizing a Moment, Al Jazeera Galvanizes Arab Frustration",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "organizations",
+        "value": "Al Jazeera",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Demonstrations, Protests, and Riots",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Tunisia",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Egypt",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Lebanon",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Palestinian Authority",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-01-28T01:17:47+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Middle East",
+    "byline": {
+      "original": "By ROBERT F. WORTH and DAVID D. KIRKPATRICK",
+      "person": [
+        {
+          "firstname": "Robert",
+          "middlename": "F.",
+          "lastname": "WORTH",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "David",
+          "middlename": null,
+          "lastname": null,
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "540a379538f0d84fb88335bc",
+    "word_count": 1236,
+    "score": 1.0,
+    "uri": "nyt://article/6c61b284-ee8d-5516-a6c0-8563b93fc134"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/01/29/sports/baseball/29mets.html",
+    "snippet": "The trustee who represents victims of Bernard L. Madoff\u2019s Ponzi scheme is alleging that the team\u2019s owners knew or should have known that Madoff was operating a fraud.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/01/29/sports/Mets/Mets-articleLarge.jpg",
+        "height": 315,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2011/01/29/sports/Mets/Mets-articleLarge.jpg",
+          "xlargeheight": 315
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/01/29/sports/Mets/Mets-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/01/29/sports/Mets/Mets-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Trustee Faults Mets Owners Over Madoff Fraud",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Trustee Faults Mets Owners Over Madoff Fraud",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Madoff, Bernard L",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "New York Mets",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Wilpon, Fred",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Picard, Irving H",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Baseball",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Ponzi Schemes",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Suits and Litigation",
+        "rank": 8,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-01-28T17:55:00+0000",
+    "document_type": "article",
+    "new_desk": "Sports",
+    "section_name": "Baseball",
+    "byline": {
+      "original": "By ALISON LEIGH COWAN, PETER LATTMAN, SERGE F. KOVALESKI and DAVID WALDSTEIN",
+      "person": [
+        {
+          "firstname": "Alison",
+          "middlename": "Leigh",
+          "lastname": "COWAN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Peter",
+          "middlename": null,
+          "lastname": "LATTMAN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        },
+        {
+          "firstname": "Serge",
+          "middlename": "F.",
+          "lastname": "KOVALESKI",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 3
+        },
+        {
+          "firstname": "David",
+          "middlename": null,
+          "lastname": "WALDSTEIN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 4
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "540a3b8038f0d84fb8833609",
+    "word_count": 1253,
+    "score": 1.0,
+    "uri": "nyt://article/30872dae-2a0e-56e5-99af-18c32d68b40e"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/01/30/fashion/30Mirror.html",
+    "snippet": "An entourage of stuff follows the writer wherever she goes, and she admits that it&#8217;s bizarrely self-defeating.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/01/30/fashion/30themirror/30themirror-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/01/30/fashion/30themirror/30themirror-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "My Personal Baggage",
+      "kicker": "The Mirror",
+      "content_kicker": "The Mirror",
+      "print_headline": "My Personal Baggage",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Women and Girls",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Handbags and Purses",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Emotions",
+        "rank": 3,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-01-28T20:04:56+0000",
+    "document_type": "article",
+    "new_desk": "Styles",
+    "byline": {
+      "original": "By AMANDA FORTINI",
+      "person": [
+        {
+          "firstname": "Amanda",
+          "middlename": null,
+          "lastname": "FORTINI",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "540a3c7638f0d84fb883361c",
+    "word_count": 1506,
+    "score": 1.0,
+    "uri": "nyt://article/50414b8a-30c4-50b4-9ffe-191fc3dc6345"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/01/29/world/middleeast/29unrest.html",
+    "snippet": "Protesters continued to defy a nationwide curfew early Saturday as President Hosni Mubarak deployed the military to save his authoritarian government of nearly 30 years.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/01/29/world/29egypt2_span/Egypt-1-articleLarge.jpg",
+        "height": 350,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2011/01/29/world/29egypt2_span/Egypt-1-articleLarge.jpg",
+          "xlargeheight": 350
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/01/29/world/29egypt2_span/Egypt-1-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/01/29/world/29egypt2_span/Egypt-1-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Mubarak Orders Crackdown, With Revolt Sweeping Egypt",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Mubarak Orders Crackdown, With Revolt Sweeping Egypt",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Mubarak, Hosni",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Demonstrations, Protests, and Riots",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Egypt",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "ElBaradei, Mohamed",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Muslim Brotherhood",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-01-28T08:46:04+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Middle East",
+    "byline": {
+      "original": "By DAVID D. KIRKPATRICK",
+      "person": [
+        {
+          "firstname": "David",
+          "middlename": null,
+          "lastname": null,
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "540a3a8b38f0d84fb88335f5",
+    "word_count": 1574,
+    "score": 1.0,
+    "uri": "nyt://article/296e4c28-578f-57eb-937f-1baeaed52efb"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/01/30/realestate/30cov.html",
+    "snippet": "Agencies offering to do less for less are springing up, and in a do-it-yourself age, some sellers are drawn to the no-frills approach.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/01/30/realestate/30cov-illustration/30cov-illustration-articleLarge.jpg",
+        "height": 315,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2011/01/30/realestate/30cov-illustration/30cov-illustration-articleLarge.jpg",
+          "xlargeheight": 315
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/01/30/realestate/30cov-illustration/30cov-illustration-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2011/01/30/realestate/30cov-illustration/30cov-illustration-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/01/30/realestate/30cov-illustration/30cov-illustration-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/01/30/realestate/30cov-illustration/30cov-illustration-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "You Don\u2019t Have to Pay It",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "You Don\u2019t Have to Pay It",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Real Estate Brokers",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Prices (Fares, Fees and Rates)",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Housing and Real Estate",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "New York City",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-01-28T16:28:49+0000",
+    "document_type": "article",
+    "new_desk": "RealEstate",
+    "byline": {
+      "original": "By SUSAN STELLIN",
+      "person": [
+        {
+          "firstname": "Susan",
+          "middlename": null,
+          "lastname": "STELLIN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "540a278838f0d84fb8833472",
+    "word_count": 1744,
+    "score": 1.0,
+    "uri": "nyt://article/c0f74026-f030-57fa-bb82-960f33407956"
+  }
+]

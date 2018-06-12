@@ -1,0 +1,486 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2010/12/30/us/30film.html",
+    "snippet": "On Thursday, at a photo studio in Parsons, Kan., the last Kodachrome processing machine in the world will be shut down to be sold for scrap.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/12/30/us/jp-FILM-3/jp-FILM-3-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnail": "images/2010/12/30/us/jp-FILM-3/jp-FILM-3-thumbStandard.jpg",
+          "thumbnailwidth": 75,
+          "thumbnailheight": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": "thumbStandard"
+      },
+      {
+        "rank": 0,
+        "subtype": "articleInline",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/12/30/us/jp-FILM-3/jp-FILM-3-articleInline.jpg",
+        "height": 151,
+        "width": 190,
+        "legacy": {},
+        "subType": "articleInline",
+        "crop_name": "articleInline"
+      },
+      {
+        "rank": 0,
+        "subtype": "jumbo",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/12/30/us/jp-FILM-3/jp-FILM-3-jumbo.jpg",
+        "height": 813,
+        "width": 1024,
+        "legacy": {},
+        "subType": "jumbo",
+        "crop_name": "jumbo"
+      },
+      {
+        "rank": 0,
+        "subtype": "popup",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/12/30/us/jp-FILM-3/jp-FILM-3-popup.jpg",
+        "height": 516,
+        "width": 650,
+        "legacy": {},
+        "subType": "popup",
+        "crop_name": "popup"
+      },
+      {
+        "rank": 0,
+        "subtype": "sfSpan",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/12/30/us/jp-FILM-3/jp-FILM-3-sfSpan.jpg",
+        "height": 314,
+        "width": 395,
+        "legacy": {},
+        "subType": "sfSpan",
+        "crop_name": "sfSpan"
+      }
+    ],
+    "headline": {
+      "main": "For Kodachrome Fans, Road Ends at Photo Lab in Kansas",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "For Kodachrome Fans, Road Ends at Photo Lab in Kansas",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Photography",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Eastman Kodak Co",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Family Business",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "McCurry, Steve",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-12-30T02:10:21+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "byline": {
+      "original": "By A. G. SULZBERGER",
+      "person": [
+        {
+          "firstname": "A.",
+          "middlename": "G.",
+          "lastname": "SULZBERGER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5421c40038f0d83c6e5b735e",
+    "word_count": 1080,
+    "score": 1.0,
+    "uri": "nyt://article/cad917fc-6184-5ad4-862f-a08fa190397a"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2010/12/30/arts/design/30mecca.html",
+    "snippet": "The Saudi government is being criticized for construction projects in the historic core of Mecca that many find appalling.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/12/30/arts/MECCA/MECCA-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/12/30/arts/MECCA/MECCA-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "New Look for Mecca: Gargantuan and Gaudy",
+      "kicker": "Critic\u2019s Notebook",
+      "content_kicker": "Critic\u2019s Notebook",
+      "print_headline": "New Look for Mecca: Gargantuan and Gaudy",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Mecca (Saudi Arabia)",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Buildings (Structures)",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Architecture",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Islam",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Area Planning and Renewal",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-12-30T04:06:33+0000",
+    "document_type": "article",
+    "new_desk": "Culture",
+    "section_name": "Art & Design",
+    "byline": {
+      "original": "By NICOLAI OUROUSSOFF",
+      "person": [
+        {
+          "firstname": "Nicolai",
+          "middlename": null,
+          "lastname": "OUROUSSOFF",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5421c37938f0d83c6e5b7357",
+    "word_count": 1259,
+    "score": 1.0,
+    "uri": "nyt://article/0853ee05-a079-5e91-89ed-b7da8f25320b"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2010/12/30/world/asia/30disappear.html",
+    "snippet": "The Obama administration is alarmed by reports that thousands of political separatists and Taliban insurgents have disappeared into the hands of Pakistan\u2019s security forces.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "Rights Groups Tie Pakistan to Militants\u2019 Disappearances",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "DISAPPEARANCES TIED TO PAKISTAN ARE WORRY TO U.S.",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Human Rights and Human Rights Violations",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Pakistan",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Taliban",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States International Relations",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Prisoners of War",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-12-30T01:58:20+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Asia Pacific",
+    "byline": {
+      "original": "By ERIC SCHMITT",
+      "person": [
+        {
+          "firstname": "Eric",
+          "middlename": null,
+          "lastname": "SCHMITT",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5421c35f38f0d83c6e5b7355",
+    "word_count": 1017,
+    "score": 1.0,
+    "uri": "nyt://article/5a36d432-b9ba-5e6e-a65f-43eaaef29288"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/01/02/arts/design/02moma.html",
+    "snippet": "With spectacle and some self-imposed limitations, the Museum of Modern Art is evolving into its new space.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "Hold That Obit; MoMA\u2019s Not Dead",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Hold That Obit; MoMA\u2019s Not Dead",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Art",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Museum of Modern Art",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Museums",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Restoration and Renovation",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Performance Art",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-12-30T16:49:26+0000",
+    "document_type": "article",
+    "new_desk": "0",
+    "section_name": "Art & Design",
+    "byline": {
+      "original": "By ROBERTA SMITH",
+      "person": [
+        {
+          "firstname": "Roberta",
+          "middlename": null,
+          "lastname": "SMITH",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5406014238f0d81983bde379",
+    "word_count": 1913,
+    "score": 1.0,
+    "uri": "nyt://article/a4d5baa9-d35f-5ba4-a702-35a9ace610b6"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2010/12/31/world/asia/31families.html",
+    "snippet": "Since 2001, more than a million families of service members have borne the brunt of the psychological and emotional strain of their deployment.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/12/31/us/31familiesspan-cnd/31familiesspan-cnd-articleLarge.jpg",
+        "height": 330,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2010/12/31/us/31familiesspan-cnd/31familiesspan-cnd-articleLarge.jpg",
+          "xlargeheight": 330
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/12/31/us/31familiesspan-cnd/31familiesspan-cnd-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/12/31/us/31familiesspan-cnd/31familiesspan-cnd-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Families Bear Brunt of Deployment Strains",
+      "kicker": "A Year at War",
+      "content_kicker": "A Year at War",
+      "print_headline": "Families Bear Brunt of Deployment Strains",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Afghanistan War (2001- )",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Defense and Military Forces",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Families and Family Life",
+        "rank": 3,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-12-30T19:49:32+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "section_name": "Asia Pacific",
+    "byline": {
+      "original": "By JAMES DAO  and CATRIN EINHORN",
+      "person": [
+        {
+          "firstname": "James",
+          "middlename": null,
+          "lastname": "DAO",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Catrin",
+          "middlename": null,
+          "lastname": "EINHORN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "53b411a338f0d841fe32d9e0",
+    "word_count": 2454,
+    "score": 1.0,
+    "uri": "nyt://article/5cdc55ae-b51e-543b-94c1-ac25ab74e607"
+  }
+]

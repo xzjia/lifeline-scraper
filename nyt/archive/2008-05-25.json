@@ -1,0 +1,110 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2008/05/25/us/25exception.html",
+    "snippet": "While most of the world tries to insulate judges from popular will, many in the United States are elected.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/05/25/us/25excep_1_span.jpg",
+        "height": 300,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2008/05/25/us/25excep_1_span.jpg",
+          "xlargeheight": 300
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/05/25/us/25exce.751.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2008/05/25/us/25exce.751.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Rendering Justice, With One Eye on Re-election",
+      "kicker": "American Exception",
+      "content_kicker": "American Exception",
+      "print_headline": "Rendering Justice, With One Eye on Re-election",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Elections",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Judges",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Politics and Government",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Wisconsin",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "United States",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2008-05-25T04:00:00+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "byline": {
+      "original": "By ADAM LIPTAK",
+      "person": [
+        {
+          "firstname": "Adam",
+          "middlename": null,
+          "lastname": "LIPTAK",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "Series",
+    "_id": "5452a96c38f0d81b603ecdbf",
+    "word_count": 1811,
+    "score": 1.0,
+    "uri": "nyt://article/c77f6863-bd26-5663-be89-3088bde93fa5"
+  }
+]

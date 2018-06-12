@@ -1,0 +1,123 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2012/06/25/world/middleeast/mohamed-morsi-of-muslim-brotherhood-declared-as-egypts-president.html",
+    "snippet": "Mohamed Morsi\u2019s recognition as president handed the Muslim Brotherhood a new weapon in its struggle for power with Egypt\u2019s ruling military council.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/06/25/world/25egypt-elections/25egypt-elections-articleLarge.jpg",
+        "height": 360,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2012/06/25/world/25egypt-elections/25egypt-elections-articleLarge.jpg",
+          "xlargeheight": 360
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/06/25/world/25egypt-elections/25egypt-elections-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2012/06/25/world/25egypt-elections/25egypt-elections-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Named Egypt\u2019s Winner, Islamist Makes History",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Named Egypt\u2019s Winner, Islamist Makes History",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Morsi, Mohamed",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Egypt",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Elections",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Muslim Brotherhood (Egypt)",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Middle East and North Africa Unrest (2010- )",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Shafik, Ahmed",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Shater, Khairat el-",
+        "rank": 7,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2012-06-24T14:33:52+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Middle East",
+    "byline": {
+      "original": "By DAVID D. KIRKPATRICK",
+      "person": [
+        {
+          "firstname": "David",
+          "middlename": null,
+          "lastname": null,
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "53f82a9b38f0d835538dc7bf",
+    "word_count": 1853,
+    "score": 1.0,
+    "uri": "nyt://article/274dc691-afc8-5877-9c17-eb93606224ce"
+  }
+]

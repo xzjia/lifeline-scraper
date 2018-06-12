@@ -1,0 +1,202 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2008/11/18/business/economy/18rescue.html",
+    "snippet": "The Detroit automakers and the United Automobile Workers union face stiff headwinds of public opinion as they push for a bailout.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "Clout Has Plunged for Automakers and Union, Too",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "FOR AUTOMAKERS AND UNION, CLOUT HAS PLUNGED, TOO",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Automobiles",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Emergency Economic Stabilization Act (2008)",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Economy",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "United Automobile Workers",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "General Motors Corp",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Detroit (Mich)",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2008-11-18T03:42:47+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "section_name": "Economy",
+    "byline": {
+      "original": "By MICHELINE MAYNARD",
+      "person": [
+        {
+          "firstname": "Micheline",
+          "middlename": null,
+          "lastname": "MAYNARD",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5474e05938f0d8119c6af060",
+    "word_count": 1069,
+    "score": 1.0,
+    "uri": "nyt://article/8156364c-cbd4-5dc8-ad9a-6f59d0678e0c"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2008/11/19/dining/19simple.html",
+    "snippet": "Some cooks want a simpler game plan, while others are looking to trick out the meal with a few challenges and a little luxury.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/11/19/dining/simple.600.jpg",
+        "height": 280,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2008/11/19/dining/simple.600.jpg",
+          "xlargeheight": 280
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/11/19/dining/simple.75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2008/11/19/dining/simple.75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Now, the Side Dishes: Quick and Simple or a Bit More Complex",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Now, the Side Dishes: Quick and Simple Or a Bit More Complex",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Thanksgiving Day",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Recipes",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Cooking and Cookbooks",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Potatoes",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Cabbage",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Brussels Sprouts",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Mushrooms",
+        "rank": 7,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2008-11-18T21:13:05+0000",
+    "document_type": "article",
+    "new_desk": "Dining",
+    "byline": {
+      "original": "By KIM SEVERSON",
+      "person": [
+        {
+          "firstname": "Kim",
+          "middlename": null,
+          "lastname": "SEVERSON",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "546e28ac38f0d82cf7c326ae",
+    "word_count": 708,
+    "score": 1.0,
+    "uri": "nyt://article/6dde5c6a-15ca-5591-80d2-c84222868b4e"
+  }
+]

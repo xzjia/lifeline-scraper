@@ -1,0 +1,356 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2010/11/09/us/09foreclosure.html",
+    "snippet": "Hundreds of vacated houses in Florida are being claimed by strangers citing a law from the 1800s.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/11/09/us/09foreclosure_337-span/FORECLOSURE-articleLarge.jpg",
+        "height": 340,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2010/11/09/us/09foreclosure_337-span/FORECLOSURE-articleLarge.jpg",
+          "xlargeheight": 340
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/11/09/us/09foreclosure_337-span/FORECLOSURE-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/11/09/us/09foreclosure_337-span/FORECLOSURE-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "At Legal Fringe, Empty Houses Go to the Needy",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "At Legal Fringe, Empty Houses Go to the Needy",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Florida",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Housing and Real Estate",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Foreclosures",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Squatters",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Subprime Mortgage Crisis",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-11-09T02:35:31+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "byline": {
+      "original": "By CATHARINE SKIPP and DAMIEN CAVE",
+      "person": [
+        {
+          "firstname": "Catharine",
+          "middlename": null,
+          "lastname": "SKIPP",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Damien",
+          "middlename": null,
+          "lastname": "CAVE",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5420738c38f0d81f7a600188",
+    "word_count": 1118,
+    "score": 1.0,
+    "uri": "nyt://article/ed4f313b-34d0-5fe3-aa9f-cec4c5dfd932"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2010/11/09/business/09facebook.html",
+    "snippet": "The National Labor Relations Board said a company fired an employee illegally after she criticized her supervisor.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "Company Accused of Firing Over Facebook Post",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Labor Board Says Rights Apply on Net",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "organizations",
+        "value": "National Labor Relations Board",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Facebook.com",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Suspensions, Dismissals and Resignations",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Labor and Jobs",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Social Networking (Internet)",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Suits and Litigation",
+        "rank": 8,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-11-09T00:49:10+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By STEVEN GREENHOUSE",
+      "person": [
+        {
+          "firstname": "Steven",
+          "middlename": null,
+          "lastname": "GREENHOUSE",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5420720a38f0d81f7a600163",
+    "word_count": 838,
+    "score": 1.0,
+    "uri": "nyt://article/2af68228-fcd9-548c-a5a1-1684f3c9dfd8"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2010/11/09/arts/music/09hd.html",
+    "snippet": "HD technology and movie theater broadcasts are changing the way performing arts are produced.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/11/09/arts/HD/HD-articleLarge.jpg",
+        "height": 315,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2010/11/09/arts/HD/HD-articleLarge.jpg",
+          "xlargeheight": 315
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/11/09/arts/HD/HD-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/11/09/arts/HD/HD-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Orchestras on Big Screens: Chase Scene Needed?",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Orchestras on Big Screens: Chase Scene Needed?",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Digital and High-Definition Television",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Classical Music",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Opera",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Dancing",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Theater",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Music",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Television",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Los Angeles Philharmonic",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Berlin Philharmonic",
+        "rank": 9,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Vienna Philharmonic",
+        "rank": 10,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Philadelphia Orchestra",
+        "rank": 11,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Metropolitan Opera",
+        "rank": 12,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Movies",
+        "rank": 13,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-11-09T02:08:26+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "section_name": "Music",
+    "byline": {
+      "original": "By DANIEL J. WAKIN",
+      "person": [
+        {
+          "firstname": "Daniel",
+          "middlename": "J.",
+          "lastname": "WAKIN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "542072b338f0d81f7a600173",
+    "word_count": 1390,
+    "score": 1.0,
+    "uri": "nyt://article/42f50908-82b0-522f-a4a3-8d88e74a96a0"
+  }
+]

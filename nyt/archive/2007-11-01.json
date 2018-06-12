@@ -1,0 +1,196 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2007/11/01/technology/01Privacy.html",
+    "snippet": "A coalition of privacy groups asked the government to set up a mandatory do-not-track list for the Internet.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2007/10/31/business/01privacy-75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2007/10/31/business/01privacy-75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "F.T.C. to Review Online Ads and Privacy",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "F.T.C. to Review Online Ads and Privacy",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Privacy",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Advertising and Marketing",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Computers and the Internet",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Federal Trade Commission",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2007-11-01T04:00:00+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By LOUISE STORY",
+      "person": [
+        {
+          "firstname": "Louise",
+          "middlename": null,
+          "lastname": "STORY",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5938396f7c459f24986e47b1",
+    "word_count": 1060,
+    "score": 1.0,
+    "uri": "nyt://article/3ac0dc23-d29a-5a1b-871b-937c889c03c1"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2007/11/01/sports/othersports/01marathon.html",
+    "snippet": "Running\u2019s national governing body has banned the use of headphones and portable audio players at its official races.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2007/11/01/sports/01marathon.1.600.jpg",
+        "height": 349,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2007/11/01/sports/01marathon.1.600.jpg",
+          "xlargeheight": 349
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2007/11/01/sports/01marathon.1.75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2007/11/01/sports/01marathon.1.75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Rule Jostles Runners Who Race to Their Own Tune",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "New Rule Jostles Marathoners Who Run to Their Own Tune",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Marathon Running",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "USA Track and Field",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "New York City Marathon",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "iPod",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Running",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2007-11-01T04:00:00+0000",
+    "document_type": "article",
+    "new_desk": "Sports",
+    "section_name": "More Sports",
+    "byline": {
+      "original": "By JULIET MACUR",
+      "person": [
+        {
+          "firstname": "Juliet",
+          "middlename": null,
+          "lastname": "MACUR",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "593edb6c7c459f24986e599b",
+    "word_count": 1303,
+    "score": 1.0,
+    "uri": "nyt://article/de54d173-5819-54d4-87b8-05d03bfac1d2"
+  }
+]

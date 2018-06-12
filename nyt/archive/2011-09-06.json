@@ -1,0 +1,493 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2011/09/06/us/06berkley.html",
+    "snippet": "In championing kidney care, Representative Shelley Berkley of Nevada has often taken actions that have benefited the business interests of her husband, a doctor.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/09/06/us/BERKLEY/BERKLEY-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/09/06/us/BERKLEY/BERKLEY-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "A Congresswoman\u2019s Cause Is Often Her Husband\u2019s Gain",
+      "kicker": "The Champions",
+      "content_kicker": "The Champions",
+      "print_headline": "Nevada Congresswoman\u2019s Cause Is Often Her Husband\u2019s Gain",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Berkley, Shelley",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Conflicts of Interest",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Nevada",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Kidneys",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Law and Legislation",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "House of Representatives",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-09-06T01:03:37+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "byline": {
+      "original": "By ERIC LIPTON",
+      "person": [
+        {
+          "firstname": "Eric",
+          "middlename": null,
+          "lastname": "LIPTON",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5400c40f38f0d841b2f38d1d",
+    "word_count": 2279,
+    "score": 1.0,
+    "uri": "nyt://article/e9fca4b1-82e9-535b-9570-bd6b80cd693f"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/09/07/world/asia/07afghanistan.html",
+    "snippet": "The small number of southern Pashtuns in the Afghan Army reflects an abiding fear of the Taliban, or sympathy for them, and doubts about the government.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/09/07/world/AFGHANISTAN/AFGHANISTAN-articleLarge.jpg",
+        "height": 340,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2011/09/07/world/AFGHANISTAN/AFGHANISTAN-articleLarge.jpg",
+          "xlargeheight": 340
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/09/07/world/AFGHANISTAN/AFGHANISTAN-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/09/07/world/AFGHANISTAN/AFGHANISTAN-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Afghan Army Attracts Few Where Fear Reigns",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Afghan Army Attracts Few Where Fear Reigns",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Afghanistan",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Pashtun (Ethnic Group)",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Afghanistan War (2001- )",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Terrorism",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Defense and Military Forces",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-09-06T21:21:03+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Asia Pacific",
+    "byline": {
+      "original": "By RAY RIVERA",
+      "person": [
+        {
+          "firstname": "Ray",
+          "middlename": null,
+          "lastname": "RIVERA",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5400c5be38f0d841b2f38e39",
+    "word_count": 1473,
+    "score": 1.0,
+    "uri": "nyt://article/2136ce5c-d903-503e-8148-685d4bd76c70"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/09/06/world/middleeast/06damascus.html",
+    "snippet": "While protests against the government of Bashar al-Assad break out across Syria, many Damascenes insist on another reality.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/09/06/world/middleeast/20110906_337_DAMASCUS-slide-WBY7/20110906_337_DAMASCUS-slide-WBY7-articleLarge.jpg",
+        "height": 345,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2011/09/06/world/middleeast/20110906_337_DAMASCUS-slide-WBY7/20110906_337_DAMASCUS-slide-WBY7-articleLarge.jpg",
+          "xlargeheight": 345
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/09/06/world/middleeast/20110906_337_DAMASCUS-slide-WBY7/20110906_337_DAMASCUS-slide-WBY7-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/09/06/world/middleeast/20110906_337_DAMASCUS-slide-WBY7/20110906_337_DAMASCUS-slide-WBY7-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Life in Syria\u2019s Capital Remains Barely Touched by Rebellion",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Life in Syria\u2019s Capital Remains Barely Touched by Rebellion",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Middle East and North Africa Unrest (2010- )",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Politics and Government",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Demonstrations, Protests, and Riots",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Damascus (Syria)",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Assad, Bashar Al-",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-09-06T00:05:11+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Middle East",
+    "byline": {
+      "original": "By THE NEW YORK TIMES",
+      "person": [],
+      "organization": "The New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "5400c3bb38f0d841b2f38cde",
+    "word_count": 1205,
+    "score": 1.0,
+    "uri": "nyt://article/b2020a94-5590-59f3-aca7-204fede9d156"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/09/06/technology/closed-in-error-on-google-places-merchants-seek-fixes.html",
+    "snippet": "In recent months, many perfectly healthy businesses across the country have expired according to Google Places, and fixing the error has often been difficult.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/09/06/business/GOOGLE-1/GOOGLE-1-articleLarge-v2.jpg",
+        "height": 251,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2011/09/06/business/GOOGLE-1/GOOGLE-1-articleLarge-v2.jpg",
+          "xlargeheight": 251
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/09/06/business/GOOGLE-1/GOOGLE-1-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/09/06/business/GOOGLE-1/GOOGLE-1-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Closed, Says Google, but Shops\u2019 Signs Say Open",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Closed, Says Google, but Shops\u2019 Signs Say Open",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "organizations",
+        "value": "Google Inc",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Maps",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Google Maps",
+        "rank": 3,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-09-06T00:39:17+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By DAVID SEGAL",
+      "person": [
+        {
+          "firstname": "David",
+          "middlename": null,
+          "lastname": "SEGAL",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5400c52738f0d841b2f38dec",
+    "word_count": 1156,
+    "score": 1.0,
+    "uri": "nyt://article/54f7e6c8-75a6-50b6-99ee-4944b1e30a8f"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/09/06/us/06leak.html",
+    "snippet": "New details have emerged in the case of an F.B.I. translator who was sentenced last year to 20 months in prison for leaking classified information to a blogger.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "Leak Offers Look at Efforts by U.S. to Spy on Israel",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Leak Offers Look At Efforts By U.S. To Spy On Israel",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Israel",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States International Relations",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Classified Information and State Secrets",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Wiretapping and Other Eavesdropping Devices and Methods",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Espionage",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Silverstein, Richard",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Federal Bureau of Investigation",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Diplomatic Service, Embassies and Consulates",
+        "rank": 9,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-09-06T01:31:23+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "byline": {
+      "original": "By SCOTT SHANE",
+      "person": [
+        {
+          "firstname": "Scott",
+          "middlename": null,
+          "lastname": "SHANE",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5400c44a38f0d841b2f38d49",
+    "word_count": 1493,
+    "score": 1.0,
+    "uri": "nyt://article/00a441fc-e404-5245-831f-dbbdbc0456c7"
+  }
+]

@@ -1,0 +1,111 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2009/01/05/world/middleeast/05mideast.html",
+    "snippet": "Witnesses said that Israeli forces pushing into Gaza had taken over certain strategic areas as Hamas continued to launch rockets into southern Israel.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/01/05/world/600-madrid.jpg",
+        "height": 312,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/01/05/world/600-madrid.jpg",
+          "xlargeheight": 312
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/01/05/world/05mideast.3372xx.jpg",
+        "height": 250,
+        "width": 337,
+        "legacy": {
+          "wide": "images/2009/01/05/world/05mideast.3372xx.jpg",
+          "widewidth": 337,
+          "wideheight": 250
+        },
+        "subType": "wide",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Israeli Attack Splits Gaza; Truce Calls Are Rebuffed",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Israeli Attack Splits Gaza; Truce Calls Are Rebuffed",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Israel",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Palestinians",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Armament, Defense and Military Forces",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Hamas",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Gaza Strip",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-01-04T12:25:53+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Middle East",
+    "byline": {
+      "original": "By ETHAN BRONNER",
+      "person": [
+        {
+          "firstname": "Ethan",
+          "middlename": null,
+          "lastname": "BRONNER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "545bd7cf38f0d85e5ee91449",
+    "word_count": 1439,
+    "score": 1.0,
+    "uri": "nyt://article/07e593d6-6591-51c6-a31c-2cbc888d6968"
+  }
+]

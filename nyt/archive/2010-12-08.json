@@ -1,0 +1,408 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2010/12/09/fashion/09TRANS.html",
+    "snippet": "There are visible bits of evidence that 2010 will be remembered as the year of the transsexual.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/12/09/fashion/09TRANS-span-A/Z-JP-TRANS-A-articleLarge.jpg",
+        "height": 376,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2010/12/09/fashion/09TRANS-span-A/Z-JP-TRANS-A-articleLarge.jpg",
+          "xlargeheight": 376
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/12/09/fashion/09TRANS-span-A/09TRANS-span-A-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/12/09/fashion/09TRANS-span-A/09TRANS-span-A-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Bold Crossings of the Gender Line",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Bold Crossings Of the Gender Line",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Transsexuals",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Fashion and Apparel",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Models (Professional)",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Political Advertising",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-12-08T21:31:49+0000",
+    "document_type": "article",
+    "new_desk": "Styles",
+    "byline": {
+      "original": "By WILLIAM VAN METER",
+      "person": [
+        {
+          "firstname": "William",
+          "middlename": "Van",
+          "lastname": "METER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "542123cb38f0d81f7a6010e9",
+    "word_count": 1733,
+    "score": 1.0,
+    "uri": "nyt://article/0227ed53-959d-590c-81c2-c12e55f67a04"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2010/12/09/technology/personaltech/09pogue.html",
+    "snippet": "Forget those bland \u201cblack text on gray, no touch screen\u201d e-book readers. Here\u2019s Nook Color, a reader from Barnes & Noble with a color touch screen.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/12/09/business/POGUE/POGUE-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/12/09/business/POGUE/POGUE-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "The Future, Touchable and in Color",
+      "kicker": "State of the Art",
+      "content_kicker": "State of the Art",
+      "print_headline": "The Future, Touchable And in Color",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Electronic Books and Readers",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Barnes & Noble Incorporated",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Computers and the Internet",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Color",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Amazon Kindle",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "E Ink",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Silicon Valley (Calif)",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Computer Monitors",
+        "rank": 8,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-12-08T22:01:57+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "section_name": "Personal Tech",
+    "byline": {
+      "original": "By DAVID POGUE",
+      "person": [
+        {
+          "firstname": "David",
+          "middlename": null,
+          "lastname": "POGUE",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "Review",
+    "_id": "542124ea38f0d81f7a601103",
+    "word_count": 1305,
+    "score": 1.0,
+    "uri": "nyt://article/a2f95d77-4fdc-5b0f-aac8-3f92b88d633f"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2010/12/08/nyregion/08schools.html",
+    "snippet": "Teachers no longer languish while the school system tries to fire them, but the new system is not ideal.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/12/08/nyregion/jp-schools1/jp-schools1-articleLarge.jpg",
+        "height": 350,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2010/12/08/nyregion/jp-schools1/jp-schools1-articleLarge.jpg",
+          "xlargeheight": 350
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/12/08/nyregion/jp-schools1/jp-schools1-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/12/08/nyregion/jp-schools1/jp-schools1-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "New York Teachers Still in Idle Limbo",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Facing Firing, Teachers Still In Idle Limbo",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Education (K-12)",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Teachers and School Employees",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Labor and Jobs",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Education Department (NYC)",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "New York City",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-12-08T02:01:39+0000",
+    "document_type": "article",
+    "new_desk": "Metro",
+    "byline": {
+      "original": "By SHARON OTTERMAN",
+      "person": [
+        {
+          "firstname": "Sharon",
+          "middlename": null,
+          "lastname": "OTTERMAN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5421201638f0d81f7a60108d",
+    "word_count": 1288,
+    "score": 1.0,
+    "uri": "nyt://article/fd5a617a-7a17-5f5d-b9a2-59d1c4f19d24"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2010/12/08/business/economy/08leonhardt.html",
+    "snippet": "Despite anger from Congressional Democrats, President Obama\u2019s tax plan is intended to help short-term job creation.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/04/19/business/leonhardt-75/leonhardt-75-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/04/19/business/leonhardt-75/leonhardt-75-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "In Tax Plan, a Boost for Jobs",
+      "kicker": "Economic Scene",
+      "content_kicker": "Economic Scene",
+      "print_headline": "In Tax Plan, A Boost For Jobs",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Obama, Barack",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Federal Taxes (US)",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Politics and Government",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Economy",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-12-08T01:32:18+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "section_name": "Economy",
+    "byline": {
+      "original": "By DAVID LEONHARDT",
+      "person": [
+        {
+          "firstname": "David",
+          "middlename": null,
+          "lastname": "LEONHARDT",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5421207b38f0d81f7a601091",
+    "word_count": 1076,
+    "score": 1.0,
+    "uri": "nyt://article/b924679c-2ee6-534b-9c60-78c4ed5e61fb"
+  }
+]

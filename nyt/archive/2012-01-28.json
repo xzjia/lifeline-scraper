@@ -1,0 +1,854 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2012/01/29/nyregion/scraping-the-40000-ceiling-at-new-york-city-private-schools.html",
+    "snippet": "The median price of first grade has gone up by 48 percent over 10 years, and parents at three schools are waiting to find out whether they will be joining the $40,000-a-year club.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/01/29/nyregion/29TUITION_SPAN/29JPTUITION1-articleLarge.jpg",
+        "height": 360,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2012/01/29/nyregion/29TUITION_SPAN/29JPTUITION1-articleLarge.jpg",
+          "xlargeheight": 360
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/01/29/nyregion/29TUITION_SPAN/29JPTUITION1-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2012/01/29/nyregion/29TUITION_SPAN/29JPTUITION1-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Bracing for $40,000 at New York City Private Schools",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Bracing for $40,000 At City Private Schools",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Education (K-12)",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Private and Sectarian Schools",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Tuition",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "New York City",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "National Assn of Independent Schools",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2012-01-28T03:58:07+0000",
+    "document_type": "article",
+    "new_desk": "Metro",
+    "byline": {
+      "original": "By JENNY ANDERSON and RACHEL OHM",
+      "person": [
+        {
+          "firstname": "Jenny",
+          "middlename": null,
+          "lastname": "ANDERSON",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Rachel",
+          "middlename": null,
+          "lastname": "OHM",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "515dae90cf28d0219d002e3c",
+    "word_count": 1491,
+    "score": 1.0,
+    "uri": "nyt://article/2e61e1ea-939f-58bb-8a17-286cd88b2c5f"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2012/01/28/us/politics/close-ties-to-goldman-enrich-romneys-public-and-private-lives.html",
+    "snippet": "Goldman Sachs, which manages Mitt Romney\u2019s family\u2019s fortune, is also his largest source of campaign contributions.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/01/28/us/politics/28goldman1_span/28goldman1_span-articleLarge.jpg",
+        "height": 350,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2012/01/28/us/politics/28goldman1_span/28goldman1_span-articleLarge.jpg",
+          "xlargeheight": 350
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/01/28/us/politics/28goldman1_span/28goldman1_span-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2012/01/28/us/politics/28goldman1_span/28goldman1_span-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Close Ties to Goldman Enrich Romney\u2019s Public and Private Lives",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Close Ties to Goldman Enrich Romney\u2019s Public and Private Lives",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Romney, Mitt",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Goldman Sachs Group Inc",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Presidential Election of 2012",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Campaign Finance",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Banking and Financial Institutions",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Bain Capital",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Political Action Committees",
+        "rank": 7,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2012-01-28T04:09:37+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "section_name": "Politics",
+    "byline": {
+      "original": "By NICHOLAS CONFESSORE, PETER LATTMAN and KEVIN ROOSE",
+      "person": [
+        {
+          "firstname": "Nicholas",
+          "middlename": null,
+          "lastname": "CONFESSORE",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Peter",
+          "middlename": null,
+          "lastname": "LATTMAN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        },
+        {
+          "firstname": "Kevin",
+          "middlename": null,
+          "lastname": "ROOSE",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 3
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "53f301de38f0d847437e02f9",
+    "word_count": 990,
+    "score": 1.0,
+    "uri": "nyt://article/9f12b767-7a18-534d-8aab-6044302c17ef"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2012/01/29/fashion/its-not-me-its-you-how-to-end-a-friendship.html",
+    "snippet": "Thanks to Facebook, the concept of \u201cdefriending\u201d has become part of the online culture. But in the real world, breaking up is a lot more difficult.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "It\u2019s Not Me, It\u2019s You: How to End a Friendship",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "It\u2019s Not Me, It\u2019s You",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Friendship",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Psychology and Psychologists",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Computers and the Internet",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Social Networking (Internet)",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2012-01-28T11:00:17+0000",
+    "document_type": "article",
+    "new_desk": "Styles",
+    "byline": {
+      "original": "By ALEX WILLIAMS",
+      "person": [
+        {
+          "firstname": "Alex",
+          "middlename": null,
+          "lastname": "WILLIAMS",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "53f2faa838f0d847437e0288",
+    "word_count": 2263,
+    "score": 1.0,
+    "uri": "nyt://article/3bf2e48d-da4b-5c51-9ddf-21fd49454424"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2012/01/29/opinion/sunday/collins-the-real-legacy-of-newt-gingrich.html",
+    "snippet": "The public doesn\u2019t mind misbehavior. It\u2019s the other politicians who care.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2014/11/01/opinion/collins-circular/collins-circular-articleLarge-v2.jpg",
+        "height": 601,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2014/11/01/opinion/collins-circular/collins-circular-articleLarge-v2.jpg",
+          "xlargeheight": 601
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2014/11/01/opinion/collins-circular/collins-circular-thumbWide-v7.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2014/11/01/opinion/collins-circular/collins-circular-thumbWide-v7.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2014/11/01/opinion/collins-circular/collins-circular-thumbStandard-v7.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2014/11/01/opinion/collins-circular/collins-circular-thumbStandard-v7.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Newt\u2019s Real Legacy",
+      "kicker": "Op-Ed Columnist",
+      "content_kicker": "Op-Ed Columnist",
+      "print_headline": "Newt\u2019s Real Legacy",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Presidential Election of 2012",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Gingrich, Newt",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Marriages",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Adultery",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2012-01-28T03:06:59+0000",
+    "document_type": "article",
+    "new_desk": "Editorial",
+    "section_name": "Sunday Review",
+    "byline": {
+      "original": "By GAIL COLLINS",
+      "person": [
+        {
+          "firstname": "Gail",
+          "middlename": null,
+          "lastname": "COLLINS",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "Op-Ed",
+    "_id": "53f3007938f0d847437e02e2",
+    "word_count": 1176,
+    "score": 1.0,
+    "uri": "nyt://article/f55ef663-6849-575f-a3c5-2a9007974238"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2012/01/29/us/politics/the-calculations-that-led-romney-to-the-warpath.html",
+    "snippet": "In the hours after Mitt Romney\u2019s double-digit loss to Newt Gingrich in South Carolina, the Romney team hatched a two-part plan to win in Florida: make Newt mad and Mitt meaner.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/01/29/us/politics/sub-repubs/sub-repubs-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2012/01/29/us/politics/sub-repubs/sub-repubs-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Facing Second Loss to Gingrich, Romney Went on Warpath",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "The Calculations That Led Romney To The Warpath",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Romney, Mitt",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Gingrich, Newt",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Presidential Election of 2012",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Republican Party",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Primaries and Caucuses",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Political Action Committees",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Political Advertising",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Florida",
+        "rank": 8,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2012-01-28T22:43:14+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "section_name": "Politics",
+    "byline": {
+      "original": "By JIM RUTENBERG and JEFF ZELENY",
+      "person": [
+        {
+          "firstname": "Jim",
+          "middlename": null,
+          "lastname": "RUTENBERG",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Jeff",
+          "middlename": null,
+          "lastname": "ZELENY",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "53f3059438f0d847437e0327",
+    "word_count": 1629,
+    "score": 1.0,
+    "uri": "nyt://article/bbaace5c-76a3-54dc-a709-b357779aeb71"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2012/01/29/nyregion/a-glimpse-of-wealths-past-and-present-in-antiques-and-museums.html",
+    "snippet": "The autumn of Occupy Wall Street has been followed in New York, however incongruously, by a winter of showcasing wealth\u2019s traditions.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/01/29/nyregion/29BIGCITY_SPAN/29BIGCITY-articleLarge.jpg",
+        "height": 360,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2012/01/29/nyregion/29BIGCITY_SPAN/29BIGCITY-articleLarge.jpg",
+          "xlargeheight": 360
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/01/29/nyregion/29BIGCITY_SPAN/29BIGCITY-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2012/01/29/nyregion/29BIGCITY_SPAN/29BIGCITY-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Tour of Wealth for All Seasons",
+      "kicker": "Big City",
+      "content_kicker": "Big City",
+      "print_headline": "Tour of Wealth for All Seasons",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Park Avenue Armory (NYC)",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Art",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "New York City",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Income Inequality",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Winter Antiques Show",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Museum of the City of New York",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Metropolitan Museum of Art",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Antiques",
+        "rank": 8,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2012-01-28T03:37:11+0000",
+    "document_type": "article",
+    "new_desk": "Metro",
+    "byline": {
+      "original": "By GINIA BELLAFANTE",
+      "person": [
+        {
+          "firstname": "Ginia",
+          "middlename": null,
+          "lastname": "BELLAFANTE",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "53f2fd2738f0d847437e02b2",
+    "word_count": 796,
+    "score": 1.0,
+    "uri": "nyt://article/5d2e6077-1a4e-5f0e-bbc1-cef11d095c13"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2012/01/28/nyregion/rabbis-followers-say-money-given-to-grimms-house-race-broke-the-law.html",
+    "snippet": "A former aide to a prominent rabbi helped raise money from the rabbi\u2019s followers for the 2010 campaign of Michael G. Grimm, according to interviews and records.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/01/28/nyregion/GRIMM1/GRIMM1-articleLarge-v2.jpg",
+        "height": 400,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2012/01/28/nyregion/GRIMM1/GRIMM1-articleLarge-v2.jpg",
+          "xlargeheight": 400
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/01/28/nyregion/GRIMM1/GRIMM1-thumbStandard-v2.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2012/01/28/nyregion/GRIMM1/GRIMM1-thumbStandard-v2.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Rabbi\u2019s Followers Cast Doubts on Congressman\u2019s Fund-Raising",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Rabbi\u2019s Followers Cast Doubts On Congressman\u2019s Fund-Raising",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Campaign Finance",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Grimm, Michael G",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Pinto, Yoshiyahu Yosef",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Biton, Ofer",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Politics and Government",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "House of Representatives",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Torossian, Ronn",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Staten Island (NYC)",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Rabbis",
+        "rank": 9,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Embezzlement",
+        "rank": 10,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Brooklyn (NYC)",
+        "rank": 11,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "United States",
+        "rank": 12,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2012-01-28T03:11:20+0000",
+    "document_type": "article",
+    "new_desk": "Metro",
+    "byline": {
+      "original": "By ALISON LEIGH COWAN and WILLIAM K. RASHBAUM",
+      "person": [
+        {
+          "firstname": "Alison",
+          "middlename": "Leigh",
+          "lastname": "COWAN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "William",
+          "middlename": "K.",
+          "lastname": "RASHBAUM",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "515dae86cf28d0219d002e27",
+    "word_count": 1450,
+    "score": 1.0,
+    "uri": "nyt://article/b9a43670-471f-550b-bb41-5abf7a89310c"
+  }
+]

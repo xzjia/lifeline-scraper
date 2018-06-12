@@ -1,0 +1,191 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2010/12/23/technology/personaltech/23pogue.html",
+    "snippet": "Sensor size is important in pocket cameras, but figuring out that size among various products is baffling.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/12/23/business/POGUE/POGUE-thumbStandard-v3.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/12/23/business/POGUE/POGUE-thumbStandard-v3.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Sizing a Sensor: No Easy Way",
+      "kicker": "State of the Art",
+      "content_kicker": "State of the Art",
+      "print_headline": "Sizing A Sensor: No Easy Way",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Cameras",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Sensors",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Photography",
+        "rank": 3,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-12-22T23:08:00+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "section_name": "Personal Tech",
+    "byline": {
+      "original": "By DAVID POGUE",
+      "person": [
+        {
+          "firstname": "David",
+          "middlename": null,
+          "lastname": "POGUE",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "Review",
+    "_id": "5421960a38f0d81f7a601b14",
+    "word_count": 1320,
+    "score": 1.0,
+    "uri": "nyt://article/0faae51e-b16b-5a51-970e-fce21f5ecaec"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2010/12/22/science/earth/22carbon.html",
+    "snippet": "In the 1950s, Charles David Keeling began measuring carbon dioxide levels, which rise relentlessly as the political debate drags on.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/12/22/us/22CARBON-span/22JPCARBON1-articleLarge.jpg",
+        "height": 280,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2010/12/22/us/22CARBON-span/22JPCARBON1-articleLarge.jpg",
+          "xlargeheight": 280
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/12/22/us/22CARBON-span/22CARBON-span-thumbStandard-v3.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/12/22/us/22CARBON-span/22CARBON-span-thumbStandard-v3.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "A Scientist, His Work and a Climate Reckoning",
+      "kicker": "Temperature Rising",
+      "content_kicker": "Temperature Rising",
+      "print_headline": "A Scientist, His Work and a Climate Reckoning",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Carbon Dioxide",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Global Warming",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Greenhouse Gas Emissions",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Scripps Institution of Oceanography",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Hawaii",
+        "rank": 7,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-12-22T03:13:35+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "section_name": "Environment",
+    "byline": {
+      "original": "By JUSTIN GILLIS",
+      "person": [
+        {
+          "firstname": "Justin",
+          "middlename": null,
+          "lastname": "GILLIS",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "54218f7e38f0d81f7a601a7d",
+    "word_count": 3753,
+    "score": 1.0,
+    "uri": "nyt://article/8f4ece74-61df-5c0b-bea0-b1fb989b5665"
+  }
+]

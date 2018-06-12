@@ -1,0 +1,403 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2009/08/08/us/politics/08townhall.html",
+    "snippet": "Members of Congress have been shouted down, hanged in effigy and taunted by crowds at town hall meetings on health care.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/08/08/us/08townhall.xlarge1.jpg",
+        "height": 360,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/08/08/us/08townhall.xlarge1.jpg",
+          "xlargeheight": 360
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/08/08/us/08townhall.751.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/08/08/us/08townhall.751.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Beyond Beltway, Health Debate Turns Hostile",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Beyond Beltway, Health Debate Turns Hostile",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Health Insurance and Managed Care",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Reform and Reorganization",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "FreedomWorks Foundation",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Demonstrations and Riots",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Dingell, John D",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Pelosi, Nancy",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Limbaugh, Rush",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Senate",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "House of Representatives",
+        "rank": 9,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-08-08T02:05:37+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "section_name": "Politics",
+    "byline": {
+      "original": "By IAN URBINA",
+      "person": [
+        {
+          "firstname": "Ian",
+          "middlename": null,
+          "lastname": "URBINA",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "53f574eb38f0d87ef470e511",
+    "word_count": 1137,
+    "score": 1.0,
+    "uri": "nyt://article/aafd3135-240c-5ad1-a375-2ebefff1491e"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/08/08/nyregion/08bigcity.html",
+    "snippet": "An accident has raised an unsettling possibility: Was the driver among the alcoholics able to hide their drinking?",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "A \u2018Perfect Mother,\u2019 a Vodka Bottle and 8 Lives Lost",
+      "kicker": "Big City",
+      "content_kicker": "Big City",
+      "print_headline": "\u2018Perfect Mother,\u2019 A Vodka Bottle And 8 Lives Lost",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Schuler, Diane",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Accidents and Safety",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Alcohol Abuse",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Drunken and Reckless Driving",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Automobiles",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Taconic State Parkway (NY)",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-08-08T01:20:53+0000",
+    "document_type": "article",
+    "new_desk": "Metro",
+    "byline": {
+      "original": "By SUSAN DOMINUS",
+      "person": [
+        {
+          "firstname": "Susan",
+          "middlename": null,
+          "lastname": "DOMINUS",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5454d7af38f0d839202ea9ef",
+    "word_count": 911,
+    "score": 1.0,
+    "uri": "nyt://article/d9695008-6a96-59a1-b25a-7a8d734581a1"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/08/09/science/earth/09climate.html",
+    "snippet": "A growing number of policy makers say that the world\u2019s rising temperatures, surging seas and melting glaciers are a direct threat to the national interest.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/08/09/world/09climate_75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/08/09/world/09climate_75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Climate Change Seen as Threat to U.S. Security",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Climate Change Seen as Threat To Security and Drain on Military",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "United States Politics and Government",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Global Warming",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States International Relations",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "National Defense University",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-08-08T18:57:40+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Environment",
+    "byline": {
+      "original": "By JOHN M. BRODER",
+      "person": [
+        {
+          "firstname": "John",
+          "middlename": null,
+          "lastname": null,
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5454dca538f0d839202eaa53",
+    "word_count": 1226,
+    "score": 1.0,
+    "uri": "nyt://article/59c8446e-9378-592f-83ef-c616ea500915"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/08/09/health/research/09brain.html",
+    "snippet": "Scientists are investigating delusions caused by brain trauma for clues to one of the most confounding problems in brain science: identity.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/08/09/us/08brain_600.jpg",
+        "height": 362,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/08/09/us/08brain_600.jpg",
+          "xlargeheight": 362
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/08/09/us/08brain_75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/08/09/us/08brain_75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "After Injury, Fighting to Regain a Sense of Self",
+      "kicker": "Brain Power",
+      "content_kicker": "Brain Power",
+      "print_headline": "When Loved Ones Seem Impostors",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Accidents and Safety",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Brain",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Memory",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Therapy and Rehabilitation",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-08-08T18:58:03+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "section_name": "Research",
+    "byline": {
+      "original": "By BENEDICT CAREY",
+      "person": [
+        {
+          "firstname": "Benedict",
+          "middlename": null,
+          "lastname": "CAREY",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "Series",
+    "_id": "5454dcdb38f0d839202eaa56",
+    "word_count": 2098,
+    "score": 1.0,
+    "uri": "nyt://article/2997eeb3-eb7c-5f93-b582-87100b22d028"
+  }
+]

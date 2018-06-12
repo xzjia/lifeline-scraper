@@ -1,0 +1,94 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2011/04/24/world/middleeast/24yemen.html",
+    "snippet": "Ali Abdullah Saleh agreed to cede power if certain conditions were met, including immunity for him and his family.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/04/24/world/24Yemen/24Yemen-articleLarge.jpg",
+        "height": 315,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2011/04/24/world/24Yemen/24Yemen-articleLarge.jpg",
+          "xlargeheight": 315
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "President of Yemen Offers to Leave, With Conditions",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "YEMEN PRESIDENT OFFERS TO LEAVE, WITH CONDITIONS",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Middle East and North Africa Unrest (2010- )",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Politics and Government",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Gulf Cooperation Council",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Saleh, Ali Abdullah",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Yemen",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-04-23T19:27:50+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Middle East",
+    "byline": {
+      "original": "By ROBERT F. WORTH",
+      "person": [
+        {
+          "firstname": "Robert",
+          "middlename": "F.",
+          "lastname": "WORTH",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "540d14ec38f0d85bf2515278",
+    "word_count": 1223,
+    "score": 1.0,
+    "uri": "nyt://article/873a3af7-8f1b-5866-acd2-5f67c81bb6d3"
+  }
+]

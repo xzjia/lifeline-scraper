@@ -1,0 +1,843 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2013/02/28/garden/analyzing-the-couch.html",
+    "snippet": "A high-end sofa can look remarkably similar to a low-end one, so why is it more than 10 times as expensive?",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/02/28/garden/28COUCH_SPAN/28JPCOUCH8-articleLarge.jpg",
+        "height": 400,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2013/02/28/garden/28COUCH_SPAN/28JPCOUCH8-articleLarge.jpg",
+          "xlargeheight": 400
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/02/28/garden/28COUCH_SPAN/28JPCOUCH8-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2013/02/28/garden/28COUCH_SPAN/28JPCOUCH8-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/02/28/garden/28COUCH_SPAN/28COUCH_SPAN-thumbStandard-v2.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2013/02/28/garden/28COUCH_SPAN/28COUCH_SPAN-thumbStandard-v2.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Analyzing the Couch",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Analyzing the Couch",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Furniture",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Interior Design and Furnishings",
+        "rank": 2,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2013-02-28T01:02:51+0000",
+    "document_type": "article",
+    "new_desk": "Home",
+    "byline": {
+      "original": "By STEVEN KURUTZ",
+      "person": [
+        {
+          "firstname": "Steven",
+          "middlename": null,
+          "lastname": "KURUTZ",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "512ec6ebcf28d009de00277c",
+    "word_count": 1704,
+    "score": 1.0,
+    "uri": "nyt://article/23468b82-5f8f-593f-9025-d48083ccb14e"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2013/02/28/world/middleeast/us-expands-aid-to-syrian-rebels.html",
+    "snippet": "The United States is helping to train rebels at a base in the region and for the first time offering armed groups nonlethal assistance and equipment that could help their campaign, said senior administration officials.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/02/28/world/diplo/diplo-articleLarge.jpg",
+        "height": 400,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2013/02/28/world/diplo/diplo-articleLarge.jpg",
+          "xlargeheight": 400
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/02/28/world/diplo/diplo-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2013/02/28/world/diplo/diplo-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/02/28/world/diplo/diplo-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2013/02/28/world/diplo/diplo-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "U.S. Offers Training and Other Aid to Syrian Rebels",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "U.S. Expands Aid To Syrian Rebels",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Syria",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Middle East and North Africa Unrest (2010- )",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Kerry, John",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Assad, Bashar al-",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States International Relations",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Al Nusra Front",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Obama, Barack",
+        "rank": 7,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2013-02-28T02:18:21+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Middle East",
+    "byline": {
+      "original": "By MARK LANDLER and MICHAEL R. GORDON",
+      "person": [
+        {
+          "firstname": "Mark",
+          "middlename": null,
+          "lastname": "LANDLER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Michael",
+          "middlename": "R.",
+          "lastname": "GORDON",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "512ed8c8cf28d009de0027af",
+    "word_count": 1063,
+    "score": 1.0,
+    "uri": "nyt://article/77c86c12-96a6-51ce-ab64-07acc78a1dee"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2013/03/01/world/europe/pope-benedict-xvi.html",
+    "snippet": "As the sun set on Rome and on his turbulent eight-year papacy, Pope Benedict XVI, a shy theologian who never seemed fully at home in the limelight, was whisked by helicopter into retirement.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/02/27/world/europe/20130227_POPE_337-slide-4DWJ/20130227_POPE_337-slide-4DWJ-articleLarge.jpg",
+        "height": 395,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2013/02/27/world/europe/20130227_POPE_337-slide-4DWJ/20130227_POPE_337-slide-4DWJ-articleLarge.jpg",
+          "xlargeheight": 395
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/02/27/world/europe/20130227_POPE_337-slide-4DWJ/20130227_POPE_337-slide-4DWJ-thumbWide-v3.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2013/02/27/world/europe/20130227_POPE_337-slide-4DWJ/20130227_POPE_337-slide-4DWJ-thumbWide-v3.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/02/27/world/europe/20130227_POPE_337-slide-4DWJ/20130227_POPE_337-slide-4DWJ-thumbStandard-v2.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2013/02/27/world/europe/20130227_POPE_337-slide-4DWJ/20130227_POPE_337-slide-4DWJ-thumbStandard-v2.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Discord Remains at Vatican as Pope Benedict Departs",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "As Pope Departs, Discord Remains at Vatican",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Benedict XVI",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Roman Catholic Church",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Cardinals (Roman Catholic Prelates)",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Popes",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2013-02-28T09:52:44+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Europe",
+    "byline": {
+      "original": "By RACHEL DONADIO",
+      "person": [
+        {
+          "firstname": "Rachel",
+          "middlename": null,
+          "lastname": "DONADIO",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "512f41c5cf28d009de0028b0",
+    "word_count": 1189,
+    "score": 1.0,
+    "uri": "nyt://article/8b2cde73-c9bb-5f21-844a-921fba4486fb"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2013/03/01/us/politics/administration-to-urge-justices-to-overturn-a-gay-marriage-ban.html",
+    "snippet": "In a sweeping argument to the Supreme Court, the Obama administration said any law prohibiting same-sex marriage should be subjected to a heightened form of judicial scrutiny.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/03/01/us/JP-MARRIAGE/JP-MARRIAGE-articleLarge.jpg",
+        "height": 448,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2013/03/01/us/JP-MARRIAGE/JP-MARRIAGE-articleLarge.jpg",
+          "xlargeheight": 448
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/03/01/us/JP-MARRIAGE/JP-MARRIAGE-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2013/03/01/us/JP-MARRIAGE/JP-MARRIAGE-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/03/01/us/JP-MARRIAGE/JP-MARRIAGE-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2013/03/01/us/JP-MARRIAGE/JP-MARRIAGE-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "U.S. Asks Justices to Reject California\u2019s Ban on Gay Marriage",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "U.S. Asks Justices To Reject a Ban On Gay Marriage",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Same-Sex Marriage, Civil Unions and Domestic Partnerships",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Obama, Barack",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Supreme Court",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "California",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2013-02-28T20:59:09+0000",
+    "document_type": "article",
+    "new_desk": "Washington",
+    "section_name": "Politics",
+    "byline": {
+      "original": "By JOHN SCHWARTZ and ADAM LIPTAK",
+      "person": [
+        {
+          "firstname": "John",
+          "middlename": null,
+          "lastname": "SCHWARTZ",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Adam",
+          "middlename": null,
+          "lastname": "LIPTAK",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "512fdf87cf28d009de002ad9",
+    "word_count": 1261,
+    "score": 1.0,
+    "uri": "nyt://article/ae9ce993-5a18-550a-949c-2b07e1cd4b1a"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2013/03/01/us/bradley-manning-admits-giving-trove-of-military-data-to-wikileaks.html",
+    "snippet": "Pfc. Bradley Manning confessed in open court to providing vast archives of military and diplomatic files to the antisecrecy group WikiLeaks.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/03/01/us/01manning/01manning-articleLarge.jpg",
+        "height": 433,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2013/03/01/us/01manning/01manning-articleLarge.jpg",
+          "xlargeheight": 433
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/03/01/us/01manning/01manning-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2013/03/01/us/01manning/01manning-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/03/01/us/01manning/01manning-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2013/03/01/us/01manning/01manning-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Soldier Admits Providing Files to WikiLeaks",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Soldier Admits Providing Files To WikiLeaks",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Manning, Bradley E",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Wikileaks",
+        "rank": 2,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2013-02-28T19:05:36+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "byline": {
+      "original": "By CHARLIE SAVAGE",
+      "person": [
+        {
+          "firstname": "Charlie",
+          "middlename": null,
+          "lastname": "SAVAGE",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "512fc45dcf28d009de002a70",
+    "word_count": 1277,
+    "score": 1.0,
+    "uri": "nyt://article/659dbf11-f9e7-542f-af82-e0506e462b91"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2013/02/28/us/politics/parties-focus-on-the-positive-as-budget-cuts-near.html",
+    "snippet": "With little real effort under way to avert automatic budget cuts that take effect Friday, substantial and growing wings of both parties are learning to live with the so-called sequester.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "Parties Focus on the Positive as Budget Cuts Draw Near",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Parties Focus On the Positive As Cuts Near",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Taxation",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Politics and Government",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Federal Budget (US)",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Budget Control Act (2011)",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Senate",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "House of Representatives",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2013-02-28T02:50:05+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "section_name": "Politics",
+    "byline": {
+      "original": "By JONATHAN WEISMAN",
+      "person": [
+        {
+          "firstname": "Jonathan",
+          "middlename": null,
+          "lastname": "WEISMAN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "512edfa0cf28d009de0027c5",
+    "word_count": 1083,
+    "score": 1.0,
+    "uri": "nyt://article/396c8005-fb6f-52dd-8c13-36706a9c9de7"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2013/02/28/us/female-veterans-face-limbo-in-lives-on-the-street.html",
+    "snippet": "Returning servicewomen are the fastest growing segment of the homeless population, an often-invisible group bouncing between friends\u2019 sofas and shelters.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/02/28/us/JPHOMELESS2/JPHOMELESS2-articleLarge.jpg",
+        "height": 390,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2013/02/28/us/JPHOMELESS2/JPHOMELESS2-articleLarge.jpg",
+          "xlargeheight": 390
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/02/28/us/JPHOMELESS2/JPHOMELESS2-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2013/02/28/us/JPHOMELESS2/JPHOMELESS2-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/02/28/us/JPHOMELESS2/JPHOMELESS2-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2013/02/28/us/JPHOMELESS2/JPHOMELESS2-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Trauma Sets Female Veterans Adrift Back Home",
+      "kicker": "Honor Betrayed",
+      "content_kicker": "Honor Betrayed",
+      "print_headline": "Trauma Sets Female Veterans Adrift Back Home",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Veterans",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Women and Girls",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Sex Crimes",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Defense and Military Forces",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Veterans Affairs Department",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Homeless Persons",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Volunteers of America",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Housing and Urban Development Department",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Series",
+        "rank": 9,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2013-02-28T03:24:27+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "byline": {
+      "original": "By PATRICIA LEIGH BROWN",
+      "person": [
+        {
+          "firstname": "Patricia",
+          "middlename": "Leigh",
+          "lastname": "BROWN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "512ee83fcf28d009de0027eb",
+    "word_count": 2201,
+    "score": 1.0,
+    "uri": "nyt://article/7ce7e235-706b-50c0-8f8b-18fb5d0b584d"
+  }
+]

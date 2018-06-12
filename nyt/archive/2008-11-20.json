@@ -1,0 +1,188 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2008/11/23/arts/music/23pare.html",
+    "snippet": "\u201cChinese Democracy\u201d is the Titanic ship of rock albums: It\u2019s outsize, lavish, obsessive, technologically advanced and, all too clearly, the end of an era.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/11/23/arts/pare_span.jpg",
+        "height": 312,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2008/11/23/arts/pare_span.jpg",
+          "xlargeheight": 312
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/11/23/arts/pare_7575.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2008/11/23/arts/pare_7575.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "How Axl Rose Spent All That Time",
+      "kicker": "Music",
+      "content_kicker": "Music",
+      "print_headline": "How Axl Rose Spent All That Time",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Rock Music",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Rose, Axl",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Guns N' Roses",
+        "rank": 3,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2008-11-20T18:54:52+0000",
+    "document_type": "article",
+    "new_desk": "Arts&Leisure",
+    "section_name": "Music",
+    "byline": {
+      "original": "By JON PARELES",
+      "person": [
+        {
+          "firstname": "Jon",
+          "middlename": null,
+          "lastname": "PARELES",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5475cc9e38f0d8119c6b0128",
+    "word_count": 1669,
+    "score": 1.0,
+    "uri": "nyt://article/beacac0a-e208-5d37-ba40-5808e85aa801"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2008/11/20/washington/20terror.html",
+    "snippet": "The Justice Department is resisting an effort by the New York Police Department to get broader latitude to eavesdrop on terrorism suspects.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "New York Police Fight With U.S. on Surveillance",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "New York Police Fight With U.S. On Surveillance",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Terrorism",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Surveillance of Citizens by Government",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Wiretapping and Other Eavesdropping Devices and Methods",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Justice Department",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Police Department (NYC)",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Federal Bureau of Investigation",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2008-11-20T00:08:38+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "byline": {
+      "original": "By DAVID JOHNSTON and WILLIAM K. RASHBAUM",
+      "person": [
+        {
+          "firstname": "David",
+          "middlename": null,
+          "lastname": "JOHNSTON",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "William",
+          "middlename": "K.",
+          "lastname": "RASHBAUM",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "547a4f3238f0d803f445b6bc",
+    "word_count": 1868,
+    "score": 1.0,
+    "uri": "nyt://article/f6028b33-5dc0-53ac-b8b8-3218541d689a"
+  }
+]

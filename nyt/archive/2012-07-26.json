@@ -1,0 +1,630 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2012/07/27/science/earth/strong-storms-threaten-ozone-layer-over-us-study-says.html",
+    "snippet": "The risk of damage may increase as the climate warms and storms grow more intense and more frequent, the study said.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "Storms Threaten Ozone Layer Over U.S., Study Says",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "A Storm Study Ties Warming To Ozone Loss",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Ozone",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Weather",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Global Warming",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Science (Journal)",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2012-07-26T18:16:20+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "section_name": "Environment",
+    "byline": {
+      "original": "By HENRY FOUNTAIN",
+      "person": [
+        {
+          "firstname": "Henry",
+          "middlename": null,
+          "lastname": "FOUNTAIN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "53f930c238f0d84410bcac85",
+    "word_count": 1082,
+    "score": 1.0,
+    "uri": "nyt://article/938ca56f-35d6-514b-9aa3-b65333346120"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2012/07/26/us/politics/negative-ads-hit-at-identity-to-shape-race.html",
+    "snippet": "President Obama and Mitt Romney, who can have trouble connecting with voters on a personal level, are trying to define each other as detached from mainstream American life.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/07/26/us/jp-MESSAGE/jp-MESSAGE-articleLarge.jpg",
+        "height": 330,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2012/07/26/us/jp-MESSAGE/jp-MESSAGE-articleLarge.jpg",
+          "xlargeheight": 330
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/07/26/us/jp-MESSAGE/jp-MESSAGE-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2012/07/26/us/jp-MESSAGE/jp-MESSAGE-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Negative Ads Hit at Identity to Shape Race for Presidency",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Negative Ads Hit at Identity To Shape Race",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Presidential Election of 2012",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Political Advertising",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Obama, Barack",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Romney, Mitt",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2012-07-26T01:53:49+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "section_name": "Politics",
+    "byline": {
+      "original": "By JEREMY W. PETERS",
+      "person": [
+        {
+          "firstname": "Jeremy",
+          "middlename": "W.",
+          "lastname": "PETERS",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "53f92c3738f0d84410bcac4d",
+    "word_count": 1135,
+    "score": 1.0,
+    "uri": "nyt://article/03d999c7-0a0e-59be-87cd-6466e60cd457"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2012/07/27/world/asia/wife-of-disgraced-chinese-leader-charged-with-murder.html",
+    "snippet": "In formally accusing her in a poisoning death, the government put Gu Kailai in a well-worn Chinese framework: the conniving vixen whose greed derailed her husband\u2019s career.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/07/27/world/asia/27beijing/27beijing-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2012/07/27/world/asia/27beijing/27beijing-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "China Casts Ex-Leader\u2019s Wife in a Familiar Role",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "China Casts Ex-Leader\u2019s Wife in a Familiar Role",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Bo Xilai",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Gu Kailai",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "China",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Heywood, Neil",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Murders and Attempted Murders",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Communist Party of China",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2012-07-26T12:42:14+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Asia Pacific",
+    "byline": {
+      "original": "By ANDREW JACOBS",
+      "person": [
+        {
+          "firstname": "Andrew",
+          "middlename": null,
+          "lastname": "JACOBS",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "59f52eaa7c459f246b6315b2",
+    "word_count": 1354,
+    "score": 1.0,
+    "uri": "nyt://article/594d2503-fb8a-56e2-8be1-90766fb2e2ef"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2012/07/29/realestate/in-new-york-a-run-in-with-a-flying-eyesore-of-streamer-tape.html",
+    "snippet": "Police tape entwined in a tree is a blight, especially when it\u2019s the view from your window. But removing it can be a tangle, too.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/07/29/realestate/29TAPE1/29TAPE1-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2012/07/29/realestate/29TAPE1/29TAPE1-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "A Run-In With a Flying Eyesore",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "A Run-In With A Flying Eyesore",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "New York City",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Trees and Shrubs",
+        "rank": 2,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2012-07-26T22:36:42+0000",
+    "document_type": "article",
+    "new_desk": "RealEstate",
+    "byline": {
+      "original": "By KATHARINE Q. SEELYE",
+      "person": [
+        {
+          "firstname": "Katharine",
+          "middlename": "Q.",
+          "lastname": "SEELYE",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "53f928f338f0d84410bcac23",
+    "word_count": 1570,
+    "score": 1.0,
+    "uri": "nyt://article/d54400d6-c1b3-5940-ad3a-53e93d050c7d"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2012/07/26/business/retailers-expand-into-cities-by-opening-smaller-stores.html",
+    "snippet": "With little room to expand in the suburbs, retailers like Office Depot, Wal-Mart and Target have aimed their expansion plans at cities, overhauling store sizes, packages and signs.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/07/26/business/Citystores-slide-CBNJ/Citystores-slide-CBNJ-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2012/07/26/business/Citystores-slide-CBNJ/Citystores-slide-CBNJ-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/07/26/business/Citystores-slide-CBNJ/Citystores-slide-CBNJ-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2012/07/26/business/Citystores-slide-CBNJ/Citystores-slide-CBNJ-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Retailers\u2019 Idea: Think Smaller in Urban Push",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Retailers\u2019 Idea: Think Smaller In Urban Push",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Shopping and Retail",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Urban Areas",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Office Depot Inc",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Target Corporation",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Wal-Mart Stores Inc",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Walgreen Company",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Duane Reade Drugstores",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Real Estate (Commercial)",
+        "rank": 8,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2012-07-26T02:22:57+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By STEPHANIE CLIFFORD",
+      "person": [
+        {
+          "firstname": "Stephanie",
+          "middlename": null,
+          "lastname": "CLIFFORD",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "53f92b9a38f0d84410bcac47",
+    "word_count": 1110,
+    "score": 1.0,
+    "uri": "nyt://article/801dfda8-1be0-5a40-b23e-7e9d943202cf"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2012/07/27/health/policy/drug-makers-deals-with-generic-rivals-may-face-justices-review.html",
+    "snippet": "Going against a decade of rulings, a federal appeals court said payments aimed at holding back generics were anticompetitive, setting up possible review by the Supreme Court.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "For Big Drug Companies, a Headache Looms",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "For Big Drug Companies, a Headache Looms",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Drugs (Pharmaceuticals)",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Inventions and Patents",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Decisions and Verdicts",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Generic Brands and Products",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Antitrust Laws and Competition Issues",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Philadelphia (Pa)",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2012-07-26T19:43:19+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "section_name": "Money & Policy",
+    "byline": {
+      "original": "By EDWARD WYATT",
+      "person": [
+        {
+          "firstname": "Edward",
+          "middlename": null,
+          "lastname": "WYATT",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "53f932d238f0d84410bcaca2",
+    "word_count": 971,
+    "score": 1.0,
+    "uri": "nyt://article/8365eafe-b118-5e53-aea0-4d4f3676b369"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2012/07/27/business/global/ecb-president-talks-up-the-euro-and-lifts-stocks.html",
+    "snippet": "Markets and the euro rose after Mario Draghi told a conference in London that the central bank was prepared to \u201cdo whatever it takes to preserve\u201d the currency.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "Assurances on Euro by Central Bank Chief Lift Stocks",
+      "kicker": "Euro Watch",
+      "content_kicker": "Euro Watch",
+      "print_headline": "Stocks Soar After Pledge To Support Euro Zone",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Euro (Currency)",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "European Central Bank",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Draghi, Mario",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "European Sovereign Debt Crisis (2010- )",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Stocks and Bonds",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "European Monetary Union",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2012-07-26T13:13:46+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "section_name": "Global Business",
+    "byline": {
+      "original": "By JACK EWING",
+      "person": [
+        {
+          "firstname": "Jack",
+          "middlename": null,
+          "lastname": "EWING",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "593edebf7c459f24986e5a10",
+    "word_count": 1445,
+    "score": 1.0,
+    "uri": "nyt://article/dc9f772f-cde3-56cc-b81a-11229a70d0a0"
+  }
+]

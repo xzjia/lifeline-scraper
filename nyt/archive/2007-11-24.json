@@ -1,0 +1,88 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2007/11/24/sports/basketball/24knicks.html",
+    "snippet": "Coach Isiah Thomas was granted the chance to preside over either a ninth straight loss or a face-saving victory this afternoon.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2007/11/24/sports/24knicks.75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2007/11/24/sports/24knicks.75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Knicks Face Bulls; Thomas Faces Fans",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Knicks to Face Bulls; Thomas To Face Fans",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Thomas, Isiah",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "New York Knicks",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Basketball",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Coaches and Managers",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2007-11-24T05:00:00+0000",
+    "document_type": "article",
+    "new_desk": "Sports",
+    "section_name": "Pro Basketball",
+    "byline": {
+      "original": "By HOWARD BECK",
+      "person": [
+        {
+          "firstname": "Howard",
+          "middlename": null,
+          "lastname": "BECK",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "548811a538f0d8602128ee48",
+    "word_count": 808,
+    "score": 1.0,
+    "uri": "nyt://article/b8802d68-f60d-59e9-a0d6-a366f71f7392"
+  }
+]

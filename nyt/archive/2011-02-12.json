@@ -1,0 +1,413 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2011/02/13/world/middleeast/13egypt.html",
+    "snippet": "As a new era dawned in Egypt, its leaders sought to project control and assuage fears about military rule.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/02/13/world/middleeast/13egypt-a/13egypt-a-articleLarge.jpg",
+        "height": 315,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2011/02/13/world/middleeast/13egypt-a/13egypt-a-articleLarge.jpg",
+          "xlargeheight": 315
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/02/13/world/middleeast/13egypt-a/13egypt-a-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/02/13/world/middleeast/13egypt-a/13egypt-a-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Military Offers Assurances to Egypt and Neighbors",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Military Offers Assurances to Egypt and Neighbors",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Egypt",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Mubarak, Hosni",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Demonstrations, Protests, and Riots",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "International Relations",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States International Relations",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Defense and Military Forces",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-02-12T11:07:11+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Middle East",
+    "byline": {
+      "original": "By KAREEM FAHIM",
+      "person": [
+        {
+          "firstname": "Kareem",
+          "middlename": null,
+          "lastname": "FAHIM",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "540abb6538f0d84fb8833f8e",
+    "word_count": 1450,
+    "score": 1.0,
+    "uri": "nyt://article/49a542ce-e51c-5a55-b71e-d9e8c693b775"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/02/13/business/13search.html",
+    "snippet": "How a campaign of paid links on all kinds of unrelated Web sites pushed one retailer to the top of Google results.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/02/13/business/13search-span/13search-span-articleLarge.jpg",
+        "height": 371,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2011/02/13/business/13search-span/13search-span-articleLarge.jpg",
+          "xlargeheight": 371
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/02/13/business/13search-span/13search-span-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/02/13/business/13search-span/13search-span-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "The Dirty Little Secrets of Search",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "The Dirty Little Secrets of Search",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "organizations",
+        "value": "Google Inc",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Search Engines",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Penney, J C, Co",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Online Advertising",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "E-Commerce",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-02-12T16:12:14+0000",
+    "document_type": "article",
+    "new_desk": "SundayBusiness",
+    "byline": {
+      "original": "By DAVID SEGAL",
+      "person": [
+        {
+          "firstname": "David",
+          "middlename": null,
+          "lastname": "SEGAL",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "540ab69838f0d84fb8833f37",
+    "word_count": 3772,
+    "score": 1.0,
+    "uri": "nyt://article/168bef09-87db-59a5-8991-9f4990cf1643"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/02/13/nyregion/13critic.html",
+    "snippet": "BOD4GOD is one way a modern evangelical church is casting a wider net for members, taking inspiration from a Virginia minister\u2019s book.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/02/13/nyregion/13jpCRITIC3/13jpCRITIC3-articleLarge.jpg",
+        "height": 315,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2011/02/13/nyregion/13jpCRITIC3/13jpCRITIC3-articleLarge.jpg",
+          "xlargeheight": 315
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/02/13/nyregion/13jpCRITIC3/13jpCRITIC3-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/02/13/nyregion/13jpCRITIC3/13jpCRITIC3-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Have Faith, Lose Weight. But First, Candy.",
+      "kicker": "City Critic",
+      "content_kicker": "City Critic",
+      "print_headline": "Have Faith, Lose Weight. But First, Candy.",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Weight",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Evangelical Movement",
+        "rank": 2,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-02-12T01:50:49+0000",
+    "document_type": "article",
+    "new_desk": "Metro",
+    "byline": {
+      "original": "By ARIEL KAMINER",
+      "person": [
+        {
+          "firstname": "Ariel",
+          "middlename": null,
+          "lastname": "KAMINER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "540ab36438f0d84fb8833efd",
+    "word_count": 957,
+    "score": 1.0,
+    "uri": "nyt://article/9636741d-d38c-5e9e-8db1-f6db93a244a2"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/02/12/world/middleeast/12revolution.html",
+    "snippet": "Egypt will face the meaning of its revolution, posing challenges as myriad as President Mubarak\u2019s departure was singular.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/02/12/world/JP-REVOLUTION/JP-REVOLUTION-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/02/12/world/JP-REVOLUTION/JP-REVOLUTION-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Uncharted Ground After End of Egypt\u2019s Regime",
+      "kicker": "News Analysis",
+      "content_kicker": "News Analysis",
+      "print_headline": "After Tahrir, Uncharted Ground",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Egypt",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Mubarak, Hosni",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Demonstrations, Protests, and Riots",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Arabs",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Politics and Government",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Islam",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-02-12T01:43:31+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Middle East",
+    "byline": {
+      "original": "By ANTHONY SHADID",
+      "person": [
+        {
+          "firstname": "Anthony",
+          "middlename": null,
+          "lastname": "SHADID",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News Analysis",
+    "_id": "540ab85a38f0d84fb8833f5b",
+    "word_count": 1554,
+    "score": 1.0,
+    "uri": "nyt://article/220cdad6-f09a-5180-856d-9e78ca9fd35f"
+  }
+]

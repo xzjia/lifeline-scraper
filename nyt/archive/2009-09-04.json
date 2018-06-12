@@ -1,0 +1,104 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2009/09/05/sports/ncaafootball/05oregon.html",
+    "snippet": "The punch that LeGarrette Blount threw after Thursday night\u2019s game at Boise State placed an exclamation point on a tawdry month.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/09/05/sports/ncaafootball/oregon75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/09/05/sports/ncaafootball/oregon75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "After Punch, Blount Suspended for Season",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Another Black Eye For College Athletics",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "College Athletics",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Football",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Suspensions, Dismissals and Resignations",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Assaults",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Coaches and Managers",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-09-04T23:09:59+0000",
+    "document_type": "article",
+    "new_desk": "Sports",
+    "section_name": "College Football",
+    "byline": {
+      "original": "By KATIE THOMAS and PETE THAMEL",
+      "person": [
+        {
+          "firstname": "Katie",
+          "middlename": null,
+          "lastname": "THOMAS",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Pete",
+          "middlename": null,
+          "lastname": "THAMEL",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5455cc8f38f0d84a08fb29a7",
+    "word_count": 903,
+    "score": 1.0,
+    "uri": "nyt://article/e37e61ac-d228-5248-96c1-5bf561e22dc6"
+  }
+]

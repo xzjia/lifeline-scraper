@@ -1,0 +1,104 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2008/01/10/fashion/10fitness.html",
+    "snippet": "There is a rough science to choosing performance-enhancing music.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/01/09/fashion/10fitn600.1.jpg",
+        "height": 185,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2008/01/09/fashion/10fitn600.1.jpg",
+          "xlargeheight": 185
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/01/09/fashion/10fitn75.1.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2008/01/09/fashion/10fitn75.1.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "They\u2019re Playing My Song. Time to Work Out.",
+      "kicker": "Fitness",
+      "content_kicker": "Fitness",
+      "print_headline": "They\u2019re Playing My Song. Time to Work Out.",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Music",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Exercise",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Health Clubs",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Rap Music",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2008-01-10T05:00:00+0000",
+    "document_type": "article",
+    "new_desk": "Styles",
+    "byline": {
+      "original": "By STEVEN KURUTZ",
+      "person": [
+        {
+          "firstname": "Steven",
+          "middlename": null,
+          "lastname": "KURUTZ",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "547c9d3c38f0d813efccc665",
+    "word_count": 1274,
+    "score": 1.0,
+    "uri": "nyt://article/13c28d80-c198-55b0-9e59-4ea26f5614d1"
+  }
+]

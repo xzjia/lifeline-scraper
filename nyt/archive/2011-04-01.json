@@ -1,0 +1,557 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2011/04/02/world/asia/02afghanistan.html",
+    "snippet": "Thousands of protesters overran the United Nations compound in Mazar-i-Sharif, killing at least 12 people, Afghan and United Nations officials said.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/04/02/world/02afghanistan2-span/02afghanistan2-span-articleLarge.jpg",
+        "height": 416,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2011/04/02/world/02afghanistan2-span/02afghanistan2-span-articleLarge.jpg",
+          "xlargeheight": 416
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/04/02/world/02afghanistan2-span/02afghanistan2-span-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/04/02/world/02afghanistan2-span/02afghanistan2-span-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Afghans Avenge Florida Koran Burning, Killing 12",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "AFGHANS AVENGE\nKORAN BURNING;\nPROTEST KILLS 12",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Afghanistan",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "United Nations",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Jones, Terry (Pastor)",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Koran",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-04-01T06:27:14+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Asia Pacific",
+    "byline": {
+      "original": "By ENAYAT NAJAFIZADA and ROD NORDLAND",
+      "person": [
+        {
+          "firstname": "Enayat",
+          "middlename": null,
+          "lastname": "NAJAFIZADA",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Rod",
+          "middlename": null,
+          "lastname": "NORDLAND",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5400b1f138f0d841b2f3840e",
+    "word_count": 1312,
+    "score": 1.0,
+    "uri": "nyt://article/a8c8c294-22b0-5030-becf-d1261c54b094"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/04/03/fashion/03reputation.html",
+    "snippet": "People who are unhappy with unflattering information and images that pop up when others Google them are increasingly hiring online reputation managers to help recast their Web profiles.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/04/03/fashion/JP-IMAGE1/JP-IMAGE1-thumbStandard-v2.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/04/03/fashion/JP-IMAGE1/JP-IMAGE1-thumbStandard-v2.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Erasing the Digital Past",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Erasing The Digital Past",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Computers and the Internet",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Search Engines",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Social Networking (Internet)",
+        "rank": 3,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-04-01T23:06:32+0000",
+    "document_type": "article",
+    "new_desk": "Styles",
+    "byline": {
+      "original": "By NICK BILTON",
+      "person": [
+        {
+          "firstname": "Nick",
+          "middlename": null,
+          "lastname": "BILTON",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "540c596338f0d85e13e4d30e",
+    "word_count": 1631,
+    "score": 1.0,
+    "uri": "nyt://article/12496bc7-6b63-5f51-944a-53b5a7c18101"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/04/01/nyregion/01friends.html",
+    "snippet": "Friends Seminary\u2019s $32,870 tuition, selective admissions and private-school culture are anathema to some members of the Religious Society of Friends in Manhattan.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/04/01/nyregion/JP-FRIENDS1/JP-FRIENDS1-articleLarge-v2.jpg",
+        "height": 330,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2011/04/01/nyregion/JP-FRIENDS1/JP-FRIENDS1-articleLarge-v2.jpg",
+          "xlargeheight": 330
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Quakers and Elite School Share Uneasy Ground",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Quakers and Elite School Share Uneasy Ground",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Quakers",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Friends Seminary",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Manhattan (NYC)",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Private and Sectarian Schools",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Education (K-12)",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-04-01T00:59:12+0000",
+    "document_type": "article",
+    "new_desk": "Metro",
+    "byline": {
+      "original": "By SARAH MASLIN NIR",
+      "person": [
+        {
+          "firstname": "Sarah",
+          "middlename": "Maslin",
+          "lastname": "NIR",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "540c54aa38f0d85e13e4d2c4",
+    "word_count": 1232,
+    "score": 1.0,
+    "uri": "nyt://article/d31585d6-004c-52d5-a927-113d86e6ba92"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/04/02/business/economy/02jobs.html",
+    "snippet": "The United States economy added 216,000 jobs in March, the Labor Department said, and the unemployment rate fell another jot, to 8.8 percent.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/04/02/business/economy/02jobs-span/02jobs-span-articleLarge.jpg",
+        "height": 315,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2011/04/02/business/economy/02jobs-span/02jobs-span-articleLarge.jpg",
+          "xlargeheight": 315
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/04/02/business/economy/02jobs-span/02jobs-span-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/04/02/business/economy/02jobs-span/02jobs-span-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Job Growth Suggests Resilience of U.S. Recovery",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "U.S. POSTS A GAIN\nOF 216,000 JOBS,\nA LIFT FOR OBAMA",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "United States Economy",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Unemployment",
+        "rank": 2,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-04-01T12:42:14+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "section_name": "Economy",
+    "byline": {
+      "original": "By MICHAEL POWELL",
+      "person": [
+        {
+          "firstname": "Michael",
+          "middlename": null,
+          "lastname": "POWELL",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "540c575138f0d85e13e4d2eb",
+    "word_count": 1125,
+    "score": 1.0,
+    "uri": "nyt://article/00897af3-3770-5eb7-94c9-8e46332d1e65"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/04/01/health/01dialysis.html",
+    "snippet": "A federal law for free dialysis is being questioned because most of the patients who take advantage of it are elderly.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/04/01/us/JP-DIALYSIS/JP-DIALYSIS-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/04/01/us/JP-DIALYSIS/JP-DIALYSIS-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "When Ailments Pile Up, Asking Patients to Rethink Free Dialysis",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Asking Kidney Patients to Forgo a Free Lifeline",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Kidneys",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Dialysis",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Elder Care",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Federal Aid (US)",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-04-01T01:25:25+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "byline": {
+      "original": "By GINA KOLATA",
+      "person": [
+        {
+          "firstname": "Gina",
+          "middlename": null,
+          "lastname": "KOLATA",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "540c550e38f0d85e13e4d2ca",
+    "word_count": 1210,
+    "score": 1.0,
+    "uri": "nyt://article/5f698474-30b6-5909-a6fd-698fc5f0fee1"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/04/03/nyregion/03remains.html",
+    "snippet": "Some of the victims\u2019 families are appalled by a plan to place the remains in the new museum behind a wall with a quotation from Virgil about never forgetting.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/04/03/nyregion/03REMAINS/03REMAINS-articleLarge.jpg",
+        "height": 261,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2011/04/03/nyregion/03REMAINS/03REMAINS-articleLarge.jpg",
+          "xlargeheight": 261
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/04/03/nyregion/03REMAINS/03REMAINS-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/04/03/nyregion/03REMAINS/03REMAINS-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "For 9/11 Museum, Dispute Over Victims\u2019 Remains",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "An Unsettled Legacy for 9/11 Remains",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "September 11 (2001)",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Monuments and Memorials",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "National September 11 Memorial and Museum",
+        "rank": 3,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-04-01T19:02:21+0000",
+    "document_type": "article",
+    "new_desk": "Metro",
+    "byline": {
+      "original": "By ANEMONA HARTOCOLLIS",
+      "person": [
+        {
+          "firstname": "Anemona",
+          "middlename": null,
+          "lastname": "HARTOCOLLIS",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "540c51d038f0d85e13e4d29d",
+    "word_count": 1454,
+    "score": 1.0,
+    "uri": "nyt://article/bb83e7a7-b7d3-5147-a108-0efd5328b9d7"
+  }
+]

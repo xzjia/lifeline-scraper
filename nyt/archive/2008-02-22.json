@@ -1,0 +1,206 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2008/02/22/business/22homes.html",
+    "snippet": "The government is considering proposals to rescue the nearly 8.8 million homeowners who are underwater.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "Rescues for Homeowners in Debt Weighed",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Rescues Weighed As Homeowners Wallow in Debt",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Mortgages",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Politics and Government",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Discount Selling",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Foreclosures",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Economy",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Housing",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2008-02-22T05:00:00+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By EDMUND L. ANDREWS and LOUIS UCHITELLE",
+      "person": [
+        {
+          "firstname": "Edmund",
+          "middlename": "L.",
+          "lastname": "ANDREWS",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Louis",
+          "middlename": null,
+          "lastname": "UCHITELLE",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "547e500c38f0d84a61c0e6b7",
+    "word_count": 1895,
+    "score": 1.0,
+    "uri": "nyt://article/1f306a1b-1723-5842-907c-d5a3e136cbe5"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2008/02/22/travel/escapes/22guitar.html",
+    "snippet": "For music lovers, a tour of the C.F. Martin factory in Pennsylvania can be a pilgrimage, too.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/02/22/travel/22guitar190.126.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2008/02/22/travel/22guitar190.126.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/02/22/travel/22guit75.1.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2008/02/22/travel/22guit75.1.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "A Journey Shaped by a Guitar",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "A Journey Shaped By a Guitar",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Travel and Vacations",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Music",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Pennsylvania",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Guitars",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Musical Instruments",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Factories and Industrial Plants",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2008-02-22T05:00:00+0000",
+    "document_type": "article",
+    "new_desk": "Escapes",
+    "section_name": "Escapes",
+    "byline": {
+      "original": "By PETER GERSTENZANG",
+      "person": [
+        {
+          "firstname": "Peter",
+          "middlename": null,
+          "lastname": "GERSTENZANG",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "53e021e138f0d815a914221e",
+    "word_count": 1271,
+    "score": 1.0,
+    "uri": "nyt://article/381d8e7e-f9a3-59de-8026-10a54bcb9031"
+  }
+]

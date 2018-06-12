@@ -1,0 +1,645 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2014/11/27/us/ferguson-experts-weigh-darren-wilsons-decisions-leading-to-fatal-shooting-of-michael-brown.html",
+    "snippet": "Many experts said that Darren Wilson acted within the bounds of protocol, though some said the quick escalation of the fatal encounter could have been avoided.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "Experts Weigh Officer\u2019s Decisions Leading to Fatal Shooting of Michael Brown",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Experts Weigh Police Officer\u2019s Decisions Leading to Fatal Shooting of Teenager",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Ferguson (Mo)",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Police Brutality, Misconduct and Shootings",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Brown, Michael (1996-2014)",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Wilson, Darren (1986- )",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Police",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Racial Profiling",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2014-11-27T02:35:21+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "byline": {
+      "original": "By MICHAEL SCHWIRTZ and RICHARD A. OPPEL Jr",
+      "person": [
+        {
+          "firstname": "Michael",
+          "middlename": null,
+          "lastname": "SCHWIRTZ",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Richard",
+          "middlename": "A.",
+          "lastname": "OPPEL",
+          "qualifier": "Jr",
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "54768dee38f0d83924901e37",
+    "word_count": 1253,
+    "score": 1.0,
+    "uri": "nyt://article/abc8a125-b3d2-5ec0-b1f7-5d0018cba51a"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2014/11/28/upshot/under-pressure-from-uber-taxi-medallion-prices-are-plummeting.html",
+    "snippet": "Market data suggests that the taxi business, which has undergone little change over many decades, is in the midst of a revolution.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2014/12/03/upshot/28UP-Taxi-2/28UP-Taxi-2-articleLarge.jpg",
+        "height": 398,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2014/12/03/upshot/28UP-Taxi-2/28UP-Taxi-2-articleLarge.jpg",
+          "xlargeheight": 398
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2014/12/03/upshot/28UP-Taxi-2/28UP-Taxi-2-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2014/12/03/upshot/28UP-Taxi-2/28UP-Taxi-2-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2014/12/03/upshot/28UP-Taxi-2/28UP-Taxi-2-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2014/12/03/upshot/28UP-Taxi-2/28UP-Taxi-2-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Under Pressure From Uber, Taxi Medallion Prices Are Plummeting",
+      "kicker": "Market Turmoil",
+      "content_kicker": "Market Turmoil",
+      "print_headline": "Taxi Apps Cut Market Value of Medallions",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Taxicabs and Taxicab Drivers",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Car Services and Livery Cabs",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Lyft Inc",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Uber Technologies Inc",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "New York City",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Prices (Fares, Fees and Rates)",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Taxi and Limousine Commission",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Regulation and Deregulation of Industry",
+        "rank": 8,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2014-11-27T18:30:37+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "byline": {
+      "original": "By JOSH BARRO",
+      "person": [
+        {
+          "firstname": "Josh",
+          "middlename": null,
+          "lastname": "BARRO",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "54776dd038f0d854b20b1b32",
+    "word_count": 1136,
+    "score": 1.0,
+    "uri": "nyt://article/5c286b43-58b7-5d52-b4b8-3dd97dbfc7b5"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2014/11/28/business/early-shoppers-queue-up-and-analysts-see-some-stellar-deals.html",
+    "snippet": "Eager to make up for what has been a year of lackluster sales, retailers are offering eye-popping discounts that could increase traffic but also eat away at thinning profit margins.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2014/11/28/business/20141128RETAIL-ss-slide-6T4L/20141128RETAIL-ss-slide-6T4L-articleLarge-v3.jpg",
+        "height": 400,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2014/11/28/business/20141128RETAIL-ss-slide-6T4L/20141128RETAIL-ss-slide-6T4L-articleLarge-v3.jpg",
+          "xlargeheight": 400
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2014/11/28/business/20141128RETAIL-ss-slide-6T4L/20141128RETAIL-ss-slide-6T4L-thumbWide-v3.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2014/11/28/business/20141128RETAIL-ss-slide-6T4L/20141128RETAIL-ss-slide-6T4L-thumbWide-v3.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2014/11/28/business/20141128RETAIL-ss-slide-6T4L/20141128RETAIL-ss-slide-6T4L-thumbStandard-v4.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2014/11/28/business/20141128RETAIL-ss-slide-6T4L/20141128RETAIL-ss-slide-6T4L-thumbStandard-v4.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Shoppers Line Up for Black Friday Deals",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "On Your Marks, Holiday Shoppers",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Black Friday and Cyber Monday (Shopping)",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Thanksgiving Day",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Shopping and Retail",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "E-Commerce",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2014-11-27T23:18:23+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By HIROKO TABUCHI",
+      "person": [
+        {
+          "firstname": "Hiroko",
+          "middlename": null,
+          "lastname": "TABUCHI",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5477b14438f0d854b20b211f",
+    "word_count": 1648,
+    "score": 1.0,
+    "uri": "nyt://article/f62ea7da-fd77-51fb-bcb0-6f47690f7b8e"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2014/11/30/nyregion/in-new-york-public-housing-policing-broken-lights.html",
+    "snippet": "One of the issues raised by Akai Gurley\u2019s death isn\u2019t necessarily that the \u201cbroken windows\u201d theory has gone too far, but rather that in certain instances its most literal message has been fatally misunderstood or ignored.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2014/11/30/nyregion/30BIGCITY/30BIGCITY-articleLarge.jpg",
+        "height": 400,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2014/11/30/nyregion/30BIGCITY/30BIGCITY-articleLarge.jpg",
+          "xlargeheight": 400
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2014/11/30/nyregion/30BIGCITY/30BIGCITY-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2014/11/30/nyregion/30BIGCITY/30BIGCITY-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2014/11/30/nyregion/30BIGCITY/30BIGCITY-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2014/11/30/nyregion/30BIGCITY/30BIGCITY-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "In New York Public Housing, Policing Broken Lights",
+      "kicker": "Big City",
+      "content_kicker": "Big City",
+      "print_headline": "Policing Broken Lights",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Public and Subsidized Housing",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Real Estate and Housing (Residential)",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Crime and Criminals",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Gurley, Akai",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Housing Authority (NYC)",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Police Department (NYC)",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Police Brutality, Misconduct and Shootings",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "New York City",
+        "rank": 8,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2014-11-27T02:35:16+0000",
+    "document_type": "article",
+    "new_desk": "Metro",
+    "byline": {
+      "original": "By GINIA BELLAFANTE",
+      "person": [
+        {
+          "firstname": "Ginia",
+          "middlename": null,
+          "lastname": "BELLAFANTE",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "54768de738f0d83924901e35",
+    "word_count": 884,
+    "score": 1.0,
+    "uri": "nyt://article/cae4800c-61ad-50b3-9643-786ac7ae621d"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2014/11/30/arts/is-our-art-equal-to-the-challenges-of-our-times.html",
+    "snippet": "We are in the midst of hard times now, and it feels as if art is failing us.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2014/11/30/arts/30JPINEQUALITY3/30JPINEQUALITY3-articleLarge.jpg",
+        "height": 401,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2014/11/30/arts/30JPINEQUALITY3/30JPINEQUALITY3-articleLarge.jpg",
+          "xlargeheight": 401
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2014/11/30/arts/30JPINEQUALITY3/30JPINEQUALITY3-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2014/11/30/arts/30JPINEQUALITY3/30JPINEQUALITY3-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2014/11/30/arts/30JPINEQUALITY3/30JPINEQUALITY3-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2014/11/30/arts/30JPINEQUALITY3/30JPINEQUALITY3-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Is Our Art Equal to the Challenges of Our Times?",
+      "kicker": "Cross Cuts",
+      "content_kicker": "Cross Cuts",
+      "print_headline": "Looking the Other Way",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Culture (Arts)",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Income Inequality",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Race and Ethnicity",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Politics and Government",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Economic Conditions and Trends",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Art",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Movies",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Books and Literature",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Theater",
+        "rank": 9,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2014-11-27T21:30:24+0000",
+    "document_type": "article",
+    "new_desk": "Arts&Leisure",
+    "byline": {
+      "original": "By A. O. SCOTT",
+      "person": [
+        {
+          "firstname": "A.",
+          "middlename": "O.",
+          "lastname": "SCOTT",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "547797f238f0d854b20b1eed",
+    "word_count": 1129,
+    "score": 1.0,
+    "uri": "nyt://article/f690a148-2e93-5c38-bc7c-68fe9fdcb77a"
+  }
+]

@@ -1,0 +1,106 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2010/11/14/science/earth/14ice.html",
+    "snippet": "Researchers have been startled to see signs of rapid melting in Greenland and Antarctica, but lack data to precisely calculate how much flooding could result.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/11/14/world/JP-ICE-3/JP-ICE-3-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/11/14/world/JP-ICE-3/JP-ICE-3-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "As Glaciers Melt, Science Seeks Data on Rising Seas",
+      "kicker": "Temperature Rising",
+      "content_kicker": "Temperature Rising",
+      "print_headline": "Reading Earth\u2019s Future in Glacial Ice",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Ice",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Glaciers",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Global Warming",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Oceans and Seas",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Greenland",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Floods",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Intergovernmental Panel on Climate Change",
+        "rank": 7,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-11-14T02:01:16+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Environment",
+    "byline": {
+      "original": "By JUSTIN GILLIS",
+      "person": [
+        {
+          "firstname": "Justin",
+          "middlename": null,
+          "lastname": "GILLIS",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "54209ff038f0d81f7a600575",
+    "word_count": 3971,
+    "score": 1.0,
+    "uri": "nyt://article/e8c32c21-a6a5-57b6-868a-83faa13d1f10"
+  }
+]

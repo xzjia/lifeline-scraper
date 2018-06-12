@@ -1,0 +1,686 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2012/06/03/travel/wi-fi-and-amtrak-missed-connections.html",
+    "snippet": "Marketed as \u201cfast, reliable and consistent,\u201d Amtrak\u2019s Wi-Fi service has instead turned into a source of online mockery. Will unplugged passengers find smoother connections soon?",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/06/03/travel/03AMTRACK1/03AMTRACK1-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2012/06/03/travel/03AMTRACK1/03AMTRACK1-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Wi-Fi and Amtrak: Missed Connections",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Wi-Fi and Amtrak: Missed Connections",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "organizations",
+        "value": "Amtrak",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Travel and Vacations",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Wireless Communications",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Railroads",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Computers and the Internet",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2012-05-30T14:35:17+0000",
+    "document_type": "article",
+    "new_desk": "Travel",
+    "byline": {
+      "original": "By RON NIXON",
+      "person": [
+        {
+          "firstname": "Ron",
+          "middlename": null,
+          "lastname": "NIXON",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "53f726a938f0d821a37b2b92",
+    "word_count": 1293,
+    "score": 1.0,
+    "uri": "nyt://article/53e5d2fb-8603-5d2d-b3ab-d9487967a0a5"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2012/05/31/world/africa/charles-taylor-sentenced-to-50-years-for-war-crimes.html",
+    "snippet": "Charles G. Taylor, the former president of Liberia, is the first former head of state convicted by an international tribunal since the Nuremberg trials.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/05/31/world/31taylor-web/31taylor-web-articleLarge.jpg",
+        "height": 330,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2012/05/31/world/31taylor-web/31taylor-web-articleLarge.jpg",
+          "xlargeheight": 330
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/05/31/world/31taylor-web/31taylor-web-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2012/05/31/world/31taylor-web/31taylor-web-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Ex-Liberian Leader Gets 50 Years for War Crimes",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Ex-Liberian Leader Gets 50 Years for War Crimes",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Taylor, Charles G",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "War Crimes, Genocide and Crimes Against Humanity",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Sierra Leone",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Sentences (Criminal)",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Decisions and Verdicts",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Special Court for Sierra Leone",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Liberia",
+        "rank": 7,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2012-05-30T11:24:31+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Africa",
+    "byline": {
+      "original": "By MARLISE SIMONS and J. DAVID GOODMAN",
+      "person": [
+        {
+          "firstname": "Marlise",
+          "middlename": null,
+          "lastname": "SIMONS",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "J.",
+          "middlename": "David",
+          "lastname": "GOODMAN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "51c206e27e0d9c0839d2a102",
+    "word_count": 1157,
+    "score": 1.0,
+    "uri": "nyt://article/93ad0fed-0755-5556-be6d-36e88197155e"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2012/05/30/us/new-digital-divide-seen-in-wasting-time-online.html",
+    "snippet": "As access to devices has spread, children in poorer families are spending considerably more time using them for purposes other than for education.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/05/30/us/jp-DIVIDE-2/jp-DIVIDE-2-articleLarge.jpg",
+        "height": 360,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2012/05/30/us/jp-DIVIDE-2/jp-DIVIDE-2-articleLarge.jpg",
+          "xlargeheight": 360
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Wasting Time Is New Divide in Digital Era",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Wasting Time Is New Divide In Digital Era",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Computers and the Internet",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Parenting",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Computer and Video Games",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Children and Childhood",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Kaiser Family Foundation",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Social Networking (Internet)",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Video Recordings and Downloads",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Social Conditions and Trends",
+        "rank": 8,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2012-05-30T02:16:37+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "byline": {
+      "original": "By MATT RICHTEL",
+      "person": [
+        {
+          "firstname": "Matt",
+          "middlename": null,
+          "lastname": "RICHTEL",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "53f7448c38f0d821a37b2d2d",
+    "word_count": 1307,
+    "score": 1.0,
+    "uri": "nyt://article/4d55ff37-f3e2-5fea-9288-45e1445bed3d"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2012/05/31/technology/personaltech/galaxy-player-4-2-by-samsung-aims-at-ipod-touch-and-falls-just-short.html",
+    "snippet": "The Samsung Galaxy Player 4.2 is the best in its family, and has much to like in a more open and expandable machine than the iPod Touch.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/06/01/technology/Pogue-190-for-Email/Pogue-190-for-Email-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/06/01/technology/Pogue-190-for-Email/Pogue-190-for-Email-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Samsung Takes On iPod Touch, With Flair",
+      "kicker": "State of the Art",
+      "content_kicker": "State of the Art",
+      "print_headline": "Samsung Takes On iPod Touch, With Flair",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "iPod",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Android (Operating System)",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Samsung Group",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Tablet Computers",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2012-05-30T20:26:21+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "section_name": "Personal Tech",
+    "byline": {
+      "original": "By DAVID POGUE",
+      "person": [
+        {
+          "firstname": "David",
+          "middlename": null,
+          "lastname": "POGUE",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "53f748ff38f0d821a37b2d68",
+    "word_count": 1296,
+    "score": 1.0,
+    "uri": "nyt://article/3b09b3e1-5d4f-533a-a012-2d079afc3c8e"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2012/05/30/business/energy-environment/even-in-kentucky-coal-industry-is-under-siege.html",
+    "snippet": "With the coal industry under siege across the country, an announcement that the operator of the Big Sandy power plant near Louisa, Ky., planned to switch to natural gas prompted an uproar.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/05/30/business/energy-environment/COAL/COAL-articleLarge.jpg",
+        "height": 370,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2012/05/30/business/energy-environment/COAL/COAL-articleLarge.jpg",
+          "xlargeheight": 370
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/05/30/business/energy-environment/COAL/COAL-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2012/05/30/business/energy-environment/COAL/COAL-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Even in Coal Country, the Fight for an Industry",
+      "kicker": "The Energy Rush",
+      "content_kicker": "The Energy Rush",
+      "print_headline": "Even in Coal Country, the Fight for an Industry",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Coal",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Louisa (Ky)",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Natural Gas",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Regulation and Deregulation of Industry",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Electric Light and Power",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Greenhouse Gas Emissions",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Adkins, Rocky",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Obama, Barack",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Romney, Mitt",
+        "rank": 9,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Sierra Club",
+        "rank": 10,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "American Electric Power Co Inc",
+        "rank": 11,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Kentucky",
+        "rank": 12,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Series",
+        "rank": 13,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2012-05-30T00:25:52+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "section_name": "Energy & Environment ",
+    "byline": {
+      "original": "By ERIC LIPTON",
+      "person": [
+        {
+          "firstname": "Eric",
+          "middlename": null,
+          "lastname": "LIPTON",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "515da3b6cf28d0219d0015ad",
+    "word_count": 2502,
+    "score": 1.0,
+    "uri": "nyt://article/7e79ad86-1250-5f4f-b8f1-0e142835ff18"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2012/05/31/sports/soccer/concerns-of-racism-precede-european-soccer-championships.html",
+    "snippet": "British authorities fear racial abuse of players and fans in Poland and Ukraine, hosts of the soccer championships.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/05/31/sports/31soccer2_337/31soccer2_337-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2012/05/31/sports/31soccer2_337/31soccer2_337-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Racism and Soccer Are in Play at a Big Event in East Europe",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Racism and Soccer Are in Play At a Big Event in East Europe",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Soccer",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Discrimination",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "UEFA European Football Championship",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Ukraine",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Terry, John",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Poland",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Blacks",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Great Britain",
+        "rank": 8,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2012-05-30T19:23:04+0000",
+    "document_type": "article",
+    "new_desk": "Sports",
+    "section_name": "Soccer",
+    "byline": {
+      "original": "By JER&#201; LONGMAN",
+      "person": [
+        {
+          "firstname": "Jer",
+          "middlename": null,
+          "lastname": null,
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "53f7486038f0d821a37b2d62",
+    "word_count": 1230,
+    "score": 1.0,
+    "uri": "nyt://article/562295cc-f16c-5947-8c0f-a588f45f83a6"
+  }
+]

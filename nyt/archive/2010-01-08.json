@@ -1,0 +1,190 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2010/01/09/business/economy/09jobs.html",
+    "snippet": "The government said the economy shed 85,000 jobs last month, surprising forecasters, while the unemployment rate held steady at 10 percent.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/01/08/business/08cnd-jobs/thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/01/08/business/08cnd-jobs/thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "U.S. Job Losses in December Dim Hopes for Quick Upswing",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "85,000 More Jobs Cut in December, Fogging Outlook",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Unemployment",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Economy",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Labor and Jobs",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Economic Conditions and Trends",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-01-08T13:35:54+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "section_name": "Economy",
+    "byline": {
+      "original": "By PETER S. GOODMAN",
+      "person": [
+        {
+          "firstname": "Peter",
+          "middlename": "S.",
+          "lastname": "GOODMAN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "54248e5238f0d8525e453846",
+    "word_count": 1087,
+    "score": 1.0,
+    "uri": "nyt://article/ed9a4c6e-00a4-536c-8cbc-db0eff4c2a83"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2010/01/08/us/08aging.html",
+    "snippet": "The limitations of age are being tossed aside by active men and women as the global travel and leisure industry races to keep up.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/01/08/us/08aging_337-span/articleLarge.jpg",
+        "height": 300,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2010/01/08/us/08aging_337-span/articleLarge.jpg",
+          "xlargeheight": 300
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/01/08/us/08aging_337-span/thumbStandard-v2.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/01/08/us/08aging_337-span/thumbStandard-v2.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Seeing Old Age as a Never-Ending Adventure",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Seeing Old Age as a Never-Ending Adventure",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Elderly",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Travel and Vacations",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Elderhostel",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Age, Chronological",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-01-08T02:59:12+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "byline": {
+      "original": "By KIRK JOHNSON",
+      "person": [
+        {
+          "firstname": "Kirk",
+          "middlename": null,
+          "lastname": "JOHNSON",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "54248ba938f0d8525e453804",
+    "word_count": 1145,
+    "score": 1.0,
+    "uri": "nyt://article/e22310d5-2c3c-52b8-895e-7b481555e8c7"
+  }
+]

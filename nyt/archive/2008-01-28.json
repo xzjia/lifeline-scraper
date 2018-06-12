@@ -1,0 +1,63 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2008/01/28/washington/28bush.html",
+    "snippet": "President Bush faces the unwelcome prospect that his legacy will be wrapped up in hard times.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "Echo of First Bush: Good Economy Turns Sour",
+      "kicker": "White House Memo",
+      "content_kicker": "White House Memo",
+      "print_headline": "Echo of First Bush: Good Economy Turns Sour",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Bush, George W",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Speeches and Statements",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Economy",
+        "rank": 3,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2008-01-28T05:00:00+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "byline": {
+      "original": "By SHERYL GAY STOLBERG",
+      "person": [
+        {
+          "firstname": "Sheryl",
+          "middlename": "Gay",
+          "lastname": "STOLBERG",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "547d4c5838f0d822abda20cb",
+    "word_count": 1055,
+    "score": 1.0,
+    "uri": "nyt://article/5027a244-a582-5487-a3c1-b4083a209860"
+  }
+]

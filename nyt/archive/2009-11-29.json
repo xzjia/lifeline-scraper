@@ -1,0 +1,114 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2009/11/29/us/29foodstamps.html",
+    "snippet": "A program once scorned as a failed welfare scheme now helps feed one in eight Americans and one in four children.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/11/29/us/29foodstamps_span-CA0/articleLarge.jpg",
+        "height": 200,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/11/29/us/29foodstamps_span-CA0/articleLarge.jpg",
+          "xlargeheight": 200
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/11/29/us/29foodstamps_span-CA0/thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/11/29/us/29foodstamps_span-CA0/thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Food Stamp Use Soars, and Stigma Fades",
+      "kicker": "The Safety Net",
+      "content_kicker": "The Safety Net",
+      "print_headline": "Food Stamp Use Soars Across U.S., and Stigma Fades",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Food Stamps",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Economy",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Economic Conditions and Trends",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Recession and Depression",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-11-29T00:03:13+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "byline": {
+      "original": "By JASON DePARLE and ROBERT GEBELOFF",
+      "person": [
+        {
+          "firstname": "Jason",
+          "middlename": null,
+          "lastname": "DePARLE",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Robert",
+          "middlename": null,
+          "lastname": "GEBELOFF",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "Series",
+    "_id": "54245eab38f0d8525e4533d7",
+    "word_count": 2753,
+    "score": 1.0,
+    "uri": "nyt://article/f33a2ec2-5235-5924-bb2f-b9a96b478204"
+  }
+]

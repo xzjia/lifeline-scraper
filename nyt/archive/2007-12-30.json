@@ -1,0 +1,105 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2007/12/30/arts/music/30sann.html",
+    "snippet": "The machine that minted a long string of big-name stars, from Snoop Dogg to OutKast, has broken down. What happens now?",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2007/12/30/arts/30sann-600.jpg",
+        "height": 330,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2007/12/30/arts/30sann-600.jpg",
+          "xlargeheight": 330
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2007/12/30/arts/30sann-75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2007/12/30/arts/30sann-75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "The Shrinking Market Is Changing the Face of Hip-Hop",
+      "kicker": "Music",
+      "content_kicker": "Music",
+      "print_headline": "The Shrinking Market Is Changing the Face Of Hip-Hop",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Rap Music",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Dogg, Snoop",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Jay-Z",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Wu-Tang Clan",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2007-12-30T05:00:00+0000",
+    "document_type": "article",
+    "new_desk": "Arts&Leisure",
+    "section_name": "Music",
+    "byline": {
+      "original": "By KELEFA SANNEH",
+      "person": [
+        {
+          "firstname": "Kelefa",
+          "middlename": null,
+          "lastname": "SANNEH",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "548973d738f0d82a67124041",
+    "word_count": 2200,
+    "score": 1.0,
+    "uri": "nyt://article/5990a7ed-2120-5c39-81a7-3b026f91e6d1"
+  }
+]

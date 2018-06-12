@@ -1,0 +1,463 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2008/10/22/business/22target.html",
+    "snippet": "Businesses are creating detailed profiles of the financial lives of Americans and selling that information to banks.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/10/22/business/22target.graphic.190.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2008/10/22/business/22target.graphic.190.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Banks Mine Data and Woo Troubled Borrowers",
+      "kicker": "The Debt Trap",
+      "content_kicker": "The Debt Trap",
+      "print_headline": "Drawing a Bead On Debtors",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Credit",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Credit and Money Cards",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Credit Scores",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Banks and Banking",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Mortgages",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2008-10-22T02:05:40+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By BRAD STONE",
+      "person": [
+        {
+          "firstname": "Brad",
+          "middlename": null,
+          "lastname": "STONE",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "547941ab38f0d86bf592f225",
+    "word_count": 1812,
+    "score": 1.0,
+    "uri": "nyt://article/b2ada82e-5f5c-5bc1-be84-6681a10170ae"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2008/10/23/garden/23foreclosure.html",
+    "snippet": "Inability to make mortgage payments is driving families to make difficult choices and forcing them to reconsider what home means.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/10/22/garden/23fore-600.jpg",
+        "height": 330,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2008/10/22/garden/23fore-600.jpg",
+          "xlargeheight": 330
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/10/22/garden/23fore-75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2008/10/22/garden/23fore-75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "After the House Is Gone",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "After the House Is Gone",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Foreclosures",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Economy",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Mortgages",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Housing",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2008-10-22T22:48:05+0000",
+    "document_type": "article",
+    "new_desk": "Home",
+    "byline": {
+      "original": "By JULIE SCELFO",
+      "person": [
+        {
+          "firstname": "Julie",
+          "middlename": null,
+          "lastname": "SCELFO",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5479487838f0d86bf592f2c1",
+    "word_count": 2833,
+    "score": 1.0,
+    "uri": "nyt://article/b72f1c9c-e67d-5815-83fd-cdf45f5cce23"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2008/10/22/us/politics/22health.html",
+    "snippet": "Senators Barack Obama and John McCain often cite rough estimates when talking about their health care plans.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "On Health Plans, the Numbers Fly",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "On Health Plans, The Numbers Fly",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Presidential Election of 2008",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Health Insurance and Managed Care",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Obama, Barack",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "McCain, John",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Political Advertising",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Medicine and Health",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Conflicts of Interest",
+        "rank": 7,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2008-10-22T01:49:18+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "section_name": "Politics",
+    "byline": {
+      "original": "By KEVIN SACK",
+      "person": [
+        {
+          "firstname": "Kevin",
+          "middlename": null,
+          "lastname": "SACK",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5479427838f0d86bf592f236",
+    "word_count": 1258,
+    "score": 1.0,
+    "uri": "nyt://article/561f1a07-8969-5246-8eaa-c99778e0fdae"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2008/10/23/nyregion/23fiction.html",
+    "snippet": "Many libraries are embracing a sometimes controversial genre of \u201cstreet lit\u201d in an effort to attract new readers.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/10/22/nyregion/22fiction-600.jpg",
+        "height": 330,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2008/10/22/nyregion/22fiction-600.jpg",
+          "xlargeheight": 330
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/10/22/nyregion/22fiction-75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2008/10/22/nyregion/22fiction-75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "From the Streets to the Libraries",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Urban Fiction, as Graphic as the Street, Finds a Place in Libraries",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Books and Literature",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Libraries and Librarians",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Queens (NYC)",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2008-10-22T16:37:49+0000",
+    "document_type": "article",
+    "new_desk": "Metro",
+    "byline": {
+      "original": "By ANNE BARNARD",
+      "person": [
+        {
+          "firstname": "Anne",
+          "middlename": null,
+          "lastname": "BARNARD",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5479449f38f0d86bf592f263",
+    "word_count": 1435,
+    "score": 1.0,
+    "uri": "nyt://article/fd0a2526-edef-5c1e-99d3-ac364910de5d"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2008/10/23/us/politics/23policy.html",
+    "snippet": "Radically different experiences have shaped the candidates\u2019 contrasting visions for U.S. power, but both men have been forced into surprising detours.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/10/23/us/23policy_75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2008/10/23/us/23policy_75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Rivals Split on U.S. Power, but Ideas Defy Labels",
+      "kicker": "If Elected ...",
+      "content_kicker": "If Elected ...",
+      "print_headline": "Rivals Split on U.S. Power, But Ideas Defy Easy Labels",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Presidential Election of 2008",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States International Relations",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "McCain, John",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Obama, Barack",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2008-10-22T18:35:02+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "section_name": "Politics",
+    "byline": {
+      "original": "By DAVID E. SANGER",
+      "person": [
+        {
+          "firstname": "David",
+          "middlename": "E.",
+          "lastname": "SANGER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "Series",
+    "_id": "5479450c38f0d86bf592f26c",
+    "word_count": 2685,
+    "score": 1.0,
+    "uri": "nyt://article/b5941e5e-4547-5e2c-a71e-4527d52eb8a6"
+  }
+]

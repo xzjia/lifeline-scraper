@@ -1,0 +1,230 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2008/02/13/dining/13incompatible.html",
+    "snippet": "In an age when many people define themselves by what they will eat and what they won\u2019t, dietary differences can put a strain on a romantic relationship.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/02/12/dining/13couple600.1.jpg",
+        "height": 310,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2008/02/12/dining/13couple600.1.jpg",
+          "xlargeheight": 310
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/02/12/dining/13couple75.1.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2008/02/12/dining/13couple75.1.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "I Love You, but You Love Meat",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "I Love You, But You Love Meat",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Vegetarianism",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Dating (Social)",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Marriages",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Food",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Kosher Foods",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Gluten",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Vegan",
+        "rank": 7,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2008-02-13T05:00:00+0000",
+    "document_type": "article",
+    "new_desk": "Dining",
+    "byline": {
+      "original": "By KATE MURPHY",
+      "person": [
+        {
+          "firstname": "Kate",
+          "middlename": null,
+          "lastname": "MURPHY",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "547c0acb38f0d813efccb9c0",
+    "word_count": 1311,
+    "score": 1.0,
+    "uri": "nyt://article/9ad1f396-6174-515f-b01d-d6e540556304"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2008/02/13/us/13custody.html",
+    "snippet": "Child-custody conflicts over religion are increasing, but constitutional issues make them hard for courts to resolve.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/02/13/us/13custody.600x.jpg",
+        "height": 350,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2008/02/13/us/13custody.600x.jpg",
+          "xlargeheight": 350
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/02/13/us/13custody.75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2008/02/13/us/13custody.75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Religion Joins Custody Cases, to Judges\u2019 Unease",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Religion Joins Custody Cases, to Judges\u2019 Unease",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Child Custody and Support",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Religion and Churches",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Families and Family Life",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Divorce, Separations and Annulments",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Alabama",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2008-02-13T05:00:00+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "byline": {
+      "original": "By NEELA BANERJEE",
+      "person": [
+        {
+          "firstname": "Neela",
+          "middlename": null,
+          "lastname": "BANERJEE",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "547c0e7c38f0d813efccba05",
+    "word_count": 1483,
+    "score": 1.0,
+    "uri": "nyt://article/563e22ea-d105-5447-a3c1-9254495135bf"
+  }
+]

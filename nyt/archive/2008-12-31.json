@@ -1,0 +1,197 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2009/01/01/sports/football/01chains.html",
+    "snippet": "Dozens of inventions would have improved or ended the use of chains to measure for first downs, but they endure.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/01/01/sports/01chains.1.600.jpg",
+        "height": 352,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/01/01/sports/01chains.1.600.jpg",
+          "xlargeheight": 352
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/01/01/sports/01chains.1.75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/01/01/sports/01chains.1.75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "In High-Tech Game, Football Sticks to an Old Measure of Success",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "In High-Tech Game, Football Sticks to an Old Measure of Success",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Football",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Officiating (Sports)",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "National Football League",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "College Athletics",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2008-12-31T20:14:34+0000",
+    "document_type": "article",
+    "new_desk": "Sports",
+    "section_name": "Pro Football",
+    "byline": {
+      "original": "By JOHN BRANCH",
+      "person": [
+        {
+          "firstname": "John",
+          "middlename": null,
+          "lastname": "BRANCH",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "545bb8ab38f0d85e5ee91148",
+    "word_count": 1383,
+    "score": 1.0,
+    "uri": "nyt://article/109b4023-6232-5d6e-b67d-f08bf31e1948"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/01/01/world/middleeast/01mideast.html",
+    "snippet": "Trying to fend off growing international pressure, Israel said it would expedite humanitarian aid and work with its allies to build a durable, long-term truce.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "Israel Rejects Cease-Fire, but Offers Gaza Aid",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "ISRAEL REJECTS GAZA CEASE-FIRE, BUT OFFERS AID",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Palestinians",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Armament, Defense and Military Forces",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Israel",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Gaza Strip",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "International Relations",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Hamas",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Barak, Ehud",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Kouchner, Bernard",
+        "rank": 8,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2008-12-31T08:19:30+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Middle East",
+    "byline": {
+      "original": "By ETHAN BRONNER",
+      "person": [
+        {
+          "firstname": "Ethan",
+          "middlename": null,
+          "lastname": "BRONNER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "545bb6f638f0d85e5ee91117",
+    "word_count": 1326,
+    "score": 1.0,
+    "uri": "nyt://article/dc40fd9f-fea1-5dc3-ac24-5f95c6e73bdd"
+  }
+]

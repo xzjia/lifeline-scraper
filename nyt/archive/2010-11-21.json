@@ -1,0 +1,240 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2010/11/21/technology/21brain.html",
+    "snippet": "The constant stream of stimuli offered by new technology poses a profound new challenge to focusing and learning.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/11/20/us/Brain/Brain-articleLarge-v2.jpg",
+        "height": 350,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2010/11/20/us/Brain/Brain-articleLarge-v2.jpg",
+          "xlargeheight": 350
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/11/20/us/Brain/Brain-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/11/20/us/Brain/Brain-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Growing Up Digital, Wired for Distraction",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "YOUR BRAIN ON COMPUTERS; Growing Up Digital, Wired for Distraction",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Children and Youth",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Computers and the Internet",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Education (K-12)",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Brain",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Computer and Video Games",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Text Messaging",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Smartphones",
+        "rank": 7,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-11-21T05:38:31+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By MATT RICHTEL",
+      "person": [
+        {
+          "firstname": "Matt",
+          "middlename": null,
+          "lastname": "RICHTEL",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5420d8c138f0d81f7a600a65",
+    "word_count": 4201,
+    "score": 1.0,
+    "uri": "nyt://article/42eb540a-431b-5ed4-8a6e-9b8cda1a1022"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2010/11/22/movies/22gibson.html",
+    "snippet": "A family law judge could help determine whether Mel Gibson has a future in Hollywood.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/11/22/arts/JPGIBSON/JPGIBSON-articleLarge.jpg",
+        "height": 351,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2010/11/22/arts/JPGIBSON/JPGIBSON-articleLarge.jpg",
+          "xlargeheight": 351
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/11/22/arts/JPGIBSON/JPGIBSON-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/11/22/arts/JPGIBSON/JPGIBSON-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "In Family Court, a Reckoning for Gibson\u2019s Career",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "In Family Court, a Reckoning for Gibson\u2019s Erratic Career",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Gibson, Mel",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Celebrities",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Child Custody and Support",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Grigorieva, Oksana",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Movies",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-11-21T22:23:29+0000",
+    "document_type": "article",
+    "new_desk": "Culture",
+    "byline": {
+      "original": "By MICHAEL CIEPLY and BROOKS BARNES",
+      "person": [
+        {
+          "firstname": "Michael",
+          "middlename": null,
+          "lastname": "CIEPLY",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Brooks",
+          "middlename": null,
+          "lastname": "BARNES",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5420dc0138f0d81f7a600aaf",
+    "word_count": 1473,
+    "score": 1.0,
+    "uri": "nyt://article/92a4d5c7-b9fa-5446-a27a-d992839687b9"
+  }
+]

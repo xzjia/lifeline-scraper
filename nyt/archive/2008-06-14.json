@@ -1,0 +1,115 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2008/06/14/world/europe/14ireland.html",
+    "snippet": "The defeat of a treaty to consolidate the European Union\u2019s power shows that many Europeans feel alienated from it.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/06/13/world/13ireland-600.jpg",
+        "height": 330,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2008/06/13/world/13ireland-600.jpg",
+          "xlargeheight": 330
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/06/13/world/ireland.75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2008/06/13/world/ireland.75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Ireland Derails a Bid to Recast Europe\u2019s Rules",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Ireland Derails A Bid to Recast Europe\u2019s Rules",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Treaty of Lisbon (2007)",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Ireland",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "European Union",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Referendums",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2008-06-14T04:00:00+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Europe",
+    "byline": {
+      "original": "By SARAH LYALL and STEPHEN CASTLE",
+      "person": [
+        {
+          "firstname": "Sarah",
+          "middlename": null,
+          "lastname": "LYALL",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Stephen",
+          "middlename": null,
+          "lastname": "CASTLE",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5456e06c38f0d86ef22a0dee",
+    "word_count": 1358,
+    "score": 1.0,
+    "uri": "nyt://article/a4aae3d7-7473-5804-acb8-b44bda6ef7a2"
+  }
+]

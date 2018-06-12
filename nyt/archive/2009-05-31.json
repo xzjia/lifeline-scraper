@@ -1,0 +1,109 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2009/06/01/us/01tiller.html",
+    "snippet": "A suspect was in custody in the killing of George Tiller, a doctor in Wichita, Kan., who survived a 1993 shooting.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/05/31/us/01tiller-3-75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/05/31/us/01tiller-3-75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Abortion Doctor Shot to Death in Kansas Church",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Abortion Doctor Slain by Gunman In Kansas Church",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Tiller, George R",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Kansas",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Murders and Attempted Murders",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Abortion",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Medicine and Health",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Roeder, Scott",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-05-31T17:12:14+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "byline": {
+      "original": "By JOE STUMPE and MONICA DAVEY",
+      "person": [
+        {
+          "firstname": "Joe",
+          "middlename": null,
+          "lastname": "STUMPE",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Monica",
+          "middlename": null,
+          "lastname": "DAVEY",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5424a8a238f0d8525e453acf",
+    "word_count": 1252,
+    "score": 1.0,
+    "uri": "nyt://article/67b12230-184f-5081-b600-98b429a71fed"
+  }
+]

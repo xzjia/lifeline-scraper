@@ -1,0 +1,178 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2008/03/23/realestate/23cov.html",
+    "snippet": "Brokers estimate that as many as a quarter of all buyers solicit third-party views and that 10 to 25 percent of the deals fall apart as a result.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/03/21/realestate/23cov-600b1.jpg",
+        "height": 281,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2008/03/21/realestate/23cov-600b1.jpg",
+          "xlargeheight": 281
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/03/21/realestate/23cov-75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2008/03/21/realestate/23cov-75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Who Asked You?",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Who Asked You?",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Brokers and Brokerage Firms",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Sales",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Housing",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Real Estate",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "New York City",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2008-03-23T04:00:00+0000",
+    "document_type": "article",
+    "new_desk": "RealEstate",
+    "byline": {
+      "original": "By TERI KARUSH ROGERS",
+      "person": [
+        {
+          "firstname": "Teri",
+          "middlename": "Karush",
+          "lastname": "ROGERS",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "547f499638f0d828162871da",
+    "word_count": 1988,
+    "score": 1.0,
+    "uri": "nyt://article/0781737d-85ce-52ac-b248-fd5e37e350fa"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2008/03/23/sports/ncaabasketball/23dogs.html",
+    "snippet": "After four upsets in the West and Midwest Regions, coaches and players scrambled Saturday to reclaim the underdog role as if it were a loose ball in the final seconds.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "One Site. Two Games. Four Underdogs.",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "One Site. Two Games. Four Underdogs.",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "NCAA Basketball Tournament",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Basketball",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "National Collegiate Athletic Assn",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "College Athletics",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2008-03-23T04:00:00+0000",
+    "document_type": "article",
+    "new_desk": "Sports",
+    "section_name": "College Basketball",
+    "byline": {
+      "original": "By TOM SPOUSTA",
+      "person": [
+        {
+          "firstname": "Tom",
+          "middlename": null,
+          "lastname": "SPOUSTA",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "547f6e5d38f0d82816287565",
+    "word_count": 723,
+    "score": 1.0,
+    "uri": "nyt://article/ce4eaea4-ac81-5f98-90bc-71dda872fe2f"
+  }
+]

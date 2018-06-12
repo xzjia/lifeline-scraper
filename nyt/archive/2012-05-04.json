@@ -1,0 +1,509 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2012/05/06/realestate/the-investor-next-door.html",
+    "snippet": "A new breed of condominium investor \u2014 who buys a second apartment in their own building to become an owner/resident/landlord \u2014 has emerged.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/05/06/realestate/06COVER_SPAN/cover-1-articleLarge.jpg",
+        "height": 360,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2012/05/06/realestate/06COVER_SPAN/cover-1-articleLarge.jpg",
+          "xlargeheight": 360
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/05/06/realestate/06COVER_SPAN/cover-1-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2012/05/06/realestate/06COVER_SPAN/cover-1-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "The Investor Next Door",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "The Investor Next Door",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "New York City",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Real Estate and Housing (Residential)",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Condominiums",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Renting and Leasing (Real Estate)",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2012-05-04T17:12:35+0000",
+    "document_type": "article",
+    "new_desk": "RealEstate",
+    "byline": {
+      "original": "By VIVIAN S. TOY",
+      "person": [
+        {
+          "firstname": "Vivian",
+          "middlename": "S.",
+          "lastname": "TOY",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "515da5dacf28d0219d001ab3",
+    "word_count": 1715,
+    "score": 1.0,
+    "uri": "nyt://article/70194c2a-9926-503f-b385-f77f98250bc0"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2012/05/05/business/economy/us-added-only-115000-jobs-in-april-rate-is-8-1.html",
+    "snippet": "Economists cited various possible factors behind the addition of only 115,000 jobs in April, but none are likely to comfort 13.7 million jobless workers.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/05/05/business/05jobs-pic/05jobs-pic-articleLarge.jpg",
+        "height": 370,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2012/05/05/business/05jobs-pic/05jobs-pic-articleLarge.jpg",
+          "xlargeheight": 370
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/05/05/business/05jobs-pic/05jobs-pic-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2012/05/05/business/05jobs-pic/05jobs-pic-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Reasons Abound for Ebb in Job Growth",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Rate Of Growth In Jobs Slowed For U.S. In April",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Labor and Jobs",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Unemployment",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Labor Department (US)",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Economy",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2012-05-04T12:39:15+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "section_name": "Economy",
+    "byline": {
+      "original": "By CATHERINE RAMPELL",
+      "person": [
+        {
+          "firstname": "Catherine",
+          "middlename": null,
+          "lastname": "RAMPELL",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "53f668e538f0d821a37b2148",
+    "word_count": 1104,
+    "score": 1.0,
+    "uri": "nyt://article/1b1b93d3-bf6e-5bc9-bbb7-c1cfca23a4cc"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2012/05/05/your-money/medical-debts-can-leave-stains-on-credit-scores.html",
+    "snippet": "As patients assume more of the responsibility for costs, complex billing and more aggressive collection by providers are resulting in negative credit report data that lingers for years.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/05/05/business/DEBT/DEBT-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2012/05/05/business/DEBT/DEBT-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Discrepancies on Medical Bills Can Leave a Credit Stain",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "A Medical Debt\u2019s Stain",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Personal Finances",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Health Insurance and Managed Care",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Credit Scores",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Collection Agencies",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Patient Protection and Affordable Care Act (2010)",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Consumer Protection",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2012-05-04T22:35:46+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By TARA SIEGEL BERNARD",
+      "person": [
+        {
+          "firstname": "Tara",
+          "middlename": "Siegel",
+          "lastname": "BERNARD",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "53f66f3338f0d821a37b21c0",
+    "word_count": 1454,
+    "score": 1.0,
+    "uri": "nyt://article/43d8216f-ab1c-5348-876d-0e2c9d2b2612"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2012/05/05/world/asia/chen-guangcheng-study-abroad-china.html",
+    "snippet": "Chinese officials will allow Chen Guangcheng to travel to the United States with his family, American officials said, but Secretary of State Hillary Rodham Clinton cautioned that this case still unresolved.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/05/05/world/jp-china/jp-china-articleLarge-v2.jpg",
+        "height": 330,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2012/05/05/world/jp-china/jp-china-articleLarge-v2.jpg",
+          "xlargeheight": 330
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Nascent Deal Would Let Dissident From China Study in U.S.",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Deal Would Let China Dissident And Family In U.S.",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Chen Guangcheng",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "China",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States International Relations",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Human Rights and Human Rights Violations",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Clinton, Hillary Rodham",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2012-05-04T07:27:06+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Asia Pacific",
+    "byline": {
+      "original": "By JANE PERLEZ and MICHAEL WINES",
+      "person": [
+        {
+          "firstname": "Jane",
+          "middlename": null,
+          "lastname": "PERLEZ",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Michael",
+          "middlename": null,
+          "lastname": "WINES",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "53f6679138f0d821a37b213d",
+    "word_count": 1330,
+    "score": 1.0,
+    "uri": "nyt://article/8b5c9b83-90a9-58df-b94b-ebfebecc989b"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2012/05/05/sports/baseball/on-baseball-imagining-the-ninth-inning-without-mariano-rivera.html",
+    "snippet": "Mariano Rivera\u2019s pledge to return to the field next year adds another character trait to his already-impressive list: defiance.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/05/05/sports/baseball/KEPNER/KEPNER-articleLarge.jpg",
+        "height": 330,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2012/05/05/sports/baseball/KEPNER/KEPNER-articleLarge.jpg",
+          "xlargeheight": 330
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/05/05/sports/baseball/KEPNER/KEPNER-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2012/05/05/sports/baseball/KEPNER/KEPNER-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "For Rivera, Maestro of Ninth, Injury Is Not Final Symphony",
+      "kicker": "On Baseball",
+      "content_kicker": "On Baseball",
+      "print_headline": "For Rivera, Maestro of Ninth, Injury Is Not Final Symphony",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Rivera, Mariano",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Baseball",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Sports Injuries",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "New York Yankees",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2012-05-04T11:54:07+0000",
+    "document_type": "article",
+    "new_desk": "Sports",
+    "section_name": "Baseball",
+    "byline": {
+      "original": "By TYLER KEPNER",
+      "person": [
+        {
+          "firstname": "Tyler",
+          "middlename": null,
+          "lastname": "KEPNER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "515da5c1cf28d0219d001a7a",
+    "word_count": 952,
+    "score": 1.0,
+    "uri": "nyt://article/d2ca5511-66b2-5b46-909f-a3cbf4ab6b0c"
+  }
+]

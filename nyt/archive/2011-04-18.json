@@ -1,0 +1,616 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2011/04/18/business/18plane.html",
+    "snippet": "Metal fatigue is a persistent problem, as a hole in the roof of a 737 this month showed, and critics say inspection rules are an unreliable patchwork.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/04/18/business/subjpPLANE/subjpPLANE-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2011/04/18/business/subjpPLANE/subjpPLANE-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/04/18/business/subjpPLANE/subjpPLANE-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/04/18/business/subjpPLANE/subjpPLANE-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Scrutiny Lags as Jetliners Show the Effects of Age",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Scrutiny Lags As Jets Show Effects of Age",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Airlines and Airplanes",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Accidents and Safety",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Regulation and Deregulation of Industry",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Federal Aviation Administration",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Transportation Department (US)",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-04-18T01:25:25+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By CHRISTOPHER DREW and JAD MOUAWAD",
+      "person": [
+        {
+          "firstname": "Christopher",
+          "middlename": null,
+          "lastname": "DREW",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Jad",
+          "middlename": null,
+          "lastname": "MOUAWAD",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "540ce0ee38f0d85bf2514f33",
+    "word_count": 1472,
+    "score": 1.0,
+    "uri": "nyt://article/9c768a9f-a432-5781-8203-83337812c076"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/04/18/business/media/18carr.html",
+    "snippet": "Michael Klingensmith went to Minneapolis as publisher of The Star Tribune, where things are looking up.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/04/12/business/media/carr-50/carr-50-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/04/12/business/media/carr-50/carr-50-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "A Native Son Revitalizes His Paper",
+      "kicker": "The Media Equation",
+      "content_kicker": "The Media Equation",
+      "print_headline": "Native Son Revitalizes His Paper",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Newspapers",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Minneapolis (Minn)",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Klingensmith, Michael",
+        "rank": 3,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-04-18T00:24:01+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "section_name": "Media",
+    "byline": {
+      "original": "By DAVID CARR",
+      "person": [
+        {
+          "firstname": "David",
+          "middlename": null,
+          "lastname": "CARR",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "540ce00038f0d85bf2514f22",
+    "word_count": 1445,
+    "score": 1.0,
+    "uri": "nyt://article/1c730dcd-e65b-5e1a-a18b-63a8dabcddc4"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/04/19/business/19markets.html",
+    "snippet": "Stocks fell on Monday as Standard & Poor\u2019s said there was a risk that American lawmakers would not address \u201clong-term fiscal pressures.\u201d",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "S.&P. Lowers Outlook for U.S., Sending Stocks Down",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "WALL ST. SENDS WARNING TO U.S. ON DEBT LEVELS",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Stocks and Bonds",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "United States",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Standard & Poor's Corp",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Ratings and Rating Systems",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-04-18T11:16:13+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By CHRISTINE HAUSER",
+      "person": [
+        {
+          "firstname": "Christine",
+          "middlename": null,
+          "lastname": "HAUSER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "540ce30538f0d85bf2514f56",
+    "word_count": 1211,
+    "score": 1.0,
+    "uri": "nyt://article/7fea361b-9c88-5c9f-ab91-6b9201363432"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/04/18/business/media/18mortenson.html",
+    "snippet": "A CBS News report questioned several facts in Greg Mortenson\u2019s memoir, which has fed a charity he runs.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/04/18/business/18mortenson-inline1/18mortenson-inline1-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/04/18/business/18mortenson-inline1/18mortenson-inline1-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "\u2018Three Cups of Tea\u2019 Author Defends Book",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "\u2018Three Cups of Tea\u2019 Author Defends Book",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Mortenson, Greg",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Literary Fraud",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Central Asia Institute",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "CBS News",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "K2 (Himalayas)",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Philanthropy",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Books and Literature",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Penguin Group",
+        "rank": 9,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-04-18T01:07:24+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "section_name": "Media",
+    "byline": {
+      "original": "By JULIE BOSMAN and STEPHANIE STROM",
+      "person": [
+        {
+          "firstname": "Julie",
+          "middlename": null,
+          "lastname": "BOSMAN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Stephanie",
+          "middlename": null,
+          "lastname": "STROM",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "540ce1ba38f0d85bf2514f42",
+    "word_count": 1129,
+    "score": 1.0,
+    "uri": "nyt://article/e4cd69c5-c56d-5d1b-a9bb-d775b1a2bece"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/04/18/world/africa/18misurata.html",
+    "snippet": "An overcrowded tent in the rebel holdout city of Misurata illustrates the grim results of modern weapons on human life.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/04/18/world/africa/misurata/misurata-articleLarge-v2.jpg",
+        "height": 350,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2011/04/18/world/africa/misurata/misurata-articleLarge-v2.jpg",
+          "xlargeheight": 350
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/04/18/world/africa/misurata/misurata-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/04/18/world/africa/misurata/misurata-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "In a Medical Tent in Libya, a Grim Procession",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "In a Medical Tent in Libya, a Grim Procession",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Middle East and North Africa Unrest (2010- )",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Civilian Casualties",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Misurata (Libya)",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Qaddafi, Muammar el-",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Libya",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-04-18T01:54:42+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Africa",
+    "byline": {
+      "original": "By C. J. CHIVERS",
+      "person": [
+        {
+          "firstname": "C.",
+          "middlename": "J.",
+          "lastname": "CHIVERS",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "52b8c67338f0d86bcb2a7026",
+    "word_count": 1507,
+    "score": 1.0,
+    "uri": "nyt://article/2e50f89c-327c-54d9-a358-83e74ae31c0c"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/04/19/science/19brain.html",
+    "snippet": "Scientists are trying to understand and quantify what makes music expressive, and the results are contributing to a greater understanding of how the brain works.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/04/19/science/19brainspan/19brainspan-articleLarge.jpg",
+        "height": 381,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2011/04/19/science/19brainspan/19brainspan-articleLarge.jpg",
+          "xlargeheight": 381
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/04/19/science/19brainspan/19brainspan-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/04/19/science/19brainspan/19brainspan-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "To Tug Hearts, Music First Must Tickle the Neurons",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "To Tug At the Heart, Music First Must Tickle The Neurons",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Music",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Brain",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Emotions",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Research",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Science and Technology",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Levitin, Daniel J",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "McGill University",
+        "rank": 7,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-04-18T17:39:42+0000",
+    "document_type": "article",
+    "new_desk": "Science",
+    "byline": {
+      "original": "By PAM BELLUCK",
+      "person": [
+        {
+          "firstname": "Pam",
+          "middlename": null,
+          "lastname": "BELLUCK",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "540ce50838f0d85bf2514f7c",
+    "word_count": 2762,
+    "score": 1.0,
+    "uri": "nyt://article/567b62ea-34ee-52c2-9c27-05ee48353197"
+  }
+]

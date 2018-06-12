@@ -1,0 +1,238 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2011/02/12/world/middleeast/12egypt.html",
+    "snippet": "The departure of President Hosni Mubarak was a pivotal turn in a revolt that has upended one of the Arab\u2019s world\u2019s most enduring dictatorships.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/02/11/world/middleeast/20110212-EGYPT-slide-QGU4/20110212-EGYPT-slide-QGU4-articleLarge.jpg",
+        "height": 315,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2011/02/11/world/middleeast/20110212-EGYPT-slide-QGU4/20110212-EGYPT-slide-QGU4-articleLarge.jpg",
+          "xlargeheight": 315
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/02/11/world/middleeast/20110212-EGYPT-slide-QGU4/20110212-EGYPT-slide-QGU4-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/02/11/world/middleeast/20110212-EGYPT-slide-QGU4/20110212-EGYPT-slide-QGU4-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Egypt Erupts in Jubilation as Mubarak Steps Down",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "MUBARAK OUT",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Mubarak, Hosni",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Demonstrations, Protests, and Riots",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Egypt",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Suleiman, Omar",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Tantawi, Mohamed Hussein",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Enan, Sami Hafez",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Defense and Military Forces",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Politics and Government",
+        "rank": 8,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-02-11T06:04:37+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Middle East",
+    "byline": {
+      "original": "By DAVID D. KIRKPATRICK",
+      "person": [
+        {
+          "firstname": "David",
+          "middlename": null,
+          "lastname": null,
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "540aafac38f0d84fb8833eb7",
+    "word_count": 1878,
+    "score": 1.0,
+    "uri": "nyt://article/48f3cedf-5a02-5601-ae87-8dfa0087f0c0"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/02/12/business/global/12food.html",
+    "snippet": "Four decades after the Green Revolution, nearly half of Indian children under 6 are malnourished.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/02/12/business/global/12food-span/12food-span-articleLarge.jpg",
+        "height": 350,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2011/02/12/business/global/12food-span/12food-span-articleLarge.jpg",
+          "xlargeheight": 350
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/02/12/business/global/12food-span/12food-span-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/02/12/business/global/12food-span/12food-span-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Galloping Growth, and Hunger in India",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Galloping Growth, and Hunger",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Agriculture",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "India",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Food",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Prices (Fares, Fees and Rates)",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Malnutrition",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-02-11T13:50:00+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "section_name": "Global Business",
+    "byline": {
+      "original": "By VIKAS BAJAJ",
+      "person": [
+        {
+          "firstname": "Vikas",
+          "middlename": null,
+          "lastname": "BAJAJ",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "540fd04f38f0d87641c68352",
+    "word_count": 1266,
+    "score": 1.0,
+    "uri": "nyt://article/fc937832-6fc1-5d9a-8d54-ae2ef0a9aa95"
+  }
+]

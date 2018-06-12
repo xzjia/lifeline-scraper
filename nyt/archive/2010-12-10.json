@@ -1,0 +1,322 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2010/12/11/world/europe/11nobel.html",
+    "snippet": "Over China\u2019s loud objections, the Nobel Committee honored the imprisoned dissident Liu Xiaobo in his absence.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/12/12/world/europe/11nobel1-cnd/11nobel1-cnd-articleLarge.jpg",
+        "height": 330,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2010/12/12/world/europe/11nobel1-cnd/11nobel1-cnd-articleLarge.jpg",
+          "xlargeheight": 330
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/12/12/world/europe/11nobel1-cnd/11nobel1-cnd-thumbStandard-v2.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/12/12/world/europe/11nobel1-cnd/11nobel1-cnd-thumbStandard-v2.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Winner\u2019s Chair Remains Empty at Nobel Event",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "WINNER\u2019S CHAIR\nREMAINS EMPTY\nAT NOBEL EVENT",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Liu Xiaobo",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Nobel Prizes",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "China",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Human Rights and Human Rights Violations",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-12-10T08:33:31+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Europe",
+    "byline": {
+      "original": "By SARAH LYALL",
+      "person": [
+        {
+          "firstname": "Sarah",
+          "middlename": null,
+          "lastname": "LYALL",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5421365c38f0d81f7a601293",
+    "word_count": 1236,
+    "score": 1.0,
+    "uri": "nyt://article/d9d653e0-d721-5e19-a43c-53ed641770ba"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2010/12/10/business/10shop.html",
+    "snippet": "More consumers are shunning credit cards for holiday shopping and using cash to keep themselves on budget.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/12/10/business/Shopjp/Shopjp-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/12/10/business/Shopjp/Shopjp-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "On Christmas Shopping Lists, No Credit Slips",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "On Christmas Shopping Lists, No Credit Slips",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Credit Cards",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Consumer Behavior",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Shopping and Retail",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Credit and Debt",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Christmas",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Gifts",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Personal Finances",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Black Friday (Shopping)",
+        "rank": 8,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-12-10T01:47:58+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By STEPHANIE CLIFFORD",
+      "person": [
+        {
+          "firstname": "Stephanie",
+          "middlename": null,
+          "lastname": "CLIFFORD",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5421345e38f0d81f7a601268",
+    "word_count": 1124,
+    "score": 1.0,
+    "uri": "nyt://article/22554c42-748b-5442-8aba-913bd3e5ad8c"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2010/12/12/realestate/12cov.html",
+    "snippet": "It\u2019s time for the building holiday party. That is, if the seasonal lobby d\u00e9cor hasn\u2019t started a war among the neighbors.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/12/12/realestate/12COVER1_span/12COVER1_span-articleLarge.jpg",
+        "height": 344,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2010/12/12/realestate/12COVER1_span/12COVER1_span-articleLarge.jpg",
+          "xlargeheight": 344
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/12/12/realestate/12COVER1_span/12COVER1_span-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/12/12/realestate/12COVER1_span/12COVER1_span-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "The Tinseling of the Lobby",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Tinsel Town",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "New York City",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Housing and Real Estate",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Christmas",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Hanukkah",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Christmas Trees",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-12-10T21:38:26+0000",
+    "document_type": "article",
+    "new_desk": "RealEstate",
+    "byline": {
+      "original": "By VIVIAN S. TOY",
+      "person": [
+        {
+          "firstname": "Vivian",
+          "middlename": "S.",
+          "lastname": "TOY",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "54212e5838f0d81f7a6011da",
+    "word_count": 1808,
+    "score": 1.0,
+    "uri": "nyt://article/c1e40073-f0c5-5c55-8455-ef37106d7115"
+  }
+]

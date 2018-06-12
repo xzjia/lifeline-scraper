@@ -1,0 +1,760 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2012/02/23/garden/the-freedom-and-perils-of-living-alone.html",
+    "snippet": "Living alone means freedom to come and go and space and solitude to recharge. It can also unleash eccentricities.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/02/23/garden/23ALONE_SPAN/23ALONE_SPAN-articleLarge.jpg",
+        "height": 380,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2012/02/23/garden/23ALONE_SPAN/23ALONE_SPAN-articleLarge.jpg",
+          "xlargeheight": 380
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/02/23/garden/23ALONE_SPAN/23ALONE_SPAN-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2012/02/23/garden/23ALONE_SPAN/23ALONE_SPAN-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "One Is the Quirkiest Number",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "One Is the Quirkiest Number",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Single Persons",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Social Conditions and Trends",
+        "rank": 2,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2012-02-23T00:09:56+0000",
+    "document_type": "article",
+    "new_desk": "Home",
+    "byline": {
+      "original": "By STEVEN KURUTZ",
+      "person": [
+        {
+          "firstname": "Steven",
+          "middlename": null,
+          "lastname": "KURUTZ",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "51cb3f057e0d9c0839d2c629",
+    "word_count": 1731,
+    "score": 1.0,
+    "uri": "nyt://article/7dde65a4-8196-54fe-9643-2259bfb7fc62"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2012/02/23/us/politics/cnn-arizona-republican-presidential-debate.html",
+    "snippet": "Mitt Romney tried to regain his lead in the fight for the Republican presidential nomination, assailing the voting record of Rick Santorum in a fiercely combative exchange.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/02/23/us/sub2-jp23debate1/sub2-jp23debate1-articleLarge.jpg",
+        "height": 371,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2012/02/23/us/sub2-jp23debate1/sub2-jp23debate1-articleLarge.jpg",
+          "xlargeheight": 371
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/02/23/us/sub2-jp23debate1/sub2-jp23debate1-thumbStandard-v2.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2012/02/23/us/sub2-jp23debate1/sub2-jp23debate1-thumbStandard-v2.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Romney, Seeking Traction, Duels With Santorum",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Romney, Seeking Traction, Duels With Santorum",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Romney, Mitt",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Santorum, Rick",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Gingrich, Newt",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Paul, Ron",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Republican Party",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Presidential Election of 2012",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Politics and Government",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Debates (Political)",
+        "rank": 8,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2012-02-23T02:21:18+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "section_name": "Politics",
+    "byline": {
+      "original": "By JEFF ZELENY and JIM RUTENBERG",
+      "person": [
+        {
+          "firstname": "Jeff",
+          "middlename": null,
+          "lastname": "ZELENY",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Jim",
+          "middlename": null,
+          "lastname": "RUTENBERG",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "53f3e09038f0d857ea2d084b",
+    "word_count": 1219,
+    "score": 1.0,
+    "uri": "nyt://article/302ac2ba-bb71-5e49-abd6-e78d86c6be60"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2012/02/23/technology/google-glasses-will-be-powered-by-android.html",
+    "snippet": "Google will start selling eyeglasses that will project information, entertainment and ads onto the lenses, but questions have been raised on how privacy will be regulated.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/02/23/business/GOOGLE/GOOGLE-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2012/02/23/business/GOOGLE/GOOGLE-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Behind the Google Goggles, Virtual Reality",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Behind the Google Goggles, Virtual Reality",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "organizations",
+        "value": "Google Inc",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Virtual Reality (Computers)",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "New Models, Design and Products",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Android (Operating System)",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Computer Vision",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Privacy",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Advertising and Marketing",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Eyeglasses",
+        "rank": 8,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2012-02-23T01:30:10+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By NICK BILTON",
+      "person": [
+        {
+          "firstname": "Nick",
+          "middlename": null,
+          "lastname": "BILTON",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "51c1dbef7e0d9c0839d29bbf",
+    "word_count": 638,
+    "score": 1.0,
+    "uri": "nyt://article/fd952767-b7eb-5318-9551-a01c35ddb022"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2012/02/23/nyregion/indian-tribes-make-own-cigarettes-to-avoid-ny-tax.html",
+    "snippet": "A long battle by New York State to collect taxes on cigarettes resold on Indian land has led tribes to make and sell their own cigarettes, which they argue are exempt from the tax.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/02/23/nyregion/TOBACCO1/TOBACCO1-articleLarge.jpg",
+        "height": 330,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2012/02/23/nyregion/TOBACCO1/TOBACCO1-articleLarge.jpg",
+          "xlargeheight": 330
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/02/23/nyregion/TOBACCO1/TOBACCO1-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2012/02/23/nyregion/TOBACCO1/TOBACCO1-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "In Tax Fight, Tribes Make, and Sell, Cigarettes",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "In Tax Fight, Tribes Make, and Sell, Cigarettes",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Sales and Excise Taxes",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Smoking and Tobacco",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Oneida Indians",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Onondaga Nation",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Seneca Indians",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Cayuga Indians",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "New York State",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Native Americans",
+        "rank": 8,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2012-02-23T02:12:40+0000",
+    "document_type": "article",
+    "new_desk": "Metro",
+    "byline": {
+      "original": "By THOMAS KAPLAN",
+      "person": [
+        {
+          "firstname": "Thomas",
+          "middlename": null,
+          "lastname": "KAPLAN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "53f3e10038f0d857ea2d0854",
+    "word_count": 1251,
+    "score": 1.0,
+    "uri": "nyt://article/585ee2de-b9b5-54cb-8eff-039557f98307"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2012/02/26/travel/nogales-mexico-a-few-steps-and-a-whole-world-away.html",
+    "snippet": "A writer who has crossed many borders finds the one between Nogales, Ariz., and Mexico to be the oddest frontier of all.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/02/26/travel/26NOGALES_395/26NOGALES_395-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2012/02/26/travel/26NOGALES_395/26NOGALES_395-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "The Country Just Over the Fence",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "The Country Just Over the Fence",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Travel and Vacations",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Mexico",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Nogales (Ariz)",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Fences",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2012-02-23T22:05:45+0000",
+    "document_type": "article",
+    "new_desk": "Travel",
+    "byline": {
+      "original": "By PAUL THEROUX",
+      "person": [
+        {
+          "firstname": "Paul",
+          "middlename": null,
+          "lastname": "THEROUX",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "515dace3cf28d0219d002a31",
+    "word_count": 2912,
+    "score": 1.0,
+    "uri": "nyt://article/5f7afa00-fcdd-5a20-a582-089e2e511d4c"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2012/02/23/business/tax-break-for-manufacturers-offset-elsewhere.html",
+    "snippet": "The Obama administration\u2019s proposal to extend tax breaks to manufacturers would result in other companies losing some lucrative tax benefits.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/02/23/business/TAX/TAX-articleLarge.jpg",
+        "height": 370,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2012/02/23/business/TAX/TAX-articleLarge.jpg",
+          "xlargeheight": 370
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Winners and Losers From a Tax Proposal",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Winners and Losers From a Tax Proposal",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Tax Credits, Deductions and Exemptions",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Corporations",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Corporate Taxes",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Economy",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Politics and Government",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Factories and Manufacturing",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Obama, Barack",
+        "rank": 7,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2012-02-23T02:35:33+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By BINYAMIN APPELBAUM",
+      "person": [
+        {
+          "firstname": "Binyamin",
+          "middlename": null,
+          "lastname": "APPELBAUM",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "53f3e08038f0d857ea2d084a",
+    "word_count": 941,
+    "score": 1.0,
+    "uri": "nyt://article/7e30781b-5d67-570e-8df0-8155fd922196"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2012/02/24/sports/baseball/braun-wins-appeal-on-positive-drug-test-and-will-avoid-suspension.html",
+    "snippet": "The Milwaukee Brewer slugger Ryan Braun becomes the first player known to successfully have a positive test result overturned and will not be suspended for 50 games.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/02/24/sports/24braun_337-2/24braun_337-2-thumbStandard-v2.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2012/02/24/sports/24braun_337-2/24braun_337-2-thumbStandard-v2.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Braun Wins Appeal on Positive Drug Test and Avoids Suspension",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Star Player First To Win Appeal On a Drug Test",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Braun, Ryan",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Milwaukee Brewers",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Baseball",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Tests (Drug Use)",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Steroids",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Doping (Sports)",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2012-02-23T22:22:46+0000",
+    "document_type": "article",
+    "new_desk": "Sports",
+    "section_name": "Baseball",
+    "byline": {
+      "original": "By KEN BELSON and MICHAEL S. SCHMIDT",
+      "person": [
+        {
+          "firstname": "Ken",
+          "middlename": null,
+          "lastname": "BELSON",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Michael",
+          "middlename": "S.",
+          "lastname": "SCHMIDT",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "515dac80cf28d0219d00290d",
+    "word_count": 1175,
+    "score": 1.0,
+    "uri": "nyt://article/7c0d8139-e218-5e81-a60f-e9864a04d0e9"
+  }
+]

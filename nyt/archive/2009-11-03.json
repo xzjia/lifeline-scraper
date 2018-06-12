@@ -1,0 +1,541 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2009/11/04/nyregion/04mayor.html",
+    "snippet": "Michael R. Bloomberg\u2019s repeal of term limits and his campaign spending may have undermined his bid.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "Bloomberg Wins 3rd Term as Mayor in Unexpectedly Close Race",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Breaking a Streak, Virginia Elects a Republican Governor",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Bloomberg, Michael R",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Thompson, William C Jr",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Elections",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "New York City",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-11-03T19:26:57+0000",
+    "document_type": "article",
+    "new_desk": "Metro",
+    "byline": {
+      "original": "By DAVID W. CHEN and MICHAEL BARBARO",
+      "person": [
+        {
+          "firstname": "David",
+          "middlename": "W.",
+          "lastname": "CHEN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Michael",
+          "middlename": null,
+          "lastname": "BARBARO",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5400bb0738f0d841b2f387a9",
+    "word_count": 1159,
+    "score": 1.0,
+    "uri": "nyt://article/8af9cfa5-39a3-58ed-a3ba-cc50199d5357"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/11/03/your-money/credit-scores/03scores.html",
+    "snippet": "The government is trying to counter what it says are ads that trick consumers into paying for credit monitoring.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/11/03/business/03scores_CA0/articleLarge.jpg",
+        "height": 356,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/11/03/business/03scores_CA0/articleLarge.jpg",
+          "xlargeheight": 356
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "A Free Credit Score Followed by a Monthly Bill",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "A Free Credit Score Followed by a Monthly Bill",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Personal Finances",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Credit Scores",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Credit",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Credit and Money Cards",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Law and Legislation",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Federal Trade Commission",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Experian Group Ltd",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Equifax Incorporated",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "TransUnion",
+        "rank": 9,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "AnnualCreditReport.com",
+        "rank": 10,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-11-03T02:20:28+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "section_name": "Credit Scores",
+    "byline": {
+      "original": "By RON LIEBER",
+      "person": [
+        {
+          "firstname": "Ron",
+          "middlename": null,
+          "lastname": "LIEBER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "53e5162238f0d83b81250f66",
+    "word_count": 1912,
+    "score": 1.0,
+    "uri": "nyt://article/ef9a6452-f4ab-59ec-8bbd-00882df350d0"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/11/03/sports/baseball/03forgive.html",
+    "snippet": "Aided by his bat and an apology, Alex Rodriguez is ending the season not as a former steroids user but as a hero.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/11/03/sports/03forgive01/articleLarge.jpg",
+        "height": 340,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/11/03/sports/03forgive01/articleLarge.jpg",
+          "xlargeheight": 340
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/11/03/sports/03forgive01/thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/11/03/sports/03forgive01/thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "With Series Fever, Steroids Issue Fades to the Past",
+      "kicker": "Analysis",
+      "content_kicker": "Analysis",
+      "print_headline": "In Yankees Slugger, a Lesson for Redemption in the Steroid Era",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Baseball",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Steroids",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Rodriguez, Alex",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "McGwire, Mark",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Ortiz, David",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Pettitte, Andy",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Ramirez, Manny",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Bonds, Barry",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Clemens, Roger",
+        "rank": 9,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "McNamee, Brian",
+        "rank": 10,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Vincent, Fay",
+        "rank": 11,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Rose, Pete",
+        "rank": 12,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-11-03T00:03:39+0000",
+    "document_type": "article",
+    "new_desk": "Sports",
+    "section_name": "Baseball",
+    "byline": {
+      "original": "By HARVEY ARATON",
+      "person": [
+        {
+          "firstname": "Harvey",
+          "middlename": null,
+          "lastname": "ARATON",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5457fa7b38f0d8086c45daf8",
+    "word_count": 1108,
+    "score": 1.0,
+    "uri": "nyt://article/bebbe326-9530-565b-a90e-98a5fecc807f"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/11/03/business/03sick.html",
+    "snippet": "About 40 percent of private-sector workers do not receive paid sick days, and many cannot afford to miss work.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "Lack of Paid Sick Days May Worsen Flu Pandemic",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "At Work With the Flu",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Swine Influenza",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Paid Time Off",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Epidemics",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Medicine and Health",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Health Insurance and Managed Care",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Centers for Disease Control and Prevention",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "American Public Health Assn",
+        "rank": 7,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-11-03T02:07:50+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By STEVEN GREENHOUSE",
+      "person": [
+        {
+          "firstname": "Steven",
+          "middlename": null,
+          "lastname": "GREENHOUSE",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "545801f438f0d8086c45dba0",
+    "word_count": 1377,
+    "score": 1.0,
+    "uri": "nyt://article/64c1dfc4-cee1-5fee-bf7d-b2e3cc0c79e3"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/11/03/business/energy-environment/03gore.html",
+    "snippet": "Al Gore says he is putting his money where his mouth is by investing in green technology, but critics say he\u2019s profiteering.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/11/03/us/03gore_CA0/thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/11/03/us/03gore_CA0/thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Gore\u2019s Dual Role: Advocate and Investor",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Spotlight on Gore\u2019s Dual Role As an Advocate and Investor",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Gore, Al",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Venture Capital",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Ethics",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Alternative and Renewable Energy",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Silver Spring Networks",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Kleiner Perkins Caufield & Byers",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Energy Department",
+        "rank": 7,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-11-03T01:41:19+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "section_name": "Energy & Environment ",
+    "byline": {
+      "original": "By JOHN M. BRODER",
+      "person": [
+        {
+          "firstname": "John",
+          "middlename": null,
+          "lastname": null,
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5458018538f0d8086c45db96",
+    "word_count": 1412,
+    "score": 1.0,
+    "uri": "nyt://article/453cf821-0adb-57cb-a882-2d3c6f3a52ff"
+  }
+]

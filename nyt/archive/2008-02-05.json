@@ -1,0 +1,87 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2008/02/05/business/05spend.html",
+    "snippet": "Analysts say a shift toward thrift could have huge implications for an economy driven largely by consumer spending.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/02/05/business/20080205_SPEND_GRAPHIC.190.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2008/02/05/business/20080205_SPEND_GRAPHIC.190.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Economy Fitful, Americans Start to Pay as They Go",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Economy Fitful, Americans Start To Pay as They Go",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Consumer Behavior",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Credit and Money Cards",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Income",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Economy",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2008-02-05T05:00:00+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By PETER S. GOODMAN",
+      "person": [
+        {
+          "firstname": "Peter",
+          "middlename": "S.",
+          "lastname": "GOODMAN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "547d9c2738f0d822abda2802",
+    "word_count": 1539,
+    "score": 1.0,
+    "uri": "nyt://article/b516d5fc-0067-5586-81f5-c41812cf9062"
+  }
+]

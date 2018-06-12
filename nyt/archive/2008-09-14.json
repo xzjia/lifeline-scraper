@@ -1,0 +1,207 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2008/09/15/books/15kaku.html",
+    "snippet": "David Foster Wallace\u2019s strobe-lit portraits of millennial America were infused with humor and fervor and verve.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/09/15/arts/Wallace600.jpg",
+        "height": 400,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2008/09/15/arts/Wallace600.jpg",
+          "xlargeheight": 400
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/09/15/arts/Wallace75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2008/09/15/arts/Wallace75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Exuberant Riffs on a Land Run Amok",
+      "kicker": "An Appreciation",
+      "content_kicker": "An Appreciation",
+      "print_headline": "Exuberant Riffs on a Land Run Amok",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Wallace, David Foster",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Writing and Writers",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Books and Literature",
+        "rank": 3,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2008-09-14T14:36:18+0000",
+    "document_type": "article",
+    "new_desk": "Culture",
+    "byline": {
+      "original": "By MICHIKO KAKUTANI",
+      "person": [
+        {
+          "firstname": "Michiko",
+          "middlename": null,
+          "lastname": "KAKUTANI",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "An Appraisal",
+    "_id": "5474d6e038f0d8119c6aeea6",
+    "word_count": 1134,
+    "score": 1.0,
+    "uri": "nyt://article/1487e783-1b3b-5cf8-a2fc-7da7c719b71b"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2008/09/15/business/15lehman.html",
+    "snippet": "Lehman Brothers filed for bankruptcy protection, while Merrill Lynch agreed to sell itself to Bank of America.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/09/15/business/15lehman-75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2008/09/15/business/15lehman-75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Lehman Files for Bankruptcy; Merrill Is Sold",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Failing to Find a Buyer, Lehman Brothers Fades Into Oblivion",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "organizations",
+        "value": "Lehman Brothers Holdings Inc",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Banks and Banking",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Merrill Lynch & Co",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Bank of America Corp",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "American International Group",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Federal Reserve System",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Economy",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Bankruptcies",
+        "rank": 8,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2008-09-14T17:45:23+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By ANDREW ROSS SORKIN",
+      "person": [
+        {
+          "firstname": "Andrew",
+          "middlename": "Ross",
+          "lastname": "SORKIN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5474d6ce38f0d8119c6aeea2",
+    "word_count": 1817,
+    "score": 1.0,
+    "uri": "nyt://article/0a498ca7-3839-5551-8b3b-482a8f20e413"
+  }
+]

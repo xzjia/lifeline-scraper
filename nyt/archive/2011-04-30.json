@@ -1,0 +1,247 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2011/05/01/world/africa/01libya.html",
+    "snippet": "Col. Muammar el-Qaddafi survived an airstrike that killed his youngest son and three grandchildren, a spokesman said Sunday, in a sharp intensification of the NATO campaign against the Libyan leader.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/05/01/world/01libya13_span/Libya-articleLarge.jpg",
+        "height": 350,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2011/05/01/world/01libya13_span/Libya-articleLarge.jpg",
+          "xlargeheight": 350
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/05/01/world/01libya13_span/Libya-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/05/01/world/01libya13_span/Libya-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Qaddafi Is Said to Survive NATO Airstrike That Kills Son",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "QADDAFI SURVIVES A NATO AIRSTRIKE THAT KILLS A SON",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Qaddafi, Muammar el-",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Libya",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Middle East and North Africa Unrest (2010- )",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "North Atlantic Treaty Organization",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-04-30T13:17:21+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Africa",
+    "byline": {
+      "original": "By KAREEM FAHIM and DAVID D. KIRKPATRICK",
+      "person": [
+        {
+          "firstname": "Kareem",
+          "middlename": null,
+          "lastname": "FAHIM",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "David",
+          "middlename": null,
+          "lastname": null,
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5400b14138f0d841b2f383eb",
+    "word_count": 1266,
+    "score": 1.0,
+    "uri": "nyt://article/a07c4c89-5d0d-59f9-95ce-14480288b263"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/05/01/business/law-school-grants.html",
+    "snippet": "Merit scholarships help law schools enhance their cachet, but grading curves often make it impossible for students to keep the grants.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/05/01/business/LEGAL/LEGAL-articleLarge.jpg",
+        "height": 415,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2011/05/01/business/LEGAL/LEGAL-articleLarge.jpg",
+          "xlargeheight": 415
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/05/01/business/LEGAL/LEGAL-thumbStandard-v2.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/05/01/business/LEGAL/LEGAL-thumbStandard-v2.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Law Students Lose the Grant Game as Schools Win",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Behind the Curve",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Law Schools",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Golden Gate University",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Grading of Students",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Scholarships and Fellowships",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Tuition",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "US News & World Report",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Chicago-Kent College of Law",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Baylor University",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Wayne State University",
+        "rank": 9,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-04-30T17:44:08+0000",
+    "document_type": "article",
+    "new_desk": "SundayBusiness",
+    "byline": {
+      "original": "By DAVID SEGAL",
+      "person": [
+        {
+          "firstname": "David",
+          "middlename": null,
+          "lastname": "SEGAL",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "540360e738f0d80e250f3dc9",
+    "word_count": 3883,
+    "score": 1.0,
+    "uri": "nyt://article/72744091-72dd-5e8f-a633-90926957c94f"
+  }
+]

@@ -1,0 +1,149 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2013/07/14/us/george-zimmerman-verdict-trayvon-martin.html",
+    "snippet": "A six-woman jury accepted self-defense as justification for the death of Trayvon Martin, 17, by George Zimmerman in a Florida shooting that ignited a national debate on racial profiling and civil rights.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/07/13/us/20130714_ZIMMERMAN_337-slide-UCJ9/20130714_ZIMMERMAN_337-slide-UCJ9-articleLarge-v2.jpg",
+        "height": 400,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2013/07/13/us/20130714_ZIMMERMAN_337-slide-UCJ9/20130714_ZIMMERMAN_337-slide-UCJ9-articleLarge-v2.jpg",
+          "xlargeheight": 400
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/07/13/us/20130714_ZIMMERMAN_337-slide-UCJ9/20130714_ZIMMERMAN_337-slide-UCJ9-thumbWide-v2.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2013/07/13/us/20130714_ZIMMERMAN_337-slide-UCJ9/20130714_ZIMMERMAN_337-slide-UCJ9-thumbWide-v2.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/07/13/us/20130714_ZIMMERMAN_337-slide-UCJ9/20130714_ZIMMERMAN_337-slide-UCJ9-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2013/07/13/us/20130714_ZIMMERMAN_337-slide-UCJ9/20130714_ZIMMERMAN_337-slide-UCJ9-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Zimmerman Is Acquitted in Trayvon Martin Killing",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Zimmerman Is Acquitted In Trayvon Martin Killing",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Zimmerman, George",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Martin, Trayvon",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Decisions and Verdicts",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Murders and Attempted Murders",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Self-Defense",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Racial Profiling",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Sanford (Fla)",
+        "rank": 7,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2013-07-14T02:09:43+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "byline": {
+      "original": "By LIZETTE ALVAREZ and CARA BUCKLEY",
+      "person": [
+        {
+          "firstname": "Lizette",
+          "middlename": null,
+          "lastname": "ALVAREZ",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Cara",
+          "middlename": null,
+          "lastname": "BUCKLEY",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "51e208697e0d9c0839d2fa2e",
+    "word_count": 2083,
+    "score": 1.0,
+    "uri": "nyt://article/e0e24fb3-da2d-5bd5-acc5-f06763822ad5"
+  }
+]

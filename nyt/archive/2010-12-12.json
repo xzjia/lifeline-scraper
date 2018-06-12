@@ -1,0 +1,399 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2010/12/13/business/13credit.html",
+    "snippet": "Lenders are again offering credit to the riskier borrowers they once shunned, but they are choosing their prospects carefully and setting terms.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/12/13/business/jp-credit/jp-credit-articleLarge.jpg",
+        "height": 352,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2010/12/13/business/jp-credit/jp-credit-articleLarge.jpg",
+          "xlargeheight": 352
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/12/13/business/jp-credit/jp-credit-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/12/13/business/jp-credit/jp-credit-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Risky Borrowers Find Credit Again, at a Price",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "LENDERS RETURN TO BIG MAILINGS ON CREDIT CARDS",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Credit Cards",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Subprime Mortgage Crisis",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Credit Scores",
+        "rank": 3,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-12-12T23:43:00+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By ERIC DASH",
+      "person": [
+        {
+          "firstname": "Eric",
+          "middlename": null,
+          "lastname": "DASH",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5421465738f0d81f7a6013fe",
+    "word_count": 1192,
+    "score": 1.0,
+    "uri": "nyt://article/1d2d6805-cda8-529e-bd32-7cec3a749912"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2010/12/12/business/12advantage.html",
+    "snippet": "In theory, clearinghouses exist to safeguard the integrity of the multitrillion-dollar derivatives market. In practice, they also defend big banks\u2019 dominance.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/12/12/us/12Advantage-2/Jp-Advantage-2-articleLarge.jpg",
+        "height": 350,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2010/12/12/us/12Advantage-2/Jp-Advantage-2-articleLarge.jpg",
+          "xlargeheight": 350
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/12/12/us/12Advantage-2/Jp-Advantage-2-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/12/12/us/12Advantage-2/Jp-Advantage-2-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "A Secretive Banking Elite Rules Trading in Derivatives",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "HOUSE ADVANTAGE; A Secretive Banking Elite Rules Derivatives Trading",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Derivatives (Financial Instruments)",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Banking and Financial Institutions",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Futures and Options Trading",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Regulation and Deregulation of Industry",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Dodd-Frank Wall Street Reform and Consumer Protection Act (2010)",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Commodities",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Financial Brokers",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Commodity Futures Trading Commission",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Gensler, Gary",
+        "rank": 9,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Griffin, Kenneth C",
+        "rank": 10,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "JPMorgan Chase & Company",
+        "rank": 11,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Morgan Stanley",
+        "rank": 12,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Deutsche Bank AG",
+        "rank": 13,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Bank of New York Mellon Corp",
+        "rank": 14,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "UBS AG",
+        "rank": 15,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Barclays PLC",
+        "rank": 16,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Credit Suisse Group A.G",
+        "rank": 17,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Goldman Sachs Group Inc",
+        "rank": 18,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Bank of America Corp",
+        "rank": 19,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Citigroup Inc",
+        "rank": 20,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-12-12T02:22:35+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By LOUISE STORY",
+      "person": [
+        {
+          "firstname": "Louise",
+          "middlename": null,
+          "lastname": "STORY",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "540d45ef38f0d85bf25155c2",
+    "word_count": 3539,
+    "score": 1.0,
+    "uri": "nyt://article/2b4823b1-d5b1-528c-87a3-e88009bb5773"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2010/12/12/us/politics/12biden.html",
+    "snippet": "Halfway through a term in which the president has relied mostly on counsel from an inner circle, Vice President Joseph R. Biden Jr.\u2019s influence is growing.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/12/12/us/12Biden-span/Biden-articleLarge.jpg",
+        "height": 350,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2010/12/12/us/12Biden-span/Biden-articleLarge.jpg",
+          "xlargeheight": 350
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/12/12/us/12Biden-span/Biden-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/12/12/us/12Biden-span/Biden-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "As the Ground Shifts, Biden Plays a Bigger Role",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "As the Ground Shifts, Biden Plays a Bigger Role",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Biden, Joseph R Jr",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Obama, Barack",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Politics and Government",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Democratic Party",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-12-12T02:22:49+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "section_name": "Politics",
+    "byline": {
+      "original": "By HELENE COOPER",
+      "person": [
+        {
+          "firstname": "Helene",
+          "middlename": null,
+          "lastname": "COOPER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "542142ed38f0d81f7a6013ae",
+    "word_count": 1546,
+    "score": 1.0,
+    "uri": "nyt://article/133bde94-4110-575b-932d-5653c112f13e"
+  }
+]

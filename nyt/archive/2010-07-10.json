@@ -1,0 +1,482 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2010/07/11/science/11robots.html",
+    "snippet": "Computer scientists are developing machines that can teach people simple skills, like household tasks and vocabulary.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/07/11/us/jpROBOT2/jpROBOT2-articleLarge.jpg",
+        "height": 340,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2010/07/11/us/jpROBOT2/jpROBOT2-articleLarge.jpg",
+          "xlargeheight": 340
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/07/11/us/jpROBOT2/jpROBOT2-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/07/11/us/jpROBOT2/jpROBOT2-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Students, Meet Your New Teacher, Mr. Robot",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Students, Meet Your New Teacher, Mr. Robot",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Robots",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Education and Schools",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Teachers and School Employees",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Artificial Intelligence",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-07-10T21:49:45+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "byline": {
+      "original": "By BENEDICT CAREY and JOHN MARKOFF",
+      "person": [
+        {
+          "firstname": "Benedict",
+          "middlename": null,
+          "lastname": "CAREY",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "John",
+          "middlename": null,
+          "lastname": "MARKOFF",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "54185e4638f0d851fd3a94f9",
+    "word_count": 2550,
+    "score": 1.0,
+    "uri": "nyt://article/549e0a16-6d38-5bf7-8cfd-d1d4cedcce1d"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2010/07/11/world/americas/11haiti.html",
+    "snippet": "Six months after an earthquake, only 28,000 of 1.5 million displaced Haitians have new homes, and Port-au-Prince remains a tableau of life in the ruins.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/07/11/world/11haiti-span/11haiti-span-articleLarge.jpg",
+        "height": 361,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2010/07/11/world/11haiti-span/11haiti-span-articleLarge.jpg",
+          "xlargeheight": 361
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/07/11/world/11haiti-span/11haiti-span-thumbStandard-v3.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/07/11/world/11haiti-span/11haiti-span-thumbStandard-v3.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "In Haiti, the Displaced Are Left Clinging to the Edge",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Haiti\u2019s Displaced, Left Clinging to the Edge",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Haiti",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Earthquakes",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Refugees and Displaced Persons",
+        "rank": 3,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-07-10T22:04:00+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Americas",
+    "byline": {
+      "original": "By DEBORAH SONTAG",
+      "person": [
+        {
+          "firstname": "Deborah",
+          "middlename": null,
+          "lastname": "SONTAG",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "541864b538f0d86afc99ff77",
+    "word_count": 3422,
+    "score": 1.0,
+    "uri": "nyt://article/085fa548-aeea-5aea-81af-647c02531e8c"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2010/07/11/business/11rebound.html",
+    "snippet": "While much of the country remains fixated on the bleak employment picture, hiring is beginning to pick up in the place that led the economy into recession.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "Wall St. Hiring in Anticipation of an Economic Recovery",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Wall St. Hiring In Anticipation Of a Recovery",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Banks and Banking",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Hiring and Promotion",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Economy",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Economic Conditions and Trends",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Investment Banking",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-07-10T16:49:45+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By NELSON D. SCHWARTZ",
+      "person": [
+        {
+          "firstname": "Nelson",
+          "middlename": null,
+          "lastname": null,
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5418645938f0d86afc99ff6f",
+    "word_count": 1260,
+    "score": 1.0,
+    "uri": "nyt://article/b3906f04-eea3-5be0-ac39-908d8e4b657d"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2010/07/11/nyregion/11ritual.html",
+    "snippet": "For five women in Atlantic Beach, the sun, tanning lotion and brine-seasoned air lend a special flavor to mah-jongg.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/07/11/nyregion/RITUAL-SPAN/RITUAL-SPAN-articleLarge.jpg",
+        "height": 320,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2010/07/11/nyregion/RITUAL-SPAN/RITUAL-SPAN-articleLarge.jpg",
+          "xlargeheight": 320
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/07/11/nyregion/RITUAL-SPAN/RITUAL-SPAN-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/07/11/nyregion/RITUAL-SPAN/RITUAL-SPAN-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "At These Cabanas, \u2018The Tiles That Bind\u2019",
+      "kicker": "Summer Rituals | Mah-Jongg",
+      "content_kicker": "Summer Rituals | Mah-Jongg",
+      "print_headline": "At These Cabanas, \u2018The Tiles That Bind\u2019",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Mah-Jongg (Game)",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Women and Girls",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Atlantic Beach (NY)",
+        "rank": 3,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-07-10T00:14:57+0000",
+    "document_type": "article",
+    "new_desk": "Metro",
+    "byline": {
+      "original": "By JOSEPH BERGER",
+      "person": [
+        {
+          "firstname": "Joseph",
+          "middlename": null,
+          "lastname": "BERGER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5418565238f0d851fd3a943a",
+    "word_count": 1193,
+    "score": 1.0,
+    "uri": "nyt://article/08822b7e-298e-5590-9e43-9dda0863b64f"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2010/07/10/us/10enforce.html",
+    "snippet": "The Obama administration has started sending federal agents to audit records of thousands of companies, forcing businesses to fire every illegal immigrant. ",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/07/10/us/jp-enforce-1/jp-enforce-1-articleLarge.jpg",
+        "height": 350,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2010/07/10/us/jp-enforce-1/jp-enforce-1-articleLarge.jpg",
+          "xlargeheight": 350
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/07/10/us/jp-enforce-1/jp-enforce-1-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/07/10/us/jp-enforce-1/jp-enforce-1-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Illegal Workers Swept From Jobs in \u2018Silent Raids\u2019",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "ILLEGAL WORKERS SWEPT FROM JOBS IN \u2018SILENT RAIDS\u2019",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Illegal Immigrants",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Migrant and Foreign Workers",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Immigration and Customs Enforcement (US)",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Obama, Barack",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-07-10T01:26:27+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "byline": {
+      "original": "By JULIA PRESTON",
+      "person": [
+        {
+          "firstname": "Julia",
+          "middlename": null,
+          "lastname": "PRESTON",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5418612e38f0d86afc99ff24",
+    "word_count": 1208,
+    "score": 1.0,
+    "uri": "nyt://article/cb309ffe-d1b3-55c0-afeb-041f25493309"
+  }
+]

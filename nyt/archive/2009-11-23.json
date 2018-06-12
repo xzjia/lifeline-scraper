@@ -1,0 +1,581 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2009/11/23/sports/football/23concussion.html",
+    "snippet": "Teams will soon be required to receive advice from neurologists while treating players with brain injuries.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/11/23/sports/23concussion_ready/23concussion_ready-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2009/11/23/sports/23concussion_ready/23concussion_ready-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/11/23/sports/23concussion_ready/thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/11/23/sports/23concussion_ready/thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "N.F.L. to Shift in Its Handling of Concussions",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "N.F.L. to Shift In Its Handling Of Concussions",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "organizations",
+        "value": "National Football League",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Concussions",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Football",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Goodell, Roger",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Sports Medicine",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "House of Representatives",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Johnson, Ted",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Belichick, Bill",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Westbrook, Brian",
+        "rank": 9,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-11-23T02:35:21+0000",
+    "document_type": "article",
+    "new_desk": "Sports",
+    "section_name": "Pro Football",
+    "byline": {
+      "original": "By ALAN SCHWARZ",
+      "person": [
+        {
+          "firstname": "Alan",
+          "middlename": null,
+          "lastname": "SCHWARZ",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5458c28238f0d8086c45ebf9",
+    "word_count": 941,
+    "score": 1.0,
+    "uri": "nyt://article/cc653493-e19b-5637-b8a9-948fa1c9f81c"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/11/23/business/23rates.html",
+    "snippet": "The ultralow interest rates the U.S. has been paying on its colossal debt may not last much longer, and the White House estimates that the tab will exceed $700 billion a year in 2019.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/11/23/business/1123-biz-RATES3refer.gif",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2009/11/23/business/1123-biz-RATES3refer.gif",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/11/23/business/rates.75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/11/23/business/rates.75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Wave of Debt Payments Facing U.S. Government",
+      "kicker": "Payback Time",
+      "content_kicker": "Payback Time",
+      "print_headline": "Federal Government Faces Balloon in Debt Payments",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "National Debt (US)",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Interest Rates",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Economy",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Treasury Department",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Federal Reserve System",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Credit",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Economic Conditions and Trends",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Banks and Banking",
+        "rank": 8,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-11-23T02:01:50+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By EDMUND L. ANDREWS",
+      "person": [
+        {
+          "firstname": "Edmund",
+          "middlename": "L.",
+          "lastname": "ANDREWS",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "Series",
+    "_id": "5442efb838f0d8246e88c852",
+    "word_count": 1329,
+    "score": 1.0,
+    "uri": "nyt://article/e4af2bc5-e712-55f8-aa23-8845302a8ca4"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/11/23/us/23sewer.html",
+    "snippet": "Many sewer systems are overwhelmed, spilling excrement, medical waste and chemicals into waterways.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/11/22/us/sewage1/sewage1-articleLarge-v2.jpg",
+        "height": 388,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/11/22/us/sewage1/sewage1-articleLarge-v2.jpg",
+          "xlargeheight": 388
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/11/22/us/sewage1/sewage1-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2009/11/22/us/sewage1/sewage1-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/11/22/us/sewage1/thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/11/22/us/sewage1/thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "As Sewers Fill, Waste Poisons Waterways",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Sewers at Capacity, Waste Poisons Waterways",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Sewers",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Water Pollution",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Waste Materials and Disposal",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "New York City",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Water",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Rain",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Clean Water Act",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Environment",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Hazardous and Toxic Substances",
+        "rank": 9,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-11-23T02:18:37+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By CHARLES DUHIGG",
+      "person": [
+        {
+          "firstname": "Charles",
+          "middlename": null,
+          "lastname": "DUHIGG",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "Series",
+    "_id": "5244a80038f0d8198973cdd1",
+    "word_count": 1937,
+    "score": 1.0,
+    "uri": "nyt://article/64b8bfd1-f275-5875-b5e7-6a8a9bea4816"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/11/24/world/middleeast/24mideast.html",
+    "snippet": "Hundreds of prisoners could be exchanged for the Israeli soldier Gilad Shalit, and officials said the deal would likely include Marwan Barghouti, a popular West Bank leader.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "Prisoner Swap Appears Near in the Mideast",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Prisoner Swap Appears Near In the Mideast",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Israel",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Shalit, Gilad",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Palestinians",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Hamas",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Prisons and Prisoners",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Barghouti, Marwan",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-11-23T14:00:01+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Middle East",
+    "byline": {
+      "original": "By ETHAN BRONNER",
+      "person": [
+        {
+          "firstname": "Ethan",
+          "middlename": null,
+          "lastname": "BRONNER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5458c67938f0d8086c45ec45",
+    "word_count": 1035,
+    "score": 1.0,
+    "uri": "nyt://article/07e1654f-96c6-56c3-80b3-055daa9e0f43"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/11/24/science/24creature.html",
+    "snippet": "As the world celebrates the 150th anniversary of Charles Darwin\u2019s \u201cOn the Origin of Species,\u201d some facts on snails and snakes that would have intrigued him.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/11/24/science/24creature-1/thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/11/24/science/24creature-1/thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "In Snails and Snakes, Features to Delight Darwin",
+      "kicker": "Remarkable Creatures",
+      "content_kicker": "Remarkable Creatures",
+      "print_headline": "In Snails and Snakes, Features to Delight Darwin",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Evolution",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Darwin, Charles Robert",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Snails",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Snakes",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Science and Technology",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-11-23T22:12:02+0000",
+    "document_type": "article",
+    "new_desk": "Science",
+    "byline": {
+      "original": "By SEAN B. CARROLL\n",
+      "person": [
+        {
+          "firstname": "Sean",
+          "middlename": null,
+          "lastname": null,
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5458cbea38f0d8086c45ecb4",
+    "word_count": 1234,
+    "score": 1.0,
+    "uri": "nyt://article/895cbf4c-6b10-58a6-ba0f-2701948121bc"
+  }
+]

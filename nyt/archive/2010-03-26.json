@@ -1,0 +1,417 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2010/03/28/realestate/28Cov.html",
+    "snippet": "When times improve, renovations break out all over. Hey, you know a good contractor?",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/03/28/realestate/28Cov_span/28Cov_span-articleLarge-v2.jpg",
+        "height": 315,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2010/03/28/realestate/28Cov_span/28Cov_span-articleLarge-v2.jpg",
+          "xlargeheight": 315
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/03/28/realestate/28Cov_span/28Cov_span-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/03/28/realestate/28Cov_span/28Cov_span-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Renovations Make a Comeback",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Spring-for-It Fever",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Housing and Real Estate",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Home Repairs and Improvements",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Restoration and Renovation",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "New York City",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-03-26T20:12:59+0000",
+    "document_type": "article",
+    "new_desk": "RealEstate",
+    "byline": {
+      "original": "By HILARY STOUT",
+      "person": [
+        {
+          "firstname": "Hilary",
+          "middlename": null,
+          "lastname": "STOUT",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "54445ba838f0d82782d9b7d6",
+    "word_count": 1583,
+    "score": 1.0,
+    "uri": "nyt://article/f7729d48-e018-5371-8735-d8e0951f8665"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2010/03/27/business/27modify.html",
+    "snippet": "The new measures are aimed not only at the households that are behind on their mortgages but at the 11 million that simply owe more on their homes than they are worth.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/03/27/business/27modify-cnd/27modify-cnd-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/03/27/business/27modify-cnd/27modify-cnd-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "A Bold U.S. Plan to Help Struggling Homeowners",
+      "kicker": "News Analysis",
+      "content_kicker": "News Analysis",
+      "print_headline": "A Salvage Operation",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Mortgages",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Obama, Barack",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Housing and Real Estate",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Foreclosures",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Subprime Mortgage Crisis",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Federal Housing Administration",
+        "rank": 7,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-03-26T13:49:07+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By DAVID STREITFELD",
+      "person": [
+        {
+          "firstname": "David",
+          "middlename": null,
+          "lastname": "STREITFELD",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5444662a38f0d82782d9b8b4",
+    "word_count": 1131,
+    "score": 1.0,
+    "uri": "nyt://article/13f66dfa-0d59-56be-8483-ba008e5b33e6"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2010/03/27/world/middleeast/27iraq.html",
+    "snippet": "A secular coalition led by Ayad Allawi, a former prime minister, won a wafer-thin victory, but challenges to the outcome could threaten plans to withdraw American troops.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/03/27/world/27iraq_2/27iraq_2-articleLarge.jpg",
+        "height": 330,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2010/03/27/world/27iraq_2/27iraq_2-articleLarge.jpg",
+          "xlargeheight": 330
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/03/27/world/27iraq_2/27iraq_2-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/03/27/world/27iraq_2/27iraq_2-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Allawi Victory in Iraq Sets Up Period of Uncertainty",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "FORMER PREMIER WINS NARROWLY IN IRAQ ELECTION",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Elections",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Iraq",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Election Results",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Allawi, Ayad",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Maliki, Nuri Kamal al-",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-03-26T12:30:45+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Middle East",
+    "byline": {
+      "original": "By TIMOTHY WILLIAMS and ROD NORDLAND",
+      "person": [
+        {
+          "firstname": "Timothy",
+          "middlename": null,
+          "lastname": "WILLIAMS",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Rod",
+          "middlename": null,
+          "lastname": "NORDLAND",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5444658038f0d82782d9b8a5",
+    "word_count": 1172,
+    "score": 1.0,
+    "uri": "nyt://article/4e778ba8-e5c1-53c9-8051-f84379432cb7"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2010/03/26/us/26pot.html",
+    "snippet": "The effort to legalize the drug in California will not dwell on effects or social acceptance, but on economic benefits.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/03/26/us/26pot_CA1_337-395/26pot_CA1-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/03/26/us/26pot_CA1_337-395/26pot_CA1-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Legal-Marijuana Advocates Focus on a New Green",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Latest Legal-Marijuana Push Is All About the Tax Revenue",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Marijuana",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "California",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Taxation",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Budgets and Budgeting",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Referendums",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Law and Legislation",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-03-26T01:13:06+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "byline": {
+      "original": "By JESSE McKINLEY",
+      "person": [
+        {
+          "firstname": "Jesse",
+          "middlename": null,
+          "lastname": "McKINLEY",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "544463d938f0d82782d9b87e",
+    "word_count": 992,
+    "score": 1.0,
+    "uri": "nyt://article/9aa6ebdb-4ee6-5736-86e6-e2418de7275a"
+  }
+]

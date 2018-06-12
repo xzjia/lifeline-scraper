@@ -1,0 +1,128 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2010/09/19/movies/19social.html",
+    "snippet": "The thoroughly modern story of Facebook told by \u201cThe Social Network\u201d is built on ancient themes.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/09/19/arts/19social-span/19social-span-articleLarge.jpg",
+        "height": 375,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2010/09/19/arts/19social-span/19social-span-articleLarge.jpg",
+          "xlargeheight": 375
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/09/19/arts/19social-span/19social-span-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/09/19/arts/19social-span/19social-span-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "A Zillion Friends, and a Few Enemies",
+      "kicker": "Film",
+      "content_kicker": "Film",
+      "print_headline": "A Zillion Friends, and a Few Enemies",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Movies",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Fincher, David",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "New York Film Festival",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Eisenberg, Jesse",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Zuckerberg, Mark E",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Mezrich, Ben",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Timberlake, Justin",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Sorkin, Aaron",
+        "rank": 8,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-09-17T15:19:27+0000",
+    "document_type": "article",
+    "new_desk": "0",
+    "byline": {
+      "original": "By DAVID CARR",
+      "person": [
+        {
+          "firstname": "David",
+          "middlename": null,
+          "lastname": "CARR",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "541a99fc38f0d80959e6cdcd",
+    "word_count": 1644,
+    "score": 1.0,
+    "uri": "nyt://article/16890b6f-5562-5207-81c4-8c57e5b88cb8"
+  }
+]

@@ -1,0 +1,104 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2009/10/05/world/asia/05afghan.html",
+    "snippet": "An attack that killed eight Americans underscored the vulnerability of the kind of isolated bases that the top American commander wants to scale back.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/10/05/world/asia/05afghan.map.inlineb.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2009/10/05/world/asia/05afghan.map.inlineb.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Attacks on Remote Posts Highlight Afghan Risks",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Deadly Attack on Remote Posts Highlights Risks in Afghanistan",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Afghanistan War (2001- )",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Defense and Military Forces",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Taliban",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "McChrystal, Stanley A",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Jones, James L",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-10-04T07:19:24+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Asia Pacific",
+    "byline": {
+      "original": "By SABRINA TAVERNISE and SANGAR RAHIMI",
+      "person": [
+        {
+          "firstname": "Sabrina",
+          "middlename": null,
+          "lastname": "TAVERNISE",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Sangar",
+          "middlename": null,
+          "lastname": "RAHIMI",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5456e33a38f0d86ef22a0e2d",
+    "word_count": 1180,
+    "score": 1.0,
+    "uri": "nyt://article/b4ee6a64-a1ab-53a4-8e84-d8623ef3f8fc"
+  }
+]

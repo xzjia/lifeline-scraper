@@ -1,0 +1,179 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2008/04/01/health/01mind.html",
+    "snippet": "Recent research suggests that the experience of being duped can stir self-reflection in a way few other experiences can.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/04/01/science/01mind.753.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2008/04/01/science/01mind.753.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "April Fool! The Purpose of Pranks",
+      "kicker": "Mind",
+      "content_kicker": "Mind",
+      "print_headline": "April Fool! The Purpose of Pranks",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "April Fool's Day",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Psychology and Psychologists",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Sociology",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Hazing",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2008-04-01T04:00:00+0000",
+    "document_type": "article",
+    "new_desk": "Science",
+    "byline": {
+      "original": "By BENEDICT CAREY",
+      "person": [
+        {
+          "firstname": "Benedict",
+          "middlename": null,
+          "lastname": "CAREY",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "547fbb6938f0d82816287ce1",
+    "word_count": 865,
+    "score": 1.0,
+    "uri": "nyt://article/e86fe0ce-1780-550a-8783-a495858717e2"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2008/04/01/sports/othersports/01athletes.html",
+    "snippet": "Socially conscious athletes are struggling to honor their beliefs while also respecting the purpose of the Games.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/04/01/sports/01athletes.1.75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2008/04/01/sports/01athletes.1.75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Issue for Athletes: Protest on Darfur at Olympics",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Issue for Athletes: Protest on Darfur at Olympics",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Olympic Games (2008)",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "China",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Darfur (Sudan)",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Censorship",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Nike Inc",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2008-04-01T04:00:00+0000",
+    "document_type": "article",
+    "new_desk": "Sports",
+    "section_name": "More Sports",
+    "byline": {
+      "original": "By KATIE THOMAS",
+      "person": [
+        {
+          "firstname": "Katie",
+          "middlename": null,
+          "lastname": "THOMAS",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "547fc2dc38f0d82816287d91",
+    "word_count": 1570,
+    "score": 1.0,
+    "uri": "nyt://article/7a1b6b8c-29c0-5cf2-8d04-2d8297b53506"
+  }
+]

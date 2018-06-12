@@ -1,0 +1,172 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2007/12/21/travel/escapes/21lodges.html",
+    "snippet": "The timbered interiors and giant stone fireplaces of the grand national park lodges seem made for the seasonal trimmings.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2007/12/21/travel/21lodges600.jpg",
+        "height": 300,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2007/12/21/travel/21lodges600.jpg",
+          "xlargeheight": 300
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2007/12/21/travel/21lodges75.1.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2007/12/21/travel/21lodges75.1.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Deck the Parks",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Deck the Parks",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Travel and Vacations",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "National Parks, Monuments and Seashores",
+        "rank": 2,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2007-12-21T05:00:00+0000",
+    "document_type": "article",
+    "new_desk": "Escapes",
+    "section_name": "Escapes",
+    "byline": {
+      "original": "By AUSTIN CONSIDINE",
+      "person": [
+        {
+          "firstname": "Austin",
+          "middlename": null,
+          "lastname": "CONSIDINE",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "547bea8b38f0d813efccb759",
+    "word_count": 1547,
+    "score": 1.0,
+    "uri": "nyt://article/3c256444-99d4-5f69-8f50-86c3f3f8ce15"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2007/12/21/us/21girl.html",
+    "snippet": "News of the pregnancy of Jamie Lynn Spears brought the subject of teenage pregnancy and sex suddenly into the air for mothers and daughters and fathers, too.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "TV\u2019s Perfect Girl Is Pregnant; Real Families Talk",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "TV\u2019s Perfect Girl Is Pregnant; Real Families Say, \u2018Let\u2019s Talk\u2019",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Spears, Jamie Lynn",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Teenage Pregnancy",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Celebrities",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Television",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Birth Control and Family Planning",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Medicine and Health",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2007-12-21T05:00:00+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "byline": {
+      "original": "By SARA RIMER",
+      "person": [
+        {
+          "firstname": "Sara",
+          "middlename": null,
+          "lastname": "RIMER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "547bebb038f0d813efccb768",
+    "word_count": 1049,
+    "score": 1.0,
+    "uri": "nyt://article/7e0d70a9-aa3a-542e-aae7-f1cc8c6b49f4"
+  }
+]

@@ -1,0 +1,720 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2009/10/12/education/12discipline.html",
+    "snippet": "A 6-year-old\u2019s suspension for bringing a camping tool to school spurs a debate over schools\u2019 zero-tolerance policies.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/10/12/us/discipline600.jpg",
+        "height": 356,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/10/12/us/discipline600.jpg",
+          "xlargeheight": 356
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/10/12/us/discipline75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/10/12/us/discipline75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "It\u2019s a Fork, It\u2019s a Spoon, It\u2019s a ... Weapon?",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "It\u2019s a Fork, It\u2019s a Spoon, It\u2019s a ...Weapon? School Suspends Boy, 6",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Education and Schools",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Violence",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Suspensions, Dismissals and Resignations",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Knives",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Delaware",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-10-12T01:33:33+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "byline": {
+      "original": "By IAN URBINA",
+      "person": [
+        {
+          "firstname": "Ian",
+          "middlename": null,
+          "lastname": "URBINA",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "54572b8438f0d86ef22a148f",
+    "word_count": 1148,
+    "score": 1.0,
+    "uri": "nyt://article/c8b7269d-a530-5962-a54e-6953a89ecb21"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/10/13/science/13bridge.html",
+    "snippet": "Carbon- and glass-fiber fabric tubes filled with concrete offer strength, light weight and resistance to corrosion.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/10/12/science/13bridge-600.jpg",
+        "height": 331,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/10/12/science/13bridge-600.jpg",
+          "xlargeheight": 331
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/10/12/science/13bridge-75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/10/12/science/13bridge-75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Building a Bridge of (and to) the Future",
+      "kicker": "Material World",
+      "content_kicker": "Material World",
+      "print_headline": "Building a Bridge Of (and to) the Future",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Bridges and Tunnels",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Engineering and Engineers",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Infrastructure (Public Works)",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Science and Technology",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-10-12T22:02:01+0000",
+    "document_type": "article",
+    "new_desk": "Science",
+    "byline": {
+      "original": "By HENRY FOUNTAIN",
+      "person": [
+        {
+          "firstname": "Henry",
+          "middlename": null,
+          "lastname": "FOUNTAIN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5457317f38f0d86ef22a1512",
+    "word_count": 1138,
+    "score": 1.0,
+    "uri": "nyt://article/ec425977-5d63-554a-936f-9546cc961f63"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/10/12/health/12fertility.html",
+    "snippet": "Intrauterine insemination, a procedure to help women get pregnant, is the major cause of dangerous multiple births of four or more babies.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/10/12/us/12fertility.751.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/10/12/us/12fertility.751.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Grievous Choice on Risky Path to Parenthood",
+      "kicker": "21st Century Babies",
+      "content_kicker": "21st Century Babies",
+      "print_headline": "Grievous Choice on Risky Path to Parenthood",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Multiple Births",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "In Vitro Fertilization",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Pregnancy and Obstetrics",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Artificial Insemination",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Fertility Drugs",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Health Insurance and Managed Care",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Reproduction (Biological)",
+        "rank": 7,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-10-12T03:38:31+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "byline": {
+      "original": "By STEPHANIE SAUL",
+      "person": [
+        {
+          "firstname": "Stephanie",
+          "middlename": null,
+          "lastname": "SAUL",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "Series",
+    "_id": "5400bb9438f0d841b2f387e5",
+    "word_count": 2420,
+    "score": 1.0,
+    "uri": "nyt://article/c086ba40-a83a-56e9-a091-238ab8dcb224"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/10/13/business/economy/13nobel.html",
+    "snippet": "Oliver E. Williamson shared the honor with Elinor Ostrom, the first woman to win the prize for economics.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/10/13/business/12nobel-190a.jpg",
+        "height": 100,
+        "width": 163,
+        "legacy": {
+          "wide": "images/2009/10/13/business/12nobel-190a.jpg",
+          "widewidth": 163,
+          "wideheight": 100
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/10/13/business/nobel75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/10/13/business/nobel75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Two Americans Are Awarded Nobel in Economics",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "2 U.S. Social Scientists Share Nobel in Economics",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Nobel Prizes",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Economic Conditions and Trends",
+        "rank": 2,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-10-12T11:14:15+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "section_name": "Economy",
+    "byline": {
+      "original": "By LOUIS UCHITELLE",
+      "person": [
+        {
+          "firstname": "Louis",
+          "middlename": null,
+          "lastname": "UCHITELLE",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "54572d3038f0d86ef22a14af",
+    "word_count": 890,
+    "score": 1.0,
+    "uri": "nyt://article/4c574877-94e1-53e2-93b5-5049ea9dac64"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/10/13/business/13irs.html",
+    "snippet": "On Oct. 15, people with money in overseas banks must confess to the Internal Revenue Service and pay penalties or hope they will not be caught.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "Tax Evaders Face Choice: Pay or Pray",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Tax Evaders Face Choice: Pay or Pray",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "organizations",
+        "value": "Internal Revenue Service",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Taxation",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Switzerland",
+        "rank": 3,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-10-12T21:36:17+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By LYNNLEY BROWNING",
+      "person": [
+        {
+          "firstname": "Lynnley",
+          "middlename": null,
+          "lastname": "BROWNING",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "545732fe38f0d86ef22a1535",
+    "word_count": 951,
+    "score": 1.0,
+    "uri": "nyt://article/e5df2610-f7c0-587b-8085-2a9562543fc6"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/10/13/world/europe/13pipes.html",
+    "snippet": "With a new pipeline planned along the bed of the Baltic Sea, the Russian natural gas giant Gazprom is driving a wedge between Eastern and Western Europe.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/10/12/world/13pipes-600.jpg",
+        "height": 334,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/10/12/world/13pipes-600.jpg",
+          "xlargeheight": 334
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/10/12/world/13pipes-1631.jpg",
+        "height": 100,
+        "width": 163,
+        "legacy": {
+          "wide": "images/2009/10/12/world/13pipes-1631.jpg",
+          "widewidth": 163,
+          "wideheight": 100
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/10/12/world/13pipes-75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/10/12/world/13pipes-75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Russia Gas Pipeline Heightens East Europe\u2019s Fears",
+      "kicker": "Continental Divide",
+      "content_kicker": "Continental Divide",
+      "print_headline": "EASTERN EUROPE FEARS NEW ERA OF RUSSIAN SWAY",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "organizations",
+        "value": "Gazprom",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Pipelines",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Eastern Europe",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Russia",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Germany",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Natural Gas",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Schroder, Gerhard",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Oil (Petroleum) and Gasoline",
+        "rank": 8,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-10-12T21:55:29+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Europe",
+    "byline": {
+      "original": "By ANDREW E. KRAMER",
+      "person": [
+        {
+          "firstname": "Andrew",
+          "middlename": "E.",
+          "lastname": "KRAMER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "Series",
+    "_id": "5457332438f0d86ef22a1539",
+    "word_count": 1301,
+    "score": 1.0,
+    "uri": "nyt://article/2c601611-0c1c-58eb-9e35-becc5573e34e"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/10/13/science/space/13lhc.html",
+    "snippet": "One of the most bizarre theories in all of science suggests a negative outcome for the superconducting supercollider in Switzerland.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/10/12/science/13lhc-600.jpg",
+        "height": 331,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/10/12/science/13lhc-600.jpg",
+          "xlargeheight": 331
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/10/12/science/13lhc-75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/10/12/science/13lhc-75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "The Collider, the Particle and a Theory About Fate",
+      "kicker": "Essay",
+      "content_kicker": "Essay",
+      "print_headline": "The Collider, the Particle And a Theory About Fate",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Large Hadron Collider",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Particle Accelerators",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "CERN",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Physics",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Science and Technology",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-10-12T20:23:34+0000",
+    "document_type": "article",
+    "new_desk": "Science",
+    "section_name": "Space & Cosmos",
+    "byline": {
+      "original": "By DENNIS OVERBYE",
+      "person": [
+        {
+          "firstname": "Dennis",
+          "middlename": null,
+          "lastname": "OVERBYE",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "54041f3538f0d80e250f48c7",
+    "word_count": 1280,
+    "score": 1.0,
+    "uri": "nyt://article/48d2ce2c-ac0b-5300-a9c8-75de7cdcc571"
+  }
+]

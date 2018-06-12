@@ -1,0 +1,549 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2010/03/11/technology/11distracted.html",
+    "snippet": "Police and paramedics use an array of dashboard devices, a boon for their jobs that also presents a clear risk. ",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/03/11/business/11distracted_CA0/11distracted_CA0-articleLarge.jpg",
+        "height": 315,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2010/03/11/business/11distracted_CA0/11distracted_CA0-articleLarge.jpg",
+          "xlargeheight": 315
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/03/11/business/11distracted_CA0/11distracted_CA0-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/03/11/business/11distracted_CA0/11distracted_CA0-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Gadgets in Emergency Vehicles Seen as Peril",
+      "kicker": "Driven to Distraction",
+      "content_kicker": "Driven to Distraction",
+      "print_headline": "Lights, Sirens and a Dash Wired With Dangerous Distractions",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Automobiles",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Computers and the Internet",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Accidents and Safety",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Ambulances",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Police",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Fires and Firefighters",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-03-11T01:16:43+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By MATT RICHTEL",
+      "person": [
+        {
+          "firstname": "Matt",
+          "middlename": null,
+          "lastname": "RICHTEL",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5443c92d38f0d8246e88da60",
+    "word_count": 1130,
+    "score": 1.0,
+    "uri": "nyt://article/ece540ec-2115-504a-a33f-1643a6f96a21"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2010/03/11/garden/11tv.html",
+    "snippet": "With new devices making it easy to stream Internet content to a television, more people are watching cable shows for free.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/04/01/garden/1tvspan-1/1tvspan-1-articleLarge.jpg",
+        "height": 369,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2010/04/01/garden/1tvspan-1/1tvspan-1-articleLarge.jpg",
+          "xlargeheight": 369
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/04/01/garden/1tvspan-1/1tvspan-1-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/04/01/garden/1tvspan-1/1tvspan-1-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Changing Channels, From Cable to the Web",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Can a Mouse Cut the Cable?",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Computers and the Internet",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Cable Television",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Television",
+        "rank": 3,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-03-11T00:00:47+0000",
+    "document_type": "article",
+    "new_desk": "Home",
+    "byline": {
+      "original": "By DOUGLAS QUENQUA",
+      "person": [
+        {
+          "firstname": "Douglas",
+          "middlename": null,
+          "lastname": "QUENQUA",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5443c62038f0d8246e88da23",
+    "word_count": 1241,
+    "score": 1.0,
+    "uri": "nyt://article/29eef7c5-849a-5e5a-9301-9c6ce5e239cf"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2010/03/12/nyregion/12inquiry.html",
+    "snippet": "Attorney General Andrew M. Cuomo appointed an independent counsel, Judith S. Kaye,  to take over his office\u2019s investigations of Gov. David A. Paterson.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/03/12/nyregion/12inquiry_CA0/12inquiry_CA0-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/03/12/nyregion/12inquiry_CA0/12inquiry_CA0-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Cuomo Hands Paterson Case to an Ex-Judge",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Cuomo Hands Paterson Cases To an Ex-Judge",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Cuomo, Andrew M",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Paterson, David A",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Ethics",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Special Prosecutors (Independent Counsel)",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Domestic Violence",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "New York State",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Kaye, Judith S",
+        "rank": 7,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-03-11T20:49:56+0000",
+    "document_type": "article",
+    "new_desk": "Metro",
+    "byline": {
+      "original": "By DANNY HAKIM",
+      "person": [
+        {
+          "firstname": "Danny",
+          "middlename": null,
+          "lastname": "HAKIM",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5443d2a138f0d8246e88db2e",
+    "word_count": 1104,
+    "score": 1.0,
+    "uri": "nyt://article/34d7da19-1346-58e7-b388-df87e77cb2fa"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2010/03/12/world/middleeast/12iraq.html",
+    "snippet": "Fraud charges heightened concerns over whether Iraq\u2019s fledgling institutions were strong enough to support a peaceful transfer of power.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/03/12/world/12iraq_CA0/12iraq_CA0-articleLarge.jpg",
+        "height": 315,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2010/03/12/world/12iraq_CA0/12iraq_CA0-articleLarge.jpg",
+          "xlargeheight": 315
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "In Early Tally, Tight Iraq Race Deepens Splits",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "In Early Tally, Tight Iraq Race Deepens Splits",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Elections",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Iraq",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Maliki, Nuri Kamal al-",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Iraq War (2003- )",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Election Results",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Allawi, Ayad",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Iraqi National Alliance",
+        "rank": 7,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-03-11T11:05:42+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Middle East",
+    "byline": {
+      "original": "By ANTHONY SHADID and TIM ARANGO",
+      "person": [
+        {
+          "firstname": "Anthony",
+          "middlename": null,
+          "lastname": "SHADID",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Tim",
+          "middlename": null,
+          "lastname": "ARANGO",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5443cd6a38f0d8246e88dabb",
+    "word_count": 1083,
+    "score": 1.0,
+    "uri": "nyt://article/4a84e166-3697-568d-818c-805296ea0457"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2010/03/11/garden/11bedbug.html",
+    "snippet": "Bedbug-sniffing dogs are the new and furry front line in an escalating domestic war.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/03/11/garden/11bedbugspan-1/11bedbugspan-1-articleLarge.jpg",
+        "height": 331,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2010/03/11/garden/11bedbugspan-1/11bedbugspan-1-articleLarge.jpg",
+          "xlargeheight": 331
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/03/11/garden/11bedbugspan-1/11bedbugspan-1-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/03/11/garden/11bedbugspan-1/11bedbugspan-1-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "A New Breed of Guard Dog Attacks Bedbugs",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "He\u2019ll Scratch Your Itch",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Bedbugs",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Dogs",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Insects",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Pesticides",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Itching",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Furniture",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Housing and Real Estate",
+        "rank": 7,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-03-11T00:00:50+0000",
+    "document_type": "article",
+    "new_desk": "Home",
+    "byline": {
+      "original": "By PENELOPE GREEN",
+      "person": [
+        {
+          "firstname": "Penelope",
+          "middlename": null,
+          "lastname": "GREEN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5443c5b538f0d8246e88da19",
+    "word_count": 2230,
+    "score": 1.0,
+    "uri": "nyt://article/67c250b2-5401-5f96-96b9-fc1feefd8d2f"
+  }
+]

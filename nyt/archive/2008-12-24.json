@@ -1,0 +1,340 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2008/12/24/arts/television/24yule.html",
+    "snippet": "For years WPIX offered New York\u2019s only televised yule log -- now DVDs offer a dizzying array of flaming options, from stately baroque plumes to crispy, woodsy campfires.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/12/23/arts/24yule_600.JPG",
+        "height": 368,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2008/12/23/arts/24yule_600.JPG",
+          "xlargeheight": 368
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/12/23/arts/24yule_75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2008/12/23/arts/24yule_75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Log: The Directors\u2019 Cuts",
+      "kicker": "The TV Watch",
+      "content_kicker": "The TV Watch",
+      "print_headline": "Log: The Directors\u2019 Cuts",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Christmas",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "WPIX",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Television",
+        "rank": 3,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2008-12-24T00:11:17+0000",
+    "document_type": "article",
+    "new_desk": "Culture",
+    "section_name": "Television",
+    "byline": {
+      "original": "By ALESSANDRA STANLEY",
+      "person": [
+        {
+          "firstname": "Alessandra",
+          "middlename": null,
+          "lastname": "STANLEY",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5475cb5338f0d8119c6b0105",
+    "word_count": 863,
+    "score": 1.0,
+    "uri": "nyt://article/db3d7fe0-7a2c-516f-8eaf-0f64f4e08e5e"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2008/12/24/world/middleeast/24jordan.html",
+    "snippet": "Across the Middle East, young people are using religion to defy the status quo and challenge their governments.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/12/24/world/24jordan2.600.jpg",
+        "height": 320,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2008/12/24/world/24jordan2.600.jpg",
+          "xlargeheight": 320
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/12/24/world/24jordan.75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2008/12/24/world/24jordan.75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Jordanian Students Rebel, Embracing Conservative Islam",
+      "kicker": "Generation Faithful",
+      "content_kicker": "Generation Faithful",
+      "print_headline": "Jordanian Students Rebel, Embracing Conservative Arm of Islam",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Islam",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Children and Youth",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Jordan",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Muslim Brotherhood",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Colleges and Universities",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Politics and Government",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Elections",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Voting and Voters",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Education and Schools",
+        "rank": 9,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Middle East",
+        "rank": 10,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2008-12-24T01:02:13+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Middle East",
+    "byline": {
+      "original": "By MICHAEL SLACKMAN",
+      "person": [
+        {
+          "firstname": "Michael",
+          "middlename": null,
+          "lastname": "SLACKMAN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "Series",
+    "_id": "5474e5d238f0d8119c6af14a",
+    "word_count": 2539,
+    "score": 1.0,
+    "uri": "nyt://article/ce6e50e2-7218-538b-ac2e-f6181cb9a287"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2008/12/25/garden/25regifting.html",
+    "snippet": "Re-gifting may be a widespread practice around the holidays, but that\u2019s not to say it is without peril.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/12/24/garden/regift.600.1.jpg",
+        "height": 188,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2008/12/24/garden/regift.600.1.jpg",
+          "xlargeheight": 188
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/12/24/garden/regift.75775.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2008/12/24/garden/regift.75775.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Re-Gifting: You Shouldn\u2019t Have. But if You Did, Here\u2019s How to Get Away With It",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Re-Gifting: You Shouldn\u2019t Have. But if You Did, Here\u2019s How To Get Away With It",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Gifts",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Holidays and Special Occasions",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Christmas",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Families and Family Life",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2008-12-24T22:25:19+0000",
+    "document_type": "article",
+    "new_desk": "Home",
+    "byline": {
+      "original": "By JOYCE WADLER",
+      "person": [
+        {
+          "firstname": "Joyce",
+          "middlename": null,
+          "lastname": "WADLER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "545bbd1a38f0d85e5ee911b9",
+    "word_count": 3121,
+    "score": 1.0,
+    "uri": "nyt://article/83d3c236-eb2e-5dd0-b782-bec99e776a41"
+  }
+]

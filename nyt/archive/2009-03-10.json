@@ -1,0 +1,179 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2009/03/10/business/economy/10global.html",
+    "snippet": "Powerful interests in the United States are expected to oppose European and Japanese pressure for international financial regulation.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "To Halt Slide, Apply Debt or Control?",
+      "kicker": "On Washington",
+      "content_kicker": "On Washington",
+      "print_headline": "To Halt Slide, Apply Debt Or Control?",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Europe",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Regulation and Deregulation of Industry",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Law and Legislation",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States International Relations",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Economy",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Subprime Mortgage Crisis",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Obama, Barack",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Economic Conditions and Trends",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "International Trade and World Market",
+        "rank": 9,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Recession and Depression",
+        "rank": 10,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-03-10T01:13:48+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "section_name": "Economy",
+    "byline": {
+      "original": "By DAVID E. SANGER",
+      "person": [
+        {
+          "firstname": "David",
+          "middlename": "E.",
+          "lastname": "SANGER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News Analysis",
+    "_id": "5468207138f0d81e5cd0d19e",
+    "word_count": 951,
+    "score": 1.0,
+    "uri": "nyt://article/0b905dcd-8839-58f3-b2fb-cd571f97cad2"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/03/11/business/11record.html",
+    "snippet": "The company said its package deal of hardware, software, installation and service will make the technology more affordable for small physician offices.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "Wal-Mart Plans to Market Digital Health Records System",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Wal-Mart To Digitize Health Data",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Electronic Health Records",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Wal-Mart Stores Inc",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Medicine and Health",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Doctors",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Computers and the Internet",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-03-10T23:05:29+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By STEVE LOHR",
+      "person": [
+        {
+          "firstname": "Steve",
+          "middlename": null,
+          "lastname": "LOHR",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5468283c38f0d81e5cd0d260",
+    "word_count": 688,
+    "score": 1.0,
+    "uri": "nyt://article/6267ea0f-a13c-5f44-add9-6b9685abcf94"
+  }
+]

@@ -1,0 +1,212 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2008/01/16/business/16leonhardt.html",
+    "snippet": "The details of the economic slump have changed since the \u201992 presidential race, but the main story line remains much the same.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/01/16/business/leonhardt_graph.190.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2008/01/16/business/leonhardt_graph.190.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/01/16/business/leonhardt_graph.190.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "thumbnailheight": 126,
+          "thumbnail": "images/2008/01/16/business/leonhardt_graph.190.jpg",
+          "thumbnailwidth": 190
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "A Revival of 1992\u2019s Glum Mood",
+      "kicker": "Economic Scene",
+      "content_kicker": "Economic Scene",
+      "print_headline": "A Revival Of 1992\u2019s Glum Mood",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "United States Economy",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Presidential Election of 2008",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Recession and Depression",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Economic Conditions and Trends",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Clinton, Bill",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Bush, George W",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Bush, George",
+        "rank": 7,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2008-01-16T05:00:00+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By DAVID LEONHARDT",
+      "person": [
+        {
+          "firstname": "David",
+          "middlename": null,
+          "lastname": "LEONHARDT",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "547cde9438f0d822abda16d3",
+    "word_count": 949,
+    "score": 1.0,
+    "uri": "nyt://article/ec51ad33-48aa-5782-84f3-ca0496b6fe9d"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2008/01/16/dining/16fort.html",
+    "snippet": "A researcher has traced the origins of fortune cookies to shops near Kyoto, Japan.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/01/15/dining/20fort600.1.jpg",
+        "height": 287,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2008/01/15/dining/20fort600.1.jpg",
+          "xlargeheight": 287
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/01/15/dining/16fort75.1.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2008/01/15/dining/16fort75.1.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Solving a Riddle Wrapped in a Mystery Inside a Cookie",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Solving a Riddle Wrapped in a Mystery Inside a Cookie",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Fortune Cookies",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Japan",
+        "rank": 2,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2008-01-16T05:00:00+0000",
+    "document_type": "article",
+    "new_desk": "Dining",
+    "byline": {
+      "original": "By JENNIFER 8. LEE",
+      "person": [
+        {
+          "firstname": "Jennifer",
+          "middlename": null,
+          "lastname": null,
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "547cd6a638f0d822abda160e",
+    "word_count": 1678,
+    "score": 1.0,
+    "uri": "nyt://article/35efcb4d-e8ba-5e96-b202-c60e5cd77e75"
+  }
+]

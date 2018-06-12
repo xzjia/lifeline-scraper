@@ -1,0 +1,241 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2011/03/14/world/asia/14japan.html",
+    "snippet": "Military and civilian teams continued their grim work as Japan faced mounting humanitarian emergencies and the death toll climbed.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/03/14/world/14japan3_span/14japan3_span-articleLarge.jpg",
+        "height": 360,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2011/03/14/world/14japan3_span/14japan3_span-articleLarge.jpg",
+          "xlargeheight": 360
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/03/14/world/14japan3_span/14japan3_span-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/03/14/world/14japan3_span/14japan3_span-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Death Toll Estimate in Japan Soars as Relief Efforts Intensify",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Premier Calls Mounting Crisis Worst Since World War II",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Japan",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Deaths (Fatalities)",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Japan Earthquake and Tsunami (2011)",
+        "rank": 3,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-03-13T10:18:29+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Asia Pacific",
+    "byline": {
+      "original": "By MARTIN FACKLER and MARK McDONALD",
+      "person": [
+        {
+          "firstname": "Martin",
+          "middlename": null,
+          "lastname": "FACKLER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Mark",
+          "middlename": null,
+          "lastname": "McDONALD",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "540bb0bb38f0d85e13e4c8ae",
+    "word_count": 1191,
+    "score": 1.0,
+    "uri": "nyt://article/21470709-130f-52d3-849c-a4c9e317373e"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/03/13/nyregion/13homes.html",
+    "snippet": "Decades after New York emptied its warehouses for the disabled, the current network of small group homes operates with scant oversight and few consequences for abusive employees.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/03/13/nyregion/Home/Home-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2011/03/13/nyregion/Home/Home-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/03/13/nyregion/Home/Home-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/03/13/nyregion/Home/Home-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "At State-Run Homes, Abuse and Impunity",
+      "kicker": "Abused and Used ",
+      "content_kicker": "Abused and Used ",
+      "print_headline": "At State-Run Homes, Abuse and Impunity",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Group Homes",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Handicapped",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Office for People With Developmental Disabilities (NYS)",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "CSEA",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Mental Health and Disorders",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Sex Crimes",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "New York State",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Government Employees",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Mental Retardation",
+        "rank": 9,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-03-13T03:15:20+0000",
+    "document_type": "article",
+    "new_desk": "Metro",
+    "byline": {
+      "original": "By DANNY HAKIM",
+      "person": [
+        {
+          "firstname": "Danny",
+          "middlename": null,
+          "lastname": "HAKIM",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "Summary",
+    "_id": "540bae7b38f0d85e13e4c898",
+    "word_count": 4705,
+    "score": 1.0,
+    "uri": "nyt://article/fca223d6-0588-55da-a575-5371565c7467"
+  }
+]

@@ -1,0 +1,180 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2008/08/12/business/worldbusiness/12indiawall.html",
+    "snippet": "Wall Street\u2019s losses are fast becoming India\u2019s gain, as jobs higher up the financial food chain are being exported to India and places less costly than New York and London.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/08/12/business/india600.jpg",
+        "height": 280,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2008/08/12/business/india600.jpg",
+          "xlargeheight": 280
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Cost-Cutting in New York, but a Boom in India",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "...India\u2019s Role Is Growing",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Banks and Banking",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Labor",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "India",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Brokers and Brokerage Firms",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Investment Banking",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2008-08-12T00:03:25+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "section_name": "World Business",
+    "byline": {
+      "original": "By HEATHER TIMMONS",
+      "person": [
+        {
+          "firstname": "Heather",
+          "middlename": null,
+          "lastname": "TIMMONS",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5476b36138f0d839249021cf",
+    "word_count": 1501,
+    "score": 1.0,
+    "uri": "nyt://article/d8f51df1-7ecf-5f57-9349-24e6df861ae9"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2008/08/13/arts/music/13vibr.html",
+    "snippet": "Traditionalists in England are in a huff over a performance of Elgar\u2019s \u201cPomp and Circumstance\u201d March No. 1.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/08/13/arts/Vibrato600.jpg",
+        "height": 200,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2008/08/13/arts/Vibrato600.jpg",
+          "xlargeheight": 200
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Elgar Without Vibrato? Fiddlesticks",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Elgar Without Vibrato? Fiddlesticks",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Classical Music",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Elgar, Edward William",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Norrington, Roger",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Great Britain",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2008-08-12T22:50:03+0000",
+    "document_type": "article",
+    "new_desk": "Culture",
+    "section_name": "Music",
+    "byline": {
+      "original": "By DANIEL J. WAKIN",
+      "person": [
+        {
+          "firstname": "Daniel",
+          "middlename": "J.",
+          "lastname": "WAKIN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5476bc4338f0d83924902295",
+    "word_count": 1164,
+    "score": 1.0,
+    "uri": "nyt://article/17fcefb1-6c46-5fed-9f69-e7ec052e4e5f"
+  }
+]

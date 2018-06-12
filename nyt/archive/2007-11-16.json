@@ -1,0 +1,172 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2007/11/16/us/16recovery.html",
+    "snippet": "Delray Beach is the epicenter of the country\u2019s largest and most vibrant recovery community.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2007/11/16/us/16recovery-600.jpg",
+        "height": 330,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2007/11/16/us/16recovery-600.jpg",
+          "xlargeheight": 330
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2007/11/16/us/16recovery-75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2007/11/16/us/16recovery-75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "In Florida, Addicts Find an Oasis of Sobriety",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "On Florida Coast, Addicts Find Home in an Oasis of Sobriety",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Therapy and Rehabilitation",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Drug Abuse and Traffic",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Florida",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Medicine and Health",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2007-11-16T05:00:00+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "byline": {
+      "original": "By JANE GROSS",
+      "person": [
+        {
+          "firstname": "Jane",
+          "middlename": null,
+          "lastname": "GROSS",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5487c64538f0d8602128e798",
+    "word_count": 1627,
+    "score": 1.0,
+    "uri": "nyt://article/0696056c-acb8-5b52-a393-066f7ecb4e35"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2007/11/16/sports/baseball/16vecsey.html",
+    "snippet": "Barry Bonds could have avoided Thursday\u2019s indictment by parceling out just enough truth to satisfy a grand jury.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "The Truth Could Have Set Bonds Free",
+      "kicker": "Sports of The Times",
+      "content_kicker": "Sports of The Times",
+      "print_headline": "Being Truthful to Grand Jury Could Have Set Bonds Free",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Bonds, Barry",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Steroids",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Baseball",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Athletics and Sports",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2007-11-16T05:00:00+0000",
+    "document_type": "article",
+    "new_desk": "Sports",
+    "section_name": "Baseball",
+    "byline": {
+      "original": "By GEORGE VECSEY",
+      "person": [
+        {
+          "firstname": "George",
+          "middlename": null,
+          "lastname": "VECSEY",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "547bd4e338f0d813efccb596",
+    "word_count": 867,
+    "score": 1.0,
+    "uri": "nyt://article/0c1e6f03-123c-5817-9cad-725e3f2f96a3"
+  }
+]

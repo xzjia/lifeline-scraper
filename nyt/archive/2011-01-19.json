@@ -1,0 +1,161 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2011/01/19/business/economy/19leonhardt.html",
+    "snippet": "The jobless rate is higher in the United States than in Britain, Germany, Japan or Russia, a new study found, pointing to American employers\u2019 unusual degree of power.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "In Wreckage of Lost Jobs, Lost Power",
+      "kicker": "Economic Scene",
+      "content_kicker": "Economic Scene",
+      "print_headline": "In Wreckage Of Lost Jobs, Lost Power",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "United States Economy",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Labor and Jobs",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Unemployment",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Recession and Depression",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-01-19T05:01:28+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "section_name": "Economy",
+    "byline": {
+      "original": "By DAVID LEONHARDT",
+      "person": [
+        {
+          "firstname": "David",
+          "middlename": null,
+          "lastname": "LEONHARDT",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5409e47238f0d84fb8832ef2",
+    "word_count": 1026,
+    "score": 1.0,
+    "uri": "nyt://article/f2eca754-91cb-5684-af05-bcbf5c56d1c6"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/01/20/books/20book.html",
+    "snippet": "In \u201cBattle Hymn of the Tiger Mother,\u201d Amy Chua offers a highly readable screed on the art of obsessive parenting.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/01/20/arts/jp-book/jp-book-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/01/20/arts/jp-book/jp-book-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "But Will It All Make \u2018Tiger Mom\u2019 Happy?",
+      "kicker": "Books of The Times",
+      "content_kicker": "Books of The Times",
+      "print_headline": "But Will It All Make Mommy Happy?",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Books and Literature",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Chua, Amy",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Parenting",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Chinese-Americans",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Families and Family Life",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-01-19T19:18:53+0000",
+    "document_type": "article",
+    "new_desk": "Culture",
+    "byline": {
+      "original": "By JANET MASLIN",
+      "person": [
+        {
+          "firstname": "Janet",
+          "middlename": null,
+          "lastname": "MASLIN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "Review",
+    "_id": "53f5377038f0d87ef470e163",
+    "word_count": 1000,
+    "score": 1.0,
+    "uri": "nyt://article/3e87df71-d509-5748-81ad-4ab861820233"
+  }
+]

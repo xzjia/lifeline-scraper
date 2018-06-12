@@ -1,0 +1,298 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2009/09/06/business/06insurance.html",
+    "snippet": "Wall Street bankers plan to buy life insurance policies that ill and elderly people sell for cash and package hundreds or thousands of them together into bonds.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/09/06/business/insurance_75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/09/06/business/insurance_75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Wall Street Pursues Profit in Bundles of Life Insurance",
+      "kicker": "Back to Business",
+      "content_kicker": "Back to Business",
+      "print_headline": "New Exotic Investments Emerging on Wall Street",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Life Insurance",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Banks and Banking",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Stocks and Bonds",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Subprime Mortgage Crisis",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-09-05T16:43:38+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By JENNY ANDERSON",
+      "person": [
+        {
+          "firstname": "Jenny",
+          "middlename": null,
+          "lastname": "ANDERSON",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "Series",
+    "_id": "5455d64338f0d84a08fb2a76",
+    "word_count": 2486,
+    "score": 1.0,
+    "uri": "nyt://article/243f0aff-5b5e-589a-95c4-bf590fc7c4e5"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/09/05/world/asia/05drought.html",
+    "snippet": "The crisis has underscored the problems facing Indian agriculture as the population expands at the same time that water resources come under greater pressure.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/09/05/world/05drought.xlarge1.jpg",
+        "height": 360,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/09/05/world/05drought.xlarge1.jpg",
+          "xlargeheight": 360
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/09/05/world/05drought.751.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/09/05/world/05drought.751.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Drought Puts Focus on a Side of India Left Out of Progress",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Drought Puts Focus on a Side of India Untouched by Progress",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Drought",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "India",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Indian National Congress",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Economic Conditions and Trends",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Politics and Government",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-09-05T01:46:53+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Asia Pacific",
+    "byline": {
+      "original": "By JIM YARDLEY",
+      "person": [
+        {
+          "firstname": "Jim",
+          "middlename": null,
+          "lastname": "YARDLEY",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5455d36038f0d84a08fb2a36",
+    "word_count": 1135,
+    "score": 1.0,
+    "uri": "nyt://article/2e11c780-fb73-517a-98c7-b23c30936422"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/09/05/business/05smart.html",
+    "snippet": "A seal meant to flag healthier food has been granted to the likes of Froot Loops and full-fat mayonnaise, alarming nutritionists.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/09/05/business/05smartA-xlP.jpg",
+        "height": 400,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/09/05/business/05smartA-xlP.jpg",
+          "xlargeheight": 400
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/09/05/business/05smartAB-75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/09/05/business/05smartAB-75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "For Your Health, Froot Loops",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "For Your Health, Froot Loops",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Labeling and Labels",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Food",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Diet and Nutrition",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Obesity",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-09-05T00:34:28+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By WILLIAM NEUMAN",
+      "person": [
+        {
+          "firstname": "William",
+          "middlename": null,
+          "lastname": "NEUMAN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5455d0c538f0d84a08fb29fd",
+    "word_count": 1191,
+    "score": 1.0,
+    "uri": "nyt://article/bc71ffb3-5d72-5756-8ca5-89746cbc7e8c"
+  }
+]

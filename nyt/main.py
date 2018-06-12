@@ -20,7 +20,9 @@ class NYT(object):
             self.process_one_day(self.start_date, path_prefix)
             self.start_date = self.start_date + timedelta(days=1)
 
-    def format_date(self, date_object):
+    def format_date(self, date_object, with_hyphen=False):
+        if with_hyphen:
+            return date_object.strftime('%Y-%m-%d')
         return date_object.strftime('%Y%m%d')
 
     def remove_duplicate(self, event_list):
@@ -38,8 +40,11 @@ class NYT(object):
     def process_one_day(self, date, path_prefix):
         result = self.get_one_day(date)
         result = self.remove_duplicate(result)
-        with open('{}/{}.json'.format(path_prefix, self.format_date(date)), 'w') as outfile:
-            json.dump(result, outfile, indent=2)
+        if len(result) > 0:
+            with open('{}/{}.json'.format(path_prefix, self.format_date(date, with_hyphen=True)), 'w') as outfile:
+                json.dump(result, outfile, indent=2)
+        else:
+            print('***** No data for {} so skipping... '.format(self.format_date(date)))
 
     def get_one_day(self, target_date):
         result = []
@@ -74,13 +79,14 @@ class NYT(object):
         while 'response' not in raw_response:
             self.error_count += 1
             if self.error_count == 10:
-                print(
-                    '***** Current key burned out, switching to next one and retrying... *****')
+                print('***** Current key burned out, switching to next one and retrying... {} *****'.format(
+                    self.format_date(target_date)))
                 self.current_key_index += 1
                 self.error_count = 0
                 if self.current_key_index == len(self.api_key_pool):
                     self.current_key_index = 0
-            print("API Rate exceed error, sleep 2 seconds and retry")
+            print("API Rate exceed error, sleep 2 seconds and retry: {}".format(
+                self.format_date(target_date)))
             time.sleep(2)
             payload['api-key'] = self.api_key_pool[self.current_key_index]
             raw_response = requests.get(
@@ -90,7 +96,8 @@ class NYT(object):
 
 
 def main():
-    n = NYT(1990, 1, 1, 2013, 12, 31, 'nyt/onetimedata')
+    # n = NYT(1990, 1, 1, 2013, 12, 31, 'nyt/archive')
+    n = NYT(2018, 6, 7, 2018, 6, 12, 'nyt/archive')
 
 
 if __name__ == '__main__':

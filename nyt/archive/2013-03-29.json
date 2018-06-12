@@ -1,0 +1,814 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2013/03/30/us/politics/guest-worker-program-low-skilled-immigrants.html",
+    "snippet": "Progress in talks between top business and labor groups, which had stalled, bolstered hope among a group of senators that they would be able to introduce overhaul legislation soon.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "Guest Workers Are at Crux of Groups\u2019 Deal on Immigration",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Guest Workers at Crux of Deal on Immigration",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Foreign Workers",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Immigration and Emigration",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Politics and Government",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Visas",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Organized Labor",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Senate",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "American Federation of Labor-Congress of Industrial Organizations",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "United States Chamber of Commerce",
+        "rank": 8,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2013-03-29T18:34:17+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "section_name": "Politics",
+    "byline": {
+      "original": "By ASHLEY PARKER and STEVEN GREENHOUSE",
+      "person": [
+        {
+          "firstname": "Ashley",
+          "middlename": null,
+          "lastname": "PARKER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Steven",
+          "middlename": null,
+          "lastname": "GREENHOUSE",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5155deadfdc59278db000d4c",
+    "word_count": 1087,
+    "score": 1.0,
+    "uri": "nyt://article/f2ed8cc8-fbc1-5a19-b1a7-68128899a918"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2013/03/31/sports/baseball/swing-and-a-mystery-why-strikeout-rates-are-soaring.html",
+    "snippet": "Strikeout rates have been trending upward for most of the past century, but what has happened in recent years seems to indicate something more. What is the cause?",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/03/29/sports/29strikeouts1/29strikeouts1-articleLarge.jpg",
+        "height": 420,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2013/03/29/sports/29strikeouts1/29strikeouts1-articleLarge.jpg",
+          "xlargeheight": 420
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/03/29/sports/29strikeouts1/29strikeouts1-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2013/03/29/sports/29strikeouts1/29strikeouts1-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/03/29/sports/29strikeouts1/29strikeouts1-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2013/03/29/sports/29strikeouts1/29strikeouts1-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Why Strikeout Rates Are Soaring",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Swing and a Mystery",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Baseball",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Statistics",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Steroids",
+        "rank": 3,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2013-03-29T18:37:46+0000",
+    "document_type": "article",
+    "new_desk": "Sports",
+    "section_name": "Baseball",
+    "byline": {
+      "original": "By TYLER KEPNER",
+      "person": [
+        {
+          "firstname": "Tyler",
+          "middlename": null,
+          "lastname": "KEPNER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5155df7dfdc59278db000d4d",
+    "word_count": 1851,
+    "score": 1.0,
+    "uri": "nyt://article/aaf2ffb9-bd50-5c8d-a051-52099a945941"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2013/03/31/travel/balkan-promises-hiking-the-albanian-alps.html",
+    "snippet": "In the once-tense border region separating Albania, Kosovo and Montenegro, a new trail offers a path for travelers to explore the area\u2019s dramatic beauty.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/03/31/travel/31ALBANIA_SPAN-sf/31ALBANIA_SPAN-articleLarge.jpg",
+        "height": 645,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2013/03/31/travel/31ALBANIA_SPAN-sf/31ALBANIA_SPAN-articleLarge.jpg",
+          "xlargeheight": 645
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/03/31/travel/31ALBANIA_SPAN-sf/31ALBANIA_SPAN-sf-thumbWide-v4.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2013/03/31/travel/31ALBANIA_SPAN-sf/31ALBANIA_SPAN-sf-thumbWide-v4.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/03/31/travel/31ALBANIA_SPAN-sf/31ALBANIA_SPAN-sf-thumbStandard-v4.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2013/03/31/travel/31ALBANIA_SPAN-sf/31ALBANIA_SPAN-sf-thumbStandard-v4.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Hiking Beyond Borders in the Balkans",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Balkan Promises",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Travel and Vacations",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Montenegro",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Kosovo",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Albania",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Hikes and Hiking",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2013-03-29T18:28:32+0000",
+    "document_type": "article",
+    "new_desk": "Travel",
+    "byline": {
+      "original": "By TIM NEVILLE",
+      "person": [
+        {
+          "firstname": "Tim",
+          "middlename": null,
+          "lastname": "NEVILLE",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5155dd53fdc59278db000d48",
+    "word_count": 3176,
+    "score": 1.0,
+    "uri": "nyt://article/94024b92-6377-5e81-8696-0e49784a1cd3"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2013/03/30/business/why-bad-directors-arent-thrown-out.html",
+    "snippet": "The track record of the board of Hewlett-Packard is calamitous, and yet they have retained their jobs, because efforts to remove such directors are not always made and rarely succeed.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/06/25/business/james-stewart/james-stewart-articleLarge.jpg",
+        "height": 400,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2011/06/25/business/james-stewart/james-stewart-articleLarge.jpg",
+          "xlargeheight": 400
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/06/25/business/james-stewart/james-stewart-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2011/06/25/business/james-stewart/james-stewart-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/06/25/business/james-stewart/james-stewart-thumbStandard-v3.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/06/25/business/james-stewart/james-stewart-thumbStandard-v3.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Bad Directors and Why They Aren\u2019t Thrown Out",
+      "kicker": "Common Sense",
+      "content_kicker": "Common Sense",
+      "print_headline": "Bad Directors And Why They Aren\u2019t Thrown Out",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Boards of Directors",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Hewlett-Packard Company",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Shareholder Rights and Activism",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Apotheker, Leo",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Autonomy Corp PLC",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2013-03-29T15:56:13+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By JAMES B. STEWART",
+      "person": [
+        {
+          "firstname": "James",
+          "middlename": null,
+          "lastname": null,
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5155b99ffdc59278db000cd4",
+    "word_count": 1749,
+    "score": 1.0,
+    "uri": "nyt://article/590671c0-5e60-5405-9e17-69fc591e68c3"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2013/03/29/science/earth/soaring-bee-deaths-in-2012-sound-alarm-on-malady.html",
+    "snippet": "A mysterious ailment appears to have expanded drastically in the past year, wiping out as many as half of the hives needed to pollinate much of America\u2019s produce.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/03/28/us/video-hive-collapse/video-hive-collapse-articleLarge-v2.jpg",
+        "height": 400,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2013/03/28/us/video-hive-collapse/video-hive-collapse-articleLarge-v2.jpg",
+          "xlargeheight": 400
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/03/28/us/video-hive-collapse/video-hive-collapse-thumbWide-v2.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2013/03/28/us/video-hive-collapse/video-hive-collapse-thumbWide-v2.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/03/28/us/video-hive-collapse/video-hive-collapse-thumbStandard-v2.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2013/03/28/us/video-hive-collapse/video-hive-collapse-thumbStandard-v2.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Mystery Malady Kills More Bees, Heightening Worry on Farms",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Mystery Malady Kills More Bees, Heightening Worry on Farms",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Bees",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Pesticides",
+        "rank": 2,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2013-03-29T00:20:59+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "section_name": "Environment",
+    "byline": {
+      "original": "By MICHAEL WINES",
+      "person": [
+        {
+          "firstname": "Michael",
+          "middlename": null,
+          "lastname": "WINES",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5154de74fdc59278db000b08",
+    "word_count": 1280,
+    "score": 1.0,
+    "uri": "nyt://article/0ff06a7f-1ca1-5b3d-9e6e-3165c7b211c0"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2013/03/31/realestate/what-pet-owners-must-do-to-get-new-york-apartments.html",
+    "snippet": "New Yorkers will jump through all kinds of hoops, and even play a few tricks, in order to share a home with a beloved pet.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/03/31/realestate/31COVER_SPAN/31COVER_SPAN-articleLarge-v2.jpg",
+        "height": 400,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2013/03/31/realestate/31COVER_SPAN/31COVER_SPAN-articleLarge-v2.jpg",
+          "xlargeheight": 400
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/03/31/realestate/31COVER_SPAN/31COVER_SPAN-thumbWide-v2.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2013/03/31/realestate/31COVER_SPAN/31COVER_SPAN-thumbWide-v2.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/03/31/realestate/31COVER_SPAN/31COVER_SPAN-thumbStandard-v4.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2013/03/31/realestate/31COVER_SPAN/31COVER_SPAN-thumbStandard-v4.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "What Pet Owners Must Do to Get New York Apartments",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Bark if You\u2019re Legal",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Real Estate and Housing (Residential)",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Pets",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "New York City",
+        "rank": 3,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2013-03-29T15:03:34+0000",
+    "document_type": "article",
+    "new_desk": "RealEstate",
+    "byline": {
+      "original": "By CONSTANCE ROSENBLUM",
+      "person": [
+        {
+          "firstname": "Constance",
+          "middlename": null,
+          "lastname": "ROSENBLUM",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5155ad48fdc59278db000cb8",
+    "word_count": 2404,
+    "score": 1.0,
+    "uri": "nyt://article/87820ec9-1384-5817-8e98-39d38df0bc7b"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2013/03/30/us/former-school-chief-in-atlanta-indicted-in-cheating-scandal.html",
+    "snippet": "A third-grade teacher\u2019s 2010 choice to aid a state investigator helped lead to the indictment Friday of a former superintendent and 34 others in a vast alleged cheating scheme.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/03/30/us/JP-ATLANTA-1/JP-ATLANTA-1-articleLarge.jpg",
+        "height": 417,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2013/03/30/us/JP-ATLANTA-1/JP-ATLANTA-1-articleLarge.jpg",
+          "xlargeheight": 417
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/03/30/us/JP-ATLANTA-1/JP-ATLANTA-1-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2013/03/30/us/JP-ATLANTA-1/JP-ATLANTA-1-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/03/30/us/JP-ATLANTA-1/JP-ATLANTA-1-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2013/03/30/us/JP-ATLANTA-1/JP-ATLANTA-1-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Ex-Schools Chief in Atlanta Is Indicted in Testing Scandal",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "35 Indicted in Test Scandal at Atlanta Schools",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Cheating",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Hall, Beverly L",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Atlanta (Ga)",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Education (K-12)",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Tests and Examinations",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2013-03-29T21:35:02+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "byline": {
+      "original": "By MICHAEL WINERIP",
+      "person": [
+        {
+          "firstname": "Michael",
+          "middlename": null,
+          "lastname": "WINERIP",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "51560909fdc59278db000dd7",
+    "word_count": 2455,
+    "score": 1.0,
+    "uri": "nyt://article/8436563b-37f2-5c0f-9da8-e0b8480a0e8f"
+  }
+]

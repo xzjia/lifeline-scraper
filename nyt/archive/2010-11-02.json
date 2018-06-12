@@ -1,0 +1,87 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2010/11/03/theater/03gatz.html",
+    "snippet": "John Collins, the director of \u201cGatz,\u201d has yet to miss a performance of his nearly seven-hour show.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/11/03/arts/GATZ/GATZ-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/11/03/arts/GATZ/GATZ-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Borne Back Ceaselessly to His Long Show",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Borne Back Ceaselessly To His Long Show",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Theater",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Elevator Repair Service",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Public Theater",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Collins, John (1969- )",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-11-02T18:17:59+0000",
+    "document_type": "article",
+    "new_desk": "Culture",
+    "byline": {
+      "original": "By PATRICK HEALY",
+      "person": [
+        {
+          "firstname": "Patrick",
+          "middlename": null,
+          "lastname": "HEALY",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "541c4c9f38f0d8296cb10d3f",
+    "word_count": 950,
+    "score": 1.0,
+    "uri": "nyt://article/b468c031-0ebf-5461-a1ff-4667a5f667b0"
+  }
+]

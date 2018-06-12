@@ -1,0 +1,371 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2008/07/11/education/11colleges.html",
+    "snippet": "As fuel prices rise, thousands of students nationwide have suddenly decided to take college classes over the Internet.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "High Cost of Driving Ignites Online Classes Boom",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "High Cost of Driving to College Ignites Boom in Online Classes",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Colleges and Universities",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Computers and the Internet",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Oil (Petroleum) and Gasoline",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Commuting",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Prices (Fares, Fees and Rates)",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Education and Schools",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2008-07-11T04:00:00+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "byline": {
+      "original": "By SAM DILLON",
+      "person": [
+        {
+          "firstname": "Sam",
+          "middlename": null,
+          "lastname": "DILLON",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5482f0da38f0d8403d9cd2f5",
+    "word_count": 1328,
+    "score": 1.0,
+    "uri": "nyt://article/5f7d79d7-5472-5393-a6ac-c19c57166802"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2008/07/11/nyregion/11broadway.html",
+    "snippet": "In a surprising reshaping of the urban landscape, New York City is creating a public esplanade along a portion of one of its most prominent streets, Broadway in Midtown.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/07/11/nyregion/11traffic_75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2008/07/11/nyregion/11traffic_75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Closing on Broadway: Two Traffic Lanes",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "2 Lanes to Close on Broadway, Making Way for Bikes and Lunch",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Manhattan (NYC)",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Roads and Traffic",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Transportation Department",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Sadik-Khan, Janette",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Bloomberg, Michael R",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "New York City",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Herald Square (NYC)",
+        "rank": 9,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Times Square and 42nd Street (NYC)",
+        "rank": 10,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Bicycles and Bicycling",
+        "rank": 12,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "34th Street Partnership",
+        "rank": 13,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2008-07-11T04:00:00+0000",
+    "document_type": "article",
+    "new_desk": "Metro",
+    "byline": {
+      "original": "By WILLIAM NEUMAN",
+      "person": [
+        {
+          "firstname": "William",
+          "middlename": null,
+          "lastname": "NEUMAN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5482f15038f0d8403d9cd301",
+    "word_count": 1104,
+    "score": 1.0,
+    "uri": "nyt://article/bd3f400c-59f6-5d2b-8250-061ca7d8113a"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2008/07/11/business/11ripple.html",
+    "snippet": "The rapid erosion of investors\u2019 confidence has become a crisis for Fannie Mae and Freddie Mac, the two main backers of mortgage financing.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "Loan-Agency Woes Swell From a Trickle to a Torrent",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "A Trickle That Turned Into a Torrent",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "organizations",
+        "value": "Fannie Mae",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Freddie Mac",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Mortgages",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Housing",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2008-07-11T04:00:00+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By CHARLES DUHIGG",
+      "person": [
+        {
+          "firstname": "Charles",
+          "middlename": null,
+          "lastname": "DUHIGG",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5482ebe638f0d8403d9cd266",
+    "word_count": 1538,
+    "score": 1.0,
+    "uri": "nyt://article/d07fb877-7a58-546d-bac0-2600bb99f3c1"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2008/07/11/nyregion/11rangel.html",
+    "snippet": "Representative Charles B. Rangel of New York rents four units at a discounted rate in a building owned by a premier developer.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/07/10/nyregion/11rangel02_600.jpg",
+        "height": 338,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2008/07/10/nyregion/11rangel02_600.jpg",
+          "xlargeheight": 338
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/07/10/nyregion/11rangel_75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2008/07/10/nyregion/11rangel_75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "For Rangel, Four Rent-Stabilized Apartments",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "For Rangel, Four Rent-Stabilized Apartments",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Rangel, Charles B",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Renting and Leasing",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Rent Control and Stabilization",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Manhattan (NYC)",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2008-07-11T04:00:00+0000",
+    "document_type": "article",
+    "new_desk": "Metro",
+    "byline": {
+      "original": "By DAVID KOCIENIEWSKI",
+      "person": [
+        {
+          "firstname": "David",
+          "middlename": null,
+          "lastname": "KOCIENIEWSKI",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "54765b3838f0d839249019ae",
+    "word_count": 1877,
+    "score": 1.0,
+    "uri": "nyt://article/5b23c982-fe16-5263-830c-586347c05b78"
+  }
+]

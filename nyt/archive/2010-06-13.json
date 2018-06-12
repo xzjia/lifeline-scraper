@@ -1,0 +1,116 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2010/06/14/us/14spill.html",
+    "snippet": "The speech is part of a week of activities intended to convey presidential command of a crisis that continues to test both the U.S. and the company.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/06/14/us/14spillcnd2_337-span/14spillcnd2_337-395-articleLarge.jpg",
+        "height": 330,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2010/06/14/us/14spillcnd2_337-span/14spillcnd2_337-395-articleLarge.jpg",
+          "xlargeheight": 330
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/06/14/us/14spillcnd2_337-span/14spillcnd2_337-395-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/06/14/us/14spillcnd2_337-span/14spillcnd2_337-395-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Obama Plans First Oval Office Speech to Put Pressure on BP",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Obama to Press BP to Establish Escrow Account",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "organizations",
+        "value": "BP Plc",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Obama, Barack",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Oil (Petroleum) and Gasoline",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Offshore Drilling and Exploration",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Gulf of Mexico",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Accidents and Safety",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-06-13T14:38:51+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "byline": {
+      "original": "By JACKIE CALMES",
+      "person": [
+        {
+          "firstname": "Jackie",
+          "middlename": null,
+          "lastname": "CALMES",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "54176d5938f0d851fd3a7f1e",
+    "word_count": 1497,
+    "score": 1.0,
+    "uri": "nyt://article/60c0394d-ed88-52ad-a59f-af118e760db5"
+  }
+]

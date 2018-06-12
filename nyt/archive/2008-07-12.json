@@ -1,0 +1,166 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2008/07/12/business/12fannie.html",
+    "snippet": "After a stomach-churning drop in the stocks of Fannie Mae and Freddie Mac, officials and lawmakers managed to calm investors.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/07/12/business/market600.jpg",
+        "height": 341,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2008/07/12/business/market600.jpg",
+          "xlargeheight": 341
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Worst Fears Ease, for Now, on Mortgage Giants",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Worst Fears Ease, for Now, On Mortgage Giants\u2019 Fate",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "organizations",
+        "value": "Fannie Mae",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Freddie Mac",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Stocks and Bonds",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Economy",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2008-07-12T04:00:00+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By STEPHEN LABATON",
+      "person": [
+        {
+          "firstname": "Stephen",
+          "middlename": null,
+          "lastname": "LABATON",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "547506c138f0d8119c6af754",
+    "word_count": 1451,
+    "score": 1.0,
+    "uri": "nyt://article/f3210dc9-bdf3-5fa1-94a2-060d6342dba7"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2008/07/12/business/12markets.html",
+    "snippet": "Worries about the prospects for Fannie Mae and Freddie Mac and a run-up in energy prices made for a rocky day on Wall Street.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/07/11/business/merc_7575.2.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2008/07/11/business/merc_7575.2.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Woes at Loan Agencies and Oil-Price Spike Roil Markets",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Fannie and Freddie Weigh on Stocks",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Stocks and Bonds",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Fannie Mae",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Freddie Mac",
+        "rank": 3,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2008-07-12T04:00:00+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By MICHAEL M. GRYNBAUM",
+      "person": [
+        {
+          "firstname": "Michael",
+          "middlename": null,
+          "lastname": null,
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "547506bf38f0d8119c6af751",
+    "word_count": 799,
+    "score": 1.0,
+    "uri": "nyt://article/0a67b973-42d5-5774-b69d-1f72a0aac280"
+  }
+]

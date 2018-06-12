@@ -1,0 +1,762 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2009/02/10/sports/baseball/10rodriguez.html",
+    "snippet": "Alex Rodriguez said that he used a banned substance while he played for the Texas Rangers.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/02/09/sports/baseball/arod.600.jpg",
+        "height": 338,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/02/09/sports/baseball/arod.600.jpg",
+          "xlargeheight": 338
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/02/09/sports/baseball/arod.75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/02/09/sports/baseball/arod.75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Rodriguez Admits to Use of Performance Enhancers",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Rodriguez, With an Apology, Says He Used Banned Drugs",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Rodriguez, Alex",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Steroids",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Baseball",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "New York Yankees",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Texas Rangers",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "ESPN",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Sports Illustrated",
+        "rank": 7,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-02-09T19:48:26+0000",
+    "document_type": "article",
+    "new_desk": "Sports",
+    "section_name": "Baseball",
+    "byline": {
+      "original": "By TYLER KEPNER",
+      "person": [
+        {
+          "firstname": "Tyler",
+          "middlename": null,
+          "lastname": "KEPNER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "547114fb38f0d847c5e425a4",
+    "word_count": 1488,
+    "score": 1.0,
+    "uri": "nyt://article/2d454a6e-a9e6-5e6a-963f-900488bfb541"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/02/09/business/09bailout.html",
+    "snippet": "Administration officials said the new bailout was likely to depend on private investors to purchase the toxic assets that wiped out the capital of many banks.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "U.S. Bank Bailout to Rely in Part on Private Money",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "U.S. Bank Bailout to Rely In Part on Private Money",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Emergency Economic Stabilization Act (2008)",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Banks and Banking",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Economy",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Subprime Mortgage Crisis",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Obama Financial Stability Plan",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-02-09T02:52:18+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By FLOYD NORRIS",
+      "person": [
+        {
+          "firstname": "Floyd",
+          "middlename": null,
+          "lastname": "NORRIS",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5472a01638f0d85d607d5bc0",
+    "word_count": 1412,
+    "score": 1.0,
+    "uri": "nyt://article/b4b86431-38a4-5d09-8e18-1a8ed7d7f91f"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/02/09/us/09offender.html",
+    "snippet": "Some states have objected to a federal program targeting sex offenders, saying their own laws are more effective.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/02/09/us/09OFFENDER.751.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/02/09/us/09OFFENDER.751.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Effort to Track Sex Offenders Draws Resistance",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Effort to Track Sex Offenders Draws Resistance From States",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Sex Crimes",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Law and Legislation",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Child Abuse and Neglect",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "States (US)",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Politics and Government",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-02-09T01:33:15+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "byline": {
+      "original": "By ABBY GOODNOUGH and MONICA DAVEY",
+      "person": [
+        {
+          "firstname": "Abby",
+          "middlename": null,
+          "lastname": "GOODNOUGH",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Monica",
+          "middlename": null,
+          "lastname": "DAVEY",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "54729dc138f0d85d607d5b8e",
+    "word_count": 1754,
+    "score": 1.0,
+    "uri": "nyt://article/2b119c5e-0749-5284-b0d1-61883ac37b8d"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/02/09/us/09peanuts.html",
+    "snippet": "Conditions at the Peanut Corporation of America were just one element in the outbreak of salmonella.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/02/09/us/09peanut_600.jpg",
+        "height": 330,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/02/09/us/09peanut_600.jpg",
+          "xlargeheight": 330
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Peanut Case Shows Holes in Safety Net",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Peanut Case Shows Holes in Food Safety Net",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Salmonella (Bacteria)",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Peanut Butter",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Peanuts",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Tests and Testing",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Peanut Corporation of America",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Kellogg Company",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "ConAgra Foods Incorporated",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Food and Drug Administration",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Food Contamination and Poisoning",
+        "rank": 9,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-02-09T02:19:47+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "byline": {
+      "original": "By MICHAEL MOSS",
+      "person": [
+        {
+          "firstname": "Michael",
+          "middlename": null,
+          "lastname": "MOSS",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "54729e7838f0d85d607d5ba2",
+    "word_count": 1875,
+    "score": 1.0,
+    "uri": "nyt://article/f85ecbc8-2c24-5057-9c51-70cf2fe6716a"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/02/09/business/09analyst.html",
+    "snippet": "Analysts\u2019 buy ratings seem to reflect a hope that the market will soon turn a corner. Why should investors believe them this time?",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/02/09/business/09analyst.graphic.126.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2009/02/09/business/09analyst.graphic.126.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/02/09/business/09analyst.graphic.75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/02/09/business/09analyst.graphic.75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Why Analysts Keep Telling Investors to Buy",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Why Analysts Keep Telling Investors to Buy",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Stocks and Bonds",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Ratings and Rating Systems",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Recession and Depression",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Dow Jones Stock Average",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Personal Finances",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-02-09T03:37:38+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By JACK HEALY and MICHAEL M. GRYNBAUM",
+      "person": [
+        {
+          "firstname": "Jack",
+          "middlename": null,
+          "lastname": "HEALY",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Michael",
+          "middlename": null,
+          "lastname": null,
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "54729e0a38f0d85d607d5b97",
+    "word_count": 1174,
+    "score": 1.0,
+    "uri": "nyt://article/0238d49a-b20e-5873-a52d-f9b736a5ba87"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/02/09/theater/reviews/09mins.html",
+    "snippet": "\u201cMinsky\u2019s,\u201d which is having its world premiere in Los Angeles, is a musical comedy that too often seems to be looking back to familiar formulas.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/02/09/theater/Minsky75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/02/09/theater/Minsky75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "What\u2019s the Cure for Those Depression Blues? Hoofing in Your Scanties",
+      "kicker": "Theater Review | 'Minsky's'",
+      "content_kicker": "Theater Review | 'Minsky's'",
+      "print_headline": "What\u2019s the Cure for Those Depression Blues? Hoofing in Your Scanties",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Theater",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Nicholaw, Casey",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Birkenhead, Susan",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Martin, Bob (1962- )",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-02-09T04:00:35+0000",
+    "document_type": "article",
+    "new_desk": "Culture",
+    "section_name": "Theater Reviews",
+    "byline": {
+      "original": "By CHARLES ISHERWOOD",
+      "person": [
+        {
+          "firstname": "Charles",
+          "middlename": null,
+          "lastname": "ISHERWOOD",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "Review",
+    "_id": "54729b8538f0d85d607d5b5e",
+    "word_count": 1381,
+    "score": 1.0,
+    "uri": "nyt://article/e7f5e714-4200-5414-9b7d-9731e9ec20e4"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/02/09/us/09wpa.html",
+    "snippet": "A movement hopes to save from demolition hundreds of buildings built by the Works Progress Administration.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "New Deal Architecture Faces Bulldozer",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "In Renewed Hard Times, New Deal Architecture Faces Bulldozer",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "organizations",
+        "value": "Works Progress Administration",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Buildings (Structures)",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Demolition",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "New Deal (1930's)",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Great Depression (1930's)",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Historic Buildings and Sites",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Restoration and Renovation",
+        "rank": 7,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-02-09T03:17:08+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "byline": {
+      "original": "By TRACIE ROZHON",
+      "person": [
+        {
+          "firstname": "Tracie",
+          "middlename": null,
+          "lastname": "ROZHON",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "54729f8a38f0d85d607d5bb8",
+    "word_count": 1386,
+    "score": 1.0,
+    "uri": "nyt://article/52b8eeaf-2f9c-57fa-8328-e3e4caf5bf19"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/02/10/business/10pills.html",
+    "snippet": "The Food and Drug Administration says the weight-loss capsules StarCaps contain a potent pharmaceutical drug called bumetanide, which can have serious side effects.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "F.D.A. Finds \u2018Natural\u2019 Diet Pills Laced With Drugs",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Dangerous Secret In Diet Pills",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "organizations",
+        "value": "Food and Drug Administration",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Dietary Supplements and Herbal Remedies",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Recalls and Bans of Products",
+        "rank": 3,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-02-09T20:38:03+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By NATASHA SINGER",
+      "person": [
+        {
+          "firstname": "Natasha",
+          "middlename": null,
+          "lastname": "SINGER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5472a3a438f0d85d607d5bfc",
+    "word_count": 1318,
+    "score": 1.0,
+    "uri": "nyt://article/226c96c2-b100-53e7-a262-478e32e8eab2"
+  }
+]

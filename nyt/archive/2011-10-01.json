@@ -1,0 +1,656 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2011/10/02/opinion/sunday/meet-the-new-super-people.html",
+    "snippet": "Has our competitive society finally outdone itself in its tireless efforts to produce winners whose abilities are literally off the charts?",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/10/02/sunday-review/02SUPER/02SUPER-thumbWide-v2.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2011/10/02/sunday-review/02SUPER/02SUPER-thumbWide-v2.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/10/02/sunday-review/02SUPER/02SUPER-thumbStandard-v2.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/10/02/sunday-review/02SUPER/02SUPER-thumbStandard-v2.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Super People",
+      "kicker": "Opinion",
+      "content_kicker": "Opinion",
+      "print_headline": "Super People",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Admissions Standards",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Parenting",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Income Inequality",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Colleges and Universities",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Education (K-12)",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Graduate Schools and Students",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-10-01T20:24:57+0000",
+    "document_type": "article",
+    "new_desk": "OpEd",
+    "section_name": "Sunday Review",
+    "byline": {
+      "original": "By JAMES ATLAS",
+      "person": [
+        {
+          "firstname": "James",
+          "middlename": null,
+          "lastname": "ATLAS",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "Op-Ed",
+    "_id": "5401a6df38f0d841b2f39f19",
+    "word_count": 1627,
+    "score": 1.0,
+    "uri": "nyt://article/1516751f-3b6a-5c69-9c26-971a4a66269b"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/10/01/science/earth/01forest.html",
+    "snippet": "Trees, natural carbon sponges, help keep heat-trapping carbon dioxide out of the atmosphere. But insect and human threats are taking a heavy toll on them.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/10/01/science/earth/FORESTS/FORESTS-articleLarge-v2.jpg",
+        "height": 330,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2011/10/01/science/earth/FORESTS/FORESTS-articleLarge-v2.jpg",
+          "xlargeheight": 330
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/10/01/science/earth/FORESTS/FORESTS-thumbStandard-v3.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/10/01/science/earth/FORESTS/FORESTS-thumbStandard-v3.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "With Deaths of Forests, a Loss of Key Climate Protectors",
+      "kicker": "Temperature Rising",
+      "content_kicker": "Temperature Rising",
+      "print_headline": "The Threats to a Crucial Canopy",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Forests and Forestry",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Global Warming",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Greenhouse Gas Emissions",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Carbon Dioxide",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Insects",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Forest and Brush Fires",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Running, Steven W",
+        "rank": 7,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-10-01T04:43:18+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "section_name": "Environment",
+    "byline": {
+      "original": "By JUSTIN GILLIS",
+      "person": [
+        {
+          "firstname": "Justin",
+          "middlename": null,
+          "lastname": "GILLIS",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "52b9fb4238f0d8539d1b146d",
+    "word_count": 4166,
+    "score": 1.0,
+    "uri": "nyt://article/b2aec646-3498-565a-970e-bb7efc9a8d2c"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/10/02/us/politics/christie-team-assessing-how-fast-a-2012-campaign-could-be-mounted.html",
+    "snippet": "In the wake of a relentless courtship by Republicans, advisers to Gov. Chris Christie of New Jersey are considering whether they could set up effective political operations in Iowa and New Hampshire.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/10/02/us/02christie2_337/02christie2_337-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/10/02/us/02christie2_337/02christie2_337-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Christie Team Assessing How Fast a 2012 Campaign Could Be Mounted",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Pressed, Christie Team Checks Logistics of Joining 2012 Race",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Christie, Christopher J",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Presidential Election of 2012",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Politics and Government",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Republican Party",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-10-01T19:18:41+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "section_name": "Politics",
+    "byline": {
+      "original": "By MICHAEL D. SHEAR, DAVID M. HALBFINGER and JIM RUTENBERG",
+      "person": [
+        {
+          "firstname": "Michael",
+          "middlename": null,
+          "lastname": null,
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5401a89c38f0d841b2f39f37",
+    "word_count": 1310,
+    "score": 1.0,
+    "uri": "nyt://article/fe54136a-36e5-5360-879b-36c6ddb0a61e"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/10/02/sports/baseball/voice-of-yankees-draws-high-ratings-and-several-critics.html",
+    "snippet": "John Sterling can be mocked for his home run calls and stock phrases, but he is also revered by fans and celebrated for his quirkiness.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/10/02/sports/jp-sterling1/jp-sterling1-articleLarge.jpg",
+        "height": 375,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2011/10/02/sports/jp-sterling1/jp-sterling1-articleLarge.jpg",
+          "xlargeheight": 375
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/10/02/sports/jp-sterling1/jp-sterling1-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/10/02/sports/jp-sterling1/jp-sterling1-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Voice of Yankees Draws High Ratings and Many Critics",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "A Voice\u2019s Two Tones",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Sterling, John",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "New York Yankees",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Radio",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Baseball",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-10-01T16:47:43+0000",
+    "document_type": "article",
+    "new_desk": "Sports",
+    "section_name": "Baseball",
+    "byline": {
+      "original": "By BILL PENNINGTON",
+      "person": [
+        {
+          "firstname": "Bill",
+          "middlename": null,
+          "lastname": "PENNINGTON",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "515db631cf28d0219d00421e",
+    "word_count": 2920,
+    "score": 1.0,
+    "uri": "nyt://article/a0b5b274-ceb8-5cdc-a507-b6957c40b2ae"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/10/02/opinion/sunday/bruni-chris-christies-weight-and-the-oval-office.html",
+    "snippet": "Chris Christie should not face a weigh-in for the presidency.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2014/11/01/opinion/bruni-circular/bruni-circular-articleLarge-v2.jpg",
+        "height": 601,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2014/11/01/opinion/bruni-circular/bruni-circular-articleLarge-v2.jpg",
+          "xlargeheight": 601
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2014/11/01/opinion/bruni-circular/bruni-circular-thumbWide-v5.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2014/11/01/opinion/bruni-circular/bruni-circular-thumbWide-v5.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2014/11/01/opinion/bruni-circular/bruni-circular-thumbStandard-v5.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2014/11/01/opinion/bruni-circular/bruni-circular-thumbStandard-v5.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "The Round and the Oval",
+      "kicker": "Op-Ed Columnist",
+      "content_kicker": "Op-Ed Columnist",
+      "print_headline": "The Round and the Oval",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Christie, Christopher J",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Weight",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Presidential Election of 2012",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Presidents and Presidency (US)",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-10-01T20:20:51+0000",
+    "document_type": "article",
+    "new_desk": "Editorial",
+    "section_name": "Sunday Review",
+    "byline": {
+      "original": "By FRANK BRUNI",
+      "person": [
+        {
+          "firstname": "Frank",
+          "middlename": null,
+          "lastname": "BRUNI",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "Op-Ed",
+    "_id": "5401a60a38f0d841b2f39f09",
+    "word_count": 1273,
+    "score": 1.0,
+    "uri": "nyt://article/93f58382-69af-5997-a71b-fd2b5a087e92"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/10/02/business/at-bank-of-america-merrill-lynch-profits-but-no-joy.html",
+    "snippet": "Merrill Lynch was a weight when it first collapsed into the arms of Bank of America in 2008. Now the tables have turned.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/10/02/business/economy/02merrill/02merrill-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/10/02/business/economy/02merrill/02merrill-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Profits, but No Joy, for Merrill",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Profits, But No Joy, For Merrill",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "organizations",
+        "value": "Merrill Lynch & Co",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Bank of America Corporation",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Mergers, Acquisitions and Divestitures",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Banking and Financial Institutions",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Layoffs and Job Reductions",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Financial Brokers",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Moynihan, Brian T",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Stocks and Bonds",
+        "rank": 8,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-10-01T19:21:02+0000",
+    "document_type": "article",
+    "new_desk": "NAT",
+    "byline": {
+      "original": "By NELSON D. SCHWARTZ",
+      "person": [
+        {
+          "firstname": "Nelson",
+          "middlename": null,
+          "lastname": null,
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5401a07a38f0d841b2f39e9d",
+    "word_count": 1794,
+    "score": 1.0,
+    "uri": "nyt://article/0ef56495-8956-59d9-af21-3549a186be98"
+  }
+]

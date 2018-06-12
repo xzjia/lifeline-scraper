@@ -1,0 +1,172 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2008/07/17/nyregion/17towns.html",
+    "snippet": "Slowing down to 55 or 60 miles an hour to save gas might seem a no-brainer for drivers reeling from high gas prices. But some think it\u2019s unrealistic.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/07/17/nyregion/towns75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2008/07/17/nyregion/towns75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Moving Too Fast to Drive 55",
+      "kicker": "Our Towns",
+      "content_kicker": "Our Towns",
+      "print_headline": "Moving Too Fast To Drive 55",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Prices (Fares, Fees and Rates)",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Oil (Petroleum) and Gasoline",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Fuel Efficiency",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Warner, John W",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Speed Limits and Speeding",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2008-07-17T04:00:00+0000",
+    "document_type": "article",
+    "new_desk": "Metro",
+    "byline": {
+      "original": "By PETER APPLEBOME",
+      "person": [
+        {
+          "firstname": "Peter",
+          "middlename": null,
+          "lastname": "APPLEBOME",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "548317dd38f0d8403d9cd768",
+    "word_count": 947,
+    "score": 1.0,
+    "uri": "nyt://article/52f5d8bb-24b6-5d6e-9fca-ae50d1e9c284"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2008/07/17/fashion/17MADONNA.html",
+    "snippet": "She once led the fashion pack, but truth be told, Madonna is no longer daring.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/07/17/fashion/17madonna-75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2008/07/17/fashion/17madonna-75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Who\u2019s That Girl?",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Who\u2019s That Girl?",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Madonna",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Apparel",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Rock Music",
+        "rank": 3,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2008-07-17T04:00:00+0000",
+    "document_type": "article",
+    "new_desk": "Styles",
+    "byline": {
+      "original": "By ERIC WILSON",
+      "person": [
+        {
+          "firstname": "Eric",
+          "middlename": null,
+          "lastname": "WILSON",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5483126238f0d8403d9cd6c0",
+    "word_count": 1305,
+    "score": 1.0,
+    "uri": "nyt://article/4530d9e3-a670-503b-84ff-b5a65284fa81"
+  }
+]

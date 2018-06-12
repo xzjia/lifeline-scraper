@@ -1,0 +1,317 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2011/02/09/world/middleeast/09egypt.html",
+    "snippet": "In one of the largest protests yet, Egyptians loudly rejected the government\u2019s approach to change.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/02/09/world/JP-EGYPT-2/JP-EGYPT-2-articleLarge.jpg",
+        "height": 345,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2011/02/09/world/JP-EGYPT-2/JP-EGYPT-2-articleLarge.jpg",
+          "xlargeheight": 345
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/02/09/world/JP-EGYPT-2/JP-EGYPT-2-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/02/09/world/JP-EGYPT-2/JP-EGYPT-2-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "As Egypt Protest Swells, U.S. Sends Specific Demands",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "As Egypt Protest Swells, U.S. Sends Specific Demands",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Egypt",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Demonstrations, Protests, and Riots",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Politics and Government",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Mubarak, Hosni",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Tahrir Square (Cairo)",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Ghonim, Wael",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Suleiman, Omar",
+        "rank": 7,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-02-08T09:24:31+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Middle East",
+    "byline": {
+      "original": "By DAVID D. KIRKPATRICK",
+      "person": [
+        {
+          "firstname": "David",
+          "middlename": null,
+          "lastname": null,
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "540a91c838f0d84fb8833c95",
+    "word_count": 1245,
+    "score": 1.0,
+    "uri": "nyt://article/a166fca3-bdef-5970-8c94-b314aca1479f"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/02/09/health/research/09breast.html",
+    "snippet": "For about 20 percent of breast cancer patients, removing cancerous nodes, a painful measure that can cause complications, does not improve survival or prevent cancer recurrence, researchers say.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "Lymph Node Study Shakes Pillar of Breast Cancer Care",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Lymph Node Study Shakes Breast Cancer Treatment",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Breasts",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Cancer",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Lymph Glands",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Medicine and Health",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Research",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "National Cancer Institute",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Surgery and Surgeons",
+        "rank": 7,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-02-08T21:00:43+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "section_name": "Research",
+    "byline": {
+      "original": "By DENISE GRADY",
+      "person": [
+        {
+          "firstname": "Denise",
+          "middlename": null,
+          "lastname": "GRADY",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "540a937e38f0d84fb8833cb8",
+    "word_count": 1586,
+    "score": 1.0,
+    "uri": "nyt://article/b7dacd62-91ed-5b8a-92ed-3a6df6e665a4"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/02/09/education/09lunches.html",
+    "snippet": "Principals in city schools have been told to collect the money parents owe or identify a budget line the money can be taken from.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/02/08/nyregion/LUNCH/LUNCH-articleLarge-v2.jpg",
+        "height": 350,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2011/02/08/nyregion/LUNCH/LUNCH-articleLarge-v2.jpg",
+          "xlargeheight": 350
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/02/08/nyregion/LUNCH/LUNCH-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/02/08/nyregion/LUNCH/LUNCH-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Schools Facing Cuts if Lunches Aren\u2019t Paid For",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Schools Facing Cuts if Lunches Aren\u2019t Paid For",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Education (K-12)",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Lunch and Breakfast Programs",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Budgets and Budgeting",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "New York City",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Education Department (NYC)",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-02-08T15:29:51+0000",
+    "document_type": "article",
+    "new_desk": "Metro",
+    "byline": {
+      "original": "By FERNANDA SANTOS",
+      "person": [
+        {
+          "firstname": "Fernanda",
+          "middlename": null,
+          "lastname": "SANTOS",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "540fccd138f0d87641c6830e",
+    "word_count": 1102,
+    "score": 1.0,
+    "uri": "nyt://article/a8847e07-4d80-5b2f-9587-6a10b647b16b"
+  }
+]

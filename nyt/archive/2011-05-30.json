@@ -1,0 +1,550 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2011/05/31/world/asia/31japan.html",
+    "snippet": "Tokyo has showered generous subsidies, payouts and jobs on local communities that host or expand nuclear power plants.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/05/31/world/JAPAN-1/JAPAN-1-articleLarge.jpg",
+        "height": 350,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2011/05/31/world/JAPAN-1/JAPAN-1-articleLarge.jpg",
+          "xlargeheight": 350
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/05/31/world/JAPAN-1/JAPAN-1-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/05/31/world/JAPAN-1/JAPAN-1-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "In Japan, a Culture That Promotes Nuclear Dependency",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Japan\u2019s Nuclear Dependency",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Japan",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Nuclear Energy",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Fukushima Daiichi Nuclear Power Plant (Japan)",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Fukushima Daini Nuclear Power Plant (Japan)",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Japan Earthquake and Tsunami (2011)",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Tokyo Electric Power Co",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Nuclear Wastes",
+        "rank": 7,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-05-30T22:15:57+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Asia Pacific",
+    "byline": {
+      "original": "By MARTIN FACKLER and NORIMITSU ONISHI",
+      "person": [
+        {
+          "firstname": "Martin",
+          "middlename": null,
+          "lastname": "FACKLER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Norimitsu",
+          "middlename": null,
+          "lastname": "ONISHI",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "540e3a5538f0d863ce5a4966",
+    "word_count": 2554,
+    "score": 1.0,
+    "uri": "nyt://article/3fccdca7-492e-5f74-96c7-157955c47023"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/05/31/business/31privacy.html",
+    "snippet": "The Department of Health and Human Services is using existing rules to enforce medical privacy, but some wonder if stronger laws are needed.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/05/31/business/Privacy1/Privacy1-articleLarge.jpg",
+        "height": 284,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2011/05/31/business/Privacy1/Privacy1-articleLarge.jpg",
+          "xlargeheight": 284
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Breaches Lead to Push to Protect Medical Data",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "A New Push To Protect Health Data",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "organizations",
+        "value": "Health and Human Services Department",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Medicine and Health",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Privacy",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Computer Security",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Electronic Health Records",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-05-30T23:41:58+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By MILT FREUDENHEIM",
+      "person": [
+        {
+          "firstname": "Milt",
+          "middlename": null,
+          "lastname": "FREUDENHEIM",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "540e3f4438f0d863ce5a49bf",
+    "word_count": 1178,
+    "score": 1.0,
+    "uri": "nyt://article/a4eb5623-6cb4-5488-9446-d8bd04eae376"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/05/30/us/politics/30raid.html",
+    "snippet": "The Obama administration has moved the focus on illegal immigration from workplace raids to indictments against people who hire unauthorized workers.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/05/30/us/RAID-1_span/RAID-1-articleLarge.jpg",
+        "height": 350,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2011/05/30/us/RAID-1_span/RAID-1-articleLarge.jpg",
+          "xlargeheight": 350
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/05/30/us/RAID-1_span/RAID-1-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/05/30/us/RAID-1_span/RAID-1-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "A Crackdown on Employing Illegal Workers",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "A Crackdown On Employing Illegal Workers",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Illegal Immigrants",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Labor and Jobs",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Politics and Government",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Obama, Barack",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-05-30T02:38:29+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "section_name": "Politics",
+    "byline": {
+      "original": "By JULIA PRESTON",
+      "person": [
+        {
+          "firstname": "Julia",
+          "middlename": null,
+          "lastname": "PRESTON",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "540e390638f0d863ce5a494c",
+    "word_count": 1259,
+    "score": 1.0,
+    "uri": "nyt://article/f0539b96-8476-560e-be6b-48defc5c086d"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/05/30/business/economy/30auto.html",
+    "snippet": "The American auto industry has made small cars a central part of its strategy, seeking to capitalize on a shift in the preferences of consumers in an era of high gas prices.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/05/30/business/sub-jp-auto/sub-jp-auto-articleLarge.jpg",
+        "height": 315,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2011/05/30/business/sub-jp-auto/sub-jp-auto-articleLarge.jpg",
+          "xlargeheight": 315
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/05/30/business/sub-jp-auto/sub-jp-auto-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2011/05/30/business/sub-jp-auto/sub-jp-auto-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/05/30/business/sub-jp-auto/sub-jp-auto-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/05/30/business/sub-jp-auto/sub-jp-auto-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Detroit\u2019s Rebound Is Built on Smaller Cars",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Making Rebound, Detroit Focuses On Smaller Cars",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Automobiles",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Small Cars (Compact, Subcompact and Microcars)",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Fuel Efficiency",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Sales",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "General Motors",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Ford Motor Company",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-05-30T01:14:30+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "section_name": "Economy",
+    "byline": {
+      "original": "By BILL VLASIC",
+      "person": [
+        {
+          "firstname": "Bill",
+          "middlename": null,
+          "lastname": "VLASIC",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "540e396738f0d863ce5a4954",
+    "word_count": 1142,
+    "score": 1.0,
+    "uri": "nyt://article/3c52d9c3-0a01-56d8-8bf6-310dbfef5e43"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/05/31/business/31housing.html",
+    "snippet": "The downward spiral of the housing market, which experts expect will continue, has not only lowered home ownership, but tarnished a piece of the American dream.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/05/31/us/jpHOUSING/jpHOUSING-articleLarge.jpg",
+        "height": 315,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2011/05/31/us/jpHOUSING/jpHOUSING-articleLarge.jpg",
+          "xlargeheight": 315
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Housing Index Is Expected to Show a New Low in Prices",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "House Prices Are Set to Hit Another Low",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Standard & Poor's Case-Shiller Home Price Index",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Housing and Real Estate",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Sales",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Prices (Fares, Fees and Rates)",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Economy",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-05-30T20:01:11+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By DAVID STREITFELD",
+      "person": [
+        {
+          "firstname": "David",
+          "middlename": null,
+          "lastname": "STREITFELD",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "540e3d1d38f0d863ce5a499f",
+    "word_count": 1129,
+    "score": 1.0,
+    "uri": "nyt://article/b0327db6-7fdb-583b-93db-cd2b2b148e62"
+  }
+]

@@ -1,0 +1,768 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2010/02/18/garden/18aqua.html",
+    "snippet": "Aquaponic gardens use fish, water and no soil \u2014 and may be the future of food growing. ",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/02/18/garden/18aquaspan-1/18aquaspan-1-articleLarge.jpg",
+        "height": 331,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2010/02/18/garden/18aquaspan-1/18aquaspan-1-articleLarge.jpg",
+          "xlargeheight": 331
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/02/18/garden/18aquaspan-1/18aquaspan-1-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/02/18/garden/18aquaspan-1/18aquaspan-1-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "The Spotless Garden",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "The Spotless Garden",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Gardens and Gardening",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Flowers and Plants",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Water",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Science and Technology",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Vegetables",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Agriculture",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-02-17T23:58:07+0000",
+    "document_type": "article",
+    "new_desk": "Home",
+    "byline": {
+      "original": "By MICHAEL TORTORELLO",
+      "person": [
+        {
+          "firstname": "Michael",
+          "middlename": null,
+          "lastname": "TORTORELLO",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "51ed5fde38f0d8431a75a9ca",
+    "word_count": 1778,
+    "score": 1.0,
+    "uri": "nyt://article/ab93b66b-e76e-587c-9514-85b7e4f82501"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2010/02/18/technology/personaltech/18pogue.html",
+    "snippet": "Google offers a new tool that out-Twitters Twitter when it comes to sending and receiving messages. Is there a catch? You bet your Buzz there is.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/02/18/technology/personaltech/18pogue1/18pogue1-articleLarge.jpg",
+        "height": 366,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2010/02/18/technology/personaltech/18pogue1/18pogue1-articleLarge.jpg",
+          "xlargeheight": 366
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/02/18/technology/personaltech/18pogue1/18pogue1-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/02/18/technology/personaltech/18pogue1/18pogue1-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Buzzing, Tweeting and Carping",
+      "kicker": "State of the Art",
+      "content_kicker": "State of the Art",
+      "print_headline": "Buzzing, Tweeting And Carping",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Computers and the Internet",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Privacy",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Google Inc",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Electronic Mail",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-02-17T20:51:50+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "section_name": "Personal Tech",
+    "byline": {
+      "original": "By DAVID POGUE",
+      "person": [
+        {
+          "firstname": "David",
+          "middlename": null,
+          "lastname": "POGUE",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5442f5a238f0d8246e88c8ca",
+    "word_count": 1320,
+    "score": 1.0,
+    "uri": "nyt://article/5373e6cc-15d6-5fd9-b764-4e9c0c195570"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2010/02/17/nyregion/17aide.html",
+    "snippet": "David W. Johnson is described as Gov. David A. Paterson\u2019s closest confidant, despite arrests in his past and disputes with women that drew the police.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/02/17/nyregion/17aide3_337-span/17aide3_337-395-articleLarge.jpg",
+        "height": 315,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2010/02/17/nyregion/17aide3_337-span/17aide3_337-395-articleLarge.jpg",
+          "xlargeheight": 315
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/02/17/nyregion/17aide3_337-span/17aide3_337-395-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/02/17/nyregion/17aide3_337-span/17aide3_337-395-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Paterson Aide\u2019s Quick Rise Draws Scrutiny",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "For Paterson Confidant, Fast Rise and Questions",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Politics and Government",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Paterson, David A",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "New York State",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Johnson, David W",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-02-17T01:32:35+0000",
+    "document_type": "article",
+    "new_desk": "Metro",
+    "byline": {
+      "original": "By DANNY HAKIM and WILLIAM K. RASHBAUM",
+      "person": [
+        {
+          "firstname": "Danny",
+          "middlename": null,
+          "lastname": "HAKIM",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "William",
+          "middlename": "K.",
+          "lastname": "RASHBAUM",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5442eed338f0d8246e88c83d",
+    "word_count": 2177,
+    "score": 1.0,
+    "uri": "nyt://article/6588336a-20d2-57fc-9878-2b79b375bc34"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2010/02/18/nyregion/18lippman.html",
+    "snippet": "Jonathan Lippman has helped turn the Court of Appeals into a scrappier, more divided and more liberal panel.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/02/18/nyregion/18lippman_337-395/18lippman_337-395-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/02/18/nyregion/18lippman_337-395/18lippman_337-395-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Top Judge Sets Liberal Course for New York",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Top Judge Sets Liberal Course For New York",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Lippman, Jonathan",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Appeals Courts (US)",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "New York State",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Appointments and Executive Changes",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Politics and Government",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Courts",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-02-17T21:58:54+0000",
+    "document_type": "article",
+    "new_desk": "Metro",
+    "byline": {
+      "original": "By WILLIAM GLABERSON",
+      "person": [
+        {
+          "firstname": "William",
+          "middlename": null,
+          "lastname": "GLABERSON",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5442f71f38f0d8246e88c8e5",
+    "word_count": 1762,
+    "score": 1.0,
+    "uri": "nyt://article/da74256a-f958-5a38-b3f7-f6bc576291b3"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2010/02/17/dining/17angry.html",
+    "snippet": "Chefs \u2014 who have traditionally been walled up behind the dining room \u2014 are talking back online, often profanely.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/02/17/dining/17angryspan-1/17angry_CA0-articleLarge.jpg",
+        "height": 331,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2010/02/17/dining/17angryspan-1/17angry_CA0-articleLarge.jpg",
+          "xlargeheight": 331
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/02/17/dining/17angryspan-1/17angry_CA0-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/02/17/dining/17angryspan-1/17angry_CA0-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "If You Can\u2019t Take the Heat, Don\u2019t Read Me on Twitter",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "If You Can\u2019t Take the Heat, Don\u2019t Read Me On Twitter",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Chefs",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Restaurants",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Computers and the Internet",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Twitter",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Social Networking (Internet)",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Blogs and Blogging (Internet)",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Public Relations and Publicity",
+        "rank": 7,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-02-17T00:30:09+0000",
+    "document_type": "article",
+    "new_desk": "Dining",
+    "byline": {
+      "original": "By JULIA MOSKIN",
+      "person": [
+        {
+          "firstname": "Julia",
+          "middlename": null,
+          "lastname": "MOSKIN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5442e9c938f0d8246e88c7d1",
+    "word_count": 1537,
+    "score": 1.0,
+    "uri": "nyt://article/f3bebe92-550d-5ede-8949-9abb35f2ec14"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2010/02/17/business/economy/17gridlock.html",
+    "snippet": "A polarized political system seems unable to solve problems that involve trust, tough choices and little short-term gain.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/02/17/us/17gridlock_CA0/17gridlock_CA0-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/02/17/us/17gridlock_CA0/17gridlock_CA0-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Party Gridlock in Washington Feeds Fear of a Debt Crisis",
+      "kicker": "Payback Time",
+      "content_kicker": "Payback Time",
+      "print_headline": "PARTY GRIDLOCK FEEDS NEW FEAR OF A DEBT CRISIS",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "National Debt (US)",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Politics and Government",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Economy",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Simpson, Alan K",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Federal Budget (US)",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Democratic Party",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Republican Party",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "House of Representatives",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Senate",
+        "rank": 9,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Bayh, Evan",
+        "rank": 10,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Obama, Barack",
+        "rank": 11,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-02-17T02:23:24+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "section_name": "Economy",
+    "byline": {
+      "original": "By JACKIE CALMES",
+      "person": [
+        {
+          "firstname": "Jackie",
+          "middlename": null,
+          "lastname": "CALMES",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "Series",
+    "_id": "5442ef2238f0d8246e88c845",
+    "word_count": 1619,
+    "score": 1.0,
+    "uri": "nyt://article/d19775fb-8785-56ee-9617-a0e0b7cac39c"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2010/02/18/business/global/18toyota.html",
+    "snippet": "Akio Toyoda, president of Toyota Motor, appears almost eager to share information about car recalls.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/02/17/business/17cnd-toyota2/17cnd-toyota2-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/02/17/business/17cnd-toyota2/17cnd-toyota2-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Toyota\u2019s President Softens on Speaking to Congress",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Toyota\u2019s President Softens On Speaking to Congress",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "organizations",
+        "value": "Toyota Motor Corp",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Toyoda, Akio",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Brakes",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Recalls and Bans of Products",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Automobiles",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-02-17T17:35:38+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "section_name": "Global Business",
+    "byline": {
+      "original": "By MICHELINE MAYNARD",
+      "person": [
+        {
+          "firstname": "Micheline",
+          "middlename": null,
+          "lastname": "MAYNARD",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5442f2f138f0d8246e88c89e",
+    "word_count": 972,
+    "score": 1.0,
+    "uri": "nyt://article/56d745a3-3ed6-5bdb-8eac-4d1945c91ad9"
+  }
+]

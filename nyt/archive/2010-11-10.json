@@ -1,0 +1,811 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2010/11/11/us/politics/11fiscal.html",
+    "snippet": "A politically provocative and economically ambitious plan to reduce the debt is a challenge to both parties.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/11/11/us/jp-FISCAL/jp-FISCAL-articleLarge.jpg",
+        "height": 330,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2010/11/11/us/jp-FISCAL/jp-FISCAL-articleLarge.jpg",
+          "xlargeheight": 330
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/11/11/us/jp-FISCAL/jp-FISCAL-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/11/11/us/jp-FISCAL/jp-FISCAL-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Panel Seeks Social Security Cuts and Higher Taxes",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "PANEL SEEKS CUTS IN SOCIAL SECURITY AND HIGHER TAXES",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "organizations",
+        "value": "National Commission on Fiscal Responsibility and Reform",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Politics and Government",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Federal Budget (US)",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Taxation",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Economy",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Obama, Barack",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Bowles, Erskine B",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Simpson, Alan K",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Social Security (US)",
+        "rank": 9,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-11-10T18:08:14+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "section_name": "Politics",
+    "byline": {
+      "original": "By JACKIE CALMES",
+      "person": [
+        {
+          "firstname": "Jackie",
+          "middlename": null,
+          "lastname": "CALMES",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "54207f1e38f0d81f7a600297",
+    "word_count": 1402,
+    "score": 1.0,
+    "uri": "nyt://article/b413a32f-3265-5011-baac-967025ab2174"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2010/11/11/technology/personaltech/11pogue.html",
+    "snippet": "Samsung presents the Galaxy Tab, a new Android tablet with many features and a light touch. But it\u2019ll cost you.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/11/11/business/POGUE/POGUE-thumbStandard-v4.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/11/11/business/POGUE/POGUE-thumbStandard-v4.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "It\u2019s a Tablet. It\u2019s Gorgeous. It\u2019s Costly.",
+      "kicker": "State of the Art",
+      "content_kicker": "State of the Art",
+      "print_headline": "It\u2019s a Tablet. It\u2019s Gorgeous. It\u2019s Costly.",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Tablet Computers",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Samsung Group",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Android (Operating System)",
+        "rank": 3,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-11-10T23:52:53+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "section_name": "Personal Tech",
+    "byline": {
+      "original": "By DAVID POGUE",
+      "person": [
+        {
+          "firstname": "David",
+          "middlename": null,
+          "lastname": "POGUE",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5420848238f0d81f7a600306",
+    "word_count": 1333,
+    "score": 1.0,
+    "uri": "nyt://article/93991fce-d821-5b59-9580-ac13db5d3ade"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2010/11/10/education/10kaplan.html",
+    "snippet": "Kaplan and other for-profit education companies have come under scrutiny amid concerns over student debt.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/11/10/us/sub-Jp-Kaplan/sub-Jp-Kaplan-articleLarge.jpg",
+        "height": 315,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2010/11/10/us/sub-Jp-Kaplan/sub-Jp-Kaplan-articleLarge.jpg",
+          "xlargeheight": 315
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/11/10/us/sub-Jp-Kaplan/sub-Jp-Kaplan-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/11/10/us/sub-Jp-Kaplan/sub-Jp-Kaplan-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Scrutiny Takes Toll on For-Profit College Company",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Scrutiny and Suits Take a Toll On For-Profit College Company",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "organizations",
+        "value": "Kaplan Inc",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Washington Post Co",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "For-Profit Schools",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Student Loans",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Colleges and Universities",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Admissions Standards",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Education",
+        "rank": 7,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-11-10T02:52:10+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "byline": {
+      "original": "By TAMAR LEWIN",
+      "person": [
+        {
+          "firstname": "Tamar",
+          "middlename": null,
+          "lastname": "LEWIN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "54207bdf38f0d81f7a600247",
+    "word_count": 2699,
+    "score": 1.0,
+    "uri": "nyt://article/3f5fad79-8c0c-5138-8b4f-b36e3487dfc1"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2010/11/10/business/global/10global.html",
+    "snippet": "With China leading the critics of American economic policy, officials acknowledge that President Obama is going to have a difficult time winning any kind of consensus strategy.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/11/10/world/10GLOBAL/10GLOBAL-articleLarge.jpg",
+        "height": 260,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2010/11/10/world/10GLOBAL/10GLOBAL-articleLarge.jpg",
+          "xlargeheight": 260
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/11/10/world/10GLOBAL/10GLOBAL-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/11/10/world/10GLOBAL/10GLOBAL-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Challenges Await U.S. at Group of 20 Meeting",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "China Challenges Role of U.S. On Eve of Economic Meeting",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "organizations",
+        "value": "Group of Twenty",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "United States",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "China",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "US Dollar (Currency)",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Economy",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "International Trade and World Market",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Federal Reserve System",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Obama, Barack",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Germany",
+        "rank": 9,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Merkel, Angela",
+        "rank": 10,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Summit Conferences",
+        "rank": 11,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-11-10T02:10:40+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Global Business",
+    "byline": {
+      "original": "By DAVID E. SANGER",
+      "person": [
+        {
+          "firstname": "David",
+          "middlename": "E.",
+          "lastname": "SANGER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "54207c3638f0d81f7a600251",
+    "word_count": 1331,
+    "score": 1.0,
+    "uri": "nyt://article/0b689b21-daea-5bbf-a869-b034927d9e61"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2010/11/10/business/economy/10leonhardt.html",
+    "snippet": "Despite many news reports that gold has reached a \u201crecord high,\u201d it\u2019s not true, at least not in any meaningful sense",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/04/19/business/leonhardt-75/leonhardt-75-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/04/19/business/leonhardt-75/leonhardt-75-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "The Enduring Myth of Gold\u2019s Record High",
+      "kicker": "Economic Scene",
+      "content_kicker": "Economic Scene",
+      "print_headline": "The Myth Of Gold\u2019s Record High",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Gold",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Inflation (Economics)",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Economy",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Economic Conditions and Trends",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "International Trade and World Market",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Metals and Minerals",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-11-10T03:01:25+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "section_name": "Economy",
+    "byline": {
+      "original": "By DAVID LEONHARDT",
+      "person": [
+        {
+          "firstname": "David",
+          "middlename": null,
+          "lastname": "LEONHARDT",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "542076d138f0d81f7a6001d3",
+    "word_count": 946,
+    "score": 1.0,
+    "uri": "nyt://article/d1e62f7b-734a-5cc1-a5fc-3bc1f1f61cae"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2010/11/11/health/policy/11tobacco.html",
+    "snippet": "Designed to cover half the surface area of a pack, new proposed labels are meant to vividly remind smokers of tobacco\u2019s dangers.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/11/11/health/11tobaccospan-cnd/11tobaccospan-cnd-articleLarge.jpg",
+        "height": 330,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2010/11/11/health/11tobaccospan-cnd/11tobaccospan-cnd-articleLarge.jpg",
+          "xlargeheight": 330
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/11/11/health/11tobaccospan-cnd/11tobaccospan-cnd-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/11/11/health/11tobaccospan-cnd/11tobaccospan-cnd-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "F.D.A. Unveils Proposed Graphic Warning Labels for Cigarette Packs",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "U.S. Wants Smoking\u2019s Costs to Stare You in Face",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Smoking and Tobacco",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Labeling and Labels",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Food and Drug Administration",
+        "rank": 3,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-11-10T14:37:43+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "section_name": "Money & Policy",
+    "byline": {
+      "original": "By GARDINER HARRIS",
+      "person": [
+        {
+          "firstname": "Gardiner",
+          "middlename": null,
+          "lastname": "HARRIS",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "54207e8b38f0d81f7a600289",
+    "word_count": 1057,
+    "score": 1.0,
+    "uri": "nyt://article/e6f8ddf2-5d88-577f-b3a3-fd9ef3347858"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2010/11/10/nyregion/10klein.html",
+    "snippet": "Cathleen P. Black, the Hearst Magazines chairwoman, will be the New York City schools chancellor, as Joel I. Klein leaves to work for the News Corporation.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/11/10/nyregion/yjpklein/yjpklein-articleLarge.jpg",
+        "height": 350,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2010/11/10/nyregion/yjpklein/yjpklein-articleLarge.jpg",
+          "xlargeheight": 350
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/11/10/nyregion/yjpklein/yjpklein-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/11/10/nyregion/yjpklein/yjpklein-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "New York Schools Chancellor Ends 8-Year Run",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "KLEIN RESIGNING\nAS CHANCELLOR\nOF CITY SCHOOLS",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Klein, Joel I",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Black, Cathleen P",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Education Department (NYC)",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Appointments and Executive Changes",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "News Corporation",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Bloomberg, Michael R",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "New York City",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Education (K-12)",
+        "rank": 8,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-11-10T02:46:59+0000",
+    "document_type": "article",
+    "new_desk": "Education",
+    "byline": {
+      "original": "By SHARON OTTERMAN and JENNIFER MEDINA",
+      "person": [
+        {
+          "firstname": "Sharon",
+          "middlename": null,
+          "lastname": "OTTERMAN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Jennifer",
+          "middlename": null,
+          "lastname": "MEDINA",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "54207cf338f0d81f7a600261",
+    "word_count": 1493,
+    "score": 1.0,
+    "uri": "nyt://article/3b6ed259-9009-5bdd-9860-a5eebc3fb946"
+  }
+]

@@ -1,0 +1,163 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2007/10/30/science/30manh.html",
+    "snippet": "The first headquarters of the nation\u2019s secret effort to build the bomb lay in New York City.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2007/10/30/science/30manh.600.jpg",
+        "height": 330,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2007/10/30/science/30manh.600.jpg",
+          "xlargeheight": 330
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2007/10/30/science/30manh.190.126.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2007/10/30/science/30manh.190.126.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2007/10/30/science/30manh.75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2007/10/30/science/30manh.75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Why They Called It the Manhattan Project",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Why They Called It the Manhattan Project",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Bombs and Explosives",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Atomic Weapons",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Science and Technology",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "World War II (1939-45)",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Armament and Defense",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Engineering and Engineers",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Physics",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "History",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Oppenheimer, J Robert",
+        "rank": 9,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Army Corps of Engineers",
+        "rank": 10,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Manhattan (NYC)",
+        "rank": 11,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2007-10-30T04:00:00+0000",
+    "document_type": "article",
+    "new_desk": "Science",
+    "byline": {
+      "original": "By WILLIAM J. BROAD",
+      "person": [
+        {
+          "firstname": "William",
+          "middlename": "J.",
+          "lastname": "BROAD",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5475f14538f0d8119c6b047c",
+    "word_count": 1939,
+    "score": 1.0,
+    "uri": "nyt://article/abaef46c-5d43-5f69-b8bb-0856967c48d8"
+  }
+]

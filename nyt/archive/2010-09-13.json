@@ -1,0 +1,491 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2010/09/14/business/14kaiser.html",
+    "snippet": "Workers at 331 Kaiser Permanente facilities began choosing today whether to bolt the S.E.I.U. to join a breakaway union.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/09/14/business/14kaiser2/14kaiser2-articleLarge.jpg",
+        "height": 350,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2010/09/14/business/14kaiser2/14kaiser2-articleLarge.jpg",
+          "xlargeheight": 350
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/09/14/business/14kaiser2/14kaiser2-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/09/14/business/14kaiser2/14kaiser2-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Union Battle in California Threatens S.E.I.U.",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Union vs. Union",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "organizations",
+        "value": "Kaiser Permanente",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Service Employees International Union",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "California",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Organized Labor",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-09-13T19:32:40+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By STEVEN GREENHOUSE",
+      "person": [
+        {
+          "firstname": "Steven",
+          "middlename": null,
+          "lastname": "GREENHOUSE",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "541a8f5e38f0d80959e6cce7",
+    "word_count": 1401,
+    "score": 1.0,
+    "uri": "nyt://article/f2bd068e-2786-5ab3-b7a8-e909ec7b0e00"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2010/09/14/science/earth/14spill.html",
+    "snippet": "Preliminary scientific reports suggest the damage may be significantly less than was feared.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "Gulf May Avoid Direst Predictions After Oil Spill",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Oiled Gulf May Defy Direst Predictions",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Oil (Petroleum) and Gasoline",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Gulf of Mexico",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "BP Plc",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Accidents and Safety",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Offshore Drilling and Exploration",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-09-13T16:41:45+0000",
+    "document_type": "article",
+    "new_desk": "Science",
+    "section_name": "Environment",
+    "byline": {
+      "original": "By LESLIE KAUFMAN and SHAILA DEWAN",
+      "person": [
+        {
+          "firstname": "Leslie",
+          "middlename": null,
+          "lastname": "KAUFMAN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Shaila",
+          "middlename": null,
+          "lastname": "DEWAN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "541a8d0238f0d80959e6ccb4",
+    "word_count": 2021,
+    "score": 1.0,
+    "uri": "nyt://article/73953551-cc99-5afd-a190-eb9ae44fd099"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2010/09/13/us/13aging.html",
+    "snippet": "A report found one in three older workers has a physically demanding job, complicating a Social Security overhaul.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/09/13/us/AGING_span/JP-AGING-articleLarge.jpg",
+        "height": 350,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2010/09/13/us/AGING_span/JP-AGING-articleLarge.jpg",
+          "xlargeheight": 350
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/09/13/us/AGING_span/JP-AGING-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/09/13/us/AGING_span/JP-AGING-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Retiring Later Is Hard Road for Laborers",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Retiring Later Is Hard Road For Laborers",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Social Security (US)",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Retirement",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Blue Collar Workers",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Labor and Jobs",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Age, Chronological",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-09-13T02:29:56+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "byline": {
+      "original": "By JOHN LELAND",
+      "person": [
+        {
+          "firstname": "John",
+          "middlename": null,
+          "lastname": "LELAND",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "541a8b2938f0d80959e6cc7b",
+    "word_count": 1120,
+    "score": 1.0,
+    "uri": "nyt://article/fc00665c-f953-5703-a5ac-cd700ddc17e9"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2010/09/13/world/europe/13prato.html",
+    "snippet": "Prato, an Italian textile center, is now home to about 3,000 businesses run by Chinese, stoking resentment.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/09/12/world/PRATO-slide-YOH9/PRATO-slide-YOH9-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/09/12/world/PRATO-slide-YOH9/PRATO-slide-YOH9-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Chinese Remake the \u2018Made in Italy\u2019 Fashion Label",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Stitched in Italy, by Chinese: Newcomers Redefine a Label",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "International Trade and World Market",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Italy",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "China",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Fashion and Apparel",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Textiles",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Economic Conditions and Trends",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Immigration and Emigration",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Migrant and Foreign Workers",
+        "rank": 8,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-09-13T02:08:02+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Europe",
+    "byline": {
+      "original": "By RACHEL DONADIO",
+      "person": [
+        {
+          "firstname": "Rachel",
+          "middlename": null,
+          "lastname": "DONADIO",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "541a8a8438f0d80959e6cc71",
+    "word_count": 2441,
+    "score": 1.0,
+    "uri": "nyt://article/33d7c71d-ab7f-5e35-98dc-8fe23d957123"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2010/09/14/sports/14football.html",
+    "snippet": "A college athlete who killed himself had the same trauma-induced disease found in over 20 deceased N.F.L. players.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/09/14/sports/14football1/14football1-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/09/14/sports/14football1/14football1-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Suicide Reveals Signs of a Disease Seen in N.F.L.",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "In College Player\u2019s Suicide, Signs of Disease That Haunts N.F.L.",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Football",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Concussions",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "University of Pennsylvania",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Suicides and Suicide Attempts",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-09-13T19:21:09+0000",
+    "document_type": "article",
+    "new_desk": "Sports",
+    "byline": {
+      "original": "By ALAN SCHWARZ",
+      "person": [
+        {
+          "firstname": "Alan",
+          "middlename": null,
+          "lastname": "SCHWARZ",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "541a8ef138f0d80959e6ccdd",
+    "word_count": 1564,
+    "score": 1.0,
+    "uri": "nyt://article/ae12a37d-81a4-5cd5-b811-5dc7bcb83878"
+  }
+]

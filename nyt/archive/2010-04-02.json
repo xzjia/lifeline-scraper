@@ -1,0 +1,405 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2010/04/03/business/economy/03jobs.html",
+    "snippet": "Starting to reverse the loss of eight million jobs, American employers took on 162,000 more workers in March.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/04/03/business/03jobs_CA0/03jobs_CA0-articleLarge.jpg",
+        "height": 315,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2010/04/03/business/03jobs_CA0/03jobs_CA0-articleLarge.jpg",
+          "xlargeheight": 315
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Signaling Jobs Recovery, Payrolls Surged in March",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Signaling Jobs Recovery, Payrolls Surged in March",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Labor and Jobs",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Economy",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Unemployment",
+        "rank": 3,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-04-02T12:38:43+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "section_name": "Economy",
+    "byline": {
+      "original": "By CATHERINE RAMPELL and JAVIER C. HERNANDEZ",
+      "person": [
+        {
+          "firstname": "Catherine",
+          "middlename": null,
+          "lastname": "RAMPELL",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Javier",
+          "middlename": "C.",
+          "lastname": "HERNANDEZ",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5444a99c38f0d82782d9be61",
+    "word_count": 940,
+    "score": 1.0,
+    "uri": "nyt://article/e72ffc27-0311-59ac-b079-dbaf79b9f51a"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2010/04/02/business/economy/02garnish.html",
+    "snippet": "Because many consumers don\u2019t offer a defense in court, creditors can win big judgments by default.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/04/02/business/02garnish_CA0/02garnish_CA0-articleLarge.jpg",
+        "height": 315,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2010/04/02/business/02garnish_CA0/02garnish_CA0-articleLarge.jpg",
+          "xlargeheight": 315
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/04/02/business/02garnish_CA0/02garnish_CA0-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/04/02/business/02garnish_CA0/02garnish_CA0-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Pay Garnishments Rise as Debtors Fall Behind",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Pay Garnishments Rise as Debtors Fall Behind",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Credit",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Wages and Salaries",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Personal Finances",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Suits and Litigation",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Capital One Financial Corp",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "HSBC Holdings PLC",
+        "rank": 7,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-04-02T01:17:39+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "section_name": "Economy",
+    "byline": {
+      "original": "By JOHN COLLINS RUDOLF",
+      "person": [
+        {
+          "firstname": "John",
+          "middlename": "Collins",
+          "lastname": "RUDOLF",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5444a67538f0d82782d9be14",
+    "word_count": 1299,
+    "score": 1.0,
+    "uri": "nyt://article/f907dc22-199a-5bf0-a081-d21d49c17c3e"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2010/04/02/us/02bully.html",
+    "snippet": "School officials in South Hadley, Mass., dispute claims they had long known about the hazing of a 15-year-old.    ",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/04/02/us/02bully_CA0/02bully_CA0-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/04/02/us/02bully_CA0/02bully_CA0-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Questions for School on Bullying and a Suicide",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Questions for School on Bullying and a Suicide",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Bullies",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Education and Schools",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Prince, Phoebe",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Teachers and School Employees",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Teenagers and Adolescence",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Suicides and Suicide Attempts",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Massachusetts",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "South Hadley High School",
+        "rank": 8,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-04-02T01:42:33+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "byline": {
+      "original": "By ERIK ECKHOLM  and KATIE ZEZIMA",
+      "person": [
+        {
+          "firstname": "Erik",
+          "middlename": null,
+          "lastname": "ECKHOLM",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Katie",
+          "middlename": null,
+          "lastname": "ZEZIMA",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5444a78a38f0d82782d9be2f",
+    "word_count": 1464,
+    "score": 1.0,
+    "uri": "nyt://article/bfc54c7a-16aa-5f3b-a4a0-f89c4d8cc819"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2010/04/02/us/02terror.html",
+    "snippet": "The new approach will replace the extra scrutiny that had been imposed on passengers from 14 countries.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "Security Checks on Flights to U.S. to Be Revamped",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "SECURITY CHECKS ON FLIGHTS TO U.S. TO BE REVAMPED",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Terrorism",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Airlines and Airplanes",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Security and Warning Systems",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Islam",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Homeland Security Department",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Obama, Barack",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-04-02T04:00:27+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "byline": {
+      "original": "By JEFF ZELENY",
+      "person": [
+        {
+          "firstname": "Jeff",
+          "middlename": null,
+          "lastname": "ZELENY",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5444a65c38f0d82782d9be12",
+    "word_count": 1067,
+    "score": 1.0,
+    "uri": "nyt://article/9d2e583b-9baa-5cd3-8711-defc8eba2710"
+  }
+]

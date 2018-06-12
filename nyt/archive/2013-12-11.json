@@ -1,0 +1,813 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2013/12/11/us/after-setbacks-online-courses-are-rethought.html",
+    "snippet": "Large-scale online courses, hailed as a way to democratize higher education, have so far been plagued by very high attrition rates.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/12/11/us/jp-MOOCS/jp-MOOCS-articleLarge-v2.jpg",
+        "height": 400,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2013/12/11/us/jp-MOOCS/jp-MOOCS-articleLarge-v2.jpg",
+          "xlargeheight": 400
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/12/11/us/jp-MOOCS/jp-MOOCS-thumbWide-v2.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2013/12/11/us/jp-MOOCS/jp-MOOCS-thumbWide-v2.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "After Setbacks, Online Courses Are Rethought",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "After Setbacks, Online Courses Are Rethought",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Colleges and Universities",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "E-Learning",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "University of Pennsylvania",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "San Jose State University",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2013-12-11T03:13:37+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "byline": {
+      "original": "By TAMAR LEWIN",
+      "person": [
+        {
+          "firstname": "Tamar",
+          "middlename": null,
+          "lastname": "LEWIN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "52a7d86238f0d804892a0731",
+    "word_count": 1169,
+    "score": 1.0,
+    "uri": "nyt://article/6796181a-44ef-5303-97b5-d442cba7b50a"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2013/12/12/world/middleeast/us-suspends-nonlethal-aid-to-syrian-rebels-in-north.html",
+    "snippet": "The decision, just a month before a peace conference that will seek an end to the grinding civil war in Syria, demonstrated again the frustrations of trying to cultivate a viable alternative to President Bashar al-Assad.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/12/12/world/syria/syria-articleLarge.jpg",
+        "height": 400,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2013/12/12/world/syria/syria-articleLarge.jpg",
+          "xlargeheight": 400
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/12/12/world/syria/syria-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2013/12/12/world/syria/syria-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/12/12/world/syria/syria-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2013/12/12/world/syria/syria-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "U.S. Suspends Nonlethal Aid to Syria Rebels",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "U.S. Suspends Nonlethal Aid to Syria Rebels",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Middle East and North Africa Unrest (2010- )",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Syria",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States International Relations",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Foreign Aid",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Assad, Bashar al-",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2013-12-11T18:05:19+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Middle East",
+    "byline": {
+      "original": "By MICHAEL R. GORDON, MARK LANDLER and ANNE BARNARD",
+      "person": [
+        {
+          "firstname": "Michael",
+          "middlename": "R.",
+          "lastname": "GORDON",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Mark",
+          "middlename": null,
+          "lastname": "LANDLER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        },
+        {
+          "firstname": "Anne",
+          "middlename": null,
+          "lastname": "BARNARD",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 3
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "52a8a96338f0d81135c6f6a2",
+    "word_count": 1247,
+    "score": 1.0,
+    "uri": "nyt://article/1bcc230f-ccf9-5010-ba4b-94f5ed565858"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2013/12/11/world/middleeast/lebanon-worries-that-housing-will-make-syrian-refugees-stay.html",
+    "snippet": "The experience of sheltering Palestinian refugees has made the Lebanese government wary of any housing for those fleeing Syria\u2019s war that seems too permanent.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/12/08/world/middleeast/LEBANON-hp/20131209-LEBANON-slide-6QVL-articleLarge.jpg",
+        "height": 400,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2013/12/08/world/middleeast/LEBANON-hp/20131209-LEBANON-slide-6QVL-articleLarge.jpg",
+          "xlargeheight": 400
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/12/08/world/middleeast/LEBANON-hp/20131209-LEBANON-slide-6QVL-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2013/12/08/world/middleeast/LEBANON-hp/20131209-LEBANON-slide-6QVL-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/12/08/world/middleeast/LEBANON-hp/20131209-LEBANON-slide-6QVL-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2013/12/08/world/middleeast/LEBANON-hp/20131209-LEBANON-slide-6QVL-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Lebanon Worries That Housing Will Make Syrian Refugees Stay",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Lebanon Worries That Housing Will Make Syrian Refugees Stay",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Lebanon",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Syria",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Refugees and Displaced Persons",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Real Estate and Housing (Residential)",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Middle East and North Africa Unrest (2010- )",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2013-12-11T05:08:55+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Middle East",
+    "byline": {
+      "original": "By NORIMITSU ONISHI",
+      "person": [
+        {
+          "firstname": "Norimitsu",
+          "middlename": null,
+          "lastname": "ONISHI",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "52a7f36a38f0d804892a0789",
+    "word_count": 1203,
+    "score": 1.0,
+    "uri": "nyt://article/38296f90-9f93-5f93-83dd-cc64d664603c"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2013/12/12/business/international/as-bailout-chapter-closes-hardships-linger-for-irish.html",
+    "snippet": "A program of austerity, hailed as a successful recovery tool, has left many desperately struggling to survive.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/12/12/business/international/12irelandecon/12irelandecon-articleLarge.jpg",
+        "height": 399,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2013/12/12/business/international/12irelandecon/12irelandecon-articleLarge.jpg",
+          "xlargeheight": 399
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/12/12/business/international/12irelandecon/12irelandecon-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2013/12/12/business/international/12irelandecon/12irelandecon-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/12/12/business/international/12irelandecon/12irelandecon-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2013/12/12/business/international/12irelandecon/12irelandecon-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Hardships Linger for a Mending Ireland ",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Hardships Linger for a Mending Ireland",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Ireland",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "European Sovereign Debt Crisis (2010- )",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Labor and Jobs",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Unemployment",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Gross Domestic Product",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Real Estate and Housing (Residential)",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2013-12-11T14:38:13+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "section_name": "International Business",
+    "byline": {
+      "original": "By LIZ ALDERMAN",
+      "person": [
+        {
+          "firstname": "Liz",
+          "middlename": null,
+          "lastname": "ALDERMAN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "52a878dc38f0d804892a08aa",
+    "word_count": 1211,
+    "score": 1.0,
+    "uri": "nyt://article/fb62880f-4dad-54d3-898d-9e9dbb451b92"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2013/12/12/movies/awardsseason/one-best-actor-so-many-possibilities.html",
+    "snippet": "The competition for the best actor prize is exceedingly tight this season, with a dozen leading men altering their bodies and bringing harrowing and often true stories to the screen.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/12/11/arts/video-bagger-christian-bale/video-bagger-christian-bale-articleLarge.jpg",
+        "height": 338,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2013/12/11/arts/video-bagger-christian-bale/video-bagger-christian-bale-articleLarge.jpg",
+          "xlargeheight": 338
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/12/11/arts/video-bagger-christian-bale/video-bagger-christian-bale-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2013/12/11/arts/video-bagger-christian-bale/video-bagger-christian-bale-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/12/11/arts/video-bagger-christian-bale/video-bagger-christian-bale-thumbStandard-v3.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2013/12/11/arts/video-bagger-christian-bale/video-bagger-christian-bale-thumbStandard-v3.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "One Best Actor, So Many Possibilities",
+      "kicker": "The Carpetbagger",
+      "content_kicker": "The Carpetbagger",
+      "print_headline": "One Best Actor, So Many Possibilities",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Movies",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Actors and Actresses",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Academy Awards (Oscars)",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Ejiofor, Chiwetel",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Isaac, Oscar",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Dern, Bruce",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Jordan, Michael B",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Hanks, Tom",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Elba, Idris",
+        "rank": 9,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Whitaker, Forest",
+        "rank": 10,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Redford, Robert",
+        "rank": 11,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Bale, Christian",
+        "rank": 12,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "DiCaprio, Leonardo",
+        "rank": 13,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "McConaughey, Matthew",
+        "rank": 14,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2013-12-11T23:53:28+0000",
+    "document_type": "article",
+    "new_desk": "Culture",
+    "section_name": "Awards Season",
+    "byline": {
+      "original": "By MELENA RYZIK",
+      "person": [
+        {
+          "firstname": "Melena",
+          "middlename": null,
+          "lastname": "RYZIK",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "52a8fafd38f0d81135c6f7f5",
+    "word_count": 1296,
+    "score": 1.0,
+    "uri": "nyt://article/66c279d2-69b6-5d50-995f-db0f0bc5f453"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2013/12/12/health/fda-to-phase-out-use-of-some-antibiotics-in-animals-raised-for-meat.html",
+    "snippet": "The move was a major shift that could have far-reaching implications for industrial farming and human health.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/12/12/us/JP-ANTIBIOTIC/JP-ANTIBIOTIC-articleLarge.jpg",
+        "height": 901,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2013/12/12/us/JP-ANTIBIOTIC/JP-ANTIBIOTIC-articleLarge.jpg",
+          "xlargeheight": 901
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/12/12/us/JP-ANTIBIOTIC/JP-ANTIBIOTIC-thumbWide-v2.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2013/12/12/us/JP-ANTIBIOTIC/JP-ANTIBIOTIC-thumbWide-v2.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/12/12/us/JP-ANTIBIOTIC/JP-ANTIBIOTIC-thumbStandard-v2.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2013/12/12/us/JP-ANTIBIOTIC/JP-ANTIBIOTIC-thumbStandard-v2.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "F.D.A. Restricts Antibiotics Use for Livestock",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "F.D.A. Restricts Antibiotics Use For Livestock",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Agriculture and Farming",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Antibiotics",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Food and Drug Administration",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Livestock",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Factory Farming",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2013-12-11T16:43:46+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "byline": {
+      "original": "By SABRINA TAVERNISE",
+      "person": [
+        {
+          "firstname": "Sabrina",
+          "middlename": null,
+          "lastname": "TAVERNISE",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "52a8964538f0d804892a0955",
+    "word_count": 1091,
+    "score": 1.0,
+    "uri": "nyt://article/22e20084-5be6-5567-8b95-1b9aceb3a1f2"
+  }
+]

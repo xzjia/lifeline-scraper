@@ -1,0 +1,219 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2009/10/08/business/08drywall.html",
+    "snippet": "Tainted drywall installed in post-hurricane building booms has caused health problems, homeowners say.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/10/08/business/08drywall_75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/10/08/business/08drywall_75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Thousands of Homeowners Cite Drywall for Ills",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "The Enemy at Home",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Housing and Real Estate",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Consumer Product Safety Commission",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Suits and Litigation",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Lennar Corp",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-10-08T01:45:36+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By LESLIE WAYNE",
+      "person": [
+        {
+          "firstname": "Leslie",
+          "middlename": null,
+          "lastname": "WAYNE",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "53fbe8e338f0d84b3469fef0",
+    "word_count": 1369,
+    "score": 1.0,
+    "uri": "nyt://article/255188e6-6eb8-5e0e-bb22-602ae82079da"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/10/08/world/asia/08prexy.html",
+    "snippet": "President Obama\u2019s national security team is arguing that the Afghan Taliban don\u2019t pose a direct threat to the U.S.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/10/08/world/08prexy.span.600.jpg",
+        "height": 375,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/10/08/world/08prexy.span.600.jpg",
+          "xlargeheight": 375
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Afghan War Debate Now Leans to Focus on Al Qaeda",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "War Debate Now Leans to a Focus on Al Qaeda",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Afghanistan War (2001- )",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Defense and Military Forces",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Al Qaeda",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Taliban",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "United States",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Afghanistan",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Pakistan",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Obama, Barack",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "McChrystal, Stanley A",
+        "rank": 9,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Gates, Robert M",
+        "rank": 10,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-10-08T01:11:14+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Asia Pacific",
+    "byline": {
+      "original": "By PETER BAKER and ERIC SCHMITT",
+      "person": [
+        {
+          "firstname": "Peter",
+          "middlename": null,
+          "lastname": "BAKER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Eric",
+          "middlename": null,
+          "lastname": "SCHMITT",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5457031638f0d86ef22a1124",
+    "word_count": 1168,
+    "score": 1.0,
+    "uri": "nyt://article/f12c48b6-3225-5728-8e51-fc9e18cd3a86"
+  }
+]

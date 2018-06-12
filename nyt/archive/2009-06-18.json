@@ -1,0 +1,252 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2009/06/19/us/politics/19obama.html",
+    "snippet": "The president\u2019s promise to change Washington is colliding with the realities of money, influence and governance.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/06/19/us/politics/19obama_600.jpg",
+        "height": 400,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/06/19/us/politics/19obama_600.jpg",
+          "xlargeheight": 400
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/06/19/us/politics/19obama_75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/06/19/us/politics/19obama_75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Obama\u2019s Pledge on Donations Faces Reality",
+      "kicker": "Washington Memo",
+      "content_kicker": "Washington Memo",
+      "print_headline": "Obama Vow on Donations Collides With Reality",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Lobbying and Lobbyists",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Obama, Barack",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Politics and Government",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Campaign Finance",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Democratic Party",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-06-18T20:35:31+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "section_name": "Politics",
+    "byline": {
+      "original": "By JEFF ZELENY",
+      "person": [
+        {
+          "firstname": "Jeff",
+          "middlename": null,
+          "lastname": "ZELENY",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "54530d3938f0d81b603ed71c",
+    "word_count": 1052,
+    "score": 1.0,
+    "uri": "nyt://article/6ecfbf0c-ec8a-5262-9941-eb5fe8a04d8f"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/06/19/nyregion/19murder.html",
+    "snippet": "An analysis of homicide data provides insights about who is killed, by whom, where the murders occur and why.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/06/18/nyregion/19.murder.600.jpg",
+        "height": 399,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/06/18/nyregion/19.murder.600.jpg",
+          "xlargeheight": 399
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/06/18/nyregion/19murder-3030-icon.jpg",
+        "height": 30,
+        "width": 30,
+        "legacy": {
+          "wide": "images/2009/06/18/nyregion/19murder-3030-icon.jpg",
+          "widewidth": 30,
+          "wideheight": 30
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/06/18/nyregion/19.murder2.75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/06/18/nyregion/19.murder2.75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "In New York, Number of Killings Rises With Heat",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "The Dark Side Of Summer: More Killings",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Murders and Attempted Murders",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "New York City",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Police Department (NYC)",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Police",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Assaults",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Seasons and Months",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-06-18T16:03:28+0000",
+    "document_type": "article",
+    "new_desk": "Metro",
+    "byline": {
+      "original": "By ANDREW W. LEHREN and AL BAKER",
+      "person": [
+        {
+          "firstname": "Andrew",
+          "middlename": "W.",
+          "lastname": "LEHREN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Al",
+          "middlename": null,
+          "lastname": "BAKER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5453083638f0d81b603ed6a3",
+    "word_count": 1292,
+    "score": 1.0,
+    "uri": "nyt://article/30b39f34-2582-521b-a381-ba27a4c167c3"
+  }
+]

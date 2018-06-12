@@ -1,0 +1,482 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2010/07/15/technology/15verizon.html",
+    "snippet": "Thanks to a collaboration with Google, Verizon may decide it does not need Apple\u2019s iPhone on its network.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/07/15/business/15VERIZON/15VERIZON-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/07/15/business/15VERIZON/15VERIZON-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Even Without iPhone, Verizon Is Gaining on AT&T",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Even Without iPhone, Verizon Is Gaining",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "organizations",
+        "value": "Verizon Communications",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Smartphones",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "iPhone",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Apple Inc",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Google Phone",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Google Inc",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "AT&T Corp",
+        "rank": 7,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-07-15T01:04:34+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By BRAD STONE and JENNA WORTHAM",
+      "person": [
+        {
+          "firstname": "Brad",
+          "middlename": null,
+          "lastname": "STONE",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Jenna",
+          "middlename": null,
+          "lastname": "WORTHAM",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5418877038f0d86afc9a02aa",
+    "word_count": 1212,
+    "score": 1.0,
+    "uri": "nyt://article/362ad659-a372-5ce8-a9c1-13c5e8f0a62c"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2010/07/16/business/16goldman.html",
+    "snippet": "The bank agreed to pay $550 million to settle claims that it misled investors with a subprime mortgage product.    ",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/07/16/business/16sec/16sec-articleLarge.jpg",
+        "height": 350,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2010/07/16/business/16sec/16sec-articleLarge.jpg",
+          "xlargeheight": 350
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/07/16/business/16sec/16sec-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/07/16/business/16sec/16sec-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Goldman Pays $550 Million to Settle Fraud Case",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "S.E.C. Settling Its Complaints With Goldman",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "organizations",
+        "value": "Goldman Sachs Group",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Collateralized Debt Obligations",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Securities and Exchange Commission",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Suits and Litigation",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Subprime Mortgage Crisis",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Securities and Commodities Violations",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Frauds and Swindling",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Treasury Department",
+        "rank": 9,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "IKB Deutsche Industriebank",
+        "rank": 10,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Royal Bank of Scotland Plc",
+        "rank": 11,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Paulson, John A",
+        "rank": 12,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-07-15T22:26:02+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By SEWELL CHAN  and LOUISE STORY",
+      "person": [
+        {
+          "firstname": "Sewell",
+          "middlename": null,
+          "lastname": "CHAN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Louise",
+          "middlename": null,
+          "lastname": "STORY",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5418910138f0d86afc9a0399",
+    "word_count": 1226,
+    "score": 1.0,
+    "uri": "nyt://article/3c8d814f-fc52-53d5-981c-b1874fd7fe4c"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2010/07/16/us/16spill.html",
+    "snippet": "Oil stopped gushing into the Gulf of Mexico for the first time in nearly three months, as BP began testing the cap atop its well.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/07/16/us/subSPILL/subSPILL-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/07/16/us/subSPILL/subSPILL-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "BP Says Oil Flow Has Stopped as Cap Is Tested",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "BP Caps Its Leaking Well, Stopping the Oil After 86 Days",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "organizations",
+        "value": "BP Plc",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Offshore Drilling and Exploration",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Oil (Petroleum) and Gasoline",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Accidents and Safety",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Gulf of Mexico",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-07-15T05:11:15+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "byline": {
+      "original": "By CAMPBELL ROBERTSON and HENRY FOUNTAIN",
+      "person": [
+        {
+          "firstname": "Campbell",
+          "middlename": null,
+          "lastname": "ROBERTSON",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Henry",
+          "middlename": null,
+          "lastname": "FOUNTAIN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5418892438f0d86afc9a02d3",
+    "word_count": 1070,
+    "score": 1.0,
+    "uri": "nyt://article/01950177-c802-5e18-a7c8-c2aee14c90e5"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2010/07/16/business/16regulate.html",
+    "snippet": "The landmark legislation marks the end of an era of deregulation and will have uncertain implications. ",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/07/16/us/16regulatespan3-cnd/16regulatespan3-cnd-articleLarge-v2.jpg",
+        "height": 357,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2010/07/16/us/16regulatespan3-cnd/16regulatespan3-cnd-articleLarge-v2.jpg",
+          "xlargeheight": 357
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/07/16/us/16regulatespan3-cnd/16regulatespan3-cnd-thumbStandard-v2.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/07/16/us/16regulatespan3-cnd/16regulatespan3-cnd-thumbStandard-v2.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Financial Overhaul Signals Shift on Deregulation",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "CONGRESS PASSES MAJOR OVERHAUL Of FINANCE RULES",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Law and Legislation",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Regulation and Deregulation of Industry",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Banks and Banking",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Senate",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-07-15T15:40:50+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By BINYAMIN APPELBAUM and DAVID M. HERSZENHORN",
+      "person": [
+        {
+          "firstname": "Binyamin",
+          "middlename": null,
+          "lastname": "APPELBAUM",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "David",
+          "middlename": null,
+          "lastname": null,
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "54188b7b38f0d86afc9a030f",
+    "word_count": 1291,
+    "score": 1.0,
+    "uri": "nyt://article/608ccf2b-6e6a-509b-8c66-50b266d3c82d"
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2008/01/09/arts/design/09futu.html",
+    "snippet": "A look at some of the candidates who are thought to be in the running for the job of director of the Metropolitan Museum of Art.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "Let the Horse Race Begin: The Search for a Successor",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Let the Horse Race Begin: The Search for a Successor",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Museums",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Metropolitan Museum of Art",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Appointments and Executive Changes",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "de Montebello, Philippe",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "MacGregor, Neil",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Cuno, James",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Govan, Michael",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Lowry, Glenn D",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Tinterow, Gary",
+        "rank": 9,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2008-01-09T05:00:00+0000",
+    "document_type": "article",
+    "new_desk": "Culture",
+    "section_name": "Art & Design",
+    "byline": {
+      "original": "By RANDY KENNEDY",
+      "person": [
+        {
+          "firstname": "Randy",
+          "middlename": null,
+          "lastname": "KENNEDY",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "547bf3d138f0d813efccb7fb",
+    "word_count": 1152,
+    "score": 1.0,
+    "uri": "nyt://article/16f0994d-417d-539f-821c-7624ca41b2b4"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2008/01/09/dining/09alle.html",
+    "snippet": "Robyn O\u2019Brien has looked deep into the perplexing world of childhood food allergies and seen a conspiracy.\n",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/01/09/dining/09alle600.1.jpg",
+        "height": 300,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2008/01/09/dining/09alle600.1.jpg",
+          "xlargeheight": 300
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/01/09/dining/09alle75.1.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2008/01/09/dining/09alle75.1.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Food Allergies Stir a Mother to Action",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Food Allergies Stir a Mother To Action",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Food",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Allergies",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Children and Youth",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Medicine and Health",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2008-01-09T05:00:00+0000",
+    "document_type": "article",
+    "new_desk": "Dining",
+    "byline": {
+      "original": "By KIM SEVERSON",
+      "person": [
+        {
+          "firstname": "Kim",
+          "middlename": null,
+          "lastname": "SEVERSON",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "547c95ad38f0d813efccc5a1",
+    "word_count": 1838,
+    "score": 1.0,
+    "uri": "nyt://article/3c8755e2-4478-5598-814a-0805e5f2583d"
+  }
+]

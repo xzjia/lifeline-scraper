@@ -1,0 +1,395 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2010/07/14/us/14justice.html",
+    "snippet": "Six officers were charged in connection with shootings on a bridge in the days after Hurricane Katrina.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/07/14/us/14justice_337-span/Jp-JUSTICE-1-articleLarge.jpg",
+        "height": 330,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2010/07/14/us/14justice_337-span/Jp-JUSTICE-1-articleLarge.jpg",
+          "xlargeheight": 330
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/07/14/us/14justice_337-span/Jp-JUSTICE-1-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/07/14/us/14justice_337-span/Jp-JUSTICE-1-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Police Are Charged in Post-Katrina Shootings",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Police Charged In 2005 Killings In New Orleans",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Hurricane Katrina",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Police",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Murders and Attempted Murders",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Justice Department",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Holder, Eric H Jr",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-07-13T20:47:15+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "byline": {
+      "original": "By CAMPBELL ROBERTSON",
+      "person": [
+        {
+          "firstname": "Campbell",
+          "middlename": null,
+          "lastname": "ROBERTSON",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "541116e638f0d80f295221db",
+    "word_count": 1248,
+    "score": 1.0,
+    "uri": "nyt://article/d3bf241d-c622-5cb6-9d65-a0e0335c4e25"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2010/07/13/business/13collection.html",
+    "snippet": "As millions of Americans fall behind on bills, debt collection law firms have been clogging courtrooms with suits seeking repayment.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/07/13/business/13COLLECTION/13COLLECTION-articleLarge.jpg",
+        "height": 315,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2010/07/13/business/13COLLECTION/13COLLECTION-articleLarge.jpg",
+          "xlargeheight": 315
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/07/13/business/13COLLECTION/13COLLECTION-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/07/13/business/13COLLECTION/13COLLECTION-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Automated Debt-Collection Lawsuits Engulf Courts",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Automated Debt-Collection Lawsuits Engulf Courts",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Collection Agencies",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Suits and Litigation",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Credit and Debt",
+        "rank": 3,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-07-13T00:07:18+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By ANDREW MARTIN",
+      "person": [
+        {
+          "firstname": "Andrew",
+          "middlename": null,
+          "lastname": "MARTIN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5418742538f0d86afc9a00da",
+    "word_count": 1259,
+    "score": 1.0,
+    "uri": "nyt://article/afde0f44-cf7f-57a1-bb96-4789d83c6a9e"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2010/07/14/sports/baseball/14steinbrenner.html",
+    "snippet": "Mr. Steinbrenner bought a declining team in 1973, and then, in an often tumultuous reign, placed his stamp on seven World Series championship teams.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/07/14/sports/baseball/14steinbrenner-cnd/14steinbrenner-cnd-articleLarge.jpg",
+        "height": 315,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2010/07/14/sports/baseball/14steinbrenner-cnd/14steinbrenner-cnd-articleLarge.jpg",
+          "xlargeheight": 315
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/07/14/sports/baseball/14steinbrenner-cnd/14steinbrenner-cnd-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/07/14/sports/baseball/14steinbrenner-cnd/14steinbrenner-cnd-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "George Steinbrenner, Who Built Yankees Into Powerhouse, Dies at 80",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "GEORGE STEINBRENNER, 1930-2010; A Legacy of Championships From the Man Who Hated to Lose",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Steinbrenner, George M 3d",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Baseball",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "New York Yankees",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Deaths (Obituaries)",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-07-13T14:13:16+0000",
+    "document_type": "article",
+    "new_desk": "Sports",
+    "section_name": "Baseball",
+    "byline": {
+      "original": "By RICHARD GOLDSTEIN",
+      "person": [
+        {
+          "firstname": "Richard",
+          "middlename": null,
+          "lastname": "GOLDSTEIN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "Obituary (Obit)",
+    "_id": "5400b7d838f0d841b2f385c2",
+    "word_count": 2667,
+    "score": 1.0,
+    "uri": "nyt://article/d44506f4-7d64-54eb-aa23-593752c1e237"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2010/07/13/health/policy/13avandia.html",
+    "snippet": "SmithKline Beecham found in a study as early as 1999 that its diabetes medicine, Avandia, posed heart risks.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "Diabetes Drug Maker Hid Test Data, Files Indicate",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Drug Maker Hid Test Data, Files Indicate",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Avandia (Drug)",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "GlaxoSmithKline PLC",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Clinical Trials",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Heart",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Drugs (Pharmaceuticals)",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Diabetes",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Jenkins, John",
+        "rank": 8,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-07-13T04:02:34+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "section_name": "Money & Policy",
+    "byline": {
+      "original": "By GARDINER HARRIS",
+      "person": [
+        {
+          "firstname": "Gardiner",
+          "middlename": null,
+          "lastname": "HARRIS",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5418753b38f0d86afc9a00f9",
+    "word_count": 986,
+    "score": 1.0,
+    "uri": "nyt://article/851fd50e-33e8-5c83-8a0f-8ca9ed1ef636"
+  }
+]

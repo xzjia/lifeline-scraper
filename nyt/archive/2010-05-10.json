@@ -1,0 +1,568 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2010/05/10/us/politics/10court.html",
+    "snippet": "After a monthlong search, President Obama named Solicitor General Elena Kagan as the 112th justice of the Supreme Court. ",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/05/11/us/11courtspan-cnd/11courtspan-cnd-articleLarge-v2.jpg",
+        "height": 352,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2010/05/11/us/11courtspan-cnd/11courtspan-cnd-articleLarge-v2.jpg",
+          "xlargeheight": 352
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/05/11/us/11courtspan-cnd/11courtspan-cnd-thumbStandard-v2.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/05/11/us/11courtspan-cnd/11courtspan-cnd-thumbStandard-v2.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Obama Picks Kagan as Justice Nominee\r\n",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Obama Said to Pick Solicitor General for Court",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Kagan, Elena",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Supreme Court",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Obama, Barack",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Appointments and Executive Changes",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-05-10T03:19:14+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "section_name": "Politics",
+    "byline": {
+      "original": "By PETER BAKER and JEFF ZELENY",
+      "person": [
+        {
+          "firstname": "Peter",
+          "middlename": null,
+          "lastname": "BAKER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Jeff",
+          "middlename": null,
+          "lastname": "ZELENY",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5446073438f0d832c813f937",
+    "word_count": 1414,
+    "score": 1.0,
+    "uri": "nyt://article/ba21d36e-04c6-59ab-a8e6-845a2c1b3e4e"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2010/05/11/science/11maya.html",
+    "snippet": "In four days of flying over a jungle, archaeologists using lidar (light detection and ranging) surpassed the data they collected in 25 years of ground exploration.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/05/11/science/11maya1-cnd/11maya1-cnd-articleLarge.jpg",
+        "height": 330,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2010/05/11/science/11maya1-cnd/11maya1-cnd-articleLarge.jpg",
+          "xlargeheight": 330
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/05/11/science/11maya1-cnd/11maya1-cnd-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/05/11/science/11maya1-cnd/11maya1-cnd-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Mapping Ancient Civilization, in a Matter of Days",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Mapping Ancient Civilization, in a Matter of Days",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Archaeology and Anthropology",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Laser (Light Amplification by Stimulated Emission of Radiation)",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Maps",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Belize",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Science and Technology",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Mayans",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-05-10T21:25:42+0000",
+    "document_type": "article",
+    "new_desk": "Science",
+    "byline": {
+      "original": "By JOHN NOBLE WILFORD",
+      "person": [
+        {
+          "firstname": "John",
+          "middlename": "Noble",
+          "lastname": "WILFORD",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "54460bf838f0d832c813f998",
+    "word_count": 1533,
+    "score": 1.0,
+    "uri": "nyt://article/aefcefeb-9337-5917-b398-0dababd99338"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2010/05/10/world/africa/10aids.html",
+    "snippet": "Uganda is the first and most obvious example of how the war on AIDS is falling apart as cases rise and global  priorities shift.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/05/10/world/10aids_CA0/10aids_CA0-articleLarge.jpg",
+        "height": 400,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2010/05/10/world/10aids_CA0/10aids_CA0-articleLarge.jpg",
+          "xlargeheight": 400
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/05/10/world/10aids_CA0/10aids_CA0-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/05/10/world/10aids_CA0/10aids_CA0-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "At Front Lines, AIDS War Is Falling Apart",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "At Front Lines, Global War on AIDS Is Falling Apart",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Acquired Immune Deficiency Syndrome",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Africa",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Foreign Aid",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Uganda",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Medicine and Health",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Philanthropy",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "President's Emergency Plan for AIDS Relief",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Epidemics",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Global Fund to Fight AIDS, Tuberculosis and Malaria",
+        "rank": 9,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-05-10T02:22:49+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Africa",
+    "byline": {
+      "original": "By DONALD G. McNEIL Jr",
+      "person": [
+        {
+          "firstname": "Donald",
+          "middlename": "G.",
+          "lastname": "McNEIL",
+          "qualifier": "Jr",
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5400b85838f0d841b2f385f4",
+    "word_count": 1828,
+    "score": 1.0,
+    "uri": "nyt://article/f36c8aaa-521d-5a95-acf0-d82e7e99f6ce"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2010/05/10/business/media/10audio.html",
+    "snippet": "With the ease of loading music onto an iPod, a generation of fans has been happily trading fidelity for portability.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/05/10/business/10audio_CA0/10audio_CA0-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/05/10/business/10audio_CA0/10audio_CA0-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "In Mobile Age, Sound Quality Steps Back",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "In Mobile Age, Sound Quality Steps Back",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Music",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Recordings and Downloads (Audio)",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Computers and the Internet",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "iPod",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Digital Audio Players",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-05-10T01:01:11+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "section_name": "Media",
+    "byline": {
+      "original": "By JOSEPH PLAMBECK",
+      "person": [
+        {
+          "firstname": "Joseph",
+          "middlename": null,
+          "lastname": "PLAMBECK",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "544605b738f0d832c813f915",
+    "word_count": 1175,
+    "score": 1.0,
+    "uri": "nyt://article/66c5e09e-f871-5854-9e11-30b5d631d2b4"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2010/05/11/business/global/11euro.html",
+    "snippet": "Central banks began buying euro-zone bonds \u2014 an unprecedented move to inject cash into the system.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/05/11/business/11euro2-cnd/11euro2-cnd-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/05/11/business/11euro2-cnd/11euro2-cnd-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Europe Officials Move to Carry Out Aid Package",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "European Officials Move to Carry Out Rescue Package",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Europe",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Greece",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Credit",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Economic Conditions and Trends",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "European Union",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "International Monetary Fund",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "European Central Bank",
+        "rank": 7,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-05-10T05:26:13+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "section_name": "Global Business",
+    "byline": {
+      "original": "By JACK EWING and JAMES KANTER",
+      "person": [
+        {
+          "firstname": "Jack",
+          "middlename": null,
+          "lastname": "EWING",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "James",
+          "middlename": null,
+          "lastname": "KANTER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5446074638f0d832c813f939",
+    "word_count": 1831,
+    "score": 1.0,
+    "uri": "nyt://article/49414d0f-e4ae-57d7-8a26-2aa81f217dc6"
+  }
+]

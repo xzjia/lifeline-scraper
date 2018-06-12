@@ -1,0 +1,121 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2010/06/27/world/27battalion.html",
+    "snippet": "For the next year, the First Battalion, 87th Infantry of the 10th Mountain Division will be in Afghanistan, part of the additional 30,000 troops at the backbone of President Obama\u2019s plan for ending the war.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/06/27/us/SURGE/SURGE-articleLarge-v2.jpg",
+        "height": 395,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2010/06/27/us/SURGE/SURGE-articleLarge-v2.jpg",
+          "xlargeheight": 395
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/06/27/us/SURGE/SURGE-thumbWide-v2.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2010/06/27/us/SURGE/SURGE-thumbWide-v2.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/06/27/us/SURGE/SURGE-thumbStandard-v2.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/06/27/us/SURGE/SURGE-thumbStandard-v2.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "One Battalion\u2019s Wrenching Deployment to Afghanistan",
+      "kicker": "A Year at War",
+      "content_kicker": "A Year at War",
+      "print_headline": "Gone for a Soldier",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "United States Defense and Military Forces",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Afghanistan War (2001- )",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Families and Family Life",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Fort Drum (NY)",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-06-27T01:59:00+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "byline": {
+      "original": "By JAMES DAO",
+      "person": [
+        {
+          "firstname": "James",
+          "middlename": null,
+          "lastname": "DAO",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "53b411a438f0d841fe32d9e2",
+    "word_count": 2666,
+    "score": 1.0,
+    "uri": "nyt://article/47c9b21d-b06e-5901-a987-d5125d6136f2"
+  }
+]

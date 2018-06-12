@@ -1,0 +1,149 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2008/03/30/weekinreview/30kers.html",
+    "snippet": "Mental health insurance parity raises all sorts of tricky questions. Is an ailment a legitimate disease if you can\u2019t test for it?",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/03/30/weekinreview/30kersh.751.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2008/03/30/weekinreview/30kersh.751.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "The Murky Politics of Mind-Body",
+      "kicker": "Insure Me, Please",
+      "content_kicker": "Insure Me, Please",
+      "print_headline": "The Murky Politics Of Mind-Body",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Health Insurance and Managed Care",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Mental Health and Disorders",
+        "rank": 2,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2008-03-30T04:00:00+0000",
+    "document_type": "article",
+    "new_desk": "WeekInReview",
+    "byline": {
+      "original": "By SARAH KERSHAW",
+      "person": [
+        {
+          "firstname": "Sarah",
+          "middlename": null,
+          "lastname": "KERSHAW",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "547faf0738f0d82816287bbd",
+    "word_count": 1709,
+    "score": 1.0,
+    "uri": "nyt://article/0b032e51-a835-5e50-8aca-403054bd7c66"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2008/03/30/sports/baseball/30stadium.html",
+    "snippet": "In the new Yankee stadium the field dimensions will be the same, but there are doodles and quirks and alcoves that will be lost to memory.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/03/30/sports/30stadium.1.75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2008/03/30/sports/30stadium.1.75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Deep Inside the Big Ballyard in the Bronx",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Deep Inside the Big Ballyard in the Bronx",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Stadiums and Arenas",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "New York Yankees",
+        "rank": 2,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2008-03-30T04:00:00+0000",
+    "document_type": "article",
+    "new_desk": "Sports",
+    "section_name": "Baseball",
+    "byline": {
+      "original": "By TYLER KEPNER",
+      "person": [
+        {
+          "firstname": "Tyler",
+          "middlename": null,
+          "lastname": "KEPNER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "547fa71e38f0d82816287afb",
+    "word_count": 1761,
+    "score": 1.0,
+    "uri": "nyt://article/786e37f3-43ad-5222-8351-293a53a5b2f6"
+  }
+]

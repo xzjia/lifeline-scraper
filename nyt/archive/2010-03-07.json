@@ -1,0 +1,94 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2010/03/08/world/middleeast/08iraq.html",
+    "snippet": "The top American military commander in Iraq on Monday praised the Iraqi military\u2019s performance during Sunday\u2019s Parliamentary election.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/03/08/world/08iraq_CA0/08iraq_CA0-articleLarge.jpg",
+        "height": 345,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2010/03/08/world/08iraq_CA0/08iraq_CA0-articleLarge.jpg",
+          "xlargeheight": 345
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "As Iraq Tallies Vote, U.S. Says Pullout Plans Are \u2018on Track\u2019",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Iraqis Defy Blasts in Strong Turnout for Pivotal Vote",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Iraq",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Elections",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Maliki, Nuri Kamal al-",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Allawi, Ayad",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Politics and Government",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-03-07T04:14:46+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Middle East",
+    "byline": {
+      "original": "By STEVEN LEE MYERS",
+      "person": [
+        {
+          "firstname": "Steven",
+          "middlename": "Lee",
+          "lastname": "MYERS",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5400b9a838f0d841b2f386b8",
+    "word_count": 1304,
+    "score": 1.0,
+    "uri": "nyt://article/46676ca4-a5d4-5204-9651-f7920c696a89"
+  }
+]

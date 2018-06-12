@@ -1,0 +1,126 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2007/12/13/fashion/13pet.html",
+    "snippet": "The boundaries between humans and animals have been eaten away to the point where devoted owners lose all perspective on the pet\u2019s role in their social lives.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2007/12/13/fashion/13pet600.1.jpg",
+        "height": 300,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2007/12/13/fashion/13pet600.1.jpg",
+          "xlargeheight": 300
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2007/12/13/fashion/13pet75.1.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2007/12/13/fashion/13pet75.1.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Who Invited the Dog?",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Who Invited The Dog?",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Pets",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Customs, Etiquette and Manners",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Holidays and Special Occasions",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Parties (Social)",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Dogs",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Cats",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2007-12-13T05:00:00+0000",
+    "document_type": "article",
+    "new_desk": "Styles",
+    "byline": {
+      "original": "By JOYCE WADLER and ABBY AGUIRRE",
+      "person": [
+        {
+          "firstname": "Joyce",
+          "middlename": null,
+          "lastname": "WADLER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Abby",
+          "middlename": null,
+          "lastname": "AGUIRRE",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "54892aed38f0d82a67123450",
+    "word_count": 1487,
+    "score": 1.0,
+    "uri": "nyt://article/078cdcac-d42d-54df-9966-1f175e5eabdc"
+  }
+]

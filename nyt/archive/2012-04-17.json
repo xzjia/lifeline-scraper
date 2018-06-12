@@ -1,0 +1,464 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2012/04/18/world/americas/secret-service-inquires-trace-women-in-colombia.html",
+    "snippet": "Investigators are searching for as many as 21 women who are believed to include prostitutes and to have spent the night with a group of security officers.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "In Agent Scandal, Inquiry Leads to Colombian Bordellos",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Agent Scandal: Inquiry Leads To the Bordello",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Prostitution",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Secret Service",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Colombia",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Cartagena (Colombia)",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Defense and Military Forces",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2012-04-17T17:40:42+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "section_name": "Americas",
+    "byline": {
+      "original": "By WILLIAM NEUMAN and MICHAEL S. SCHMIDT",
+      "person": [
+        {
+          "firstname": "William",
+          "middlename": null,
+          "lastname": "NEUMAN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Michael",
+          "middlename": "S.",
+          "lastname": "SCHMIDT",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "53f5c8fd38f0d87ef470ead1",
+    "word_count": 1263,
+    "score": 1.0,
+    "uri": "nyt://article/89ee091e-1c22-5a81-99ed-26b8bcfc551e"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2012/04/17/world/asia/bo-guaguas-parties-and-privilege-aggravate-elite-chinese-familys-fall.html",
+    "snippet": "Communist party officials are angered by the lifestyle of Bo Guagua, whose parents, Bo Xilai and Gu Kailai, are subjects of corruption and murder investigations.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/04/17/world/asia/BEIJING/BEIJING-articleLarge.jpg",
+        "height": 316,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2012/04/17/world/asia/BEIJING/BEIJING-articleLarge.jpg",
+          "xlargeheight": 316
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/04/17/world/asia/BEIJING/BEIJING-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2012/04/17/world/asia/BEIJING/BEIJING-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Son\u2019s Parties and Privilege Aggravate Fall of Elite Chinese Family",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Son\u2019s Parties and Privilege Aggravate Fall of Elite Chinese Family",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Bo Guagua",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Communist Party of China",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Bo Xilai",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Gu Kailai",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "China",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Murders and Attempted Murders",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Politics and Government",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Heywood, Neil",
+        "rank": 8,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2012-04-17T01:44:09+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Asia Pacific",
+    "byline": {
+      "original": "By ANDREW JACOBS and DAN LEVIN",
+      "person": [
+        {
+          "firstname": "Andrew",
+          "middlename": null,
+          "lastname": "JACOBS",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Dan",
+          "middlename": null,
+          "lastname": "LEVIN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "53ea7b6c38f0d8422fc72963",
+    "word_count": 1695,
+    "score": 1.0,
+    "uri": "nyt://article/b1a626df-6102-5a16-8b86-616705bc0cc8"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2012/04/18/arts/television/julian-assange-starts-talk-show-on-russian-tv.html",
+    "snippet": "Under house arrest in Britain, Julian Assange, the founder of WikiLeaks, unveiled a new talk show on Tuesday with his own version of a sensational get: the Hezbollah leader Hassan Nasrallah.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/04/18/arts/sub-jp18watch/sub-jp18watch-articleLarge.jpg",
+        "height": 330,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2012/04/18/arts/sub-jp18watch/sub-jp18watch-articleLarge.jpg",
+          "xlargeheight": 330
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/04/18/arts/sub-jp18watch/sub-jp18watch-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2012/04/18/arts/sub-jp18watch/sub-jp18watch-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "The Prisoner as Talk Show Host",
+      "kicker": "The TV Watch",
+      "content_kicker": "The TV Watch",
+      "print_headline": "The Prisoner as Talk Show Host",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Television",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Wikileaks",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Hezbollah",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Assange, Julian P",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Nasrallah, Hassan",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2012-04-17T19:23:01+0000",
+    "document_type": "article",
+    "new_desk": "Culture",
+    "section_name": "Television",
+    "byline": {
+      "original": "By ALESSANDRA STANLEY",
+      "person": [
+        {
+          "firstname": "Alessandra",
+          "middlename": null,
+          "lastname": "STANLEY",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "515da777cf28d0219d001e21",
+    "word_count": 893,
+    "score": 1.0,
+    "uri": "nyt://article/dbd4409f-7a05-50a8-bfaa-2012aefb2640"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2012/04/17/nyregion/lawyers-find-obstacles-to-the-disabled-then-find-plaintiffs.html",
+    "snippet": "Some lawyers are identifying New York City businesses where there are violations of the Americans With Disabilities Act, then finding disabled plaintiffs to develop lawsuits.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/04/17/nyregion/ADA/ADA-articleLarge.jpg",
+        "height": 360,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2012/04/17/nyregion/ADA/ADA-articleLarge.jpg",
+          "xlargeheight": 360
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/04/17/nyregion/ADA/ADA-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2012/04/17/nyregion/ADA/ADA-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Disabilities Act Prompts Flood of Suits Some Cite as Unfair",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Disabilities Act Used By Lawyers In Flood Of Suits",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Americans With Disabilities Act",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Suits and Litigation",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Weitz, Ben-Zion Bradley",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "New York City",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Disabilities",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Florida",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Law and Legislation",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Legal Profession",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Small Business",
+        "rank": 9,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2012-04-17T00:51:24+0000",
+    "document_type": "article",
+    "new_desk": "Metro",
+    "byline": {
+      "original": "By MOSI SECRET",
+      "person": [
+        {
+          "firstname": "Mosi",
+          "middlename": null,
+          "lastname": "SECRET",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "53226d6738f0d8378edc9cd1",
+    "word_count": 1308,
+    "score": 1.0,
+    "uri": "nyt://article/4ffa91e7-2d62-5b33-bc92-d5802250c834"
+  }
+]

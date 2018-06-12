@@ -1,0 +1,196 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2014/09/28/world/europe/it-pays-to-be-putins-friend-.html",
+    "snippet": "The rise of Bank Rossiya, controlled by close friends of President Vladimir V. Putin of Russia, illustrates how he has enriched loyalists whose influence over the economy has helped him maintain his iron grip on power. ",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2014/09/28/world/europe/PUTIN/PUTIN-articleLarge.jpg",
+        "height": 436,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2014/09/28/world/europe/PUTIN/PUTIN-articleLarge.jpg",
+          "xlargeheight": 436
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2014/09/28/world/europe/PUTIN/PUTIN-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2014/09/28/world/europe/PUTIN/PUTIN-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2014/09/28/world/europe/PUTIN/PUTIN-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2014/09/28/world/europe/PUTIN/PUTIN-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Private Bank Fuels\nFortunes of Putin\u2019s\nInner Circle",
+      "kicker": "Putin\u2019s Way",
+      "content_kicker": "Putin\u2019s Way",
+      "print_headline": "It Pays to Be Putin\u2019s Friend",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Putin, Vladimir V",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Russia",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Bank Rossiya",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Series",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Embargoes and Sanctions",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Corruption (Institutional)",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Obama, Barack",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Kovalchuk, Yuri V",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Timchenko, Gennady N",
+        "rank": 9,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Yakunin, Vladimir I",
+        "rank": 10,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Sechin, Igor I",
+        "rank": 11,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Warnig, Matthias",
+        "rank": 12,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Fursenko, Andrei A",
+        "rank": 13,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2014-09-28T00:30:39+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Europe",
+    "byline": {
+      "original": "By STEVEN LEE MYERS, JO BECKER and JIM YARDLEY",
+      "person": [
+        {
+          "firstname": "Steven",
+          "middlename": "Lee",
+          "lastname": "MYERS",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Jo",
+          "middlename": null,
+          "lastname": "BECKER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        },
+        {
+          "firstname": "Jim",
+          "middlename": null,
+          "lastname": "YARDLEY",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 3
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "542756b238f0d858f109f7ff",
+    "word_count": 5118,
+    "score": 1.0,
+    "uri": "nyt://article/a8be0509-5bda-58ff-ac31-fccdb1de9dc6"
+  }
+]

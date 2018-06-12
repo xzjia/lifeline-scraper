@@ -1,0 +1,570 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2010/03/23/world/europe/23britain.html",
+    "snippet": "An elitist statement by a Parliament member was a reminder of how hard it has been for Tories to shake off a past many of them still seem to embrace.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "Election Looming, Tories Put Posh Foot in Mouth",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "As Party Fights Elite Image, Tory Puts Posh Foot in Mouth",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Great Britain",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Conservative Party",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Politics and Government",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Elections",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Cameron, David",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-03-23T00:54:35+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Europe",
+    "byline": {
+      "original": "By SARAH LYALL",
+      "person": [
+        {
+          "firstname": "Sarah",
+          "middlename": null,
+          "lastname": "LYALL",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "54443f4c38f0d82782d9b56b",
+    "word_count": 1089,
+    "score": 1.0,
+    "uri": "nyt://article/6b283bab-05a6-58ba-91fe-464e21210ee0"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2010/03/24/technology/24google.html",
+    "snippet": "Google\u2019s China operations came under pressure as some content from its uncensored Hong Kong site was blocked.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/03/24/business/24google3-cnd/24google3-cnd-articleLarge.jpg",
+        "height": 331,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2010/03/24/business/24google3-cnd/24google3-cnd-articleLarge.jpg",
+          "xlargeheight": 331
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/03/24/business/24google3-cnd/24google3-cnd-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/03/24/business/24google3-cnd/24google3-cnd-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Google Faces Fallout as China Reacts  to Site Shift",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Making a Stand, Google Faces the Fallout",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "organizations",
+        "value": "Google Inc",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "China",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Computers and the Internet",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Search Engines",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Censorship",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Relocation of Business",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Hong Kong",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "China Mobile Ltd",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "China Unicom (Hong Kong) Ltd",
+        "rank": 9,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-03-23T11:07:42+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By MIGUEL HELFT and MICHAEL WINES",
+      "person": [
+        {
+          "firstname": "Miguel",
+          "middlename": null,
+          "lastname": "HELFT",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Michael",
+          "middlename": null,
+          "lastname": "WINES",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "544441e738f0d82782d9b5a1",
+    "word_count": 1203,
+    "score": 1.0,
+    "uri": "nyt://article/2a14bee4-c33a-5577-ba19-33b324a14e13"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2010/03/24/business/24leonhardt.html",
+    "snippet": "The health care bill is the government\u2019s biggest attack on economic inequality since it began rising in the 1970s.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2016/07/15/timestopics/sub2-leonhardt-topics/sub2-leonhardt-topics-articleLarge.jpg",
+        "height": 600,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2016/07/15/timestopics/sub2-leonhardt-topics/sub2-leonhardt-topics-articleLarge.jpg",
+          "xlargeheight": 600
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2016/07/15/timestopics/sub2-leonhardt-topics/sub2-leonhardt-topics-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2016/07/15/timestopics/sub2-leonhardt-topics/sub2-leonhardt-topics-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2016/07/15/timestopics/sub2-leonhardt-topics/sub2-leonhardt-topics-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2016/07/15/timestopics/sub2-leonhardt-topics/sub2-leonhardt-topics-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "In Health Bill, Obama Attacks Wealth Inequality",
+      "kicker": "Economic Scene",
+      "content_kicker": "Economic Scene",
+      "print_headline": "Health Care Overhaul Becomes the Law of the Land: In the Process, Pushing Back At Inequality",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Health Insurance and Managed Care",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Reform and Reorganization",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Income Inequality",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Economy",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Law and Legislation",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Reagan, Ronald Wilson",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Obama, Barack",
+        "rank": 7,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-03-23T23:34:53+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By DAVID LEONHARDT",
+      "person": [
+        {
+          "firstname": "David",
+          "middlename": null,
+          "lastname": "LEONHARDT",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5444424e38f0d82782d9b5aa",
+    "word_count": 1138,
+    "score": 1.0,
+    "uri": "nyt://article/475f271e-d580-57e8-80d2-cd90da861b62"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2010/03/23/arts/design/23nyu.html",
+    "snippet": "New York University\u2019s proposals have been met with skepticism from neighbors and preservationists.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/03/23/nyregion/23nyu-2/23nyu-2-articleLarge.jpg",
+        "height": 315,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2010/03/23/nyregion/23nyu-2/23nyu-2-articleLarge.jpg",
+          "xlargeheight": 315
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/03/23/nyregion/23nyu-2/23nyu-2-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/03/23/nyregion/23nyu-2/23nyu-2-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "N.Y.U. Plans to Expand Campuses by 40 Percent",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "N.Y.U. 20-Year Plan Seeks Big Expansion in Village and Beyond",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "organizations",
+        "value": "New York University",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Greenwich Village (NYC)",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Brooklyn (NYC)",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Governors Island (NYC)",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Colleges and Universities",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Area Planning and Renewal",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-03-23T01:08:30+0000",
+    "document_type": "article",
+    "new_desk": "Metro",
+    "section_name": "Art & Design",
+    "byline": {
+      "original": "By ROBIN POGREBIN",
+      "person": [
+        {
+          "firstname": "Robin",
+          "middlename": null,
+          "lastname": "POGREBIN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "54443fb238f0d82782d9b576",
+    "word_count": 1307,
+    "score": 1.0,
+    "uri": "nyt://article/f6026e41-a64e-59c2-8926-e326da55a4b1"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2010/03/24/nyregion/24newark.html",
+    "snippet": "Almost 32 years after five teenage boys vanished, two men were charged with murder and arson.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/03/24/nyregion/24newarkspan-cnd/24newarkspan-cnd-articleLarge.jpg",
+        "height": 363,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2010/03/24/nyregion/24newarkspan-cnd/24newarkspan-cnd-articleLarge.jpg",
+          "xlargeheight": 363
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/03/24/nyregion/24newarkspan-cnd/24newarkspan-cnd-thumbStandard-v2.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/03/24/nyregion/24newarkspan-cnd/24newarkspan-cnd-thumbStandard-v2.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "In Newark, Arrests Are Made in 1978 Killings",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Long After 5 Boys Vanished, a Brutal Truth",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Murders and Attempted Murders",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Newark (NJ)",
+        "rank": 2,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-03-23T16:04:29+0000",
+    "document_type": "article",
+    "new_desk": "Metro",
+    "byline": {
+      "original": "By MICHAEL WILSON and COLIN MOYNIHAN",
+      "person": [
+        {
+          "firstname": "Michael",
+          "middlename": null,
+          "lastname": "WILSON",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Colin",
+          "middlename": null,
+          "lastname": "MOYNIHAN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5444426138f0d82782d9b5ad",
+    "word_count": 1407,
+    "score": 1.0,
+    "uri": "nyt://article/81e4cb0c-88f0-5cc2-bce7-7323cac20589"
+  }
+]

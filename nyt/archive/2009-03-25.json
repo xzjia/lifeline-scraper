@@ -1,0 +1,923 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2009/03/26/us/26tents.html",
+    "snippet": "Reminiscent of the Great Depression, encampments of homeless people are growing in such cities as Fresno, Calif.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/03/25/us/26sacramento2_600.JPG",
+        "height": 331,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/03/25/us/26sacramento2_600.JPG",
+          "xlargeheight": 331
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/03/25/us/26sacramento2_75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/03/25/us/26sacramento2_75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Cities Deal With a Surge in Shantytowns",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Tent Cities Arise and Spread in Recession\u2019s Grip",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Homeless Persons",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "California",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Recession and Depression",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-03-25T22:25:40+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "byline": {
+      "original": "By JESSE McKINLEY",
+      "person": [
+        {
+          "firstname": "Jesse",
+          "middlename": null,
+          "lastname": "McKINLEY",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "545ba71338f0d842c59d2337",
+    "word_count": 1295,
+    "score": 1.0,
+    "uri": "nyt://article/15cc6279-43e2-5256-971a-e360696dc52a"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/03/25/world/americas/25mexico.html",
+    "snippet": "Secretary of State Hillary Rodham Clinton will pay a visit Wednesday to an unhappy neighbor that blames America for many of its problems.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/03/25/world/25mexico_600.JPG",
+        "height": 331,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/03/25/world/25mexico_600.JPG",
+          "xlargeheight": 331
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/03/25/world/25mexico_75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/03/25/world/25mexico_75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "As Clinton Visits Mexico, Strains Show in Relations",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Obama\u2019s Next Foreign Crisis Could Be Next Door",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Mexico",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Drug Abuse and Traffic",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States International Relations",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "International Trade and World Market",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "International Relations",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Economy",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Immigration and Emigration",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Protectionism (Trade)",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "North American Free Trade Agreement",
+        "rank": 9,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Clinton, Hillary Rodham",
+        "rank": 10,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Obama, Barack",
+        "rank": 11,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-03-25T00:40:01+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Americas",
+    "byline": {
+      "original": "By MARC LACEY and GINGER THOMPSON",
+      "person": [
+        {
+          "firstname": "Marc",
+          "middlename": null,
+          "lastname": "LACEY",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Ginger",
+          "middlename": null,
+          "lastname": "THOMPSON",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5468b63f38f0d81e5cd0de83",
+    "word_count": 1101,
+    "score": 1.0,
+    "uri": "nyt://article/a752910b-d9dc-59c8-897b-ca7219a298b2"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/03/25/business/25hedge.html",
+    "snippet": "Alpha magazine\u2019s rankings show that the top earners took in $11.6 billion by trading above the pain in 2008.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/03/24/business/25hedge_600.jpg",
+        "height": 280,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/03/24/business/25hedge_600.jpg",
+          "xlargeheight": 280
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/03/24/business/25hedge_75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/03/24/business/25hedge_75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Top Hedge Fund Managers Do Well in a Down Year",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Just a Little Off the Top",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Hedge Funds",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Subprime Mortgage Crisis",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Executive Compensation",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Wages and Salaries",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Arnold, John D",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Soros, George",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Alpha (Magazine)",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Paulson, John A",
+        "rank": 8,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-03-25T02:24:14+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By LOUISE STORY",
+      "person": [
+        {
+          "firstname": "Louise",
+          "middlename": null,
+          "lastname": "STORY",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "54449b0438f0d82782d9bd26",
+    "word_count": 1184,
+    "score": 1.0,
+    "uri": "nyt://article/62db1812-b1e3-5b62-8278-5d8fae2e2211"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/03/25/education/25cards.html",
+    "snippet": "Number grades are said to chart mastery of specific skills, but many parents, including some in Pelham, N.Y., find them confusing or worse.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/03/25/education/25cards_XL.jpg",
+        "height": 330,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/03/25/education/25cards_XL.jpg",
+          "xlargeheight": 330
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/03/25/education/25cards_75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/03/25/education/25cards_75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Report Cards Give Up A\u2019s and B\u2019s for 4s and 3s",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Report Cards Give Up A\u2019s and B\u2019s for 4s and 3s",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Grading of Students",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Education and Schools",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "New York State",
+        "rank": 3,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-03-25T02:49:32+0000",
+    "document_type": "article",
+    "new_desk": "Metro",
+    "byline": {
+      "original": "By WINNIE HU",
+      "person": [
+        {
+          "firstname": "Winnie",
+          "middlename": null,
+          "lastname": "HU",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5468b88938f0d81e5cd0deb2",
+    "word_count": 1288,
+    "score": 1.0,
+    "uri": "nyt://article/6d619c62-8a12-519d-9341-36f4f177df45"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/03/26/technology/personaltech/26pogue.html",
+    "snippet": "Netbooks have slow processors, tiny screens and are good at handling e-mail. Why are they so popular?",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/03/26/technology/personaltech/pogue.1.600.jpg",
+        "height": 300,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/03/26/technology/personaltech/pogue.1.600.jpg",
+          "xlargeheight": 300
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/03/26/technology/personaltech/pogue.1.75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/03/26/technology/personaltech/pogue.1.75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "When Laptops Go Light",
+      "kicker": "State of the Art",
+      "content_kicker": "State of the Art",
+      "print_headline": "When Laptops Go Light",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Computers and the Internet",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Wireless Communications",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Laptop Computers",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Computer Chips",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-03-25T21:35:49+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "section_name": "Personal Tech",
+    "byline": {
+      "original": "By DAVID POGUE",
+      "person": [
+        {
+          "firstname": "David",
+          "middlename": null,
+          "lastname": "POGUE",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "53f58ce838f0d87ef470e72b",
+    "word_count": 1201,
+    "score": 1.0,
+    "uri": "nyt://article/8786ea41-a476-54ef-a25b-20f0d55d042c"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/03/26/health/nutrition/26best.html",
+    "snippet": "Caffeine is one of the few performance enhancers that are not banned by the World Anti-Doping Agency, and studies have proved that it does work in athletes' favor.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2016/11/26/homepage/26best-sl/26best-sl-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2016/11/26/homepage/26best-sl/26best-sl-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2016/11/26/homepage/26best-sl/26best-sl-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2016/11/26/homepage/26best-sl/26best-sl-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "It\u2019s Time to Make a Coffee Run",
+      "kicker": "Personal Best",
+      "content_kicker": "Personal Best",
+      "print_headline": "It\u2019s Time To Make A Coffee Run",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Caffeine",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Running",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Coffee",
+        "rank": 3,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-03-25T21:45:33+0000",
+    "document_type": "article",
+    "new_desk": "Styles",
+    "section_name": "Fitness & Nutrition",
+    "byline": {
+      "original": "By GINA KOLATA",
+      "person": [
+        {
+          "firstname": "Gina",
+          "middlename": null,
+          "lastname": "KOLATA",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5468bd0b38f0d81e5cd0df10",
+    "word_count": 1363,
+    "score": 1.0,
+    "uri": "nyt://article/0711dd14-acd3-538a-85d3-29f71fa6e13c"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/03/26/garden/26office.html",
+    "snippet": "Just as a given diet will not work for all people, differences in work styles often call for customized approaches to organizing the home office.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/03/25/garden/26office-75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/03/25/garden/26office-75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "An Orderly Office? That\u2019s Personal",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "The Custom Cure For Home Office Chaos",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Organization",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Telecommuting",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Office Equipment",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Home Furnishings",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Furniture",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-03-25T21:54:22+0000",
+    "document_type": "article",
+    "new_desk": "Home",
+    "byline": {
+      "original": "By SARA RIMER",
+      "person": [
+        {
+          "firstname": "Sara",
+          "middlename": null,
+          "lastname": "RIMER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5468c1bf38f0d81e5cd0df72",
+    "word_count": 3418,
+    "score": 1.0,
+    "uri": "nyt://article/0c8bd232-e954-5981-a9c2-405365a8489a"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/03/25/business/25leonhardt.html",
+    "snippet": "Policy makers keep trying to connect the financial crisis to the day-to-day economy, but their examples tend to be hypothetical.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "The Start of a Crisis, Through the Lens of Avis",
+      "kicker": "Economic Scene",
+      "content_kicker": "Economic Scene",
+      "print_headline": "Darkness Down The Road",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Subprime Mortgage Crisis",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Automobiles",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Obama Financial Stability Plan",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Credit",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-03-25T02:37:16+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By DAVID LEONHARDT",
+      "person": [
+        {
+          "firstname": "David",
+          "middlename": null,
+          "lastname": "LEONHARDT",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5468ba0f38f0d81e5cd0ded5",
+    "word_count": 1253,
+    "score": 1.0,
+    "uri": "nyt://article/92a01b3a-57e7-55a8-aeb2-acf4502a396b"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/03/26/world/asia/26tribal.html",
+    "snippet": "The support consists of money, military supplies and planning guidance to Taliban commanders who are gearing up to confront a larger force in Afghanistan.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "Afghan Strikes by Taliban Get Pakistan Help, U.S. Aides Say",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "U.S. Says Agents Of Pakistan Aid Afghan Taliban",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "organizations",
+        "value": "Inter-Services Intelligence",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Taliban",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Pakistan",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Defense and Military Forces",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States International Relations",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Afghanistan",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-03-25T21:27:18+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Asia Pacific",
+    "byline": {
+      "original": "By MARK MAZZETTI and ERIC SCHMITT",
+      "person": [
+        {
+          "firstname": "Mark",
+          "middlename": null,
+          "lastname": "MAZZETTI",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Eric",
+          "middlename": null,
+          "lastname": "SCHMITT",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5468c15d38f0d81e5cd0df69",
+    "word_count": 1233,
+    "score": 1.0,
+    "uri": "nyt://article/a982fb6f-bc3b-5666-a89d-4304957729db"
+  }
+]

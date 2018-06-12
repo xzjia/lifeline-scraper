@@ -1,0 +1,117 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2008/04/24/world/europe/24church.html",
+    "snippet": "The Kremlin has turned the Russian Orthodox Church into a de facto official religion, warding off other Christian denominations through a variety of harassing measures.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/04/23/world/24church-600.jpg",
+        "height": 330,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2008/04/23/world/24church-600.jpg",
+          "xlargeheight": 330
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/04/23/world/24church-75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2008/04/23/world/24church-75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "At Expense of All Others, Putin Picks a Church",
+      "kicker": "Kremlin Rules",
+      "content_kicker": "Kremlin Rules",
+      "print_headline": "At Expense of All Others, Putin Picks a Church",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Russian Orthodox Church",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Russia",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Religion and Churches",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Christians and Christianity",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Politics and Government",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Putin, Vladimir V",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2008-04-24T04:00:00+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Europe",
+    "byline": {
+      "original": "By CLIFFORD J. LEVY",
+      "person": [
+        {
+          "firstname": "Clifford",
+          "middlename": "J.",
+          "lastname": "LEVY",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "Series",
+    "_id": "547ada0138f0d803f445c26a",
+    "word_count": 2537,
+    "score": 1.0,
+    "uri": "nyt://article/f4b6efc7-efa4-5311-85de-3460a6f5075c"
+  }
+]

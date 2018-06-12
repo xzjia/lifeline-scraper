@@ -1,0 +1,202 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2008/07/18/health/18old.html",
+    "snippet": "Some doctors are hailing surgery for centenarians, but others say such procedures can be wasteful and barbaric.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/07/18/nyregion/18old_75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2008/07/18/nyregion/18old_75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Rise Seen in Medical Efforts to Treat the Very Old",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Rise Seen in Medical Efforts To Improve Very Long Lives",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Surgery and Surgeons",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Aged",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Medicine and Health",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Age, Chronological",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2008-07-18T04:00:00+0000",
+    "document_type": "article",
+    "new_desk": "Metro",
+    "byline": {
+      "original": "By ANEMONA HARTOCOLLIS",
+      "person": [
+        {
+          "firstname": "Anemona",
+          "middlename": null,
+          "lastname": "HARTOCOLLIS",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "54831ddd38f0d8403d9cd817",
+    "word_count": 1573,
+    "score": 1.0,
+    "uri": "nyt://article/c6dca123-df64-53ac-8f9b-4e353df61850"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2008/07/18/sports/sportsspecial1/18tour.html",
+    "snippet": "The Saunier-Duval team withdrew after Riccardo Ricco, the winner of two stages, tested positive for EPO.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/07/17/sports/othersports/17tdf-600.jpg",
+        "height": 330,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2008/07/17/sports/othersports/17tdf-600.jpg",
+          "xlargeheight": 330
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/07/17/sports/othersports/17tdf-75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2008/07/17/sports/othersports/17tdf-75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Tour de France Team Out After Test",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "More Turmoil at Tour After 3rd Positive Test",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Tour de France (Bicycle Race)",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Barloworld Limited",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Ricco, Riccardo",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Evans, Cadel",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "France",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Doping",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2008-07-18T04:00:00+0000",
+    "document_type": "article",
+    "new_desk": "Sports",
+    "section_name": "Sports",
+    "byline": {
+      "original": "By EDWARD WYATT",
+      "person": [
+        {
+          "firstname": "Edward",
+          "middlename": null,
+          "lastname": "WYATT",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5483189438f0d8403d9cd77f",
+    "word_count": 1202,
+    "score": 1.0,
+    "uri": "nyt://article/a3d520b9-55a2-5173-8d79-02fceee051a0"
+  }
+]

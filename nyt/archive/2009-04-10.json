@@ -1,0 +1,348 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2009/04/11/health/11patient.html",
+    "snippet": "Anecdotal evidence supports the intuition that more people might hesitate to expand their families during a downturn.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/04/11/health/11patient1.600.jpg",
+        "height": 308,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/04/11/health/11patient1.600.jpg",
+          "xlargeheight": 308
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/04/11/health/11patient1.75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/04/11/health/11patient1.75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Uptick in Vasectomies Seen as Sign of Recession",
+      "kicker": "Patient Money",
+      "content_kicker": "Patient Money",
+      "print_headline": "In Another Recession Sign, an Uptick in Vasectomies",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Vasectomy",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Recession and Depression",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Medicine and Health",
+        "rank": 3,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-04-10T16:30:43+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By LESLEY ALDERMAN",
+      "person": [
+        {
+          "firstname": "Lesley",
+          "middlename": null,
+          "lastname": "ALDERMAN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "545b9eb638f0d842c59d225d",
+    "word_count": 914,
+    "score": 1.0,
+    "uri": "nyt://article/5f57bae9-0194-5b9d-9633-eec9f1fe9f62"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/04/11/your-money/taxes/11money.html",
+    "snippet": "When given a chance, many people still seem to forget to tell the I.R.S. about some of their undocumented income.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/04/11/your-money/taxes/11money.600.jpg",
+        "height": 350,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/04/11/your-money/taxes/11money.600.jpg",
+          "xlargeheight": 350
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Navigating a Tax Return Minefield",
+      "kicker": "Your Money",
+      "content_kicker": "Your Money",
+      "print_headline": "The Urge To Fudge On the 1040",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Taxation",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Federal Taxes (US)",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Internal Revenue Service",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Personal Finances",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-04-10T20:50:38+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "section_name": "Taxes",
+    "byline": {
+      "original": "By TARA SIEGEL BERNARD",
+      "person": [
+        {
+          "firstname": "Tara",
+          "middlename": "Siegel",
+          "lastname": "BERNARD",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "545ba57138f0d842c59d2311",
+    "word_count": 1389,
+    "score": 1.0,
+    "uri": "nyt://article/0b5a8c4c-fe81-5114-a47f-b71cc2235eab"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/04/11/business/11fees.html",
+    "snippet": "With budgets under strain, municipalities are imposing or raising a host of fees to raise revenue; some charge for things like responding to auto accidents.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "Cities Turn to Fees to Fill Budget Gaps",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Revenue Idea: Whatever It Is, Put a Fee on It",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Local Government",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Budgets and Budgeting",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Prices (Fares, Fees and Rates)",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Taxation",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-04-10T23:53:09+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By DAVID SEGAL",
+      "person": [
+        {
+          "firstname": "David",
+          "middlename": null,
+          "lastname": "SEGAL",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "545ba8a138f0d842c59d235b",
+    "word_count": 1172,
+    "score": 1.0,
+    "uri": "nyt://article/3cbbdd42-c019-5f8a-8ba3-37b9e970536e"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/04/10/us/10scotus.html",
+    "snippet": "It will be the Roberts court\u2019s first major case dealing with claims of racial discrimination in employment.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "Justices to Hear White Firefighters\u2019 Bias Claims",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Justices to Hear White Firefighters\u2019 Bias Claims",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Affirmative Action",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Supreme Court",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Race",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Hiring and Promotion",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Fires and Firefighters",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Discrimination",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Tests and Testing",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Blacks",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "New Haven (Conn)",
+        "rank": 9,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-04-10T01:56:29+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "byline": {
+      "original": "By ADAM LIPTAK",
+      "person": [
+        {
+          "firstname": "Adam",
+          "middlename": null,
+          "lastname": "LIPTAK",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5452953a38f0d81b603ecbe2",
+    "word_count": 1215,
+    "score": 1.0,
+    "uri": "nyt://article/e15032b1-82d0-53fa-80d8-7fc7fb9ebf06"
+  }
+]

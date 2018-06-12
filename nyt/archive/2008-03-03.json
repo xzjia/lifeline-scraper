@@ -1,0 +1,82 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2008/03/03/business/media/03blog.html",
+    "snippet": "Visitors to AgencySpy and AdScam, two sharp-tongued advertising industry blogs, posted comments blaming the sites for contributing to ad executive Paul Tilley\u2019s suicide.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/03/03/business/03blog.75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2008/03/03/business/03blog.75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "After Suicide, Blog Insults Are Debated",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "After Suicide, Blog Insults Are Debated",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Advertising and Marketing",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Blogs and Blogging (Internet)",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Suicides and Suicide Attempts",
+        "rank": 3,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2008-03-03T05:00:00+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "section_name": "Media",
+    "byline": {
+      "original": "By BOB TEDESCHI",
+      "person": [
+        {
+          "firstname": "Bob",
+          "middlename": null,
+          "lastname": "TEDESCHI",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "547ea6fc38f0d84a61c0eebd",
+    "word_count": 1231,
+    "score": 1.0,
+    "uri": "nyt://article/8b4fc7dc-4c3b-5c73-8a85-913558dc4ad2"
+  }
+]

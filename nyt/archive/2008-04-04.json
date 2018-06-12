@@ -1,0 +1,85 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2008/04/04/us/04poll.html",
+    "snippet": "Americans are more dissatisfied with the country\u2019s direction than at any time since the the early 1990s.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "81% in Poll Say Nation Is Headed on Wrong Track",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "81% IN POLL SAY NATION IS HEADED ON WRONG TRACK",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "United States Economy",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Public Opinion",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Politics and Government",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Bush, George W",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Presidential Election of 2008",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2008-04-04T04:00:00+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "byline": {
+      "original": "By DAVID LEONHARDT and MARJORIE CONNELLY",
+      "person": [
+        {
+          "firstname": "David",
+          "middlename": null,
+          "lastname": "LEONHARDT",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Marjorie",
+          "middlename": null,
+          "lastname": "CONNELLY",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5474f85638f0d8119c6af4bd",
+    "word_count": 1283,
+    "score": 1.0,
+    "uri": "nyt://article/79093b5d-9ce2-5718-aade-96d5f77e3832"
+  }
+]

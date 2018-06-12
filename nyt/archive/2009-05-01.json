@@ -1,0 +1,557 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2009/05/01/business/01assess.html",
+    "snippet": "Chrysler\u2019s biggest challenge may be persuading its three principal new owners to innovate in ways the carmaker has resisted for three decades.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "Chrysler Partners Have Many Goals",
+      "kicker": "News Analysis",
+      "content_kicker": "News Analysis",
+      "print_headline": "Diverse Partners With Many Goals",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "organizations",
+        "value": "Chrysler LLC",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Bankruptcies",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Automobiles",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Subprime Mortgage Crisis",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-05-01T02:18:45+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By DAVID E. SANGER",
+      "person": [
+        {
+          "firstname": "David",
+          "middlename": "E.",
+          "lastname": "SANGER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News Analysis",
+    "_id": "546a165e38f0d8317bec205a",
+    "word_count": 897,
+    "score": 1.0,
+    "uri": "nyt://article/ef47ac27-438a-51dc-b1d6-ad9c69b145e9"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/05/01/technology/01filter.html",
+    "snippet": "Computers are becoming more crucial in global conflicts, not only in spying and military action, but also in determining what information reaches people.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/05/01/world/01filter_7.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/05/01/world/01filter_7.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Iranians and Others Outwit Net Censors",
+      "kicker": "Cyberwar",
+      "content_kicker": "Cyberwar",
+      "print_headline": "With New Software, Iranians And Others Outwit Net Censors",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Computers and the Internet",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Censorship",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Freedom of Speech and Expression",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Politics and Government",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Computer Security",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "International Relations",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Iran",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "China",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Falun Gong",
+        "rank": 9,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-05-01T00:31:58+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "byline": {
+      "original": "By JOHN MARKOFF",
+      "person": [
+        {
+          "firstname": "John",
+          "middlename": null,
+          "lastname": "MARKOFF",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "546a144b38f0d8317bec2029",
+    "word_count": 1702,
+    "score": 1.0,
+    "uri": "nyt://article/05ce5c0f-1820-57e1-9d03-49e0e6fa12e5"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/05/02/your-money/mortgages/02money.html",
+    "snippet": "Some of the world\u2019s religions have advice on how to deal with people who are deeply in debt.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/05/02/your-money/02money75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/05/02/your-money/02money75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Does God Want You to Be Bankrupt?",
+      "kicker": "Your Money",
+      "content_kicker": "Your Money",
+      "print_headline": "A Blessed Approach to Debt",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Personal Finances",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Religion and Belief",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Mortgages",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Credit",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Foreclosures",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Bankruptcies",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-05-01T22:16:48+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "section_name": "Mortgages",
+    "byline": {
+      "original": "By RON LIEBER",
+      "person": [
+        {
+          "firstname": "Ron",
+          "middlename": null,
+          "lastname": "LIEBER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "546a1c3738f0d8317bec20e6",
+    "word_count": 1014,
+    "score": 1.0,
+    "uri": "nyt://article/9423a191-2ae7-5169-9198-2765a4cabb0b"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/05/03/fashion/03sexed.html",
+    "snippet": "Health officials are trying to use teenagers\u2019 favorite technologies to fight disease and unwanted pregnancies.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/05/01/fashion/03sexed1_600.jpg",
+        "height": 300,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/05/01/fashion/03sexed1_600.jpg",
+          "xlargeheight": 300
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/05/01/fashion/03sexed1_75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/05/01/fashion/03sexed1_75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "When the Cellphone Teaches Sex Education",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "When the Cellphone Teaches Sex Education",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Sex Education",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Text Messaging",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Teenagers and Adolescence",
+        "rank": 3,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-05-01T22:40:20+0000",
+    "document_type": "article",
+    "new_desk": "Styles",
+    "byline": {
+      "original": "By JAN HOFFMAN",
+      "person": [
+        {
+          "firstname": "Jan",
+          "middlename": null,
+          "lastname": "HOFFMAN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "546a1a2038f0d8317bec20b4",
+    "word_count": 1825,
+    "score": 1.0,
+    "uri": "nyt://article/5aa7646b-8e26-517e-81af-096fa75bf59c"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/05/01/health/01fear.html",
+    "snippet": "Precautions are affecting daily life around the country, even in states where swine flu has yet to be found.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/05/01/us/01fearA_xl.jpg",
+        "height": 350,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/05/01/us/01fearA_xl.jpg",
+          "xlargeheight": 350
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/05/01/us/01fearA_75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/05/01/us/01fearA_75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Thousands Face a Balancing Act Over Flu Fears",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Overdose of Caution? Thousands Face Balancing Act on Flu Fears",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Swine Influenza",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "United States",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Epidemics",
+        "rank": 3,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-05-01T02:03:12+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "byline": {
+      "original": "By MONICA DAVEY",
+      "person": [
+        {
+          "firstname": "Monica",
+          "middlename": null,
+          "lastname": "DAVEY",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "546a165e38f0d8317bec205b",
+    "word_count": 1046,
+    "score": 1.0,
+    "uri": "nyt://article/5dc08b4b-f9a4-5bfd-9d81-ec40a9473ae5"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/05/01/us/01souter.html",
+    "snippet": "Justice David H. Souter has grown increasingly sour on Washington and intends to return to his home state at the end of the Supreme Court\u2019s term, according to people briefed on his plans.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/04/30/us/01souter_75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/04/30/us/01souter_75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Souter Said to Be Leaving Court in June",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Souter Said to Have Plans To Leave Court in June",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Souter, David H",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Supreme Court",
+        "rank": 2,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-05-01T03:10:45+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "byline": {
+      "original": "By PETER BAKER and JEFF ZELENY",
+      "person": [
+        {
+          "firstname": "Peter",
+          "middlename": null,
+          "lastname": "BAKER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Jeff",
+          "middlename": null,
+          "lastname": "ZELENY",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "546a170f38f0d8317bec206b",
+    "word_count": 1025,
+    "score": 1.0,
+    "uri": "nyt://article/a337dcfa-9bda-5d47-a4a3-186724c19360"
+  }
+]

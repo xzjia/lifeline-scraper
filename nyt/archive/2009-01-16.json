@@ -1,0 +1,362 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2009/01/17/arts/design/17wyeth.html",
+    "snippet": "Mr. Wyeth, whose precise realist views of rural life sparked endless debates about the nature of modern art, was 91.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/01/16/arts/ChristinasWorld175.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/01/16/arts/ChristinasWorld175.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Andrew Wyeth, Painter, Dies at 91",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Andrew Wyeth, Realist and Lightning Rod, Dies",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Wyeth, Andrew",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Art",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Deaths (Obituaries)",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Rural Areas",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-01-16T15:01:01+0000",
+    "document_type": "article",
+    "new_desk": "Obits",
+    "section_name": "Art & Design",
+    "byline": {
+      "original": "By MICHAEL KIMMELMAN",
+      "person": [
+        {
+          "firstname": "Michael",
+          "middlename": null,
+          "lastname": "KIMMELMAN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "Obituary (Obit)",
+    "_id": "5471c7d438f0d847c5e434f6",
+    "word_count": 3170,
+    "score": 1.0,
+    "uri": "nyt://article/f1279f0f-8f58-5eeb-8a36-f8631fc497d6"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/01/17/your-money/17money.html",
+    "snippet": "What would happen to your finances if you lost your job tomorrow?",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/01/17/your-money/17money600.jpg",
+        "height": 346,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/01/17/your-money/17money600.jpg",
+          "xlargeheight": 346
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Preparing Your Budget for Disaster",
+      "kicker": "Your Money",
+      "content_kicker": "Your Money",
+      "print_headline": "Preparing Your Budget for Disaster",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Personal Finances",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Budgets and Budgeting",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Layoffs and Job Reductions",
+        "rank": 3,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-01-16T20:41:19+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By RON LIEBER",
+      "person": [
+        {
+          "firstname": "Ron",
+          "middlename": null,
+          "lastname": "LIEBER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5471c96b38f0d847c5e43517",
+    "word_count": 1396,
+    "score": 1.0,
+    "uri": "nyt://article/fffecae0-50af-5bfa-a7c0-2296e40468ed"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/01/16/us/politics/16stimulus.html",
+    "snippet": "The 52-42 Senate vote gave Barack Obama a $350 billion war chest, just as Democrats in the House unveiled an $825 billion fiscal recovery plan.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/01/16/business/0116-nat-bail.190.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2009/01/16/business/0116-nat-bail.190.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Senate Releases Second Portion of Bailout Fund",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Senate Releases Second Portion of Bailout Fund",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Obama Stimulus Plan",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Economy",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Politics and Government",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Senate",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Finances",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Law and Legislation",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Obama, Barack",
+        "rank": 7,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-01-16T02:16:12+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "section_name": "Politics",
+    "byline": {
+      "original": "By DAVID M. HERSZENHORN",
+      "person": [
+        {
+          "firstname": "David",
+          "middlename": null,
+          "lastname": null,
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5471c31b38f0d847c5e4348c",
+    "word_count": 1271,
+    "score": 1.0,
+    "uri": "nyt://article/dd307390-0dab-5627-910d-4825c3bc3224"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/01/16/business/16banking.html",
+    "snippet": "Losses are so large that the government may have no choice but to take majority stakes in some banks.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "Rescue of Banks Hints at Nationalization",
+      "kicker": "News Analysis",
+      "content_kicker": "News Analysis",
+      "print_headline": "Nationalization Hinted in Rescues",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Emergency Economic Stabilization Act (2008)",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Banks and Banking",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Nationalization of Industry",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Subprime Mortgage Crisis",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Federal Reserve System",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Obama, Barack",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Bernanke, Ben S",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Treasury Department",
+        "rank": 8,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-01-16T03:41:29+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By EDMUND L. ANDREWS",
+      "person": [
+        {
+          "firstname": "Edmund",
+          "middlename": "L.",
+          "lastname": "ANDREWS",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News Analysis",
+    "_id": "5471c60438f0d847c5e434cc",
+    "word_count": 1205,
+    "score": 1.0,
+    "uri": "nyt://article/f0859b65-908b-581b-aaee-9971382ef755"
+  }
+]

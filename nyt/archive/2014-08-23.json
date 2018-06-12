@@ -1,0 +1,912 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2014/08/24/sunday-review/dealing-with-digital-cruelty.html",
+    "snippet": "The web encourages bad behavior, and it\u2019s part of our nature to focus on the negative. But there are smart ways to respond.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2014/08/24/sunday-review/0824COVER/0824COVER-articleLarge-v2.jpg",
+        "height": 667,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2014/08/24/sunday-review/0824COVER/0824COVER-articleLarge-v2.jpg",
+          "xlargeheight": 667
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2014/08/24/sunday-review/0824COVER/0824COVER-thumbWide-v3.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2014/08/24/sunday-review/0824COVER/0824COVER-thumbWide-v3.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2014/08/24/sunday-review/0824COVER/0824COVER-thumbStandard-v3.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2014/08/24/sunday-review/0824COVER/0824COVER-thumbStandard-v3.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Dealing With Digital Cruelty",
+      "kicker": "News Analysis",
+      "content_kicker": "News Analysis",
+      "print_headline": "Dealing With Digital Cruelty",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Computers and the Internet",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Cyberharassment",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Psychology and Psychologists",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Writing and Writers",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Blogs and Blogging (Internet)",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2014-08-23T18:30:08+0000",
+    "document_type": "article",
+    "new_desk": "OpEd",
+    "byline": {
+      "original": "By STEPHANIE ROSENBLOOM",
+      "person": [
+        {
+          "firstname": "Stephanie",
+          "middlename": null,
+          "lastname": "ROSENBLOOM",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News Analysis",
+    "_id": "53f8ddb238f0d84410bca84d",
+    "word_count": 1590,
+    "score": 1.0,
+    "uri": "nyt://article/348cbf56-9b31-5d18-964a-072821ff5bc8"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2014/08/24/opinion/sunday/thomas-l-friedman-order-vs-disorder-part-3.html",
+    "snippet": "The inequality of freedom is causing instability and chaos as it expands around the world.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2014/11/01/opinion/friedman-circular/friedman-circular-thumbWide-v2.png",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2014/11/01/opinion/friedman-circular/friedman-circular-thumbWide-v2.png",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2014/11/01/opinion/friedman-circular/friedman-circular-thumbStandard-v2.png",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2014/11/01/opinion/friedman-circular/friedman-circular-thumbStandard-v2.png",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Order vs. Disorder, Part 3",
+      "kicker": "Op-Ed Columnist",
+      "content_kicker": "Op-Ed Columnist",
+      "print_headline": "Order vs. Disorder, Part 3",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Seidman, Dov",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Books and Literature",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States International Relations",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Refugees and Displaced Persons",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Income Inequality",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "creative_works",
+        "value": "How (Book)",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2014-08-23T18:30:07+0000",
+    "document_type": "article",
+    "new_desk": "Editorial",
+    "section_name": "Sunday Review",
+    "byline": {
+      "original": "By THOMAS L. FRIEDMAN",
+      "person": [
+        {
+          "firstname": "Thomas",
+          "middlename": "L.",
+          "lastname": "FRIEDMAN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "Op-Ed",
+    "_id": "53f8ddb038f0d84410bca848",
+    "word_count": 1138,
+    "score": 1.0,
+    "uri": "nyt://article/d28efde9-c14f-56c8-abd3-c65b9e0a48f5"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2014/08/23/us/ferguson-mo-key-factor-in-police-shootings-reasonable-fear.html",
+    "snippet": "A host of outside factors, from an officer\u2019s perception of a threat to the suspect\u2019s behavior and even his size, can emerge as mitigating or damning.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2014/08/23/us/POLICE/POLICE-articleLarge.jpg",
+        "height": 370,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2014/08/23/us/POLICE/POLICE-articleLarge.jpg",
+          "xlargeheight": 370
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2014/08/23/us/POLICE/POLICE-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2014/08/23/us/POLICE/POLICE-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2014/08/23/us/POLICE/POLICE-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2014/08/23/us/POLICE/POLICE-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Key Factor in Police Shootings: \u2018Reasonable Fear\u2019",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Key Factor in Police Shootings: \u2018Reasonable Fear\u2019",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Police Brutality, Misconduct and Shootings",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Brown, Michael (1996-2014)",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Wilson, Darren (1986- )",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Ferguson (Mo)",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2014-08-23T01:23:02+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "byline": {
+      "original": "By MICHAEL WINES and FRANCES ROBLES",
+      "person": [
+        {
+          "firstname": "Michael",
+          "middlename": null,
+          "lastname": "WINES",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Frances",
+          "middlename": null,
+          "lastname": "ROBLES",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "53f7ecfa38f0d835538dc4d7",
+    "word_count": 1191,
+    "score": 1.0,
+    "uri": "nyt://article/6e05b71b-36cf-5fad-9ed1-7c6e17cf6f1d"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2014/08/24/world/africa/sierra-leone-if-they-survive-in-ebola-ward-they-work-on.html",
+    "snippet": "In the battle against Ebola, the front line is stitched together not only by doctors and nurses, but also by janitors, drivers and body handlers whose work puts their lives at risk.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2014/08/24/world/WORKERS/WORKERS-articleLarge.jpg",
+        "height": 400,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2014/08/24/world/WORKERS/WORKERS-articleLarge.jpg",
+          "xlargeheight": 400
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2014/08/24/world/WORKERS/WORKERS-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2014/08/24/world/WORKERS/WORKERS-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2014/08/24/world/WORKERS/WORKERS-thumbStandard-v2.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2014/08/24/world/WORKERS/WORKERS-thumbStandard-v2.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Those Who Serve Ebola Victims Soldier On",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "If They Survive in Ebola Ward, They Work On",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Ebola Virus",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Sierra Leone",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Epidemics",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Nursing and Nurses",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Deaths (Fatalities)",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "World Health Organization",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Doctors Without Borders",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Sellu, Josephine Finda",
+        "rank": 8,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2014-08-23T17:21:00+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Africa",
+    "byline": {
+      "original": "By ADAM NOSSITER and BEN SOLOMON",
+      "person": [
+        {
+          "firstname": "Adam",
+          "middlename": null,
+          "lastname": "NOSSITER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Ben",
+          "middlename": null,
+          "lastname": "SOLOMON",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "53f8cd8038f0d84410bca780",
+    "word_count": 1530,
+    "score": 1.0,
+    "uri": "nyt://article/a23300c0-7b6b-5898-a31f-b207992253a3"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2014/08/24/sports/tennis/2-titanic-survivors-and-a-100-year-old-comeback-tale.html",
+    "snippet": "The 1914 United States National Tennis Championships involved two survivors from the Titanic, including that year\u2019s champion, Richard Williams.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2014/08/24/sports/dog-SUB-titanic/dog-SUB-titanic-articleLarge.jpg",
+        "height": 284,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2014/08/24/sports/dog-SUB-titanic/dog-SUB-titanic-articleLarge.jpg",
+          "xlargeheight": 284
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2014/08/24/sports/dog-SUB-titanic/dog-SUB-titanic-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2014/08/24/sports/dog-SUB-titanic/dog-SUB-titanic-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2014/08/24/sports/dog-SUB-titanic/dog-SUB-titanic-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2014/08/24/sports/dog-SUB-titanic/dog-SUB-titanic-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "A Matchup of Unsinkable Spirits",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Matchup of Unsinkable Spirits a Century Ago",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Tennis",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Open (Tennis)",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Titanic (Ship)",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Behr, Karl",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Williams, R Norris (1891-1968)",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2014-08-23T16:46:32+0000",
+    "document_type": "article",
+    "new_desk": "Sports",
+    "section_name": "Tennis",
+    "byline": {
+      "original": "By HARVEY ARATON",
+      "person": [
+        {
+          "firstname": "Harvey",
+          "middlename": null,
+          "lastname": "ARATON",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "53f8c57038f0d84410bca714",
+    "word_count": 1322,
+    "score": 1.0,
+    "uri": "nyt://article/fc6aa201-cc04-5d31-93c7-93cc385ab988"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2014/08/24/us/michael-brown-a-bodys-timeline-4-hours-on-a-ferguson-street.html",
+    "snippet": "Local officials say the image of Michael Brown\u2019s corpse in the open set the scene for what was to become a combustible worldwide story of police tactics and race in America.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2014/08/24/us/sub-BODY/sub-BODY-articleLarge-v4.jpg",
+        "height": 338,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2014/08/24/us/sub-BODY/sub-BODY-articleLarge-v4.jpg",
+          "xlargeheight": 338
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2014/08/24/us/sub-BODY/sub-BODY-thumbWide-v5.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2014/08/24/us/sub-BODY/sub-BODY-thumbWide-v5.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2014/08/24/us/sub-BODY/sub-BODY-thumbStandard-v5.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2014/08/24/us/sub-BODY/sub-BODY-thumbStandard-v5.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Timeline for a Body: 4 Hours in the Middle of a Ferguson Street",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Timeline for a Body: 4 Hours in the Middle of a Ferguson Street",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Demonstrations, Protests and Riots",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Murders and Attempted Murders",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Police Brutality, Misconduct and Shootings",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Brown, Michael (1996-2014)",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Wilson, Darren (1986- )",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Ferguson (Mo)",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2014-08-23T16:40:48+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "byline": {
+      "original": "By JULIE BOSMAN and JOSEPH GOLDSTEIN",
+      "person": [
+        {
+          "firstname": "Julie",
+          "middlename": null,
+          "lastname": "BOSMAN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Joseph",
+          "middlename": null,
+          "lastname": "GOLDSTEIN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "53f8c41338f0d84410bca706",
+    "word_count": 1695,
+    "score": 1.0,
+    "uri": "nyt://article/e8b85716-13f9-5608-b90f-2c4e8d5e16a0"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2014/08/24/sports/ncaafootball/bcs-makes-way-for-new-debates.html",
+    "snippet": "A new playoff system this season will include four teams, an increase from the B.C.S.\u2019s two. Most people view that as an improvement, but there is still plenty to argue about.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2014/08/24/sports/playoff/playoff-articleLarge.jpg",
+        "height": 760,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2014/08/24/sports/playoff/playoff-articleLarge.jpg",
+          "xlargeheight": 760
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2014/08/24/sports/playoff/playoff-thumbWide-v2.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2014/08/24/sports/playoff/playoff-thumbWide-v2.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2014/08/24/sports/playoff/playoff-thumbStandard-v2.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2014/08/24/sports/playoff/playoff-thumbStandard-v2.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "B.C.S. Makes Way for College Football Playoff (and New Debates)",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "A New System, a New Debate",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Football (College)",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Playoff Games",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Bowl Games",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Bowl Championship Series",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2014-08-23T01:05:48+0000",
+    "document_type": "article",
+    "new_desk": "Sports",
+    "section_name": "College Football",
+    "byline": {
+      "original": "By MARC TRACY",
+      "person": [
+        {
+          "firstname": "Marc",
+          "middlename": null,
+          "lastname": "TRACY",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "53f7e8f038f0d835538dc4aa",
+    "word_count": 1641,
+    "score": 1.0,
+    "uri": "nyt://article/37d539e1-c7aa-503a-8b2e-343db45436e8"
+  }
+]

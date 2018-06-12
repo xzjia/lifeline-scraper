@@ -1,0 +1,464 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2012/09/16/nyregion/seeking-chic-edgy-brilliant-intern-to-thread-needles-free.html",
+    "snippet": "Many unpaid jobs in the fashion and magazine industries perpetuate inequality and may violate labor laws.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/09/16/nyregion/16BIGCITY2_SPAN/16BIGCITY2_SPAN-articleLarge.jpg",
+        "height": 360,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2012/09/16/nyregion/16BIGCITY2_SPAN/16BIGCITY2_SPAN-articleLarge.jpg",
+          "xlargeheight": 360
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/09/16/nyregion/16BIGCITY2_SPAN/16BIGCITY2_SPAN-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2012/09/16/nyregion/16BIGCITY2_SPAN/16BIGCITY2_SPAN-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Seeking Chic, Brilliant Intern to Thread Needles (No Pay)",
+      "kicker": "Big City",
+      "content_kicker": "Big City",
+      "print_headline": "Seeking Brilliant Intern To Thread Needles, Free",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Fashion and Apparel",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Internships",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Magazines",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Labor and Jobs",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "New York City",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2012-09-15T04:51:45+0000",
+    "document_type": "article",
+    "new_desk": "Metro",
+    "byline": {
+      "original": "By GINIA BELLAFANTE",
+      "person": [
+        {
+          "firstname": "Ginia",
+          "middlename": null,
+          "lastname": "BELLAFANTE",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "50540a8e1c22dfde670c8aff",
+    "word_count": 1010,
+    "score": 1.0,
+    "uri": "nyt://article/ece90a4a-f917-5ddf-b40f-73549093783f"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2012/09/16/nyregion/the-lonely-redemption-of-sandy-lewis-wall-street-provocateur.html",
+    "snippet": "For years Sandy Lewis has railed against Wall Street\u2019s deceit. But vindication isn\u2019t sweet.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/09/16/nyregion/16sandy2a/16sandy2a-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2012/09/16/nyregion/16sandy2a/16sandy2a-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "A Lonely Redemption",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "A Lonely Redemption",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Lewis, Salim B (Sandy)",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Banking and Financial Institutions",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "New York City",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Stocks and Bonds",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2012-09-15T04:37:25+0000",
+    "document_type": "article",
+    "new_desk": "Metro",
+    "byline": {
+      "original": "By MICHAEL POWELL and DANNY HAKIM",
+      "person": [
+        {
+          "firstname": "Michael",
+          "middlename": null,
+          "lastname": "POWELL",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Danny",
+          "middlename": null,
+          "lastname": "HAKIM",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "505406961c22dfde670c8afc",
+    "word_count": 2609,
+    "score": 1.0,
+    "uri": "nyt://article/b8095ef2-b221-5e06-9cf5-17102733e134"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2012/09/16/opinion/sunday/friedman-the-talk-of-china.html",
+    "snippet": "Recent local headlines offer a hint of how the coming transition is about much more than a change in leadership.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2014/11/01/opinion/friedman-circular/friedman-circular-thumbWide-v2.png",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2014/11/01/opinion/friedman-circular/friedman-circular-thumbWide-v2.png",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2014/11/01/opinion/friedman-circular/friedman-circular-thumbStandard-v2.png",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2014/11/01/opinion/friedman-circular/friedman-circular-thumbStandard-v2.png",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "The Talk of China",
+      "kicker": "Op-Ed Columnist",
+      "content_kicker": "Op-Ed Columnist",
+      "print_headline": "The Talk of China",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "China",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Xi Jinping",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Communist Party of China",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Politics and Government",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Economic Conditions and Trends",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Education",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Hu Jintao",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Hong Kong",
+        "rank": 8,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2012-09-15T18:44:10+0000",
+    "document_type": "article",
+    "new_desk": "Editorial",
+    "section_name": "Sunday Review",
+    "byline": {
+      "original": "By THOMAS L. FRIEDMAN",
+      "person": [
+        {
+          "firstname": "Thomas",
+          "middlename": "L.",
+          "lastname": "FRIEDMAN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "Op-Ed",
+    "_id": "5054ccea1c22dfde670c8be4",
+    "word_count": 1170,
+    "score": 1.0,
+    "uri": "nyt://article/ade38df6-8d3b-5f60-8fbe-4dee3add1a5b"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2012/09/16/opinion/sunday/money-money-money-can-we-talk-about-something-else.html",
+    "snippet": "What happened to the tacit social prohibition against talking about money?",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/09/16/sunday-review/16COVER/16COVER-articleLarge.jpg",
+        "height": 465,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2012/09/16/sunday-review/16COVER/16COVER-articleLarge.jpg",
+          "xlargeheight": 465
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/09/16/sunday-review/16COVER/16COVER-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2012/09/16/sunday-review/16COVER/16COVER-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/09/16/sunday-review/16COVER/16COVER-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2012/09/16/sunday-review/16COVER/16COVER-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Don\u2019t Show Me the Money!",
+      "kicker": "Opinion",
+      "content_kicker": "Opinion",
+      "print_headline": "Don\u2019t Show Me the Money!",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Capitalism (Theory and Philosophy)",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Social Conditions and Trends",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "creative_works",
+        "value": "What Money Can't Buy: The Moral Limits of Markets (Book)",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Sandel, Michael J",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Banking and Financial Institutions",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Skidelsky, Robert",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2012-09-15T19:45:17+0000",
+    "document_type": "article",
+    "new_desk": "OpEd",
+    "section_name": "Sunday Review",
+    "byline": {
+      "original": "By JAMES ATLAS",
+      "person": [
+        {
+          "firstname": "James",
+          "middlename": null,
+          "lastname": "ATLAS",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "Op-Ed",
+    "_id": "5054db431c22dfde670c8c08",
+    "word_count": 1531,
+    "score": 1.0,
+    "uri": "nyt://article/5a784377-a4bf-5a32-8ff6-ec582ac0a7e0"
+  }
+]

@@ -1,0 +1,343 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2011/02/20/realestate/20cov.html",
+    "snippet": "Contrary to received wisdom, some brokers say, pets can help by making buyers feel at home.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/02/20/realestate/SUB-cover/SUB-cover-articleLarge.jpg",
+        "height": 315,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2011/02/20/realestate/SUB-cover/SUB-cover-articleLarge.jpg",
+          "xlargeheight": 315
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/02/20/realestate/SUB-cover/SUB-cover-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2011/02/20/realestate/SUB-cover/SUB-cover-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/02/20/realestate/SUB-cover/SUB-cover-thumbStandard-v2.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/02/20/realestate/SUB-cover/SUB-cover-thumbStandard-v2.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Pets Help Sell Manhattan Apartments",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Meet The Director Of Sales",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Housing and Real Estate",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Pets",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Real Estate Brokers",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "New York City",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-02-18T15:45:46+0000",
+    "document_type": "article",
+    "new_desk": "RealEstate",
+    "byline": {
+      "original": "By CONSTANCE ROSENBLUM",
+      "person": [
+        {
+          "firstname": "Constance",
+          "middlename": null,
+          "lastname": "ROSENBLUM",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "540ae75438f0d84fb88342b3",
+    "word_count": 1722,
+    "score": 1.0,
+    "uri": "nyt://article/edd54eaa-06e8-5e63-9e02-3fa7b8737622"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/02/19/health/19cancer.html",
+    "snippet": "Doctors say a needle biopsy is safer, less invasive and cheaper, and estimate that more than 300,000 women a year are having unnecessary surgery.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/02/19/health/19cancer/19cancer-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/02/19/health/19cancer/19cancer-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Study of Breast Biopsies Finds Surgery Used Too Extensively",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Study of Breast Biopsies Finds Surgery Used Too Extensively",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Breasts",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Cancer",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Mammography",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Medicine and Health",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Research",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Surgery and Surgeons",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-02-18T17:32:16+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "byline": {
+      "original": "By DENISE GRADY",
+      "person": [
+        {
+          "firstname": "Denise",
+          "middlename": null,
+          "lastname": "GRADY",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "540aef8638f0d84fb8834346",
+    "word_count": 1234,
+    "score": 1.0,
+    "uri": "nyt://article/02c36f4e-4989-50f3-a83f-43a47b7d7a14"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/02/19/world/asia/19china.html",
+    "snippet": "Security officials appear to be expanding the use of home confinement, abductions and in some cases torture.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/02/19/world/asia/19china-2-span/19china-2-span-articleLarge.jpg",
+        "height": 340,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2011/02/19/world/asia/19china-2-span/19china-2-span-articleLarge.jpg",
+          "xlargeheight": 340
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/02/19/world/asia/19china-2-span/19china-2-span-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/02/19/world/asia/19china-2-span/19china-2-span-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "China\u2019s Intimidation of Dissidents Said to Persist After Prison",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "China Persecution Is Said to Persist After Prison",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "China",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Human Rights and Human Rights Violations",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Chen Guangcheng",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Political Prisoners",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Gao Zhisheng",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Liu Xia",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-02-18T04:45:02+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Asia Pacific",
+    "byline": {
+      "original": "By ANDREW JACOBS  and JONATHAN ANSFIELD",
+      "person": [
+        {
+          "firstname": "Andrew",
+          "middlename": null,
+          "lastname": "JACOBS",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Jonathan",
+          "middlename": null,
+          "lastname": "ANSFIELD",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "53f625cf38f0d821a37b1d7d",
+    "word_count": 1462,
+    "score": 1.0,
+    "uri": "nyt://article/0ce54678-71ab-5efa-acfc-e63f672e6999"
+  }
+]

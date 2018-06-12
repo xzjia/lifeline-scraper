@@ -1,0 +1,581 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2009/06/23/science/23skate.html",
+    "snippet": "Science is aiming to help ice skaters meet the sport\u2019s physical challenges without sacrificing their health.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/06/22/science/23skate-600.jpg",
+        "height": 347,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/06/22/science/23skate-600.jpg",
+          "xlargeheight": 347
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/06/22/science/23skate-75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/06/22/science/23skate-75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Science Takes to the Ice",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Science Takes to the Ice",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Figure Skating",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Sports Medicine",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "University of Delaware",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Science and Technology",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-06-22T20:11:36+0000",
+    "document_type": "article",
+    "new_desk": "Science",
+    "byline": {
+      "original": "By PAM BELLUCK",
+      "person": [
+        {
+          "firstname": "Pam",
+          "middlename": null,
+          "lastname": "BELLUCK",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "52f94aa338f0d810dc091528",
+    "word_count": 1681,
+    "score": 1.0,
+    "uri": "nyt://article/0b1e8017-7a5d-5a36-bd55-5a2a0d6e4d5c"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/06/22/us/22states.html",
+    "snippet": "With revenues in a free fall, governors and legislatures are approving measures that were once unthinkable.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/06/22/us/22cali.xlarge1.jpg",
+        "height": 360,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/06/22/us/22cali.xlarge1.jpg",
+          "xlargeheight": 360
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/06/22/us/22cali.751.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/06/22/us/22cali.751.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "States Turning to Last Resorts in Budget Crisis",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "STATES TURNING TO LAST RESORTS IN BUDGET CRISIS",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Recession and Depression",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "States (US)",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Budgets and Budgeting",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Economic Conditions and Trends",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Politics and Government",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-06-22T03:18:22+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "byline": {
+      "original": "By ABBY GOODNOUGH",
+      "person": [
+        {
+          "firstname": "Abby",
+          "middlename": null,
+          "lastname": "GOODNOUGH",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5453294038f0d81b603ed984",
+    "word_count": 1303,
+    "score": 1.0,
+    "uri": "nyt://article/5fa80151-6a5a-5492-9ff2-b9b494bff848"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/06/23/science/23angi.html",
+    "snippet": "In ways that researchers are just beginning to appreciate, we humans are beholden to our ears.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/06/22/science/23angier-75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/06/22/science/23angier-75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "When an Ear Witness Decides the Case",
+      "kicker": "Basics",
+      "content_kicker": "Basics",
+      "print_headline": "When an Ear Witness Decides the Case",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Ears and Hearing",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Brain",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Science and Technology",
+        "rank": 3,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-06-22T22:38:36+0000",
+    "document_type": "article",
+    "new_desk": "Science",
+    "byline": {
+      "original": "By NATALIE ANGIER",
+      "person": [
+        {
+          "firstname": "Natalie",
+          "middlename": null,
+          "lastname": "ANGIER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "54532e1438f0d81b603ed9ea",
+    "word_count": 1077,
+    "score": 1.0,
+    "uri": "nyt://article/27dcba98-3489-5d9e-a3a7-5e221ae8d3b0"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/06/22/world/asia/22tahir.html",
+    "snippet": "An Afghan journalist who was held by the Taliban along with a Times reporter revealed the details of their escape.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "With a Plan and a Rope, Captives Escaped Taliban",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "With Plan and a Hidden Rope, Captives Escaped the Taliban",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Rohde, David",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Afghanistan",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Kidnapping",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Hostages",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-06-22T01:19:57+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Asia Pacific",
+    "byline": {
+      "original": "By ADAM B. ELLICK",
+      "person": [
+        {
+          "firstname": "Adam",
+          "middlename": null,
+          "lastname": null,
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5453296a38f0d81b603ed987",
+    "word_count": 945,
+    "score": 1.0,
+    "uri": "nyt://article/798b31cf-c841-517c-ac61-cec2ffe7bd2d"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/06/22/business/media/22carr.html",
+    "snippet": "After Google scanned millions of books without permission, some wonder how the behemoth can avoid making tsunamis instead of waves.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/12/13/business/carr-headshot-new/carr-headshot-new-articleLarge.jpg",
+        "height": 900,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2013/12/13/business/carr-headshot-new/carr-headshot-new-articleLarge.jpg",
+          "xlargeheight": 900
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/12/13/business/carr-headshot-new/carr-headshot-new-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2013/12/13/business/carr-headshot-new/carr-headshot-new-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/12/13/business/carr-headshot-new/carr-headshot-new-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2013/12/13/business/carr-headshot-new/carr-headshot-new-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "How Good (or Not Evil) Is Google?",
+      "kicker": "The Media Equation",
+      "content_kicker": "The Media Equation",
+      "print_headline": "How Good (Or Not Evil) Is Google?",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "organizations",
+        "value": "Google Inc",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Books and Literature",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Computers and the Internet",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Copyrights",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-06-22T01:05:17+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "section_name": "Media",
+    "byline": {
+      "original": "By DAVID CARR",
+      "person": [
+        {
+          "firstname": "David",
+          "middlename": null,
+          "lastname": "CARR",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "543ee9d638f0d853e89f6773",
+    "word_count": 1213,
+    "score": 1.0,
+    "uri": "nyt://article/a4e699d3-0c21-570b-9b0b-c594881f9a60"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/06/22/us/22smartphones.html",
+    "snippet": "As Web-enabled smartphones have become standard, the etiquette of using them during meetings is up for debate.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/06/22/us/22smart.xlarge1.jpg",
+        "height": 360,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/06/22/us/22smart.xlarge1.jpg",
+          "xlargeheight": 360
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/06/22/us/22smart.751.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/06/22/us/22smart.751.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Mind Your BlackBerry or Mind Your Manners",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "At Meetings, It\u2019s Mind Your BlackBerry or Mind Your Manners",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Workplace Environment",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Customs, Etiquette and Manners",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Smartphones",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Wireless Communications",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-06-22T02:54:17+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "byline": {
+      "original": "By ALEX WILLIAMS",
+      "person": [
+        {
+          "firstname": "Alex",
+          "middlename": null,
+          "lastname": "WILLIAMS",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5453277138f0d81b603ed95b",
+    "word_count": 1134,
+    "score": 1.0,
+    "uri": "nyt://article/36b46b73-ba9f-565d-a1f7-4e9bb3737007"
+  }
+]

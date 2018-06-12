@@ -1,0 +1,418 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2010/10/14/business/14mortgage.html",
+    "snippet": "The foreclosure chaos, caused by disorganization and inexperienced employees, came as no surprise to insiders.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "Bankers Ignored Signs of Trouble on Foreclosures",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Banks Ignored Signs of Trouble On Foreclosures",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Subprime Mortgage Crisis",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Mortgages",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Foreclosures",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Banking and Financial Institutions",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "JPMorgan Chase & Co",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Citigroup Inc",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "GMAC LLC",
+        "rank": 7,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-10-14T01:29:38+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By ERIC DASH and NELSON D. SCHWARTZ",
+      "person": [
+        {
+          "firstname": "Eric",
+          "middlename": null,
+          "lastname": "DASH",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Nelson",
+          "middlename": null,
+          "lastname": null,
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "541b9ee838f0d8296cb0fdd4",
+    "word_count": 1124,
+    "score": 1.0,
+    "uri": "nyt://article/02cdf2ba-5241-55ca-93c8-508d43858957"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2010/10/14/nyregion/14mcmahon.html",
+    "snippet": "Linda E. McMahon faces a gender gap in her Senate campaign in Connecticut.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/10/14/nyregion/14mcmahon-ms/14mcmahon-ms-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/10/14/nyregion/14mcmahon-ms/14mcmahon-ms-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Female Candidate Finds Tough Audience: Women",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "A Senate Candidate\u2019s Hurdle: Drawing Women to Her Side",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "McMahon, Linda E",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Blumenthal, Richard",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Connecticut",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Senate",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Women and Girls",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "World Wrestling Entertainment Inc",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Democratic Party",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Republican Party",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Elections",
+        "rank": 9,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Political Advertising",
+        "rank": 10,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Voting and Voters",
+        "rank": 11,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Polls and Public Opinion",
+        "rank": 12,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-10-14T00:25:46+0000",
+    "document_type": "article",
+    "new_desk": "Metro",
+    "byline": {
+      "original": "By RAYMOND HERNANDEZ",
+      "person": [
+        {
+          "firstname": "Raymond",
+          "middlename": null,
+          "lastname": "HERNANDEZ",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "541ba57238f0d8296cb0fe61",
+    "word_count": 1069,
+    "score": 1.0,
+    "uri": "nyt://article/5a2dd9e7-421f-5d84-895a-b211ecfd60ce"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2010/10/15/business/15walmart.html",
+    "snippet": "With the focus on sustainable agriculture, the retail giant is trying to improve efficiency among suppliers.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/10/15/business/15walmart-span/15walmart-span-articleLarge-v2.jpg",
+        "height": 330,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2010/10/15/business/15walmart-span/15walmart-span-articleLarge-v2.jpg",
+          "xlargeheight": 330
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/10/15/business/15walmart-span/15walmart-span-thumbStandard-v2.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/10/15/business/15walmart-span/15walmart-span-thumbStandard-v2.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Wal-Mart to Buy More Local Produce",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Wal-Mart to Add More Local Foods",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "organizations",
+        "value": "Wal-Mart Stores Inc",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Local Food",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Sustainable Living",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Shopping and Retail",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Farmers",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-10-14T14:51:29+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By STEPHANIE CLIFFORD",
+      "person": [
+        {
+          "firstname": "Stephanie",
+          "middlename": null,
+          "lastname": "CLIFFORD",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "541ba98538f0d8296cb0febd",
+    "word_count": 1002,
+    "score": 1.0,
+    "uri": "nyt://article/25a5a81a-7502-56b8-95f8-887efa0d1b61"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2010/10/17/arts/music/17grigolo.html",
+    "snippet": "Vittorio Grigolo, who is making his Met debut in \u201cLa Boh\u00e8me,\u201d may be the tenor that the opera world has been waiting for.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/10/17/arts/GRIGOLO-secspan/GRIGOLO-secspan-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/10/17/arts/GRIGOLO-secspan/GRIGOLO-secspan-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "The Great Tenor Hope (Just Ask Him)",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "The Great Tenor Hope (Just Ask Him)",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Opera",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Metropolitan Opera",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Royal Opera",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-10-14T13:31:56+0000",
+    "document_type": "article",
+    "new_desk": "Culture",
+    "section_name": "Music",
+    "byline": {
+      "original": "By MICHAEL WHITE",
+      "person": [
+        {
+          "firstname": "Michael",
+          "middlename": null,
+          "lastname": "WHITE",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "541b993e38f0d8296cb0fd42",
+    "word_count": 2181,
+    "score": 1.0,
+    "uri": "nyt://article/244528ad-29d4-55d3-aadc-90e185465801"
+  }
+]

@@ -1,0 +1,166 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2008/06/18/nyregion/18fired.html",
+    "snippet": "Many New Yorkers who have experienced being fired are offering advice to fired Mets manager Willie Randolph.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "In Life, as in Baseball, Getting Fired Is an Opening for a Comeback",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "In Life, as in Baseball, Getting Fired Is an Opening for a Comeback",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Suspensions, Dismissals and Resignations",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Randolph, Willie",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "New York Mets",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Hiring and Promotion",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2008-06-18T04:00:00+0000",
+    "document_type": "article",
+    "new_desk": "Metro",
+    "byline": {
+      "original": "By JAMES BARRON",
+      "person": [
+        {
+          "firstname": "James",
+          "middlename": null,
+          "lastname": "BARRON",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "54825bba38f0d8403d9cc1d9",
+    "word_count": 1295,
+    "score": 1.0,
+    "uri": "nyt://article/61ce07c1-e707-55ad-a45d-60a7067995fd"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2008/06/18/technology/18linkedin.html",
+    "snippet": "In the midst of Silicon Valley\u2019s recession-proof enthusiasm for community-oriented Web sites, LinkedIn, the most boring of the social networks, is grabbing the spotlight.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/06/18/business/18linkedin.75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2008/06/18/business/18linkedin.75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "At Social Site, Only the Businesslike Need Apply",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "At Social Site, Only the Businesslike Need Apply",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Venture Capital",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Computers and the Internet",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Social Networking (Internet)",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "LinkedIn",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Advertising and Marketing",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Silicon Valley (Calif)",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2008-06-18T04:00:00+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By BRAD STONE",
+      "person": [
+        {
+          "firstname": "Brad",
+          "middlename": null,
+          "lastname": "STONE",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "54825a8e38f0d8403d9cc1b0",
+    "word_count": 1163,
+    "score": 1.0,
+    "uri": "nyt://article/a93395d9-0262-596e-9aac-6263f4e43a64"
+  }
+]

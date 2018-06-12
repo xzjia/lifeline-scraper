@@ -1,0 +1,330 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2011/08/28/world/asia/28qaeda.html",
+    "snippet": "An American official said that a strike by the Central Intelligence Agency on Aug. 22 killed Atiyah Abd al-Rahman, a Libyan who in the last year had taken over as Al Qaeda\u2019s top operational planner.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/08/28/world/qaeda/qaeda-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/08/28/world/qaeda/qaeda-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "C.I.A. Drone Is Said to Kill Al Qaeda\u2019s No. 2",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "C.I.A. Drone Is Said to Kill Qaeda\u2019s No. 2",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "bin Laden, Osama",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Pakistan",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "United States",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Libya",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Al Qaeda",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Central Intelligence Agency",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Drones (Pilotless Planes)",
+        "rank": 8,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-08-27T18:52:47+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Asia Pacific",
+    "byline": {
+      "original": "By MARK MAZZETTI",
+      "person": [
+        {
+          "firstname": "Mark",
+          "middlename": null,
+          "lastname": "MAZZETTI",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5411cbe338f0d832853e8497",
+    "word_count": 804,
+    "score": 1.0,
+    "uri": "nyt://article/630af3f4-a64f-5d7f-a1db-3895242f804a"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/08/28/us/politics/28donate.html",
+    "snippet": "A Supreme Court ruling paved the way for supporters to raise unlimited cash for presidential contenders.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "Lines Blur Between Candidates and PACs With Unlimited Cash",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Lines Blur Between Candidates And PACs With Unlimited Cash",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Presidential Election of 2012",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Campaign Finance",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Political Action Committees",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Politics and Government",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Citizens United v Federal Election Commission (Supreme Court Decision)",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Perry, Rick",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Huntsman, Jon M Jr",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Bachmann, Michele M",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Obama, Barack",
+        "rank": 9,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Romney, Mitt",
+        "rank": 10,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Federal Election Commission",
+        "rank": 11,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-08-27T20:48:09+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "section_name": "Politics",
+    "byline": {
+      "original": "By NICHOLAS CONFESSORE",
+      "person": [
+        {
+          "firstname": "Nicholas",
+          "middlename": null,
+          "lastname": "CONFESSORE",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5411ca1d38f0d832853e8478",
+    "word_count": 1352,
+    "score": 1.0,
+    "uri": "nyt://article/a8436566-5a4e-5234-a6ec-25cd0f632dd2"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/08/28/opinion/sunday/bruni-the-fall-this-summer.html",
+    "snippet": "For Americans, it\u2019s been a mean season, with lessons in limits and humility.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2014/11/01/opinion/bruni-circular/bruni-circular-articleLarge-v2.jpg",
+        "height": 601,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2014/11/01/opinion/bruni-circular/bruni-circular-articleLarge-v2.jpg",
+          "xlargeheight": 601
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2014/11/01/opinion/bruni-circular/bruni-circular-thumbWide-v5.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2014/11/01/opinion/bruni-circular/bruni-circular-thumbWide-v5.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2014/11/01/opinion/bruni-circular/bruni-circular-thumbStandard-v5.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2014/11/01/opinion/bruni-circular/bruni-circular-thumbStandard-v5.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "The Fall This Summer",
+      "kicker": "Op-Ed Columnist",
+      "content_kicker": "Op-Ed Columnist",
+      "print_headline": "The Fall This Summer",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "United States Economy",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Social Conditions and Trends",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "United States",
+        "rank": 3,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-08-27T20:20:22+0000",
+    "document_type": "article",
+    "new_desk": "Editorial",
+    "section_name": "Sunday Review",
+    "byline": {
+      "original": "By FRANK BRUNI",
+      "person": [
+        {
+          "firstname": "Frank",
+          "middlename": null,
+          "lastname": "BRUNI",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "Op-Ed",
+    "_id": "51490a25fdc5926e7700104f",
+    "word_count": 1389,
+    "score": 1.0,
+    "uri": "nyt://article/321995f7-72af-5b76-9c0f-1c946c6571be"
+  }
+]

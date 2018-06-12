@@ -1,0 +1,116 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2008/03/06/us/06abuse.html",
+    "snippet": "Across the country, substance abuse centers are reaching out to older addicts who have historically been ignored.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/03/05/us/06abuse_600.jpg",
+        "height": 280,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2008/03/05/us/06abuse_600.jpg",
+          "xlargeheight": 280
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/03/05/us/06abuse_75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2008/03/05/us/06abuse_75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "New Generation Gap as Older Addicts Seek Help",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "New Generation Gap Emerges As Older Addicts Seek Help",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Aged",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Alcohol Abuse",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Drug Abuse and Traffic",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Substance Abuse and Mental Health Services Administration",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Medicine and Health",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "West Palm Beach (Fla)",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2008-03-06T05:00:00+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "byline": {
+      "original": "By JANE GROSS",
+      "person": [
+        {
+          "firstname": "Jane",
+          "middlename": null,
+          "lastname": "GROSS",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "547ecbbf38f0d84a61c0f206",
+    "word_count": 1546,
+    "score": 1.0,
+    "uri": "nyt://article/f4e6c6da-03cf-53fa-8626-46519d913169"
+  }
+]

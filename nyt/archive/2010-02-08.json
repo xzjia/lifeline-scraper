@@ -1,0 +1,266 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2010/02/09/world/europe/09ukraine.html",
+    "snippet": "Russia\u2019s preferred candidate is the apparent winner, but the starkly contested presidential race contrasts sharply with Russia\u2019s recent history.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/02/09/world/09ukraine_CA0/09ukraine_CA0-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/02/09/world/09ukraine_CA0/09ukraine_CA0-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "For Kremlin, Ukraine Election Cuts Two Ways",
+      "kicker": "News Analysis",
+      "content_kicker": "News Analysis",
+      "print_headline": "For Kremlin, Ukraine Vote Cuts 2 Ways",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Ukraine",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Elections",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Russia",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Putin, Vladimir V",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Tymoshenko, Yulia V",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Yanukovich, Viktor F",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-02-08T08:30:44+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Europe",
+    "byline": {
+      "original": "By CLIFFORD J. LEVY",
+      "person": [
+        {
+          "firstname": "Clifford",
+          "middlename": "J.",
+          "lastname": "LEVY",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News Analysis",
+    "_id": "5442978a38f0d8246e88c0f4",
+    "word_count": 1021,
+    "score": 1.0,
+    "uri": "nyt://article/d37cc186-ee55-5e47-9097-fb6deadceaf5"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2010/02/09/science/space/09essay.html",
+    "snippet": "The Obama administration is trying to keep humans flying in space, but will its measured proposals succeed?",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "For Human Spaceflight, Can Measured Beat Bold?",
+      "kicker": "News Analysis",
+      "content_kicker": "News Analysis",
+      "print_headline": "For Human Spaceflight, Can Measured Beat Bold?",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "organizations",
+        "value": "National Aeronautics and Space Administration",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Apollo Project",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Obama, Barack",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Space",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Space Shuttle",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Science and Technology",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-02-08T20:27:58+0000",
+    "document_type": "article",
+    "new_desk": "Science",
+    "section_name": "Space & Cosmos",
+    "byline": {
+      "original": "By JOHN NOBLE WILFORD",
+      "person": [
+        {
+          "firstname": "John",
+          "middlename": "Noble",
+          "lastname": "WILFORD",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News Analysis",
+    "_id": "5442979338f0d8246e88c0f5",
+    "word_count": 1212,
+    "score": 1.0,
+    "uri": "nyt://article/131e5909-11ef-596f-b88b-150914a18f74"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2010/02/08/us/politics/08lobby.html",
+    "snippet": "Bankers, unhappy at the president\u2019s proposals for tighter financial regulations, are shifting donations to Republicans.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "In a Message to Democrats, Wall St. Sends Cash to G.O.P.",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Irked, Wall St. Hedges Its Bet On Democrats",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Banks and Banking",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Regulation and Deregulation of Industry",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Campaign Finance",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Obama, Barack",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Economy",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Democratic Party",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Republican Party",
+        "rank": 7,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-02-08T02:48:33+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "section_name": "Politics",
+    "byline": {
+      "original": "By DAVID D. KIRKPATRICK",
+      "person": [
+        {
+          "firstname": "David",
+          "middlename": null,
+          "lastname": null,
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "543bf5cb38f0d84026a06691",
+    "word_count": 1168,
+    "score": 1.0,
+    "uri": "nyt://article/4d068079-9060-59eb-a5c5-b77942822b88"
+  }
+]

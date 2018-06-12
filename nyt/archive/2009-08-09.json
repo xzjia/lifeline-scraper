@@ -1,0 +1,166 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2009/08/10/arts/10cuts.html",
+    "snippet": "Students at public and private colleges and universities around the country will find arts programs, courses and teachers missing when they descend on campuses this fall.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "Arts Programs in Academia Are Forced to Nip Here, Adjust There",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Arts Programs in Academia Are Forced to Nip Here, Adjust There",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Colleges and Universities",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Art",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Layoffs and Job Reductions",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "University of California",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-08-09T21:34:36+0000",
+    "document_type": "article",
+    "new_desk": "Culture",
+    "byline": {
+      "original": "By PATRICIA COHEN",
+      "person": [
+        {
+          "firstname": "Patricia",
+          "middlename": null,
+          "lastname": "COHEN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5454e07a38f0d839202eaaab",
+    "word_count": 1289,
+    "score": 1.0,
+    "uri": "nyt://article/159f3eba-5193-5a77-9e4b-8499748f84aa"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/08/10/world/asia/10rights.html",
+    "snippet": "China\u2019s legal rights movement, already reeling from a crackdown on lawyers, has been shaken by the detention of Xu Zhiyong, a respected rights defender.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/08/10/world/asia/10rights.span.600.jpg",
+        "height": 361,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/08/10/world/asia/10rights.span.600.jpg",
+          "xlargeheight": 361
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/08/10/world/asia/10rights.span.75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/08/10/world/asia/10rights.span.75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Arrest in China Rattles Backers of Legal Rights",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Arrest in China Rattles Backers Of Legal Rights",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Freedom and Human Rights",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "China",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Politics and Government",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-08-09T23:47:44+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Asia Pacific",
+    "byline": {
+      "original": "By ANDREW JACOBS",
+      "person": [
+        {
+          "firstname": "Andrew",
+          "middlename": null,
+          "lastname": "JACOBS",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5454e25238f0d839202eaacf",
+    "word_count": 1170,
+    "score": 1.0,
+    "uri": "nyt://article/94b86790-62c4-5941-b92f-19ac4088f2c2"
+  }
+]

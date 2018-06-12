@@ -1,0 +1,765 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2013/12/28/us/benefits-ending-for-one-million-of-unemployed.html",
+    "snippet": "A federal emergency program, in place since 2008, had provided up to 47 weeks of supplemental unemployment insurance payments to jobless Americans looking for work.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/12/28/us/28Unemployment/28Unemployment-articleLarge.jpg",
+        "height": 399,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2013/12/28/us/28Unemployment/28Unemployment-articleLarge.jpg",
+          "xlargeheight": 399
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/12/28/us/28Unemployment/28Unemployment-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2013/12/28/us/28Unemployment/28Unemployment-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/12/28/us/28Unemployment/28Unemployment-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2013/12/28/us/28Unemployment/28Unemployment-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Benefits Ending for One Million Unemployed",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Benefits Ending for One Million of Unemployed",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Unemployment Insurance",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Politics and Government",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Senate",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "House of Representatives",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Economy",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2013-12-28T01:35:17+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "byline": {
+      "original": "By ANNIE LOWREY",
+      "person": [
+        {
+          "firstname": "Annie",
+          "middlename": null,
+          "lastname": "LOWREY",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "52be2adf38f0d8317f2b0507",
+    "word_count": 1363,
+    "score": 1.0,
+    "uri": "nyt://article/3741d20d-eff7-5ce9-9783-ce994521a674"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2013/12/28/business/academics-who-defend-wall-st-reap-reward.html",
+    "snippet": "Wall Street paid academic experts \u2014 and gave money to their universities \u2014 whose research supported the financial community\u2019s views on commodity trading.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/12/28/business/Academics3/Academics3-articleLarge.jpg",
+        "height": 400,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2013/12/28/business/Academics3/Academics3-articleLarge.jpg",
+          "xlargeheight": 400
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/12/28/business/Academics3/Academics3-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2013/12/28/business/Academics3/Academics3-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/12/28/business/Academics3/Academics3-thumbStandard-v2.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2013/12/28/business/Academics3/Academics3-thumbStandard-v2.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Academics Who Defend Wall St. Reap Reward",
+      "kicker": "The House Edge",
+      "content_kicker": "The House Edge",
+      "print_headline": "Academics Who Defend Wall St. Reap Reward",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Futures and Options Trading",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Conflicts of Interest",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Commodities",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Banking and Financial Institutions",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Colleges and Universities",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Research",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "University of Illinois",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "University of Houston",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Chicago Mercantile Exchange",
+        "rank": 9,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Series",
+        "rank": 10,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2013-12-28T02:03:34+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By DAVID KOCIENIEWSKI",
+      "person": [
+        {
+          "firstname": "David",
+          "middlename": null,
+          "lastname": "KOCIENIEWSKI",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "52be317a38f0d8317f2b0557",
+    "word_count": 2684,
+    "score": 1.0,
+    "uri": "nyt://article/e81d0390-deaf-516d-a960-84970eab96e4"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2013/12/29/nyregion/a-new-years-wish-list-for-new-york-city.html",
+    "snippet": "A ban on the Cronut, enhanced pedestrian safety and better architecture in residential towers for the fabulously wealthy would improve New York life in 2014.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/12/29/nyregion/29BIGCITY1_SPAN/29BIGCITY1-articleLarge.jpg",
+        "height": 300,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2013/12/29/nyregion/29BIGCITY1_SPAN/29BIGCITY1-articleLarge.jpg",
+          "xlargeheight": 300
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/12/29/nyregion/29BIGCITY1_SPAN/29BIGCITY1-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2013/12/29/nyregion/29BIGCITY1_SPAN/29BIGCITY1-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/12/29/nyregion/29BIGCITY1_SPAN/29BIGCITY1-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2013/12/29/nyregion/29BIGCITY1_SPAN/29BIGCITY1-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "A New Year\u2019s Wish List for New York City",
+      "kicker": "Big City",
+      "content_kicker": "Big City",
+      "print_headline": "A Wish List for The City",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "New York City",
+        "rank": 1,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2013-12-28T01:03:29+0000",
+    "document_type": "article",
+    "new_desk": "Metro",
+    "byline": {
+      "original": "By GINIA BELLAFANTE",
+      "person": [
+        {
+          "firstname": "Ginia",
+          "middlename": null,
+          "lastname": "BELLAFANTE",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "52be236238f0d8317f2b04b3",
+    "word_count": 897,
+    "score": 1.0,
+    "uri": "nyt://article/f07b0c35-d73d-5372-af33-e2066d561d83"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2013/12/29/business/the-merchant-of-just-be-happy.html",
+    "snippet": "The life coach Martha Beck has made a lot of money from a simple theme: If it feels right, go for it. She wants both women and men to conquer the \u201csoul-sucking\u201d forces around them.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/12/29/business/29-BECK/29-BECK-articleLarge.jpg",
+        "height": 391,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2013/12/29/business/29-BECK/29-BECK-articleLarge.jpg",
+          "xlargeheight": 391
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/12/29/business/29-BECK/29-BECK-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2013/12/29/business/29-BECK/29-BECK-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/12/29/business/29-BECK/29-BECK-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2013/12/29/business/29-BECK/29-BECK-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "The Merchant of Just Be Happy",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "The Merchant of Just Be Happy",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Beck, Martha",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Work-Life Balance",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Labor and Jobs",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Careers and Professions",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Psychology and Psychologists",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2013-12-28T14:48:28+0000",
+    "document_type": "article",
+    "new_desk": "SundayBusiness",
+    "byline": {
+      "original": "By TAFFY BRODESSER-AKNER",
+      "person": [
+        {
+          "firstname": "Taffy",
+          "middlename": null,
+          "lastname": "BRODESSER-AKNER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "52bee4c038f0d8317f2b0748",
+    "word_count": 2711,
+    "score": 1.0,
+    "uri": "nyt://article/5d947366-31a4-5718-9341-7f1c87282cc0"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2013/12/29/science/brainlike-computers-learning-from-experience.html",
+    "snippet": "The new computing approach is based on the biological nervous system, specifically on how neurons react to stimuli and connect with other neurons to interpret information.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/12/29/us/COMPUTE/COMPUTE-articleLarge.jpg",
+        "height": 400,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2013/12/29/us/COMPUTE/COMPUTE-articleLarge.jpg",
+          "xlargeheight": 400
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/12/29/us/COMPUTE/COMPUTE-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2013/12/29/us/COMPUTE/COMPUTE-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/12/29/us/COMPUTE/COMPUTE-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2013/12/29/us/COMPUTE/COMPUTE-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Brainlike Computers, Learning From Experience",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Brainlike Computers, Learning From Experience",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Artificial Intelligence",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Computers and the Internet",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Computer Chips",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Robots and Robotics",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2013-12-28T20:25:55+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "byline": {
+      "original": "By JOHN MARKOFF",
+      "person": [
+        {
+          "firstname": "John",
+          "middlename": null,
+          "lastname": "MARKOFF",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "52bf33d938f0d83b2b282c58",
+    "word_count": 1183,
+    "score": 1.0,
+    "uri": "nyt://article/1fddd6fd-8073-5670-b763-07135dd7025a"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2013/12/29/sports/football/big-decisions-for-jets-and-not-just-on-the-coach.html",
+    "snippet": "Surrounding Geno Smith or a starting quarterback to be determined with more offensive talent, particularly at receiver, is imperative to the team\u2019s success in 2014.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/12/29/sports/SUB-2-DOG-JP-JETS/SUB-2-DOG-JP-JETS-articleLarge.jpg",
+        "height": 537,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2013/12/29/sports/SUB-2-DOG-JP-JETS/SUB-2-DOG-JP-JETS-articleLarge.jpg",
+          "xlargeheight": 537
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/12/29/sports/SUB-2-DOG-JP-JETS/SUB-2-DOG-JP-JETS-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2013/12/29/sports/SUB-2-DOG-JP-JETS/SUB-2-DOG-JP-JETS-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/12/29/sports/SUB-2-DOG-JP-JETS/SUB-2-DOG-JP-JETS-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2013/12/29/sports/SUB-2-DOG-JP-JETS/SUB-2-DOG-JP-JETS-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Big Decisions for Jets, and Not Just on the Coach",
+      "kicker": "Analysis",
+      "content_kicker": "Analysis",
+      "print_headline": "Big Decisions, And Not Just On the Coach",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "organizations",
+        "value": "New York Jets",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Football",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Ryan, Rex",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Smith, Geno",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Wilkerson, Muhammad",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Idzik, John",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Johnson, Woody",
+        "rank": 7,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2013-12-28T16:21:16+0000",
+    "document_type": "article",
+    "new_desk": "Sports",
+    "section_name": "Pro Football",
+    "byline": {
+      "original": "By BEN SHPIGEL",
+      "person": [
+        {
+          "firstname": "Ben",
+          "middlename": null,
+          "lastname": "SHPIGEL",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "52befa7f38f0d8317f2b076a",
+    "word_count": 955,
+    "score": 1.0,
+    "uri": "nyt://article/420fc5ee-d027-563e-a0f0-16f25aa10925"
+  }
+]

@@ -1,0 +1,111 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2008/09/08/sports/football/08jets.html",
+    "snippet": "The Jets kicked off the Brett Favre era with a solid victory on Sunday.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/09/08/sports/football/600-favre-01.jpg",
+        "height": 380,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2008/09/08/sports/football/600-favre-01.jpg",
+          "xlargeheight": 380
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/09/08/sports/football/75-favre-01.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2008/09/08/sports/football/75-favre-01.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Favre Wins in Debut for Jets",
+      "kicker": "Jets 20, Dolphins 14",
+      "content_kicker": "Jets 20, Dolphins 14",
+      "print_headline": "Favre 1, Pennington 0 (Barely)",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "organizations",
+        "value": "New York Jets",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Miami Dolphins",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Football",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Pennington, Chad",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Favre, Brett",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2008-09-07T20:34:21+0000",
+    "document_type": "article",
+    "new_desk": "Sports",
+    "section_name": "Pro Football",
+    "byline": {
+      "original": "By GREG BISHOP",
+      "person": [
+        {
+          "firstname": "Greg",
+          "middlename": null,
+          "lastname": "BISHOP",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5477a3eb38f0d854b20b1ffc",
+    "word_count": 1098,
+    "score": 1.0,
+    "uri": "nyt://article/566d2c05-e8f7-52c3-80cf-1141817689ef"
+  }
+]

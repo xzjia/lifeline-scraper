@@ -1,0 +1,469 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2009/10/04/fashion/04dinner.html",
+    "snippet": "It's better for teenagers to eat dinner with their families, but is it worth the stress?",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/10/02/fashion/04family_600.jpg",
+        "height": 355,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/10/02/fashion/04family_600.jpg",
+          "xlargeheight": 355
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/10/02/fashion/04family_75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/10/02/fashion/04family_75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "The Guilt-Trip Casserole: The Family Dinner",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "The Guilt-Trip Casserole",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Families and Family Life",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Teenagers and Adolescence",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Parenting",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Drug Abuse and Traffic",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-10-02T19:47:41+0000",
+    "document_type": "article",
+    "new_desk": "Styles",
+    "byline": {
+      "original": "By JAN HOFFMAN",
+      "person": [
+        {
+          "firstname": "Jan",
+          "middlename": null,
+          "lastname": "HOFFMAN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5456d75238f0d86ef22a0d22",
+    "word_count": 1912,
+    "score": 1.0,
+    "uri": "nyt://article/a6fe9883-782f-5a76-a396-32510d9a47b4"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/10/03/sports/03olympics.html",
+    "snippet": "Tens of thousands of people celebrated in Rio de Janeiro after the Brazilian city beat Madrid, Tokyo and Chicago in the International Olympic Committee\u2019s vote.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/10/02/sports/rio.span.600.1.jpg",
+        "height": 298,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/10/02/sports/rio.span.600.1.jpg",
+          "xlargeheight": 298
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/10/02/sports/rio.75.3.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/10/02/sports/rio.75.3.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Rio Wins 2016 Olympics in a First for South America",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Rio de Janeiro Picked to Hold 2016 Olympics",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Olympic Games (2016)",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "International Olympic Committee",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Rio de Janeiro (Brazil)",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Chicago (Ill)",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Obama, Michelle",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Obama, Barack",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "United States Olympic Committee",
+        "rank": 7,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-10-02T10:28:36+0000",
+    "document_type": "article",
+    "new_desk": "Sports",
+    "byline": {
+      "original": "By JULIET MACUR",
+      "person": [
+        {
+          "firstname": "Juliet",
+          "middlename": null,
+          "lastname": "MACUR",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5400bb7738f0d841b2f387d2",
+    "word_count": 1461,
+    "score": 1.0,
+    "uri": "nyt://article/2ef49b21-23b3-5b9c-a544-11f905a7a0fb"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/10/03/your-money/03money.html",
+    "snippet": "From health care and pensions to family planning, life is more expensive for same-sex couples.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/10/02/business/MONEY.75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/10/02/business/MONEY.75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "The High Price of Being a Gay Couple",
+      "kicker": "Your Money",
+      "content_kicker": "Your Money",
+      "print_headline": "The Costs of Being a Gay Couple Run Higher",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Same-Sex Marriage, Civil Unions and Domestic Partnerships",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Personal Finances",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Homosexuality",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Health Insurance and Managed Care",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Taxation",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Marriages",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Wills and Estates",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Federal Taxes (US)",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Social Security (US)",
+        "rank": 9,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Individual Retirement Accounts",
+        "rank": 10,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Inheritance and Estate Taxes",
+        "rank": 11,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Adoptions",
+        "rank": 12,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-10-02T19:22:58+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By TARA SIEGEL BERNARD and RON LIEBER",
+      "person": [
+        {
+          "firstname": "Tara",
+          "middlename": "Siegel",
+          "lastname": "BERNARD",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Ron",
+          "middlename": null,
+          "lastname": "LIEBER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "54180e1f38f0d851fd3a8d95",
+    "word_count": 2192,
+    "score": 1.0,
+    "uri": "nyt://article/0e1a7f5c-9a71-5f11-9892-da783322f76f"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/10/03/business/media/03extort.html",
+    "snippet": "The network will have to consider whether David Letterman\u2019s actions constituted sexual harassment.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/10/02/business/02letterman-75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/10/02/business/02letterman-75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Letterman Extortion Raises Questions for CBS",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Extortion Case Raises Questions For Letterman and His Network",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Letterman, David",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Television",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Extortion and Blackmail",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "CBS Corp",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Sexual Harassment",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-10-02T13:15:52+0000",
+    "document_type": "article",
+    "new_desk": "Culture",
+    "section_name": "Media",
+    "byline": {
+      "original": "By BILL CARTER and BRIAN STELTER",
+      "person": [
+        {
+          "firstname": "Bill",
+          "middlename": null,
+          "lastname": "CARTER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Brian",
+          "middlename": null,
+          "lastname": "STELTER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5456d49038f0d86ef22a0ceb",
+    "word_count": 1658,
+    "score": 1.0,
+    "uri": "nyt://article/366e168b-24e9-50d2-8c7d-fdd724a5d1fc"
+  }
+]

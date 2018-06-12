@@ -1,0 +1,584 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2009/09/23/dining/23cake.html",
+    "snippet": "Inspired by a treat from the Magnolia Bakery in Greenwich Village, an entrepreneur has brought the cupcake craze to the Middle East.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/09/23/dining/23cake2_600.jpg",
+        "height": 331,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/09/23/dining/23cake2_600.jpg",
+          "xlargeheight": 331
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/09/23/dining/23cake2_75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/09/23/dining/23cake2_75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Yes, We Speak Cupcake",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Yes, We Speak Cupcake",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Cupcakes",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Bakeries and Baked Products",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Amman (Jordan)",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Middle East",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-09-22T23:10:30+0000",
+    "document_type": "article",
+    "new_desk": "Dining",
+    "byline": {
+      "original": "By ANNA LOUIE SUSSMAN",
+      "person": [
+        {
+          "firstname": "Anna",
+          "middlename": "Louie",
+          "lastname": "SUSSMAN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "54566f4938f0d86ef22a044b",
+    "word_count": 857,
+    "score": 1.0,
+    "uri": "nyt://article/528f1e30-2e82-5783-ba78-16350e79fc65"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/09/22/us/politics/22dems.html",
+    "snippet": "The intervention in the race for New York governor shows an assertiveness that worries some Democrats.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/09/22/us/prexy_75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/09/22/us/prexy_75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "White House Takes Aggressive Role in State Races",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "AGGRESSIVE PUSH BY WHITE HOUSE IN STATES\u2019 RACES",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Obama, Barack",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Paterson, David A",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "States (US)",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Elections",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Politics and Government",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Democratic Party",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Emanuel, Rahm",
+        "rank": 7,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-09-22T01:13:29+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "section_name": "Politics",
+    "byline": {
+      "original": "By JEFF ZELENY and ADAM NAGOURNEY",
+      "person": [
+        {
+          "firstname": "Jeff",
+          "middlename": null,
+          "lastname": "ZELENY",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Adam",
+          "middlename": null,
+          "lastname": "NAGOURNEY",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "54566b6438f0d86ef22a03f7",
+    "word_count": 1182,
+    "score": 1.0,
+    "uri": "nyt://article/be23fc03-e114-5836-bd38-9986ddb15e62"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/09/23/world/middleeast/23prexy.html",
+    "snippet": "President Obama is largely setting aside his demand for a full freeze on settlements in the West Bank.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/09/22/us/22mide.ms.163.jpg",
+        "height": 100,
+        "width": 163,
+        "legacy": {
+          "wide": "images/2009/09/22/us/22mide.ms.163.jpg",
+          "widewidth": 163,
+          "wideheight": 100
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/09/22/us/obama.757575.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/09/22/us/obama.757575.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "White House Pivots in Mideast Peace Bid",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "In Push to Get Mideast Talks, Obama Pivots",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Obama, Barack",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Israel",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Palestinians",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Netanyahu, Benjamin",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Abbas, Mahmoud",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "United Nations",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States International Relations",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Middle East",
+        "rank": 8,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-09-22T17:30:52+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Middle East",
+    "byline": {
+      "original": "By HELENE COOPER and MARK LANDLER",
+      "person": [
+        {
+          "firstname": "Helene",
+          "middlename": null,
+          "lastname": "COOPER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Mark",
+          "middlename": null,
+          "lastname": "LANDLER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "54566fb538f0d86ef22a0453",
+    "word_count": 1126,
+    "score": 1.0,
+    "uri": "nyt://article/2a740980-8765-5e63-8873-b872d8c8d163"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/09/22/world/africa/22namibia.html",
+    "snippet": "Anticorruption crusaders complain that China\u2019s foreign aid secrecy invites corruption, and that corruption debases the assistance.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/09/22/world/22namibia_75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/09/22/world/22namibia_75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "China Spreads Aid in Africa, With a Catch",
+      "kicker": "Uneasy Engagement",
+      "content_kicker": "Uneasy Engagement",
+      "print_headline": "China Spreads Aid in Africa, With a Catch for Recipients",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "China",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Namibia",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Foreign Aid",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Third World and Developing Countries",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Hu Jintao",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-09-22T02:40:21+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Africa",
+    "byline": {
+      "original": "By SHARON LaFRANIERE and JOHN GROBLER",
+      "person": [
+        {
+          "firstname": "Sharon",
+          "middlename": null,
+          "lastname": "LaFRANIERE",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "John",
+          "middlename": null,
+          "lastname": "GROBLER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "Series",
+    "_id": "5452737a38f0d81b603ec8b2",
+    "word_count": 2253,
+    "score": 1.0,
+    "uri": "nyt://article/302c0b84-8cd5-5dc5-8eb6-e09d1012abbc"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/09/22/science/earth/22coal.html",
+    "snippet": "The world watches a coal-fired power plant\u2019s effort to capture and bury some of the carbon dioxide it creates.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/09/22/us/coal_600.jpg",
+        "height": 399,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/09/22/us/coal_600.jpg",
+          "xlargeheight": 399
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/09/22/us/coal_75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/09/22/us/coal_75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Refitted to Bury Emissions, Plant Draws Attention",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Refitted to Bury Emissions, Plant Draws Attention",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Carbon Dioxide",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Coal",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "West Virginia",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Greenhouse Gas Emissions",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Environment",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Air Pollution",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Environmental Protection Agency",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "American Electric Power Co Inc",
+        "rank": 8,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-09-22T01:28:14+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "section_name": "Environment",
+    "byline": {
+      "original": "By MATTHEW L. WALD",
+      "person": [
+        {
+          "firstname": "Matthew",
+          "middlename": "L.",
+          "lastname": "WALD",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "54566aaf38f0d86ef22a03e9",
+    "word_count": 1358,
+    "score": 1.0,
+    "uri": "nyt://article/e26630d4-cbbc-5f94-b838-e90341f20e8b"
+  }
+]

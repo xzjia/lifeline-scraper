@@ -1,0 +1,612 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2012/10/14/us/this-land-corner-of-hope-and-worry-elyria.html",
+    "snippet": "A small cafe, in the small city of Elyria, Ohio, is being tested by a tough economy. It is the kind of place where Barack Obama and Mitt Romney each hope that his promise of a restored American dream will resonate.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/10/14/us/14diner1/14diner1-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2012/10/14/us/14diner1/14diner1-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "At the Corner of Hope and Worry",
+      "kicker": "This Land",
+      "content_kicker": "This Land",
+      "print_headline": "At the Corner of Hope and Worry",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Elyria (Ohio)",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Diners (Eating Places)",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Dove, Donna",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Donna's Diner (Elyria, Ohio)",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Presidential Election of 2012",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Economy",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Ohio",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Series",
+        "rank": 8,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2012-10-13T17:20:53+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "byline": {
+      "original": "By DAN BARRY",
+      "person": [
+        {
+          "firstname": "Dan",
+          "middlename": null,
+          "lastname": "BARRY",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "507c507795e998af71186b14",
+    "word_count": 4071,
+    "score": 1.0,
+    "uri": "nyt://article/d1e3a862-403f-5638-bcee-8506a348f974"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2012/10/14/nyregion/teenagers-cars-are-the-gifts-that-keep-on-wreaking-havoc.html",
+    "snippet": "After a crash that killed four teenagers from Queens, the parental tradition of giving cars to children not old enough to vote calls into question an entrenched teenage car culture.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/10/14/nyregion/14BIGCITY2_SPAN/14BIGCITY2_SPAN-articleLarge.jpg",
+        "height": 360,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2012/10/14/nyregion/14BIGCITY2_SPAN/14BIGCITY2_SPAN-articleLarge.jpg",
+          "xlargeheight": 360
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/10/14/nyregion/14BIGCITY2_SPAN/14BIGCITY2_SPAN-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2012/10/14/nyregion/14BIGCITY2_SPAN/14BIGCITY2_SPAN-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/10/14/nyregion/14BIGCITY2_SPAN/14BIGCITY2_SPAN-thumbStandard-v2.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2012/10/14/nyregion/14BIGCITY2_SPAN/14BIGCITY2_SPAN-thumbStandard-v2.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Gift, and a Tragedy, Born of a Car Culture",
+      "kicker": "Big City",
+      "content_kicker": "Big City",
+      "print_headline": "Gift, and a Tragedy, Born of a Car Culture",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Automobiles",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Traffic Accidents and Safety",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Teenagers and Adolescence",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "New York City",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Queens (NYC)",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Parenting",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2012-10-13T04:11:56+0000",
+    "document_type": "article",
+    "new_desk": "Metro",
+    "byline": {
+      "original": "By GINIA BELLAFANTE",
+      "person": [
+        {
+          "firstname": "Ginia",
+          "middlename": null,
+          "lastname": "BELLAFANTE",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "507c505f95e998af71186918",
+    "word_count": 852,
+    "score": 1.0,
+    "uri": "nyt://article/fa194c5e-e2b6-50fe-a173-9caf0a11f185"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2012/10/14/education/dear-teacher-johnny-isnt-sick-hes-just-boycotting-the-test.html",
+    "snippet": "Some parents have banded together to show their displeasure with the emphasis on standardized exams in New York City schools by having their children boycott field tests.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/10/14/nyregion/14TEST1_SPAN/14TEST1_SPAN-articleLarge.jpg",
+        "height": 360,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2012/10/14/nyregion/14TEST1_SPAN/14TEST1_SPAN-articleLarge.jpg",
+          "xlargeheight": 360
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/10/14/nyregion/14TEST1_SPAN/14TEST1_SPAN-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2012/10/14/nyregion/14TEST1_SPAN/14TEST1_SPAN-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Dear Teacher, Johnny Is Skipping the Test",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Dear Teacher, Johnny Is Skipping the Test",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Tests and Examinations",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Education (K-12)",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "New York City",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Education Department (NYC)",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Teachers and School Employees",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Performance Evaluations (Labor)",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2012-10-13T02:58:10+0000",
+    "document_type": "article",
+    "new_desk": "Metro",
+    "byline": {
+      "original": "By SONI SANGHA",
+      "person": [
+        {
+          "firstname": "Soni",
+          "middlename": null,
+          "lastname": "SANGHA",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "507c516095e998af71186bfc",
+    "word_count": 1553,
+    "score": 1.0,
+    "uri": "nyt://article/b1531cd0-9e65-5402-82c8-51eaefa5e837"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2012/10/14/opinion/sunday/dowd-an-irish-catholic-wake-up.html",
+    "snippet": "Bring on the turkey: when Irish eyes are smiling and mouths are running.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2014/11/01/opinion/dowd-circular/dowd-circular-articleLarge-v2.jpg",
+        "height": 588,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2014/11/01/opinion/dowd-circular/dowd-circular-articleLarge-v2.jpg",
+          "xlargeheight": 588
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2014/11/01/opinion/dowd-circular/dowd-circular-thumbWide-v5.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2014/11/01/opinion/dowd-circular/dowd-circular-thumbWide-v5.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2014/11/01/opinion/dowd-circular/dowd-circular-thumbStandard-v6.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2014/11/01/opinion/dowd-circular/dowd-circular-thumbStandard-v6.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "An Irish Catholic Wake-Up",
+      "kicker": "Op-Ed Columnist",
+      "content_kicker": "Op-Ed Columnist",
+      "print_headline": "An Irish Catholic Wake-Up",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Vice Presidents and Vice Presidency (US)",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Presidential Election of 2012",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Biden, Joseph R Jr",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Ryan, Paul D Jr",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Romney, Mitt",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Obama, Barack",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Raddatz, Martha",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Debates (Political)",
+        "rank": 8,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2012-10-13T19:01:08+0000",
+    "document_type": "article",
+    "new_desk": "Editorial",
+    "section_name": "Sunday Review",
+    "byline": {
+      "original": "By MAUREEN DOWD",
+      "person": [
+        {
+          "firstname": "Maureen",
+          "middlename": null,
+          "lastname": "DOWD",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "Op-Ed",
+    "_id": "59e724377c459f246b62f46c",
+    "word_count": 1387,
+    "score": 1.0,
+    "uri": "nyt://article/a0293433-e1c3-5425-be05-4d9a76c1793b"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2012/10/14/sports/under-mary-wittenberg-the-new-york-city-marathon-is-thriving-so-whats-the-problem.html",
+    "snippet": "Since Mary Wittenberg took over as the chief executive in 2005, New York Road Runners has had extraordinary growth, becoming the pre-eminent running organization in the United States.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/10/14/sports/wittenberg-jp1/wittenberg-jp1-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2012/10/14/sports/wittenberg-jp1/wittenberg-jp1-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/10/14/sports/wittenberg-jp1/wittenberg-jp1-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2012/10/14/sports/wittenberg-jp1/wittenberg-jp1-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "The New York City Marathon Is Thriving. So What\u2019s the Problem?",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Running INC.",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Wittenberg, Mary",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "New York Road Runners Club",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "New York City Marathon",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Marathon Running",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2012-10-13T15:35:54+0000",
+    "document_type": "article",
+    "new_desk": "Sports",
+    "byline": {
+      "original": "By JULIET MACUR and KEN BELSON",
+      "person": [
+        {
+          "firstname": "Juliet",
+          "middlename": null,
+          "lastname": "MACUR",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Ken",
+          "middlename": null,
+          "lastname": "BELSON",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "507c516095e998af71186c45",
+    "word_count": 5150,
+    "score": 1.0,
+    "uri": "nyt://article/38f016d0-6bf2-5fae-b7ec-b41f82e6afd9"
+  }
+]

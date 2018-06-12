@@ -1,0 +1,100 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2012/09/14/business/economy/fed-announces-new-round-of-bond-buying-to-spur-growth.html",
+    "snippet": "The Federal Reserve opened a new chapter in its efforts to stimulate the American economy, saying that it intends to buy large quantities of mortgage bonds until the job market improves substantially.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/09/14/business/Fed/Fed-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2012/09/14/business/Fed/Fed-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Fed Ties New Aid to Jobs Recovery in Forceful Move",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Fed Links New Aid To Jobs Recovery In Forceful Move",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "organizations",
+        "value": "Federal Reserve System",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Economy",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Bernanke, Ben S",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Quantitative Easing",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Labor and Jobs",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Mortgage-Backed Securities",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2012-09-13T16:41:13+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "section_name": "Economy",
+    "byline": {
+      "original": "By BINYAMIN APPELBAUM",
+      "person": [
+        {
+          "firstname": "Binyamin",
+          "middlename": null,
+          "lastname": "APPELBAUM",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "50520d341c22dfde670c8442",
+    "word_count": 1344,
+    "score": 1.0,
+    "uri": "nyt://article/ea97da76-eab5-5c8b-9fa3-5e237675c2e9"
+  }
+]

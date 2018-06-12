@@ -1,0 +1,133 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2014/11/30/nyregion/is-one-world-trade-center-rises-in-lower-manhattan-a-design-success.html",
+    "snippet": "A critique of the design of 1 World Trade Center, the newly opened skyscraper built at the base of the former twin towers.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2014/11/30/nyregion/One-World/One-World-articleLarge.jpg",
+        "height": 295,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2014/11/30/nyregion/One-World/One-World-articleLarge.jpg",
+          "xlargeheight": 295
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2014/11/30/nyregion/One-World/One-World-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2014/11/30/nyregion/One-World/One-World-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2014/11/30/nyregion/One-World/One-World-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2014/11/30/nyregion/One-World/One-World-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "A Soaring Emblem of New York, and Its Upside-Down Priorities",
+      "kicker": "Architecture Review",
+      "content_kicker": "Architecture Review",
+      "print_headline": "A Soaring Emblem of New York, and Its Upside-Down Priorities",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "1 World Trade Center (Manhattan, NY)",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Architecture",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "World Trade Center (Manhattan, NY)",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Childs, David M",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Skidmore, Owings & Merrill",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Manhattan (NYC)",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2014-11-30T00:02:41+0000",
+    "document_type": "article",
+    "new_desk": "Metro",
+    "byline": {
+      "original": "By MICHAEL KIMMELMAN",
+      "person": [
+        {
+          "firstname": "Michael",
+          "middlename": null,
+          "lastname": "KIMMELMAN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "Review",
+    "_id": "547a5ea538f0d803f445b810",
+    "word_count": 1086,
+    "score": 1.0,
+    "uri": "nyt://article/d0b22f1a-b890-5b57-88e5-6ab1c33e1357"
+  }
+]

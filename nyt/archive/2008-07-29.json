@@ -1,0 +1,172 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2008/07/29/sports/olympics/29beijing.html",
+    "snippet": "Some businesses and residents will spend the Olympics behind walls erected to keep their property out of sight.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/07/29/sports/olympics/29beij.2ms.600.jpg",
+        "height": 407,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2008/07/29/sports/olympics/29beij.2ms.600.jpg",
+          "xlargeheight": 407
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/07/29/sports/olympics/29beij.2ms.75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2008/07/29/sports/olympics/29beij.2ms.75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Before Guests Arrive, Beijing Hides Some Messes",
+      "kicker": "2008 Beijing Olympics",
+      "content_kicker": "2008 Beijing Olympics",
+      "print_headline": "Before Guests, Beijing Hides Some Messes",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Olympic Games (2008)",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Beijing (China)",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Area Planning and Renewal",
+        "rank": 3,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2008-07-29T04:00:00+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Olympics",
+    "byline": {
+      "original": "By JAKE HOOKER",
+      "person": [
+        {
+          "firstname": "Jake",
+          "middlename": null,
+          "lastname": "HOOKER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "54835ea938f0d80df4fa36eb",
+    "word_count": 1206,
+    "score": 1.0,
+    "uri": "nyt://article/d3c149e0-0d67-5276-9045-1ce7ff3916b4"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2008/07/29/technology/29flip.html",
+    "snippet": "A wave of entrepreneurs are using free software to buy niche Web sites and fix them up with the hope of reselling them.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/07/29/business/29flip.75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2008/07/29/business/29flip.75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Find an Undervalued Asset. Fix It Up. Flip It. (Now It\u2019s Web Sites, Not Houses)",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Find an Undervalued Asset. Fix It Up. Flip It. (Now It\u2019s Web Sites, Not Houses)",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Computers and the Internet",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Advertising and Marketing",
+        "rank": 2,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2008-07-29T04:00:00+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By ABHA BHATTARAI",
+      "person": [
+        {
+          "firstname": "Abha",
+          "middlename": null,
+          "lastname": "BHATTARAI",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5483600338f0d80df4fa3715",
+    "word_count": 1249,
+    "score": 1.0,
+    "uri": "nyt://article/f9672976-385e-55d3-8779-dfee5dc63920"
+  }
+]

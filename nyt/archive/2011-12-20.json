@@ -1,0 +1,737 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2011/12/20/world/asia/in-detecting-kim-jong-il-death-a-gobal-intelligence-failure.html",
+    "snippet": "For South Korean and American intelligence services to have failed to pick up clues right away about Kim Jong-il\u2019s death attests to the secretive nature of North Korea.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/12/20/world/INTEL/INTEL-articleLarge-v2.jpg",
+        "height": 350,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2011/12/20/world/INTEL/INTEL-articleLarge-v2.jpg",
+          "xlargeheight": 350
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/12/20/world/INTEL/INTEL-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/12/20/world/INTEL/INTEL-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "In Kim\u2019s Undetected Death, Sign of Nation\u2019s Opacity",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "In Kim\u2019s Death, an Extensive Intelligence Failure",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Espionage and Intelligence Services",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Kim Jong Il",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "North Korea",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "United States",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "South Korea",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-12-20T01:53:04+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Asia Pacific",
+    "byline": {
+      "original": "By MARK LANDLER and CHOE SANG-HUN",
+      "person": [
+        {
+          "firstname": "Mark",
+          "middlename": null,
+          "lastname": "LANDLER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Choe",
+          "middlename": null,
+          "lastname": "SANG-HUN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "51c1c51e7e0d9c0839d298e7",
+    "word_count": 1201,
+    "score": 1.0,
+    "uri": "nyt://article/8f86bcce-1fed-5e4d-98c8-df4fbd5ba822"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/12/21/health/fearing-terrorism-us-asks-journals-to-censor-articles-on-virus.html",
+    "snippet": "The National Science Advisory Board for Biosecurity has urged Science and Nature to keep details out of reports that they intend to publish on a highly transmissible form of the bird flu.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/12/21/health/21flu-cnd/21flu-cnd-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/12/21/health/21flu-cnd/21flu-cnd-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Seeing Terror Risk, U.S. Asks Journals to Cut Flu Study Facts",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Journals Asked To Cut Details Of Flu Studies",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Avian Influenza",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Terrorism",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Research",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Science (Journal)",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "National Institutes of Health",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Epidemics",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Nature (Journal)",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Censorship",
+        "rank": 9,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Biological and Chemical Warfare",
+        "rank": 10,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-12-20T22:35:59+0000",
+    "document_type": "article",
+    "new_desk": "Science",
+    "byline": {
+      "original": "By DENISE GRADY and WILLIAM J. BROAD",
+      "person": [
+        {
+          "firstname": "Denise",
+          "middlename": null,
+          "lastname": "GRADY",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "William",
+          "middlename": "J.",
+          "lastname": "BROAD",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5204776138f0d8740ac8a8c3",
+    "word_count": 1388,
+    "score": 1.0,
+    "uri": "nyt://article/f4d1cb87-f77e-553e-90e9-615ed8bb8599"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/12/21/world/middleeast/violence-enters-5th-day-as-egyptian-general-blames-protesters.html",
+    "snippet": "The demonstration grew by the minute into an extraordinary expression of anger at the treatment of women by the military police.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/12/21/world/EGYPT/EGYPT-articleLarge.jpg",
+        "height": 360,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2011/12/21/world/EGYPT/EGYPT-articleLarge.jpg",
+          "xlargeheight": 360
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/12/21/world/EGYPT/EGYPT-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/12/21/world/EGYPT/EGYPT-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Mass March by Cairo Women in Protest Over Abuse by Soldiers",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "March In Cairo Draws Women By Thousands",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Demonstrations, Protests, and Riots",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Middle East and North Africa Unrest (2010- )",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Women and Girls",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Tahrir Square (Cairo)",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Muslim Brotherhood (Egypt)",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Egypt",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Women's Rights",
+        "rank": 7,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-12-20T11:24:37+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Middle East",
+    "byline": {
+      "original": "By DAVID D. KIRKPATRICK",
+      "person": [
+        {
+          "firstname": "David",
+          "middlename": null,
+          "lastname": null,
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "53f2512938f0d847437df8d3",
+    "word_count": 1477,
+    "score": 1.0,
+    "uri": "nyt://article/1c1abc96-e6f7-5268-a9c6-fec98f6f5620"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/12/21/us/politics/house-republicans-move-closer-to-rejecting-payroll-tax-cut-deal.html",
+    "snippet": "By turning down a bill that was supported by both parties in the Senate as well as the White House, the conservative House majority is now staring over the brink.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/12/21/us/CONGRESS-1/CONGRESS-1-articleLarge.jpg",
+        "height": 330,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2011/12/21/us/CONGRESS-1/CONGRESS-1-articleLarge.jpg",
+          "xlargeheight": 330
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/12/21/us/CONGRESS-1/CONGRESS-1-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/12/21/us/CONGRESS-1/CONGRESS-1-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Standoff Over Payroll Tax Cut Leaves Wake of Uncertainty",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "House Vote Bars Brief Extension Of Tax Reduction",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Payroll Tax",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Senate",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "House of Representatives",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Republican Party",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Democratic Party",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Law and Legislation",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Obama, Barack",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Boehner, John A",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Federal Budget (US)",
+        "rank": 9,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-12-20T16:51:25+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "section_name": "Politics",
+    "byline": {
+      "original": "By JENNIFER STEINHAUER",
+      "person": [
+        {
+          "firstname": "Jennifer",
+          "middlename": null,
+          "lastname": "STEINHAUER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5404679838f0d80e250f4ce0",
+    "word_count": 1084,
+    "score": 1.0,
+    "uri": "nyt://article/04e01648-ace5-5c8e-832c-8da5ef2eb446"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/12/20/health/20lives.html",
+    "snippet": "The mental health care system has long made use of former patients as counselors, like Antonio Lambert, an ex-convict turned mental health educator in Delaware.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/12/16/science/video-lives-antonio/video-lives-antonio-articleLarge.jpg",
+        "height": 338,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2011/12/16/science/video-lives-antonio/video-lives-antonio-articleLarge.jpg",
+          "xlargeheight": 338
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/12/16/science/video-lives-antonio/video-lives-antonio-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2011/12/16/science/video-lives-antonio/video-lives-antonio-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/12/16/science/video-lives-antonio/video-lives-antonio-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/12/16/science/video-lives-antonio/video-lives-antonio-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "After Drugs and Dark Times, Helping Others to Stand Back Up",
+      "kicker": "Lives Restored ",
+      "content_kicker": "Lives Restored ",
+      "print_headline": "After Drugs and Dark Times, Helping Others to Stand Back Up",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Mental Health and Disorders",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Drug Abuse and Traffic",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Therapy and Rehabilitation",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Series",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Medicaid",
+        "rank": 7,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-12-20T03:07:01+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "byline": {
+      "original": "By BENEDICT CAREY",
+      "person": [
+        {
+          "firstname": "Benedict",
+          "middlename": null,
+          "lastname": "CAREY",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "515db185cf28d0219d003526",
+    "word_count": 2682,
+    "score": 1.0,
+    "uri": "nyt://article/d23cdf6e-ed16-59fa-a347-0339ee7e4f49"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/12/21/business/streamlining-airport-security.html",
+    "snippet": "With global air traffic growing about 5 percent a year, industry executives and security experts say a fundamental rethinking of security checkpoints is inevitable.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/12/21/technology/21security-span/21security-span-articleLarge.jpg",
+        "height": 358,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2011/12/21/technology/21security-span/21security-span-articleLarge.jpg",
+          "xlargeheight": 358
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/12/21/technology/21security-span/21security-span-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/12/21/technology/21security-span/21security-span-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Looking to Streamline Airport Security Screenings",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Clearing a Path at the Airport",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Airport Security",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Airlines and Airplanes",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Airports",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Travel and Vacations",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-12-20T18:09:34+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By NICOLA CLARK and JAD MOUAWAD",
+      "person": [
+        {
+          "firstname": "Nicola",
+          "middlename": null,
+          "lastname": "CLARK",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Jad",
+          "middlename": null,
+          "lastname": "MOUAWAD",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5404680438f0d80e250f4ce6",
+    "word_count": 1417,
+    "score": 1.0,
+    "uri": "nyt://article/6fbad5d3-e647-5894-a90c-1c5798bba969"
+  }
+]

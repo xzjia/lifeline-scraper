@@ -1,0 +1,721 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2012/08/25/technology/jury-reaches-decision-in-apple-samsung-patent-trial.html",
+    "snippet": "The jury found that Samsung infringed upon a series of Apple patents on mobile devices, in a closely watched court case that could have broad implications for the industry.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/08/25/technology/25apple-photo1/25apple-photo1-articleLarge.jpg",
+        "height": 330,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2012/08/25/technology/25apple-photo1/25apple-photo1-articleLarge.jpg",
+          "xlargeheight": 330
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/08/25/technology/25apple-photo1/25apple-photo1-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2012/08/25/technology/25apple-photo1/25apple-photo1-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Jury Awards $1 Billion to Apple in Samsung Patent Case",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Jury Gives Apple Decisive Victory In A Patients Case",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "organizations",
+        "value": "Apple Inc",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Samsung Group",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Inventions and Patents",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Decisions and Verdicts",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Tablet Computers",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Smartphones",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Suits and Litigation",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Android (Operating System)",
+        "rank": 8,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2012-08-24T22:11:15+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By NICK WINGFIELD",
+      "person": [
+        {
+          "firstname": "Nick",
+          "middlename": null,
+          "lastname": "WINGFIELD",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5938300c7c459f24986e4516",
+    "word_count": 894,
+    "score": 1.0,
+    "uri": "nyt://article/18c2a66b-b161-59ae-845f-8a2aeb757185"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2012/08/25/nyregion/empire-state-building-shooting.html",
+    "snippet": "A man fatally shot his former co-worker and was then shot and killed by the police in gunfire that injured nine other people outside the Empire State Building, the police said.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/08/25/nyregion/25empire5-span/25empire5-span-articleLarge.jpg",
+        "height": 364,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2012/08/25/nyregion/25empire5-span/25empire5-span-articleLarge.jpg",
+          "xlargeheight": 364
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/08/25/nyregion/25empire5-span/25empire5-span-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2012/08/25/nyregion/25empire5-span/25empire5-span-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Gunman Dies After Killing at Empire State Building",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Gunman Dies After Killing at Empire State Building",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Empire State Building (NYC)",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Murders and Attempted Murders",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Johnson, Jeffrey T",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Ercolino, Steven",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Midtown Area (NYC)",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "New York City",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2012-08-24T14:09:42+0000",
+    "document_type": "article",
+    "new_desk": "Metro",
+    "byline": {
+      "original": "By JAMES BARRON",
+      "person": [
+        {
+          "firstname": "James",
+          "middlename": null,
+          "lastname": "BARRON",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "59382e337c459f24986e44b1",
+    "word_count": 1117,
+    "score": 1.0,
+    "uri": "nyt://article/d5936930-6904-50f9-ab7d-8dd61fec82a2"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2012/08/24/us/romney-would-give-reins-to-states-on-drilling-on-federal-lands.html",
+    "snippet": "Mitt Romney is proposing to end a century of federal control over oil and gas drilling and coal mining on government lands to court western voters and supporters from the energy industry.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/08/24/us/ENERGY/ENERGY-articleLarge-v2.jpg",
+        "height": 330,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2012/08/24/us/ENERGY/ENERGY-articleLarge-v2.jpg",
+          "xlargeheight": 330
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/08/24/us/ENERGY/ENERGY-thumbStandard-v2.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2012/08/24/us/ENERGY/ENERGY-thumbStandard-v2.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Giving Reins to the States Over Drilling",
+      "kicker": "News Analysis",
+      "content_kicker": "News Analysis",
+      "print_headline": "Giving Reins To the States Over Drilling",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Land Use Policies",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Oil (Petroleum) and Gasoline",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Romney, Mitt",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Presidential Election of 2012",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Federal Lands",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Regulation and Deregulation of Industry",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Environment",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Coal",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Natural Gas",
+        "rank": 9,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Mines and Mining",
+        "rank": 10,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2012-08-24T01:10:27+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "byline": {
+      "original": "By ERIC LIPTON and CLIFFORD KRAUSS",
+      "person": [
+        {
+          "firstname": "Eric",
+          "middlename": null,
+          "lastname": "LIPTON",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Clifford",
+          "middlename": null,
+          "lastname": "KRAUSS",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News Analysis",
+    "_id": "53fa2bd138f0d8431914d4ac",
+    "word_count": 1200,
+    "score": 1.0,
+    "uri": "nyt://article/64a39773-d6a6-5037-b6da-8916dede39ed"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2012/08/24/nyregion/calls-for-stricter-gun-laws-worry-ilion-ny-built-by-remington.html",
+    "snippet": "Two recent mass shootings have galvanized advocates of tougher gun laws in Albany, and Remington has made it clear that such laws could prompt it to leave New York for a more sympathetic state.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/08/24/nyregion/Y-JPREMINGTON1/Y-JPREMINGTON1-articleLarge.jpg",
+        "height": 350,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2012/08/24/nyregion/Y-JPREMINGTON1/Y-JPREMINGTON1-articleLarge.jpg",
+          "xlargeheight": 350
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/08/24/nyregion/Y-JPREMINGTON1/Y-JPREMINGTON1-thumbStandard-v2.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2012/08/24/nyregion/Y-JPREMINGTON1/Y-JPREMINGTON1-thumbStandard-v2.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Call to Stiffen Laws Worries Town Built by Guns",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Call to Stiffen Laws Worries Town Built by Guns",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "organizations",
+        "value": "Remington Arms Co",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Gun Control",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Ilion (NY)",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "New Yorkers Against Gun Violence",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Factories and Manufacturing",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Cuomo, Andrew M",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Mohawk Valley (NY)",
+        "rank": 7,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2012-08-24T00:54:03+0000",
+    "document_type": "article",
+    "new_desk": "Metro",
+    "byline": {
+      "original": "By THOMAS KAPLAN",
+      "person": [
+        {
+          "firstname": "Thomas",
+          "middlename": null,
+          "lastname": "KAPLAN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "53fa2c5738f0d8431914d4b2",
+    "word_count": 1264,
+    "score": 1.0,
+    "uri": "nyt://article/447e0e52-a6c5-52f1-8fb1-0b9059ed2739"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2012/08/24/sports/cycling/lance-armstrong-ends-fight-against-doping-charges-losing-his-7-tour-de-france-titles.html",
+    "snippet": "Lance Armstrong said Thursday he would not fight doping charges brought by United States authorities, which means he is likely to lose his seven Tour de France titles.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/08/24/sports/24armstrong_337-span/24armstrong_337-span-articleLarge.jpg",
+        "height": 330,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2012/08/24/sports/24armstrong_337-span/24armstrong_337-span-articleLarge.jpg",
+          "xlargeheight": 330
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/08/24/sports/24armstrong_337-span/24armstrong_337-span-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2012/08/24/sports/24armstrong_337-span/24armstrong_337-span-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Armstrong Drops Fight Against Doping Charges",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Armstrong Ends Fight Against Doping Charges",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Armstrong, Lance",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Doping (Sports)",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Bicycles and Bicycling",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Tour de France (Bicycle Race)",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "United States Anti-Doping Agency",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2012-08-24T02:12:00+0000",
+    "document_type": "article",
+    "new_desk": "Sports",
+    "section_name": "Cycling",
+    "byline": {
+      "original": "By JULIET MACUR",
+      "person": [
+        {
+          "firstname": "Juliet",
+          "middlename": null,
+          "lastname": "MACUR",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "593ee31d7c459f24986e5ac6",
+    "word_count": 1234,
+    "score": 1.0,
+    "uri": "nyt://article/5e7fbb28-d5b0-55bc-8703-cff2d51280c2"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2012/08/26/realestate/running-a-home-business-in-new-york.html",
+    "snippet": "New York is a place of innumerable home businesses. Chances are there\u2019s one in the next apartment.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/08/26/realestate/26COVER_SPAN/26COVER_SPAN-articleLarge-v4.jpg",
+        "height": 350,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2012/08/26/realestate/26COVER_SPAN/26COVER_SPAN-articleLarge-v4.jpg",
+          "xlargeheight": 350
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/08/26/realestate/26COVER_SPAN/26COVER_SPAN-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2012/08/26/realestate/26COVER_SPAN/26COVER_SPAN-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Sleepwalk to Work",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Sleepwalk to Work",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "New York City",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Real Estate and Housing (Residential)",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Entrepreneurship",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Real Estate (Commercial)",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2012-08-24T18:25:28+0000",
+    "document_type": "article",
+    "new_desk": "RealEstate",
+    "byline": {
+      "original": "By CATHERINE SAINT LOUIS",
+      "person": [
+        {
+          "firstname": "Catherine",
+          "middlename": "Saint",
+          "lastname": "LOUIS",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "59382e397c459f24986e44b2",
+    "word_count": 1786,
+    "score": 1.0,
+    "uri": "nyt://article/c1287bad-1592-5e1b-97d1-66566812efe9"
+  }
+]

@@ -1,0 +1,132 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2010/10/25/us/25drugs.html",
+    "snippet": "Workplace testing is drawing complaints from employees who say they should not be fired for taking legal drugs.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/10/25/us/25drugs_337-span/JP-DRUGS-2-articleLarge.jpg",
+        "height": 330,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2010/10/25/us/25drugs_337-span/JP-DRUGS-2-articleLarge.jpg",
+          "xlargeheight": 330
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/10/25/us/25drugs_337-span/JP-DRUGS-2-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/10/25/us/25drugs_337-span/JP-DRUGS-2-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Drug Testing Poses Quandary for Employers",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Testing for Prescription Drugs Poses Quandary for Employers",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Drug Abuse and Traffic",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Labor and Jobs",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Drugs (Pharmaceuticals)",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Tests and Testing",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Accidents and Safety",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Pain-Relieving Drugs",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Dura Automotive Systems Incorporated",
+        "rank": 7,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-10-24T23:38:15+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "byline": {
+      "original": "By KATIE ZEZIMA and ABBY GOODNOUGH",
+      "person": [
+        {
+          "firstname": "Katie",
+          "middlename": null,
+          "lastname": "ZEZIMA",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Abby",
+          "middlename": null,
+          "lastname": "GOODNOUGH",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "541c020b38f0d8296cb10681",
+    "word_count": 2292,
+    "score": 1.0,
+    "uri": "nyt://article/d0a79639-2036-553e-94f9-6f2693724263"
+  }
+]

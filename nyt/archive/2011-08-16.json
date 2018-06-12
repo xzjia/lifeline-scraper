@@ -1,0 +1,378 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2011/08/17/world/europe/17hacking.html",
+    "snippet": "The disclosures threatened to push the scandal back to the forefront of public concern, raising questions for Rupert Murdoch and the British prime minister, David Cameron.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/08/17/world/17hacking_cnd/17hacking_cnd-articleLarge.jpg",
+        "height": 330,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2011/08/17/world/17hacking_cnd/17hacking_cnd-articleLarge.jpg",
+          "xlargeheight": 330
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/08/17/world/17hacking_cnd/17hacking_cnd-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/08/17/world/17hacking_cnd/17hacking_cnd-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Letter Counters Hacking Avowals From News Corp.",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Letter Counters Hacking Avowals From News Corp.",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "organizations",
+        "value": "News of the World",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Goodman, Clive",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Wiretapping and Other Eavesdropping Devices and Methods",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Murdoch, James R",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Coulson, Andy",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "News and News Media",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Great Britain",
+        "rank": 7,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-08-16T13:12:59+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Europe",
+    "byline": {
+      "original": "By SARAH LYALL",
+      "person": [
+        {
+          "firstname": "Sarah",
+          "middlename": null,
+          "lastname": "LYALL",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "541169e338f0d80f29522792",
+    "word_count": 1239,
+    "score": 1.0,
+    "uri": "nyt://article/e05a5446-dcfb-56e4-9112-223bbf5c6d4a"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/08/16/technology/google-deal-could-strain-ties-with-phone-makers.html",
+    "snippet": "Despite reassurances from Google that it will run Android as an open platform, some fear former partners will become rivals.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "Google\u2019s Coup Shifts Mobile Alliances",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Google\u2019s Coup Shifts Mobile Alliances: Deal Could Upset Relations With Major Phone Makers",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Android (Operating System)",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Google Inc",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Smartphones",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Wireless Communications",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Mergers, Acquisitions and Divestitures",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Motorola Mobility Inc",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-08-16T01:09:34+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By JENNA WORTHAM",
+      "person": [
+        {
+          "firstname": "Jenna",
+          "middlename": null,
+          "lastname": "WORTHAM",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5411682d38f0d80f29522773",
+    "word_count": 683,
+    "score": 1.0,
+    "uri": "nyt://article/f9e36f98-d2b9-59be-93fb-32faeb75d5ec"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/08/17/business/global/euro-zone-economy.html",
+    "snippet": "Europe\u2019s sovereign debt crisis threatened to spill over into the broader economy as figures showed that growth in the euro zone fell to its lowest rate in two years.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "Europe\u2019s Debt Crisis Weakens Quarterly Growth",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Europe\u2019s Debt Crisis Weakens Quarterly Growth",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Germany",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "European Sovereign Debt Crisis (2010- )",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "European Central Bank",
+        "rank": 3,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-08-16T10:02:42+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "section_name": "Global Business",
+    "byline": {
+      "original": "By JACK EWING",
+      "person": [
+        {
+          "firstname": "Jack",
+          "middlename": null,
+          "lastname": "EWING",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5411690438f0d80f29522784",
+    "word_count": 773,
+    "score": 1.0,
+    "uri": "nyt://article/c2eee450-6555-5b70-bc18-deea4b474525"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/08/16/nyregion/for-christine-quinn-shifting-career-and-an-eye-on-mayors-office.html",
+    "snippet": "Christine C. Quinn, the City Council speaker and an all-but declared candidate for mayor, started out as a left-leaning Chelsea activist but is now courting a broader electorate.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/08/16/nyregion/yquinn1/yquinn1-articleLarge.jpg",
+        "height": 350,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2011/08/16/nyregion/yquinn1/yquinn1-articleLarge.jpg",
+          "xlargeheight": 350
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/08/16/nyregion/yquinn1/yquinn1-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/08/16/nyregion/yquinn1/yquinn1-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Edging to Center, Her Eye on the Mayoral Race",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Edging to Center, Her Eye on the Mayoral Race",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Quinn, Christine C",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "City Council (NYC)",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Politics and Government",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "New York City",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Mayors",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Bloomberg, Michael R",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-08-16T00:49:36+0000",
+    "document_type": "article",
+    "new_desk": "Metro",
+    "byline": {
+      "original": "By DAVID W. CHEN",
+      "person": [
+        {
+          "firstname": "David",
+          "middlename": "W.",
+          "lastname": "CHEN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "52b9a45038f0d86bcb2a746f",
+    "word_count": 1471,
+    "score": 1.0,
+    "uri": "nyt://article/dcddbae5-03d6-5704-9974-eee85ff32de0"
+  }
+]

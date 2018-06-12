@@ -1,0 +1,99 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2008/03/02/sports/baseball/02yankees.html",
+    "snippet": "After being offered to numerous teams in deals for high profile players, second baseman Robinson Can\u00f3 is finally a keeper and the Yankees have quickly reaped the benefits.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/03/02/sports/02yankees.1.600.jpg",
+        "height": 348,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2008/03/02/sports/02yankees.1.600.jpg",
+          "xlargeheight": 348
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/03/02/sports/02yankees.2.75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2008/03/02/sports/02yankees.2.75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Now Batting, the Best Deal the Yankees Never Made",
+      "kicker": "Spring Training 2008",
+      "content_kicker": "Spring Training 2008",
+      "print_headline": "Now Batting, The Best Deal The Yankees Never Made",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "organizations",
+        "value": "New York Yankees",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Cano, Robinson",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Baseball",
+        "rank": 3,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2008-03-02T05:00:00+0000",
+    "document_type": "article",
+    "new_desk": "Sports",
+    "section_name": "Baseball",
+    "byline": {
+      "original": "By TYLER KEPNER",
+      "person": [
+        {
+          "firstname": "Tyler",
+          "middlename": null,
+          "lastname": "KEPNER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "547ea22638f0d84a61c0ee55",
+    "word_count": 1173,
+    "score": 1.0,
+    "uri": "nyt://article/3cf40638-9ded-5b4d-803c-a5b4117bed7e"
+  }
+]

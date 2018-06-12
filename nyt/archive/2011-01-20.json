@@ -1,0 +1,161 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2011/01/20/business/20walmart.html",
+    "snippet": "The company said it would lower the price of fresh produce and cut sugar, fat and salt in its house brands, and would press other food manufacturers to do the same.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "Wal-Mart Shifts Strategy to Promote Healthy Foods",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Wal-Mart Takes a Healthy Turn",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "organizations",
+        "value": "Wal-Mart Stores Inc",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Diet and Nutrition",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Obama, Michelle",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Obesity",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Prices (Fares, Fees and Rates)",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-01-20T05:01:50+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By SHERYL GAY STOLBERG",
+      "person": [
+        {
+          "firstname": "Sheryl",
+          "middlename": "Gay",
+          "lastname": "STOLBERG",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5409ef4138f0d84fb8832fdf",
+    "word_count": 1216,
+    "score": 1.0,
+    "uri": "nyt://article/c98182a7-61a2-571f-897c-475a83f76613"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/01/20/business/media/20mtv.html",
+    "snippet": "MTV executives are concerned that some scenes from the provocative new program \u201cSkins\u201d may violate federal child pornography statutes.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/01/20/business/MTV/MTV-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/01/20/business/MTV/MTV-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "A Racy Show With Teenagers Steps Back From a Boundary",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "A Racy Show With Teenagers Steps Back From a Boundary",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "organizations",
+        "value": "MTV Networks",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Television",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Teenagers and Adolescence",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Pornography",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-01-20T02:16:15+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "section_name": "Media",
+    "byline": {
+      "original": "By BRIAN STELTER",
+      "person": [
+        {
+          "firstname": "Brian",
+          "middlename": null,
+          "lastname": "STELTER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5409f0a738f0d84fb8832ff4",
+    "word_count": 1038,
+    "score": 1.0,
+    "uri": "nyt://article/0f4b183e-8895-5a1f-b931-e944483d2ac7"
+  }
+]

@@ -1,0 +1,196 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2011/02/27/us/27gas.html",
+    "snippet": "A method to extract more natural gas often produces wastewater laced with toxic substances.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/02/27/us/jp-GAS-1-1298675553468/jp-GAS-1-1298675553468-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/02/27/us/jp-GAS-1-1298675553468/jp-GAS-1-1298675553468-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Regulation Lax as Gas Wells\u2019 Tainted Water Hits Rivers",
+      "kicker": "Drilling Down",
+      "content_kicker": "Drilling Down",
+      "print_headline": "Regulation Lax as Gas Wells\u2019 Tainted Water Hits Rivers",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Hydraulic Fracturing",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Natural Gas",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Water Pollution",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Marcellus Shale",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Environmental Protection Agency",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Regulation and Deregulation of Industry",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Pennsylvania",
+        "rank": 7,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-02-26T22:40:33+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "byline": {
+      "original": "By IAN URBINA",
+      "person": [
+        {
+          "firstname": "Ian",
+          "middlename": null,
+          "lastname": "URBINA",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5400b27b38f0d841b2f38421",
+    "word_count": 3869,
+    "score": 1.0,
+    "uri": "nyt://article/dc78e7dc-b18e-5e64-9b97-7379ab752cba"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/02/27/business/27collective-bargain.html",
+    "snippet": "The experience of Indiana, where the governor ended bargaining for state employees, shows how much is at stake for workers and the government.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/02/27/us/BARGAIN/BARGAIN-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/02/27/us/BARGAIN/BARGAIN-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "In Indiana, Clues to Future of Wisconsin Labor",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "In Indiana, Clues to Future of Wisconsin Labor",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Organized Labor",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Indiana",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Government Employees",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Daniels, Mitchell E Jr",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Wisconsin",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-02-26T20:23:59+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By STEVEN GREENHOUSE",
+      "person": [
+        {
+          "firstname": "Steven",
+          "middlename": null,
+          "lastname": "GREENHOUSE",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "540b334438f0d85e13e4c067",
+    "word_count": 1213,
+    "score": 1.0,
+    "uri": "nyt://article/d33b9eba-5fd5-59ce-8d34-8d451581caed"
+  }
+]

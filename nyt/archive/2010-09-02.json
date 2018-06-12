@@ -1,0 +1,228 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2010/09/03/us/03rig.html",
+    "snippet": "The mishap sent waves of anxiety along a coast that has just begun to recover from the Deepwater Horizon disaster.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/09/03/us/03rig_337-span/03rig_337-span-articleLarge.jpg",
+        "height": 340,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2010/09/03/us/03rig_337-span/03rig_337-span-articleLarge.jpg",
+          "xlargeheight": 340
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/09/03/us/03rig_337-span/03rig_337-span-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/09/03/us/03rig_337-span/03rig_337-span-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "An Oil Platform Burns, Blanketing the Gulf With Angst",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Oil Platform Burns, Blanketing Gulf With Angst",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "organizations",
+        "value": "Mariner Energy Inc",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Offshore Drilling and Exploration",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Gulf of Mexico",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "United States Coast Guard",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Oil (Petroleum) and Gasoline",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Accidents and Safety",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Fires and Firefighters",
+        "rank": 7,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-09-02T16:27:39+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "byline": {
+      "original": "By CAMPBELL ROBERTSON",
+      "person": [
+        {
+          "firstname": "Campbell",
+          "middlename": null,
+          "lastname": "ROBERTSON",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "541a315138f0d80959e6c47d",
+    "word_count": 1318,
+    "score": 1.0,
+    "uri": "nyt://article/772ada49-11cb-5b18-a0d2-c50f4fe803fa"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2010/09/03/sports/03cup.html",
+    "snippet": "The Directors\u2019 Cup, a little-known but prized honor, has set off a competition to have the best broad-based sports program.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/09/03/sports/03cup2/03cup2-articleLarge.jpg",
+        "height": 315,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2010/09/03/sports/03cup2/03cup2-articleLarge.jpg",
+          "xlargeheight": 315
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/09/03/sports/03cup2/03cup2-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/09/03/sports/03cup2/03cup2-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "As Colleges Compete, Major Money Flows to Minor Sports",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "As Athletic Directors Compete, Big Money Flows to All Sports",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "College Athletics",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Colleges and Universities",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "University of Florida",
+        "rank": 3,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-09-02T16:42:50+0000",
+    "document_type": "article",
+    "new_desk": "Sports",
+    "byline": {
+      "original": "By JOE DRAPE and KATIE THOMAS",
+      "person": [
+        {
+          "firstname": "Joe",
+          "middlename": null,
+          "lastname": "DRAPE",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Katie",
+          "middlename": null,
+          "lastname": "THOMAS",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "541a313838f0d80959e6c47c",
+    "word_count": 2072,
+    "score": 1.0,
+    "uri": "nyt://article/82ad6bd4-64c9-570f-a228-a46d14896ca6"
+  }
+]

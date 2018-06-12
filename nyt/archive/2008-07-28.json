@@ -1,0 +1,140 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2008/07/28/us/28beauty.html",
+    "snippet": "Dermatology is becoming a two-tier business in which higher-paying customers are often pampered.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/07/28/us/28beauty.xlarge1.jpg",
+        "height": 350,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2008/07/28/us/28beauty.xlarge1.jpg",
+          "xlargeheight": 350
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/07/28/us/28beauty.751.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2008/07/28/us/28beauty.751.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "As Doctors Cater to Looks, Skin Patients Wait",
+      "kicker": "The Price of Beauty",
+      "content_kicker": "The Price of Beauty",
+      "print_headline": "As Doctors Cater to Looks, Skin Patients Take a Seat and Wait",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Skin",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Doctors",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Medicine and Health",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Acne",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Botox (Drug)",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Cancer",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "American Academy of Dermatology",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Memorial Sloan-Kettering Cancer Center",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "University of California, San Francisco",
+        "rank": 9,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Massachusetts General Hospital",
+        "rank": 10,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2008-07-28T04:00:00+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "byline": {
+      "original": "By NATASHA SINGER",
+      "person": [
+        {
+          "firstname": "Natasha",
+          "middlename": null,
+          "lastname": "SINGER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "Series",
+    "_id": "5475c6c438f0d8119c6b009c",
+    "word_count": 1558,
+    "score": 1.0,
+    "uri": "nyt://article/44a2aa9f-58a9-560c-87c8-b839a9bbc020"
+  }
+]

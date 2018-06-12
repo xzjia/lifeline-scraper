@@ -1,0 +1,589 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2009/06/14/nyregion/14democracy.html",
+    "snippet": "A coup by two Senate Democrats made clear that power is shifting in state politics, but where it\u2019s going is unclear.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "Senate Coup Exposes Albany\u2019s Lack of Order",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Albany\u2019s New Political Order: Well, There Really Isn\u2019t Any",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "New York State",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "State Legislatures",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Politics and Government",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Espada, Pedro Jr",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Monserrate, Hiram",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Paterson, David A",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Democratic Party",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Republican Party",
+        "rank": 8,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-06-13T16:54:28+0000",
+    "document_type": "article",
+    "new_desk": "Metro",
+    "byline": {
+      "original": "By NICHOLAS CONFESSORE",
+      "person": [
+        {
+          "firstname": "Nicholas",
+          "middlename": null,
+          "lastname": "CONFESSORE",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5452e12438f0d81b603ed31b",
+    "word_count": 1123,
+    "score": 1.0,
+    "uri": "nyt://article/de721fe1-aad1-5985-8ba3-30eeef63b563"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/06/13/us/politics/13cyber.html",
+    "snippet": "A plan to create a new Pentagon cybercommand is raising privacy and diplomatic concerns.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "Privacy May Be a Victim in Cyberdefense Plan",
+      "kicker": "Cyberwar",
+      "content_kicker": "Cyberwar",
+      "print_headline": "Privacy May Be a Victim in Cyberdefense Plan",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "United States Defense and Military Forces",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Computer Security",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Obama, Barack",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "National Security Agency",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Defense Department",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Politics and Government",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Privacy",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Civil Rights and Liberties",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States International Relations",
+        "rank": 9,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-06-13T01:21:33+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "section_name": "Politics",
+    "byline": {
+      "original": "By THOM SHANKER  and DAVID E. SANGER",
+      "person": [
+        {
+          "firstname": "Thom",
+          "middlename": null,
+          "lastname": "SHANKER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "David",
+          "middlename": "E.",
+          "lastname": "SANGER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "Series",
+    "_id": "5452db3c38f0d81b603ed28d",
+    "word_count": 1123,
+    "score": 1.0,
+    "uri": "nyt://article/163bad51-f906-5742-bc79-701457c68409"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/06/14/sports/14girls.html",
+    "snippet": "The revolution in girls\u2019 sports has bypassed the nation\u2019s cities, where cash-strapped public schools often view sports as a luxury.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/06/14/sports/girls_span_600.1.jpg",
+        "height": 335,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/06/14/sports/girls_span_600.1.jpg",
+          "xlargeheight": 335
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/06/14/sports/girls.75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/06/14/sports/girls.75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "A City Team\u2019s Struggle Shows Disparity in Girls\u2019 Sports",
+      "kicker": "Left Behind",
+      "content_kicker": "Left Behind",
+      "print_headline": "A City Team\u2019s Struggle Shows Disparity in Girls\u2019 Sports",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Interscholastic Athletics",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Women",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Urban Areas",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Basketball",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Bronx (NYC)",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-06-13T18:01:36+0000",
+    "document_type": "article",
+    "new_desk": "Sports",
+    "byline": {
+      "original": "By KATIE THOMAS",
+      "person": [
+        {
+          "firstname": "Katie",
+          "middlename": null,
+          "lastname": "THOMAS",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "Series",
+    "_id": "5452e11538f0d81b603ed317",
+    "word_count": 2435,
+    "score": 1.0,
+    "uri": "nyt://article/f3491fc7-fbaf-50b6-b34a-ea727a2ada21"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/06/13/your-money/brokerage-and-bank-accounts/13money.html",
+    "snippet": "Government regulators essentially told Ally, an online arm of GMAC, it is paying too much in interest, though depositors can get still higher rates elsewhere.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/06/13/business/money75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/06/13/business/money75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "F.D.I.C. Is Watching as a Bank Sets Rates",
+      "kicker": "Your Money",
+      "content_kicker": "Your Money",
+      "print_headline": "F.D.I.C. Is Watching as a Bank Sets Rates",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "organizations",
+        "value": "GMAC LLC",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Banks and Banking",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Personal Finances",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Interest Rates",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-06-13T01:23:24+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "section_name": "Brokerage and Bank Accounts",
+    "byline": {
+      "original": "By RON LIEBER",
+      "person": [
+        {
+          "firstname": "Ron",
+          "middlename": null,
+          "lastname": "LIEBER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5452dcae38f0d81b603ed2af",
+    "word_count": 1281,
+    "score": 1.0,
+    "uri": "nyt://article/47fed1fb-3794-5342-b3bf-f3efceb003cc"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/06/13/health/13gout.html",
+    "snippet": "The rising tide of gout is leading the pharmaceutical industry to rediscover what seemed a disease of the past.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "Disease of Rich Extends Its Pain to Middle Class",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Disease of Rich Extends Its Pain To Middle Class",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Medicine and Health",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Gout",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Drugs (Pharmaceuticals)",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Arthritis and Rheumatism",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Obesity",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Food and Drug Administration",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Savient Pharmaceuticals Incorporated",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Takeda Pharmaceutical",
+        "rank": 8,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-06-13T01:20:09+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By ANDREW POLLACK",
+      "person": [
+        {
+          "firstname": "Andrew",
+          "middlename": null,
+          "lastname": "POLLACK",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5452daf038f0d81b603ed288",
+    "word_count": 1039,
+    "score": 1.0,
+    "uri": "nyt://article/e8a45070-5adf-52c7-813a-7d99f049cf8f"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/06/14/world/middleeast/14memo.html",
+    "snippet": "Iran\u2019s election ended with smoldering anger, crushed hopes and punctured illusions on the ground in Tehran and in the policy centers of Western capitals.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/06/14/world/14memo.600.jpg",
+        "height": 330,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/06/14/world/14memo.600.jpg",
+          "xlargeheight": 330
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/06/14/world/14memo.75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/06/14/world/14memo.75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Reverberations as Door Slams on Hope of Change",
+      "kicker": "Memo From Tehran",
+      "content_kicker": "Memo From Tehran",
+      "print_headline": "Wide Reverberations as Door Slams on Hope of Change",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Iran",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Elections",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Ahmadinejad, Mahmoud",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Moussavi, Mir Hussein",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-06-13T16:24:20+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Middle East",
+    "byline": {
+      "original": "By BILL KELLER",
+      "person": [
+        {
+          "firstname": "Bill",
+          "middlename": null,
+          "lastname": "KELLER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5452dfa938f0d81b603ed2f7",
+    "word_count": 977,
+    "score": 1.0,
+    "uri": "nyt://article/eb5905c2-3e8e-5c89-ba50-f062d344c3ab"
+  }
+]

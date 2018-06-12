@@ -1,0 +1,704 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2009/06/10/technology/10phone.html",
+    "snippet": "The increasing popularity of BlackBerrys, iPhones and their kin owes as much to sociology as technology.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/06/10/business/10phone01-600.jpg",
+        "height": 320,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/06/10/business/10phone01-600.jpg",
+          "xlargeheight": 320
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/06/10/business/10phone01-75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/06/10/business/10phone01-75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Smartphone Rises Fast From Gadget to Necessity",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Smartphone Rises Fast From Gadget to Necessity",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Smartphones",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Sales",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Social Conditions and Trends",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Blackberry (Handheld Device)",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "iPhone",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-06-10T02:04:12+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By STEVE LOHR",
+      "person": [
+        {
+          "firstname": "Steve",
+          "middlename": null,
+          "lastname": "LOHR",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5452b93e38f0d81b603ecf64",
+    "word_count": 917,
+    "score": 1.0,
+    "uri": "nyt://article/e7a08e8d-8df9-50e5-b3b4-5058a73fd342"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/06/10/nyregion/10albany.html",
+    "snippet": "A frustrated Tom Golisano secretly planned with Republicans to persuade two Democrats to defect.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/06/10/nyregion/albanysub_600.jpg",
+        "height": 362,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/06/10/nyregion/albanysub_600.jpg",
+          "xlargeheight": 362
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/06/10/nyregion/albany_75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/06/10/nyregion/albany_75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Feeling Slighted, Rich Patron Led Albany Revolt",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Feeling Slighted, Rich Patron Led Albany Revolt",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "organizations",
+        "value": "Republican Party",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Smith, Malcolm A",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Golisano, Tom",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "New York State",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Espada, Pedro Jr",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Monserrate, Hiram",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "State Legislatures",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Democratic Party",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Paterson, David A",
+        "rank": 9,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-06-10T01:41:54+0000",
+    "document_type": "article",
+    "new_desk": "Metro",
+    "byline": {
+      "original": "By DANNY HAKIM and NICHOLAS CONFESSORE",
+      "person": [
+        {
+          "firstname": "Danny",
+          "middlename": null,
+          "lastname": "HAKIM",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Nicholas",
+          "middlename": null,
+          "lastname": "CONFESSORE",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "543f02fa38f0d853e89f6933",
+    "word_count": 1381,
+    "score": 1.0,
+    "uri": "nyt://article/9e469a5b-9c77-521a-89dc-1d327800b802"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/06/11/garden/11cohousing.html",
+    "snippet": "A tour of co-housing communities was one of several this season in different parts of the country designed to give participants an up-close look at the way of life in them.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/06/10/garden/11coho600.1.jpg",
+        "height": 331,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/06/10/garden/11coho600.1.jpg",
+          "xlargeheight": 331
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/06/10/garden/11coho75.1.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/06/10/garden/11coho75.1.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "To Your Left, a Better Way of Life?",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "To Your Left, A Better Way of Life?",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Cohousing Communities",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Housing and Real Estate",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Economic Conditions and Trends",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Sustainable Living",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Communes",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-06-10T22:17:25+0000",
+    "document_type": "article",
+    "new_desk": "Home",
+    "byline": {
+      "original": "By CHRIS COLIN",
+      "person": [
+        {
+          "firstname": "Chris",
+          "middlename": null,
+          "lastname": "COLIN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5452c0d938f0d81b603ed021",
+    "word_count": 1386,
+    "score": 1.0,
+    "uri": "nyt://article/c4c9efbd-457f-5fa4-accc-2f0fb26c59f6"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/06/10/business/economy/10leonhardt.html",
+    "snippet": "In the debate about how the government racked up so much debt, there is enough blame to go around.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2016/07/15/timestopics/sub2-leonhardt-topics/sub2-leonhardt-topics-articleLarge.jpg",
+        "height": 600,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2016/07/15/timestopics/sub2-leonhardt-topics/sub2-leonhardt-topics-articleLarge.jpg",
+          "xlargeheight": 600
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2016/07/15/timestopics/sub2-leonhardt-topics/sub2-leonhardt-topics-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2016/07/15/timestopics/sub2-leonhardt-topics/sub2-leonhardt-topics-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2016/07/15/timestopics/sub2-leonhardt-topics/sub2-leonhardt-topics-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2016/07/15/timestopics/sub2-leonhardt-topics/sub2-leonhardt-topics-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "America\u2019s Sea of Red Ink Was Years in the Making",
+      "kicker": "Economic Scene",
+      "content_kicker": "Economic Scene",
+      "print_headline": "Sea of Red Ink: How It Spread From a Puddle",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "United States Economy",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "National Debt (US)",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Obama, Barack",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Clinton, Bill",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Bush, George W",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-06-10T01:25:29+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "section_name": "Economy",
+    "byline": {
+      "original": "By DAVID LEONHARDT",
+      "person": [
+        {
+          "firstname": "David",
+          "middlename": null,
+          "lastname": "LEONHARDT",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5452ba9838f0d81b603ecf84",
+    "word_count": 1127,
+    "score": 1.0,
+    "uri": "nyt://article/d6b24e23-8979-54fb-8501-82b762c1d1c6"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/06/11/business/11pay.html",
+    "snippet": "A federal proposal to restrict executive pay has the potential to humble seven large institutions that have received billions of dollars in bailout money.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/06/11/business/11feinberg01-75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/06/11/business/11feinberg01-75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Treasury to Set Executives\u2019 Pay at 7 Ailing Firms",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "TREASURY TO SET EXECUTIVES\u2019 PAY AT 7 AILING FIRMS",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Executive Compensation",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Obama Financial Stability Plan",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Feinberg, Kenneth R",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Executives and Management",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Politics and Government",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Wages and Salaries",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "American International Group",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Citigroup Inc",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Bank of America Corp",
+        "rank": 9,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "General Motors",
+        "rank": 10,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Chrysler LLC",
+        "rank": 11,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-06-10T15:31:03+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By STEPHEN LABATON",
+      "person": [
+        {
+          "firstname": "Stephen",
+          "middlename": null,
+          "lastname": "LABATON",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5452bd7738f0d81b603ecfcb",
+    "word_count": 1089,
+    "score": 1.0,
+    "uri": "nyt://article/38164544-d1e4-5b24-9ab1-b5bf30e14392"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/06/11/fashion/11BIRTHS.html",
+    "snippet": "If YouTube can illustrate how to solve a Rubik\u2019s Cube, pick a lock and poach an egg, maybe it can also demonstrate how to give birth.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/06/11/fashion/births.7575.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/06/11/fashion/births.7575.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Lights, Camera, Contraction!",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Lights, Camera, Contraction!",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "organizations",
+        "value": "YouTube.com",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Pregnancy and Obstetrics",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Caesarean Section",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Recordings and Downloads (Video)",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Medicine and Health",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-06-10T19:01:22+0000",
+    "document_type": "article",
+    "new_desk": "Styles",
+    "byline": {
+      "original": "By MALIA WOLLAN",
+      "person": [
+        {
+          "firstname": "Malia",
+          "middlename": null,
+          "lastname": "WOLLAN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5452befc38f0d81b603ecff4",
+    "word_count": 1115,
+    "score": 1.0,
+    "uri": "nyt://article/e90e0bd3-d4e9-5231-b04c-a860e85a3d6a"
+  }
+]

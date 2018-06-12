@@ -1,0 +1,740 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2011/08/09/science/09emily.html",
+    "snippet": "Researchers are trained to avoid the hurly-burly of politics. Several groups are trying to change that.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/08/09/science/09JPEMIL_SPAN/09JPEMIL_SPAN-articleLarge.jpg",
+        "height": 330,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2011/08/09/science/09JPEMIL_SPAN/09JPEMIL_SPAN-articleLarge.jpg",
+          "xlargeheight": 330
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/08/09/science/09JPEMIL_SPAN/09JPEMIL_SPAN-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/08/09/science/09JPEMIL_SPAN/09JPEMIL_SPAN-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Groups Call for Scientists to Engage the Body Politic",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Groups Call for Scientists To Engage the Body Politic",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Science and Technology",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Engineering and Engineers",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Politics and Government",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Emily's List",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "American Assn for the Advancement of Science",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Lubchenco, Jane",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-08-08T19:08:31+0000",
+    "document_type": "article",
+    "new_desk": "Science",
+    "byline": {
+      "original": "By CORNELIA DEAN",
+      "person": [
+        {
+          "firstname": "Cornelia",
+          "middlename": null,
+          "lastname": "DEAN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "541128d138f0d80f2952230f",
+    "word_count": 1477,
+    "score": 1.0,
+    "uri": "nyt://article/02e60b70-4be9-5247-b846-faf3568b21c7"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/08/08/business/aig-to-sue-bank-of-america-over-mortgage-bonds.html",
+    "snippet": "The suit seeks to recover more than $10 billion in losses on mortgage-backed securities, claiming Bank of America and its affiliates misrepresented the quality of the underlying mortgages.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/08/08/business/suit/suit-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2011/08/08/business/suit/suit-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/08/08/business/suit/suit-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/08/08/business/suit/suit-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "A.I.G. Sues Bank of America Over Mortgage Bonds",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "A.I.G. to Sue Bank on Loss In Fiscal Crisis",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Suits and Litigation",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Mortgage-Backed Securities",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "American International Group Inc",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Bank of America Corporation",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-08-08T04:05:08+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By LOUISE STORY and GRETCHEN MORGENSON",
+      "person": [
+        {
+          "firstname": "Louise",
+          "middlename": null,
+          "lastname": "STORY",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Gretchen",
+          "middlename": null,
+          "lastname": "MORGENSON",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "54037aa538f0d80e250f3f29",
+    "word_count": 1720,
+    "score": 1.0,
+    "uri": "nyt://article/66a6ad7e-34d8-54b7-af7a-35a50b4947b4"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/08/08/us/politics/08huntsman.html",
+    "snippet": "Some wonder if, in pursuing the presidency, Jon M. Huntsman Jr. is chasing his father\u2019s dream. He says he is pursuing nobody\u2019s dream but his own.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/08/08/us/huntsman/huntsman-thumbStandard-v2.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/08/08/us/huntsman/huntsman-thumbStandard-v2.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Huntsman Runs on His Name, and His Father\u2019s",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Huntsman Runs on His Name, and His Father\u2019s",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Huntsman, Jon M Jr",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Huntsman, Jon M Sr",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Presidential Election of 2012",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Politics and Government",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Utah",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Huntsman Corp",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-08-08T01:41:24+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "section_name": "Politics",
+    "byline": {
+      "original": "By SHERYL GAY STOLBERG",
+      "person": [
+        {
+          "firstname": "Sheryl",
+          "middlename": "Gay",
+          "lastname": "STOLBERG",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5411260538f0d80f295222d8",
+    "word_count": 1944,
+    "score": 1.0,
+    "uri": "nyt://article/7ada5a14-baa7-5022-8d8a-7e751160d1bd"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/08/09/health/09plastic.html",
+    "snippet": "Many over 70 are opting for plastic surgery, but with little research on older patients and invasive cosmetic procedures, there are concerns about safety.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/08/09/science/09plastic2/09plastic2-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/08/09/science/09plastic2/09plastic2-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "The Golden Years, Polished With Surgery",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "The Golden Years, Polished With Surgery",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Plastic Surgery",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Elderly",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Medicine and Health",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Breasts",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Implants",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-08-08T15:39:39+0000",
+    "document_type": "article",
+    "new_desk": "Science",
+    "byline": {
+      "original": "By ABBY ELLIN",
+      "person": [
+        {
+          "firstname": "Abby",
+          "middlename": null,
+          "lastname": "ELLIN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "541127b238f0d80f295222f9",
+    "word_count": 1254,
+    "score": 1.0,
+    "uri": "nyt://article/4a22b1b4-6c26-5e62-a486-61ce56208cfd"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/08/09/world/europe/09britain.html",
+    "snippet": "Rioting and looting spread to at least eight areas and broke out for the first time in another big city.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/08/09/world/europe/BRITAIN/BRITAIN-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/08/09/world/europe/BRITAIN/BRITAIN-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Rioting Widens in London on 3rd Night of Unrest",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Riots Continue to Rattle Britain In Worst Unrest in Two Decades",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Demonstrations, Protests, and Riots",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "London (England)",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Politics and Government",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Duggan, Mark",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Police",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-08-08T09:35:46+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Europe",
+    "byline": {
+      "original": "By RAVI SOMAIYA and JOHN F. BURNS",
+      "person": [
+        {
+          "firstname": "Ravi",
+          "middlename": null,
+          "lastname": "SOMAIYA",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "John",
+          "middlename": "F.",
+          "lastname": "BURNS",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5407413438f0d843936a6ed6",
+    "word_count": 1153,
+    "score": 1.0,
+    "uri": "nyt://article/4c02a147-9d7c-5983-858c-e1fd4ff6ba33"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/08/08/world/asia/08china.html",
+    "snippet": "Wen Jiabao, the prime minister of China and the leading supporter of what passes for political liberalism in the country, appears increasingly marginalized.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/08/08/world/CHINA/CHINA-articleLarge.jpg",
+        "height": 315,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2011/08/08/world/CHINA/CHINA-articleLarge.jpg",
+          "xlargeheight": 315
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/08/08/world/CHINA/CHINA-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/08/08/world/CHINA/CHINA-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "China\u2019s Premier Seeks Reforms and Relevance",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "China\u2019s Premier Seeks Reforms And Relevance",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Wen Jiabao",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "China",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Communist Party of China",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Politics and Government",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-08-08T02:24:54+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Asia Pacific",
+    "byline": {
+      "original": "By MICHAEL WINES, JONATHAN ANSFIELD and SHARON LaFRANIERE",
+      "person": [
+        {
+          "firstname": "Michael",
+          "middlename": null,
+          "lastname": "WINES",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Jonathan",
+          "middlename": null,
+          "lastname": "ANSFIELD",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        },
+        {
+          "firstname": "Sharon",
+          "middlename": null,
+          "lastname": "LaFRANIERE",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 3
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5411255138f0d80f295222ce",
+    "word_count": 1306,
+    "score": 1.0,
+    "uri": "nyt://article/b228b353-b9cc-5690-841a-470a5b4d5b68"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/08/09/business/global/daily-stock-market-activity.html",
+    "snippet": "Stocks fell sharply Monday as investors, already worried about the economy, worked out the downgrade\u2019s implications. Bank stocks, in particular, were hammered.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/08/09/business/MARKETS/MARKETS-articleLarge.jpg",
+        "height": 345,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2011/08/09/business/MARKETS/MARKETS-articleLarge.jpg",
+          "xlargeheight": 345
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Stocks Suffer Sharpest Drop Since 2008",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Stocks Resume Free Fall On Fear Over Economic And Credit Woes",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Stocks and Bonds",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Nikkei Stock Average",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Tokyo Stock Exchange",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Kospi Stock Index (South Korea)",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "European Sovereign Debt Crisis (2010- )",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "European Central Bank",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-08-08T02:35:28+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "section_name": "Global Business",
+    "byline": {
+      "original": "By GRAHAM BOWLEY",
+      "person": [
+        {
+          "firstname": "Graham",
+          "middlename": null,
+          "lastname": "BOWLEY",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5407412438f0d843936a6ed3",
+    "word_count": 1245,
+    "score": 1.0,
+    "uri": "nyt://article/39daa86b-b7a8-5e7f-86b3-b3d75e9e74d1"
+  }
+]

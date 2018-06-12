@@ -1,0 +1,811 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2012/08/05/realestate/real-estate-agents-as-restaurateurs.html",
+    "snippet": "Food goes with shelter, right? And your very own restaurant is a great place to meet potential clients.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/08/05/realestate/05COVER1_SPAN/05COVER1_SPAN-articleLarge-v2.jpg",
+        "height": 350,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2012/08/05/realestate/05COVER1_SPAN/05COVER1_SPAN-articleLarge-v2.jpg",
+          "xlargeheight": 350
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/08/05/realestate/05COVER1_SPAN/05COVER1_SPAN-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2012/08/05/realestate/05COVER1_SPAN/05COVER1_SPAN-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Real Estate Agents With a Lot on Their Plates",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "A Lot On Their Plates",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Restaurants",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Real Estate Brokers",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Real Estate and Housing (Residential)",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "New York City",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2012-08-03T17:39:51+0000",
+    "document_type": "article",
+    "new_desk": "RealEstate",
+    "byline": {
+      "original": "By CONSTANCE ROSENBLUM",
+      "person": [
+        {
+          "firstname": "Constance",
+          "middlename": null,
+          "lastname": "ROSENBLUM",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "515d9e17cf28d0219d00093d",
+    "word_count": 1984,
+    "score": 1.0,
+    "uri": "nyt://article/f509fbd5-4343-5866-bb28-c1113e9e20b7"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2012/08/05/travel/visiting-myanmar-its-complicated.html",
+    "snippet": "Over the past year, destinations in Myanmar have drawn an increasing number of tourists. But the question of whether to visit a country long ruled by a brutal military dictatorship has not gone away.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/08/05/travel/05MYANMAR_SPAN/05MYANMAR_SPAN-articleLarge.jpg",
+        "height": 460,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2012/08/05/travel/05MYANMAR_SPAN/05MYANMAR_SPAN-articleLarge.jpg",
+          "xlargeheight": 460
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/08/05/travel/05MYANMAR_SPAN/05MYANMAR_SPAN-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2012/08/05/travel/05MYANMAR_SPAN/05MYANMAR_SPAN-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Visiting Myanmar: It\u2019s Complicated",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Myanmar It\u2019s Complicated",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Travel and Vacations",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Myanmar",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Aung San Suu Kyi",
+        "rank": 3,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2012-08-03T16:32:42+0000",
+    "document_type": "article",
+    "new_desk": "Travel",
+    "byline": {
+      "original": "By JOSHUA HAMMER",
+      "person": [
+        {
+          "firstname": "Joshua",
+          "middlename": null,
+          "lastname": "HAMMER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "515d9e52cf28d0219d0009ec",
+    "word_count": 3327,
+    "score": 1.0,
+    "uri": "nyt://article/2b656ec0-9681-58d8-b066-042f7ccebc55"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2012/08/03/sports/olympics/kayla-harrison-overcame-horror-to-win-judo-gold.html",
+    "snippet": "Kayla Harrison was sexually abused by her judo coach when she was 13. She overcame that trauma and won the United States\u2019 first gold in the sport.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/08/03/sports/YJPJUDO2/YJPJUDO2-thumbStandard-v3.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2012/08/03/sports/YJPJUDO2/YJPJUDO2-thumbStandard-v3.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "For Judo Champion, a Painful Path to Gold",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Judo Gives Her Gold, but Also Gave Her Horror",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Olympic Games (2012)",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Judo",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Harrison, Kayla",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "United States",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Malloy, Marti",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2012-08-03T02:38:50+0000",
+    "document_type": "article",
+    "new_desk": "Sports",
+    "section_name": "Olympics",
+    "byline": {
+      "original": "By CAMPBELL ROBERTSON",
+      "person": [
+        {
+          "firstname": "Campbell",
+          "middlename": null,
+          "lastname": "ROBERTSON",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "515d9e06cf28d0219d000915",
+    "word_count": 1121,
+    "score": 1.0,
+    "uri": "nyt://article/b7b98089-6526-548f-b38d-6edc4f488a23"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2012/08/03/world/middleeast/as-conflict-continues-in-syria-assads-arms-face-strain.html",
+    "snippet": "Many of the Syrian government\u2019s most powerful weapons are looking less potent and in some cases like a liability for the military of President Bashar al-Assad.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/08/03/world/03helicopters2-span/03helicopters2-span-articleLarge.jpg",
+        "height": 364,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2012/08/03/world/03helicopters2-span/03helicopters2-span-articleLarge.jpg",
+          "xlargeheight": 364
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/08/03/world/03helicopters2-span/03helicopters2-span-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2012/08/03/world/03helicopters2-span/03helicopters2-span-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Syrian Leader\u2019s Arms Under Strain as Conflict Continues",
+      "kicker": "Military Analysis",
+      "content_kicker": "Military Analysis",
+      "print_headline": "Assad\u2019s Arms Under Strain",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Syria",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Middle East and North Africa Unrest (2010- )",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Defense and Military Forces",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Assad, Bashar al-",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Free Syrian Army",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Helicopters",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2012-08-03T01:06:14+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Middle East",
+    "byline": {
+      "original": "By C. J. CHIVERS",
+      "person": [
+        {
+          "firstname": "C.",
+          "middlename": "J.",
+          "lastname": "CHIVERS",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "Military Analysis",
+    "_id": "593ee0137c459f24986e5a4a",
+    "word_count": 1412,
+    "score": 1.0,
+    "uri": "nyt://article/f734189f-826d-5190-9c75-7764575d4a85"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2012/08/04/nyregion/number-of-police-street-stops-falls-34-percent.html",
+    "snippet": "The number of times the city\u2019s police stopped and frisked people has dropped more than 34 percent as sergeants have grown wary of pushing for the stops and officers have expressed anxiety about them.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/08/04/nyregion/FRISK/FRISK-articleLarge.jpg",
+        "height": 360,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2012/08/04/nyregion/FRISK/FRISK-articleLarge.jpg",
+          "xlargeheight": 360
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Street Stops in New York Fall as Unease Over Tactic Grows",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Police Stops In New York Drop by 34%",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "organizations",
+        "value": "Police Department (NYC)",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Search and Seizure",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Minorities",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Civil Rights and Liberties",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "New York City",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2012-08-03T15:32:51+0000",
+    "document_type": "article",
+    "new_desk": "Metro",
+    "byline": {
+      "original": "By JOSEPH GOLDSTEIN and WENDY RUDERMAN",
+      "person": [
+        {
+          "firstname": "Joseph",
+          "middlename": null,
+          "lastname": "GOLDSTEIN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Wendy",
+          "middlename": null,
+          "lastname": "RUDERMAN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "53f979cb38f0d84410bcb008",
+    "word_count": 1401,
+    "score": 1.0,
+    "uri": "nyt://article/71c874ec-fdb6-5205-aab9-3beb6b4c8545"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2012/08/04/business/economy/us-added-163000-jobs-in-july-jobless-rate-ticked-up.html",
+    "snippet": "America added more jobs than expected, a pleasant surprise after months of bad news. But the underlying details from July ranged from unimpressive to outright discouraging.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/08/04/business/economy/04jobs/04jobs-articleLarge.jpg",
+        "height": 350,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2012/08/04/business/economy/04jobs/04jobs-articleLarge.jpg",
+          "xlargeheight": 350
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/08/04/business/economy/04jobs/04jobs-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2012/08/04/business/economy/04jobs/04jobs-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Hiring Picks Up in July, but Data Gives No Clear Signal",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Hiring Picks Up, But Data Gives No Clear Signal",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "United States Economy",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Labor and Jobs",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Unemployment",
+        "rank": 3,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2012-08-03T12:36:56+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "section_name": "Economy",
+    "byline": {
+      "original": "By CATHERINE RAMPELL",
+      "person": [
+        {
+          "firstname": "Catherine",
+          "middlename": null,
+          "lastname": "RAMPELL",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "593ee01e7c459f24986e5a4b",
+    "word_count": 938,
+    "score": 1.0,
+    "uri": "nyt://article/18c69bee-a61e-5e85-aebe-24608753979a"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2012/08/03/science/zoos-divide-over-contraception-and-euthanasia-for-animals.html",
+    "snippet": "With limited capacity, zoos are often choosing between two controversial methods of limiting the population of endangered species: birth control and euthanasia.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/08/03/us/Zoo/Zoo-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2012/08/03/us/Zoo/Zoo-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "When Babies Don\u2019t Fit Plan, Question for Zoos Is, Now What?",
+      "kicker": "The Animal Lifeboat",
+      "content_kicker": "The Animal Lifeboat",
+      "print_headline": "When Babies Don\u2019t Fit Plan, Question for Zoos Is, Now What?",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Breeding of Animals",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Endangered and Extinct Species",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Zoos",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "United States",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Europe",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Series",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2012-08-03T03:28:10+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "byline": {
+      "original": "By LESLIE KAUFMAN",
+      "person": [
+        {
+          "firstname": "Leslie",
+          "middlename": null,
+          "lastname": "KAUFMAN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "515d9e0acf28d0219d00091c",
+    "word_count": 1249,
+    "score": 1.0,
+    "uri": "nyt://article/14951d78-6757-5146-8d80-757fff5ffb29"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2012/08/04/sports/olympics/swimming-michael-phelps-wins-100-butterfly-missy-franklin.html",
+    "snippet": "Michael Phelps is again turning this into his Olympics with his 17th overall gold medal in his final individual race, while Missy Franklin set a world record.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/08/04/sports/olympics/04franklin-phelps/04franklin-phelps-articleLarge-v2.jpg",
+        "height": 342,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2012/08/04/sports/olympics/04franklin-phelps/04franklin-phelps-articleLarge-v2.jpg",
+          "xlargeheight": 342
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/08/04/sports/olympics/04franklin-phelps/04franklin-phelps-thumbStandard-v6.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2012/08/04/sports/olympics/04franklin-phelps/04franklin-phelps-thumbStandard-v6.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Another Pool Day Belongs to Phelps and Franklin",
+      "kicker": " Swimming | Finals",
+      "content_kicker": " Swimming | Finals",
+      "print_headline": "Another Pool Day Belongs to Phelps And Franklin",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Swimming",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Olympic Games (2012)",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Franklin, Missy",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Phelps, Michael",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "United States",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2012-08-03T18:47:03+0000",
+    "document_type": "article",
+    "new_desk": "Sports",
+    "section_name": "Olympics",
+    "byline": {
+      "original": "By KAREN CROUSE",
+      "person": [
+        {
+          "firstname": "Karen",
+          "middlename": null,
+          "lastname": "CROUSE",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "59f1c4ef7c459f246b630db6",
+    "word_count": 1349,
+    "score": 1.0,
+    "uri": "nyt://article/6fd38161-8eb4-584e-9f8e-52e47074468b"
+  }
+]

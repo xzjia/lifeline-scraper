@@ -1,0 +1,602 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2011/08/29/business/top-banks-confront-leaner-future-by-cutting-jobs.html",
+    "snippet": "Banks are finding their growth constrained, even as they add new costs for consumers.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "Profits Falling, Banks Confront a Leaner Future",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Profits Falling, Banks Confront A Leaner Future",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Banking and Financial Institutions",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Layoffs and Job Reductions",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Economy",
+        "rank": 3,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-08-29T00:00:45+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By ERIC DASH",
+      "person": [
+        {
+          "firstname": "Eric",
+          "middlename": null,
+          "lastname": "DASH",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5411d1d638f0d832853e84f8",
+    "word_count": 1236,
+    "score": 1.0,
+    "uri": "nyt://article/e4873a5b-7b3b-5f8d-804c-d99daf34842f"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/08/29/us/politics/29perry.html",
+    "snippet": "Gov. Rick Perry of Texas has come to publicly embrace states\u2019 rights as a defining issue only in the past few years.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/08/29/us/PERRY-2/PERRY-2-articleLarge.jpg",
+        "height": 315,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2011/08/29/us/PERRY-2/PERRY-2-articleLarge.jpg",
+          "xlargeheight": 315
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/08/29/us/PERRY-2/PERRY-2-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/08/29/us/PERRY-2/PERRY-2-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "As a States\u2019 Rights Stalwart, Perry Draws Doubts",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "As a States\u2019 Rights Stalwart, Perry Draws Doubts",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Federal-State Relations (US)",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Perry, Rick",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Texas",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Obama, Barack",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Politics and Government",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Presidential Election of 2012",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-08-29T02:38:28+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "section_name": "Politics",
+    "byline": {
+      "original": "By MANNY FERNANDEZ and EMILY RAMSHAW",
+      "person": [
+        {
+          "firstname": "Manny",
+          "middlename": null,
+          "lastname": "FERNANDEZ",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Emily",
+          "middlename": null,
+          "lastname": "RAMSHAW",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5400c23b38f0d841b2f38bee",
+    "word_count": 1405,
+    "score": 1.0,
+    "uri": "nyt://article/dcbe59ad-dc1e-537d-87b6-c03f5fc09ce7"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/08/30/world/africa/30libya.html",
+    "snippet": "A report was the first official news on Col. Muammar el-Qaddafi\u2019s family since he was routed from Tripoli.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/08/30/world/LIBYA-2/LIBYA-2-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/08/30/world/LIBYA-2/LIBYA-2-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Qaddafi\u2019s Wife and 3 of His Children Flee to Algeria",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Qaddafi Wife And Relatives Leave Libya",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Middle East and North Africa Unrest (2010- )",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Transitional National Council (Libya)",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Qaddafi, Muammar el-",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Libya",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Algeria",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Defense and Military Forces",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-08-29T09:59:35+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Africa",
+    "byline": {
+      "original": "By KAREEM FAHIM and NEIL MacFARQUHAR",
+      "person": [
+        {
+          "firstname": "Kareem",
+          "middlename": null,
+          "lastname": "FAHIM",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Neil",
+          "middlename": null,
+          "lastname": "MacFARQUHAR",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5411d45838f0d832853e8505",
+    "word_count": 1150,
+    "score": 1.0,
+    "uri": "nyt://article/0811463c-bf64-583f-840e-28fc2424f2c5"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/08/30/business/krueger-chosen-to-lead-economic-council.html",
+    "snippet": "President Obama nominated Alan B. Krueger, an economist on the job market.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/08/30/us/30krueger_cnd/30krueger_cnd-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/08/30/us/30krueger_cnd/30krueger_cnd-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Economic Adviser Pick Is Known as Labor Expert",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Obama Taps Jobs Expert As Adviser",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Appointments and Executive Changes",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "White House Council of Economic Advisers",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Krueger, Alan B",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Obama, Barack",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-08-29T12:37:14+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By JACKIE CALMES",
+      "person": [
+        {
+          "firstname": "Jackie",
+          "middlename": null,
+          "lastname": "CALMES",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5411d46b38f0d832853e8511",
+    "word_count": 1107,
+    "score": 1.0,
+    "uri": "nyt://article/90b5a2ee-deac-58da-b805-d5b2aa30390f"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/08/30/business/global/russia-hits-headwinds-in-selling-airliners-to-the-west.html",
+    "snippet": "The Superjet is modern and has foreign partners, but it is up against perceptions about Russian air safety.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/08/30/business/30air/30air-articleLarge.jpg",
+        "height": 315,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2011/08/30/business/30air/30air-articleLarge.jpg",
+          "xlargeheight": 315
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/08/30/business/30air/30air-thumbStandard-v2.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/08/30/business/30air/30air-thumbStandard-v2.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "At 35,000 Feet, a Russian Image Problem",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Aloft, a Russian Image Problem",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Russia",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Sukhoi",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Airlines and Airplanes",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Airplane Accidents and Safety",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Tupolev",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "United Aircraft Corporation",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-08-29T21:38:32+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "section_name": "Global Business",
+    "byline": {
+      "original": "By ANDREW E. KRAMER",
+      "person": [
+        {
+          "firstname": "Andrew",
+          "middlename": "E.",
+          "lastname": "KRAMER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5411d73938f0d832853e8543",
+    "word_count": 1189,
+    "score": 1.0,
+    "uri": "nyt://article/ef184362-6cf7-5576-a4b2-5b8570e83095"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/08/30/us/30vermont.html",
+    "snippet": "Communities in Vermont and upstate New York dug out from under debris, and houses were swept away.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/08/30/us/subFLOODS/subFLOODS-articleLarge.jpg",
+        "height": 389,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2011/08/30/us/subFLOODS/subFLOODS-articleLarge.jpg",
+          "xlargeheight": 389
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/08/30/us/subFLOODS/subFLOODS-thumbStandard-v2.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/08/30/us/subFLOODS/subFLOODS-thumbStandard-v2.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Storm\u2019s Push North Leaves Punishing Inland Floods",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Storm\u2019s Push North Leaves Punishing Inland Flooding",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Vermont",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Hurricane Irene (2011)",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Floods",
+        "rank": 3,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-08-29T13:00:33+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "byline": {
+      "original": "By ABBY GOODNOUGH and DANNY HAKIM",
+      "person": [
+        {
+          "firstname": "Abby",
+          "middlename": null,
+          "lastname": "GOODNOUGH",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Danny",
+          "middlename": null,
+          "lastname": "HAKIM",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "528a84b538f0d833dcdee8f9",
+    "word_count": 1542,
+    "score": 1.0,
+    "uri": "nyt://article/d0dd0adb-1d33-5ea4-952b-889c5ebe7833"
+  }
+]

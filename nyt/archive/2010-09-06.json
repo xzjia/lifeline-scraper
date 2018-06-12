@@ -1,0 +1,534 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2010/09/07/us/politics/07obama.html",
+    "snippet": "President Obama, looking to jump-start the economy, called on Congress to approve a far-reaching plan to rebuild and modernize transportation over the next six years.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/09/07/us/07obama1-cnd/07obama1-cnd-articleLarge.jpg",
+        "height": 315,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2010/09/07/us/07obama1-cnd/07obama1-cnd-articleLarge.jpg",
+          "xlargeheight": 315
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/09/07/us/07obama1-cnd/07obama1-cnd-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/09/07/us/07obama1-cnd/07obama1-cnd-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Obama Offers a Transit Plan to Create Jobs",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Obama Offers A Transit Plan To Create Jobs",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Infrastructure (Public Works)",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Obama, Barack",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Economy",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Labor and Jobs",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-09-06T14:21:22+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "section_name": "Politics",
+    "byline": {
+      "original": "By SHERYL GAY STOLBERG  and MARY WILLIAMS WALSH",
+      "person": [
+        {
+          "firstname": "Sheryl",
+          "middlename": "Gay",
+          "lastname": "STOLBERG",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Mary",
+          "middlename": "Williams",
+          "lastname": "WALSH",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "541a502838f0d80959e6c74d",
+    "word_count": 1279,
+    "score": 1.0,
+    "uri": "nyt://article/924a13d0-d413-5529-b29f-b29923fe09e9"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2010/09/07/science/07bpa.html",
+    "snippet": "Everyone is exposed to BPA, but after hundreds of studies, there is no consensus about its safety.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/09/07/science/07BPA-span/BPA-1-articleLarge.jpg",
+        "height": 350,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2010/09/07/science/07BPA-span/BPA-1-articleLarge.jpg",
+          "xlargeheight": 350
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/09/07/science/07BPA-span/BPA-1-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/09/07/science/07BPA-span/BPA-1-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "In Feast of Data on BPA Plastic, No Final Answer",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "In Feast of Data on BPA Plastic, No Final Answer",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Bisphenol A (BPA)",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Medicine and Health",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Estrogen",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Hormones",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Law and Legislation",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Science and Technology",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-09-06T19:54:48+0000",
+    "document_type": "article",
+    "new_desk": "Science",
+    "byline": {
+      "original": "By DENISE GRADY",
+      "person": [
+        {
+          "firstname": "Denise",
+          "middlename": null,
+          "lastname": "GRADY",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "541a522d38f0d80959e6c77c",
+    "word_count": 3068,
+    "score": 1.0,
+    "uri": "nyt://article/86f51d94-a86c-5764-9d2b-dacdc2b07b33"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2010/09/06/us/politics/06teaparty.html",
+    "snippet": "The Tea Party fervor is expected to help Republicans in November, but it may also create problems for them.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/09/06/us/06TEAPARTY1/JP-TEAPARTY-1-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/09/06/us/06TEAPARTY1/JP-TEAPARTY-1-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "For G.O.P., Tea Party Wields a Double-Edged Sword",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "For G.O.P., Fervor of Tea Party Holds Promise, and Problems",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Tea Party Movement",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Republican Party",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Politics and Government",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Elections",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Democratic Party",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-09-06T00:28:43+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "section_name": "Politics",
+    "byline": {
+      "original": "By KATE ZERNIKE",
+      "person": [
+        {
+          "firstname": "Kate",
+          "middlename": null,
+          "lastname": "ZERNIKE",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "541a4e9138f0d80959e6c72b",
+    "word_count": 1395,
+    "score": 1.0,
+    "uri": "nyt://article/e065cf15-78b4-5c88-be37-41c9843ffc85"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2010/09/06/technology/06craigslist.html",
+    "snippet": "Since blocking its \u201cadult services\u201d ads as the weekend began, Craigslist has refused to discuss its motivations.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/09/06/business/sub-censored/sub-censored-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/09/06/business/sub-censored/sub-censored-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Some See a Ploy as Craigslist Blocks Sex Ads",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Some See a Ploy as Craigslist Blocks Sex Ads",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "organizations",
+        "value": "Craigslist",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Online Advertising",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Sexual Slavery",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Human Trafficking",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Attorneys General",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Classified Advertising",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Prostitution",
+        "rank": 7,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-09-06T00:39:43+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By CLAIRE CAIN MILLER",
+      "person": [
+        {
+          "firstname": "Claire",
+          "middlename": "Cain",
+          "lastname": "MILLER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "541a4ea638f0d80959e6c72c",
+    "word_count": 1272,
+    "score": 1.0,
+    "uri": "nyt://article/d6bba1e6-bfb4-5a3e-ae39-93c088d661e7"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2010/09/06/business/media/06track.html",
+    "snippet": "Because of technological advances, newspapers can make more scientific decisions about allocating their resources.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/09/06/business/06Track/06Track-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/09/06/business/06Track/06Track-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Some Newspapers, Tracking Readers Online, Shift Coverage",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Some Newsrooms Shift Coverage Based on What Is Popular Online",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Computers and the Internet",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Newspapers",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Online Advertising",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "News and News Media",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Wall Street Journal",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Washington Post",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "New York Times",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Los Angeles Times",
+        "rank": 8,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-09-06T01:52:43+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "section_name": "Media",
+    "byline": {
+      "original": "By JEREMY W. PETERS",
+      "person": [
+        {
+          "firstname": "Jeremy",
+          "middlename": "W.",
+          "lastname": "PETERS",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "541a4e5938f0d80959e6c729",
+    "word_count": 1289,
+    "score": 1.0,
+    "uri": "nyt://article/bfd223c9-2286-53fb-8ad1-6a2375901f90"
+  }
+]

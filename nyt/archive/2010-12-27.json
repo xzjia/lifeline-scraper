@@ -1,0 +1,93 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2010/12/27/business/media/27movies.html",
+    "snippet": "Moviegoers have sent a message that seems obvious but has often been forgotten: make a good product, or we won\u2019t buy.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/12/27/business/27MOVIES1/27MOVIES1-articleLarge.jpg",
+        "height": 330,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2010/12/27/business/27MOVIES1/27MOVIES1-articleLarge.jpg",
+          "xlargeheight": 330
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/12/27/business/27MOVIES1/27MOVIES1-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/12/27/business/27MOVIES1/27MOVIES1-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Hollywood Moves Away From Middlebrow",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Away From the Middlebrow",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Movies",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Social Networking (Internet)",
+        "rank": 2,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-12-27T01:44:18+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "section_name": "Media",
+    "byline": {
+      "original": "By BROOKS BARNES",
+      "person": [
+        {
+          "firstname": "Brooks",
+          "middlename": null,
+          "lastname": "BARNES",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5421afa438f0d83c6e5b7193",
+    "word_count": 1087,
+    "score": 1.0,
+    "uri": "nyt://article/94b3adbc-ab99-5606-895b-f619a787ebe2"
+  }
+]

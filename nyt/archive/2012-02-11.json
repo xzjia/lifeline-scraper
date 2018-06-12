@@ -1,0 +1,774 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2012/02/12/sunday-review/big-datas-impact-in-the-world.html",
+    "snippet": "For those who can make sense of the explosion of data, there are job opportunities in fields as diverse as crime, retail and dating.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/02/12/sunday-review/12LOHR/12LOHR-articleLarge-v2.jpg",
+        "height": 450,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2012/02/12/sunday-review/12LOHR/12LOHR-articleLarge-v2.jpg",
+          "xlargeheight": 450
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/02/12/sunday-review/12LOHR/12LOHR-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2012/02/12/sunday-review/12LOHR/12LOHR-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/02/12/sunday-review/12LOHR/12LOHR-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2012/02/12/sunday-review/12LOHR/12LOHR-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "The Age of Big Data",
+      "kicker": "News Analysis",
+      "content_kicker": "News Analysis",
+      "print_headline": "The Age of Big Data",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Computers and the Internet",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Statistics",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Artificial Intelligence",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Forecasts",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2012-02-11T22:01:17+0000",
+    "document_type": "article",
+    "new_desk": "OpEd",
+    "byline": {
+      "original": "By STEVE LOHR",
+      "person": [
+        {
+          "firstname": "Steve",
+          "middlename": null,
+          "lastname": "LOHR",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News Analysis",
+    "_id": "53f36d6d38f0d847437e09a1",
+    "word_count": 1958,
+    "score": 1.0,
+    "uri": "nyt://article/358bf54c-e4ba-5a4e-b974-3341517805b1"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2012/02/12/us/politics/romneys-path-to-pro-life-position-on-abortion.html",
+    "snippet": "After supporting abortion rights early in his political career, Mitt Romney is working to reinforce his credentials among conservatives.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/02/12/us/ABORTION-1/ABORTION-1-articleLarge.jpg",
+        "height": 409,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2012/02/12/us/ABORTION-1/ABORTION-1-articleLarge.jpg",
+          "xlargeheight": 409
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/02/12/us/ABORTION-1/ABORTION-1-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2012/02/12/us/ABORTION-1/ABORTION-1-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Romney\u2019s Path to \u2018Pro-Life\u2019 Position on Abortion",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Romney\u2019s Path on Abortion",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Romney, Mitt",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Abortion",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Republican Party",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Presidential Election of 2012",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Politics and Government",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Kennedy, Edward M",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Birth Control and Family Planning",
+        "rank": 7,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2012-02-11T22:37:56+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "section_name": "Politics",
+    "byline": {
+      "original": "By SHERYL GAY STOLBERG",
+      "person": [
+        {
+          "firstname": "Sheryl",
+          "middlename": "Gay",
+          "lastname": "STOLBERG",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "53f37f2138f0d857ea2d027c",
+    "word_count": 1631,
+    "score": 1.0,
+    "uri": "nyt://article/227ba61d-9dc4-5243-af7c-5b3508ea849c"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2012/02/11/technology/electronic-security-a-worry-in-an-age-of-digital-espionage.html",
+    "snippet": "Information has become easier to steal over the Internet because employees can carry proprietary data around.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/02/11/business/Device1/Device1-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2012/02/11/business/Device1/Device1-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Traveling Light in a Time of Digital Thievery",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Traveling Light in a Time of Digital Thievery",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Computer Security",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Computers and the Internet",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Industrial Espionage",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Cyberattacks and Hackers",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Espionage and Intelligence Services",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Russia",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "China",
+        "rank": 7,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2012-02-11T01:35:18+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By NICOLE PERLROTH",
+      "person": [
+        {
+          "firstname": "Nicole",
+          "middlename": null,
+          "lastname": "PERLROTH",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "53f37b4838f0d857ea2d0248",
+    "word_count": 1206,
+    "score": 1.0,
+    "uri": "nyt://article/4cd82e1a-3841-5045-9cd4-4a4e87566e66"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2012/02/12/nyregion/the-slave-theater-in-brooklyn-at-center-of-bitter-battle-over-ownership.html",
+    "snippet": "The Slave Theater in Bedford-Stuyvesant, Brooklyn, once a hub of civil rights activity, is mired in a bitter battle over ownership rights.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/02/12/nyregion/12jpSLAVE1/12jpSLAVE1-articleLarge-v2.jpg",
+        "height": 350,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2012/02/12/nyregion/12jpSLAVE1/12jpSLAVE1-articleLarge-v2.jpg",
+          "xlargeheight": 350
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/02/12/nyregion/12jpSLAVE1/12jpSLAVE1-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2012/02/12/nyregion/12jpSLAVE1/12jpSLAVE1-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Tug of War Over a Civil Rights Legacy",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Tug of War Over a Legacy",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "organizations",
+        "value": "Slave Theater",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Phillips, John L Jr",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Wills and Estates",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Bedford-Stuyvesant (NYC)",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Real Estate and Housing (Residential)",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Buildings Department (NYC)",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Real Estate (Commercial)",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Blacks",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Historic Buildings and Sites",
+        "rank": 9,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2012-02-11T02:51:28+0000",
+    "document_type": "article",
+    "new_desk": "Metro",
+    "byline": {
+      "original": "By JOHN LELAND",
+      "person": [
+        {
+          "firstname": "John",
+          "middlename": null,
+          "lastname": "LELAND",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "53f36ec038f0d847437e09bc",
+    "word_count": 2569,
+    "score": 1.0,
+    "uri": "nyt://article/154bcf3e-90f6-57bf-8014-bebfbcd13959"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2012/02/12/nyregion/with-the-cashman-scandal-a-tale-of-desperation-in-the-city.html",
+    "snippet": "The Brian Cashman scandal can be seen as the story of dashed hopes and the desperation of a certain type of woman in New York.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/02/12/nyregion/12BIGCITY2_SPAN/12BIGCITY2_SPAN-articleLarge.jpg",
+        "height": 330,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2012/02/12/nyregion/12BIGCITY2_SPAN/12BIGCITY2_SPAN-articleLarge.jpg",
+          "xlargeheight": 330
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/02/12/nyregion/12BIGCITY2_SPAN/12BIGCITY2_SPAN-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2012/02/12/nyregion/12BIGCITY2_SPAN/12BIGCITY2_SPAN-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "A Tale of Desperation and Restraining Orders",
+      "kicker": "Big City",
+      "content_kicker": "Big City",
+      "print_headline": "A Tale of Desperation And Restraining Orders",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Cashman, Brian",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "New York Yankees",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Neathway, Louise",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "New York City",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Adultery",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Baseball",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2012-02-11T03:11:54+0000",
+    "document_type": "article",
+    "new_desk": "Metro",
+    "byline": {
+      "original": "By GINIA BELLAFANTE",
+      "person": [
+        {
+          "firstname": "Ginia",
+          "middlename": null,
+          "lastname": "BELLAFANTE",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "515dad78cf28d0219d002b91",
+    "word_count": 886,
+    "score": 1.0,
+    "uri": "nyt://article/045344bc-b842-5666-a79f-f68d933c781b"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2012/02/12/opinion/sunday/marriage-suits-educated-women.html",
+    "snippet": "For women seeking a satisfying relationship and a secure economic future, there has never been a better time to be or become highly educated.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/02/12/opinion/sunday/12coontz-art-inline/12coontz-art-inline-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2012/02/12/opinion/sunday/12coontz-art-inline/12coontz-art-inline-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "The M.R.S. and the Ph.D.",
+      "kicker": "Opinion",
+      "content_kicker": "Opinion",
+      "print_headline": "The M.R.S. and the Ph.D.",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Marriages",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Women and Girls",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Single Persons",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Education",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Social Conditions and Trends",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Colleges and Universities",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2012-02-11T21:55:49+0000",
+    "document_type": "article",
+    "new_desk": "OpEd",
+    "section_name": "Sunday Review",
+    "byline": {
+      "original": "By STEPHANIE COONTZ",
+      "person": [
+        {
+          "firstname": "Stephanie",
+          "middlename": null,
+          "lastname": "COONTZ",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "Op-Ed",
+    "_id": "53f3746e38f0d847437e0a15",
+    "word_count": 1569,
+    "score": 1.0,
+    "uri": "nyt://article/b0d31ec0-b880-5974-b35d-1e17c9443a39"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2012/02/12/nyregion/at-connecticut-preserve-a-battle-over-leashing-dogs.html",
+    "snippet": "Last year, the land trust that manages the Trout Brook Valley preserve in Connecticut placed a moratorium on allowing dogs off leash, igniting a battle.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/02/12/nyregion/12LEASH2/12jpLEASH2-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2012/02/12/nyregion/12LEASH2/12jpLEASH2-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "A Yearning for Dogs to Roam Free",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "A Yearning for Dogs to Roam Free",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Dogs",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Land Use Policies",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "New York City",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Connecticut",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2012-02-11T02:14:10+0000",
+    "document_type": "article",
+    "new_desk": "Metro",
+    "byline": {
+      "original": "By LISA W. FODERARO",
+      "person": [
+        {
+          "firstname": "Lisa",
+          "middlename": "W.",
+          "lastname": "FODERARO",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "53f3768d38f0d857ea2d01fd",
+    "word_count": 1373,
+    "score": 1.0,
+    "uri": "nyt://article/8b96f7c1-0556-547b-8f7c-5eeaf9b373da"
+  }
+]

@@ -1,0 +1,431 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2010/10/10/nyregion/10geller.html",
+    "snippet": "Pamela Geller has emerged as a lightning rod for anti-Islamic fervor through her blog, Atlas Shrugs.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/10/10/nyregion/jp-COVER-GELLER/jp-COVER-GELLER-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/10/10/nyregion/jp-COVER-GELLER/jp-COVER-GELLER-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Outraged, and Outrageous",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Outraged, And Outrageous",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Geller, Pamela",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Islam",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Mosques",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "World Trade Center (NYC)",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Blogs and Blogging (Internet)",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Park51",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-10-09T01:59:26+0000",
+    "document_type": "article",
+    "new_desk": "Metro",
+    "byline": {
+      "original": "By ANNE BARNARD and ALAN FEUER",
+      "person": [
+        {
+          "firstname": "Anne",
+          "middlename": null,
+          "lastname": "BARNARD",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Alan",
+          "middlename": null,
+          "lastname": "FEUER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "541b7a1838f0d8296cb0fa93",
+    "word_count": 3604,
+    "score": 1.0,
+    "uri": "nyt://article/86b9e766-3371-5748-90cc-c751ea0508f7"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2010/10/10/us/politics/10pelosi.html",
+    "snippet": "On the brink of an election that could end Nancy Pelosi\u2019s run as speaker of the House, her recent doings underscore an enduring truth: This most vilified of politicians is also one of the most resolute.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/10/10/us/PELOSI/PELOSI-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/10/10/us/PELOSI/PELOSI-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Vilified or Not, Pelosi Insists She\u2019s Winning",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Vilified or Not, Pelosi Insists She\u2019s Winning",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Pelosi, Nancy",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Politics and Government",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "House of Representatives",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Democratic Party",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "San Francisco (Calif)",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Elections",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-10-09T18:54:52+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "section_name": "Politics",
+    "byline": {
+      "original": "By MARK LEIBOVICH",
+      "person": [
+        {
+          "firstname": "Mark",
+          "middlename": null,
+          "lastname": "LEIBOVICH",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "541b825238f0d8296cb0fb47",
+    "word_count": 1133,
+    "score": 1.0,
+    "uri": "nyt://article/c9509250-de6c-5ba6-99d8-bd0a252c7ef9"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2010/10/09/us/politics/09thomas.html",
+    "snippet": "Virginia Thomas, wife of Justice Clarence Thomas, has accepted large contributions for her new political nonprofit group, raising questions for some who study judicial ethics.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/10/09/us/jp-THOMAS/jp-THOMAS-articleLarge.jpg",
+        "height": 315,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2010/10/09/us/jp-THOMAS/jp-THOMAS-articleLarge.jpg",
+          "xlargeheight": 315
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/10/09/us/jp-THOMAS/jp-THOMAS-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/10/09/us/jp-THOMAS/jp-THOMAS-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Activism of Thomas\u2019s Wife Could Raise Judicial Issues",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Activism by Thomas\u2019s Wife Could Raise Judicial Issues",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Thomas, Virginia Lamp",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Politics and Government",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Nonprofit Organizations",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Thomas, Clarence",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Supreme Court",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Judges",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Ethics",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Campaign Finance",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Citizens United v Federal Election Commission (Supreme Court Decision)",
+        "rank": 9,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-10-09T01:14:34+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "section_name": "Politics",
+    "byline": {
+      "original": "By JACKIE CALMES",
+      "person": [
+        {
+          "firstname": "Jackie",
+          "middlename": null,
+          "lastname": "CALMES",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "540ac9db38f0d84fb883408e",
+    "word_count": 1189,
+    "score": 1.0,
+    "uri": "nyt://article/3197eb62-ae8f-51f5-bb09-774b1457c5fd"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2010/10/10/science/10google.html",
+    "snippet": "Google has been working on vehicles that can drive themselves using software.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/10/10/us/10google3/10google3-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/10/10/us/10google3/10google3-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Google Cars Drive Themselves, in Traffic",
+      "kicker": "Smarter Than You Think",
+      "content_kicker": "Smarter Than You Think",
+      "print_headline": "Look Officer, No Hands: Google Car Drives Itself",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "organizations",
+        "value": "Google Inc",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Artificial Intelligence",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Robots",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Automobiles",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Computers and the Internet",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-10-09T18:33:45+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "byline": {
+      "original": "By JOHN MARKOFF",
+      "person": [
+        {
+          "firstname": "John",
+          "middlename": null,
+          "lastname": "MARKOFF",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "536cfa8d38f0d874ed902f18",
+    "word_count": 1354,
+    "score": 1.0,
+    "uri": "nyt://article/6bfd297e-9cab-526d-ac3c-ea0e16117d1f"
+  }
+]

@@ -1,0 +1,854 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2012/12/15/nyregion/shooting-reported-at-connecticut-elementary-school.html",
+    "snippet": "A man with no apparent motive, armed with semiautomatic pistols and a semiautomatic rifle, fatally shot 26 people inside a Newtown elementary school before taking his own life.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/12/16/nyregion/16shooting-lanza/16shooting-lanza-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2012/12/16/nyregion/16shooting-lanza/16shooting-lanza-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Nation Reels After Gunman Massacres 20 Children at School in Connecticut",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Gunman Massacres 20 Children at School in Connecticut; 28 Dead, Including Killer",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "School Shootings",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Newtown (Conn)",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Newtown, Conn, Shooting (2012)",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Sandy Hook Elementary School (Newtown, Conn)",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Lanza, Nancy",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Lanza, Adam",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2012-12-14T16:21:36+0000",
+    "document_type": "article",
+    "new_desk": "Metro",
+    "byline": {
+      "original": "By JAMES BARRON",
+      "person": [
+        {
+          "firstname": "James",
+          "middlename": null,
+          "lastname": "BARRON",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "50cb96a700315214fbb7f67f",
+    "word_count": 1429,
+    "score": 1.0,
+    "uri": "nyt://article/b3210763-7abe-5c6b-bf3e-9bd8f28e5075"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2012/12/14/nyregion/promise-vs-reality-in-newark-as-mayor-eyes-higher-office.html",
+    "snippet": "As Cory A. Booker weighs a run for New Jersey governor, many residents complain that his apparent focus on the national stage may have shortchanged his efforts to solve the city\u2019s problems.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/12/14/nyregion/BOOKER/BOOKER-articleLarge-v2.jpg",
+        "height": 400,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2012/12/14/nyregion/BOOKER/BOOKER-articleLarge-v2.jpg",
+          "xlargeheight": 400
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/12/14/nyregion/BOOKER/BOOKER-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2012/12/14/nyregion/BOOKER/BOOKER-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/12/14/nyregion/BOOKER/BOOKER-thumbStandard-v3.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2012/12/14/nyregion/BOOKER/BOOKER-thumbStandard-v3.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Promise vs. Reality in Newark on Mayor\u2019s Watch",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Promise vs. Reality in Newark on Mayor\u2019s Watch",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Booker, Cory A",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Newark (NJ)",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Christie, Christopher J",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "New Jersey",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Politics and Government",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2012-12-14T02:47:19+0000",
+    "document_type": "article",
+    "new_desk": "Metro",
+    "byline": {
+      "original": "By KATE ZERNIKE",
+      "person": [
+        {
+          "firstname": "Kate",
+          "middlename": null,
+          "lastname": "ZERNIKE",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "50cb986700315214fbb7f69f",
+    "word_count": 1496,
+    "score": 1.0,
+    "uri": "nyt://article/2a1d446a-7f1b-55ba-854b-4c941caa9660"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2012/12/16/realestate/trading-up-can-be-hard-to-do.html",
+    "snippet": "A two-bedroom in the $1.4 million to $3 million range can be difficult to come by in the Manhattan market.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/12/16/realestate/16JUMP1_SPAN/16JUMP1_SPAN-articleLarge.jpg",
+        "height": 400,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2012/12/16/realestate/16JUMP1_SPAN/16JUMP1_SPAN-articleLarge.jpg",
+          "xlargeheight": 400
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/12/16/realestate/16JUMP1_SPAN/16JUMP1_SPAN-thumbStandard-v2.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2012/12/16/realestate/16JUMP1_SPAN/16JUMP1_SPAN-thumbStandard-v2.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Trading Up Can Be Hard to Do",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Trading Up Can Be Hard to Do",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Real Estate and Housing (Residential)",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Mortgages",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Interest Rates",
+        "rank": 3,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2012-12-14T20:01:21+0000",
+    "document_type": "article",
+    "new_desk": "RealEstate",
+    "byline": {
+      "original": "By MICHELLE HIGGINS",
+      "person": [
+        {
+          "firstname": "Michelle",
+          "middlename": null,
+          "lastname": "HIGGINS",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "50cc044300315214fbb7f830",
+    "word_count": 1710,
+    "score": 1.0,
+    "uri": "nyt://article/0cb1f4a5-b0d6-5df2-8aa8-b84a096058d7"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2012/12/16/travel/a-critics-tour-of-literary-manhattan.html",
+    "snippet": "Have Manhattan\u2019s literary haunts faded away? A tour reveals hotels posing as libraries, bookstores buzzing with browsers and bars in which a book is still a calling card.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/12/16/travel/16LITERARY_SPAN-sf/16LITERARY_SPAN-articleLarge-v2.jpg",
+        "height": 456,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2012/12/16/travel/16LITERARY_SPAN-sf/16LITERARY_SPAN-articleLarge-v2.jpg",
+          "xlargeheight": 456
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/12/16/travel/16LITERARY_SPAN-sf/16LITERARY_SPAN-thumbStandard-v2.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2012/12/16/travel/16LITERARY_SPAN-sf/16LITERARY_SPAN-thumbStandard-v2.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "A Critic\u2019s Tour of Literary Manhattan",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "New York, Chapter and Verse",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Books and Literature",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Travel and Vacations",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Manhattan (NYC)",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Writing and Writers",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Bars and Nightclubs",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Housing Works Bookstore Cafe (Manhattan, NY)",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "McSorley's Old Ale House (Manhattan, NY)",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Strand Bookstore (Manhattan, NY)",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "192 Books (Manhattan, NY)",
+        "rank": 9,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Library Hotel (Manhattan, NY)",
+        "rank": 10,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "KGB Bar (Manhattan, NY)",
+        "rank": 11,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Kettle of Fish (Manhattan, NY, Bar)",
+        "rank": 12,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Nuyorican Poets Cafe (Manhattan, NY)",
+        "rank": 13,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Hotel Chelsea (Manhattan, NY)",
+        "rank": 14,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Hotels and Travel Lodgings",
+        "rank": 15,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Book Trade and Publishing",
+        "rank": 16,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2012-12-14T15:17:48+0000",
+    "document_type": "article",
+    "new_desk": "Travel",
+    "byline": {
+      "original": "By DWIGHT GARNER",
+      "person": [
+        {
+          "firstname": "Dwight",
+          "middlename": null,
+          "lastname": "GARNER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "593829437c459f24986e4397",
+    "word_count": 3212,
+    "score": 1.0,
+    "uri": "nyt://article/a4f6edc4-9d93-50d9-83a3-b664cd6b9311"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2012/12/14/business/economy/a-federal-reserve-that-is-focused-on-the-value-of-clarity.html",
+    "snippet": "A greater appreciation for the virtues of transparency has been one of the most important shifts in central banking in recent decades.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "A Fed Focused on the Value of Clarity",
+      "kicker": "News Analysis",
+      "content_kicker": "News Analysis",
+      "print_headline": "A Fed Focused On the Value Of Clarity",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "organizations",
+        "value": "Federal Reserve System",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Bernanke, Ben S",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Economy",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Interest Rates",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Banking and Financial Institutions",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Unemployment",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2012-12-14T01:37:23+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "section_name": "Economy",
+    "byline": {
+      "original": "By BINYAMIN APPELBAUM",
+      "person": [
+        {
+          "firstname": "Binyamin",
+          "middlename": null,
+          "lastname": "APPELBAUM",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News Analysis",
+    "_id": "51c3f44f7e0d9c0839d2abde",
+    "word_count": 1022,
+    "score": 1.0,
+    "uri": "nyt://article/caf01f43-7c40-521d-9903-21adee18a3dc"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2012/12/14/business/colleges-debt-falls-on-students-after-construction-binges.html",
+    "snippet": "Colleges have gone on a building spree, channeling the movie mantra, \u201cIf you build it, they will come.\u201d Now they are $205 billion in debt, with students and taxpayers facing the bill.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/12/14/business/Debt1/Debt1-articleLarge-v2.jpg",
+        "height": 429,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2012/12/14/business/Debt1/Debt1-articleLarge-v2.jpg",
+          "xlargeheight": 429
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/12/14/business/Debt1/Debt1-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2012/12/14/business/Debt1/Debt1-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/12/14/business/Debt1/Debt1-thumbStandard-v3.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2012/12/14/business/Debt1/Debt1-thumbStandard-v3.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Building a Showcase Campus, Using an I.O.U.",
+      "kicker": "Degrees of Debt",
+      "content_kicker": "Degrees of Debt",
+      "print_headline": "Building a Showcase Campus, Using an I.O.U.",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Colleges and Universities",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Credit and Debt",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Building (Construction)",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Harvard University",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Ramapo College",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Drexel University",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "New York University",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Juilliard School",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Moody's Corporation",
+        "rank": 9,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Series",
+        "rank": 10,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2012-12-14T02:53:31+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By ANDREW MARTIN",
+      "person": [
+        {
+          "firstname": "Andrew",
+          "middlename": null,
+          "lastname": "MARTIN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "50cbb4b000315214fbb7f757",
+    "word_count": 2774,
+    "score": 1.0,
+    "uri": "nyt://article/00efe691-fb34-5e4e-b9d0-5c1d497d46c2"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2012/12/15/business/plan-to-cap-deductions-is-setback-for-charities.html",
+    "snippet": "A proposal to limit tax deductions might be politically popular, but it is not the evenhanded approach to closing loopholes it appears to be.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/06/25/business/james-stewart/james-stewart-articleLarge.jpg",
+        "height": 400,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2011/06/25/business/james-stewart/james-stewart-articleLarge.jpg",
+          "xlargeheight": 400
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/06/25/business/james-stewart/james-stewart-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2011/06/25/business/james-stewart/james-stewart-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/06/25/business/james-stewart/james-stewart-thumbStandard-v3.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/06/25/business/james-stewart/james-stewart-thumbStandard-v3.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Tax Plan Is Popular, but Not Quite Fair",
+      "kicker": "Common Sense",
+      "content_kicker": "Common Sense",
+      "print_headline": "Tax Plan Is Popular, But Not Quite Fair",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Federal Taxes (US)",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Tax Credits, Deductions and Exemptions",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Politics and Government",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Economy",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Federal Budget (US)",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2012-12-14T14:32:35+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By JAMES B. STEWART",
+      "person": [
+        {
+          "firstname": "James",
+          "middlename": null,
+          "lastname": null,
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "50cbb84800315214fbb7f766",
+    "word_count": 1723,
+    "score": 1.0,
+    "uri": "nyt://article/19044632-eb44-5d93-8dd4-a09dcfc19840"
+  }
+]

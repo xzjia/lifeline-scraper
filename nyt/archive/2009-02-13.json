@@ -1,0 +1,296 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2009/02/13/business/economy/13insolvent.html",
+    "snippet": "Experts say the situation at some of the nation\u2019s banks demands a more direct government role than in the plan outlined this week.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/02/12/business/0213-biz-INSOLVENTrefer.gif",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2009/02/12/business/0213-biz-INSOLVENTrefer.gif",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Ailing Banks May Require More Aid to Keep Solvent",
+      "kicker": "News Analysis",
+      "content_kicker": "News Analysis",
+      "print_headline": "Ailing Banks And U.S. Aid",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Banks and Banking",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Subprime Mortgage Crisis",
+        "rank": 2,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-02-13T02:53:26+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "section_name": "Economy",
+    "byline": {
+      "original": "By STEVE LOHR",
+      "person": [
+        {
+          "firstname": "Steve",
+          "middlename": null,
+          "lastname": "LOHR",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News Analysis",
+    "_id": "547102e938f0d847c5e423ea",
+    "word_count": 1253,
+    "score": 1.0,
+    "uri": "nyt://article/da13e512-b536-56e1-b6fc-f613eab5c9c4"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/02/13/nyregion/13crash.html",
+    "snippet": "The cockpit voice recorder indicated the crew reported significant icing on the plane\u2019s windshield and wings.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/02/13/nyregion/13crash-3.600.jpg",
+        "height": 308,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/02/13/nyregion/13crash-3.600.jpg",
+          "xlargeheight": 308
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/02/13/nyregion/13crash-3.75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/02/13/nyregion/13crash-3.75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "50 Killed as Plane Hits House Near Buffalo",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "50 Are Killed In Plane Crash Near Buffalo",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Airlines and Airplanes",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Accidents and Safety",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Buffalo (NY)",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Continental Airlines Inc",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-02-13T05:23:33+0000",
+    "document_type": "article",
+    "new_desk": "Metro",
+    "byline": {
+      "original": "By MATTHEW L. WALD and LIZ ROBBINS",
+      "person": [
+        {
+          "firstname": "Matthew",
+          "middlename": "L.",
+          "lastname": "WALD",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Liz",
+          "middlename": null,
+          "lastname": "ROBBINS",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "547103ba38f0d847c5e423fe",
+    "word_count": 1837,
+    "score": 1.0,
+    "uri": "nyt://article/15864eac-f2f5-5ef1-8273-6fee11b1018e"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/02/13/us/13senior.html",
+    "snippet": "New technologies help older people to live alone and avoid trips to hospitals or nursing homes.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/02/12/us/13senior_600.JPG",
+        "height": 331,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/02/12/us/13senior_600.JPG",
+          "xlargeheight": 331
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/02/12/us/13senior_75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/02/12/us/13senior_75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Sensors Help Keep the Elderly Safe, and at Home",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Sensors Help Keep the Elderly Safe, and at Home",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Elderly",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Science and Technology",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Medicine and Health",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Elder Care",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Wireless Communications",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-02-13T02:50:09+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "byline": {
+      "original": "By JOHN LELAND",
+      "person": [
+        {
+          "firstname": "John",
+          "middlename": null,
+          "lastname": "LELAND",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5471029038f0d847c5e423e3",
+    "word_count": 1368,
+    "score": 1.0,
+    "uri": "nyt://article/d6025d67-842b-5bfb-a84f-d26d26743267"
+  }
+]

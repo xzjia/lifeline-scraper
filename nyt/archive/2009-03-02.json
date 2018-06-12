@@ -1,0 +1,724 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2009/03/02/health/02scans.html",
+    "snippet": "Studies show that as many as 50 percent of scans should never have been done because their results did not help.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/03/02/health/02scan_span.jpg",
+        "height": 330,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/03/02/health/02scan_span.jpg",
+          "xlargeheight": 330
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/03/02/health/02scans.753.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/03/02/health/02scans.753.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Good or Useless, Medical Scans Cost the Same",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Good or Useless, Medical Scans Cost the Same, and Are Booming",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Medicine and Health",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Magnetic Resonance Imagers",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Health Insurance and Managed Care",
+        "rank": 3,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-03-02T03:39:10+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "byline": {
+      "original": "By GINA KOLATA",
+      "person": [
+        {
+          "firstname": "Gina",
+          "middlename": null,
+          "lastname": "KOLATA",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5467d4a138f0d81e5cd0cb07",
+    "word_count": 1120,
+    "score": 1.0,
+    "uri": "nyt://article/a3e145dc-428e-57cc-8606-b5ef5c2f51b9"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/03/02/nyregion/02suny.html",
+    "snippet": "The unraveling economy is making less expensive state colleges more appealing, even as they face cuts.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/03/02/nyregion/02suny02-600.jpg",
+        "height": 320,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/03/02/nyregion/02suny02-600.jpg",
+          "xlargeheight": 320
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/03/02/nyregion/02suny02-75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/03/02/nyregion/02suny02-75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Well-Regarded Public Colleges Get a Surge of Bargain Hunters",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Well-Regarded Public Colleges Get a Surge of Bargain Hunters",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "organizations",
+        "value": "State University of New York",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Colleges and Universities",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Economic Conditions and Trends",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Admissions Standards",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Budgets and Budgeting",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Recession and Depression",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-03-02T01:58:10+0000",
+    "document_type": "article",
+    "new_desk": "Metro",
+    "byline": {
+      "original": "By LISA W. FODERARO",
+      "person": [
+        {
+          "firstname": "Lisa",
+          "middlename": "W.",
+          "lastname": "FODERARO",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5467d41038f0d81e5cd0cafb",
+    "word_count": 1162,
+    "score": 1.0,
+    "uri": "nyt://article/174fb081-1fb2-5ce4-8413-c5703d58af65"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/03/03/health/03rewa.html",
+    "snippet": "Are there benefits to paying students for good performance in school?",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/03/02/health/03reward-600.jpg",
+        "height": 323,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/03/02/health/03reward-600.jpg",
+          "xlargeheight": 323
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/03/02/health/03reward-75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/03/02/health/03reward-75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Rewards for Students Under a Microscope",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Rewards for Students Under a Microscope",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Education and Schools",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Grading of Students",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Psychology and Psychologists",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Children and Youth",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-03-02T20:02:05+0000",
+    "document_type": "article",
+    "new_desk": "Science",
+    "byline": {
+      "original": "By LISA GUERNSEY",
+      "person": [
+        {
+          "firstname": "Lisa",
+          "middlename": null,
+          "lastname": "GUERNSEY",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5467d83838f0d81e5cd0cb5b",
+    "word_count": 1584,
+    "score": 1.0,
+    "uri": "nyt://article/791237a7-599c-51e2-b3c6-49a4659631df"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/03/03/world/asia/03shelter.html",
+    "snippet": "A new Constitution and the work of a community of women\u2019s advocates are creating a more egalitarian notion of women\u2019s rights in Afghanistan.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/03/02/world/03shelter.600.jpg",
+        "height": 330,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/03/02/world/03shelter.600.jpg",
+          "xlargeheight": 330
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/03/02/world/03shelter.75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/03/02/world/03shelter.75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Afghan Women Slowly Gaining Protection",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Long Viewed as Chattel, Afghan Women Slowly Gain Protection",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Women",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Afghanistan",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Domestic Violence",
+        "rank": 3,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-03-02T23:26:25+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Asia Pacific",
+    "byline": {
+      "original": "By KIRK SEMPLE",
+      "person": [
+        {
+          "firstname": "Kirk",
+          "middlename": null,
+          "lastname": "SEMPLE",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5467dc3a38f0d81e5cd0cbb9",
+    "word_count": 1115,
+    "score": 1.0,
+    "uri": "nyt://article/22b33b1c-bc15-5a97-a58a-1a8f5873cd20"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/03/02/sports/ncaabasketball/02baron.html",
+    "snippet": "From Press and Pete Maravich to Bob and Pat Knight, college basketball is littered with stories about fathers and sons. But the untold tale behind them is the juggling act of the wife and mother.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/03/02/sports/02baron.xlarge1.jpg",
+        "height": 350,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/03/02/sports/02baron.xlarge1.jpg",
+          "xlargeheight": 350
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/03/02/sports/02baron.751.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/03/02/sports/02baron.751.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "When Father and Son Clash at Rhode Island, Mom Mediates",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Family Court: When Father and Son Clash at Rhode Island, Mom Mediates",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Families and Family Life",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Basketball",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "College Athletics",
+        "rank": 3,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-03-02T02:35:11+0000",
+    "document_type": "article",
+    "new_desk": "Sports",
+    "section_name": "College Basketball",
+    "byline": {
+      "original": "By PETE THAMEL",
+      "person": [
+        {
+          "firstname": "Pete",
+          "middlename": null,
+          "lastname": "THAMEL",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5467d45f38f0d81e5cd0cb01",
+    "word_count": 1494,
+    "score": 1.0,
+    "uri": "nyt://article/4a6967f8-59bf-59de-bf34-de6e850b1e90"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/03/02/business/media/02scrape.html",
+    "snippet": "As copyrighted material is excerpted online, some owners would rather have clicks than credit.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/03/02/business/02scrape.span.jpg",
+        "height": 350,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/03/02/business/02scrape.span.jpg",
+          "xlargeheight": 350
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Copyright Challenge for Sites That Excerpt",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "A Line Borrowed, or Crossed?",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "News and News Media",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Copyrights",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Suits and Litigation",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Computers and the Internet",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "New York Times",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Huffington Post",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Blodget, Henry",
+        "rank": 7,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-03-02T02:20:28+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "section_name": "Media",
+    "byline": {
+      "original": "By BRIAN STELTER",
+      "person": [
+        {
+          "firstname": "Brian",
+          "middlename": null,
+          "lastname": "STELTER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5467d2ec38f0d81e5cd0cae3",
+    "word_count": 1268,
+    "score": 1.0,
+    "uri": "nyt://article/c42dcd78-3f35-5446-a094-d40576d93da3"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/03/02/business/02aigweb.html",
+    "snippet": "The government also agreed to loosen the terms of its first loan to the insurer, which will report a $62 billion quarterly loss on Monday, people involved in the discussions said.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/03/02/business/02aig.xlarge1.jpg",
+        "height": 360,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/03/02/business/02aig.xlarge1.jpg",
+          "xlargeheight": 360
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/03/02/business/02aig.751.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/03/02/business/02aig.751.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "U.S. Is Said to Offer Another $30 Billion in Funds to A.I.G.",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "U.S. SAID TO OFFER $30 Billion More To Help Insurer",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "organizations",
+        "value": "American International Group",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Emergency Economic Stabilization Act (2008)",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Credit",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Economy",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-03-02T02:32:02+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By ANDREW ROSS SORKIN and MARY WILLIAMS WALSH",
+      "person": [
+        {
+          "firstname": "Andrew",
+          "middlename": "Ross",
+          "lastname": "SORKIN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Mary",
+          "middlename": "Williams",
+          "lastname": "WALSH",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5467d4bc38f0d81e5cd0cb08",
+    "word_count": 1112,
+    "score": 1.0,
+    "uri": "nyt://article/2677f9a8-1ebf-54ac-8ce1-468e118796b3"
+  }
+]

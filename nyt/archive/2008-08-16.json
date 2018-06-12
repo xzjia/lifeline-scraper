@@ -1,0 +1,104 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2008/08/17/business/17fees.html",
+    "snippet": "In just a few short months, the airlines have discovered to their glee that their customers are willing to pay for most everything from checked bags to pillows and blankets.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/08/17/business/17fees.xlarge1.jpg",
+        "height": 414,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2008/08/17/business/17fees.xlarge1.jpg",
+          "xlargeheight": 414
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/08/17/business/17fees.751.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2008/08/17/business/17fees.751.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "At Least the Airsickness Bags Are Free",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "At Least the Airsickness Bags Are Free",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Airlines and Airplanes",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Prices (Fares, Fees and Rates)",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Customer Relations",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Economy",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2008-08-16T19:56:39+0000",
+    "document_type": "article",
+    "new_desk": "SundayBusiness",
+    "byline": {
+      "original": "By MICHELINE MAYNARD",
+      "person": [
+        {
+          "firstname": "Micheline",
+          "middlename": null,
+          "lastname": "MAYNARD",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "54769cc438f0d83924901f98",
+    "word_count": 2033,
+    "score": 1.0,
+    "uri": "nyt://article/d69f219c-4537-5c80-b9ee-c2a34978b205"
+  }
+]

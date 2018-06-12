@@ -1,0 +1,748 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2009/03/09/business/media/09carr.html",
+    "snippet": "It is time for newspapers to get together and figure out a new business model.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/12/13/business/carr-headshot-new/carr-headshot-new-articleLarge.jpg",
+        "height": 900,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2013/12/13/business/carr-headshot-new/carr-headshot-new-articleLarge.jpg",
+          "xlargeheight": 900
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/12/13/business/carr-headshot-new/carr-headshot-new-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2013/12/13/business/carr-headshot-new/carr-headshot-new-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/12/13/business/carr-headshot-new/carr-headshot-new-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2013/12/13/business/carr-headshot-new/carr-headshot-new-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "United, Newspapers May Stand",
+      "kicker": "The Media Equation",
+      "content_kicker": "The Media Equation",
+      "print_headline": "United, Newspapers May Stand",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Newspapers",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Advertising and Marketing",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Regulation and Deregulation of Industry",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "News and News Media",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Antitrust Actions and Laws",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Online Advertising",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Computers and the Internet",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Google Inc",
+        "rank": 8,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-03-09T00:39:10+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "section_name": "Media",
+    "byline": {
+      "original": "By DAVID CARR",
+      "person": [
+        {
+          "firstname": "David",
+          "middlename": null,
+          "lastname": "CARR",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "543ee98738f0d853e89f675b",
+    "word_count": 1144,
+    "score": 1.0,
+    "uri": "nyt://article/782faffc-2f9e-5ea3-8d6e-b25788e9105c"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/03/09/business/media/09cnbc.html",
+    "snippet": "At CNBC journalists have been encouraged to speak their minds, making the line between reporter and commentator almost indistinguishable at times.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/03/09/business/09cnbc.75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/03/09/business/09cnbc.75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "CNBC Thrives as Hosts Deliver News With Attitude",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Business News With Attitude",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "organizations",
+        "value": "CNBC",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "News and News Media",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Cramer, James J",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Santelli, Rick",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Stewart, Jon",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Ratings and Rating Systems",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Economy",
+        "rank": 7,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-03-09T01:48:17+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "section_name": "Media",
+    "byline": {
+      "original": "By BRIAN STELTER and TIM ARANGO",
+      "person": [
+        {
+          "firstname": "Brian",
+          "middlename": null,
+          "lastname": "STELTER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Tim",
+          "middlename": null,
+          "lastname": "ARANGO",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5468166038f0d81e5cd0d0cb",
+    "word_count": 1300,
+    "score": 1.0,
+    "uri": "nyt://article/88aa2486-909b-597d-8d1f-b4c5362fd5f1"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/03/10/business/10drug.html",
+    "snippet": "Merck, facing patent expirations, is hoping to shore up its research pipeline and expand its global reach.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "Merck to Buy Schering-Plough for $41.1 Billion",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Merck Refills Pipeline",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "organizations",
+        "value": "Merck & Company Inc",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Mergers, Acquisitions and Divestitures",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Schering Plough Corp",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Drugs (Pharmaceuticals)",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-03-09T10:32:18+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By NATASHA SINGER",
+      "person": [
+        {
+          "firstname": "Natasha",
+          "middlename": null,
+          "lastname": "SINGER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "546817bb38f0d81e5cd0d0e9",
+    "word_count": 1265,
+    "score": 1.0,
+    "uri": "nyt://article/ebc1b0b7-e00e-5f5a-a6ff-0e5f9c3e80ea"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/03/09/us/politics/09axelrod.html",
+    "snippet": "David Axelrod\u2019s political advice carries more weight than most anyone else\u2019s on President Obama\u2019s payroll.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/03/09/us/axelrod.75755.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/03/09/us/axelrod.75755.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "President\u2019s Political Protector Is Ever Close at Hand",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Obama\u2019s Political Protector, Ever Close at Hand",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Axelrod, David",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Obama, Barack",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Politics and Government",
+        "rank": 3,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-03-09T01:51:49+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "section_name": "Politics",
+    "byline": {
+      "original": "By JEFF ZELENY",
+      "person": [
+        {
+          "firstname": "Jeff",
+          "middlename": null,
+          "lastname": "ZELENY",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5468168438f0d81e5cd0d0cf",
+    "word_count": 1386,
+    "score": 1.0,
+    "uri": "nyt://article/70d93675-b451-564b-b877-29b773814ff3"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/03/09/us/politics/09stem.html",
+    "snippet": "While lifting restrictions on embryonic stem-cell research, President Obama is avoiding the question of whether tax dollars should be used to experiment on embryos themselves.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "Obama Is Leaving Some Stem Cell Issues to Congress",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "New Stem Cell Policy to Leave Thorniest Issue to Congress",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Stem Cells",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Obama, Barack",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Politics and Government",
+        "rank": 3,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-03-09T02:03:52+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "section_name": "Politics",
+    "byline": {
+      "original": "By SHERYL GAY STOLBERG",
+      "person": [
+        {
+          "firstname": "Sheryl",
+          "middlename": "Gay",
+          "lastname": "STOLBERG",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "546816f038f0d81e5cd0d0d5",
+    "word_count": 1182,
+    "score": 1.0,
+    "uri": "nyt://article/91c63fdb-74db-53ee-86ea-fee98c7eb05b"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/03/09/sports/baseball/09yankees.html",
+    "snippet": "Alex Rodriguez is expected to miss six to nine weeks after the procedure and will probably need more surgery after the season.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/03/08/sports/08rodriguez_75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/03/08/sports/08rodriguez_75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Surgery Will Keep Alex Rodriguez Out Until May",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Rodriguez Picks Surgery and a Return in May",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Rodriguez, Alex",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Hips",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "New York Yankees",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Baseball",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-03-09T01:49:57+0000",
+    "document_type": "article",
+    "new_desk": "Sports",
+    "section_name": "Baseball",
+    "byline": {
+      "original": "By JOE LAPOINTE",
+      "person": [
+        {
+          "firstname": "Joe",
+          "middlename": null,
+          "lastname": "LAPOINTE",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "546815ba38f0d81e5cd0d0bb",
+    "word_count": 944,
+    "score": 1.0,
+    "uri": "nyt://article/48a2de77-5690-5060-84ac-795ef22857a6"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/03/10/science/10quant.html",
+    "snippet": "\u201cQuants\u201d try to use physics to untangle the messiest of human activities \u2014 making money.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/03/09/science/10quant-600.jpg",
+        "height": 366,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/03/09/science/10quant-600.jpg",
+          "xlargeheight": 366
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/03/09/science/10quant-75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/03/09/science/10quant-75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "They Tried to Outsmart Wall Street",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "They Tried to Outsmart Wall Street",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Subprime Mortgage Crisis",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Finances",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Physics",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Science and Technology",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Stocks and Bonds",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-03-09T19:12:35+0000",
+    "document_type": "article",
+    "new_desk": "Science",
+    "byline": {
+      "original": "By DENNIS OVERBYE",
+      "person": [
+        {
+          "firstname": "Dennis",
+          "middlename": null,
+          "lastname": "OVERBYE",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "54681a7e38f0d81e5cd0d125",
+    "word_count": 2386,
+    "score": 1.0,
+    "uri": "nyt://article/dc68e71d-ef6b-55b5-ab04-949eccd73baa"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/03/10/science/10lab.html",
+    "snippet": "What impact will President Obama\u2019s move to lift the ban on stem cell research have on current work?",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/03/09/science/10stem-75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/03/09/science/10stem-75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Rethink Stem Cells? Science Already Has",
+      "kicker": "News Analysis",
+      "content_kicker": "News Analysis",
+      "print_headline": "Rethink Stem Cells? Science Already Has",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Stem Cells",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Medicine and Health",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Obama, Barack",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Politics and Government",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-03-09T23:15:12+0000",
+    "document_type": "article",
+    "new_desk": "Science",
+    "byline": {
+      "original": "By NICHOLAS WADE",
+      "person": [
+        {
+          "firstname": "Nicholas",
+          "middlename": null,
+          "lastname": "WADE",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News Analysis",
+    "_id": "54681ba538f0d81e5cd0d13b",
+    "word_count": 936,
+    "score": 1.0,
+    "uri": "nyt://article/275fade7-c005-5799-9d9e-2be7ea1fd491"
+  }
+]

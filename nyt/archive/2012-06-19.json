@@ -1,0 +1,808 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2012/06/20/health/paternity-blood-tests-that-work-early-in-a-pregnancy.html",
+    "snippet": "Blood tests can determine paternity as early as the eighth week of pregnancy, and without an invasive procedure.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/06/20/business/20paternity-pic/20paternity-pic-articleLarge.jpg",
+        "height": 370,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2012/06/20/business/20paternity-pic/20paternity-pic-articleLarge.jpg",
+          "xlargeheight": 370
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/06/20/business/20paternity-pic/20paternity-pic-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2012/06/20/business/20paternity-pic/20paternity-pic-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Before Birth, Dad&#8217;s ID",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Before Birth, Dad\u2019s ID",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Tests (Medical)",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Pregnancy and Childbirth",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Child Custody and Support",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Genetics and Heredity",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Parenting",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "DNA (Deoxyribonucleic Acid)",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2012-06-19T16:53:01+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By ANDREW POLLACK",
+      "person": [
+        {
+          "firstname": "Andrew",
+          "middlename": null,
+          "lastname": "POLLACK",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "53f7f8ff38f0d835538dc57d",
+    "word_count": 1259,
+    "score": 1.0,
+    "uri": "nyt://article/1adb157c-27fe-5b5d-8b2d-dc21e340af57"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2012/06/19/world/americas/american-born-children-struggle-to-adjust-in-mexico.html",
+    "snippet": "The English-speaking children of Mexicans returning because of deportations, tougher state laws and unemployment struggle to adjust, often going to schools that are not equipped to integrate them.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/06/19/world/IMMIGRATION_span/IMMIGRATION-articleLarge.jpg",
+        "height": 360,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2012/06/19/world/IMMIGRATION_span/IMMIGRATION-articleLarge.jpg",
+          "xlargeheight": 360
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/06/19/world/IMMIGRATION_span/IMMIGRATION-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2012/06/19/world/IMMIGRATION_span/IMMIGRATION-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "American Children, Now Struggling to Adjust to Life in Mexico",
+      "kicker": "Immigration Upended",
+      "content_kicker": "Immigration Upended",
+      "print_headline": "American Children, Now Struggling to Adjust to Life in Mexico",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Immigration and Emigration",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Children and Childhood",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Mexican-Americans",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Illegal Immigrants",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Deportation",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Immigration and Customs Enforcement (US)",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Reynoso, Armando",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Tienda, Marta",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Mexico",
+        "rank": 9,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Houston (Tex)",
+        "rank": 10,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Education (K-12)",
+        "rank": 11,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Unemployment",
+        "rank": 12,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Series",
+        "rank": 13,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2012-06-19T03:39:56+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Americas",
+    "byline": {
+      "original": "By DAMIEN CAVE",
+      "person": [
+        {
+          "firstname": "Damien",
+          "middlename": null,
+          "lastname": "CAVE",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "515da1d8cf28d0219d0011a4",
+    "word_count": 1582,
+    "score": 1.0,
+    "uri": "nyt://article/7353aac6-fc94-5f1f-9fde-6b2e1581a5f6"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2012/06/19/nyregion/honeybee-swarms-increase-in-nyc-after-mild-spring.html",
+    "snippet": "Black swarms of overcrowded, homeless honeybees have proliferated this season in New York City, possibly because of the mild weather.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/06/19/nyregion/BEES2/BEES2-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2012/06/19/nyregion/BEES2/BEES2-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/06/19/nyregion/BEES2/BEES2-thumbStandard-v3.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2012/06/19/nyregion/BEES2/BEES2-thumbStandard-v3.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "As Swarms Startle New York, Officer on Bee Beat Stays Busy",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "As Swarms Startle New York, Officer on Bee Beat Stays Busy",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Bees",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "New York City",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Agriculture and Farming",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Planakis, Anthony",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2012-06-19T02:23:51+0000",
+    "document_type": "article",
+    "new_desk": "Metro",
+    "byline": {
+      "original": "By EMILY S. RUEB",
+      "person": [
+        {
+          "firstname": "Emily",
+          "middlename": "S.",
+          "lastname": "RUEB",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "51c20fd27e0d9c0839d2a21c",
+    "word_count": 1199,
+    "score": 1.0,
+    "uri": "nyt://article/9d05d896-bcee-52b5-9303-a4619ca86033"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2012/06/20/world/middleeast/mubarak-is-on-life-support-egypt-security-officials-say.html",
+    "snippet": "Conflicting reports about former President Hosni Mubarak\u2019s health added new volatility to a political and constitutional crisis in the country he once ruled.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/06/20/world/middleeast/2subEGYPT-refer/2subEGYPT-refer-articleLarge.jpg",
+        "height": 360,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2012/06/20/world/middleeast/2subEGYPT-refer/2subEGYPT-refer-articleLarge.jpg",
+          "xlargeheight": 360
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Mubarak Said to Be in Critical Condition in Egypt Hospital",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Mubarak Rushed To Military Care After a Stroke",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Mubarak, Hosni",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Cairo (Egypt)",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Middle East and North Africa Unrest (2010- )",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Tahrir Square (Cairo)",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Morsi, Mohamed",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Shafik, Ahmed",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Muslim Brotherhood (Egypt)",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Egypt",
+        "rank": 8,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2012-06-19T22:54:57+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Middle East",
+    "byline": {
+      "original": "By KAREEM FAHIM and DAVID D. KIRKPATRICK",
+      "person": [
+        {
+          "firstname": "Kareem",
+          "middlename": null,
+          "lastname": "FAHIM",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "David",
+          "middlename": null,
+          "lastname": null,
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "51c2103a7e0d9c0839d2a229",
+    "word_count": 1199,
+    "score": 1.0,
+    "uri": "nyt://article/52167ee5-ccb7-5f36-af8b-c41146a18a33"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2012/06/19/business/economy/fed-policy-making-panel-to-meet-as-growth-faces-threats.html",
+    "snippet": "Federal Reserve officials will meet to decide whether the economy needs more help amid considerable uncertainty over domestic growth and the impact of Europe\u2019s debt crisis.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "With Risks for Growth Still Hazy, Fed to Weigh New Aid",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Fed to Meet As Threats To Growth Dominate",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "organizations",
+        "value": "Federal Reserve System",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Economy",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "European Sovereign Debt Crisis (2010- )",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Economic Conditions and Trends",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Interest Rates",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Banking and Financial Institutions",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Bernanke, Ben S",
+        "rank": 7,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2012-06-19T00:11:07+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "section_name": "Economy",
+    "byline": {
+      "original": "By BINYAMIN APPELBAUM",
+      "person": [
+        {
+          "firstname": "Binyamin",
+          "middlename": null,
+          "lastname": "APPELBAUM",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "53f7f44638f0d835538dc541",
+    "word_count": 1033,
+    "score": 1.0,
+    "uri": "nyt://article/6529f42f-2b7c-52a6-bbf1-95686f5b6694"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2012/06/20/sports/horse-racing-discovers-new-drug-problem-one-linked-to-frogs.html",
+    "snippet": "More than 30 horses have tested positive for dermorphin, a performance-enhancing drug drawn from frogs.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/06/20/sports/20horse1/20horse1-articleLarge.jpg",
+        "height": 330,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2012/06/20/sports/20horse1/20horse1-articleLarge.jpg",
+          "xlargeheight": 330
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/06/20/sports/20horse1/20horse1-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2012/06/20/sports/20horse1/20horse1-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Turning to Frogs for Illegal Aid in Horse Races",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Turning to Frog For Illegal Aid In Horse Races",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Doping (Sports)",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Horse Racing",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Frogs",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Jockeys, Drivers and Trainers",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2012-06-19T19:44:34+0000",
+    "document_type": "article",
+    "new_desk": "Sports",
+    "byline": {
+      "original": "By WALT BOGDANICH and REBECCA R. RUIZ",
+      "person": [
+        {
+          "firstname": "Walt",
+          "middlename": null,
+          "lastname": "BOGDANICH",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Rebecca",
+          "middlename": "R.",
+          "lastname": "RUIZ",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "53f7fa3b38f0d835538dc584",
+    "word_count": 862,
+    "score": 1.0,
+    "uri": "nyt://article/d89b1212-f21d-5109-98f4-e97ed25f5f8a"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2012/06/19/nyregion/at-a-new-jersey-halfway-house-a-volatile-mix-fuels-a-murder.html",
+    "snippet": "As financial pressures grow, officials are using vast halfway houses as dumping grounds, The New York Times found. At Delaney Hall in Newark, low-level offenders are thrown together with violent ones.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/06/19/nyregion/JP-UNLOCKED1/JP-UNLOCKED1-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2012/06/19/nyregion/JP-UNLOCKED1/JP-UNLOCKED1-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "At Penal Unit, a Volatile Mix Fuels a Murder",
+      "kicker": "Unlocked | Part Three",
+      "content_kicker": "Unlocked | Part Three",
+      "print_headline": "At Penal Unit, A Volatile Mix Fuels a Murder",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "organizations",
+        "value": "Community Education Centers",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Murders and Attempted Murders",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Newark (NJ)",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "DiVincenzo, Joseph N Jr",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Christie, Christopher J",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Prisons and Prisoners",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "New Jersey",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Essex County (NJ)",
+        "rank": 9,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Series",
+        "rank": 10,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2012-06-19T03:41:26+0000",
+    "document_type": "article",
+    "new_desk": "Metro",
+    "byline": {
+      "original": "By SAM DOLNICK",
+      "person": [
+        {
+          "firstname": "Sam",
+          "middlename": null,
+          "lastname": "DOLNICK",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "515da1d9cf28d0219d0011a5",
+    "word_count": 3223,
+    "score": 1.0,
+    "uri": "nyt://article/402c0152-5599-5997-85b0-8af919e59411"
+  }
+]

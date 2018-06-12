@@ -1,0 +1,243 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2012/05/28/technology/for-tech-startups-new-york-has-increasing-allure.html",
+    "snippet": "New York may not be overtaking the Bay Area as a technology hub, but it is becoming enough of an alternative that a few West Coast-born startups are moving east.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/05/28/business/video-tech-eastwest/video-tech-eastwest-articleLarge.jpg",
+        "height": 338,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2012/05/28/business/video-tech-eastwest/video-tech-eastwest-articleLarge.jpg",
+          "xlargeheight": 338
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/05/28/business/video-tech-eastwest/video-tech-eastwest-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2012/05/28/business/video-tech-eastwest/video-tech-eastwest-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/05/28/business/video-tech-eastwest/video-tech-eastwest-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2012/05/28/business/video-tech-eastwest/video-tech-eastwest-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "For Tech Start-Ups, New York Has Increasing Allure",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Farewell, Silicon Valley",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Start-ups",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Qwiki",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "New York City",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Silicon Valley (Calif)",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Computers and the Internet",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Entrepreneurship",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2012-05-27T18:01:06+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By JOSHUA BRUSTEIN",
+      "person": [
+        {
+          "firstname": "Joshua",
+          "middlename": null,
+          "lastname": "BRUSTEIN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "53f731a338f0d821a37b2c22",
+    "word_count": 1163,
+    "score": 1.0,
+    "uri": "nyt://article/27fa8eb6-7901-50b4-82a9-0dfa08891bd5"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2012/05/28/world/middleeast/syria-denies-responsibility-in-brutal-attack.html",
+    "snippet": "The United Nations action over a massacre this weekend of at least 108 villagers was the strongest yet allowed by Russia, which has blocked criticism of Syria\u2019s president.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/05/28/world/middleeast/28syria-1/28syria-1-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2012/05/28/world/middleeast/28syria-1/28syria-1-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "U.N. Security Council Issues Condemnation of Syria Attack",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Security Council Condemns Syria Over Massacre",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Middle East and North Africa Unrest (2010- )",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Houla (Syria)",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Syria",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Civilian Casualties",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Defense and Military Forces",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Assad, Bashar al-",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "United Nations",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Russia",
+        "rank": 8,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2012-05-27T12:13:03+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Middle East",
+    "byline": {
+      "original": "By NEIL MacFARQUHAR",
+      "person": [
+        {
+          "firstname": "Neil",
+          "middlename": null,
+          "lastname": "MacFARQUHAR",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "53f7313538f0d821a37b2c19",
+    "word_count": 1377,
+    "score": 1.0,
+    "uri": "nyt://article/e84ec85a-0234-5772-9c6a-b88347459520"
+  }
+]

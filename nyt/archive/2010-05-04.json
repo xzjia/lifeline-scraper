@@ -1,0 +1,473 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2010/05/04/science/earth/04enviro.html",
+    "snippet": "It is far too soon to gauge the impact of the Deepwater Horizon spill on either the environment or the economy.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/05/04/us/04enviro_CA0/04enviro_CA0-articleLarge.jpg",
+        "height": 315,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2010/05/04/us/04enviro_CA0/04enviro_CA0-articleLarge.jpg",
+          "xlargeheight": 315
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/05/04/us/04enviro_CA0/04enviro_CA0-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/05/04/us/04enviro_CA0/04enviro_CA0-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Gulf Oil Spill Is Bad, but How Bad?",
+      "kicker": "News Analysis",
+      "content_kicker": "News Analysis",
+      "print_headline": "Bad. But an Apocalypse?",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Oil (Petroleum) and Gasoline",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Accidents and Safety",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Gulf of Mexico",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Offshore Drilling and Exploration",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "BP Plc",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Environment",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-05-04T01:12:08+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "section_name": "Environment",
+    "byline": {
+      "original": "By JOHN M. BRODER and TOM ZELLER Jr",
+      "person": [
+        {
+          "firstname": "John",
+          "middlename": null,
+          "lastname": null,
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News Analysis",
+    "_id": "5445ce6538f0d832c813f48c",
+    "word_count": 1164,
+    "score": 1.0,
+    "uri": "nyt://article/4234deea-27ae-5c85-b59b-76cf4bccf93e"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2010/05/05/dining/05diet.html",
+    "snippet": "A test of four companies that deliver healthy meals in New York.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/05/05/dining/05dietspan-1/05diet_CA0-articleLarge.jpg",
+        "height": 300,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2010/05/05/dining/05dietspan-1/05diet_CA0-articleLarge.jpg",
+          "xlargeheight": 300
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/05/05/dining/05dietspan-1/05diet_CA0-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/05/05/dining/05dietspan-1/05diet_CA0-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Trying Out Delivered Diet Meals",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "They Deliver, But Do Their Diets?",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Delivery Services",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Food",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Diet and Nutrition",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Weight",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-05-04T21:39:27+0000",
+    "document_type": "article",
+    "new_desk": "Dining",
+    "byline": {
+      "original": "By FRED A. BERNSTEIN",
+      "person": [
+        {
+          "firstname": "Fred",
+          "middlename": "A.",
+          "lastname": "BERNSTEIN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5445d32638f0d832c813f4e5",
+    "word_count": 1389,
+    "score": 1.0,
+    "uri": "nyt://article/f054c4cf-45ba-5908-9af3-24d55297b543"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2010/05/05/us/05spill.html",
+    "snippet": "A senior BP executive said the sunken oil rig in the Gulf of Mexico could spill as many as 60,000 barrels a day of oil, more than 10 times the estimate of the current flow.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/05/05/us/05spill_CA0/05spill_CA0-articleLarge.jpg",
+        "height": 320,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2010/05/05/us/05spill_CA0/05spill_CA0-articleLarge.jpg",
+          "xlargeheight": 320
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/05/05/us/05spill_CA0/05spill_CA0-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/05/05/us/05spill_CA0/05spill_CA0-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Amount of Spill Could Escalate, Company Admits",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Amount of Spill Could Escalate, Company Admits",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Oil (Petroleum) and Gasoline",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Gulf of Mexico",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Accidents and Safety",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Louisiana",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "BP Plc",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Transocean Inc",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Offshore Drilling and Exploration",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Hayward, Tony",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Halliburton Co",
+        "rank": 9,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-05-04T18:15:45+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "byline": {
+      "original": "By JOHN M. BRODER, CAMPBELL ROBERTSON and CLIFFORD KRAUSS",
+      "person": [
+        {
+          "firstname": "John",
+          "middlename": null,
+          "lastname": null,
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5445d3f738f0d832c813f4fa",
+    "word_count": 1175,
+    "score": 1.0,
+    "uri": "nyt://article/560e20f0-d84f-58bb-822a-4e85199329eb"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2010/05/05/nyregion/05bomb.html",
+    "snippet": "Mr. Shahzad faces charges including attempting to use weapons of mass destruction.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/05/05/us/05bombspan2-cnd/05bombspan2-cnd-articleLarge.jpg",
+        "height": 331,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2010/05/05/us/05bombspan2-cnd/05bombspan2-cnd-articleLarge.jpg",
+          "xlargeheight": 331
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/05/05/us/05bombspan2-cnd/05bombspan2-cnd-thumbStandard-v2.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/05/05/us/05bombspan2-cnd/05bombspan2-cnd-thumbStandard-v2.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Suspect, Charged, Said to Admit to Role in Plot",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Terrorism Suspect, Charged, Admits to Role in Bomb Plot",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Times Square and 42nd Street (NYC)",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Terrorism",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Bombs and Explosives",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Shahzad, Faisal",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-05-04T06:21:08+0000",
+    "document_type": "article",
+    "new_desk": "Metro",
+    "byline": {
+      "original": "By MARK MAZZETTI, SABRINA TAVERNISE and JACK HEALY",
+      "person": [
+        {
+          "firstname": "Mark",
+          "middlename": null,
+          "lastname": "MAZZETTI",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Sabrina",
+          "middlename": null,
+          "lastname": "TAVERNISE",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        },
+        {
+          "firstname": "Jack",
+          "middlename": null,
+          "lastname": "HEALY",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 3
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "543f072a38f0d853e89f699a",
+    "word_count": 1605,
+    "score": 1.0,
+    "uri": "nyt://article/c4e62410-cb3f-50cb-9a5d-4b97e08bba6e"
+  }
+]

@@ -1,0 +1,1064 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2014/04/17/world/europe/ukraine-crisis.html",
+    "snippet": "Pro-Russian militias commandeered vehicles from the Ukrainian Army as a military operation by the Kiev government in the eastern part of the nation fell apart.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2014/04/17/world/europe/17UKRAINE2/17UKRAINE2-articleLarge.jpg",
+        "height": 400,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2014/04/17/world/europe/17UKRAINE2/17UKRAINE2-articleLarge.jpg",
+          "xlargeheight": 400
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2014/04/17/world/europe/17UKRAINE2/17UKRAINE2-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2014/04/17/world/europe/17UKRAINE2/17UKRAINE2-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2014/04/17/world/europe/17UKRAINE2/17UKRAINE2-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2014/04/17/world/europe/17UKRAINE2/17UKRAINE2-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Ukraine Push Against Rebels Grinds to Halt",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Ukraine Push Against Rebels Grinds to Halt",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Ukraine",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Russia",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Odessa (Ukraine)",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Slovyansk (Ukraine)",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Donetsk (Ukraine)",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Defense and Military Forces",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2014-04-16T10:20:40+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Europe",
+    "byline": {
+      "original": "By ANDREW E. KRAMER",
+      "person": [
+        {
+          "firstname": "Andrew",
+          "middlename": "E.",
+          "lastname": "KRAMER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "534e597d38f0d824d8a83c83",
+    "word_count": 1373,
+    "score": 1.0,
+    "uri": "nyt://article/64906117-a584-5376-8e36-833a7ec9b54b"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2014/04/17/health/diabetes-complications-show-sharp-decline-report-finds.html",
+    "snippet": "Rates of heart attacks, strokes, kidney failure and amputations dropped over the past two decades, federal researchers said.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "For Diabetics, Health Risks Fall Sharply",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "For Diabetics, Health Risks Fall Sharply",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Diabetes",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Stroke",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Kidneys",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Amputation",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Heart",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Deaths (Fatalities)",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Centers for Disease Control and Prevention",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "New England Journal of Medicine",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Gregg, Edward W",
+        "rank": 9,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2014-04-16T21:04:52+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "byline": {
+      "original": "By SABRINA TAVERNISE and DENISE GRADY",
+      "person": [
+        {
+          "firstname": "Sabrina",
+          "middlename": null,
+          "lastname": "TAVERNISE",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Denise",
+          "middlename": null,
+          "lastname": "GRADY",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "534ef07a38f0d80cb3cb9b3f",
+    "word_count": 1110,
+    "score": 1.0,
+    "uri": "nyt://article/0c506564-111d-5fa9-bdcf-eeacd6148c52"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2014/04/17/garden/square-feet-84-possessions-305.html",
+    "snippet": "After a heart attack, Dee Williams downsized. Way down.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2014/04/17/garden/20140417-TINY-slide-ICB5/20140417-TINY-slide-ICB5-articleLarge.jpg",
+        "height": 399,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2014/04/17/garden/20140417-TINY-slide-ICB5/20140417-TINY-slide-ICB5-articleLarge.jpg",
+          "xlargeheight": 399
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2014/04/17/garden/20140417-TINY-slide-ICB5/20140417-TINY-slide-ICB5-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2014/04/17/garden/20140417-TINY-slide-ICB5/20140417-TINY-slide-ICB5-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2014/04/17/garden/20140417-TINY-slide-ICB5/20140417-TINY-slide-ICB5-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2014/04/17/garden/20140417-TINY-slide-ICB5/20140417-TINY-slide-ICB5-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Square Feet: 84. Possessions: 305.",
+      "kicker": "House Proud",
+      "content_kicker": "House Proud",
+      "print_headline": "Square Feet: 84. Possessions: 305.",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Real Estate and Housing (Residential)",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Sustainable Living",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Olympia (Wash)",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Architecture",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Books and Literature",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2014-04-16T22:40:57+0000",
+    "document_type": "article",
+    "new_desk": "Home",
+    "byline": {
+      "original": "By STEVEN KURUTZ",
+      "person": [
+        {
+          "firstname": "Steven",
+          "middlename": null,
+          "lastname": "KURUTZ",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "534f06fd38f0d80cb3cb9b99",
+    "word_count": 1367,
+    "score": 1.0,
+    "uri": "nyt://article/3d7d852f-5109-54de-bff6-d255cc348360"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2014/04/16/world/europe/russia-is-quick-to-bend-truth-about-ukraine.html",
+    "snippet": "Misinformation, exaggerations, conspiracy theories, overheated rhetoric and outright lies about the political crisis in Ukraine have emanated from the highest echelons of the Kremlin.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2014/04/16/world/RUSSIA/RUSSIA-articleLarge.jpg",
+        "height": 400,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2014/04/16/world/RUSSIA/RUSSIA-articleLarge.jpg",
+          "xlargeheight": 400
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2014/04/16/world/RUSSIA/RUSSIA-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2014/04/16/world/RUSSIA/RUSSIA-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2014/04/16/world/RUSSIA/RUSSIA-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2014/04/16/world/RUSSIA/RUSSIA-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Russia Is Quick to Bend Truth About Ukraine",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Russia Is Quick to Bend Truth About Ukraine",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Russia",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Ukraine",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Propaganda",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Medvedev, Dmitri A",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Crimea (Ukraine)",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Defense and Military Forces",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "International Relations",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Putin, Vladimir V",
+        "rank": 8,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2014-04-16T01:58:24+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Europe",
+    "byline": {
+      "original": "By DAVID M. HERSZENHORN",
+      "person": [
+        {
+          "firstname": "David",
+          "middlename": null,
+          "lastname": null,
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "534de3c538f0d824d8a83ba8",
+    "word_count": 1276,
+    "score": 1.0,
+    "uri": "nyt://article/00eb3327-5a06-50b0-949c-760d5c045d6f"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2014/04/16/us/politics/texas-twins-campaign-but-they-arent-sure-for-what.html",
+    "snippet": "While Mayor Juli\u00e1n Castro of San Antonio and Representative Joaquin Castro have projected a fresh Latino face for the Democratic Party, some are concerned they are too politically cautious.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2014/04/16/us/politics/CASTRO/CASTRO-articleLarge.jpg",
+        "height": 400,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2014/04/16/us/politics/CASTRO/CASTRO-articleLarge.jpg",
+          "xlargeheight": 400
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2014/04/16/us/politics/CASTRO/CASTRO-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2014/04/16/us/politics/CASTRO/CASTRO-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2014/04/16/us/politics/CASTRO/CASTRO-thumbStandard-v2.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2014/04/16/us/politics/CASTRO/CASTRO-thumbStandard-v2.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Texas Twins Campaign, but They Aren\u2019t Sure for What",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Texas Twins Campaign, but Aren\u2019t Sure for What",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "organizations",
+        "value": "Democratic Party",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Castro, Julian",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Castro, Joaquin",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Hispanic-Americans",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "San Antonio (Tex)",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Elections",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Voting and Voters",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Republican Party",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Texas",
+        "rank": 9,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Cruz, Ted",
+        "rank": 10,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Politics and Government",
+        "rank": 11,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2014-04-16T01:18:32+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "section_name": "Politics",
+    "byline": {
+      "original": "By JASON HOROWITZ",
+      "person": [
+        {
+          "firstname": "Jason",
+          "middlename": null,
+          "lastname": "HOROWITZ",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "534dda6f38f0d824d8a83b97",
+    "word_count": 1304,
+    "score": 1.0,
+    "uri": "nyt://article/d7b212b7-0ec8-5d03-ac9b-3f904b142e0e"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2014/04/17/business/a-thriving-market-where-air-jordans-are-blue-chips.html",
+    "snippet": "Bartering and selling at conventions and online, the thousands of mostly teenage \u201csneakerheads\u201d have perfected the art of trading up.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2014/04/17/business/SNEAKER-slide-7GCR/SNEAKER-slide-7GCR-articleLarge.jpg",
+        "height": 400,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2014/04/17/business/SNEAKER-slide-7GCR/SNEAKER-slide-7GCR-articleLarge.jpg",
+          "xlargeheight": 400
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2014/04/17/business/SNEAKER-slide-7GCR/SNEAKER-slide-7GCR-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2014/04/17/business/SNEAKER-slide-7GCR/SNEAKER-slide-7GCR-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2014/04/17/business/SNEAKER-slide-7GCR/SNEAKER-slide-7GCR-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2014/04/17/business/SNEAKER-slide-7GCR/SNEAKER-slide-7GCR-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "For Young Traders, a Market Where Air Jordans Are Blue Chips",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "At \u2018Sneakerhead\u2019 Fairs, Air Jordans Are Golden",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Sneakers",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Teenagers and Adolescence",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Collectors and Collections",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Conventions, Fairs and Trade Shows",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2014-04-16T19:04:34+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By GRANT GLICKSON",
+      "person": [
+        {
+          "firstname": "Grant",
+          "middlename": null,
+          "lastname": "GLICKSON",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "534ed44538f0d80cb3cb9ae6",
+    "word_count": 1129,
+    "score": 1.0,
+    "uri": "nyt://article/ebd54fa0-2559-57c3-b73c-3ad9522df2a5"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2014/04/17/us/politics/unfinished-business-complicates-clintons-diplomatic-legacy.html",
+    "snippet": "Mrs. Clinton may face a dilemma as she recounts her record before a possible White House bid: Much of her work as secretary of state either is unfinished or went awry.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2014/04/17/us/JPCLINTON5/JPCLINTON5-articleLarge.jpg",
+        "height": 849,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2014/04/17/us/JPCLINTON5/JPCLINTON5-articleLarge.jpg",
+          "xlargeheight": 849
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2014/04/17/us/JPCLINTON5/JPCLINTON5-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2014/04/17/us/JPCLINTON5/JPCLINTON5-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2014/04/17/us/JPCLINTON5/JPCLINTON5-thumbStandard-v2.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2014/04/17/us/JPCLINTON5/JPCLINTON5-thumbStandard-v2.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Hillary Clinton Struggles to Define a Legacy in Progress",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Clinton Struggles to Define a Legacy in Progress",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Clinton, Hillary Rodham",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Politics and Government",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Presidential Election of 2016",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States International Relations",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "State Department",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2014-04-16T16:44:07+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "section_name": "Politics",
+    "byline": {
+      "original": "By MARK LANDLER and AMY CHOZICK",
+      "person": [
+        {
+          "firstname": "Mark",
+          "middlename": null,
+          "lastname": "LANDLER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Amy",
+          "middlename": null,
+          "lastname": "CHOZICK",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "534eb35d38f0d80cb3cb9a6d",
+    "word_count": 2639,
+    "score": 1.0,
+    "uri": "nyt://article/45b53c31-ad9c-51b7-a5df-2913b8d32c60"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2014/04/16/business/despite-spills-hazards-ride-the-rails-in-secret.html",
+    "snippet": "As alarmed communities complain about dangerous cargo running on the tracks through their towns, new rules for handling such cargo are set to take effect.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2014/04/16/business/JP-RAIL-SAFETY/JP-RAIL-SAFETY-articleLarge.jpg",
+        "height": 400,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2014/04/16/business/JP-RAIL-SAFETY/JP-RAIL-SAFETY-articleLarge.jpg",
+          "xlargeheight": 400
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2014/04/16/business/JP-RAIL-SAFETY/JP-RAIL-SAFETY-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2014/04/16/business/JP-RAIL-SAFETY/JP-RAIL-SAFETY-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2014/04/16/business/JP-RAIL-SAFETY/JP-RAIL-SAFETY-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2014/04/16/business/JP-RAIL-SAFETY/JP-RAIL-SAFETY-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Despite Rise in Spills, Hazardous Cargo Rides Rails in Secret",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Despite Rise in Spills, Hazardous Cargo Rides Rails in Secret",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Railroads",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Hazardous and Toxic Substances",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Railroad Accidents and Safety",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Federal Railroad Administration",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Assn of American Railroads",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Transportation Department (US)",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Oil (Petroleum) and Gasoline",
+        "rank": 7,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2014-04-16T02:12:59+0000",
+    "document_type": "article",
+    "new_desk": "NODESK",
+    "byline": {
+      "original": "By JAD MOUAWAD",
+      "person": [
+        {
+          "firstname": "Jad",
+          "middlename": null,
+          "lastname": "MOUAWAD",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "534de72d38f0d824d8a83bb3",
+    "word_count": 1251,
+    "score": 1.0,
+    "uri": "nyt://article/2a688e3b-e52f-50b6-8c62-61a4c0e0423a"
+  }
+]

@@ -1,0 +1,93 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2008/10/30/us/politics/30early.html",
+    "snippet": "Early voting has been a hit, in grocery stores or out car windows, and millions have already cast ballots.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/10/30/us/30early0.600.jpg",
+        "height": 320,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2008/10/30/us/30early0.600.jpg",
+          "xlargeheight": 320
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/10/30/us/30early_75.JPG",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2008/10/30/us/30early_75.JPG",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "The Decided Go in Droves to Vote Early",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "The Decided Go in Droves To Vote Early",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Presidential Election of 2008",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Voting and Voters",
+        "rank": 2,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2008-10-30T01:53:42+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "section_name": "Politics",
+    "byline": {
+      "original": "By JENNIFER STEINHAUER",
+      "person": [
+        {
+          "firstname": "Jennifer",
+          "middlename": null,
+          "lastname": "STEINHAUER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5474dd9f38f0d8119c6aefdf",
+    "word_count": 1383,
+    "score": 1.0,
+    "uri": "nyt://article/7efe6acf-6139-57b4-914e-b190086c8504"
+  }
+]

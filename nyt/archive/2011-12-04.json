@@ -1,0 +1,342 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2011/12/05/sports/hockey/derek-boogaard-blood-on-the-ice.html",
+    "snippet": "Over six months, The Times examined the life and death of the hockey player Derek Boogaard. The second article of a three-part series explores the devastating toll of fighting on players.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/12/05/sports/hockey/05boogaard-sfpic/05boogaard-sfpic-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2011/12/05/sports/hockey/05boogaard-sfpic/05boogaard-sfpic-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/12/05/sports/hockey/05boogaard-sfpic/05boogaard-sfpic-thumbStandard-v2.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/12/05/sports/hockey/05boogaard-sfpic/05boogaard-sfpic-thumbStandard-v2.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Derek Boogaard: Blood on the Ice",
+      "kicker": "Punched Out",
+      "content_kicker": "Punched Out",
+      "print_headline": "Blood on the Ice",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Boogaard, Derek",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Hockey, Ice",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Minnesota Wild",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Pain-Relieving Drugs",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Canada",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Series",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Sports Injuries",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Concussions",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "National Hockey League",
+        "rank": 9,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Fedoruk, Todd",
+        "rank": 10,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Laraque, Georges",
+        "rank": 11,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-12-04T23:09:56+0000",
+    "document_type": "article",
+    "new_desk": "Sports",
+    "section_name": "Hockey",
+    "byline": {
+      "original": "By JOHN BRANCH",
+      "person": [
+        {
+          "firstname": "John",
+          "middlename": null,
+          "lastname": "BRANCH",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "511fea4fcf28d009de000318",
+    "word_count": 4980,
+    "score": 1.0,
+    "uri": "nyt://article/cba4fd7f-3291-5f6d-b1a6-ea8929384bef"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/12/05/world/europe/russians-vote-governing-party-claims-early-victory.html",
+    "snippet": "United Russia, the governing party of Prime Minister Vladimir V. Putin, suffered surprisingly steep losses in parliamentary elections and was clinging to a 50 percent majority.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/12/05/world/europe/05russia4/05russia4-thumbStandard-v2.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/12/05/world/europe/05russia4/05russia4-thumbStandard-v2.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Majority for Putin\u2019s Party Narrows in Rebuke From Voters",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Russian Voters Send a Message To Putin\u2019s Party",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Russia",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Elections",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "United Russia",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Putin, Vladimir V",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Politics and Government",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-12-04T18:51:04+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Europe",
+    "byline": {
+      "original": "By DAVID M. HERSZENHORN and ELLEN BARRY",
+      "person": [
+        {
+          "firstname": "David",
+          "middlename": null,
+          "lastname": null,
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5403dd2f38f0d80e250f44d9",
+    "word_count": 1260,
+    "score": 1.0,
+    "uri": "nyt://article/acfad6ed-76f8-59f3-9a1f-6a015df26d9e"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/12/05/arts/design/leonardo-da-vinci-blockbuster-at-national-gallery-in-london.html",
+    "snippet": "\u201cLeonardo da Vinci: Painter at the Court of Milan\u201d has created a ticket frenzy and thick crowds at the National Gallery in London, where the show emphasizes that master\u2019s importance as a painter.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/12/05/arts/05LEONARDO/05LEONARDO-articleLarge.jpg",
+        "height": 330,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2011/12/05/arts/05LEONARDO/05LEONARDO-articleLarge.jpg",
+          "xlargeheight": 330
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/12/05/arts/05LEONARDO/05LEONARDO-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/12/05/arts/05LEONARDO/05LEONARDO-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Long Lines and Scalpers: Rock Star? No, Leonardo",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Long Lines and Scalpers: Rock Star? No, Leonardo",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Art",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "London (England)",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "da Vinci, Leonardo",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "National Gallery (London)",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-12-04T17:37:21+0000",
+    "document_type": "article",
+    "new_desk": "Culture",
+    "section_name": "Art & Design",
+    "byline": {
+      "original": "By CAROL VOGEL",
+      "person": [
+        {
+          "firstname": "Carol",
+          "middlename": null,
+          "lastname": "VOGEL",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "515db27acf28d0219d0037e8",
+    "word_count": 855,
+    "score": 1.0,
+    "uri": "nyt://article/2b6f39ce-388d-5c78-9013-10e7949c8735"
+  }
+]

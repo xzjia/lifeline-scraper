@@ -1,0 +1,146 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2008/12/13/business/13wyeth.html",
+    "snippet": "The pharmaceutical company paid ghostwriters to produce articles favorable to its drug Prempro, according to Congressional letters.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "Wyeth\u2019s Use of Medical Ghostwriters Questioned",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Investigation Links Wyeth To Articles On Its Drug",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "organizations",
+        "value": "Wyeth",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Ghostwriting",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Medicine and Health",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Grassley, Charles E",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2008-12-13T04:17:43+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By DUFF WILSON",
+      "person": [
+        {
+          "firstname": "Duff",
+          "middlename": null,
+          "lastname": "WILSON",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5456483438f0d84a08fb3432",
+    "word_count": 1028,
+    "score": 1.0,
+    "uri": "nyt://article/6a14cecc-57c6-56cc-8f34-ee725f58d59a"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2008/12/13/business/13money.html",
+    "snippet": "Strategies to avoid being an investor caught with one\u2019s life savings in the mess surrounding Bernard L. Madoff.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "Be Smart, but Don\u2019t Think That You\u2019re Special",
+      "kicker": "Your Money",
+      "content_kicker": "Your Money",
+      "print_headline": "Be Smart, but Don\u2019t Think That You\u2019re Special",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Madoff, Bernard L",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Personal Finances",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Stocks and Bonds",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Frauds and Swindling",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2008-12-13T02:38:37+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By RON LIEBER and TARA SIEGEL BERNARD",
+      "person": [
+        {
+          "firstname": "Ron",
+          "middlename": null,
+          "lastname": "LIEBER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Tara",
+          "middlename": "Siegel",
+          "lastname": "BERNARD",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "547b223a38f0d803f445c843",
+    "word_count": 1167,
+    "score": 1.0,
+    "uri": "nyt://article/aef47a77-7913-520c-a1a3-6b7f6f661671"
+  }
+]

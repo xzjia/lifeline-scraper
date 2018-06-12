@@ -1,0 +1,317 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2010/12/08/us/08edwards.html",
+    "snippet": "Mrs. Edwards shared John Edwards\u2019s quest for the White House as she struggled with cancer, and, secretly, his infidelity.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/12/08/us/08edwards_span/jpEDWARDS1-obit-articleLarge.jpg",
+        "height": 345,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2010/12/08/us/08edwards_span/jpEDWARDS1-obit-articleLarge.jpg",
+          "xlargeheight": 345
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/12/08/us/08edwards_span/08edwards_span-thumbStandard-v2.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/12/08/us/08edwards_span/08edwards_span-thumbStandard-v2.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "A Political Life Filled With Cruel Reversals",
+      "kicker": "Elizabeth Edwards, 1949-2010",
+      "content_kicker": "Elizabeth Edwards, 1949-2010",
+      "print_headline": "ELIZABETH EDWARDS, 1949-2010: Successes and Cruel Reversals,\nPlayed Out on a Political Stage",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Edwards, Elizabeth",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Presidential Election of 2008",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Edwards, John",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Deaths (Obituaries)",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Adultery",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "North Carolina",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Politics and Government",
+        "rank": 7,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-12-07T22:15:23+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "byline": {
+      "original": "By ROBERT D. McFADDEN",
+      "person": [
+        {
+          "firstname": "Robert",
+          "middlename": null,
+          "lastname": null,
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "Obituary (Obit)",
+    "_id": "54211dae38f0d81f7a601061",
+    "word_count": 1735,
+    "score": 1.0,
+    "uri": "nyt://article/dd33c414-c19e-5de8-84e0-0a6d1fd11d4b"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2010/12/07/us/politics/07cong.html",
+    "snippet": "President Obama agreed to a tentative deal to extend the Bush tax cuts, part of a package to keep jobless aid and cut payroll taxes.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "Tax Deal Suggests New Path for Obama",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Obama Reaches Accord With G.O.P. on Tax Cut; Democrats Hold Back",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Taxation",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Politics and Government",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Federal Taxes (US)",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Unemployment",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Tax Credits, Deductions and Exemptions",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "House of Representatives",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Republican Party",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Democratic Party",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Obama, Barack",
+        "rank": 9,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Camp, Dave",
+        "rank": 10,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-12-07T00:46:10+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "section_name": "Politics",
+    "byline": {
+      "original": "By DAVID M. HERSZENHORN and JACKIE CALMES",
+      "person": [
+        {
+          "firstname": "David",
+          "middlename": null,
+          "lastname": null,
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "542201af38f0d83c6e5b78ca",
+    "word_count": 1292,
+    "score": 1.0,
+    "uri": "nyt://article/8459a8d8-504a-566f-b90f-4ef7fe11cb82"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2010/12/07/education/07education.html",
+    "snippet": "Shanghai students outscored counterparts in dozens of other countries in China\u2019s debut in global standardized testing.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/12/07/us/subjpEDUC/subjpEDUC-thumbStandard-v2.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/12/07/us/subjpEDUC/subjpEDUC-thumbStandard-v2.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Top Test Scores From Shanghai Stun Educators",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Top Test Scores From Shanghai Stun Educators",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "organizations",
+        "value": "Organization for Economic Cooperation and Development",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Tests and Testing",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Education (K-12)",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Shanghai (China)",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "United States",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-12-07T09:00:33+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "byline": {
+      "original": "By SAM DILLON",
+      "person": [
+        {
+          "firstname": "Sam",
+          "middlename": null,
+          "lastname": "DILLON",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "542203ac38f0d83c6e5b78f7",
+    "word_count": 1202,
+    "score": 1.0,
+    "uri": "nyt://article/27ca3ede-be62-57f0-bb77-2f13251453cb"
+  }
+]

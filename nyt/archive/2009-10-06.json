@@ -1,0 +1,624 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2009/10/06/us/politics/06jobless.html",
+    "snippet": "Officials said that a new effort would not add up to a second stimulus package, only an extension of the first.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/10/06/us/06jobless_75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/10/06/us/06jobless_75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Obama Aides Act to Fix Safety Net",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "AS JOB LOSS RISES, OBAMA AIDES ACT TO FIX SAFETY NET",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Obama, Barack",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Unemployment",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Economy",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "American Recovery and Reinvestment Act (2009)",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Politics and Government",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Democratic Party",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-10-06T01:32:47+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "section_name": "Politics",
+    "byline": {
+      "original": "By JACKIE CALMES",
+      "person": [
+        {
+          "firstname": "Jackie",
+          "middlename": null,
+          "lastname": "CALMES",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5456f37138f0d86ef22a0f93",
+    "word_count": 1058,
+    "score": 1.0,
+    "uri": "nyt://article/49c5f296-2fb8-54e8-b297-213685482de2"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/10/07/arts/music/07pink.html",
+    "snippet": "Even in an era of escalating pop spectacle, Pink\u2019s \u201cFunhouse\u201d tour is going to be hard to top.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/10/06/arts/pink600.jpg",
+        "height": 400,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/10/06/arts/pink600.jpg",
+          "xlargeheight": 400
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/10/06/arts/pink75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/10/06/arts/pink75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Step Right Up",
+      "kicker": "Music Review | Pink",
+      "content_kicker": "Music Review | Pink",
+      "print_headline": "Step Right Up",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Music",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Rock Music",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Pink (1979- )",
+        "rank": 3,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-10-06T22:30:30+0000",
+    "document_type": "article",
+    "new_desk": "Culture",
+    "section_name": "Music",
+    "byline": {
+      "original": "By JON PARELES",
+      "person": [
+        {
+          "firstname": "Jon",
+          "middlename": null,
+          "lastname": "PARELES",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "Review",
+    "_id": "5456fa3138f0d86ef22a101e",
+    "word_count": 547,
+    "score": 1.0,
+    "uri": "nyt://article/a321f9ef-de04-52b1-9ce2-9178679f2c54"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/10/06/your-money/06prepay.html",
+    "snippet": "Prepaid debit cards are among the consumer banking industry\u2019s fastest-growing products, but often their convenience comes with hidden fees.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/10/06/business/06debit-vid.337.jpg",
+        "height": 190,
+        "width": 337,
+        "legacy": {
+          "wide": "images/2009/10/06/business/06debit-vid.337.jpg",
+          "widewidth": 337,
+          "wideheight": 190
+        },
+        "subType": "wide",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Prepaid, but Not Prepared for Debit Card Fees",
+      "kicker": "The Card Game",
+      "content_kicker": "The Card Game",
+      "print_headline": "Prepaid, but Not Prepared for Debit Card Fees",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Debit Cards",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Prices (Fares, Fees and Rates)",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Credit and Money Cards",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Personal Finances",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Banks and Banking",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-10-06T01:36:38+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By ANDREW MARTIN",
+      "person": [
+        {
+          "firstname": "Andrew",
+          "middlename": null,
+          "lastname": "MARTIN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5400baab38f0d841b2f3876e",
+    "word_count": 1923,
+    "score": 1.0,
+    "uri": "nyt://article/29e1cba9-37f1-581c-86bc-3550a401fbd3"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/10/07/world/asia/07prexy.html",
+    "snippet": "President Obama seemed to be searching for a middle ground as he indicated that he remained undecided about a buildup of U.S. forces in Afghanistan.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/10/07/world/07prexy.span.600.jpg",
+        "height": 345,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/10/07/world/07prexy.span.600.jpg",
+          "xlargeheight": 345
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/10/07/world/07obam.ms.75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/10/07/world/07obam.ms.75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Obama Rules Out Large Reduction in Afghan Force",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Obama Rules Out Large Reduction In Afghan Force",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Obama, Barack",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Afghanistan War (2001- )",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Defense and Military Forces",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Politics and Government",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "House of Representatives",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Senate",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-10-06T23:54:51+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Asia Pacific",
+    "byline": {
+      "original": "By PETER BAKER and JEFF ZELENY",
+      "person": [
+        {
+          "firstname": "Peter",
+          "middlename": null,
+          "lastname": "BAKER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Jeff",
+          "middlename": null,
+          "lastname": "ZELENY",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5400bbd738f0d841b2f387fc",
+    "word_count": 1100,
+    "score": 1.0,
+    "uri": "nyt://article/d008555e-3aea-55eb-808a-1c362671710a"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/10/07/us/07califwelfare.html",
+    "snippet": "The state is embracing a startling reversal in some of its welfare policies that reflects the recession and the state\u2019s financial crisis.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/10/06/us/06calif-75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/10/06/us/06calif-75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "California\u2019s Zigzag on Welfare Rules Worries Experts",
+      "kicker": "California Reeling",
+      "content_kicker": "California Reeling",
+      "print_headline": "Sharp Reversal For California Over Welfare",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "California",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Welfare (US)",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Recession and Depression",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Budgets and Budgeting",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-10-06T21:03:10+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "byline": {
+      "original": "By ERIK ECKHOLM",
+      "person": [
+        {
+          "firstname": "Erik",
+          "middlename": null,
+          "lastname": "ECKHOLM",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "Series",
+    "_id": "5424a06b38f0d8525e4539ff",
+    "word_count": 1128,
+    "score": 1.0,
+    "uri": "nyt://article/5ff447ee-7e70-50ec-b83e-422052515011"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/10/07/dining/07chick.html",
+    "snippet": "From Japanese wing joints to carbon copies of Korean fast food, there\u2019s far more to taste in fried chicken than just the standard Southern-style crust.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/10/07/dining/chicken.600.jpg",
+        "height": 384,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/10/07/dining/chicken.600.jpg",
+          "xlargeheight": 384
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/10/07/dining/chicken.75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/10/07/dining/chicken.75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Fried Chicken: A Migratory Bird",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Fried Chicken: A Migratory Bird",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Chickens",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Restaurants",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Cooking and Cookbooks",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Congee Village",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Fatty Crab (NYC Restaurant)",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Momofuku Noodle Bar",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Chang, David (Chef)",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "New York City",
+        "rank": 8,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-10-06T21:26:20+0000",
+    "document_type": "article",
+    "new_desk": "Dining",
+    "byline": {
+      "original": "By JULIA MOSKIN",
+      "person": [
+        {
+          "firstname": "Julia",
+          "middlename": null,
+          "lastname": "MOSKIN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5456c09738f0d86ef22a0b30",
+    "word_count": 1611,
+    "score": 1.0,
+    "uri": "nyt://article/fed1b149-a6d9-5fdc-a666-c38b42268398"
+  }
+]

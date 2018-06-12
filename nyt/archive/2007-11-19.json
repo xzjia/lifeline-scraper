@@ -1,0 +1,189 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2007/11/19/world/americas/19bullfight.html",
+    "snippet": "Mexico\u2019s mini-matadors are drawing ever larger crowds as well as criticism from those who say they should find a safer extracurricular activity.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2007/11/19/world/19bullfight.600.jpg",
+        "height": 335,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2007/11/19/world/19bullfight.600.jpg",
+          "xlargeheight": 335
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2007/11/19/world/19bullfight.75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2007/11/19/world/19bullfight.75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Child Matadors Draw Ol\u00e9s in Mexico\u2019s Bullrings",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Child Matadors Draw Ol\u00e9s in Mexico\u2019s Bullrings",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Bullfighting",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Mexico",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Children and Youth",
+        "rank": 3,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2007-11-19T05:00:00+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Americas",
+    "byline": {
+      "original": "By MARC LACEY",
+      "person": [
+        {
+          "firstname": "Marc",
+          "middlename": null,
+          "lastname": "LACEY",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5487e17638f0d8602128ea01",
+    "word_count": 1341,
+    "score": 1.0,
+    "uri": "nyt://article/d75b0276-900c-552f-8264-47f43556c5b3"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2007/11/19/world/middleeast/19iraq.html",
+    "snippet": "New U.S. military data showed that attacks had declined to the lowest level since January 2006. It is the third week in a row that attacks have been at this reduced level.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2007/11/19/world/19iraq.75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2007/11/19/world/19iraq.75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "U.S. Says Attacks in Iraq Fell to Feb. 2006 Level",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "U.S. Says Attacks in Iraq Fell To the Level of Early Last Year",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Iraq",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Civil War and Guerrilla Warfare",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Armament and Defense",
+        "rank": 3,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2007-11-19T05:00:00+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Middle East",
+    "byline": {
+      "original": "By CARA BUCKLEY and MICHAEL R. GORDON",
+      "person": [
+        {
+          "firstname": "Cara",
+          "middlename": null,
+          "lastname": "BUCKLEY",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Michael",
+          "middlename": "R.",
+          "lastname": "GORDON",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5487e29a38f0d8602128ea1a",
+    "word_count": 912,
+    "score": 1.0,
+    "uri": "nyt://article/e0bc8e5d-7f9d-584b-b2a1-a3a1eadff7e9"
+  }
+]

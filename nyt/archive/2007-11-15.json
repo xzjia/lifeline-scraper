@@ -1,0 +1,184 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2007/11/15/fashion/15Work.html",
+    "snippet": "It\u2019s official: nothing is sacred. At least two insurers have added the \u201ccancel for work reasons\u201d option to a travel insurance plan.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2007/11/14/fashion/thursdaystyles/15work-75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2007/11/14/fashion/thursdaystyles/15work-75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Hello, Vacation: It\u2019s the Boss",
+      "kicker": "Life\u2019s Work",
+      "content_kicker": "Life\u2019s Work",
+      "print_headline": "Hello, Vacation: It\u2019s the Boss",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Travel and Vacations",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Computers and the Internet",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Airlines and Airplanes",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "AIG",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2007-11-15T05:00:00+0000",
+    "document_type": "article",
+    "new_desk": "Styles",
+    "byline": {
+      "original": "By LISA BELKIN",
+      "person": [
+        {
+          "firstname": "Lisa",
+          "middlename": null,
+          "lastname": "BELKIN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "548781f338f0d8602128e52c",
+    "word_count": 1155,
+    "score": 1.0,
+    "uri": "nyt://article/ef69eec6-30af-5444-8e9f-c5c108522854"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2007/11/15/business/15airlines.html",
+    "snippet": "Improvement in airline tracking software could mean fewer stranded travelers and less frequent delays.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2007/11/15/business/15airlines.75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2007/11/15/business/15airlines.75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Airlines Work on Systems to Reduce Delays",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Unclogging the Tarmac",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Airlines and Airplanes",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Delays (Transportation)",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Computers and the Internet",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Software",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "American Airlines",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "JetBlue Airways",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2007-11-15T05:00:00+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By JEFF BAILEY",
+      "person": [
+        {
+          "firstname": "Jeff",
+          "middlename": null,
+          "lastname": "BAILEY",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "547bd3b638f0d813efccb588",
+    "word_count": 1310,
+    "score": 1.0,
+    "uri": "nyt://article/e1be0a3b-3143-5b87-b5d4-09af58d1357f"
+  }
+]

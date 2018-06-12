@@ -1,0 +1,189 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2010/01/02/nyregion/02inaug.html",
+    "snippet": "Michael R. Bloomberg struck a humble tone at a ceremony on Friday to inaugurate his third term as New York City mayor.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/01/02/nyregion/02inaug_CA0/articleLarge.jpg",
+        "height": 345,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2010/01/02/nyregion/02inaug_CA0/articleLarge.jpg",
+          "xlargeheight": 345
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "For Bloomberg\u2019s 3rd Term, a Humbler Start",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "In Humble Tones for Third Term, Mayor Says His Job Is to Listen",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Bloomberg, Michael R",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "New York City",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "City Hall",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Inaugurations",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-01-01T19:14:15+0000",
+    "document_type": "article",
+    "new_desk": "Metro",
+    "byline": {
+      "original": "By DAVID W. CHEN",
+      "person": [
+        {
+          "firstname": "David",
+          "middlename": "W.",
+          "lastname": "CHEN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "54244cdd38f0d8525e453211",
+    "word_count": 1109,
+    "score": 1.0,
+    "uri": "nyt://article/b720d12d-6b29-5a18-9e0c-0949cbc8c7ac"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2010/01/01/education/01honors.html",
+    "snippet": "Educators and parents are re-examining the role of honor societies, which started out as an academic distinction but have become routine on college r\u00e9sum\u00e9s.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/01/01/nyregion/01honors_CA0/articleLarge.jpg",
+        "height": 340,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2010/01/01/nyregion/01honors_CA0/articleLarge.jpg",
+          "xlargeheight": 340
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/01/01/nyregion/01honors_CA0/thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/01/01/nyregion/01honors_CA0/thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "As Honor Students Multiply, Who Really Is One?",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "As Honor Students Multiply, Who Really Is One?",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Education and Schools",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Awards, Decorations and Honors",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Admissions Standards",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "National Honor Society",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-01-01T02:20:03+0000",
+    "document_type": "article",
+    "new_desk": "Metro",
+    "byline": {
+      "original": "By WINNIE HU",
+      "person": [
+        {
+          "firstname": "Winnie",
+          "middlename": null,
+          "lastname": "HU",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "54244a4f38f0d8525e4531d1",
+    "word_count": 1186,
+    "score": 1.0,
+    "uri": "nyt://article/122a26c3-3fe8-5938-98fe-ab972f7780a0"
+  }
+]

@@ -1,0 +1,138 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2008/02/07/us/07tornado.html",
+    "snippet": "Authorities were searching for victims after a wide swath of storms packing tornadoes and hail swept the South.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/02/06/us/07tornado08_600.jpg",
+        "height": 280,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2008/02/06/us/07tornado08_600.jpg",
+          "xlargeheight": 280
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/02/06/us/07tornado08_75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2008/02/06/us/07tornado08_75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Toll of Deadly Tornadoes in South Climbs Past 50",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Toll of Deadly Tornadoes in South Climbs Past 50",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Tornadoes",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Weather",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Union University",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "National Severe Storms Laboratory",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Arkansas",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Memphis (Tenn)",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Mississippi",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Alabama",
+        "rank": 8,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2008-02-07T05:00:00+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "byline": {
+      "original": "By SHAILA DEWAN and BRENDA GOODMAN",
+      "person": [
+        {
+          "firstname": "Shaila",
+          "middlename": null,
+          "lastname": "DEWAN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Brenda",
+          "middlename": null,
+          "lastname": "GOODMAN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "547daa8338f0d822abda295b",
+    "word_count": 1171,
+    "score": 1.0,
+    "uri": "nyt://article/17fc524b-c0c7-5be1-a4ce-609c4b3fe5cd"
+  }
+]

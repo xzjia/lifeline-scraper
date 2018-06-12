@@ -1,0 +1,744 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2013/10/08/us/politics/default-threat-makes-impasse-in-washington-a-global-fear.html",
+    "snippet": "Five years after a financial crisis in the United States helped spread a deep global recession, much of the world again fears collateral damage.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "Default Threat Generates Fear Around Globe",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Default Threat Generates Fear Around Globe",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "National Debt (US)",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "International Trade and World Market",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Obama, Barack",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Economy",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Shutdowns (Institutional)",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "House of Representatives",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Federal Budget (US)",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Politics and Government",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Economic Conditions and Trends",
+        "rank": 9,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States International Relations",
+        "rank": 10,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2013-10-07T19:52:37+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Politics",
+    "byline": {
+      "original": "By STEVEN ERLANGER",
+      "person": [
+        {
+          "firstname": "Steven",
+          "middlename": null,
+          "lastname": "ERLANGER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5253110838f0d81989740cff",
+    "word_count": 1083,
+    "score": 1.0,
+    "uri": "nyt://article/ff72d642-2b56-5bb4-be90-e45fe94849ab"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2013/10/08/world/middleeast/egypt-violence.html",
+    "snippet": "The lethal conflict between Egypt\u2019s military-backed government and its Islamist opponents grew on Monday, with an expansion of attacks against government targets.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/10/08/world/EGYPT/EGYPT-articleLarge.jpg",
+        "height": 400,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2013/10/08/world/EGYPT/EGYPT-articleLarge.jpg",
+          "xlargeheight": 400
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/10/08/world/EGYPT/EGYPT-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2013/10/08/world/EGYPT/EGYPT-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/10/08/world/EGYPT/EGYPT-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2013/10/08/world/EGYPT/EGYPT-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Egyptian Attacks Are Escalating Amid Stalemate",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Egyptian Attacks Are Escalating Amid Stalemate",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Egypt",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Muslim Brotherhood (Egypt)",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Terrorism",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Sinai Peninsula (Egypt)",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Middle East and North Africa Unrest (2010- )",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2013-10-07T15:03:45+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Middle East",
+    "byline": {
+      "original": "By DAVID D. KIRKPATRICK",
+      "person": [
+        {
+          "firstname": "David",
+          "middlename": null,
+          "lastname": null,
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5252cd5338f0d81989740c18",
+    "word_count": 1180,
+    "score": 1.0,
+    "uri": "nyt://article/f6d43118-a582-55ec-aa67-7e59c1ed19c5"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2013/10/09/dining/the-kolache-czech-texan-or-all-american-all-three.html",
+    "snippet": "Originally a snack in Central Europe, the kolache has never stopped evolving, with some saying it could be the next-generation doughnut.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/10/09/dining/09KOLACHES_395/09KOLACHES_SPAN-articleLarge.jpg",
+        "height": 400,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2013/10/09/dining/09KOLACHES_395/09KOLACHES_SPAN-articleLarge.jpg",
+          "xlargeheight": 400
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/10/09/dining/09KOLACHES_395/09KOLACHES_SPAN-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2013/10/09/dining/09KOLACHES_395/09KOLACHES_SPAN-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/10/09/dining/09KOLACHES_395/09KOLACHES_SPAN-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2013/10/09/dining/09KOLACHES_395/09KOLACHES_SPAN-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "The Kolache: Czech, Texan or All-American? (All Three)",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Czech-Tex Road Food",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Pastries",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Bakeries and Baked Products",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Cooking and Cookbooks",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Texas",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Czech Republic",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2013-10-07T19:24:04+0000",
+    "document_type": "article",
+    "new_desk": "Dining",
+    "byline": {
+      "original": "By JOHN T. EDGE",
+      "person": [
+        {
+          "firstname": "John",
+          "middlename": "T.",
+          "lastname": "EDGE",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "52530a5838f0d81989740cea",
+    "word_count": 1213,
+    "score": 1.0,
+    "uri": "nyt://article/216abda8-56d4-5d8a-89f7-a761fb3b6717"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2013/10/08/science/focusing-on-fruit-flies-curiosity-takes-flight.html",
+    "snippet": "For Michael Dickinson, a MacArthur prizewinning scientist, the humble fruit fly is a dream machine, and its brain a treasure trove of complexity that should be studied for its own sake, not just insight into humans.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/10/08/science/08PROF2/08PROF2-articleLarge.jpg",
+        "height": 406,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2013/10/08/science/08PROF2/08PROF2-articleLarge.jpg",
+          "xlargeheight": 406
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/10/08/science/08PROF2/08PROF2-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2013/10/08/science/08PROF2/08PROF2-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/10/08/science/08PROF2/08PROF2-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2013/10/08/science/08PROF2/08PROF2-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Focusing on Fruit Flies, Curiosity Takes Flight",
+      "kicker": "Profiles in Science",
+      "content_kicker": "Profiles in Science",
+      "print_headline": "Curiosity Takes Flight",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Dickinson, Michael H (1963- )",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Fruit Flies",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Research",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "University of Washington",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Brain",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Science and Technology",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Series",
+        "rank": 7,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2013-10-07T18:05:26+0000",
+    "document_type": "article",
+    "new_desk": "Science",
+    "byline": {
+      "original": "By JAMES GORMAN",
+      "person": [
+        {
+          "firstname": "James",
+          "middlename": null,
+          "lastname": "GORMAN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "Biography",
+    "_id": "5252f7e838f0d81989740cb0",
+    "word_count": 1841,
+    "score": 1.0,
+    "uri": "nyt://article/d9f5d7e5-3c01-54d6-8e2f-c7bd4c521863"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2013/10/07/nyregion/anxious-allies-aiding-booker-in-senate-bid.html",
+    "snippet": "Steve Lonegan, a Tea Party conservative who is running against Newark\u2019s mayor, Cory A. Booker, is reducing the gap between them in polls, alarming Democratic Party officials.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/10/07/nyregion/Y-BOOKER1/Y-BOOKER1-articleLarge.jpg",
+        "height": 429,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2013/10/07/nyregion/Y-BOOKER1/Y-BOOKER1-articleLarge.jpg",
+          "xlargeheight": 429
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/10/07/nyregion/Y-BOOKER1/Y-BOOKER1-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2013/10/07/nyregion/Y-BOOKER1/Y-BOOKER1-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/10/07/nyregion/Y-BOOKER1/Y-BOOKER1-thumbStandard-v2.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2013/10/07/nyregion/Y-BOOKER1/Y-BOOKER1-thumbStandard-v2.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Anxious Allies Aiding Booker in Senate Bid",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Anxious Allies Aiding Booker In Senate Bid",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Booker, Cory A",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Lonegan, Steven M",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Political Advertising",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Polls and Public Opinion",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Elections, Senate",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "New Jersey",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Independence USA",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Bloomberg, Michael R",
+        "rank": 8,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2013-10-07T03:00:36+0000",
+    "document_type": "article",
+    "new_desk": "Metro",
+    "byline": {
+      "original": "By MICHAEL BARBARO",
+      "person": [
+        {
+          "firstname": "Michael",
+          "middlename": null,
+          "lastname": "BARBARO",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "525223d838f0d81989740a96",
+    "word_count": 1292,
+    "score": 1.0,
+    "uri": "nyt://article/c2452bd7-4321-54ae-bbb0-a88421e21126"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2013/10/07/us/politics/supreme-court-has-deep-docket-in-its-new-term.html",
+    "snippet": "Affirmative action, abortion, public prayer and campaign contributions are among the issues to be addressed, with chances for the justices to reverse consequential precedents.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/10/07/us/jp-SCOTUS-2/jp-SCOTUS-2-articleLarge.jpg",
+        "height": 416,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2013/10/07/us/jp-SCOTUS-2/jp-SCOTUS-2-articleLarge.jpg",
+          "xlargeheight": 416
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/10/07/us/jp-SCOTUS-2/jp-SCOTUS-2-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2013/10/07/us/jp-SCOTUS-2/jp-SCOTUS-2-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/10/07/us/jp-SCOTUS-2/jp-SCOTUS-2-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2013/10/07/us/jp-SCOTUS-2/jp-SCOTUS-2-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Supreme Court Has Deep Docket in Its New Term",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Supreme Court Has Deep Docket In Its New Term",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "organizations",
+        "value": "Supreme Court (US)",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Politics and Government",
+        "rank": 2,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2013-10-07T04:13:25+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "byline": {
+      "original": "By ADAM LIPTAK",
+      "person": [
+        {
+          "firstname": "Adam",
+          "middlename": null,
+          "lastname": "LIPTAK",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "525234e938f0d81989740aef",
+    "word_count": 1282,
+    "score": 1.0,
+    "uri": "nyt://article/fe56445f-6333-580e-bf98-2846f8a60a1c"
+  }
+]

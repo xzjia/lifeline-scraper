@@ -1,0 +1,155 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2010/09/26/us/politics/26dems.html",
+    "snippet": "Many Democrats are deploying the fruits of a yearlong investigation into the business and personal histories of Republican candidates in an effort to plant doubts about them.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/09/26/us/DEMS-1/DEMS-1-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/09/26/us/DEMS-1/DEMS-1-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Democrats Unleash Ads Focusing on Rivals\u2019 Pasts",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "The Gloves Come Off Early\nFor the Midterm Elections: Democrats Unleash\nBiting Ads Based\non Rivals\u2019 Pasts",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "organizations",
+        "value": "Democratic Party",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Republican Party",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Politics and Government",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Political Advertising",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Elections",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-09-26T00:29:10+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "section_name": "Politics",
+    "byline": {
+      "original": "By JEFF ZELENY",
+      "person": [
+        {
+          "firstname": "Jeff",
+          "middlename": null,
+          "lastname": "ZELENY",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "541b06ca38f0d8296cb0efd4",
+    "word_count": 1249,
+    "score": 1.0,
+    "uri": "nyt://article/79431197-3641-5731-ba09-42e4a765c595"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2010/09/27/business/27libraries.html",
+    "snippet": "Library Systems & Services was hired to run the libraries of Santa Clarita, Calif., setting off an outsourcing debate.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "Anger as a Private Company Takes Over Libraries",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Outsourcing Fairly Healthy Public Libraries, Town Hears a Roar",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Outsourcing",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Libraries and Librarians",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "California",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-09-26T22:43:43+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By DAVID STREITFELD",
+      "person": [
+        {
+          "firstname": "David",
+          "middlename": null,
+          "lastname": "STREITFELD",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "541b0b7738f0d8296cb0f040",
+    "word_count": 1140,
+    "score": 1.0,
+    "uri": "nyt://article/1b024006-5e1c-5439-8c90-d2468e8d8139"
+  }
+]

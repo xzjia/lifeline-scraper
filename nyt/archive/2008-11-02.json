@@ -1,0 +1,220 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2008/11/03/sports/baseball/03leyritz.html",
+    "snippet": "The former Yankees catcher Jim Leyritz is awaiting trial in Florida on charges of manslaughter and driving under the influence of alcohol.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "For Leyritz, Future in Balance After a Fall",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "For Leyritz, Future In Balance After a Fall",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Leyritz, Jim",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "New York Yankees",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Drunken and Reckless Driving",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Families and Family Life",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Baseball",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2008-11-02T06:45:20+0000",
+    "document_type": "article",
+    "new_desk": "Sports",
+    "section_name": "Baseball",
+    "byline": {
+      "original": "By KATIE THOMAS",
+      "person": [
+        {
+          "firstname": "Katie",
+          "middlename": null,
+          "lastname": "THOMAS",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5479ae9e38f0d86bf592fb3f",
+    "word_count": 1984,
+    "score": 1.0,
+    "uri": "nyt://article/42afeacb-d361-567c-84a6-5878fbeb9152"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2008/11/03/books/03infl.html",
+    "snippet": "Three sets of researchers recently concluded that professors have virtually no impact on the political views and ideology of their students.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/11/03/arts/influespan.jpg",
+        "height": 326,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2008/11/03/arts/influespan.jpg",
+          "xlargeheight": 326
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/11/03/arts/influence75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2008/11/03/arts/influence75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Professors\u2019 Liberalism Contagious? Maybe Not",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Professors\u2019 Liberalism Contagious? Maybe Not",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Colleges and Universities",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Politics and Government",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "American Enterprise Institute for Public Policy Research",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Washington Times",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "George Mason University",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Brookings Institution",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Science (Journal)",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "American Political Science Assn",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Hamilton College",
+        "rank": 9,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "City University of New York",
+        "rank": 10,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "American Council of Trustees and Alumni",
+        "rank": 11,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2008-11-02T20:12:32+0000",
+    "document_type": "article",
+    "new_desk": "Culture",
+    "byline": {
+      "original": "By PATRICIA COHEN",
+      "person": [
+        {
+          "firstname": "Patricia",
+          "middlename": null,
+          "lastname": "COHEN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5479af2c38f0d86bf592fb50",
+    "word_count": 946,
+    "score": 1.0,
+    "uri": "nyt://article/765cd227-1f3b-5e68-bd28-94eb2c1a38a7"
+  }
+]

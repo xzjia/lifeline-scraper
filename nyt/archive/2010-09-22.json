@@ -1,0 +1,572 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2010/09/23/health/research/23mammogram.html",
+    "snippet": "A new study suggests awareness and treatments are the main force in reducing the breast cancer death rate.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/09/23/us/mammogram/mammogram-articleLarge.jpg",
+        "height": 315,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2010/09/23/us/mammogram/mammogram-articleLarge.jpg",
+          "xlargeheight": 315
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/09/23/us/mammogram/mammogram-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2010/09/23/us/mammogram/mammogram-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/09/23/us/mammogram/mammogram-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/09/23/us/mammogram/mammogram-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Mammograms\u2019 Value in Cancer Fight at Issue",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "New Treatments Are Challenging Mammogram\u2019s Need, Study Says",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Mammography",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Cancer",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Breasts",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Norway",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-09-22T22:27:03+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "section_name": "Research",
+    "byline": {
+      "original": "By GINA KOLATA",
+      "person": [
+        {
+          "firstname": "Gina",
+          "middlename": null,
+          "lastname": "KOLATA",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "541ae35238f0d80959e6d481",
+    "word_count": 1190,
+    "score": 1.0,
+    "uri": "nyt://article/6edf8058-b083-515e-899f-170cf5aea77e"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2010/09/23/us/politics/23repubs.html",
+    "snippet": "House Republicans on Thursday are issuing a legislative blueprint called \u201cA Pledge to America\u201d that they hope will catapult them to a majority in the November elections.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/09/24/us/24republicansspan-cnd/24republicansspan-cnd-articleLarge.jpg",
+        "height": 330,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2010/09/24/us/24republicansspan-cnd/24republicansspan-cnd-articleLarge.jpg",
+          "xlargeheight": 330
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/09/24/us/24republicansspan-cnd/24republicansspan-cnd-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/09/24/us/24republicansspan-cnd/24republicansspan-cnd-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "G.O.P. Cites Tax Cuts and Health Care as Main Focus",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "G.O.P. Agenda To Take House Pushes Tax Cut",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "organizations",
+        "value": "Republican Party",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "House of Representatives",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Boehner, John A",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Health Insurance and Managed Care",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Taxation",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Patient Protection and Affordable Care Act (2010)",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-09-22T23:35:55+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "section_name": "Politics",
+    "byline": {
+      "original": "By DAVID M. HERSZENHORN",
+      "person": [
+        {
+          "firstname": "David",
+          "middlename": null,
+          "lastname": null,
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "541ae40d38f0d80959e6d492",
+    "word_count": 1053,
+    "score": 1.0,
+    "uri": "nyt://article/fa466395-5448-57da-b416-d7c5a1fdc549"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2010/09/23/technology/personaltech/23pogue.html",
+    "snippet": "Move over, S.L.R.\u2019s, here comes the Alpha A55 camera, an I.L.C. (interchangeable-lens compact) from Sony.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/09/23/technology/personaltech/23pogue-web1/23pogue-web1-thumbStandard-v2.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/09/23/technology/personaltech/23pogue-web1/23pogue-web1-thumbStandard-v2.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Sony Raises Camera Feats to New Level",
+      "kicker": "State of the Art",
+      "content_kicker": "State of the Art",
+      "print_headline": "Sony Raises Camera Feats To New Level",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Cameras",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "SONY Corporation",
+        "rank": 2,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-09-22T22:05:47+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "section_name": "Personal Tech",
+    "byline": {
+      "original": "By DAVID POGUE",
+      "person": [
+        {
+          "firstname": "David",
+          "middlename": null,
+          "lastname": "POGUE",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "Review",
+    "_id": "541ae27438f0d80959e6d46d",
+    "word_count": 1326,
+    "score": 1.0,
+    "uri": "nyt://article/5546ee21-7ddd-52b2-a793-34e1199ef904"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2010/09/23/technology/23facebook.html",
+    "snippet": "The currency, Credits, passed a milestone as the top developer of Facebook applications adopted it this month.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/09/23/business/23facebook1/23facebook1-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/09/23/business/23facebook1/23facebook1-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Facebook Hopes Credits Make Dollars",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "New Money, Online Only",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "organizations",
+        "value": "Facebook.com",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "E-Commerce",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Zynga Game Network",
+        "rank": 3,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-09-22T18:01:27+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By MIGUEL HELFT",
+      "person": [
+        {
+          "firstname": "Miguel",
+          "middlename": null,
+          "lastname": "HELFT",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "541adfa038f0d80959e6d428",
+    "word_count": 1149,
+    "score": 1.0,
+    "uri": "nyt://article/132ba3fb-7338-5f78-be10-0b632119d3ae"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2010/09/23/business/23insure.html",
+    "snippet": "Many companies are altering their business models to handle new health care regulations.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "Insurers Scramble to Comply With New Rules",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "For Insurers, Health Care Reckoning Has Arrived",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Patient Protection and Affordable Care Act (2010)",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Health Insurance and Managed Care",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Law and Legislation",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Reform and Reorganization",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Medicine and Health",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-09-22T22:26:41+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By REED ABELSON",
+      "person": [
+        {
+          "firstname": "Reed",
+          "middlename": null,
+          "lastname": "ABELSON",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "541adffc38f0d80959e6d431",
+    "word_count": 1118,
+    "score": 1.0,
+    "uri": "nyt://article/2812d51a-b7fe-5934-9ae5-b3dd2c948a53"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2010/09/22/business/22eggs.html",
+    "snippet": "Farms tied to one of the country\u2019s biggest egg producers were a source of salmonella in the 1980s and recently.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/09/22/business/EGGS/EGGS-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/09/22/business/EGGS/EGGS-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "An Iowa Egg Farmer and a History of Salmonella",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "An Egg Farmer And a History Of Salmonella",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Salmonella (Bacteria)",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Eggs",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "DeCoster, Austin J",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Food Contamination and Poisoning",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Farmers",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Factory Farming",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Regulation and Deregulation of Industry",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Recalls and Bans of Products",
+        "rank": 8,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-09-22T01:11:17+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By WILLIAM NEUMAN",
+      "person": [
+        {
+          "firstname": "William",
+          "middlename": null,
+          "lastname": "NEUMAN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "541adc4938f0d80959e6d3da",
+    "word_count": 1585,
+    "score": 1.0,
+    "uri": "nyt://article/b1557cbc-0962-56eb-8776-188858dd775e"
+  }
+]

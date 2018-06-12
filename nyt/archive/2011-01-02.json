@@ -1,0 +1,360 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2011/01/02/business/02showdown.html",
+    "snippet": "Across the nation, irritation with public employee unions is palpable as state, city and town budgets suffer.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "Public Workers Face Outrage as Budget Crises Grow",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "PUBLIC WORKERS\nFACING OUTRAGE\nIN BUDGET CRISIS",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Organized Labor",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Politics and Government",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Economic Conditions and Trends",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Pensions and Retirement Plans",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Christie, Christopher J",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "New Jersey",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Government Employees",
+        "rank": 7,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-01-02T02:06:01+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By MICHAEL POWELL",
+      "person": [
+        {
+          "firstname": "Michael",
+          "middlename": null,
+          "lastname": "POWELL",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5406107d38f0d81983bde4e2",
+    "word_count": 1590,
+    "score": 1.0,
+    "uri": "nyt://article/ad1dc78e-48a0-500f-979d-2d6e3b4377ae"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/01/03/world/asia/03japan.html",
+    "snippet": "Immigration provides one remedy to Japan\u2019s lethargic economy, but Tokyo is resisting accepting young workers.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/01/03/world/03japan1_span/japan-articleLarge.jpg",
+        "height": 350,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2011/01/03/world/03japan1_span/japan-articleLarge.jpg",
+          "xlargeheight": 350
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/01/03/world/03japan1_span/japan-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/01/03/world/03japan1_span/japan-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Japan Keeps a High Wall for Foreign Labor",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "THE GREAT DEFLATION; Despite Shortage, Japan Keeps A High Wall for Foreign Labor",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Japan",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Migrant and Foreign Workers",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Immigration and Emigration",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Economic Conditions and Trends",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Labor and Jobs",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Population",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-01-02T23:44:34+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Asia Pacific",
+    "byline": {
+      "original": "By HIROKO TABUCHI",
+      "person": [
+        {
+          "firstname": "Hiroko",
+          "middlename": null,
+          "lastname": "TABUCHI",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "540613c438f0d81983bde52a",
+    "word_count": 1488,
+    "score": 1.0,
+    "uri": "nyt://article/cfb7066b-8b87-558e-9dc4-0dc381da474a"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/01/03/business/03wikileaks-boeing.html",
+    "snippet": "Sales campaigns for commercial jets on the global market often include politicking and cajoling at the highest levels of government.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/01/03/business/BOEING1/BOEING1-articleLarge.jpg",
+        "height": 330,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2011/01/03/business/BOEING1/BOEING1-articleLarge.jpg",
+          "xlargeheight": 330
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/01/03/business/BOEING1/BOEING1-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/01/03/business/BOEING1/BOEING1-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Diplomats Help Push Sales of Jetliners on the Global Market",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "STATE'S SECRETS: Hidden Hand of Diplomats in Jet Deals",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "United States International Relations",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Boeing Co",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Airbus Industrie",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Classified Information and State Secrets",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Airlines and Airplanes",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Military Aircraft",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "State Department",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "National Aeronautics and Space Administration",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Wikileaks",
+        "rank": 9,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Europe",
+        "rank": 10,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-01-02T21:08:32+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By ERIC LIPTON, NICOLA CLARK and ANDREW W. LEHREN",
+      "person": [
+        {
+          "firstname": "Eric",
+          "middlename": null,
+          "lastname": "LIPTON",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Nicola",
+          "middlename": null,
+          "lastname": "CLARK",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        },
+        {
+          "firstname": "Andrew",
+          "middlename": "W.",
+          "lastname": "LEHREN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 3
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5406126938f0d81983bde50b",
+    "word_count": 1884,
+    "score": 1.0,
+    "uri": "nyt://article/b3cd1e6b-c482-5486-832d-0d95d76df1cd"
+  }
+]

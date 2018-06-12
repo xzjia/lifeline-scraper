@@ -1,0 +1,184 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2008/02/12/business/12distract.html",
+    "snippet": "Safety experts say the influx of electronics is turning cars into sometimes chaotic moving family rooms.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/02/12/business/12distract.600.jpg",
+        "height": 302,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2008/02/12/business/12distract.600.jpg",
+          "xlargeheight": 302
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "High-Tech Invitations Take Your Mind Off Road",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "More High-Tech Invitations To Take Your Mind Off Road",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Automobiles",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Computers and the Internet",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Accidents and Safety",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Wireless Communications",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Electronics",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "National Highway Traffic Safety Administration",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Center for Auto Safety",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Insurance Institute for Highway Safety",
+        "rank": 8,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2008-02-12T05:00:00+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By BILL VLASIC",
+      "person": [
+        {
+          "firstname": "Bill",
+          "middlename": null,
+          "lastname": "VLASIC",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "547dde9e38f0d822abda2e19",
+    "word_count": 1297,
+    "score": 1.0,
+    "uri": "nyt://article/b8b491a5-d790-5cc0-9e9b-105e8212a731"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2008/02/12/health/12mimic.html",
+    "snippet": "Trying to decode the subtle cues that lead to human rapport, scientists have trained their focus on mimicry.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/02/12/science/12mimic.751.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2008/02/12/science/12mimic.751.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "You Remind Me of Me",
+      "kicker": "Mind",
+      "content_kicker": "Mind",
+      "print_headline": "You Remind Me of Me",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Psychology and Psychologists",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Conversation",
+        "rank": 2,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2008-02-12T05:00:00+0000",
+    "document_type": "article",
+    "new_desk": "Science",
+    "byline": {
+      "original": "By BENEDICT CAREY",
+      "person": [
+        {
+          "firstname": "Benedict",
+          "middlename": null,
+          "lastname": "CAREY",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "547dd92438f0d822abda2d9c",
+    "word_count": 1497,
+    "score": 1.0,
+    "uri": "nyt://article/219879ab-cb74-5b39-ab7c-8b7bdf50d391"
+  }
+]

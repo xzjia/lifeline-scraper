@@ -1,0 +1,730 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2008/09/16/world/europe/16georgia.html",
+    "snippet": "Georgia says intercepted phone calls show it was under invasion by Russia.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/09/16/world/16georgia_600.jpg",
+        "height": 310,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2008/09/16/world/16georgia_600.jpg",
+          "xlargeheight": 310
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Georgia Offers Fresh Evidence on War\u2019s Start",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "GEORGIA OFFERS FRESH EVIDENCE ON WAR\u2019S START",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Georgia (Georgian Republic)",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Russia",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Armament, Defense and Military Forces",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Wiretapping and Other Eavesdropping Devices and Methods",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Politics and Government",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Saakashvili, Mikheil",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Putin, Vladimir V",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Medvedev, Dmitri A",
+        "rank": 8,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2008-09-16T02:39:19+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Europe",
+    "byline": {
+      "original": "By C.J. CHIVERS",
+      "person": [
+        {
+          "firstname": "C.",
+          "middlename": "J.",
+          "lastname": "CHIVERS",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5477efeb38f0d854b20b2687",
+    "word_count": 2023,
+    "score": 1.0,
+    "uri": "nyt://article/ee1e6d89-4946-5b77-9d59-c46fbd60db30"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2008/09/16/us/politics/16record.html",
+    "snippet": "John McCain pointed to greed on Wall Street, and Barack Obama linked problems to lax regulation.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/09/16/us/16record.600.jpg",
+        "height": 280,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2008/09/16/us/16record.600.jpg",
+          "xlargeheight": 280
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "In Candidates, 2 Approaches to Wall Street",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "In Candidates, 2 Approaches To Wall Street",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Presidential Election of 2008",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Regulation and Deregulation of Industry",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "McCain, John",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Obama, Barack",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Economy",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Politics and Government",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Banks and Banking",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Law and Legislation",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Merrill Lynch & Co",
+        "rank": 9,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Lehman Brothers Holdings Inc",
+        "rank": 10,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Democratic Party",
+        "rank": 11,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Republican Party",
+        "rank": 12,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Gramm, Phil",
+        "rank": 13,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Greenspan, Alan",
+        "rank": 14,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Rubin, Robert E",
+        "rank": 15,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2008-09-16T01:53:24+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "section_name": "Politics",
+    "byline": {
+      "original": "By JACKIE CALMES",
+      "person": [
+        {
+          "firstname": "Jackie",
+          "middlename": null,
+          "lastname": "CALMES",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5474d71b38f0d8119c6aeeb4",
+    "word_count": 1449,
+    "score": 1.0,
+    "uri": "nyt://article/ff5d971f-0fbb-5480-9248-8389865e4cc3"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2008/09/16/health/16emer.html",
+    "snippet": "Many emergency room patients are discharged without understanding how to care for themselves once they get home, researchers say.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/09/15/health/16emer01_75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2008/09/15/health/16emer01_75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "E.R. Patients Often Left Confused After Visits",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "E.R. Patients Often Left Confused After Visits",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Medicine and Health",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Emergency Medical Treatment",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Hospitals",
+        "rank": 3,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2008-09-16T01:46:55+0000",
+    "document_type": "article",
+    "new_desk": "Science",
+    "byline": {
+      "original": "By LAURIE TARKAN",
+      "person": [
+        {
+          "firstname": "Laurie",
+          "middlename": null,
+          "lastname": "TARKAN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5477eebc38f0d854b20b2669",
+    "word_count": 1245,
+    "score": 1.0,
+    "uri": "nyt://article/1c063a67-4647-581b-b10a-e02829774e59"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2008/09/16/business/16paulson.html",
+    "snippet": "Investors suffered their worst losses since the terrorist attacks of 2001, and government officials raced to prevent the financial crisis from spreading.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/09/16/business/16paulson01-600.jpg",
+        "height": 300,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2008/09/16/business/16paulson01-600.jpg",
+          "xlargeheight": 300
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/09/16/business/16paulson01-75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2008/09/16/business/16paulson01-75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Wall St. in Worst Loss Since \u201901 Despite Reassurances by Bush",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "WALL ST. IN WORST LOSS SINCE \u201901\nDESPITE REASSURANCES BY BUSH",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Dow Jones Stock Average",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Stocks and Bonds",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Paulson, Henry M Jr",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Finances",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Economy",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Mortgages",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Credit",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Banks and Banking",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Economic Conditions and Trends",
+        "rank": 9,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Brokers and Brokerage Firms",
+        "rank": 10,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Lehman Brothers Holdings Inc",
+        "rank": 11,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Merrill Lynch & Co",
+        "rank": 12,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "American International Group",
+        "rank": 13,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Federal Reserve System",
+        "rank": 14,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Morgan, J P, Chase & Co",
+        "rank": 15,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Goldman Sachs Group Incorporated",
+        "rank": 16,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Bank of America Corp",
+        "rank": 17,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Bush, George W",
+        "rank": 18,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Lewis, Kenneth D",
+        "rank": 19,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2008-09-16T01:52:02+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By STEPHEN LABATON",
+      "person": [
+        {
+          "firstname": "Stephen",
+          "middlename": null,
+          "lastname": "LABATON",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5474d71638f0d8119c6aeeb2",
+    "word_count": 1395,
+    "score": 1.0,
+    "uri": "nyt://article/53551758-b561-50b1-ad1e-cdf1f0d07706"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2008/09/17/business/17insure.html",
+    "snippet": "Fearing a financial crisis, the Fed reversed course and agreed to bail out A.I.G. in the central bank\u2019s most radical intervention.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/09/17/business/17insure01-75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2008/09/17/business/17insure01-75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Fed\u2019s $85 Billion Loan Rescues Insurer",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "FED IN AN $85 BILLION RESCUE\nOF AN INSURER NEAR FAILURE",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "organizations",
+        "value": "American International Group",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Federal Reserve System",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Finances",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Credit",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Stocks and Bonds",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Insurance",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Politics and Government",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Bankruptcies",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Bernanke, Ben S",
+        "rank": 9,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Paulson, Henry M Jr",
+        "rank": 10,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Frank, Barney",
+        "rank": 11,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Lehman Brothers Holdings Inc",
+        "rank": 12,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Merrill Lynch & Co",
+        "rank": 13,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Bank of America Corp",
+        "rank": 14,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Morgan, J P, Chase & Co",
+        "rank": 15,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Bear Stearns Cos",
+        "rank": 16,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Goldman Sachs Group Incorporated",
+        "rank": 17,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Greenberg, Maurice R",
+        "rank": 18,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Economy",
+        "rank": 19,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2008-09-16T23:23:00+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By EDMUND L. ANDREWS, MICHAEL J. de la MERCED and MARY WILLIAMS WALSH",
+      "person": [
+        {
+          "firstname": "Edmund",
+          "middlename": "L.",
+          "lastname": "ANDREWS",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Michael",
+          "middlename": "J.",
+          "lastname": "de la MERCED",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        },
+        {
+          "firstname": "Mary",
+          "middlename": "Williams",
+          "lastname": "WALSH",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 3
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5474d75f38f0d8119c6aeec1",
+    "word_count": 1809,
+    "score": 1.0,
+    "uri": "nyt://article/7eefcf36-780f-5a35-be82-95d12bd74766"
+  }
+]

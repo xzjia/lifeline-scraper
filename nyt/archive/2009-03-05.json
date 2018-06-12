@@ -1,0 +1,375 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2009/03/06/business/06food.html",
+    "snippet": "Food manufacturers are increasingly hiring private auditors, but problems with contamination remain.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/03/06/business/06food_600.JPG",
+        "height": 331,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/03/06/business/06food_600.JPG",
+          "xlargeheight": 331
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/03/06/business/06food_75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/03/06/business/06food_75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Food Problems Elude Private Inspectors",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Food Safety Problems Elude Private Inspectors",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Food Contamination and Poisoning",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Accidents and Safety",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Salmonella (Bacteria)",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Peanut Corporation of America",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-03-05T20:07:43+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By MICHAEL MOSS and ANDREW MARTIN",
+      "person": [
+        {
+          "firstname": "Michael",
+          "middlename": null,
+          "lastname": "MOSS",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Andrew",
+          "middlename": null,
+          "lastname": "MARTIN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5467f8e038f0d81e5cd0ce56",
+    "word_count": 1852,
+    "score": 1.0,
+    "uri": "nyt://article/f57835dd-e2b1-5fc6-8ab5-c5df07c06c76"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/03/05/world/asia/05tibet.html",
+    "snippet": "Chinese authorities have imposed unofficial martial law in areas where ethnic Tibetans live.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/03/05/world/05tibet_600.JPG",
+        "height": 331,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/03/05/world/05tibet_600.JPG",
+          "xlargeheight": 331
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/03/05/world/05tibet_75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/03/05/world/05tibet_75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "50 Years After Revolt, Clampdown on Tibetans",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "50 Years After Revolt, Clampdown on Tibetans",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Tibet",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "China",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Martial Law",
+        "rank": 3,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-03-05T00:40:27+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Asia Pacific",
+    "byline": {
+      "original": "By EDWARD WONG",
+      "person": [
+        {
+          "firstname": "Edward",
+          "middlename": null,
+          "lastname": "WONG",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5467f0a538f0d81e5cd0cd97",
+    "word_count": 1207,
+    "score": 1.0,
+    "uri": "nyt://article/2e431eb0-dbe3-5c3c-b0ae-61c720c064c9"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/03/06/business/06auto.html",
+    "snippet": "As G.M. reported that its survival was in doubt, the White House said that helping the auto industry was a priority.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/03/06/business/06auto01-600.jpg",
+        "height": 320,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/03/06/business/06auto01-600.jpg",
+          "xlargeheight": 320
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Auditors Raise Doubts About G.M.\u2019s Viability",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Auditors Doubtful About G.M.",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "organizations",
+        "value": "General Motors Corp",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Bankruptcies",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Subprime Mortgage Crisis",
+        "rank": 3,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-03-05T12:11:59+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By NICK BUNKLEY",
+      "person": [
+        {
+          "firstname": "Nick",
+          "middlename": null,
+          "lastname": "BUNKLEY",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5467f4ce38f0d81e5cd0cdf3",
+    "word_count": 721,
+    "score": 1.0,
+    "uri": "nyt://article/6182dd39-f170-5e5f-aaac-cadba451cfb3"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/03/06/nyregion/06klein.html",
+    "snippet": "With the city\u2019s takeover up for renewal, the tenure of Chancellor Joel I. Klein will be examined closely.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/03/06/nyregion/06klei.75.ms.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/03/06/nyregion/06klei.75.ms.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Taking Sides on New York\u2019s School Chancellor",
+      "kicker": "Controlling Interests",
+      "content_kicker": "Controlling Interests",
+      "print_headline": "Debate on New York Schools Pivots on One Man at the Top",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Klein, Joel I",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Education and Schools",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "New York City",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Teachers and School Employees",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-03-05T23:07:51+0000",
+    "document_type": "article",
+    "new_desk": "Metro",
+    "byline": {
+      "original": "By ELISSA GOOTMAN",
+      "person": [
+        {
+          "firstname": "Elissa",
+          "middlename": null,
+          "lastname": "GOOTMAN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "Series",
+    "_id": "5467fc3438f0d81e5cd0ce97",
+    "word_count": 1933,
+    "score": 1.0,
+    "uri": "nyt://article/d06b842c-4d95-511d-b7aa-f3a367c4146d"
+  }
+]

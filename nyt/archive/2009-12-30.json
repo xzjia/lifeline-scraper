@@ -1,0 +1,655 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2009/12/31/books/31babysitters.html",
+    "snippet": "Scholastic Inc. plans to reissue repackaged versions of the first two volumes of \u201cThe Baby-Sitters Club,\u201d in the hopes of igniting enthusiasm in a new generation of readers.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/12/31/arts/31babysitters_CA0/articleLarge.jpg",
+        "height": 360,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/12/31/arts/31babysitters_CA0/articleLarge.jpg",
+          "xlargeheight": 360
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/12/31/arts/31babysitters_CA0/thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/12/31/arts/31babysitters_CA0/thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Comeback Planned for Girls\u2019 Book Series",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Comeback Planned For Girls\u2019 Book Series",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Martin, Ann M",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Books and Literature",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Book Trade",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Scholastic Inc",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-12-30T18:37:59+0000",
+    "document_type": "article",
+    "new_desk": "Culture",
+    "byline": {
+      "original": "By MOTOKO RICH",
+      "person": [
+        {
+          "firstname": "Motoko",
+          "middlename": null,
+          "lastname": "RICH",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "545b04ad38f0d842c59d1fab",
+    "word_count": 1021,
+    "score": 1.0,
+    "uri": "nyt://article/3db173ac-291e-554a-a127-a79a7e58fb03"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/12/30/nyregion/30foreclose.html",
+    "snippet": "Despite legal assistance, New Yorkers learn that lenders have little incentive to renegotiate their mortgages.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/12/30/nyregion/30foreclose_CA0/articleLarge.jpg",
+        "height": 381,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/12/30/nyregion/30foreclose_CA0/articleLarge.jpg",
+          "xlargeheight": 381
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/12/30/nyregion/30foreclose_CA0/thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/12/30/nyregion/30foreclose_CA0/thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Billions to Fight Foreclosure, but Few New Loans",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Billions to Fight Foreclosure, But New Loans for Just a Few",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Homeowner Affordability and Stability Plan",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Foreclosures",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "New York City",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Mortgages",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Credit",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Wells Fargo & Co",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Bank of America Corp",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Morgan, J P, Chase & Co",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Legal Aid Society",
+        "rank": 9,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Obama, Barack",
+        "rank": 10,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-12-30T01:51:57+0000",
+    "document_type": "article",
+    "new_desk": "Metro",
+    "byline": {
+      "original": "By MICHAEL POWELL",
+      "person": [
+        {
+          "firstname": "Michael",
+          "middlename": null,
+          "lastname": "POWELL",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "545b011a38f0d842c59d1f54",
+    "word_count": 1461,
+    "score": 1.0,
+    "uri": "nyt://article/0d18d63f-e2ca-5729-93e8-65d3dc14a3e8"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/12/31/technology/personaltech/31pogue.html",
+    "snippet": "The great, clever features of the year that somehow made it past the obstacles of cost, engineering and lawyers.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/12/31/technology/personaltech/31pogue1/articleLarge.jpg",
+        "height": 300,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/12/31/technology/personaltech/31pogue1/articleLarge.jpg",
+          "xlargeheight": 300
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/12/31/technology/personaltech/31pogue1/thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/12/31/technology/personaltech/31pogue1/thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "The Pogie Awards for the Year\u2019s Best Tech Ideas",
+      "kicker": "State of the Art",
+      "content_kicker": "State of the Art",
+      "print_headline": "The Best Tech Ideas Of the Year",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Computers and the Internet",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Wireless Communications",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Motorola Inc",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Awards, Decorations and Honors",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-12-30T18:45:41+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "section_name": "Personal Tech",
+    "byline": {
+      "original": "By DAVID POGUE",
+      "person": [
+        {
+          "firstname": "David",
+          "middlename": null,
+          "lastname": "POGUE",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "545b050738f0d842c59d1fb6",
+    "word_count": 1287,
+    "score": 1.0,
+    "uri": "nyt://article/8847cf99-013a-5796-8c43-d3a525826105"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2010/01/03/arts/music/03tech.html",
+    "snippet": "Because songs are small chunks of information that many people want, music was the canary in the digital coal mine.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/12/31/arts/03artsleisure_secfront_illo/articleLarge.jpg",
+        "height": 350,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/12/31/arts/03artsleisure_secfront_illo/articleLarge.jpg",
+          "xlargeheight": 350
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/12/31/arts/03artsleisure_secfront_illo/thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/12/31/arts/03artsleisure_secfront_illo/thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "A World of Megabeats and Megabytes",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "A World Of Megabeats And Megabytes",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Computers and the Internet",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Music",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Recordings and Downloads (Audio)",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "E-Commerce",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "iPod",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-12-30T22:15:31+0000",
+    "document_type": "article",
+    "new_desk": "Arts&Leisure",
+    "section_name": "Music",
+    "byline": {
+      "original": "By JON PARELES",
+      "person": [
+        {
+          "firstname": "Jon",
+          "middlename": null,
+          "lastname": "PARELES",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "542456f038f0d8525e453311",
+    "word_count": 2013,
+    "score": 1.0,
+    "uri": "nyt://article/841d0951-9cc1-5d2a-b52c-e995eba12278"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/12/30/business/economy/30leonhardt.html",
+    "snippet": "In Richmond, Va., where hospital beds are fewer, health care looks like the rest of the country\u2019s, but cheaper.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "Health Cuts With Little Effect on Care",
+      "kicker": "Economic Scene",
+      "content_kicker": "Economic Scene",
+      "print_headline": "Where Cuts Haven\u2019t Hurt Patients",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Health Insurance and Managed Care",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Reform and Reorganization",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Medicine and Health",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Virginia",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Medicare",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Law and Legislation",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-12-30T00:18:33+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "section_name": "Economy",
+    "byline": {
+      "original": "By DAVID LEONHARDT",
+      "person": [
+        {
+          "firstname": "David",
+          "middlename": null,
+          "lastname": "LEONHARDT",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "545affe238f0d842c59d1f3d",
+    "word_count": 1267,
+    "score": 1.0,
+    "uri": "nyt://article/4ce26f6a-9437-5677-ab7d-711bea6efbad"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/12/31/garden/31dwr.html",
+    "snippet": "Design Within Reach, the company dedicated to popularizing modern design, is facing change and critics. ",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/12/31/garden/31dwrspan-1/articleLarge.jpg",
+        "height": 331,
+        "width": 600,
+        "legacy": {
+          "xlarge": "images/2009/12/31/garden/31dwrspan-1/articleLarge.jpg",
+          "xlargewidth": 600,
+          "xlargeheight": 331
+        },
+        "subType": "xlarge",
+        "crop_name": "articleLarge"
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/12/31/garden/31dwrspan-1/thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnail": "images/2009/12/31/garden/31dwrspan-1/thumbStandard.jpg",
+          "thumbnailwidth": 75,
+          "thumbnailheight": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": "thumbStandard"
+      },
+      {
+        "rank": 0,
+        "subtype": "popup",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/12/31/garden/31dwrspan-1/articleLarge.jpg",
+        "height": 331,
+        "width": 600,
+        "legacy": {},
+        "subType": "popup",
+        "crop_name": "popup"
+      }
+    ],
+    "headline": {
+      "main": "Is a Solution Within Reach?",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Is a Solution Within Reach?",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "organizations",
+        "value": "Design Within Reach",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Furniture",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Design",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Rockwell, David",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Forbes, Rob",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-12-30T22:22:56+0000",
+    "document_type": "article",
+    "new_desk": "Home",
+    "byline": {
+      "original": "By FRED A. BERNSTEIN",
+      "person": [
+        {
+          "firstname": "Fred",
+          "middlename": "A.",
+          "lastname": "BERNSTEIN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "545b063f38f0d842c59d1fd3",
+    "word_count": 1723,
+    "score": 1.0,
+    "uri": "nyt://article/4a5d1097-532c-5aac-b002-3c139ffadef1"
+  }
+]

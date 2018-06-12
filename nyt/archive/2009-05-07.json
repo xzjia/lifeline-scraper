@@ -1,0 +1,340 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2009/05/08/business/08stress.html",
+    "snippet": "After subjecting the biggest U.S. banks to stress tests, regulators ordered 10 to raise more capital and gave the rest clean bills of health.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/05/07/business/08stress2_75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/05/07/business/08stress2_75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Ailing Banks Need $75 Billion, U.S. Says",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "BANKS TOLD THEY NEED $75 BILLION IN EXTRA CAPITAL",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Obama Financial Stability Plan",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Banks and Banking",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Citigroup Inc",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Wells Fargo & Co",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Bank of New York Mellon Corp",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Economy",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Emergency Economic Stabilization Act (2008)",
+        "rank": 7,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-05-07T21:05:46+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By EDMUND L. ANDREWS",
+      "person": [
+        {
+          "firstname": "Edmund",
+          "middlename": "L.",
+          "lastname": "ANDREWS",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "546a54b938f0d84ca2c5c19e",
+    "word_count": 1205,
+    "score": 1.0,
+    "uri": "nyt://article/be942992-0205-594b-ab2f-95ec77fa9f16"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/05/07/us/07layoff.html",
+    "snippet": "The often personal task of laying off workers can inflict a large emotional toll on small-business managers.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/05/07/us/07layoffs2-600.jpg",
+        "height": 331,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/05/07/us/07layoffs2-600.jpg",
+          "xlargeheight": 331
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/05/07/us/07layoffs2-75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/05/07/us/07layoffs2-75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "For Small Employers, Shedding Workers and Tears",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "For Small Employers, Rounds of Shedding Workers and Tears",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Layoffs and Job Reductions",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Small Business",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Emotions",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Economy",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Recession and Depression",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-05-07T01:16:29+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "byline": {
+      "original": "By MICHAEL LUO",
+      "person": [
+        {
+          "firstname": "Michael",
+          "middlename": null,
+          "lastname": "LUO",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "546a4ced38f0d84ca2c5c0da",
+    "word_count": 1074,
+    "score": 1.0,
+    "uri": "nyt://article/da83fec2-b825-51d8-ae88-7e57f656f67e"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/05/07/us/politics/07obama.html",
+    "snippet": "Some gay activists have counseled patience, but others are suspicious of his commitment to their cause.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/05/07/us/politics/07obama.span.jpg",
+        "height": 278,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/05/07/us/politics/07obama.span.jpg",
+          "xlargeheight": 278
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/05/07/us/politics/07obama.75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/05/07/us/politics/07obama.75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "As Gay Issues Arise, Obama Is Pressed to Engage",
+      "kicker": "White House Memo",
+      "content_kicker": "White House Memo",
+      "print_headline": "Gay Issues in View, Obama Is Pressed to Engage",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Homosexuality",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Obama, Barack",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Same-Sex Marriage, Civil Unions and Domestic Partnerships",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Supreme Court",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Politics and Government",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Law and Legislation",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Sullivan, Kathleen M",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Karlan, Pamela S",
+        "rank": 8,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-05-07T01:41:56+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "section_name": "Politics",
+    "byline": {
+      "original": "By SHERYL GAY STOLBERG",
+      "person": [
+        {
+          "firstname": "Sheryl",
+          "middlename": "Gay",
+          "lastname": "STOLBERG",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "546a4dc338f0d84ca2c5c0f0",
+    "word_count": 997,
+    "score": 1.0,
+    "uri": "nyt://article/bd55ebe5-8645-50b0-a2df-e249eb127707"
+  }
+]

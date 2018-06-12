@@ -1,0 +1,183 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2010/02/18/us/18campers.html",
+    "snippet": "An itinerant army of retirees is realizing dreams of life on the road in a way that benefits struggling state and national parks.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/02/18/us/18campers_CA2/18campers_CA2-articleLarge.jpg",
+        "height": 315,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2010/02/18/us/18campers_CA2/18campers_CA2-articleLarge.jpg",
+          "xlargeheight": 315
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/02/18/us/18campers_CA2/18campers_CA2-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/02/18/us/18campers_CA2/18campers_CA2-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Retirees Trade Work for Rent at Cash-Poor Parks",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Roving Retirees Trade Work For Rent at Cash-Poor Parks",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Volunteers",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Parks and Other Recreation Areas",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Retirement",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Camps and Camping",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-02-18T02:00:01+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "byline": {
+      "original": "By KIRK JOHNSON",
+      "person": [
+        {
+          "firstname": "Kirk",
+          "middlename": null,
+          "lastname": "JOHNSON",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5442faf138f0d8246e88c939",
+    "word_count": 1069,
+    "score": 1.0,
+    "uri": "nyt://article/885acefc-bee2-59ff-a2eb-4be01ea7f20e"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2010/02/18/business/18regulate.html",
+    "snippet": "The White House and Senate are nearing agreement on forming a council, led by the Treasury secretary, to identify systemic risk to the financial system.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "Agreement Is Near on New Overseer of Banking Risks",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Accord Close On Oversight Of Bank Risk",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Banks and Banking",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Regulation and Deregulation of Industry",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Treasury Department",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Federal Reserve System",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Bernanke, Ben S",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Politics and Government",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-02-18T02:18:04+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By SEWELL CHAN",
+      "person": [
+        {
+          "firstname": "Sewell",
+          "middlename": null,
+          "lastname": "CHAN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5442fc3b38f0d8246e88c957",
+    "word_count": 1199,
+    "score": 1.0,
+    "uri": "nyt://article/aa728eff-86de-51cd-aada-44b7da156689"
+  }
+]

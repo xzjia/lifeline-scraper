@@ -1,0 +1,504 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2009/08/13/business/global/13trade.html",
+    "snippet": "The decision was seen as a victory for the United States at a time when China is being perceived as increasingly nationalistic in its trade policies.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/08/13/business/global/chinadvds600.jpg",
+        "height": 300,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/08/13/business/global/chinadvds600.jpg",
+          "xlargeheight": 300
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/08/13/business/global/chinadvds75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/08/13/business/global/chinadvds75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "W.T.O. Rules Against China\u2019s Limits on Imports",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "W.T.O. Rules Against China In Media Case",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "China",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "International Trade and World Market",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Regulation and Deregulation of Industry",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "World Trade Organization",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "United States",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Copyrights",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-08-12T14:40:33+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "section_name": "Global Business",
+    "byline": {
+      "original": "By KEITH BRADSHER",
+      "person": [
+        {
+          "firstname": "Keith",
+          "middlename": null,
+          "lastname": "BRADSHER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5454f8e938f0d839202eacc4",
+    "word_count": 1091,
+    "score": 1.0,
+    "uri": "nyt://article/00bee3d0-d097-56d8-9a3e-27852688cc53"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/08/13/arts/design/13barge.html",
+    "snippet": "For the last two months artists have been floating around New York City on the Waterpod, a 3,000-square-foot experiment in community living and artistry.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/08/13/arts/bargespan.jpg",
+        "height": 338,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/08/13/arts/bargespan.jpg",
+          "xlargeheight": 338
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/08/13/arts/barge75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/08/13/arts/barge75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Life, Art and Chickens, Afloat in the Harbor",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Life, Art and Chickens, Afloat in the Harbor",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Art",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Sustainable Living",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Fuller, Buckminster",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Aaron, Matthew",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Smith, David",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-08-12T21:37:29+0000",
+    "document_type": "article",
+    "new_desk": "Culture",
+    "section_name": "Art & Design",
+    "byline": {
+      "original": "By MELENA RYZIK",
+      "person": [
+        {
+          "firstname": "Melena",
+          "middlename": null,
+          "lastname": "RYZIK",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5454fc3238f0d839202ead11",
+    "word_count": 1521,
+    "score": 1.0,
+    "uri": "nyt://article/eff4db8d-bdbb-5ef7-a346-3f075e3ebfb7"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/08/13/fashion/13CODES.html",
+    "snippet": "Like bands sampling riffs from folk, rock and disco, guys are adopting styles of the \u201960s, \u201970s and \u201980s \u2014 and the more extreme the better.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/08/12/fashion/13hair-600.jpg",
+        "height": 402,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/08/12/fashion/13hair-600.jpg",
+          "xlargeheight": 402
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/08/12/fashion/13hair-75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/08/12/fashion/13hair-75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Hair, Hair, Hair, Hair, Hair, Hair",
+      "kicker": "Dress Codes",
+      "content_kicker": "Dress Codes",
+      "print_headline": "Hair, hair, hair, hair, hair, hair",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Hair",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Men",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Fashion and Apparel",
+        "rank": 3,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-08-12T21:14:20+0000",
+    "document_type": "article",
+    "new_desk": "Styles",
+    "byline": {
+      "original": "By DAVID COLMAN",
+      "person": [
+        {
+          "firstname": "David",
+          "middlename": null,
+          "lastname": "COLMAN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5454fa7438f0d839202eacea",
+    "word_count": 1416,
+    "score": 1.0,
+    "uri": "nyt://article/5b727392-f980-5ec1-8b4c-10170e718de2"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/08/12/us/12psychs.html",
+    "snippet": "In 2002, two psychologists found a business opportunity selling interrogation and training services to the C.I.A.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/08/12/us/psychs75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/08/12/us/psychs75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "2 U.S. Architects of Harsh Tactics in 9/11\u2019s Wake",
+      "kicker": "Interrogation Inc.",
+      "content_kicker": "Interrogation Inc.",
+      "print_headline": "2 U.S. Architects of Harsh Tactics in 9/11\u2019s Wake",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Interrogations",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Psychology and Psychologists",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Torture",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Defense and Military Forces",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Central Intelligence Agency",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Al Qaeda",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "United States Air Force",
+        "rank": 7,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-08-12T02:07:23+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "byline": {
+      "original": "By SCOTT SHANE",
+      "person": [
+        {
+          "firstname": "Scott",
+          "middlename": null,
+          "lastname": "SHANE",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5454f6fe38f0d839202eac9a",
+    "word_count": 2426,
+    "score": 1.0,
+    "uri": "nyt://article/90305e23-e9f1-50ee-b615-95949a588cb8"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/08/13/garden/13guest.html",
+    "snippet": "Hosts who have been crushed under the heel of a houseguest share their horror stories.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/08/12/garden/13guest75.1.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/08/12/garden/13guest75.1.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "It\u2019s August. They\u2019re Coming for You.",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "It\u2019s August. They\u2019re Coming for You.",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Travel and Vacations",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Housing and Real Estate",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Friendship",
+        "rank": 3,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-08-12T23:48:52+0000",
+    "document_type": "article",
+    "new_desk": "Home",
+    "byline": {
+      "original": "By JOYCE WADLER",
+      "person": [
+        {
+          "firstname": "Joyce",
+          "middlename": null,
+          "lastname": "WADLER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5454fb8a38f0d839202ead03",
+    "word_count": 2677,
+    "score": 1.0,
+    "uri": "nyt://article/8f840710-4ac5-5fee-a85d-dbe4288aae99"
+  }
+]

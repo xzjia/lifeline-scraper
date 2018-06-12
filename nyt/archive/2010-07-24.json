@@ -1,0 +1,133 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2010/07/25/business/global/25chocolate.html",
+    "snippet": "A hedge fund manager has all but cornered the market in cocoa, helping to drive prices in London to a 30-year high.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/07/25/business/sub-jp-chocolate-1/sub-jp-chocolate-1-articleLarge-v2.jpg",
+        "height": 315,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2010/07/25/business/sub-jp-chocolate-1/sub-jp-chocolate-1-articleLarge-v2.jpg",
+          "xlargeheight": 315
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/07/25/business/sub-jp-chocolate-1/sub-jp-chocolate-1-thumbStandard-v2.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/07/25/business/sub-jp-chocolate-1/sub-jp-chocolate-1-thumbStandard-v2.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Trader\u2019s Cocoa Binge Wraps Up Chocolate Market",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "One Trader\u2019s Binge on Cocoa Wraps Up Chocolate Market",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Prices (Fares, Fees and Rates)",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Cocoa",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Ward, Anthony",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Chocolate",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Commodities",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Futures and Options Trading",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Hedge Funds",
+        "rank": 7,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-07-24T16:22:22+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "section_name": "Global Business",
+    "byline": {
+      "original": "By JULIA WERDIGIER and JULIE CRESWELL",
+      "person": [
+        {
+          "firstname": "Julia",
+          "middlename": null,
+          "lastname": "WERDIGIER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Julie",
+          "middlename": null,
+          "lastname": "CRESWELL",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5418e17538f0d86afc9a0af8",
+    "word_count": 1056,
+    "score": 1.0,
+    "uri": "nyt://article/d117c238-7d31-56ab-8d9b-bd67629c03b3"
+  }
+]

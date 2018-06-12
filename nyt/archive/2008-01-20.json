@@ -1,0 +1,82 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2008/01/20/books/review/Logan-t.html",
+    "snippet": "For more than 50 years, Geoffrey Hill has written a pinch-mouthed, grave-digger\u2019s poetry. His rich and allusive books are normally greeted by praise from critics and bewilderment from readers.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/01/20/books/geoffrey-hill-75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2008/01/20/books/geoffrey-hill-75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Living With Ghosts",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Living With Ghosts",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Books and Literature",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Poetry and Poets",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Logan, William (1950- )",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2008-01-20T05:00:00+0000",
+    "document_type": "article",
+    "new_desk": "BookReview",
+    "section_name": "Book Review",
+    "byline": {
+      "original": "By WILLIAM LOGAN",
+      "person": [
+        {
+          "firstname": "William",
+          "middlename": null,
+          "lastname": "LOGAN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "Review",
+    "_id": "547cc10438f0d822abda1406",
+    "word_count": 1826,
+    "score": 1.0,
+    "uri": "nyt://article/7d989494-ac20-54a9-a7d9-74323e4427c0"
+  }
+]

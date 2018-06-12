@@ -1,0 +1,1201 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2011/09/25/nyregion/one-roof-three-generations-portrait-of-a-chinese-american-family.html",
+    "snippet": "In a converted apartment building in Chinatown, five adults and seven children blend traditional values and rituals with modern roles and responsibilities.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/09/25/nyregion/25familyspahn/25familyspahn-articleLarge.jpg",
+        "height": 400,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2011/09/25/nyregion/25familyspahn/25familyspahn-articleLarge.jpg",
+          "xlargeheight": 400
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/09/25/nyregion/25familyspahn/25familyspahn-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/09/25/nyregion/25familyspahn/25familyspahn-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Three Generations Under One Roof",
+      "kicker": "In the Family",
+      "content_kicker": "In the Family",
+      "print_headline": "Three Generations, One Roof",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Families and Family Life",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Chinatown (NYC)",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Real Estate and Housing (Residential)",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "New York City",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Asian-Americans",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-09-23T14:58:57+0000",
+    "document_type": "article",
+    "new_desk": "Metro",
+    "byline": {
+      "original": "By SARAH KRAMER",
+      "person": [
+        {
+          "firstname": "Sarah",
+          "middlename": null,
+          "lastname": "KRAMER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "52ba01b938f0d8539d1b1492",
+    "word_count": 4556,
+    "score": 1.0,
+    "uri": "nyt://article/5f794852-20fe-5058-8996-8b207e036892"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/09/24/business/global/chinas-economic-engine-shows-signs-of-slowing.html",
+    "snippet": "China\u2019s economy has been a global pacesetter since the financial crisis of 2008, so signs of deceleration could add to worries about the outlook elsewhere.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/09/24/business/global/24yuan-span/24yuan-span-articleLarge.jpg",
+        "height": 315,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2011/09/24/business/global/24yuan-span/24yuan-span-articleLarge.jpg",
+          "xlargeheight": 315
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/09/24/business/global/24yuan-span/24yuan-span-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/09/24/business/global/24yuan-span/24yuan-span-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "China, Driver of World Economy, May Be Slowing",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "China, Pacesetter in Global Economy, Shows Signs of Slowing",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "China",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Economic Conditions and Trends",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Gross Domestic Product",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "International Trade and World Market",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Inflation (Economics)",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Factories and Manufacturing",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-09-23T17:48:27+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "section_name": "Global Business",
+    "byline": {
+      "original": "By KEITH BRADSHER",
+      "person": [
+        {
+          "firstname": "Keith",
+          "middlename": null,
+          "lastname": "BRADSHER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "54015a3038f0d841b2f39a07",
+    "word_count": 1535,
+    "score": 1.0,
+    "uri": "nyt://article/223c0517-4f9f-58f2-a777-dd1e2fefc2e6"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/09/25/fashion/michele-bachmann-and-the-making-of-an-acolyte.html",
+    "snippet": "One is a rocker-turned-preacher. The other is a candidate for president. Together, they represent the most unlikely alliance of this campaign season.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/09/25/fashion/25DEAN1_SPAN/25DEAN1-articleLarge.jpg",
+        "height": 298,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2011/09/25/fashion/25DEAN1_SPAN/25DEAN1-articleLarge.jpg",
+          "xlargeheight": 298
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/09/25/fashion/25DEAN1_SPAN/25DEAN1_SPAN-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/09/25/fashion/25DEAN1_SPAN/25DEAN1_SPAN-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Michele Bachmann and the Making of an Acolyte",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Michele Bachmann And the Making Of an Acolyte",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Bachmann, Michele M",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Presidential Election of 2012",
+        "rank": 3,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-09-23T21:26:07+0000",
+    "document_type": "article",
+    "new_desk": "Styles",
+    "byline": {
+      "original": "By SERGE F. KOVALESKI",
+      "person": [
+        {
+          "firstname": "Serge",
+          "middlename": "F.",
+          "lastname": "KOVALESKI",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "51471362fdc5926e77000521",
+    "word_count": 1904,
+    "score": 1.0,
+    "uri": "nyt://article/185f4ad1-b4ff-510e-b051-3f7c8d905a25"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/09/23/us/politics/in-rush-to-assist-solyndra-united-states-missed-warning-signs.html",
+    "snippet": "Industry analysts and government auditors say the administration failed to take note of trouble already evident in the solar energy marketplace.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/09/23/us/SOLAR-1/SOLAR-1-articleLarge.jpg",
+        "height": 302,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2011/09/23/us/SOLAR-1/SOLAR-1-articleLarge.jpg",
+          "xlargeheight": 302
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/09/23/us/SOLAR-1/SOLAR-1-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/09/23/us/SOLAR-1/SOLAR-1-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "In Rush to Assist a Solar Company, U.S. Missed Signs",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "In Rush To Assist A Solar Company, U.S. Missed Signs",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "United States Politics and Government",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Solar Energy",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Solyndra Inc",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Federal Aid (US)",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Energy Department",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Obama, Barack",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-09-23T03:24:26+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "section_name": "Politics",
+    "byline": {
+      "original": "By ERIC LIPTON and JOHN M. BRODER",
+      "person": [
+        {
+          "firstname": "Eric",
+          "middlename": null,
+          "lastname": "LIPTON",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "John",
+          "middlename": null,
+          "lastname": null,
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "54014dc338f0d841b2f39932",
+    "word_count": 1870,
+    "score": 1.0,
+    "uri": "nyt://article/a312bc07-2a10-5b76-8fb8-068756fa0ee9"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/09/23/technology/workers-own-cellphones-and-ipads-find-a-role-at-the-office.html",
+    "snippet": "In the consumerization of I.T., fewer companies are dictating which smartphones, tablets and other electronics must be used by their employees.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/09/23/business/Workplace/Workplace-articleLarge.jpg",
+        "height": 350,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2011/09/23/business/Workplace/Workplace-articleLarge.jpg",
+          "xlargeheight": 350
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/09/23/business/Workplace/Workplace-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/09/23/business/Workplace/Workplace-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "More Offices Let Workers Choose Their Own Devices",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "More Offices Let Workers Choose Their Own Devices",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Enterprise Computing",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Consumer Behavior",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Computers and the Internet",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Electronics",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Smartphones",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Cellular Telephones",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Laptop Computers",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Workplace Environment",
+        "rank": 8,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-09-23T02:24:37+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By VERNE G. KOPYTOFF",
+      "person": [
+        {
+          "firstname": "Verne",
+          "middlename": "G.",
+          "lastname": "KOPYTOFF",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "540154ce38f0d841b2f399a2",
+    "word_count": 1226,
+    "score": 1.0,
+    "uri": "nyt://article/d30f2d09-4d76-5aee-9531-e4af5b8a50b5"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/09/25/fashion/therapists-are-seeing-patients-online.html",
+    "snippet": "Video conferencing has become a popular way for therapists to reach patients, but opportunities for exploitation, especially by those with sketchy credentials, are rife.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/09/25/fashion/25SKYPE_SPAN/25JPSKYPE1-articleLarge.jpg",
+        "height": 350,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2011/09/25/fashion/25SKYPE_SPAN/25JPSKYPE1-articleLarge.jpg",
+          "xlargeheight": 350
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/09/25/fashion/25SKYPE_SPAN/25SKYPE_SPAN-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/09/25/fashion/25SKYPE_SPAN/25SKYPE_SPAN-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "When Your Therapist Is Only a Click Away",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "When Your Therapist Is Only a Click Away",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Therapy and Rehabilitation",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Skype Technologies",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Internet Telephony",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Psychiatry and Psychiatrists",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Psychology and Psychologists",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Mental Health and Disorders",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-09-23T21:30:25+0000",
+    "document_type": "article",
+    "new_desk": "Styles",
+    "byline": {
+      "original": "By JAN HOFFMAN",
+      "person": [
+        {
+          "firstname": "Jan",
+          "middlename": null,
+          "lastname": "HOFFMAN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "54015c3c38f0d841b2f39a2d",
+    "word_count": 1631,
+    "score": 1.0,
+    "uri": "nyt://article/04ea11d6-633b-57d8-9a9e-b14f285869d2"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/09/24/business/us-pressures-europe-to-act-with-force-on-debt-crisis.html",
+    "snippet": "President Obama is lobbying Germany and France to take coordinated measures to prevent Greece\u2019s woes from engulfing its neighbors.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/09/24/business/24policy-span/24policy-span-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/09/24/business/24policy-span/24policy-span-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "U.S. Pushes Europe to Act With Force on Debt Crisis",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "U.S., Anxious On Debt Crisis, Presses Europe",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "European Sovereign Debt Crisis (2010- )",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Economy",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Obama, Barack",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Merkel, Angela",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Germany",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Sarkozy, Nicolas",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "France",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Greece",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "International Trade and World Market",
+        "rank": 9,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States International Relations",
+        "rank": 10,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-09-23T14:11:39+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By MARK LANDLER and BINYAMIN APPELBAUM",
+      "person": [
+        {
+          "firstname": "Mark",
+          "middlename": null,
+          "lastname": "LANDLER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Binyamin",
+          "middlename": null,
+          "lastname": "APPELBAUM",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "540158f038f0d841b2f399ec",
+    "word_count": 1179,
+    "score": 1.0,
+    "uri": "nyt://article/62f5f1b1-d2fc-5208-ac30-4892522fe44d"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/09/24/business/judges-compete-for-law-clerks-on-a-lawless-terrain.html",
+    "snippet": "Federal judges compete aggressively each year to recruit the best law students in a process that has become a frenzied free-for-all.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/09/24/business/24clerks-span/24clerks-span-articleLarge.jpg",
+        "height": 315,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2011/09/24/business/24clerks-span/24clerks-span-articleLarge.jpg",
+          "xlargeheight": 315
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/09/24/business/24clerks-span/24clerks-span-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/09/24/business/24clerks-span/24clerks-span-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Judges Compete for Law Clerks on a Lawless Terrain",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Judges Compete for Clerks on Lawless Terrain",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Judges",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Hiring and Promotion",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Legal Profession",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Law Schools",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-09-23T17:33:12+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By CATHERINE RAMPELL",
+      "person": [
+        {
+          "firstname": "Catherine",
+          "middlename": null,
+          "lastname": "RAMPELL",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "540159bd38f0d841b2f399fc",
+    "word_count": 1294,
+    "score": 1.0,
+    "uri": "nyt://article/6a52477e-1280-50fd-af9e-f24d374e061e"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/09/23/sports/baseball/wild-card-races-in-boston-and-atlanta-slow-to-excruciating-crawls.html",
+    "snippet": "If the Red Sox and the Braves continue their late-season descents, this September could produce two historic collapses.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/09/23/sports/baseball/Neardeath/Neardeath-articleLarge.jpg",
+        "height": 315,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2011/09/23/sports/baseball/Neardeath/Neardeath-articleLarge.jpg",
+          "xlargeheight": 315
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/09/23/sports/baseball/Neardeath/Neardeath-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/09/23/sports/baseball/Neardeath/Neardeath-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "From Cruise Control, a Shift to Panic Mode in Boston and Atlanta",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "From Cruise Control, a Shift to Panic Mode in Boston and Atlanta",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Baseball",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Boston Red Sox",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Atlanta Braves",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Playoff Games",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-09-23T02:00:44+0000",
+    "document_type": "article",
+    "new_desk": "Sports",
+    "section_name": "Baseball",
+    "byline": {
+      "original": "By KEN BELSON",
+      "person": [
+        {
+          "firstname": "Ken",
+          "middlename": null,
+          "lastname": "BELSON",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5401570d38f0d841b2f399c7",
+    "word_count": 1145,
+    "score": 1.0,
+    "uri": "nyt://article/f5ee7573-0122-54bc-8c63-e48698079173"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/09/23/nyregion/ticket-fixing-inquiry-grows-into-scandal-on-police-leaks.html",
+    "snippet": "Investigators in New York worry that officers were tipped off about moves by the Internal Affairs Bureau.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "Ticket-Fixing Inquiry Turns Into Scandal About Leaks",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Ticket-Fixing Inquiry Grows Into Scandal on Police Leaks",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "organizations",
+        "value": "Police Department (NYC)",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Police Brutality and Misconduct",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Traffic and Parking Violations",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Wiretapping and Other Eavesdropping Devices and Methods",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-09-23T02:17:44+0000",
+    "document_type": "article",
+    "new_desk": "Metro",
+    "byline": {
+      "original": "By WILLIAM K. RASHBAUM",
+      "person": [
+        {
+          "firstname": "William",
+          "middlename": "K.",
+          "lastname": "RASHBAUM",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5401568d38f0d841b2f399be",
+    "word_count": 921,
+    "score": 1.0,
+    "uri": "nyt://article/6d29ff4a-1419-5a64-a53c-c96c717ba98d"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/09/24/world/palestinians-submit-statehood-bid-at-un.html",
+    "snippet": "After the Palestinian Authority asked for full membership, international powers reached a timetable they hoped would restart Israeli-Palestinian talks.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/09/24/world/24nations2_337-span/24nations2_337-span-articleLarge.jpg",
+        "height": 330,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2011/09/24/world/24nations2_337-span/24nations2_337-span-articleLarge.jpg",
+          "xlargeheight": 330
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/09/24/world/24nations2_337-span/24nations2_337-span-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/09/24/world/24nations2_337-span/24nations2_337-span-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Palestinians Request U.N. Status; Powers Press for Talks",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "As Palestinians Seek U.N. Entry, A Push For Talks",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Abbas, Mahmoud",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "United Nations",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Palestinians",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Israel",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Netanyahu, Benjamin",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-09-23T16:07:49+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "byline": {
+      "original": "By NEIL MacFARQUHAR and STEVEN LEE MYERS",
+      "person": [
+        {
+          "firstname": "Neil",
+          "middlename": null,
+          "lastname": "MacFARQUHAR",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Steven",
+          "middlename": "Lee",
+          "lastname": "MYERS",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5401596838f0d841b2f399f5",
+    "word_count": 1286,
+    "score": 1.0,
+    "uri": "nyt://article/475b81c2-bbc3-54c6-9976-4d1852114b48"
+  }
+]

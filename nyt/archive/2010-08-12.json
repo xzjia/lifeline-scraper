@@ -1,0 +1,540 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2010/08/13/business/13veggies.html",
+    "snippet": "Some doctors in Massachusetts are handing out coupons for use at farmers\u2019 markets in an effort to promote healthy eating and combat childhood obesity.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/08/13/business/13VEGGIES1-1281648690166/13VEGGIES1-1281648690166-articleLarge.jpg",
+        "height": 315,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2010/08/13/business/13VEGGIES1-1281648690166/13VEGGIES1-1281648690166-articleLarge.jpg",
+          "xlargeheight": 315
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/08/13/business/13VEGGIES1-1281648690166/13VEGGIES1-1281648690166-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/08/13/business/13VEGGIES1-1281648690166/13VEGGIES1-1281648690166-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Eat an Apple (Doctor\u2019s Orders)",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Eat an Apple (Doctor\u2019s Orders)",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Children and Youth",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Diet and Nutrition",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Vegetables",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Medicine and Health",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Farmers' Markets",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Vouchers",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Massachusetts",
+        "rank": 7,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-08-12T20:43:42+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By NATASHA SINGER",
+      "person": [
+        {
+          "firstname": "Natasha",
+          "middlename": null,
+          "lastname": "SINGER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "54197fb538f0d86afc9a1929",
+    "word_count": 1094,
+    "score": 1.0,
+    "uri": "nyt://article/1d904d19-a51c-5e30-84e6-ec04663c4437"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2010/08/13/world/asia/13kashmir.html",
+    "snippet": "Protests in Kashmir have led India to one of its deepest crises and mark the failure of its efforts to win peace there.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/08/13/world/13kashmir_337-span/13kashmir_337-span-articleLarge.jpg",
+        "height": 330,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2010/08/13/world/13kashmir_337-span/13kashmir_337-span-articleLarge.jpg",
+          "xlargeheight": 330
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/08/13/world/13kashmir_337-span/13kashmir_337-span-thumbStandard-v2.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/08/13/world/13kashmir_337-span/13kashmir_337-span-thumbStandard-v2.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Indian Forces Face Broader Revolt in Kashmir",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Indian Forces Face Broader Revolt in Kashmir",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Kashmir and Jammu (India)",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Demonstrations, Protests, and Riots",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "India",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Pakistan",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Civil War and Guerrilla Warfare",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Civilian Casualties",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Terrorism",
+        "rank": 7,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-08-12T22:39:02+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Asia Pacific",
+    "byline": {
+      "original": "By LYDIA POLGREEN",
+      "person": [
+        {
+          "firstname": "Lydia",
+          "middlename": null,
+          "lastname": "POLGREEN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5419813738f0d86afc9a194e",
+    "word_count": 1375,
+    "score": 1.0,
+    "uri": "nyt://article/79c44c3f-05d8-5eb3-89a4-969c85cb56c7"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2010/08/13/business/13auto.html",
+    "snippet": "A transition at the top, for a successor chosen by General Motors\u2019 board, was taken as a sign of the government\u2019s shrinking role in the automaker.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/08/13/business/13auto-395/13auto-395-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/08/13/business/13auto-395/13auto-395-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Profit Strong, G.M. Names a New Chief",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Profit Strong, G.M. Names A New Chief",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Whitacre, Edward E Jr",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Akerson, Daniel F",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "General Motors",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Automobiles",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Company Reports",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Executives and Management",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-08-12T11:50:20+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By BILL VLASIC",
+      "person": [
+        {
+          "firstname": "Bill",
+          "middlename": null,
+          "lastname": "VLASIC",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "54197a8c38f0d86afc9a18b0",
+    "word_count": 1187,
+    "score": 1.0,
+    "uri": "nyt://article/a3acb0f5-6e19-5ce3-a97f-979e8976fa39"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2010/08/12/world/asia/12hospital.html",
+    "snippet": "In 2006, patients or their relatives attacked more than 5,500 medical workers, reflecting wide discontent with China\u2019s public health care system.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "Chinese Hospitals Are Battlegrounds of Discontent",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Discontent on Health Care Spurs Violence at Hospitals in China",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "China",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Hospitals",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Medicine and Health",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Health Insurance and Managed Care",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Doctors",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Assaults",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-08-12T00:00:23+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Asia Pacific",
+    "byline": {
+      "original": "By SHARON LaFRANIERE",
+      "person": [
+        {
+          "firstname": "Sharon",
+          "middlename": null,
+          "lastname": "LaFRANIERE",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "541977f538f0d86afc9a1874",
+    "word_count": 1093,
+    "score": 1.0,
+    "uri": "nyt://article/c91bae6b-5f35-51bc-bcdd-6b9ec854e9c8"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2010/08/13/business/13bp.html",
+    "snippet": "BP has agreed to pay a record $50.6 million fine for safety violations found last year at its troubled Texas City refinery.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/08/13/business/13BP/13BP-articleLarge.jpg",
+        "height": 315,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2010/08/13/business/13BP/13BP-articleLarge.jpg",
+          "xlargeheight": 315
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/08/13/business/13BP/13BP-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/08/13/business/13BP/13BP-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "BP to Pay Record Fine for Refinery",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "BP to Pay Record Fine For Refinery",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "organizations",
+        "value": "BP Plc",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Occupational Safety and Health Administration",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Accidents and Safety",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Oil (Petroleum) and Gasoline",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Offshore Drilling and Exploration",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Fines (Penalties)",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Texas",
+        "rank": 7,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-08-12T17:45:08+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By STEVEN GREENHOUSE",
+      "person": [
+        {
+          "firstname": "Steven",
+          "middlename": null,
+          "lastname": "GREENHOUSE",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "54197d4e38f0d86afc9a18f5",
+    "word_count": 854,
+    "score": 1.0,
+    "uri": "nyt://article/4168e7ee-2654-5a9c-b0ad-e1fe52445d4a"
+  }
+]

@@ -1,0 +1,237 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2009/10/04/health/04meat.html",
+    "snippet": "Stephanie Smith, 22, was left paralyzed in 2007 after eating a burger tainted by E. coli. Tracing her burger shows why eating ground beef is still a gamble.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/10/03/health/meat.7575.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/10/03/health/meat.7575.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "The Burger That Shattered Her Life",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "The Burger That Shattered Her Life",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "E Coli (Bacteria)",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Meat",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Food Contamination and Poisoning",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Accidents and Safety",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Food",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Medicine and Health",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Hamburgers",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Tests and Testing",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Costco",
+        "rank": 9,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Food Safety and Inspection Service",
+        "rank": 10,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Centers for Disease Control and Prevention",
+        "rank": 11,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "American Meat Institute",
+        "rank": 12,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Factory Farming",
+        "rank": 13,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-10-03T22:18:22+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "byline": {
+      "original": "By MICHAEL MOSS",
+      "person": [
+        {
+          "firstname": "Michael",
+          "middlename": null,
+          "lastname": "MOSS",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5400bb4c38f0d841b2f387c3",
+    "word_count": 4897,
+    "score": 1.0,
+    "uri": "nyt://article/0d8acd81-838d-5959-9d83-80b3ac1fa2b0"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/10/04/world/middleeast/04nuke.html",
+    "snippet": "A U.N. analysis says Iran has \u201csufficient information to be able to design and produce a workable\u201d bomb, going well beyond the public position taken by Washington.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "Report Says Iran Has Data to Make a Nuclear Bomb",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Report Says Iran Has Data to Make A Nuclear Bomb",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Iran",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Nuclear Weapons",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "United Nations",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Nuclear Energy",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States International Relations",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "International Atomic Energy Agency",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "ElBaradei, Mohamed",
+        "rank": 7,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-10-03T19:42:53+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Middle East",
+    "byline": {
+      "original": "By WILLIAM J. BROAD and DAVID E. SANGER",
+      "person": [
+        {
+          "firstname": "William",
+          "middlename": "J.",
+          "lastname": "BROAD",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "David",
+          "middlename": "E.",
+          "lastname": "SANGER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5456e22338f0d86ef22a0e13",
+    "word_count": 1197,
+    "score": 1.0,
+    "uri": "nyt://article/d14aa4e7-f7c1-56e7-afe5-53a0d7079427"
+  }
+]

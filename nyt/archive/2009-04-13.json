@@ -1,0 +1,586 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2009/04/13/business/media/13carr.html",
+    "snippet": "Newspapers are increasingly talking about putting up pay walls and tracking the use of content online.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/12/13/business/carr-headshot-new/carr-headshot-new-articleLarge.jpg",
+        "height": 900,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2013/12/13/business/carr-headshot-new/carr-headshot-new-articleLarge.jpg",
+          "xlargeheight": 900
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/12/13/business/carr-headshot-new/carr-headshot-new-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2013/12/13/business/carr-headshot-new/carr-headshot-new-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/12/13/business/carr-headshot-new/carr-headshot-new-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2013/12/13/business/carr-headshot-new/carr-headshot-new-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Papers Try to Get Out of a Box",
+      "kicker": "The Media Equation",
+      "content_kicker": "The Media Equation",
+      "print_headline": "Papers Try To Get Out Of a Box",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Newspapers",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Prices (Fares, Fees and Rates)",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Computers and the Internet",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Associated Press",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Google News",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Advertising and Marketing",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Online Advertising",
+        "rank": 7,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-04-13T00:26:35+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "section_name": "Media",
+    "byline": {
+      "original": "By DAVID CARR",
+      "person": [
+        {
+          "firstname": "David",
+          "middlename": null,
+          "lastname": "CARR",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "543eea0b38f0d853e89f678b",
+    "word_count": 1204,
+    "score": 1.0,
+    "uri": "nyt://article/6d8814bc-a454-59c7-86ab-f4d99fa5e2e9"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/04/13/sports/baseball/13potty.html",
+    "snippet": "If nothing else, $2 billion worth of stadiums should buy shorter restroom lines, at least for women.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "New Ballpark Statistic: Stadium\u2019s Toilet Ratio",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Ballpark Statisticians Follow A New Count, the Toilet Ratio",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Bathrooms and Toilets",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Stadiums and Arenas",
+        "rank": 2,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-04-13T02:22:59+0000",
+    "document_type": "article",
+    "new_desk": "Sports",
+    "section_name": "Baseball",
+    "byline": {
+      "original": "By JOHN BRANCH",
+      "person": [
+        {
+          "firstname": "John",
+          "middlename": null,
+          "lastname": "BRANCH",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5469622f38f0d8317bec0fe4",
+    "word_count": 1186,
+    "score": 1.0,
+    "uri": "nyt://article/935ff511-e2be-5f63-841b-3bd3a783ea63"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/04/14/technology/internet/14twitter.html",
+    "snippet": "Collectively, Twitter\u2019s messages are a surprisingly useful tool for solving problems and revealing public opinion.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/04/14/business/14twitter.span.jpg",
+        "height": 350,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/04/14/business/14twitter.span.jpg",
+          "xlargeheight": 350
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/04/14/business/14twitter.2.75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/04/14/business/14twitter.2.75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Putting Twitter\u2019s World to Use",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Putting Twitter\u2019s World to Use",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Social Networking (Internet)",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Twitter",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Computers and the Internet",
+        "rank": 3,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-04-13T17:32:07+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "section_name": "Internet",
+    "byline": {
+      "original": "By CLAIRE CAIN MILLER",
+      "person": [
+        {
+          "firstname": "Claire",
+          "middlename": "Cain",
+          "lastname": "MILLER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "546965e338f0d8317bec1044",
+    "word_count": 1380,
+    "score": 1.0,
+    "uri": "nyt://article/9df58294-7bbd-55c8-9170-501759bdc9f6"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/04/13/business/13gm.html",
+    "snippet": "The Treasury Department is said to be directing G.M. to prepare for a bankruptcy filing by June 1, if necessary.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "\u2018Surgical\u2019 Bankruptcy Possible for G.M.",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Treasury Is Said to Tell G.M. to Prepare for Possible Bankruptcy",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "organizations",
+        "value": "General Motors Corp",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Bankruptcies",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Treasury Department",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Subprime Mortgage Crisis",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Automobiles",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-04-13T00:51:06+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By MICHELINE MAYNARD and MICHAEL J. de la MERCED",
+      "person": [
+        {
+          "firstname": "Micheline",
+          "middlename": null,
+          "lastname": "MAYNARD",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Michael",
+          "middlename": "J.",
+          "lastname": "de la MERCED",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5469624738f0d8317bec0fe7",
+    "word_count": 1339,
+    "score": 1.0,
+    "uri": "nyt://article/16dd0e8e-30a1-55b5-b58c-007121e83391"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/04/13/technology/start-ups/13hyperlocal.html",
+    "snippet": "Just as some cities\u2019 newspapers sputter, a handful of Web sites emerge to cull local content from government data, blogs and news media.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/04/13/business/13hyperlocal02-600.jpg",
+        "height": 320,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/04/13/business/13hyperlocal02-600.jpg",
+          "xlargeheight": 320
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "\u2018Hyperlocal\u2019 Web Sites Deliver News Without Newspapers",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "News Without Newspapers",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "News and News Media",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Computers and the Internet",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Start-ups",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Blogs and Blogging (Internet)",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Newspapers",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-04-13T00:23:17+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "section_name": "Start-Ups",
+    "byline": {
+      "original": "By CLAIRE CAIN MILLER and BRAD STONE",
+      "person": [
+        {
+          "firstname": "Claire",
+          "middlename": "Cain",
+          "lastname": "MILLER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Brad",
+          "middlename": null,
+          "lastname": "STONE",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "546961c138f0d8317bec0fdc",
+    "word_count": 1088,
+    "score": 1.0,
+    "uri": "nyt://article/88a0ca68-8719-5503-99b4-956d98babb96"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/04/13/nyregion/13bigcity.html",
+    "snippet": "A law firm offered some employees a third of their base pay to take a year off from their regular jobs.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/04/13/nyregion/13bigcity_xl.jpg",
+        "height": 360,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/04/13/nyregion/13bigcity_xl.jpg",
+          "xlargeheight": 360
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/04/13/nyregion/13bigcity_75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/04/13/nyregion/13bigcity_75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "$80,000 for a Year Off? She\u2019ll Take It!",
+      "kicker": "Big City",
+      "content_kicker": "Big City",
+      "print_headline": "$80,000 for Year Off From Law? She\u2019ll Take It!",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Legal Profession",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Skadden Arps Slate Meagher & Flom",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Recession and Depression",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Sabbaticals and Career Breaks",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Travel and Vacations",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-04-13T02:08:04+0000",
+    "document_type": "article",
+    "new_desk": "Metro",
+    "byline": {
+      "original": "By SUSAN DOMINUS",
+      "person": [
+        {
+          "firstname": "Susan",
+          "middlename": null,
+          "lastname": "DOMINUS",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5469637438f0d8317bec1005",
+    "word_count": 768,
+    "score": 1.0,
+    "uri": "nyt://article/4cd3feb5-fea8-506c-8000-76154e9067e5"
+  }
+]

@@ -1,0 +1,193 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2008/01/30/business/30sbux.html",
+    "snippet": "After more than a decade of sensational buzz, Starbucks is struggling nationwide as it faces slowing sales growth and increased competition.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/01/30/business/30sbux.600.jpg",
+        "height": 262,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2008/01/30/business/30sbux.600.jpg",
+          "xlargeheight": 262
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/01/30/business/30sbux2.75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2008/01/30/business/30sbux2.75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Overhaul, Make It a Venti",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Overhaul, Make It a Venti",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "organizations",
+        "value": "Starbucks Corp",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Coffee",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Sales",
+        "rank": 3,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2008-01-30T05:00:00+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By MICHAEL BARBARO and ANDREW MARTIN",
+      "person": [
+        {
+          "firstname": "Michael",
+          "middlename": null,
+          "lastname": "BARBARO",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Andrew",
+          "middlename": null,
+          "lastname": "MARTIN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "547c030238f0d813efccb925",
+    "word_count": 1138,
+    "score": 1.0,
+    "uri": "nyt://article/5c5347e7-edcf-5103-86fd-8286a537abf6"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2008/01/30/dining/30curious.html",
+    "snippet": "A scientific report, inspired by an episode of \u201cSeinfeld,\u201d  may cause football fans to take a second look at that communal bowl of dip.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/01/30/dining/30dip75.1.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2008/01/30/dining/30dip75.1.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Dip Once or Dip Twice?",
+      "kicker": "The Curious Cook",
+      "content_kicker": "The Curious Cook",
+      "print_headline": "Dip Once Or Dip Twice?",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Bacteria",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Food",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Medicine and Health",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Research",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2008-01-30T05:00:00+0000",
+    "document_type": "article",
+    "new_desk": "Dining",
+    "byline": {
+      "original": "By HAROLD McGEE",
+      "person": [
+        {
+          "firstname": "Harold",
+          "middlename": null,
+          "lastname": "McGEE",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "543593e338f0d84355038036",
+    "word_count": 985,
+    "score": 1.0,
+    "uri": "nyt://article/02da43c2-0a54-5da0-9498-daff73930d9e"
+  }
+]

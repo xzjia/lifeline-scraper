@@ -1,0 +1,407 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2010/04/28/dining/28note.html",
+    "snippet": "A week eating high and low in New Orleans to sample the food that defines the city now.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/04/28/dining/28notespan-1/28note_CA0-articleLarge.jpg",
+        "height": 330,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2010/04/28/dining/28notespan-1/28note_CA0-articleLarge.jpg",
+          "xlargeheight": 330
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/04/28/dining/28notespan-1/28note_CA0-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/04/28/dining/28notespan-1/28note_CA0-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "In New Orleans, the Taste of a Comeback",
+      "kicker": "Critic\u2019s Notebook",
+      "content_kicker": "Critic\u2019s Notebook",
+      "print_headline": "The Taste Of a Comeback",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Restaurants",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "New Orleans (La)",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Lagasse, Emeril",
+        "rank": 3,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-04-27T22:12:02+0000",
+    "document_type": "article",
+    "new_desk": "Dining",
+    "byline": {
+      "original": "By SAM SIFTON",
+      "person": [
+        {
+          "firstname": "Sam",
+          "middlename": null,
+          "lastname": "SIFTON",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5445930738f0d832c813ef5d",
+    "word_count": 2052,
+    "score": 1.0,
+    "uri": "nyt://article/19413e9b-702f-5356-9bbc-c69eaaa2181e"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2010/04/27/world/27powerpoint.html",
+    "snippet": "PowerPoint has crept into the daily lives of U.S. military commanders and reached the level of near obsession.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/04/27/world/27powerpoint_CA0_337-span/27powerpoint_CA0-articleLarge.jpg",
+        "height": 340,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2010/04/27/world/27powerpoint_CA0_337-span/27powerpoint_CA0-articleLarge.jpg",
+          "xlargeheight": 340
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/04/27/world/27powerpoint_CA0_337-span/27powerpoint_CA0-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/04/27/world/27powerpoint_CA0_337-span/27powerpoint_CA0-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "We Have Met the Enemy and He Is PowerPoint",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "We Have Met the Enemy and He Is PowerPoint",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Software",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Defense and Military Forces",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Afghanistan War (2001- )",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Iraq War (2003- )",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Computers and the Internet",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Microsoft Corp",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Defense Department",
+        "rank": 8,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-04-27T01:19:53+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "byline": {
+      "original": "By ELISABETH BUMILLER",
+      "person": [
+        {
+          "firstname": "Elisabeth",
+          "middlename": null,
+          "lastname": "BUMILLER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "54458e6b38f0d832c813eef9",
+    "word_count": 1093,
+    "score": 1.0,
+    "uri": "nyt://article/0e60b951-b153-580d-82e4-37f7eff93a9f"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2010/04/28/business/economy/28leonhardt.html",
+    "snippet": "No one knows how to prevent the next crisis, but a bank tax is akin to an insurance policy for Wall Street.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/04/19/business/leonhardt-75/leonhardt-75-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/04/19/business/leonhardt-75/leonhardt-75-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "A Bank Tax as Insurance for Us All",
+      "kicker": "Economic Scene",
+      "content_kicker": "Economic Scene",
+      "print_headline": "A Bank Tax As Insurance For Us All",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Taxation",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Banks and Banking",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Regulation and Deregulation of Industry",
+        "rank": 3,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-04-27T20:54:37+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "section_name": "Economy",
+    "byline": {
+      "original": "By DAVID LEONHARDT",
+      "person": [
+        {
+          "firstname": "David",
+          "middlename": null,
+          "lastname": "LEONHARDT",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5445903c38f0d832c813ef21",
+    "word_count": 1210,
+    "score": 1.0,
+    "uri": "nyt://article/4ddf09ff-94d1-504e-9f97-42e6806e4f01"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2010/04/27/arts/television/27daze.html",
+    "snippet": "\u201cSunset Daze,\u201d a new reality show, features an eccentric cast living in an Arizona retirement community.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/04/27/arts/27daze_CA1/27daze_CA1-articleLarge.jpg",
+        "height": 320,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2010/04/27/arts/27daze_CA1/27daze_CA1-articleLarge.jpg",
+          "xlargeheight": 320
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/04/27/arts/27daze_CA1/27daze_CA1-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/04/27/arts/27daze_CA1/27daze_CA1-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Boozy, Bawdy Reality TV, With a Few Wrinkles",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Boozy, Bawdy Reality TV, With a Few Wrinkles",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Television",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Reality Television",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Elderly",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Arizona",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Retirement",
+        "rank": 7,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-04-27T01:38:15+0000",
+    "document_type": "article",
+    "new_desk": "Culture",
+    "section_name": "Television",
+    "byline": {
+      "original": "By BROOKS BARNES",
+      "person": [
+        {
+          "firstname": "Brooks",
+          "middlename": null,
+          "lastname": "BARNES",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "54458da438f0d832c813eeea",
+    "word_count": 885,
+    "score": 1.0,
+    "uri": "nyt://article/9fd40cc3-7339-5c8e-825f-035f2c179ac7"
+  }
+]

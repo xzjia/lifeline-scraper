@@ -1,0 +1,173 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2008/07/10/washington/10fisa.html",
+    "snippet": "The bill expanded the government\u2019s surveillance powers and granted immunity for phone companies.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/07/09/washington/10FISA.span.jpg",
+        "height": 405,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2008/07/09/washington/10FISA.span.jpg",
+          "xlargeheight": 405
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Senate Approves Bill to Broaden Wiretap Powers",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "SENATE APPROVES BILL TO BROADEN WIRETAP POWERS",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Wiretapping and Other Eavesdropping Devices and Methods",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Politics and Government",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Law and Legislation",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "National Security Agency",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Senate",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Surveillance of Citizens by Government",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Foreign Intelligence Surveillance Act (FISA)",
+        "rank": 7,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2008-07-10T04:00:00+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "byline": {
+      "original": "By ERIC LICHTBLAU",
+      "person": [
+        {
+          "firstname": "Eric",
+          "middlename": null,
+          "lastname": "LICHTBLAU",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "54765a1b38f0d839249019a1",
+    "word_count": 1286,
+    "score": 1.0,
+    "uri": "nyt://article/917fe0ef-ab3f-50e6-ac22-d06dcad95be8"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2008/07/10/business/smallbusiness/10bizhealth.html",
+    "snippet": "States are taking various approaches to help businesses unable to provide health insurance for their employees.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "Small Business Is Latest Focus in Health Fight",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Small Business Is Latest Focus In Health Fight",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Health Insurance and Managed Care",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Small Business",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Law and Legislation",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "States (US)",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2008-07-10T04:00:00+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "section_name": "Entrepreneurship",
+    "byline": {
+      "original": "By REED ABELSON",
+      "person": [
+        {
+          "firstname": "Reed",
+          "middlename": null,
+          "lastname": "ABELSON",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "54765c3838f0d839249019bc",
+    "word_count": 1556,
+    "score": 1.0,
+    "uri": "nyt://article/8928270e-4889-5fd7-a8b1-a874092502f4"
+  }
+]

@@ -1,0 +1,677 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2013/08/28/world/middleeast/obama-syria-strike.html",
+    "snippet": "President Obama is exploring a range of military actions against Syria designed to \u201cdeter and degrade\u201d the ability of President Bashar al-Assad\u2019s regime to launch chemical weapons, officials said.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "Obama Weighs \u2018Limited\u2019 Strikes Against Syrian Forces",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Obama Weighing 'Limited' Strikes On Syrian Forces",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Syria",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Defense and Military Forces",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Assad, Bashar al-",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Obama, Barack",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Biological and Chemical Warfare",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Middle East and North Africa Unrest (2010- )",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2013-08-27T16:37:54+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Middle East",
+    "byline": {
+      "original": "By THOM SHANKER, C. J. CHIVERS and MICHAEL R. GORDON",
+      "person": [
+        {
+          "firstname": "Thom",
+          "middlename": null,
+          "lastname": "SHANKER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "C.",
+          "middlename": "J.",
+          "lastname": "CHIVERS",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        },
+        {
+          "firstname": "Michael",
+          "middlename": "R.",
+          "lastname": "GORDON",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 3
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5220d3c838f0d8740ac9c29d",
+    "word_count": 1359,
+    "score": 1.0,
+    "uri": "nyt://article/60ae63bc-b103-5339-bfeb-6500da16b322"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2013/08/28/dining/wooing-us-down-the-produce-aisle.html",
+    "snippet": "Researchers out to promote healthier eating habits are using gentle cues, like strategically placed mirrors, to steer shoppers toward fruits and vegetables.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/08/28/dining/28NUDGE/28NUDGE-articleLarge.jpg",
+        "height": 1148,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2013/08/28/dining/28NUDGE/28NUDGE-articleLarge.jpg",
+          "xlargeheight": 1148
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/08/28/dining/28NUDGE/28NUDGE-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2013/08/28/dining/28NUDGE/28NUDGE-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/08/28/dining/28NUDGE/28NUDGE-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2013/08/28/dining/28NUDGE/28NUDGE-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Nudged to the Produce Aisle by a Look in the Mirror",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Wooing Us Down The Aisle",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Supermarkets and Grocery Stores",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Consumer Behavior",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Shopping and Retail",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Fruit",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Vegetables",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Diet and Nutrition",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Advertising and Marketing",
+        "rank": 7,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2013-08-27T17:50:18+0000",
+    "document_type": "article",
+    "new_desk": "Dining",
+    "byline": {
+      "original": "By MICHAEL MOSS",
+      "person": [
+        {
+          "firstname": "Michael",
+          "middlename": null,
+          "lastname": "MOSS",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5220d44c38f0d8740ac9c2ec",
+    "word_count": 1589,
+    "score": 1.0,
+    "uri": "nyt://article/b82e662a-24c6-59b1-922b-8c9643e9a022"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2013/08/27/nyregion/de-blasios-tough-talk-against-police-stops-fuels-2-way-fight-for-black-vote.html",
+    "snippet": "With polls showing the black electorate split evenly between Bill de Blasio and William C. Thompson Jr., and with Christine C. Quinn close behind, Mr. Thompson is pushing back with a deeply personal ad.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/08/27/nyregion/27BLACKVOTERS_SPAN/27BLACKVOTERS_SPAN-articleLarge.jpg",
+        "height": 300,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2013/08/27/nyregion/27BLACKVOTERS_SPAN/27BLACKVOTERS_SPAN-articleLarge.jpg",
+          "xlargeheight": 300
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/08/27/nyregion/27BLACKVOTERS_SPAN/27BLACKVOTERS_SPAN-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2013/08/27/nyregion/27BLACKVOTERS_SPAN/27BLACKVOTERS_SPAN-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/08/27/nyregion/27BLACKVOTERS_SPAN/27BLACKVOTERS_SPAN-thumbStandard-v3.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2013/08/27/nyregion/27BLACKVOTERS_SPAN/27BLACKVOTERS_SPAN-thumbStandard-v3.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "2 Mayoral Rivals Step Up Fight for Black Vote",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Mayoral Rivals in 2-Way Fight for Black Vote",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Elections, Mayors",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "de Blasio, Bill",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Thompson, William C Jr",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Blacks",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Voting and Voters",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "New York City",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Political Advertising",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Police Department (NYC)",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Search and Seizure",
+        "rank": 9,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2013-08-27T02:04:36+0000",
+    "document_type": "article",
+    "new_desk": "Metro",
+    "byline": {
+      "original": "By MICHAEL M. GRYNBAUM",
+      "person": [
+        {
+          "firstname": "Michael",
+          "middlename": null,
+          "lastname": null,
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5220d19038f0d8740ac9c11e",
+    "word_count": 1060,
+    "score": 1.0,
+    "uri": "nyt://article/fa6d3bf8-d1c3-5aed-8497-5070d4876e7a"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2013/08/27/sports/ncaafootball/to-defend-its-empire-espn-stays-on-offensive.html",
+    "snippet": "Emerging competitors, decreasing cable subscriptions and rising political opposition to bundled channels have created a precarious environment for ESPN, which is fighting back.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/08/27/sports/ESPN-1/ESPN-1-articleLarge.jpg",
+        "height": 379,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2013/08/27/sports/ESPN-1/ESPN-1-articleLarge.jpg",
+          "xlargeheight": 379
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/08/27/sports/ESPN-1/ESPN-1-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2013/08/27/sports/ESPN-1/ESPN-1-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/08/27/sports/ESPN-1/ESPN-1-thumbStandard-v2.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2013/08/27/sports/ESPN-1/ESPN-1-thumbStandard-v2.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "To Protect Its Empire, ESPN Stays on Offense",
+      "kicker": "Remote Control",
+      "content_kicker": "Remote Control",
+      "print_headline": "To Protect Its Empire, ESPN Stays on Offense",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "organizations",
+        "value": "ESPN",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Cable Television",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Walt Disney Company",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "College Athletics",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Athletics and Sports",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Television",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Series",
+        "rank": 7,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2013-08-27T03:11:07+0000",
+    "document_type": "article",
+    "new_desk": "Sports",
+    "section_name": "College Football",
+    "byline": {
+      "original": "By RICHARD SANDOMIR, JAMES ANDREW MILLER and STEVE EDER",
+      "person": [
+        {
+          "firstname": "Richard",
+          "middlename": null,
+          "lastname": "SANDOMIR",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "James",
+          "middlename": "Andrew",
+          "lastname": "MILLER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        },
+        {
+          "firstname": "Steve",
+          "middlename": null,
+          "lastname": "EDER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 3
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5220d1cf38f0d8740ac9c149",
+    "word_count": 4316,
+    "score": 1.0,
+    "uri": "nyt://article/d5bbe2e6-85d2-56d8-996a-4230b02523f8"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2013/08/27/education/at-charter-schools-short-careers-by-choice.html",
+    "snippet": "Charter networks are developing what amounts to a youth movement in which teaching for two to five years is seen as acceptable, even desirable.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/08/27/us/jp-TEACHING-1/jp-TEACHING-1-articleLarge.jpg",
+        "height": 400,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2013/08/27/us/jp-TEACHING-1/jp-TEACHING-1-articleLarge.jpg",
+          "xlargeheight": 400
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/08/27/us/jp-TEACHING-1/jp-TEACHING-1-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2013/08/27/us/jp-TEACHING-1/jp-TEACHING-1-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/08/27/us/jp-TEACHING-1/jp-TEACHING-1-thumbStandard-v2.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2013/08/27/us/jp-TEACHING-1/jp-TEACHING-1-thumbStandard-v2.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "At Charter Schools, Short Careers by Choice",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "At Charter Schools, Short Careers by Choice",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Education (K-12)",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Charter Schools",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Teachers and School Employees",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Teach for America",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Houston (Tex)",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "YES Prep West (Houston)",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2013-08-27T01:08:05+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "byline": {
+      "original": "By MOTOKO RICH",
+      "person": [
+        {
+          "firstname": "Motoko",
+          "middlename": null,
+          "lastname": "RICH",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5220d17938f0d8740ac9c112",
+    "word_count": 1265,
+    "score": 1.0,
+    "uri": "nyt://article/942e5547-b234-5582-b0ec-20e658bce436"
+  }
+]

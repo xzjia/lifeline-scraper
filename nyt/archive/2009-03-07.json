@@ -1,0 +1,223 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2009/03/08/us/politics/08obama.html",
+    "snippet": "In an interview with The Times, President Obama opened the door to a reconciliation process in which the American military would reach out to elements of the Taliban.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/03/07/us/politics/08obama_600.jpg",
+        "height": 265,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/03/07/us/politics/08obama_600.jpg",
+          "xlargeheight": 265
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/03/07/us/politics/08obama_75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/03/07/us/politics/08obama_75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Obama Ponders Outreach to Elements of Taliban",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Obama Ponders Outreach To Elements of the Taliban",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Obama, Barack",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Afghanistan",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Taliban",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Economy",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Iraq",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Afghanistan War (2001- )",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-03-07T17:15:48+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "section_name": "Politics",
+    "byline": {
+      "original": "By HELENE COOPER and SHERYL GAY STOLBERG",
+      "person": [
+        {
+          "firstname": "Helene",
+          "middlename": null,
+          "lastname": "COOPER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Sheryl",
+          "middlename": "Gay",
+          "lastname": "STOLBERG",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "54680c1138f0d81e5cd0cfe3",
+    "word_count": 1675,
+    "score": 1.0,
+    "uri": "nyt://article/5736f89b-e7f0-5fb8-b07e-4b67ce26f8ed"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/03/08/education/08yield.html",
+    "snippet": "With the flailing economy upending statistical models for admissions, colleges are straining to hit their enrollment targets.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/03/08/us/08yield_600.jpg",
+        "height": 322,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/03/08/us/08yield_600.jpg",
+          "xlargeheight": 322
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/03/08/us/08yield_75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/03/08/us/08yield_75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "In Shifting Era of Admissions, Colleges Sweat",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "In Shifting Era Of Admissions, Colleges Sweat",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Colleges and Universities",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Admissions Standards",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Student Loans",
+        "rank": 3,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-03-07T17:21:50+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "byline": {
+      "original": "By KATE ZERNIKE",
+      "person": [
+        {
+          "firstname": "Kate",
+          "middlename": null,
+          "lastname": "ZERNIKE",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "54680e4738f0d81e5cd0d015",
+    "word_count": 1176,
+    "score": 1.0,
+    "uri": "nyt://article/466b589a-d8f8-5a46-80bb-7a1215ef66a6"
+  }
+]

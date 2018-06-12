@@ -1,0 +1,111 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2011/12/26/world/africa/explosion-rips-through-catholic-church-in-nigeria.html",
+    "snippet": "A series of Christmas Day church bombings, in which 25 people died, appeared to be a coordinated assault by Boko Haram, a radical Islamist sect with suspected training links to Al Qaeda.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/12/26/world/26nigeria/26nigeria-articleLarge.jpg",
+        "height": 330,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2011/12/26/world/26nigeria/26nigeria-articleLarge.jpg",
+          "xlargeheight": 330
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/12/26/world/26nigeria/26nigeria-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/12/26/world/26nigeria/26nigeria-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Nigerian Group Escalates Violence With Church Attacks",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Bomb Attacks On Churches Across Nigeria",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Terrorism",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Nigeria",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Boko Haram",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Bombs and Explosives",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Christians and Christianity",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-12-25T13:06:10+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Africa",
+    "byline": {
+      "original": "By ADAM NOSSITER",
+      "person": [
+        {
+          "firstname": "Adam",
+          "middlename": null,
+          "lastname": "NOSSITER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5206011a38f0d8740ac8ac57",
+    "word_count": 1139,
+    "score": 1.0,
+    "uri": "nyt://article/03c6a034-5ac7-5444-8b73-ba6c7fbc14c4"
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2007/12/06/fashion/06push.html",
+    "snippet": "Giving birth may be its own reward, but today many new mothers are likely to want some sort of tangible bonus as well.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2007/12/06/fashion/06push600.1.jpg",
+        "height": 303,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2007/12/06/fashion/06push600.1.jpg",
+          "xlargeheight": 303
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2007/12/06/fashion/06push75.1.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2007/12/06/fashion/06push75.1.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "A Bundle of Joy Isn\u2019t Enough?",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "A Bundle of Joy Isn\u2019t Enough?",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Women",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Gifts",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Pregnancy and Obstetrics",
+        "rank": 3,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2007-12-06T05:00:00+0000",
+    "document_type": "article",
+    "new_desk": "Styles",
+    "byline": {
+      "original": "By THOMAS VINCIGUERRA",
+      "person": [
+        {
+          "firstname": "Thomas",
+          "middlename": null,
+          "lastname": "VINCIGUERRA",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5488761138f0d8602128f79f",
+    "word_count": 1165,
+    "score": 1.0,
+    "uri": "nyt://article/acee94c7-b285-5735-b04f-b37365022938"
+  }
+]

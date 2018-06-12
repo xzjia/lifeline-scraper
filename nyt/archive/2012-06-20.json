@@ -1,0 +1,570 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2012/06/21/world/asia/global-demand-for-air-conditioning-forces-tough-environmental-choices.html",
+    "snippet": "Gases that seriously damage the ozone layer are mostly out of use in air-conditioning, but replacements have become significant contributors to global warming.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/06/21/world/asia/Coolant/Coolant-articleLarge.jpg",
+        "height": 360,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2012/06/21/world/asia/Coolant/Coolant-articleLarge.jpg",
+          "xlargeheight": 360
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/06/21/world/asia/Coolant/Coolant-thumbStandard-v3.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2012/06/21/world/asia/Coolant/Coolant-thumbStandard-v3.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Relief in Every Window, but Global Worry Too",
+      "kicker": "Chilling Effect",
+      "content_kicker": "Chilling Effect",
+      "print_headline": "Relief in Every Window, but Global Worry Too",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Air Conditioning",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Global Warming",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Greenhouse Gas Emissions",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Environment",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "China",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "India",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Series",
+        "rank": 7,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2012-06-20T23:46:30+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Asia Pacific",
+    "byline": {
+      "original": "By ELISABETH ROSENTHAL and ANDREW W. LEHREN",
+      "person": [
+        {
+          "firstname": "Elisabeth",
+          "middlename": null,
+          "lastname": "ROSENTHAL",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Andrew",
+          "middlename": "W.",
+          "lastname": "LEHREN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "515da1abcf28d0219d00114b",
+    "word_count": 2078,
+    "score": 1.0,
+    "uri": "nyt://article/e87a65f8-0ad4-5d82-be7e-b258571914f8"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2012/06/21/business/economy/fed-extends-program-to-lower-costs-of-borrowing.html",
+    "snippet": "The Federal Reserve increased its efforts to revive economic growth by extending its existing asset-purchase program through the end of the year.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "With Output Stumbling, Fed Takes a Modest Step",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Output Slower, Fed Is Taking A Modest Step",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "organizations",
+        "value": "Federal Reserve System",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Economy",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Interest Rates",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Inflation (Economics)",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Unemployment",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2012-06-20T16:43:15+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "section_name": "Economy",
+    "byline": {
+      "original": "By BINYAMIN APPELBAUM",
+      "person": [
+        {
+          "firstname": "Binyamin",
+          "middlename": null,
+          "lastname": "APPELBAUM",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "53f802f238f0d835538dc5e3",
+    "word_count": 1088,
+    "score": 1.0,
+    "uri": "nyt://article/7e1d7a11-7202-53b3-8f6c-6fe802bee00e"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2012/06/20/business/public-workers-face-continued-layoffs-and-recovery-is-hurt.html",
+    "snippet": "With the economy slowly expanding, state tax revenues have started to recover, but governors and legislatures are keeping a tight rein on spending.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/06/20/business/LAYOFF-1/LAYOFF-1-articleLarge-v2.jpg",
+        "height": 350,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2012/06/20/business/LAYOFF-1/LAYOFF-1-articleLarge-v2.jpg",
+          "xlargeheight": 350
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/06/20/business/LAYOFF-1/LAYOFF-1-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2012/06/20/business/LAYOFF-1/LAYOFF-1-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Public Workers Face New Rash of Layoffs, Hurting Recovery",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Layoffs Hitting Public Workers; Recovery Is Hurt",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Labor and Jobs",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Government Employees",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Unemployment",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Economic Conditions and Trends",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Local Government",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Economy",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "States (US)",
+        "rank": 7,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2012-06-20T01:16:41+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By SHAILA DEWAN and MOTOKO RICH",
+      "person": [
+        {
+          "firstname": "Shaila",
+          "middlename": null,
+          "lastname": "DEWAN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Motoko",
+          "middlename": null,
+          "lastname": "RICH",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "53f7ffd538f0d835538dc5b8",
+    "word_count": 1209,
+    "score": 1.0,
+    "uri": "nyt://article/56d7e3a0-5ff7-5c96-94c0-bfa15d11380f"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2012/06/21/us/obama-claims-executive-privilege-in-gun-case.html",
+    "snippet": "A recommendation along party lines to cite Attorney General Eric H. Holder Jr. for contempt came after President Obama invoked executive privilege to shield documents from disclosure.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/06/20/us/politics/0620holder/0620holder-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2012/06/20/us/politics/0620holder/0620holder-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "House Panel\u2019s Vote Steps Up Partisan Fight on Gun Inquiry",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Republicans and White House Escalate Fight on Gun Inquiry",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Executive Privilege, Doctrine of",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Holder, Eric H Jr",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Issa, Darrell E",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Gun Control",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Justice Department",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "House of Representatives",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Mexico",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Firearms",
+        "rank": 8,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2012-06-20T15:57:48+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "byline": {
+      "original": "By CHARLIE SAVAGE",
+      "person": [
+        {
+          "firstname": "Charlie",
+          "middlename": null,
+          "lastname": "SAVAGE",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "53f8026938f0d835538dc5db",
+    "word_count": 1251,
+    "score": 1.0,
+    "uri": "nyt://article/98096b96-f561-5d1c-b9f5-a9b49d7979c9"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2012/06/20/us/bodybuilders-flinch-at-googles-venice-beach-incursion.html",
+    "snippet": "A leasing spree by Google that includes a fabled gym has raised fears of a culture clash in the Los Angeles beach community of Venice, where the likes of Arnold Schwarzenegger have trained.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/06/20/us/VENICE-1/VENICE-1-articleLarge.jpg",
+        "height": 370,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2012/06/20/us/VENICE-1/VENICE-1-articleLarge.jpg",
+          "xlargeheight": 370
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/06/20/us/VENICE-1/VENICE-1-thumbStandard-v2.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2012/06/20/us/VENICE-1/VENICE-1-thumbStandard-v2.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Venice Beach Bodybuilders Fear Google Is Kicking Sand at Them",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Venice Beach Bodybuilders Fear Google Is Kicking Sand at Them",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Venice (Calif)",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Google Inc",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Body Building",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Gold's Gym International Inc",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Schwarzenegger, Arnold",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Real Estate (Commercial)",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2012-06-20T03:28:19+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "byline": {
+      "original": "By ADAM NAGOURNEY and IAN LOVETT",
+      "person": [
+        {
+          "firstname": "Adam",
+          "middlename": null,
+          "lastname": "NAGOURNEY",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Ian",
+          "middlename": null,
+          "lastname": "LOVETT",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "515da1bfcf28d0219d001173",
+    "word_count": 1070,
+    "score": 1.0,
+    "uri": "nyt://article/d0ee8899-6e88-535a-b33f-3811e23f6774"
+  }
+]

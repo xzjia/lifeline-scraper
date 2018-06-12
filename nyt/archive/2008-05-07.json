@@ -1,0 +1,201 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2008/05/07/dining/07pour.html",
+    "snippet": "In recent months, wine consumers have been portrayed as easily manipulated victims who can be influenced by price, pretense or hype.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/05/06/dining/07pour_span.600.jpg",
+        "height": 358,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2008/05/06/dining/07pour_span.600.jpg",
+          "xlargeheight": 358
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/05/06/dining/wine_7575.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2008/05/06/dining/wine_7575.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Wine\u2019s Pleasures: Are They All in Your Head?",
+      "kicker": "The Pour",
+      "content_kicker": "The Pour",
+      "print_headline": "Wine\u2019s Pleasures: Are They All In Your Head?",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Wines",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Retail Stores and Trade",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Psychology and Psychologists",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Alcoholic Beverages",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Prices (Fares, Fees and Rates)",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2008-05-07T04:00:00+0000",
+    "document_type": "article",
+    "new_desk": "Dining",
+    "byline": {
+      "original": "By ERIC ASIMOV",
+      "person": [
+        {
+          "firstname": "Eric",
+          "middlename": null,
+          "lastname": "ASIMOV",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "548119ed38f0d874625c807a",
+    "word_count": 1675,
+    "score": 1.0,
+    "uri": "nyt://article/332325fc-f466-56b1-a0ca-48cb38c96fd1"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2008/05/07/nyregion/07lofts.html",
+    "snippet": "At the McKibbin lofts in East Williamsburg, Brooklyn, the rooms are cramped and residents put up with a lot.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/05/07/nyregion/lofts75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2008/05/07/nyregion/lofts75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Young Artists Find a Private Space, Only Without the Privacy",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Young Artists Find a Private Space, Only Without the Privacy",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Housing",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Williamsburg (NYC)",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Gawker Media",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Lofts",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Renting and Leasing",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2008-05-07T04:00:00+0000",
+    "document_type": "article",
+    "new_desk": "Metro",
+    "byline": {
+      "original": "By CARA BUCKLEY",
+      "person": [
+        {
+          "firstname": "Cara",
+          "middlename": null,
+          "lastname": "BUCKLEY",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "54811eb538f0d874625c80eb",
+    "word_count": 1497,
+    "score": 1.0,
+    "uri": "nyt://article/3e633566-dab8-5f01-93dc-23fa4d241b7f"
+  }
+]

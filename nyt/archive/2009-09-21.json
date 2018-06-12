@@ -1,0 +1,280 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2009/09/21/world/asia/21afghan.html",
+    "snippet": "Gen. Stanley A. McChrystal warned in a confidential assessment that he needed additional troops by next year or the conflict \u201cwill likely result in failure.\u201d",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "General Calls for More U.S. Troops to Avoid Afghan Failure",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "General Calls for More Troops To Avoid Afghanistan Failure",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Afghanistan War (2001- )",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Defense and Military Forces",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "McChrystal, Stanley A",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Obama, Barack",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-09-21T03:58:17+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Asia Pacific",
+    "byline": {
+      "original": "By ERIC SCHMITT and THOM SHANKER",
+      "person": [
+        {
+          "firstname": "Eric",
+          "middlename": null,
+          "lastname": "SCHMITT",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Thom",
+          "middlename": null,
+          "lastname": "SHANKER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5456620538f0d84a08fb3653",
+    "word_count": 1016,
+    "score": 1.0,
+    "uri": "nyt://article/482753d4-cf27-5aee-9bdc-4ebc66cfe04d"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/09/22/health/22vacc.html",
+    "snippet": "Additives could stretch the supply of swine flu vaccine, but U.S. officials have doubts about the substances\u2019 safety.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/09/22/science/22vaccine.xlarge1.jpg",
+        "height": 360,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/09/22/science/22vaccine.xlarge1.jpg",
+          "xlargeheight": 360
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/09/22/science/22vaccine.751.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/09/22/science/22vaccine.751.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Benefit and Doubt in Vaccine Additive",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "In Vaccine Additive, Benefit and Doubt",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Swine Influenza",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Vaccination and Immunization",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Medicine and Health",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Influenza",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Drugs (Pharmaceuticals)",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-09-21T18:47:19+0000",
+    "document_type": "article",
+    "new_desk": "Science",
+    "byline": {
+      "original": "By ANDREW POLLACK",
+      "person": [
+        {
+          "firstname": "Andrew",
+          "middlename": null,
+          "lastname": "POLLACK",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5456656338f0d86ef22a036d",
+    "word_count": 1506,
+    "score": 1.0,
+    "uri": "nyt://article/5998a866-c117-5220-893c-997ba0de8635"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/09/21/business/global/21yen.html",
+    "snippet": "This recession has done something that earlier declines could not: turned the Japanese into Wal-Mart shoppers.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/09/21/business/yen_75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/09/21/business/yen_75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Once Slave to Luxury, Japan Catches Thrift Bug",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Once a Slave to Luxury Products, Japan Catches the Thrift Bug",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Japan",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Discount Selling",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Shopping and Retail",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Economic Conditions and Trends",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Wal-Mart Stores Inc",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-09-21T01:42:07+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "section_name": "Global Business",
+    "byline": {
+      "original": "By HIROKO TABUCHI",
+      "person": [
+        {
+          "firstname": "Hiroko",
+          "middlename": null,
+          "lastname": "TABUCHI",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5456612038f0d84a08fb3640",
+    "word_count": 1051,
+    "score": 1.0,
+    "uri": "nyt://article/ea76a31f-bc5c-530b-9dd6-42d1dd31a633"
+  }
+]

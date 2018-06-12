@@ -1,0 +1,517 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2013/01/31/world/middleeast/syria-says-it-was-hit-by-strikes-from-israeli-planes.html",
+    "snippet": "Israel carried out a strike deep inside Syria, American officials reported, saying they believed the target was a shipment of antiaircraft weapons meant for Hezbollah in Lebanon.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "Israeli Airstrike in Syria Targets Arms Convoy, U.S. Says",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Israeli Airstrike In Syria Targets Convoy, U.s. Says",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Defense and Military Forces",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Syria",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Israel",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Hezbollah",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Middle East and North Africa Unrest (2010- )",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2013-01-30T20:35:34+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Middle East",
+    "byline": {
+      "original": "By ISABEL KERSHNER and MICHAEL R. GORDON",
+      "person": [
+        {
+          "firstname": "Isabel",
+          "middlename": null,
+          "lastname": "KERSHNER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Michael",
+          "middlename": "R.",
+          "lastname": "GORDON",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "510a3cd600315214fbb882bf",
+    "word_count": 1166,
+    "score": 1.0,
+    "uri": "nyt://article/165637fb-a8a9-575e-a550-7a90d508e8fd"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2013/01/30/us/strict-chicago-gun-laws-cant-stem-fatal-shots.html",
+    "snippet": "The city\u2019s experience has revealed the complications inherent in carrying out local gun laws around the United States.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/01/30/us/JP-CHICAGO/JP-CHICAGO-articleLarge.jpg",
+        "height": 381,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2013/01/30/us/JP-CHICAGO/JP-CHICAGO-articleLarge.jpg",
+          "xlargeheight": 381
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/01/30/us/JP-CHICAGO/JP-CHICAGO-thumbWide-v2.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2013/01/30/us/JP-CHICAGO/JP-CHICAGO-thumbWide-v2.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/01/30/us/JP-CHICAGO/JP-CHICAGO-thumbStandard-v2.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2013/01/30/us/JP-CHICAGO/JP-CHICAGO-thumbStandard-v2.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Strict Gun Laws in Chicago Can\u2019t Stem Fatal Shots",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Strict Chicago Gun Laws Can\u2019t Stem Fatal Shots",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Gun Control",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Chicago (Ill)",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Murders and Attempted Murders",
+        "rank": 3,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2013-01-30T03:14:31+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "byline": {
+      "original": "By MONICA DAVEY",
+      "person": [
+        {
+          "firstname": "Monica",
+          "middlename": null,
+          "lastname": "DAVEY",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "510892ec00315214fbb87f0c",
+    "word_count": 1393,
+    "score": 1.0,
+    "uri": "nyt://article/e0c48b61-b743-5aa1-aa5a-26e52a381e17"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2013/01/31/business/economy/us-economy-unexpectedly-contracted-in-fourth-quarter.html",
+    "snippet": "The government played a role in slowing the economic recovery as cuts in military spending and other factors overwhelmed the Federal Reserve\u2019s expanded campaign to spur growth.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/01/31/business/Econ/Econ-articleLarge.jpg",
+        "height": 368,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2013/01/31/business/Econ/Econ-articleLarge.jpg",
+          "xlargeheight": 368
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/01/31/business/Econ/Econ-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2013/01/31/business/Econ/Econ-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/01/31/business/Econ/Econ-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2013/01/31/business/Econ/Econ-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "U.S. Growth Halted as Federal Spending Fell in 4th Quarter",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Growth Halted In 4th Quarter Despite the Fed",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "United States Economy",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Federal Budget (US)",
+        "rank": 2,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2013-01-30T13:33:08+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "section_name": "Economy",
+    "byline": {
+      "original": "By NELSON D. SCHWARTZ and BINYAMIN APPELBAUM",
+      "person": [
+        {
+          "firstname": "Nelson",
+          "middlename": null,
+          "lastname": null,
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5109237500315214fbb88062",
+    "word_count": 1020,
+    "score": 1.0,
+    "uri": "nyt://article/a1759d14-c0df-5bb3-8434-96ea45aa3e89"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2013/01/31/health/antibiotics-can-save-lives-of-severely-malnourished-children-studies-find.html",
+    "snippet": "Cheap antibiotics given with nutritional treatment could save tens of thousands of lives a year, researchers found.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/01/31/world/MALNUTRITION/MALNUTRITION-articleLarge-v2.jpg",
+        "height": 361,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2013/01/31/world/MALNUTRITION/MALNUTRITION-articleLarge-v2.jpg",
+          "xlargeheight": 361
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/01/31/world/MALNUTRITION/MALNUTRITION-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2013/01/31/world/MALNUTRITION/MALNUTRITION-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/01/31/world/MALNUTRITION/MALNUTRITION-thumbStandard-v2.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2013/01/31/world/MALNUTRITION/MALNUTRITION-thumbStandard-v2.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Malnourished Gain Lifesaver in Antibiotics",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Malnourished Gain Lifesaver In Antibiotics",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Malnutrition",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Antibiotics",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Research",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Children and Childhood",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "New England Journal of Medicine",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Science (Journal)",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2013-01-30T23:18:02+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "byline": {
+      "original": "By DENISE GRADY",
+      "person": [
+        {
+          "firstname": "Denise",
+          "middlename": null,
+          "lastname": "GRADY",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "510a319000315214fbb881c7",
+    "word_count": 1165,
+    "score": 1.0,
+    "uri": "nyt://article/e8a9bd4e-2ab2-59ef-86d7-e4f13cf4d54f"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2013/01/31/technology/the-blackberry-refreshed-lives-to-fight-another-day.html",
+    "snippet": "The new BlackBerry Z10 is lovely, fast and efficient, bristling with fresh and useful ideas.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/04/19/business/pogue-75/pogue-75-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/04/19/business/pogue-75/pogue-75-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "BlackBerry, Rebuilt, Lives to Fight Another Day",
+      "kicker": "State of the Art",
+      "content_kicker": "State of the Art",
+      "print_headline": "BlackBerry, Rebuilt, Lives To Fight Another Day",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Blackberry (Handheld Device)",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Smartphones",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Research In Motion Ltd",
+        "rank": 3,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2013-01-30T16:00:14+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By DAVID POGUE",
+      "person": [
+        {
+          "firstname": "David",
+          "middlename": null,
+          "lastname": "POGUE",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "510a3cd600315214fbb882c0",
+    "word_count": 1479,
+    "score": 1.0,
+    "uri": "nyt://article/cf0a87a2-761c-50b4-8978-d417a7a7a56d"
+  }
+]

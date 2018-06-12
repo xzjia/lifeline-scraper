@@ -1,0 +1,640 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2009/07/23/fashion/23nostalgia.html",
+    "snippet": "Generation Y: they\u2019re in their 20s and already they\u2019re nostalgic for the pop culture of their childhood.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/07/23/fashion/23nostalgia-600.jpg",
+        "height": 360,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/07/23/fashion/23nostalgia-600.jpg",
+          "xlargeheight": 360
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/07/23/fashion/23nostalgia-75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/07/23/fashion/23nostalgia-75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Harry Potter Is Their Peter Pan",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Harry Potter Is Their Peter Pan",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Age, Chronological",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Music",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Books and Literature",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Movies",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Television",
+        "rank": 7,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-07-22T21:46:20+0000",
+    "document_type": "article",
+    "new_desk": "Styles",
+    "byline": {
+      "original": "By DAVID BROWNE",
+      "person": [
+        {
+          "firstname": "David",
+          "middlename": null,
+          "lastname": "BROWNE",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5454430038f0d839202e9d65",
+    "word_count": 1109,
+    "score": 1.0,
+    "uri": "nyt://article/cbe7f464-8c5c-56be-bf3f-a7c13f6b0afb"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/07/23/technology/personaltech/23pogue.html",
+    "snippet": "Unfair and anticompetitive practices include text-messaging fees, double billing and international roaming charges.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/07/23/technology/personaltech/pogue.600.jpg",
+        "height": 300,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/07/23/technology/personaltech/pogue.600.jpg",
+          "xlargeheight": 300
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/07/23/technology/personaltech/pogue.75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/07/23/technology/personaltech/pogue.75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "The Irksome Cellphone Industry",
+      "kicker": "State of the Art",
+      "content_kicker": "State of the Art",
+      "print_headline": "The Irksome Cellphone Industry",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Wireless Communications",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Politics and Government",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Cellular Telephones",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Telephones and Telecommunications",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Senate Committee on Commerce, Science, and Transportation",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "AT&T Corp",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Verizon Communications",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Prices (Fares, Fees and Rates)",
+        "rank": 8,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-07-22T21:41:03+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "section_name": "Personal Tech",
+    "byline": {
+      "original": "By DAVID POGUE",
+      "person": [
+        {
+          "firstname": "David",
+          "middlename": null,
+          "lastname": "POGUE",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "53f577f638f0d87ef470e556",
+    "word_count": 1319,
+    "score": 1.0,
+    "uri": "nyt://article/1f55789d-e733-5c43-b455-e5c0613fcf33"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/07/23/world/asia/23diplo.html",
+    "snippet": "Secretary of State Hillary Rodham Clinton stiffened the American line against Iran.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/07/22/world/22diplo-75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/07/22/world/22diplo-75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Clinton Speaks of Shielding Mideast From Iran",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Clinton Speaks of Shielding Mideast From a Nuclear Iran",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "United States International Relations",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Clinton, Hillary Rodham",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "North Korea",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Myanmar",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Nuclear Weapons",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Iran",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-07-22T05:16:28+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Asia Pacific",
+    "byline": {
+      "original": "By MARK LANDLER and DAVID E. SANGER",
+      "person": [
+        {
+          "firstname": "Mark",
+          "middlename": null,
+          "lastname": "LANDLER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "David",
+          "middlename": "E.",
+          "lastname": "SANGER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "54543f5e38f0d839202e9d19",
+    "word_count": 1018,
+    "score": 1.0,
+    "uri": "nyt://article/2e8a3b19-bfb7-59ae-9b14-3d969a80affc"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/07/22/sports/baseball/22dna.html",
+    "snippet": "Officials say they are trying to determine if prospects are lying about their age, but tests could reveal more.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/07/22/sports/22dna_75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/07/22/sports/22dna_75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Baseball\u2019s Use of DNA Raises Questions",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Baseball\u2019s Use of DNA Tests on Prospects Finds Controversy, Too",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "organizations",
+        "value": "Major League Baseball",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Baseball",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Tests and Testing",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "DNA (Deoxyribonucleic Acid)",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Organized Labor",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-07-22T01:52:25+0000",
+    "document_type": "article",
+    "new_desk": "Sports",
+    "section_name": "Baseball",
+    "byline": {
+      "original": "By MICHAEL S. SCHMIDT and ALAN SCHWARZ",
+      "person": [
+        {
+          "firstname": "Michael",
+          "middlename": "S.",
+          "lastname": "SCHMIDT",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Alan",
+          "middlename": null,
+          "lastname": "SCHWARZ",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "54543d9738f0d839202e9cec",
+    "word_count": 1086,
+    "score": 1.0,
+    "uri": "nyt://article/7b98fda4-361b-5c67-adfd-22f5cac15a72"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/07/22/dining/22baron.html",
+    "snippet": "Justin Fornal, a k a Baron Ambrosia, introduces audiences to an array of ethnic restaurants in \u201cBronx Flavor,\u201d a gallivanting show that airs on the public-access station BronxNet.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/07/22/dining/22barron600.1.jpg",
+        "height": 331,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/07/22/dining/22barron600.1.jpg",
+          "xlargeheight": 331
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/07/22/dining/22baron.2a.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/07/22/dining/22baron.2a.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "A Bronx Star Without Pinstripes",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "A Bronx Star Without Pinstripes",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Restaurants",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Bronx (NYC)",
+        "rank": 2,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-07-22T01:35:05+0000",
+    "document_type": "article",
+    "new_desk": "Dining",
+    "byline": {
+      "original": "By MELENA RYZIK",
+      "person": [
+        {
+          "firstname": "Melena",
+          "middlename": null,
+          "lastname": "RYZIK",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5454379538f0d839202e9c68",
+    "word_count": 1987,
+    "score": 1.0,
+    "uri": "nyt://article/7b5dc3a0-2f59-5193-9fb8-a1da159c8f21"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/07/22/business/economy/22leonhardt.html",
+    "snippet": "Health care will cost the typical American household roughly $15,000 this year, but many don\u2019t notice how much they\u2019re paying.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/07/22/business/22leonhardtA_xl.jpg",
+        "height": 360,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/07/22/business/22leonhardtA_xl.jpg",
+          "xlargeheight": 360
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/07/22/business/22leonhardtA_75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/07/22/business/22leonhardtA_75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Challenge to Health Bill: Selling Reform",
+      "kicker": "Economic Scene",
+      "content_kicker": "Economic Scene",
+      "print_headline": "Real Challenge To Health Bill: Selling Reform",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Reform and Reorganization",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Medicine and Health",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Health Insurance and Managed Care",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Obama, Barack",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-07-22T01:45:28+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "section_name": "Economy",
+    "byline": {
+      "original": "By DAVID LEONHARDT",
+      "person": [
+        {
+          "firstname": "David",
+          "middlename": null,
+          "lastname": "LEONHARDT",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "54543e4838f0d839202e9cfc",
+    "word_count": 1137,
+    "score": 1.0,
+    "uri": "nyt://article/8dc65ae3-be80-5bcd-9ce0-3501cea50a67"
+  }
+]

@@ -1,0 +1,440 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2009/06/05/world/middleeast/05prexy.html",
+    "snippet": "In a speech in Cairo, President Obama pledged to pursue a two-state solution to Middle East peace \u201cthat is in Israel\u2019s interest, Palestine\u2019s interest.\u201d",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/06/04/world/04prexy-600.jpg",
+        "height": 331,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/06/04/world/04prexy-600.jpg",
+          "xlargeheight": 331
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/06/04/world/28500073-163-100.jpg",
+        "height": 100,
+        "width": 163,
+        "legacy": {
+          "wide": "images/2009/06/04/world/28500073-163-100.jpg",
+          "widewidth": 163,
+          "wideheight": 100
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/06/04/world/04prexy-75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/06/04/world/04prexy-75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Addressing Muslims, Obama Pushes Mideast Peace",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Addressing Muslims, a Blunt Obama Takes On Mideast Issues",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Obama, Barack",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Middle East",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Speeches and Statements",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States International Relations",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Egypt",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-06-04T11:19:36+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Middle East",
+    "byline": {
+      "original": "By JEFF ZELENY and ALAN COWELL",
+      "person": [
+        {
+          "firstname": "Jeff",
+          "middlename": null,
+          "lastname": "ZELENY",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Alan",
+          "middlename": null,
+          "lastname": "COWELL",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "540a45dd38f0d84fb88336d8",
+    "word_count": 1018,
+    "score": 1.0,
+    "uri": "nyt://article/fd6db18c-c7ab-56ce-9ed5-540fa6942a9f"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/06/04/technology/personaltech/04pogue.html",
+    "snippet": "Palm\u2019s new multitouch smartphone may be the challenger that can finally out-iPhone the iPhone.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/06/04/technology/personaltech/04pogue.600.jpg",
+        "height": 280,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/06/04/technology/personaltech/04pogue.600.jpg",
+          "xlargeheight": 280
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/06/04/technology/personaltech/04pogue.75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/06/04/technology/personaltech/04pogue.75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Palm Pre, Elegant Contender",
+      "kicker": "State of the Art",
+      "content_kicker": "State of the Art",
+      "print_headline": "Palm Pre, Elegant Contender",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Wireless Communications",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Smartphones",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Palm Inc",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Global Positioning System",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-06-04T01:01:41+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "section_name": "Personal Tech",
+    "byline": {
+      "original": "By DAVID POGUE",
+      "person": [
+        {
+          "firstname": "David",
+          "middlename": null,
+          "lastname": "POGUE",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "53f5819938f0d87ef470e63c",
+    "word_count": 1455,
+    "score": 1.0,
+    "uri": "nyt://article/a2f6fde8-7d30-5457-a931-dda8f7eddf00"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/06/04/us/04pharmacy.html",
+    "snippet": "Even with low-cost generics and discounting by big chains, many Americans still find themselves unable to afford their prescription medications.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/06/04/us/04pharmacy_span.jpg",
+        "height": 330,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/06/04/us/04pharmacy_span.jpg",
+          "xlargeheight": 330
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/06/04/us/04pharmacy75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/06/04/us/04pharmacy75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Slump Pushing Cost of Drugs Out of Reach",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Slump Pushing Cost of Drugs Out of Reach",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Drugs (Pharmaceuticals)",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Economy",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Drugstores",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Medicine and Health",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Health Insurance and Managed Care",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-06-04T01:01:35+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "byline": {
+      "original": "By KEVIN SACK",
+      "person": [
+        {
+          "firstname": "Kevin",
+          "middlename": null,
+          "lastname": "SACK",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5452804b38f0d81b603ec9e3",
+    "word_count": 1132,
+    "score": 1.0,
+    "uri": "nyt://article/b755bee5-0a22-5d4e-a5e2-4acb86801fb2"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/06/04/us/04terror.html",
+    "snippet": "Many defendants are brought up on immigration charges after prosecutors fail to win terrorism convictions.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/06/04/us/04terror75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/06/04/us/04terror75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Cleared of Terror Charges, Facing Deportation",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Cleared of Terrorism Charges, but Then a Target for Deportation",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Megahed, Youssef Samir",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Terrorism",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Immigration Detention",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Immigration and Emigration",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Suits and Litigation",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-06-04T02:12:17+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "byline": {
+      "original": "By DAMIEN CAVE",
+      "person": [
+        {
+          "firstname": "Damien",
+          "middlename": null,
+          "lastname": "CAVE",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5452824c38f0d81b603eca13",
+    "word_count": 1564,
+    "score": 1.0,
+    "uri": "nyt://article/ee954762-aeae-5bce-a5ce-4159eb583b94"
+  }
+]

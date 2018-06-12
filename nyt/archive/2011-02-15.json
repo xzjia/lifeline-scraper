@@ -1,0 +1,216 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2011/02/16/business/global/16arctic.html",
+    "snippet": "Safety and environmental fears made the United States wary, but oil companies are eager to follow Russia in.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/02/16/business/16arctic/16arctic-articleLarge.jpg",
+        "height": 330,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2011/02/16/business/16arctic/16arctic-articleLarge.jpg",
+          "xlargeheight": 330
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/02/16/business/16arctic/16arctic-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/02/16/business/16arctic/16arctic-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Russia Embraces Offshore Arctic Drilling",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Russia Embraces Arctic Drilling",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Arctic Regions",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Offshore Drilling and Exploration",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Russia",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Oil (Petroleum) and Gasoline",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-02-15T14:06:43+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "section_name": "Global Business",
+    "byline": {
+      "original": "By ANDREW E. KRAMER and CLIFFORD KRAUSS",
+      "person": [
+        {
+          "firstname": "Andrew",
+          "middlename": "E.",
+          "lastname": "KRAMER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Clifford",
+          "middlename": null,
+          "lastname": "KRAUSS",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "53cebfa738f0d85df3bb8aab",
+    "word_count": 1189,
+    "score": 1.0,
+    "uri": "nyt://article/4e0e5630-53be-54eb-93c7-85e59dc23ad1"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/02/16/technology/16internet.html",
+    "snippet": "A blackout during protests has mesmerized technical experts and raised concerns about other governments.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/02/16/world/INTERNET-1/INTERNET-1-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/02/16/world/INTERNET-1/INTERNET-1-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Egypt Leaders Found \u2018Off\u2019 Switch for Internet",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Egypt\u2019s Autocracy Found Internet\u2019s \u2018Off\u2019 Switch",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Egypt",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Computers and the Internet",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Politics and Government",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Demonstrations, Protests, and Riots",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Mubarak, Hosni",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-02-15T23:39:34+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "byline": {
+      "original": "By JAMES GLANZ and JOHN MARKOFF",
+      "person": [
+        {
+          "firstname": "James",
+          "middlename": null,
+          "lastname": "GLANZ",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "John",
+          "middlename": null,
+          "lastname": "MARKOFF",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5400b38638f0d841b2f3845d",
+    "word_count": 2200,
+    "score": 1.0,
+    "uri": "nyt://article/34564de9-cce0-5e99-8c69-b9492dbfeb32"
+  }
+]

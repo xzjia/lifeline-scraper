@@ -1,0 +1,320 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2011/11/07/arts/music/Jay-Z-Kanye-West-concert-review.html",
+    "snippet": "On Saturday night, Jay-Z and Kanye West avoided overtly audacious moments and relied on minimal gestures to provide thrills for their audience.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/11/07/arts/07jaywest1/07jaywest1-articleLarge.jpg",
+        "height": 315,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2011/11/07/arts/07jaywest1/07jaywest1-articleLarge.jpg",
+          "xlargeheight": 315
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/11/07/arts/07jaywest1/07jaywest1-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/11/07/arts/07jaywest1/07jaywest1-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Hip-Hop Kings, Shorn of Excess",
+      "kicker": "Music Review",
+      "content_kicker": "Music Review",
+      "print_headline": "Hip-Hop Kings, Shorn of Excess",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Jay-Z",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "West, Kanye",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Rap and Hip-Hop",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Izod Center (East Rutherford, NJ)",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Music",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-11-06T15:16:24+0000",
+    "document_type": "article",
+    "new_desk": "Culture",
+    "section_name": "Music",
+    "byline": {
+      "original": "By JON CARAMANICA",
+      "person": [
+        {
+          "firstname": "Jon",
+          "middlename": null,
+          "lastname": "CARAMANICA",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "Review",
+    "_id": "515db476cf28d0219d003d49",
+    "word_count": 1051,
+    "score": 1.0,
+    "uri": "nyt://article/a6441b05-5e04-5d11-9456-9f8670f94e8a"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/11/07/world/europe/pressure-mounts-on-greek-premier-to-resign.html",
+    "snippet": "Prime Minister George Papandreou and his chief rival agreed to create a new government, under a new prime minister, appearing to break a deadlock that had paralyzed Greece.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/11/07/world/europe/07greece4/07greece4-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/11/07/world/europe/07greece4/07greece4-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Greek Leaders Reach Deal to Form a New Government",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Greek Leaders In Deal To Form New Government",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "European Sovereign Debt Crisis (2010- )",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Greece",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Papandreou, George A",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Politics and Government",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-11-06T14:51:07+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Europe",
+    "byline": {
+      "original": "By RACHEL DONADIO and NIKI KITSANTONIS",
+      "person": [
+        {
+          "firstname": "Rachel",
+          "middlename": null,
+          "lastname": "DONADIO",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Niki",
+          "middlename": null,
+          "lastname": "KITSANTONIS",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "51c1b64d7e0d9c0839d29736",
+    "word_count": 1156,
+    "score": 1.0,
+    "uri": "nyt://article/cabe7b64-1899-5092-a7bc-adb1aa441407"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/11/07/world/panetta-weighs-military-cuts-once-thought-out-of-bounds.html",
+    "snippet": "Under orders to cut the Pentagon budget by more than $450 billion, Defense Secretary Leon E. Panetta is considering reductions in spending categories once considered sacrosanct.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/11/07/world/PANETTA/PANETTA-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/11/07/world/PANETTA/PANETTA-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Weighing Pentagon Cuts, Panetta Faces Deep Pressures",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Panetta Weighs Pentagon Cuts Once Off Limits",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Panetta, Leon E",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Defense and Military Forces",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Federal Budget (US)",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Politics and Government",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Defense Department",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Military Bases and Installations",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Pensions and Retirement Plans",
+        "rank": 7,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-11-06T21:28:19+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "byline": {
+      "original": "By THOM SHANKER and ELISABETH BUMILLER",
+      "person": [
+        {
+          "firstname": "Thom",
+          "middlename": null,
+          "lastname": "SHANKER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Elisabeth",
+          "middlename": null,
+          "lastname": "BUMILLER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5402e7ae38f0d80cceb20001",
+    "word_count": 1318,
+    "score": 1.0,
+    "uri": "nyt://article/b39c1900-dd9f-5dc4-8662-1af99199cd83"
+  }
+]

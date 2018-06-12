@@ -1,0 +1,710 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2012/02/04/us/maine-resident-struggles-to-heat-his-home.html",
+    "snippet": "Cuts in a federal energy-assistance program have left some families struggling to pay for oil to heat their homes.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/02/04/us/LAND/LAND-articleLarge.jpg",
+        "height": 371,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2012/02/04/us/LAND/LAND-articleLarge.jpg",
+          "xlargeheight": 371
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/02/04/us/LAND/LAND-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2012/02/04/us/LAND/LAND-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "In Fuel Oil Country, Cold That Cuts to the Heart",
+      "kicker": "This Land",
+      "content_kicker": "This Land",
+      "print_headline": "In Fuel Oil Country, Cold That Cuts to the Heart",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Oil (Petroleum) and Gasoline",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Heating",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Maine",
+        "rank": 3,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2012-02-04T04:10:30+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "byline": {
+      "original": "By DAN BARRY",
+      "person": [
+        {
+          "firstname": "Dan",
+          "middlename": null,
+          "lastname": "BARRY",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "51c1d4c27e0d9c0839d29ad8",
+    "word_count": 1444,
+    "score": 1.0,
+    "uri": "nyt://article/58a63205-f3e6-5c48-97a0-3bef0183f124"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2012/02/05/education/international-students-pay-top-dollar-at-us-colleges.html",
+    "snippet": "At the University of Washington, 18 percent of the freshmen are foreigners, and each pays about three times as much as students from Washington State.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/02/05/us/INTERNATIONAL-1/INTERNATIONAL-1-articleLarge.jpg",
+        "height": 360,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2012/02/05/us/INTERNATIONAL-1/INTERNATIONAL-1-articleLarge.jpg",
+          "xlargeheight": 360
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/02/05/us/INTERNATIONAL-1/INTERNATIONAL-1-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2012/02/05/us/INTERNATIONAL-1/INTERNATIONAL-1-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Taking More Seats on Campus, Foreigners Also Pay the Freight",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Taking More Seats on Campus, Foreigners Also Pay the Freight",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Foreign Students (in US)",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Colleges and Universities",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Tuition",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "University of Washington",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Budgets and Budgeting",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "States (US)",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Washington (State)",
+        "rank": 7,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2012-02-04T23:29:44+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "byline": {
+      "original": "By TAMAR LEWIN",
+      "person": [
+        {
+          "firstname": "Tamar",
+          "middlename": null,
+          "lastname": "LEWIN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "515dadd0cf28d0219d002ca5",
+    "word_count": 1502,
+    "score": 1.0,
+    "uri": "nyt://article/581bc4af-04d9-5dde-a6a1-1f75bb43c38c"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2012/02/05/sports/football/eli-manning-displays-personal-grit-through-roller-coaster-season.html",
+    "snippet": "As the Giants weaved through this inconsistent season of failure and well-timed flourishing, Eli Manning displayed a personal grit that most Giants fans had not necessarily seen before.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/02/05/sports/giants/giants-articleLarge.jpg",
+        "height": 380,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2012/02/05/sports/giants/giants-articleLarge.jpg",
+          "xlargeheight": 380
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/02/05/sports/giants/giants-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2012/02/05/sports/giants/giants-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Eli Manning, Enduring Under Pressure",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Enduring Under Pressure",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Manning, Eli",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "New York Giants",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Super Bowl",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Football",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Manning, Peyton",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2012-02-04T16:26:15+0000",
+    "document_type": "article",
+    "new_desk": "Sports",
+    "section_name": "Pro Football",
+    "byline": {
+      "original": "By SAM BORDEN",
+      "person": [
+        {
+          "firstname": "Sam",
+          "middlename": null,
+          "lastname": "BORDEN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "515dadd1cf28d0219d002cab",
+    "word_count": 1271,
+    "score": 1.0,
+    "uri": "nyt://article/c0a6a8e4-339d-5809-9ac1-cb6c2fb62240"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2012/02/05/world/middleeast/syria-homs-death-toll-said-to-rise.html",
+    "snippet": "A United Nations Security Council effort to end the violence in Syria collapsed in acrimony hours after the Syrian military attacked the ravaged city of Homs.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/02/05/world/syria_span/sub-syria-articleLarge.jpg",
+        "height": 350,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2012/02/05/world/syria_span/sub-syria-articleLarge.jpg",
+          "xlargeheight": 350
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/02/05/world/syria_span/sub-syria-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2012/02/05/world/syria_span/sub-syria-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Russia and China Block U.N. Action on Crisis in Syria",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Russia and China Block U.N. Action on Crisis in Syria",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Syria",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Assad, Bashar Al-",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Security Council (UN)",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Middle East and North Africa Unrest (2010- )",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Homs (Syria)",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Defense and Military Forces",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Deaths (Fatalities)",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "United Nations",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Russia",
+        "rank": 9,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "China",
+        "rank": 10,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2012-02-04T11:23:06+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Middle East",
+    "byline": {
+      "original": "By NEIL MacFARQUHAR and ANTHONY SHADID",
+      "person": [
+        {
+          "firstname": "Neil",
+          "middlename": null,
+          "lastname": "MacFARQUHAR",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Anthony",
+          "middlename": null,
+          "lastname": "SHADID",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "53f3403838f0d847437e06d1",
+    "word_count": 1678,
+    "score": 1.0,
+    "uri": "nyt://article/6fe6dbd7-9d8e-5f98-b6dc-aaa25542c14e"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2012/02/05/nyregion/a-sometimes-murky-line-between-reasonable-parenting-and-neglect.html",
+    "snippet": "Amid arrests and outrage over bad parenting, the matter of how long and under what circumstances it is acceptable to leave a child unattended goes unanswered.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/02/05/nyregion/05JPBIGCITY1/05JPBIGCITY1-articleLarge.jpg",
+        "height": 350,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2012/02/05/nyregion/05JPBIGCITY1/05JPBIGCITY1-articleLarge.jpg",
+          "xlargeheight": 350
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/02/05/nyregion/05JPBIGCITY1/05JPBIGCITY1-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2012/02/05/nyregion/05JPBIGCITY1/05JPBIGCITY1-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Parents Test Boundaries of Neglect",
+      "kicker": "Big City",
+      "content_kicker": "Big City",
+      "print_headline": "Parents Test Boundaries Of Neglect",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Child Care",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Parenting",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "New York City",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Child Abuse and Neglect",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2012-02-04T05:06:35+0000",
+    "document_type": "article",
+    "new_desk": "Metro",
+    "byline": {
+      "original": "By GINIA BELLAFANTE",
+      "person": [
+        {
+          "firstname": "Ginia",
+          "middlename": null,
+          "lastname": "BELLAFANTE",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "53f3387938f0d847437e0663",
+    "word_count": 911,
+    "score": 1.0,
+    "uri": "nyt://article/658cc9ab-f05a-5872-b55c-d9fa48bd7847"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2012/02/05/us/politics/gingrich-patron-adelson-said-to-be-open-to-aiding-romney.html",
+    "snippet": "The casino magnate Sheldon Adelson has relayed assurances that he will donate millions more toward defeating President Obama even if his candidate is not the nominee, associates said.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/02/05/us/sub-05adelson/sub-05adelson-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2012/02/05/us/sub-05adelson/sub-05adelson-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Gingrich Patron Could Have a Plan B: Romney",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Gingrich Patron Could Have a Plan B: Romney",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Adelson, Sheldon G",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Gingrich, Newt",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Romney, Mitt",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Presidential Election of 2012",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Campaign Finance",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Republican Party",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Political Action Committees",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Politics and Government",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Winning Our Future",
+        "rank": 9,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Obama, Barack",
+        "rank": 10,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2012-02-04T23:52:35+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "section_name": "Politics",
+    "byline": {
+      "original": "By JEFF ZELENY and JIM RUTENBERG",
+      "person": [
+        {
+          "firstname": "Jeff",
+          "middlename": null,
+          "lastname": "ZELENY",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Jim",
+          "middlename": null,
+          "lastname": "RUTENBERG",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "53f341ab38f0d847437e06e3",
+    "word_count": 1405,
+    "score": 1.0,
+    "uri": "nyt://article/61ad87e6-2f5c-5676-8286-1536156d5336"
+  }
+]

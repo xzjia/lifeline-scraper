@@ -1,0 +1,75 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2010/11/08/movies/08clayburgh.html",
+    "snippet": "The actress Jill Clayburgh, who died on Friday, had the gift of resembling a real person undergoing life-altering change.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/11/08/arts/CLAYBURGH/CLAYBURGH-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/11/08/arts/CLAYBURGH/CLAYBURGH-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Clayburgh\u2019s Unforgettable \u2018Unmarried Woman\u2019",
+      "kicker": "An Appraisal",
+      "content_kicker": "An Appraisal",
+      "print_headline": "That \u2018Unmarried Woman\u2019: Unaffected and Unforgettable",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Actors and Actresses",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Clayburgh, Jill",
+        "rank": 2,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-11-07T21:14:23+0000",
+    "document_type": "article",
+    "new_desk": "Culture",
+    "byline": {
+      "original": "By JANET MASLIN",
+      "person": [
+        {
+          "firstname": "Janet",
+          "middlename": null,
+          "lastname": "MASLIN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "An Appraisal",
+    "_id": "5420608738f0d81f7a5fffd9",
+    "word_count": 766,
+    "score": 1.0,
+    "uri": "nyt://article/4c7ba050-0681-588c-8e64-484564107605"
+  }
+]

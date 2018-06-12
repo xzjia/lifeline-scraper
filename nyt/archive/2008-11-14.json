@@ -1,0 +1,168 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2008/11/14/us/politics/14obama.html",
+    "snippet": "Life for the Obamas has changed forever under the constraints and security of the president-elect\u2019s bubble.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/11/14/us/15obama_75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2008/11/14/us/15obama_75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "For Obama and Family, a Personal Transition",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "For Obama and Family, the Other Transition Is Strictly Personal",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Obama, Barack",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Secret Service",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Chicago (Ill)",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Presidents and Presidency (US)",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Presidential Election of 2008",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2008-11-14T03:05:28+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "section_name": "Politics",
+    "byline": {
+      "original": "By PETER BAKER",
+      "person": [
+        {
+          "firstname": "Peter",
+          "middlename": null,
+          "lastname": "BAKER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "547a17c138f0d803f445b1f3",
+    "word_count": 1300,
+    "score": 1.0,
+    "uri": "nyt://article/5d2af630-2824-5a81-b000-e80728b19dd4"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2008/11/15/business/yourmoney/15money.html",
+    "snippet": "A sort of low-grade fear has set in among insurance policyholders. How can you protect yourself?",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/11/15/business/yourmoney/15money75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2008/11/15/business/yourmoney/15money75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "What Happens When Your Insurer Goes Under?",
+      "kicker": "Your Money",
+      "content_kicker": "Your Money",
+      "print_headline": "Your Insurance Company, and Related Worries",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Personal Finances",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Insurance",
+        "rank": 2,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2008-11-14T20:57:29+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "section_name": "Your Money",
+    "byline": {
+      "original": "By RON LIEBER",
+      "person": [
+        {
+          "firstname": "Ron",
+          "middlename": null,
+          "lastname": "LIEBER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "547a22d438f0d803f445b2e3",
+    "word_count": 1392,
+    "score": 1.0,
+    "uri": "nyt://article/baa2709e-9905-5191-b155-40b1d322049d"
+  }
+]

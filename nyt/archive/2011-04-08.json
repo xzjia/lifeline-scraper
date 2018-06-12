@@ -1,0 +1,751 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2011/04/10/realestate/10cov.html",
+    "snippet": "In New York City buildings, many of which were built before 1930, evidence of earlier tenants lurks in unexpected corners.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/04/10/realestate/10cover_span/10cover_span-articleLarge.jpg",
+        "height": 403,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2011/04/10/realestate/10cover_span/10cover_span-articleLarge.jpg",
+          "xlargeheight": 403
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/04/10/realestate/10cover_span/10cover_span-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/04/10/realestate/10cover_span/10cover_span-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Message From a Stranger",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Message From A Stranger",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "New York City",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Housing and Real Estate",
+        "rank": 2,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-04-08T17:31:27+0000",
+    "document_type": "article",
+    "new_desk": "RealEstate",
+    "byline": {
+      "original": "By CONSTANCE ROSENBLUM",
+      "person": [
+        {
+          "firstname": "Constance",
+          "middlename": null,
+          "lastname": "ROSENBLUM",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "540c8b9838f0d85bf25149d2",
+    "word_count": 1800,
+    "score": 1.0,
+    "uri": "nyt://article/9d7b4e05-a70d-5612-8878-919b3b5a2fa8"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/04/08/nyregion/08walcott.html",
+    "snippet": "Deputy Mayor Dennis M. Walcott is a former teacher, a public school graduate, a self-styled Queens guy and a sharp contrast to his predecessor.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/04/09/nyregion/09walcott-span/09walcott-span-articleLarge.jpg",
+        "height": 390,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2011/04/09/nyregion/09walcott-span/09walcott-span-articleLarge.jpg",
+          "xlargeheight": 390
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/04/09/nyregion/09walcott-span/09walcott-span-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/04/09/nyregion/09walcott-span/09walcott-span-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Schools\u2019 New Emissary, From City Hall",
+      "kicker": "Man in the News: Dennis Malcolm Walcott",
+      "content_kicker": "Man in the News: Dennis Malcolm Walcott",
+      "print_headline": "New Emissary, From City Hall",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Education (K-12)",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Education Department (NYC)",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Walcott, Dennis M",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "New York City",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Appointments and Executive Changes",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-04-08T04:14:32+0000",
+    "document_type": "article",
+    "new_desk": "Metro",
+    "byline": {
+      "original": "By FERNANDA SANTOS",
+      "person": [
+        {
+          "firstname": "Fernanda",
+          "middlename": null,
+          "lastname": "SANTOS",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "540c8d6038f0d85bf25149eb",
+    "word_count": 937,
+    "score": 1.0,
+    "uri": "nyt://article/6c4ebc48-db4b-5f10-a255-5c478a0d48b1"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/04/08/us/politics/08congress.html",
+    "snippet": "President Obama and Congressional leaders met to resolve an impasse that has shifted from budget cuts to disputes over issues like abortion and the E.P.A.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/04/08/us/08fiscal4_337/08fiscal4_337-thumbStandard-v2.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/04/08/us/08fiscal4_337/08fiscal4_337-thumbStandard-v2.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "No Accord in Budget Talks as Policy Fights Hamper Deal",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Policy Takes Center Stage as Shutdown Nears",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Federal Budget (US)",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Politics and Government",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Shutdowns (Institutional)",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Obama, Barack",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Boehner, John A",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Reid, Harry",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Abortion",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Environmental Protection Agency",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Republican Party",
+        "rank": 9,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "House of Representatives",
+        "rank": 10,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-04-08T02:45:37+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "section_name": "Politics",
+    "byline": {
+      "original": "By CARL HULSE",
+      "person": [
+        {
+          "firstname": "Carl",
+          "middlename": null,
+          "lastname": "HULSE",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "540c86fe38f0d85bf2514982",
+    "word_count": 1179,
+    "score": 1.0,
+    "uri": "nyt://article/5cf4f700-2563-5a98-8887-e23a89b5c2f5"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/04/08/world/middleeast/08egypt.html",
+    "snippet": "In government ministries, factories and universities, protests have focused on those viewed as surrogates of Hosni Mubarak.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/04/08/world/08EGYPT/08EGYPT-articleLarge-v2.jpg",
+        "height": 330,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2011/04/08/world/08EGYPT/08EGYPT-articleLarge-v2.jpg",
+          "xlargeheight": 330
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/04/08/world/08EGYPT/08EGYPT-thumbStandard-v2.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/04/08/world/08EGYPT/08EGYPT-thumbStandard-v2.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Egypt Protests Go On, Seeking New Beginning",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Egypt Protests Go On, Seeking New Beginning",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Egypt",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Demonstrations, Protests, and Riots",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Middle East and North Africa Unrest (2010- )",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Mubarak, Hosni",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Colleges and Universities",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-04-08T01:05:07+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Middle East",
+    "byline": {
+      "original": "By NEIL MacFARQUHAR",
+      "person": [
+        {
+          "firstname": "Neil",
+          "middlename": null,
+          "lastname": "MacFARQUHAR",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "540c890438f0d85bf25149a6",
+    "word_count": 1316,
+    "score": 1.0,
+    "uri": "nyt://article/cd583980-c479-5473-921a-40a9175eb389"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/04/08/business/08clutter.html",
+    "snippet": "In the face of evidence that jam-packed stores encourage sales, retailers are redesigning their space to stuff in more displays.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/04/08/business/Clutter1/Clutter1-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/04/08/business/Clutter1/Clutter1-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Stuff Piled in the Aisle? It\u2019s There to Get You to Spend More",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Stuff Piled in the Aisle? It\u2019s There to Get You to Spend More",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Shopping and Retail",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Consumer Behavior",
+        "rank": 2,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-04-08T00:01:33+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By STEPHANIE CLIFFORD",
+      "person": [
+        {
+          "firstname": "Stephanie",
+          "middlename": null,
+          "lastname": "CLIFFORD",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "540c88c838f0d85bf25149a1",
+    "word_count": 1241,
+    "score": 1.0,
+    "uri": "nyt://article/09f348e7-3415-54aa-bb4d-ccd43b193722"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/04/10/fashion/10TEEN.html",
+    "snippet": "Community educators and parents are using shows like MTV\u2019s \u201cTeen Mom\u201d to prompt discussions about sex education and romantic relationships.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/04/10/fashion/MOMS/MOMS-articleLarge.jpg",
+        "height": 315,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2011/04/10/fashion/MOMS/MOMS-articleLarge.jpg",
+          "xlargeheight": 315
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/04/10/fashion/MOMS/MOMS-thumbStandard-v2.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/04/10/fashion/MOMS/MOMS-thumbStandard-v2.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Fighting Teenage Pregnancy With MTV Stars as Exhibit A",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Fighting Teenage Pregnancy With MTV Stars as Exhibit A",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Teenage Pregnancy",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Sex Education",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Families and Family Life",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Parenting",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "MTV Networks",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Television",
+        "rank": 7,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-04-08T22:20:56+0000",
+    "document_type": "article",
+    "new_desk": "Styles",
+    "byline": {
+      "original": "By JAN HOFFMAN",
+      "person": [
+        {
+          "firstname": "Jan",
+          "middlename": null,
+          "lastname": "HOFFMAN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "540c970b38f0d85bf2514a7f",
+    "word_count": 1665,
+    "score": 1.0,
+    "uri": "nyt://article/2c479ca3-a900-5179-83fc-b9a94f316e71"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/04/09/us/politics/09fiscal.html",
+    "snippet": "Lawmakers reached a tentative deal shortly before a deadline that would have shuttered federal facilities and furloughed thousands of workers.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/04/09/us/politics/09fiscal_w_511/09fiscal_w_511-articleLarge.jpg",
+        "height": 0,
+        "width": 0,
+        "legacy": {
+          "xlargewidth": 0,
+          "xlarge": "images/2011/04/09/us/politics/09fiscal_w_511/09fiscal_w_511-articleLarge.jpg",
+          "xlargeheight": 0
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/04/09/us/politics/09fiscal_w_511/09fiscal_w_511-thumbStandard.jpg",
+        "height": 0,
+        "width": 0,
+        "legacy": {
+          "thumbnailheight": 0,
+          "thumbnail": "images/2011/04/09/us/politics/09fiscal_w_511/09fiscal_w_511-thumbStandard.jpg",
+          "thumbnailwidth": 0
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Budget Deal to Cut $38 Billion Averts Shutdown",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Last-Minute Budget Deal Averts Government Shutdown",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Federal Budget (US)",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Politics and Government",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Shutdowns (Institutional)",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Obama, Barack",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "House of Representatives",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Senate",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Boehner, John A",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "McConnell, Mitch",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Reid, Harry",
+        "rank": 9,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-04-08T13:19:51+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "section_name": "Politics",
+    "byline": {
+      "original": "By CARL HULSE",
+      "person": [
+        {
+          "firstname": "Carl",
+          "middlename": null,
+          "lastname": "HULSE",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "540c942338f0d85bf2514a4c",
+    "word_count": 1511,
+    "score": 1.0,
+    "uri": "nyt://article/cc7c9f54-7942-5723-9d65-b596304b9f67"
+  }
+]

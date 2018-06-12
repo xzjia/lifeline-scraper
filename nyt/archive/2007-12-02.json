@@ -1,0 +1,87 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2007/12/02/business/02weather.html",
+    "snippet": "As volatile weather alters the sale of warm clothing, the apparel industry turns to climate science for help.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2007/12/02/business/600-weather.jpg",
+        "height": 385,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2007/12/02/business/600-weather.jpg",
+          "xlargeheight": 385
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Meteorologists Shape Fashion Trends",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "What to Wear? Meteorologists Shape Fashion",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Apparel",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Global Warming",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Weather",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Seasons and Months",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2007-12-02T05:00:00+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By MICHAEL BARBARO",
+      "person": [
+        {
+          "firstname": "Michael",
+          "middlename": null,
+          "lastname": "BARBARO",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5488578d38f0d8602128f4bd",
+    "word_count": 1112,
+    "score": 1.0,
+    "uri": "nyt://article/2294c82e-4325-59d9-a6d2-d07cd2a504d3"
+  }
+]

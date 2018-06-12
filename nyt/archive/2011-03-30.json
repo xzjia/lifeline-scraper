@@ -1,0 +1,622 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2011/03/31/technology/personaltech/31pogue.html",
+    "snippet": "Amazon has introduced the Cloud Player, a Web page that allows you listen to your music collection from any computer or Android phone. And it\u2019s almost free.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/03/31/business/POGUE/POGUE-thumbStandard-v3.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/03/31/business/POGUE/POGUE-thumbStandard-v3.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "The Cloud That Rains Music",
+      "kicker": "State of the Art",
+      "content_kicker": "State of the Art",
+      "print_headline": "The Cloud That Rains Music",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Music",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Amazon.com Inc",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Computers and the Internet",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Cloud Computing",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-03-30T17:35:43+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "section_name": "Personal Tech",
+    "byline": {
+      "original": "By DAVID POGUE",
+      "person": [
+        {
+          "firstname": "David",
+          "middlename": null,
+          "lastname": "POGUE",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "540c426738f0d85e13e4d1b8",
+    "word_count": 1323,
+    "score": 1.0,
+    "uri": "nyt://article/86d706e5-5e59-5f73-8f33-072937cf7263"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/03/31/world/africa/31intel.html",
+    "snippet": "Clandestine operatives have been sent into Libya to gather intelligence for military airstrikes and make contacts with rebels battling Col. Muammar el-Qaddafi\u2019s forces.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/03/31/world/31intel/31intel-articleLarge.jpg",
+        "height": 340,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2011/03/31/world/31intel/31intel-articleLarge.jpg",
+          "xlargeheight": 340
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/03/31/world/31intel/31intel-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/03/31/world/31intel/31intel-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "C.I.A. Agents in Libya Aid Airstrikes and Meet Rebels",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Top Libyan Official Defects; Rebels Are Retreating: C.I.A. Spies Aiding Airstrikes And Assessing Qaddafi\u2019s Foes",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Libya",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Central Intelligence Agency",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Defense and Military Forces",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Middle East and North Africa Unrest (2010- )",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Espionage",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Qaddafi, Muammar el-",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-03-30T21:12:09+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Africa",
+    "byline": {
+      "original": "By MARK MAZZETTI and ERIC SCHMITT",
+      "person": [
+        {
+          "firstname": "Mark",
+          "middlename": null,
+          "lastname": "MAZZETTI",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Eric",
+          "middlename": null,
+          "lastname": "SCHMITT",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "540c411a38f0d85e13e4d1a0",
+    "word_count": 1001,
+    "score": 1.0,
+    "uri": "nyt://article/05fb5da0-26a5-5fe6-99e3-36caa5a33a90"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/04/03/arts/design/g-wayne-clough-and-the-smithsonian-new-culture-war.html",
+    "snippet": "G. Wayne Clough, the new Smithsonian chief who was picked to turn it around, is caught in a collision of art and politics.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/04/03/arts/SMITHSONIAN-Jp-1/SMITHSONIAN-Jp-1-articleLarge.jpg",
+        "height": 350,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2011/04/03/arts/SMITHSONIAN-Jp-1/SMITHSONIAN-Jp-1-articleLarge.jpg",
+          "xlargeheight": 350
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/04/03/arts/SMITHSONIAN-Jp-1/SMITHSONIAN-Jp-1-thumbStandard-v2.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/04/03/arts/SMITHSONIAN-Jp-1/SMITHSONIAN-Jp-1-thumbStandard-v2.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Wounded in Crossfire of a Capital Culture War",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Wounded In Crossfire Of a Capital Culture War",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Art",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Smithsonian Institution",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Clough, G Wayne",
+        "rank": 3,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-03-30T11:00:25+0000",
+    "document_type": "article",
+    "new_desk": "Arts&Leisure",
+    "section_name": "Art & Design",
+    "byline": {
+      "original": "By SHERYL GAY STOLBERG and KATE TAYLOR",
+      "person": [
+        {
+          "firstname": "Sheryl",
+          "middlename": "Gay",
+          "lastname": "STOLBERG",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Kate",
+          "middlename": null,
+          "lastname": "TAYLOR",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "540c39d338f0d85e13e4d12f",
+    "word_count": 2283,
+    "score": 1.0,
+    "uri": "nyt://article/e89dd854-1a3b-5605-a8d7-f2ce0eef67db"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/03/30/world/africa/30diplo.html",
+    "snippet": "Fears that providing arms would pull the United States into a civil war, as well as concerns that some fighters may have links to Al Qaeda, have spawned fierce debate.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/03/30/world/DIPLO/DIPLO-articleLarge.jpg",
+        "height": 355,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2011/03/30/world/DIPLO/DIPLO-articleLarge.jpg",
+          "xlargeheight": 355
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Washington in Fierce Debate on Arming Libyan Rebels",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Washington Debates Idea Of Arming Libyan Rebels",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Middle East and North Africa Unrest (2010- )",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Defense and Military Forces",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States International Relations",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Libya",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Obama, Barack",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Qaddafi, Muammar el-",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Clinton, Hillary Rodham",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Stavridis, James G",
+        "rank": 8,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-03-30T01:24:35+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Africa",
+    "byline": {
+      "original": "By MARK LANDLER, ELISABETH BUMILLER and STEVEN LEE MYERS",
+      "person": [
+        {
+          "firstname": "Mark",
+          "middlename": null,
+          "lastname": "LANDLER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Elisabeth",
+          "middlename": null,
+          "lastname": "BUMILLER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        },
+        {
+          "firstname": "Steven",
+          "middlename": "Lee",
+          "lastname": "MYERS",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 3
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5400b1c538f0d841b2f38406",
+    "word_count": 1164,
+    "score": 1.0,
+    "uri": "nyt://article/304a3287-8f45-57a0-8327-5830c4b9deac"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/03/31/world/asia/31workers.html",
+    "snippet": "Interviews, e-mails and blog posts offer a view of problems faced by the thousands of anxious but eager Tokyo Electric Power employees working to re-establish order.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/03/31/world/31workers_337/31workers_337-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/03/31/world/31workers_337/31workers_337-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Workers Give Glimpse of Japan\u2019s Nuclear Crisis",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Panic and Heroism Greeted Crisis at Japan Nuclear Plant",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "organizations",
+        "value": "Tokyo Electric Power Co",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Japan Earthquake and Tsunami (2011)",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Fukushima Daiichi Nuclear Power Plant (Japan)",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Nuclear Energy",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-03-30T23:27:38+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Asia Pacific",
+    "byline": {
+      "original": "By KEN BELSON",
+      "person": [
+        {
+          "firstname": "Ken",
+          "middlename": null,
+          "lastname": "BELSON",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "540c40d538f0d85e13e4d199",
+    "word_count": 1249,
+    "score": 1.0,
+    "uri": "nyt://article/a218545a-b72c-5667-b738-d8f3fd567f17"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/03/30/business/economy/30leonhardt.html",
+    "snippet": "Many Fed officials are worried that they are doing too much to speed economic growth. And once again, the odds are rising that the Fed is doing too little.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/04/19/business/leonhardt-75/leonhardt-75-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/04/19/business/leonhardt-75/leonhardt-75-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "As Economy Sputters, a Timid Fed",
+      "kicker": "Economic Scene",
+      "content_kicker": "Economic Scene",
+      "print_headline": "As Economy Sputters, A Timid Fed",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "United States Economy",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Economic Conditions and Trends",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Inflation (Economics)",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Federal Reserve System",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-03-30T01:24:46+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "section_name": "Economy",
+    "byline": {
+      "original": "By DAVID LEONHARDT",
+      "person": [
+        {
+          "firstname": "David",
+          "middlename": null,
+          "lastname": "LEONHARDT",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "540c3f8738f0d85e13e4d187",
+    "word_count": 946,
+    "score": 1.0,
+    "uri": "nyt://article/15c559c8-e346-5b37-847c-a3bf4783eff7"
+  }
+]

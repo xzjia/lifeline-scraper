@@ -1,0 +1,139 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2010/08/02/business/global/02berry.html",
+    "snippet": "The United Arab Emirates said that it cannot adequately monitor the company\u2019s e-mail and text messaging services.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/08/02/business/02blackberry_span/02blackberry-articleLarge.jpg",
+        "height": 350,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2010/08/02/business/02blackberry_span/02blackberry-articleLarge.jpg",
+          "xlargeheight": 350
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/08/02/business/02blackberry_span/02blackberry-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/08/02/business/02blackberry_span/02blackberry-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Emirates to Cut Data Services of BlackBerry",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Emirates to Cut Data Services Of BlackBerry",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Blackberry (Handheld Device)",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "United Arab Emirates",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Surveillance of Citizens by Government",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Wireless Communications",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Computer Security",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Saudi Arabia",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Research In Motion Ltd",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Privacy",
+        "rank": 8,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-08-01T18:34:04+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "section_name": "Global Business",
+    "byline": {
+      "original": "By BARRY MEIER and ROBERT F. WORTH",
+      "person": [
+        {
+          "firstname": "Barry",
+          "middlename": null,
+          "lastname": "MEIER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Robert",
+          "middlename": "F.",
+          "lastname": "WORTH",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5419204d38f0d86afc9a108b",
+    "word_count": 1125,
+    "score": 1.0,
+    "uri": "nyt://article/6c09481d-e205-5b74-9fe4-7041f34cd3ce"
+  }
+]

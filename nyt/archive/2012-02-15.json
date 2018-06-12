@@ -1,0 +1,637 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2012/02/16/garden/pet-foods-go-gourmet.html",
+    "snippet": "Cats and dogs, the true masters of the house, have trained us to give them what they want: four-star cuisine.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/02/16/garden/16PET_SPAN/16PET_SPAN-articleLarge.jpg",
+        "height": 400,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2012/02/16/garden/16PET_SPAN/16PET_SPAN-articleLarge.jpg",
+          "xlargeheight": 400
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/02/16/garden/16PET_SPAN/16PET_SPAN-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2012/02/16/garden/16PET_SPAN/16PET_SPAN-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Boeuf Bourguignon Again?",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Boeuf Bourguignon Again?",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Cats",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Dogs",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Pet Foods",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Pets",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2012-02-15T23:10:15+0000",
+    "document_type": "article",
+    "new_desk": "Home",
+    "byline": {
+      "original": "By WILLIAM GRIMES",
+      "person": [
+        {
+          "firstname": "William",
+          "middlename": null,
+          "lastname": "GRIMES",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "51cb3f257e0d9c0839d2c64e",
+    "word_count": 1441,
+    "score": 1.0,
+    "uri": "nyt://article/4fa2a91a-be00-5c58-baa4-862b40075929"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2012/02/16/technology/personaltech/reviewing-pinterest-the-newest-social-media-site.html",
+    "snippet": "Time to make time for another social network. Pinterest is a free Web pinboard for any photos that you want to share.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/06/01/technology/Pogue-190-for-Email/Pogue-190-for-Email-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/06/01/technology/Pogue-190-for-Email/Pogue-190-for-Email-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "A Scrapbook on the Web Catches Fire",
+      "kicker": "State of the Art",
+      "content_kicker": "State of the Art",
+      "print_headline": "A Scrapbook On the Web Catches Fire",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Computers and the Internet",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Social Networking (Internet)",
+        "rank": 3,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2012-02-15T21:58:11+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "section_name": "Personal Tech",
+    "byline": {
+      "original": "By DAVID POGUE",
+      "person": [
+        {
+          "firstname": "David",
+          "middlename": null,
+          "lastname": "POGUE",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "Review",
+    "_id": "53f39d7438f0d857ea2d0459",
+    "word_count": 1294,
+    "score": 1.0,
+    "uri": "nyt://article/650afa10-c002-5483-b411-b5d4ca66268a"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2012/02/15/us/british-robbery-suspect-edward-maher-arrested-in-missouri.html",
+    "snippet": "Edward Maher, a suspect in a million-pound robbery in England in 1993, was arrested last week in a mostly rural corner of southwest Missouri.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/02/15/us/FUGITIVE1/FUGITIVE1-thumbStandard-v2.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2012/02/15/us/FUGITIVE1/FUGITIVE1-thumbStandard-v2.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "19 Years and \u00a31 Million Later, a Past Catches Up",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "19 Years and \u00a31 Million Later, Past Catches Up",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Fugitives",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Robberies and Thefts",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Armored Car Services",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Great Britain",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2012-02-15T03:44:31+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "byline": {
+      "original": "By A. G. SULZBERGER",
+      "person": [
+        {
+          "firstname": "A.",
+          "middlename": "G.",
+          "lastname": "SULZBERGER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "53f397ea38f0d857ea2d03f9",
+    "word_count": 1450,
+    "score": 1.0,
+    "uri": "nyt://article/f95b1b3b-5021-5b3c-8ba7-b3fca936ba6d"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2012/02/16/business/global/world-bank-president-to-step-down.html",
+    "snippet": "Robert B. Zoellick will step down as the head of the World Bank when his five-year term expires on June 30.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/02/16/business/Bank/Bank-articleLarge.jpg",
+        "height": 384,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2012/02/16/business/Bank/Bank-articleLarge.jpg",
+          "xlargeheight": 384
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/02/16/business/Bank/Bank-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2012/02/16/business/Bank/Bank-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "World Bank President to Step Down",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "World Bank President Will Leave",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Zoellick, Robert B",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "World Bank",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Appointments and Executive Changes",
+        "rank": 3,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2012-02-15T18:37:31+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "section_name": "Global Business",
+    "byline": {
+      "original": "By ANNIE LOWREY",
+      "person": [
+        {
+          "firstname": "Annie",
+          "middlename": null,
+          "lastname": "LOWREY",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "53f39b7f38f0d857ea2d0434",
+    "word_count": 901,
+    "score": 1.0,
+    "uri": "nyt://article/c077e47c-18de-5e75-8660-90b1347c84d5"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2012/02/16/books/new-york-public-library-revives-its-overhaul-plan.html",
+    "snippet": "After a pause because of the economic downturn, the New York Public Library on Wednesday revived its $1 billion plan to overhaul its branches and renovate its Fifth Avenue flagship.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/02/16/arts/LIBRARY-JP/LIBRARY-JP-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2012/02/16/arts/LIBRARY-JP/LIBRARY-JP-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Ambitions Rekindled at Public Library",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Ambitions Rekindled at Public Library",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Libraries and Librarians",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "New York Public Library",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Restoration and Renovation",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Marx, Anthony W",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "New York City",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2012-02-15T23:33:57+0000",
+    "document_type": "article",
+    "new_desk": "Culture",
+    "byline": {
+      "original": "By ROBIN POGREBIN",
+      "person": [
+        {
+          "firstname": "Robin",
+          "middlename": null,
+          "lastname": "POGREBIN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "53f39f1938f0d857ea2d046d",
+    "word_count": 1115,
+    "score": 1.0,
+    "uri": "nyt://article/401b8acb-2c28-5e2a-834d-0a62581124ac"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2012/02/16/business/california-audit-finds-broad-irregularities-in-foreclosures.html",
+    "snippet": "The findings of San Francisco county officials suggest how pervasive irregularities may be across the nation.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "Audit Uncovers Extensive Flaws in Foreclosures",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Audit Uncovers Extensive Flaws in Foreclosures",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Foreclosures",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Real Estate and Housing (Residential)",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Mortgages",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Subprime Mortgage Crisis",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Regulation and Deregulation of Industry",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "San Francisco (Calif)",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2012-02-15T22:06:18+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By GRETCHEN MORGENSON",
+      "person": [
+        {
+          "firstname": "Gretchen",
+          "middlename": null,
+          "lastname": "MORGENSON",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "515dad0ccf28d0219d002aac",
+    "word_count": 970,
+    "score": 1.0,
+    "uri": "nyt://article/e4eb9c32-d099-5cf2-a440-82ca45a419bc"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2012/02/16/world/americas/prison-fire-in-honduras-leaves-high-death-toll.html",
+    "snippet": "In one of the worst prison fires in recent years in Latin America, with more than 300 dead, most of the victims choked to death in their cells awaiting a rescue that never came.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/02/16/world/americas/Honduras/Honduras-articleLarge.jpg",
+        "height": 330,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2012/02/16/world/americas/Honduras/Honduras-articleLarge.jpg",
+          "xlargeheight": 330
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/02/16/world/americas/Honduras/Honduras-thumbStandard-v2.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2012/02/16/world/americas/Honduras/Honduras-thumbStandard-v2.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Blaze at Prison Underscores Broad Security Problems in Honduras",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Honduras Fire Traps Inmates; Hundreds Die",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Honduras",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Prisons and Prisoners",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Fires and Firefighters",
+        "rank": 3,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2012-02-15T13:51:38+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Americas",
+    "byline": {
+      "original": "By JAVIER C. HERNANDEZ and RANDAL C. ARCHIBOLD",
+      "person": [
+        {
+          "firstname": "Javier",
+          "middlename": "C.",
+          "lastname": "HERNANDEZ",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Randal",
+          "middlename": "C.",
+          "lastname": "ARCHIBOLD",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "515dad13cf28d0219d002abe",
+    "word_count": 1075,
+    "score": 1.0,
+    "uri": "nyt://article/504fa664-1f0e-51e8-81e2-75430985fc53"
+  }
+]

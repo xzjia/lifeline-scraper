@@ -1,0 +1,353 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2008/02/24/sports/baseball/24koufax.html",
+    "snippet": "Sandy Koufax made his annual visit to talk curveballs at the Mets\u2019 spring training complex, then granted a rare interview with reporters.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "Traditional Visit With an Untraditional Twist",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Traditional Visit With an Untraditional Twist",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Koufax, Sandy",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "New York Mets",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Baseball",
+        "rank": 3,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2008-02-24T05:00:00+0000",
+    "document_type": "article",
+    "new_desk": "Sports",
+    "section_name": "Baseball",
+    "byline": {
+      "original": "By BEN SHPIGEL",
+      "person": [
+        {
+          "firstname": "Ben",
+          "middlename": null,
+          "lastname": "SHPIGEL",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "547e612738f0d84a61c0e848",
+    "word_count": 1020,
+    "score": 1.0,
+    "uri": "nyt://article/96254bb0-b8fb-57cb-924a-850c5c1dd589"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2008/02/24/world/europe/24putin.html",
+    "snippet": "Behind a facade of democracy in Russia lies a centralized authority that is not reluctant to swat down challengers.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/02/24/world/24putin-600.jpg",
+        "height": 330,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2008/02/24/world/24putin-600.jpg",
+          "xlargeheight": 330
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/02/24/world/24putin-75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2008/02/24/world/24putin-75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Putin\u2019s Iron Grip on Russia Suffocates Opponents",
+      "kicker": "Kremlin Rules",
+      "content_kicker": "Kremlin Rules",
+      "print_headline": "Putin\u2019s Iron Grip on Russia Suffocates His Opponents",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Russia",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Putin, Vladimir V",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Politics and Government",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Medvedev, Dmitri A",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Politkovskaya, Anna",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Nemtsov, Boris Y",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Freedom of the Press",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Elections",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Newspapers",
+        "rank": 9,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Freedom and Human Rights",
+        "rank": 10,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Homosexuality",
+        "rank": 11,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Legislatures and Parliaments",
+        "rank": 12,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Education and Schools",
+        "rank": 13,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Nashi",
+        "rank": 14,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "National Endowment for Democracy",
+        "rank": 15,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Novaya Gazeta",
+        "rank": 16,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2008-02-24T05:00:00+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Europe",
+    "byline": {
+      "original": "By CLIFFORD J. LEVY",
+      "person": [
+        {
+          "firstname": "Clifford",
+          "middlename": "J.",
+          "lastname": "LEVY",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "Series",
+    "_id": "547c13c938f0d813efccba69",
+    "word_count": 2570,
+    "score": 1.0,
+    "uri": "nyt://article/0a78f741-be49-5d5c-824c-ebe9c76e64b3"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2008/02/24/health/24dna.html",
+    "snippet": "Afraid of having genetic information used against them, many Americans do not take advantage of its growing availability.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/02/24/us/24dna-600.jpg",
+        "height": 330,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2008/02/24/us/24dna-600.jpg",
+          "xlargeheight": 330
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/02/24/us/24dna-75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2008/02/24/us/24dna-75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Insurance Fears Lead Many to Shun DNA Tests",
+      "kicker": "The DNA Age",
+      "content_kicker": "The DNA Age",
+      "print_headline": "Fear of Insurance Trouble Leads Many to Shun or Hide DNA Tests",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "DNA (Deoxyribonucleic Acid)",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Tests and Testing",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Medicine and Health",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Health Insurance and Managed Care",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Genetics and Heredity",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "United States",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2008-02-24T05:00:00+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "byline": {
+      "original": "By AMY HARMON",
+      "person": [
+        {
+          "firstname": "Amy",
+          "middlename": null,
+          "lastname": "HARMON",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "Series",
+    "_id": "547e5f9138f0d84a61c0e820",
+    "word_count": 1961,
+    "score": 1.0,
+    "uri": "nyt://article/6e6870c9-0123-5c17-81df-6103acb62f95"
+  }
+]

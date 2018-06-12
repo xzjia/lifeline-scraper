@@ -1,0 +1,94 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2008/10/27/health/policy/27device.html",
+    "snippet": "The F.D.A. regularly allows devices to market after only cursory review and without clear evidence they help.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/10/27/health/policy/27device.3.75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2008/10/27/health/policy/27device.3.75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Quickly Vetted, Treatment Is Offered to Patients",
+      "kicker": "The Evidence Gap",
+      "content_kicker": "The Evidence Gap",
+      "print_headline": "Quickly Vetted, Treatment Is Offered to Cancer Patients",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Medicine and Health",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Breast",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Cancer",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Radiation",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Food and Drug Administration",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2008-10-27T01:35:36+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "section_name": "Money & Policy",
+    "byline": {
+      "original": "By REED ABELSON",
+      "person": [
+        {
+          "firstname": "Reed",
+          "middlename": null,
+          "lastname": "ABELSON",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5471bc5c38f0d847c5e43404",
+    "word_count": 2386,
+    "score": 1.0,
+    "uri": "nyt://article/aed3bfe1-d0b9-5bcf-89e0-50ec37e243d7"
+  }
+]

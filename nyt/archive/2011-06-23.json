@@ -1,0 +1,735 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2011/06/24/us/24bulger.html",
+    "snippet": "After a decade of living a quiet life in California, James (Whitey) Bulger and his girlfriend appeared in court in Boston on Friday.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/06/24/us/subBULGER/subBULGER-articleLarge.jpg",
+        "height": 340,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2011/06/24/us/subBULGER/subBULGER-articleLarge.jpg",
+          "xlargeheight": 340
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/06/24/us/subBULGER/subBULGER-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/06/24/us/subBULGER/subBULGER-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Long Elusive, Mob Legend Ended Up a Recluse",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Long Elusive, Irish Mob Legend Ended Up a California Recluse",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Bulger, James J",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Greig, Catherine",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Organized Crime",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Federal Bureau of Investigation",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Boston (Mass)",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-06-23T15:07:45+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "byline": {
+      "original": "By ADAM NAGOURNEY and ABBY GOODNOUGH",
+      "person": [
+        {
+          "firstname": "Adam",
+          "middlename": null,
+          "lastname": "NAGOURNEY",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Abby",
+          "middlename": null,
+          "lastname": "GOODNOUGH",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "51d461977e0d9c0839d2dced",
+    "word_count": 2115,
+    "score": 1.0,
+    "uri": "nyt://article/d33b7848-6c13-5f51-abe8-3517fe8b226f"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/06/24/us/politics/24fiscal.html",
+    "snippet": "Representative Eric Cantor, the House majority leader, abandoned the negotiations Thursday, and Republicans said they would not give in to a push by Democrats for new revenue.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "Budget Talks Near Collapse as G.O.P. Leader Quits",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "2 G.O.P. Leaders Quit Discussions On Debt Ceiling",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Federal Budget (US)",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Cantor, Eric",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "House of Representatives",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Republican Party",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Kyl, Jon Llewellyn",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "McConnell, Mitch",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Senate",
+        "rank": 7,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-06-23T19:13:20+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "section_name": "Politics",
+    "byline": {
+      "original": "By CARL HULSE",
+      "person": [
+        {
+          "firstname": "Carl",
+          "middlename": null,
+          "lastname": "HULSE",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "540f0a4038f0d863ce5a589f",
+    "word_count": 1058,
+    "score": 1.0,
+    "uri": "nyt://article/8291688b-67fc-591b-968c-12230fc51716"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/06/23/us/23vegas.html",
+    "snippet": "Mayor Oscar B. Goodman of Las Vegas is leaving office next month, but since his wife is the mayor-elect, he won\u2019t be going far.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/06/23/us/Vegas/Vegas-articleLarge.jpg",
+        "height": 330,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2011/06/23/us/Vegas/Vegas-articleLarge.jpg",
+          "xlargeheight": 330
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/06/23/us/Vegas/Vegas-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/06/23/us/Vegas/Vegas-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Family Act Extends Reign in Las Vegas, With a Bit Less Glitter",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Family Act Extends Reign in Las Vegas, With a Bit Less Glitter",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Goodman, Oscar B",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Mayors",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Las Vegas (Nev)",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-06-23T04:08:44+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "byline": {
+      "original": "By ADAM NAGOURNEY",
+      "person": [
+        {
+          "firstname": "Adam",
+          "middlename": null,
+          "lastname": "NAGOURNEY",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "540f02bd38f0d863ce5a5805",
+    "word_count": 1183,
+    "score": 1.0,
+    "uri": "nyt://article/797400a3-9e5a-51f2-95f7-4b27722cfd5d"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/06/26/realestate/the-fate-of-prospect-parks-five-arches.html",
+    "snippet": "The arches were designed not just as passageways, but as gracious places to sit in the shade.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/06/26/realestate/cover-streets/cover-streets-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/06/26/realestate/cover-streets/cover-streets-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "The Fate of Prospect Park\u2019s Five Arches",
+      "kicker": "Streetscapes",
+      "content_kicker": "Streetscapes",
+      "print_headline": "A Park\u2019s All but Fallen Arches",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Prospect Park (NYC)",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Parks and Other Recreation Areas",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Olmsted, Frederick Law",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Vaux, Calvert",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-06-23T22:06:07+0000",
+    "document_type": "article",
+    "new_desk": "RealEstate",
+    "byline": {
+      "original": "By CHRISTOPHER GRAY",
+      "person": [
+        {
+          "firstname": "Christopher",
+          "middlename": null,
+          "lastname": "GRAY",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "540effa338f0d863ce5a57c8",
+    "word_count": 876,
+    "score": 1.0,
+    "uri": "nyt://article/ab8465d2-ed45-58c0-ad34-54f19cdf5f82"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/06/23/theater/spider-man-by-the-numbers-breaking-down-its-costs.html",
+    "snippet": "An untangling web shows how $75 million was spent on \u201cSpider-Man: Turn Off the Dark,\u201d more than twice as much as any production in Broadway history.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/06/23/arts/SPIDERMAN/SPIDERMAN-articleLarge.jpg",
+        "height": 315,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2011/06/23/arts/SPIDERMAN/SPIDERMAN-articleLarge.jpg",
+          "xlargeheight": 315
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/06/23/arts/SPIDERMAN/SPIDERMAN-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/06/23/arts/SPIDERMAN/SPIDERMAN-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "How the Numbers Add Up (Way Up) for \u2018Spider-Man\u2019",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "How the Numbers Add Up (Way Up) for \u2018Spider-Man\u2019",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Theater",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Cohl, Michael",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Taymor, Julie",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Bono",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Edge, The",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-06-23T07:41:19+0000",
+    "document_type": "article",
+    "new_desk": "Culture",
+    "byline": {
+      "original": "By KEVIN FLYNN and PATRICK HEALY",
+      "person": [
+        {
+          "firstname": "Kevin",
+          "middlename": null,
+          "lastname": "FLYNN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Patrick",
+          "middlename": null,
+          "lastname": "HEALY",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "540f001c38f0d863ce5a57d1",
+    "word_count": 1199,
+    "score": 1.0,
+    "uri": "nyt://article/792e788b-43e8-5b96-be21-7e753a7d3251"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/06/24/business/24markets.html",
+    "snippet": "The Dow Jones industrial average ended a dramatic day a bit lower than where it started on slow growth, Europe\u2019s debt crisis and the use of oil reserves.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "A Nosedive Eases a Bit in Volatile U.S. Trading",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "A Nosedive Eases a Bit In Volatile U.S. Trading",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Oil (Petroleum) and Gasoline",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Stocks and Bonds",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Economic Conditions and Trends",
+        "rank": 3,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-06-23T14:03:53+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By CHRISTINE HAUSER",
+      "person": [
+        {
+          "firstname": "Christine",
+          "middlename": null,
+          "lastname": "HAUSER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "540f064338f0d863ce5a584f",
+    "word_count": 817,
+    "score": 1.0,
+    "uri": "nyt://article/16f74e44-0925-521d-96ec-c741a7d80b2d"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/06/23/world/europe/23greece.html",
+    "snippet": "The crown jewels of Greece\u2019s socialist state are now likely to go to the highest bidder.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "Some Greeks Fear Government Is Selling Nation",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Some Greeks Fear Government Is Selling Nation to Help Save It",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Economic Conditions and Trends",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Credit and Debt",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "European Sovereign Debt Crisis (2010- )",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "European Union",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "European Central Bank",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "International Monetary Fund",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Papandreou, George A",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Greece",
+        "rank": 8,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-06-23T00:46:43+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Europe",
+    "byline": {
+      "original": "By RACHEL DONADIO and STEVEN ERLANGER",
+      "person": [
+        {
+          "firstname": "Rachel",
+          "middlename": null,
+          "lastname": "DONADIO",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Steven",
+          "middlename": null,
+          "lastname": "ERLANGER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "540f034238f0d863ce5a5815",
+    "word_count": 1144,
+    "score": 1.0,
+    "uri": "nyt://article/c5f06e95-72b7-51a9-9458-843fb1f308f3"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/06/24/business/24oil.html",
+    "snippet": "To replace some of the oil production lost during the Libya conflict, 60 million barrels will be released, with half coming from America\u2019s reserves.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "Global Oil Reserves Tapped in Effort to Cut Cost at Pump",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Oil Reserves Are Tapped To Offset Libyan Loss",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Oil (Petroleum) and Gasoline",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Strategic Petroleum Reserve (US)",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Middle East and North Africa Unrest (2010- )",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Reserves (Natural Resources)",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-06-23T13:32:37+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By JOHN M. BRODER and CLIFFORD KRAUSS",
+      "person": [
+        {
+          "firstname": "John",
+          "middlename": null,
+          "lastname": null,
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "540f062438f0d863ce5a584d",
+    "word_count": 1064,
+    "score": 1.0,
+    "uri": "nyt://article/65812b06-e5e8-5193-bd7e-6b250ed4df88"
+  }
+]

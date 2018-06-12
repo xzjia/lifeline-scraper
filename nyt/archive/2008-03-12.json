@@ -1,0 +1,153 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2008/03/12/arts/artsspecial/12visitors.html",
+    "snippet": "Museum market research has been around for two decades. But gathering data about visitors has never been as important, or as sophisticated, as it is now.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/03/06/arts/artsspecial/12visitors600.jpg",
+        "height": 300,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2008/03/06/arts/artsspecial/12visitors600.jpg",
+          "xlargeheight": 300
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/03/06/arts/artsspecial/0312-VISIT-S.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2008/03/06/arts/artsspecial/0312-VISIT-S.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Museums Refine the Art of Listening",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "The Art of Listening",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Museums",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Research",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Art",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Computers and the Internet",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Advertising and Marketing",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Interior Design",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Museum of Modern Art",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Detroit Institute of Arts",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "American Assn of Museums",
+        "rank": 9,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Metropolitan Museum of Art",
+        "rank": 10,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Picasso, Pablo",
+        "rank": 11,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "van Gogh, Vincent",
+        "rank": 12,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2008-03-12T04:00:00+0000",
+    "document_type": "article",
+    "new_desk": "SpecialSections",
+    "section_name": "Arts",
+    "byline": {
+      "original": "By CAROL VOGEL",
+      "person": [
+        {
+          "firstname": "Carol",
+          "middlename": null,
+          "lastname": "VOGEL",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "547e97f238f0d84a61c0ed6e",
+    "word_count": 1687,
+    "score": 1.0,
+    "uri": "nyt://article/451d03b2-9e40-5a81-8f5d-6753d81e7ea3"
+  }
+]

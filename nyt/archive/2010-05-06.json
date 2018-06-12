@@ -1,0 +1,424 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2010/05/06/world/europe/06britain.html",
+    "snippet": "With government deficits a rising concern, whoever wins the general election will be forced to make deep and unpopular cuts.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/05/06/world/06britain_CA0/06britain_CA0-articleLarge.jpg",
+        "height": 334,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2010/05/06/world/06britain_CA0/06britain_CA0-articleLarge.jpg",
+          "xlargeheight": 334
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/05/06/world/06britain_CA0/06britain_CA0-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/05/06/world/06britain_CA0/06britain_CA0-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "As Britain Votes, Economic Clouds Hover",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Economic Clouds Overshadowing British Election",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Great Britain",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Elections",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Politics and Government",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Brown, Gordon",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Cameron, David",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Clegg, Nick",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Economic Conditions and Trends",
+        "rank": 7,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-05-06T01:09:29+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Europe",
+    "byline": {
+      "original": "By JOHN F. BURNS and LANDON THOMAS Jr",
+      "person": [
+        {
+          "firstname": "John",
+          "middlename": "F.",
+          "lastname": "BURNS",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Landon",
+          "middlename": null,
+          "lastname": "THOMAS",
+          "qualifier": "Jr",
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5445e4d838f0d832c813f65b",
+    "word_count": 1204,
+    "score": 1.0,
+    "uri": "nyt://article/f045130b-c5eb-5220-af08-3d6cb6b4013a"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2010/05/07/world/europe/07vote.html",
+    "snippet": "As Conservatives made big but not necessarily decisive gains, the country could be heading for days of agonizing uncertainty as the two main parties maneuver for power.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/05/07/world/07vote_337-395/07vote_inline-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/05/07/world/07vote_337-395/07vote_inline-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "British Voters Swing to Tories, but Majority Is in Doubt",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "TORIES HEADING FOR BIG GAINS AS LABOUR SAGS",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Great Britain",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Elections",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Cameron, David",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Brown, Gordon",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Clegg, Nick",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-05-06T06:19:27+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Europe",
+    "byline": {
+      "original": "By JOHN F. BURNS",
+      "person": [
+        {
+          "firstname": "John",
+          "middlename": "F.",
+          "lastname": "BURNS",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5445e64e38f0d832c813f675",
+    "word_count": 1388,
+    "score": 1.0,
+    "uri": "nyt://article/58408dc2-d536-5342-815c-fbd2c00b6a83"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2010/05/06/us/06formspring.html",
+    "snippet": "A relatively new social networking site has become a magnet for comments, many of them nasty and sexual.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "Teenage Insults, Scrawled on Web, Not on Walls",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Teenage Insults, Scrawled on Web, Not on Walls",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Social Networking (Internet)",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Teenagers and Adolescence",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Facebook.com",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Gossip",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Bullies",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-05-06T01:41:43+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "byline": {
+      "original": "By TAMAR LEWIN",
+      "person": [
+        {
+          "firstname": "Tamar",
+          "middlename": null,
+          "lastname": "LEWIN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5445e32538f0d832c813f635",
+    "word_count": 1137,
+    "score": 1.0,
+    "uri": "nyt://article/8e7234b8-d879-5d7a-be8c-781ef5fe63b0"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2010/05/07/business/07markets.html",
+    "snippet": "Investigators are examining \u201cunusual trading activity\u201d that may have contributed to the market gyrations.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/05/07/business/07markets2_337-span/07markets2_337-395-articleLarge.jpg",
+        "height": 330,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2010/05/07/business/07markets2_337-span/07markets2_337-395-articleLarge.jpg",
+          "xlargeheight": 330
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/05/07/business/07markets2_337-span/07markets2_337-395-thumbStandard-v2.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/05/07/business/07markets2_337-span/07markets2_337-395-thumbStandard-v2.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "U.S. Markets Plunge, Then Stage a Rebound ",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Dow Falls 1,000, Then Rebounds, Shaking Market",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Dow Jones Stock Average",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Stocks and Bonds",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Economic Conditions and Trends",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Euro (Currency)",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Greece",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Europe",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Geithner, Timothy F",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "High-Frequency and Flash Trading",
+        "rank": 8,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-05-06T13:53:58+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By GRAHAM BOWLEY",
+      "person": [
+        {
+          "firstname": "Graham",
+          "middlename": null,
+          "lastname": "BOWLEY",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5445e8aa38f0d832c813f6aa",
+    "word_count": 1157,
+    "score": 1.0,
+    "uri": "nyt://article/f7e235af-d443-536a-a657-c3de35e74b3d"
+  }
+]

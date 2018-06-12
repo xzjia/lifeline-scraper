@@ -1,0 +1,203 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2007/11/21/business/21baggage.html",
+    "snippet": "Despite increased efforts by the airlines, millions of travelers\u2019 bags still fail to reach the carousel.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2007/11/21/business/baggage7575.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2007/11/21/business/baggage7575.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Travelers\u2019 Odds Decline on Airline Baggage",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "In Airline Baggage Roulette, Travelers\u2019 Odds Are Getting Worse",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Airlines and Airplanes",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Luggage",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Thanksgiving Day",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Travel and Vacations",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "American Airlines",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Air Transport Assn",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Delta Air Lines Inc",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Alaska Airlines",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "American Eagle",
+        "rank": 9,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2007-11-21T05:00:00+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By JEFF BAILEY",
+      "person": [
+        {
+          "firstname": "Jeff",
+          "middlename": null,
+          "lastname": "BAILEY",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5474ec3038f0d8119c6af277",
+    "word_count": 1398,
+    "score": 1.0,
+    "uri": "nyt://article/1f8c8834-9b8a-5a09-896f-8729ee312510"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2007/11/21/sports/basketball/21knicks.html",
+    "snippet": "Benching Stephon Marbury did not solve the Knicks\u2019 problems, but putting him back in the starting lineup failed, too. ",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2007/11/21/sports/21knicks.2.75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2007/11/21/sports/21knicks.2.75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Knicks Start Marbury, but Nothing Changes",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Boo, Boo, Boo, \u2018Fire Isiah,\u2019 Boo, Boo, Boo!",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "organizations",
+        "value": "New York Knicks",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Basketball",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Golden State Warriors",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Athletics and Sports",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2007-11-21T05:00:00+0000",
+    "document_type": "article",
+    "new_desk": "Sports",
+    "section_name": "Pro Basketball",
+    "byline": {
+      "original": "By HOWARD BECK",
+      "person": [
+        {
+          "firstname": "Howard",
+          "middlename": null,
+          "lastname": "BECK",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5487edb138f0d8602128eb14",
+    "word_count": 915,
+    "score": 1.0,
+    "uri": "nyt://article/7deae377-0217-5a69-8cfb-f515c78719ad"
+  }
+]

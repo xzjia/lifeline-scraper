@@ -1,0 +1,508 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2009/05/19/business/19emissions.html",
+    "snippet": "The Obama administration plans to combine California\u2019s tough new auto-emissions rules with existing fuel economy limits to create a single new national standard.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/05/19/business/19emissions01-75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/05/19/business/19emissions01-75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Obama to Toughen Rules on Emissions and Mileage",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Obama to Toughen Rules On Emissions and Mileage",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Greenhouse Gas Emissions",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Automobiles",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Fuel Efficiency",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "California",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Obama, Barack",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-05-18T17:14:48+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By JOHN M. BRODER",
+      "person": [
+        {
+          "firstname": "John",
+          "middlename": null,
+          "lastname": null,
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "546abb5f38f0d84ca2c5cae4",
+    "word_count": 1177,
+    "score": 1.0,
+    "uri": "nyt://article/4942016d-3fad-5d3a-a6ca-c797f4d6cae4"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/05/18/world/asia/18nuke.html",
+    "snippet": "There are new concerns on Capitol Hill about whether billions of dollars in proposed military aid might be diverted to Pakistan\u2019s nuclear program.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/05/18/world/18pakistan.75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/05/18/world/18pakistan.75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Pakistan Is Rapidly Adding Nuclear Arms, U.S. Says",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "PAKISTAN IS SEEN RAPIDLY ADDING NUCLEAR ARMS",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Pakistan",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Nuclear Weapons",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States International Relations",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Arms Control and Limitation and Disarmament",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Nuclear Nonproliferation Treaty",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-05-18T01:34:24+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Asia Pacific",
+    "byline": {
+      "original": "By THOM SHANKER and DAVID E. SANGER",
+      "person": [
+        {
+          "firstname": "Thom",
+          "middlename": null,
+          "lastname": "SHANKER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "David",
+          "middlename": "E.",
+          "lastname": "SANGER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "546ab7ea38f0d84ca2c5ca96",
+    "word_count": 1131,
+    "score": 1.0,
+    "uri": "nyt://article/38ebfe07-70ba-5ffb-b7f6-a2d6c6bfb202"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/05/18/science/earth/18juneau.html",
+    "snippet": "Relieved of billions of tons of glacial weight, land is rising much as a cushion regains its shape after a person gets up from a chair.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/05/18/us/18juneau.xlarge1.jpg",
+        "height": 360,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/05/18/us/18juneau.xlarge1.jpg",
+          "xlargeheight": 360
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/05/18/us/18juneau-2-75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/05/18/us/18juneau-2-75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "As Alaska Glaciers Melt, It\u2019s Land That\u2019s Rising",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "As Alaska Glaciers Melt, It\u2019s Land That\u2019s Rising",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Glaciers",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Global Warming",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Juneau (Alaska)",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Geology",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-05-18T02:25:20+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "section_name": "Environment",
+    "byline": {
+      "original": "By CORNELIA DEAN",
+      "person": [
+        {
+          "firstname": "Cornelia",
+          "middlename": null,
+          "lastname": "DEAN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "54204d7038f0d81f7a5ffe19",
+    "word_count": 1026,
+    "score": 1.0,
+    "uri": "nyt://article/2be1b8ed-9e76-530d-8f20-3324242e8e13"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/05/19/movies/19hollywood.html",
+    "snippet": "Hard times are summoning a distinctly Hollywood response: maintaining a fabulous facade on the cheap while paring expenses behind the scenes.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/05/19/arts/19holl600.jpg",
+        "height": 340,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/05/19/arts/19holl600.jpg",
+          "xlargeheight": 340
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/05/19/arts/19holl75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/05/19/arts/19holl75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Yes, I Look Fabulous, but Inside I\u2019m Saving",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Yes, I Look Fabulous, But Inside I\u2019m Saving",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Movies",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Hollywood (Calif)",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Layoffs and Job Reductions",
+        "rank": 3,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-05-18T23:06:25+0000",
+    "document_type": "article",
+    "new_desk": "Culture",
+    "byline": {
+      "original": "By BROOKS BARNES",
+      "person": [
+        {
+          "firstname": "Brooks",
+          "middlename": null,
+          "lastname": "BARNES",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "546abd7f38f0d84ca2c5cb17",
+    "word_count": 985,
+    "score": 1.0,
+    "uri": "nyt://article/fdf3ef01-7d5c-595f-8374-f5b14795bbd3"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/05/18/us/18dna.html",
+    "snippet": "Prosecutors\u2019 resistance to reopening cases is causing years of delay, sometimes eliminating the chance to try other suspects.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/05/18/us/18dna.xlarge1.jpg",
+        "height": 280,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/05/18/us/18dna.xlarge1.jpg",
+          "xlargeheight": 280
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/05/18/us/18dna.751x.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/05/18/us/18dna.751x.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Prosecutors Block Access to DNA Testing for Inmates",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Despite Laws to Let Inmates Test DNA, Prosecutors Refuse",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "DNA (Deoxyribonucleic Acid)",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Crime and Criminals",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Tests and Testing",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "District Attorneys",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Decisions and Verdicts",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "False Arrests, Convictions and Imprisonments",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-05-18T01:53:20+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "byline": {
+      "original": "By SHAILA DEWAN",
+      "person": [
+        {
+          "firstname": "Shaila",
+          "middlename": null,
+          "lastname": "DEWAN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "546ab81a38f0d84ca2c5ca9b",
+    "word_count": 1287,
+    "score": 1.0,
+    "uri": "nyt://article/8fd8f750-22c7-56e5-829f-49231e01d64d"
+  }
+]

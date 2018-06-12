@@ -1,0 +1,523 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2010/11/28/nyregion/28critic.html",
+    "snippet": "The new security searches at airports can fail to detect the kinds of items they are supposed to.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/11/28/nyregion/jp-CRITIC-3/jp-CRITIC-3-articleLarge.jpg",
+        "height": 276,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2010/11/28/nyregion/jp-CRITIC-3/jp-CRITIC-3-articleLarge.jpg",
+          "xlargeheight": 276
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/11/28/nyregion/jp-CRITIC-3/jp-CRITIC-3-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/11/28/nyregion/jp-CRITIC-3/jp-CRITIC-3-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Pat-Downs: Enhanced but Hardly Thorough",
+      "kicker": "City Critic",
+      "content_kicker": "City Critic",
+      "print_headline": "Pat-Downs: Enhanced But Hardly Thorough",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Airports",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Transportation Security Administration",
+        "rank": 2,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-11-27T00:13:30+0000",
+    "document_type": "article",
+    "new_desk": "Metro",
+    "byline": {
+      "original": "By ARIEL KAMINER",
+      "person": [
+        {
+          "firstname": "Ariel",
+          "middlename": null,
+          "lastname": "KAMINER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5421049538f0d81f7a600e32",
+    "word_count": 989,
+    "score": 1.0,
+    "uri": "nyt://article/bf2dfd1b-b8b6-54f2-8045-fae2f842575d"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2010/11/28/business/28borker.html",
+    "snippet": "Vitaly Borker welcomes customer complaints, saying they vault his business higher in Internet search results.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/11/28/business/JP-BORKER-1/JP-BORKER-1-thumbStandard-v2.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/11/28/business/JP-BORKER-1/JP-BORKER-1-thumbStandard-v2.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "A Bully Finds a Pulpit on the Web",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "A Bully Finds a Pulpit on the Web",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "E-Commerce",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Customer Relations",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Eyeglasses",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Stalking (Crime)",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Google Inc",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Citibank",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Mastercard International Inc",
+        "rank": 9,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "eBay Inc",
+        "rank": 10,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Frauds and Swindling",
+        "rank": 11,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-11-27T02:42:26+0000",
+    "document_type": "article",
+    "new_desk": "SundayBusiness",
+    "byline": {
+      "original": "By DAVID SEGAL",
+      "person": [
+        {
+          "firstname": "David",
+          "middlename": null,
+          "lastname": "SEGAL",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "53faa39438f0d8431914d9f1",
+    "word_count": 5691,
+    "score": 1.0,
+    "uri": "nyt://article/64b13810-f14d-51fb-89c5-d0ccb44f4ff0"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2010/11/28/us/28portland.html",
+    "snippet": "F.B.I. officials said that a Somali-born suspect thought he was detonating a car bomb in a Christmas tree lighting ceremony in Portland, when in fact he had been set up in a sting.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/11/28/us/Portland1/Portland1-articleLarge.jpg",
+        "height": 360,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2010/11/28/us/Portland1/Portland1-articleLarge.jpg",
+          "xlargeheight": 360
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "F.B.I. Says Oregon Suspect Planned \u2018Grand\u2019 Attack",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "BOMB PLOT FOILED AT HOLIDAY EVENT IN PORTLAND, ORE.",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Mohamud, Mohamed Osman",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Portland (Ore)",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Terrorism",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Bombs and Explosives",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Federal Bureau of Investigation",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Christmas",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-11-27T16:09:31+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "byline": {
+      "original": "By COLIN MINER, LIZ ROBBINS and ERIK ECKHOLM",
+      "person": [
+        {
+          "firstname": "Colin",
+          "middlename": null,
+          "lastname": "MINER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Liz",
+          "middlename": null,
+          "lastname": "ROBBINS",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        },
+        {
+          "firstname": "Erik",
+          "middlename": null,
+          "lastname": "ECKHOLM",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 3
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "54210b7738f0d81f7a600ec9",
+    "word_count": 2049,
+    "score": 1.0,
+    "uri": "nyt://article/f8fa4a8b-dc18-5e08-bb62-f2055f020e66"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2010/11/28/nyregion/28yoga.html",
+    "snippet": "A small foundation has generated buzz with a campaign asserting that \u201cHinduism has lost control of the brand.\u201d",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/11/28/nyregion/28yoga-span/28yoga-span-articleLarge.jpg",
+        "height": 362,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2010/11/28/nyregion/28yoga-span/28yoga-span-articleLarge.jpg",
+          "xlargeheight": 362
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/11/28/nyregion/28yoga-span/28yoga-span-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/11/28/nyregion/28yoga-span/28yoga-span-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Hindu Group Stirs a Debate Over Yoga\u2019s Soul",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Hindu Group Stirs a Debate Over Yoga\u2019s Soul",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Yoga",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Hinduism",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Indian-Americans",
+        "rank": 3,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-11-27T23:18:34+0000",
+    "document_type": "article",
+    "new_desk": "Metro",
+    "byline": {
+      "original": "By PAUL VITELLO",
+      "person": [
+        {
+          "firstname": "Paul",
+          "middlename": null,
+          "lastname": "VITELLO",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "54210c5a38f0d81f7a600ede",
+    "word_count": 1253,
+    "score": 1.0,
+    "uri": "nyt://article/71337927-0346-5897-a367-d3274c3678e9"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2010/11/27/sports/football/27logos.html",
+    "snippet": "If a high school\u2019s logo can be confused with a university\u2019s, or if it is capable of diluting its value, universities often demand changes.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/11/27/sports/logo/logo-articleLarge.jpg",
+        "height": 315,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2010/11/27/sports/logo/logo-articleLarge.jpg",
+          "xlargeheight": 315
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/11/27/sports/logo/logo-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/11/27/sports/logo/logo-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Colleges Tell High Schools Logos Are Off Limits",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "We\u2019re the Gators. So Are We. Can\u2019t Look Alike, Colleges Say.",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "College Athletics",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Interscholastic Athletics",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Logos",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Trademarks and Trade Names",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-11-27T01:46:55+0000",
+    "document_type": "article",
+    "new_desk": "Sports",
+    "section_name": "Pro Football",
+    "byline": {
+      "original": "By ADAM HIMMELSBACH",
+      "person": [
+        {
+          "firstname": "Adam",
+          "middlename": null,
+          "lastname": "HIMMELSBACH",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5421094d38f0d81f7a600e98",
+    "word_count": 1105,
+    "score": 1.0,
+    "uri": "nyt://article/ebd0922d-ff2e-57d4-9c38-fbdd5271e67c"
+  }
+]

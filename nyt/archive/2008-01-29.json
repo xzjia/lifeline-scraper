@@ -1,0 +1,183 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2008/01/29/us/29bush.html",
+    "snippet": "President Bush used his final State of the Union address to call for passage of his tax rebate package and patience in Iraq.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/01/29/us/29bush.xlarge11.jpg",
+        "height": 350,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2008/01/29/us/29bush.xlarge11.jpg",
+          "xlargeheight": 350
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/01/29/us/29bush.7511.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2008/01/29/us/29bush.7511.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Bush, Facing Troubles, Focuses on War and Taxes",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Bush, Facing Woes in \u201908, Focuses on War and Taxes",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "State of the Union Message (US)",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Bush, George W",
+        "rank": 2,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2008-01-29T05:00:00+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "byline": {
+      "original": "By SHERYL GAY STOLBERG",
+      "person": [
+        {
+          "firstname": "Sheryl",
+          "middlename": "Gay",
+          "lastname": "STOLBERG",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "547d5a0738f0d822abda2205",
+    "word_count": 1352,
+    "score": 1.0,
+    "uri": "nyt://article/2ab1d584-434b-5423-9306-fe543a9e7787"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2008/01/29/health/29stem.html",
+    "snippet": "Some experts say consumers should think twice before spending money on storing stem cells, because it is not clear how useful they will be. ",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/01/28/science/stem_2_7575.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2008/01/28/science/stem_2_7575.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Questioning the Allure of Putting Cells in the Bank",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Questioning the Allure Of Putting Cells in the Bank",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Medicine and Health",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Stem Cells",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Menstruation",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Cloning",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Bone Marrow",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2008-01-29T05:00:00+0000",
+    "document_type": "article",
+    "new_desk": "Science",
+    "byline": {
+      "original": "By ANDREW POLLACK",
+      "person": [
+        {
+          "firstname": "Andrew",
+          "middlename": null,
+          "lastname": "POLLACK",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "547d524738f0d822abda2156",
+    "word_count": 1829,
+    "score": 1.0,
+    "uri": "nyt://article/feb80707-2b95-511c-963a-06566449fd7f"
+  }
+]

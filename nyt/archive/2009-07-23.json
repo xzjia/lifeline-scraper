@@ -1,0 +1,194 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2009/07/23/garden/23air.html",
+    "snippet": "As summer finally heats up, Americans may be questioning whether air-conditioning has become a luxury they can no longer afford.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/07/21/garden/23air600.1.jpg",
+        "height": 331,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/07/21/garden/23air600.1.jpg",
+          "xlargeheight": 331
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/07/21/garden/23air75.1.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/07/21/garden/23air75.1.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "The Unchilled Life",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "The Unchilled Life",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Air Conditioning",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Economic Conditions and Trends",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Home Appliances",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Weather",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-07-23T01:03:26+0000",
+    "document_type": "article",
+    "new_desk": "Home",
+    "byline": {
+      "original": "By TERI KARUSH ROGERS",
+      "person": [
+        {
+          "firstname": "Teri",
+          "middlename": "Karush",
+          "lastname": "ROGERS",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5454443138f0d839202e9d7f",
+    "word_count": 1538,
+    "score": 1.0,
+    "uri": "nyt://article/c983fb8b-049f-5adb-9f70-f05897ce6a5f"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/07/24/nyregion/24jersey.html",
+    "snippet": "Three New Jersey mayors, two state assemblymen and others were charged on Thursday in a two-year corruption and money-laundering investigation.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/07/24/nyregion/24terror1_600.jpg",
+        "height": 394,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/07/24/nyregion/24terror1_600.jpg",
+          "xlargeheight": 394
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/07/24/nyregion/24jers.ms.75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/07/24/nyregion/24jers.ms.75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "44 Charged by U.S. in New Jersey Corruption Sweep",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "44 Charged by U.S. in New Jersey Corruption Sweep",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "New Jersey",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Ethics",
+        "rank": 2,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-07-23T14:42:37+0000",
+    "document_type": "article",
+    "new_desk": "Metro",
+    "byline": {
+      "original": "By DAVID M. HALBFINGER",
+      "person": [
+        {
+          "firstname": "David",
+          "middlename": null,
+          "lastname": null,
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "53f577e338f0d87ef470e552",
+    "word_count": 1640,
+    "score": 1.0,
+    "uri": "nyt://article/866d62a6-eba0-5ee9-89e2-85f65eba7912"
+  }
+]

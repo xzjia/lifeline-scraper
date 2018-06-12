@@ -1,0 +1,675 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2011/11/29/business/businesses-scramble-as-credit-tightens-in-europe.html",
+    "snippet": "As European banks pull back on lending, companies around the globe are finding it harder to borrow, edging the world economy toward another slump.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/11/29/business/Credit/Credit-articleLarge.jpg",
+        "height": 330,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2011/11/29/business/Credit/Credit-articleLarge.jpg",
+          "xlargeheight": 330
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/11/29/business/Credit/Credit-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/11/29/business/Credit/Credit-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Crisis in Europe Tightens Credit Across the Globe",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Crisis in Europe Tightens Credit Across the Globe",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "European Sovereign Debt Crisis (2010- )",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Economic Conditions and Trends",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Banking and Financial Institutions",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Economy",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Organization for Economic Cooperation and Development",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-11-29T02:14:05+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By ERIC DASH and NELSON D. SCHWARTZ",
+      "person": [
+        {
+          "firstname": "Eric",
+          "middlename": null,
+          "lastname": "DASH",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Nelson",
+          "middlename": null,
+          "lastname": null,
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5403ab4438f0d80e250f41f2",
+    "word_count": 1337,
+    "score": 1.0,
+    "uri": "nyt://article/3a14b5af-3b73-5d6e-b091-27cadd4dee23"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/11/30/technology/facebook-agrees-to-ftc-settlement-on-privacy.html",
+    "snippet": "The Federal Trade Commission announced a proposed settlement that compels the company to obtain consent before making changes to users\u2019 privacy settings.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/11/30/technology/30facebook-web/30facebook-web-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/11/30/technology/30facebook-web/30facebook-web-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "F.T.C. Settles Privacy Issue at Facebook",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "F.T.C. Settles Privacy Issue At Facebook",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "organizations",
+        "value": "Facebook Inc",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Federal Trade Commission",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Privacy",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Consumer Protection",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-11-29T19:44:22+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By SOMINI SENGUPTA",
+      "person": [
+        {
+          "firstname": "Somini",
+          "middlename": null,
+          "lastname": "SENGUPTA",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5403af5138f0d80e250f4232",
+    "word_count": 880,
+    "score": 1.0,
+    "uri": "nyt://article/18eda8e7-5cf0-5451-ad25-21965302a5b3"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/11/29/sports/ncaafootball/for-new-coach-at-ohio-state-its-first-down-and-4-million.html",
+    "snippet": "Ohio State University hired Urban Meyer as its football coach Monday, giving him one of the richest contracts ever in college sports.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/11/29/sports/ncaafootball/subBUCKEYES/subBUCKEYES-articleLarge.jpg",
+        "height": 379,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2011/11/29/sports/ncaafootball/subBUCKEYES/subBUCKEYES-articleLarge.jpg",
+          "xlargeheight": 379
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/11/29/sports/ncaafootball/subBUCKEYES/subBUCKEYES-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/11/29/sports/ncaafootball/subBUCKEYES/subBUCKEYES-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "For New Coach at Ohio State, It\u2019s First Down and $4 Million",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "For New Coach at Ohio State, It\u2019s First Down and $4 Million",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Meyer, Urban",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Ohio State University",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Coaches and Managers",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Wages and Salaries",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "College Athletics",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Football",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Football (College)",
+        "rank": 7,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-11-29T01:57:23+0000",
+    "document_type": "article",
+    "new_desk": "Sports",
+    "section_name": "College Football",
+    "byline": {
+      "original": "By GREG BISHOP",
+      "person": [
+        {
+          "firstname": "Greg",
+          "middlename": null,
+          "lastname": "BISHOP",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "515db2dbcf28d0219d003904",
+    "word_count": 1135,
+    "score": 1.0,
+    "uri": "nyt://article/d6eb6d20-af3d-5cab-b443-7b58b6552169"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/11/29/world/asia/haqqani-militants-use-death-squads-in-afghanistan.html",
+    "snippet": "A new wave of killings has shown that the Haqqani militant network can still assert its influence even as NATO suggests that its power is weakening.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/11/29/world/JP-HAQQANI/JP-HAQQANI-articleLarge.jpg",
+        "height": 360,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2011/11/29/world/JP-HAQQANI/JP-HAQQANI-articleLarge.jpg",
+          "xlargeheight": 360
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/11/29/world/JP-HAQQANI/JP-HAQQANI-thumbStandard-v2.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/11/29/world/JP-HAQQANI/JP-HAQQANI-thumbStandard-v2.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Militants Turn to Death Squads in Afghanistan",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Militants Turn to Death Squads in Afghanistan",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Afghanistan War (2001- )",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Haqqani Network",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Defense and Military Forces",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Assassinations and Attempted Assassinations",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Afghanistan",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Pakistan",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "North Atlantic Treaty Organization",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Al Qaeda",
+        "rank": 8,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-11-29T01:47:03+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Asia Pacific",
+    "byline": {
+      "original": "By RAY RIVERA, SHARIFULLAH SAHAK and ERIC SCHMITT",
+      "person": [
+        {
+          "firstname": "Ray",
+          "middlename": null,
+          "lastname": "RIVERA",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Sharifullah",
+          "middlename": null,
+          "lastname": "SAHAK",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        },
+        {
+          "firstname": "Eric",
+          "middlename": null,
+          "lastname": "SCHMITT",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 3
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "51c1bea17e0d9c0839d2982c",
+    "word_count": 1541,
+    "score": 1.0,
+    "uri": "nyt://article/12d78149-5d56-5e20-8b3f-cdaad2ed0b48"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/11/30/world/asia/in-myanmar-government-reforms-win-over-countrys-skeptics.html",
+    "snippet": "Secretary of State Hillary Rodham Clinton will arrive on Wednesday as a show of support for Myanmar\u2019s transformation to nascent democracy.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/11/30/world/asia/30myanmar_cnd/30myanmar_cnd-articleLarge.jpg",
+        "height": 330,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2011/11/30/world/asia/30myanmar_cnd/30myanmar_cnd-articleLarge.jpg",
+          "xlargeheight": 330
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/11/30/world/asia/30myanmar_cnd/30myanmar_cnd-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/11/30/world/asia/30myanmar_cnd/30myanmar_cnd-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "In Myanmar, Government Reforms Win Over Some Skeptics",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Changes in Myanmar Impress Skeptics on Eve of Clinton Trip",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Politics and Government",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Economic Conditions and Trends",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Myanmar",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Thein Sein",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Clinton, Hillary Rodham",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States International Relations",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-11-29T16:51:55+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Asia Pacific",
+    "byline": {
+      "original": "By THE NEW YORK TIMES",
+      "person": [],
+      "organization": "The New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "52314a6138f0d8268895f670",
+    "word_count": 1248,
+    "score": 1.0,
+    "uri": "nyt://article/58a41542-92d0-52d4-b60b-0d738f969287"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/11/29/us/politics/newt-gingrich-a-student-of-history-is-determined-to-influence-it.html",
+    "snippet": "Newt Gingrich, with a Ph.D in history, frequently mentions historical events on the campaign trail, but not all listeners are won over by his scholarly references.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/11/29/us/29history1/29history1-articleLarge.jpg",
+        "height": 363,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2011/11/29/us/29history1/29history1-articleLarge.jpg",
+          "xlargeheight": 363
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Gingrich Wields History, Seeking to Add Chapter",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Gingrich Wields History, Seeking To Add Chapter",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Gingrich, Newt",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "History (Academic Subject)",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Presidential Election of 2012",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Republican Party",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Tulane University",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Politics and Government",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-11-29T03:44:42+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "section_name": "Politics",
+    "byline": {
+      "original": "By TRIP GABRIEL",
+      "person": [
+        {
+          "firstname": "Trip",
+          "middlename": null,
+          "lastname": "GABRIEL",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5403abcd38f0d80e250f41fb",
+    "word_count": 1173,
+    "score": 1.0,
+    "uri": "nyt://article/5dfc6b11-19eb-56fa-ba56-da3426081ac9"
+  }
+]

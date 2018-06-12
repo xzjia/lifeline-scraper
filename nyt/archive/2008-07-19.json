@@ -1,0 +1,87 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2008/07/19/us/19exclude.html",
+    "snippet": "No other country goes as far as the U.S. in excluding evidence from trials because of official misconduct.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/07/18/us/18exclude02_600.jpg",
+        "height": 280,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2008/07/18/us/18exclude02_600.jpg",
+          "xlargeheight": 280
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "U.S. Is Alone in Rejecting All Evidence if Police Err",
+      "kicker": "American Exception",
+      "content_kicker": "American Exception",
+      "print_headline": "U.S. Stands Alone in Rejecting All Evidence When Police Err",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Fourth Amendment (US Constitution)",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Freedom and Human Rights",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "United States",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Courts",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2008-07-19T04:00:00+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "byline": {
+      "original": "By ADAM LIPTAK",
+      "person": [
+        {
+          "firstname": "Adam",
+          "middlename": null,
+          "lastname": "LIPTAK",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "Series",
+    "_id": "5483208338f0d8403d9cd868",
+    "word_count": 1778,
+    "score": 1.0,
+    "uri": "nyt://article/d093e2f9-2b35-5797-94a1-d7a4f7c545df"
+  }
+]

@@ -1,0 +1,461 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2009/12/15/us/15poll.html",
+    "snippet": "Unemployment has caused major life changes and mental health issues for millions of Americans, a New York Times/CBS News poll found.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/12/14/us/15poll_337-75/thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/12/14/us/15poll_337-75/thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Poll Reveals Trauma of Joblessness in U.S.",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Poll Reveals Depth and Trauma of Joblessness in U.S.",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Unemployment",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Polls and Public Opinion",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "United States",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Economy",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-12-14T23:27:15+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "byline": {
+      "original": "By MICHAEL LUO and MEGAN THEE-BRENAN",
+      "person": [
+        {
+          "firstname": "Michael",
+          "middlename": null,
+          "lastname": "LUO",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Megan",
+          "middlename": null,
+          "lastname": "THEE-BRENAN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "54383a6138f0d83c143b8f18",
+    "word_count": 1183,
+    "score": 1.0,
+    "uri": "nyt://article/b24e8c13-e7d9-5d95-91e0-5eeb7036f441"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/12/14/technology/internet/14virus.html",
+    "snippet": "Viruses are rampaging through social networking sites, sending out humiliating messages to friends and followers.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/12/14/business/14virus_CA0/thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/12/14/business/14virus_CA0/thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Viruses That Leave Victims Red in the Facebook",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Viruses That Leave Victims Red in the Facebook",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Social Networking (Internet)",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Computer Malware",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Computer Security",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Computers and the Internet",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Facebook.com",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Twitter",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-12-14T02:10:35+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "section_name": "Internet",
+    "byline": {
+      "original": "By BRAD STONE",
+      "person": [
+        {
+          "firstname": "Brad",
+          "middlename": null,
+          "lastname": "STONE",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "545a7b8b38f0d842c59d1372",
+    "word_count": 963,
+    "score": 1.0,
+    "uri": "nyt://article/8896c5b6-a243-57c4-a73b-49ae5fa77736"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/12/15/business/economy/15bank.html",
+    "snippet": "Hours after Citigroup reached a deal to exit the Troubled Asset Relief Program, Wells Fargo said it would return $25 billion in federal aid.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/12/14/business/economy/15bank-ready/thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2009/12/14/business/economy/15bank-ready/thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/12/14/business/economy/15bank-ready/thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/12/14/business/economy/15bank-ready/thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Wells Fargo to Repay U.S., a Coda to the Bailout Era",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Wells Fargo to Repay U.S., a Coda to the Bailout Era",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "organizations",
+        "value": "Wells Fargo & Co",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Banks and Banking",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Citigroup Inc",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Subprime Mortgage Crisis",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Obama Financial Stability Plan",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-12-14T11:55:40+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "section_name": "Economy",
+    "byline": {
+      "original": "By ERIC DASH  and ANDREW MARTIN",
+      "person": [
+        {
+          "firstname": "Eric",
+          "middlename": null,
+          "lastname": "DASH",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Andrew",
+          "middlename": null,
+          "lastname": "MARTIN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "545a7cf738f0d842c59d1394",
+    "word_count": 1039,
+    "score": 1.0,
+    "uri": "nyt://article/7e878508-2ec2-5b5f-987c-8faf5f6092fb"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/12/14/nyregion/14juvenile.html",
+    "snippet": "A report by a state panel found physical abuse and untreated addiction and mental illness common in prisons for young offenders.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "New York Finds Extreme Crisis in Youth Prisons",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "New York Finds Extreme Crisis In Youth Prisons",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "New York State",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Juvenile Delinquency",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Prisons and Prisoners",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Children and Youth",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-12-14T03:59:55+0000",
+    "document_type": "article",
+    "new_desk": "Metro",
+    "byline": {
+      "original": "By NICHOLAS CONFESSORE",
+      "person": [
+        {
+          "firstname": "Nicholas",
+          "middlename": null,
+          "lastname": "CONFESSORE",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "545a7b2238f0d842c59d136a",
+    "word_count": 1214,
+    "score": 1.0,
+    "uri": "nyt://article/43782231-71a7-5674-af9c-c00dee21def0"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/12/14/technology/companies/14gphone.html",
+    "snippet": "Google plans to begin selling its unlocked smartphone early next year, a move that could challenge Apple\u2019s leadership in the market.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "With a New Phone, Google May Challenge Apple",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Developing Its Own Phone, Google Is Taking On Apple",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Google Phone",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Smartphones",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "iPhone",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Google Inc",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Apple Inc",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Cellular Telephones",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-12-14T00:56:23+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "section_name": "Companies",
+    "byline": {
+      "original": "By MIGUEL HELFT",
+      "person": [
+        {
+          "firstname": "Miguel",
+          "middlename": null,
+          "lastname": "HELFT",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "545a79c238f0d842c59d1350",
+    "word_count": 1328,
+    "score": 1.0,
+    "uri": "nyt://article/20da4a81-2ba7-597b-8412-42815cab2772"
+  }
+]

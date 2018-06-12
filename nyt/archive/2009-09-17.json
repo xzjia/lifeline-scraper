@@ -1,0 +1,196 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2009/09/17/us/politics/17obama.html",
+    "snippet": "Beyond posing a distraction, the race issue could further strain the president\u2019s broad but tenuous coalition.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "As Race Debate Grows, Obama Steers Clear of It",
+      "kicker": "Political Memo",
+      "content_kicker": "Political Memo",
+      "print_headline": "White House Is Sitting Out Race Debate",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Obama, Barack",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Race",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Politics and Government",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Blacks",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-09-17T01:42:32+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "section_name": "Politics",
+    "byline": {
+      "original": "By JEFF ZELENY and JIM RUTENBERG",
+      "person": [
+        {
+          "firstname": "Jeff",
+          "middlename": null,
+          "lastname": "ZELENY",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Jim",
+          "middlename": null,
+          "lastname": "RUTENBERG",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "54563d1b38f0d84a08fb3342",
+    "word_count": 1027,
+    "score": 1.0,
+    "uri": "nyt://article/09349c7a-cd68-53ca-bae3-19cd669f65e6"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/09/18/world/europe/18shield.html",
+    "snippet": "President Obama on Thursday announced a reconfigured system that won\u2019t be based in Poland or the Czech Republic, and will be aimed at intercepting Iranian missiles.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/09/17/us/gates.7575.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/09/17/us/gates.7575.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "White House Scraps Bush\u2019s Approach to Missile Shield",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "OBAMA RESHAPES A MISSILE SHIELD TO BLUNT TEHRAN",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "United States Defense and Military Forces",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Missiles and Missile Defense Systems",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Eastern Europe",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Obama, Barack",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Iran",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Nuclear Weapons",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Russia",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Czech Republic",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Poland",
+        "rank": 9,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-09-17T08:50:06+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Europe",
+    "byline": {
+      "original": "By PETER BAKER",
+      "person": [
+        {
+          "firstname": "Peter",
+          "middlename": null,
+          "lastname": "BAKER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5400bd5338f0d841b2f3889a",
+    "word_count": 1103,
+    "score": 1.0,
+    "uri": "nyt://article/d2fc7cb8-0801-5299-98ee-487e5f9d8c14"
+  }
+]

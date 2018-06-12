@@ -1,0 +1,166 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2008/03/21/us/21vaccine.html",
+    "snippet": "In an unusual outbreak of measles in San Diego, 12 children fell ill; nine of them had not been inoculated against the virus because their parents objected.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/03/21/us/21vaccine.span.jpg",
+        "height": 362,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2008/03/21/us/21vaccine.span.jpg",
+          "xlargeheight": 362
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Public Health Risk Seen as Parents Reject Vaccines",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Rising Public Health Risk Seen As More Parents Reject Vaccines",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Vaccination and Immunization",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Measles",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Medicine and Health",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "San Diego (Calif)",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2008-03-21T04:00:00+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "byline": {
+      "original": "By JENNIFER STEINHAUER",
+      "person": [
+        {
+          "firstname": "Jennifer",
+          "middlename": null,
+          "lastname": "STEINHAUER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "547f5b2d38f0d82816287393",
+    "word_count": 1414,
+    "score": 1.0,
+    "uri": "nyt://article/d629886f-77d6-5ecb-ac54-efd00d793fe1"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2008/03/21/theater/21youn.html",
+    "snippet": "Taking your kids to a Broadway musical might seem like a no-brainer. But beyond the Lion Kings, Mary Poppinses and Little Mermaids, the terrain gets more complicated.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/03/21/arts/Bway75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2008/03/21/arts/Bway75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Broadway for Big Kids, Beyond Spoonfuls of Sugar",
+      "kicker": "My Manhattan",
+      "content_kicker": "My Manhattan",
+      "print_headline": "Broadway for Big Kids, Beyond Spoonfuls of Sugar",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Theater",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Children and Youth",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Families and Family Life",
+        "rank": 3,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2008-03-21T04:00:00+0000",
+    "document_type": "article",
+    "new_desk": "Weekend",
+    "byline": {
+      "original": "By ROBIN POGREBIN",
+      "person": [
+        {
+          "firstname": "Robin",
+          "middlename": null,
+          "lastname": "POGREBIN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "547f56b538f0d82816287324",
+    "word_count": 2368,
+    "score": 1.0,
+    "uri": "nyt://article/c9a6f808-bcf0-5100-a713-99093b5f451e"
+  }
+]

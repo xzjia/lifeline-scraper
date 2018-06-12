@@ -1,0 +1,454 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2012/04/24/health/dick-cheneys-medical-history-traces-milestones-in-heart-care.html",
+    "snippet": "Since his first heart attack, Dick Cheney has benefited from nearly every treatment available to those with his condition.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/04/24/science/24DOCS_SPAN/24DOCS_SPAN-articleLarge.jpg",
+        "height": 360,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2012/04/24/science/24DOCS_SPAN/24DOCS_SPAN-articleLarge.jpg",
+          "xlargeheight": 360
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/04/24/science/24DOCS_SPAN/24DOCS_SPAN-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2012/04/24/science/24DOCS_SPAN/24DOCS_SPAN-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Cheney File Traces Heart Care Milestones",
+      "kicker": "The Doctor\u2019s World",
+      "content_kicker": "The Doctor\u2019s World",
+      "print_headline": "Cheney File Traces Heart Care Milestones",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Cheney, Dick",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Transplants",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Heart",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Medicine and Health",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2012-04-23T15:49:51+0000",
+    "document_type": "article",
+    "new_desk": "Science",
+    "byline": {
+      "original": "By LAWRENCE K. ALTMAN, M.D",
+      "person": [
+        {
+          "firstname": "Lawrence",
+          "middlename": "K.",
+          "lastname": "ALTMAN",
+          "qualifier": "M.D",
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "51c1f5ba7e0d9c0839d29ed3",
+    "word_count": 1377,
+    "score": 1.0,
+    "uri": "nyt://article/c81e9532-94d0-5d4a-aa88-0433af637698"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2012/04/23/us/states-await-supreme-court-hearing-on-arizona-immigration-law.html",
+    "snippet": "Many states are watching to see if the Supreme Court upholds Arizona\u2019s tough law directed at those who cross the border illegally.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/04/23/us/IMMIG-1/IMMIG-1-articleLarge.jpg",
+        "height": 330,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2012/04/23/us/IMMIG-1/IMMIG-1-articleLarge.jpg",
+          "xlargeheight": 330
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/04/23/us/IMMIG-1/IMMIG-1-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2012/04/23/us/IMMIG-1/IMMIG-1-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Justices to Rule on Role of the States in Immigration",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Defining Moment On Immigration",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Arizona Immigration Law (SB 1070)",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Supreme Court",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Labor and Jobs",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Arizona",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Illegal Immigrants",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Immigration and Emigration",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Federal-State Relations (US)",
+        "rank": 7,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2012-04-23T01:29:26+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "byline": {
+      "original": "By JULIA PRESTON",
+      "person": [
+        {
+          "firstname": "Julia",
+          "middlename": null,
+          "lastname": "PRESTON",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "53f5f06638f0d87ef470ed0d",
+    "word_count": 1366,
+    "score": 1.0,
+    "uri": "nyt://article/0424f419-adf3-5169-b6cc-1f1dc6ca7d70"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2012/04/23/us/politics/shift-on-executive-powers-let-obama-bypass-congress.html",
+    "snippet": "With Congressional Republicans blocking his agenda, the president has been using executive powers to enact measures: on the environment, education, drug shortages and making recess appointments.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/04/23/us/politics/23power/23power-thumbStandard-v2.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2012/04/23/us/politics/23power/23power-thumbStandard-v2.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Shift on Executive Power Lets Obama Bypass Rivals",
+      "kicker": "A Measure of Change",
+      "content_kicker": "A Measure of Change",
+      "print_headline": "Shift on Executive Power Lets Obama Bypass Rivals",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Obama, Barack",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Presidents and Presidency (US)",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Signing Statements",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Executive Orders",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Politics and Government",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Series",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Law and Legislation",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Senate",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "House of Representatives",
+        "rank": 9,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2012-04-23T03:01:07+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "section_name": "Politics",
+    "byline": {
+      "original": "By CHARLIE SAVAGE",
+      "person": [
+        {
+          "firstname": "Charlie",
+          "middlename": null,
+          "lastname": "SAVAGE",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "515da701cf28d0219d001d0a",
+    "word_count": 1969,
+    "score": 1.0,
+    "uri": "nyt://article/db6aa49b-8fcc-5e96-b8a2-8818d5680641"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2012/04/24/science/how-hbos-girls-mirrors-the-spirit-of-sisterhood-in-nature.html",
+    "snippet": "Researchers have lately gathered evidence that female friendship is one of nature\u2019s preferred narrative tools.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/04/24/science/24ANGI_SPAN/24ANGI_SPAN-articleLarge.jpg",
+        "height": 350,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2012/04/24/science/24ANGI_SPAN/24ANGI_SPAN-articleLarge.jpg",
+          "xlargeheight": 350
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/04/24/science/24ANGI_SPAN/24ANGI_SPAN-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2012/04/24/science/24ANGI_SPAN/24ANGI_SPAN-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "The Spirit of Sisterhood Is in the Air and on the Air",
+      "kicker": "Basics",
+      "content_kicker": "Basics",
+      "print_headline": "The Spirit of Sisterhood Is in the Air and On Air",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Animals",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Women and Girls",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Friendship",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Science and Technology",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Monkeys and Apes",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Elephants",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2012-04-23T16:26:58+0000",
+    "document_type": "article",
+    "new_desk": "Science",
+    "byline": {
+      "original": "By NATALIE ANGIER",
+      "person": [
+        {
+          "firstname": "Natalie",
+          "middlename": null,
+          "lastname": "ANGIER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "53f5fd3638f0d87ef470edbd",
+    "word_count": 1314,
+    "score": 1.0,
+    "uri": "nyt://article/5efd0a2a-c692-5167-ac69-557618220e6a"
+  }
+]

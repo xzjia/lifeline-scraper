@@ -1,0 +1,194 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2008/04/02/movies/02lion.html",
+    "snippet": "After a poor box-office showing for war-related movies, how could a Hollywood studio possibly entice audiences into seeing the next one?",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/04/02/arts/02lion600.jpg",
+        "height": 293,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2008/04/02/arts/02lion600.jpg",
+          "xlargeheight": 293
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/04/02/arts/02lion75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2008/04/02/arts/02lion75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Tough Marketing Calls for a Film Linked to War",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Tough Marketing Choices For a Film Linked to War",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Motion Pictures",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Iraq",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Toronto International Film Festival",
+        "rank": 3,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2008-04-02T04:00:00+0000",
+    "document_type": "article",
+    "new_desk": "Culture",
+    "byline": {
+      "original": "By DAVID M. HALBFINGER",
+      "person": [
+        {
+          "firstname": "David",
+          "middlename": null,
+          "lastname": null,
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5477445a38f0d83924902edd",
+    "word_count": 1113,
+    "score": 1.0,
+    "uri": "nyt://article/7f95a673-a26e-5337-bf75-82bef678413f"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2008/04/02/dining/02mini.html",
+    "snippet": "Your microwave oven can be put to use in more ways than just reheating coffee or softening ice cream.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/04/01/dining/02mini600.1.jpg",
+        "height": 300,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2008/04/01/dining/02mini600.1.jpg",
+          "xlargeheight": 300
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/04/01/dining/02mini75.1.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2008/04/01/dining/02mini75.1.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "You Use It Every Day. But Can You Make It Cook?",
+      "kicker": "The Minimalist",
+      "content_kicker": "The Minimalist",
+      "print_headline": "You Use It Every Day. But Can You Make It Cook?",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Cooking and Cookbooks",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Microwave Ovens",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Food",
+        "rank": 3,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2008-04-02T04:00:00+0000",
+    "document_type": "article",
+    "new_desk": "Dining",
+    "byline": {
+      "original": "By MARK BITTMAN",
+      "person": [
+        {
+          "firstname": "Mark",
+          "middlename": null,
+          "lastname": "BITTMAN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "547fc7fa38f0d82816287e05",
+    "word_count": 1225,
+    "score": 1.0,
+    "uri": "nyt://article/c3436304-e1ca-5d12-8286-42a85655f592"
+  }
+]

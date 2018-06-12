@@ -1,0 +1,208 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2010/10/05/science/05compute.html",
+    "snippet": "Researchers are fine-tuning a computer system that is trying to master semantics by learning more like a human.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/10/05/science/05computespan/05computespan-articleLarge.jpg",
+        "height": 330,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2010/10/05/science/05computespan/05computespan-articleLarge.jpg",
+          "xlargeheight": 330
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/10/05/science/05computespan/05computespan-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/10/05/science/05computespan/05computespan-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Aiming to Learn as We Do, a Machine Teaches Itself",
+      "kicker": "Smarter Than You Think",
+      "content_kicker": "Smarter Than You Think",
+      "print_headline": "Aiming to Learn as We Do, A Machine Teaches Itself",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Artificial Intelligence",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Language and Languages",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Computers and the Internet",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Science and Technology",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Carnegie Mellon University",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Defense Advanced Research Projects Agency",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-10-04T19:02:27+0000",
+    "document_type": "article",
+    "new_desk": "Science",
+    "byline": {
+      "original": "By STEVE LOHR",
+      "person": [
+        {
+          "firstname": "Steve",
+          "middlename": null,
+          "lastname": "LOHR",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "540b6c2838f0d85e13e4c45a",
+    "word_count": 1426,
+    "score": 1.0,
+    "uri": "nyt://article/d27d4fe1-903b-5206-bdd2-a496f0eb3ab4"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2010/10/05/health/research/05nobel.html",
+    "snippet": "Robert G. Edwards of Britain won the prize in medicine for a breakthrough that helped millions to have children.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/10/05/world/05nobel-3/05nobel-3-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/10/05/world/05nobel-3/05nobel-3-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Pioneer of In Vitro Fertilization Wins Nobel Prize",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "In Vitro Fertilization Pioneer Wins Nobel Prize",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Nobel Prizes",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "In Vitro Fertilization",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Edwards, Robert G",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Steptoe, Patrick C",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Brown, Louise Joy (1978- )",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-10-04T09:52:20+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Research",
+    "byline": {
+      "original": "By NICHOLAS WADE",
+      "person": [
+        {
+          "firstname": "Nicholas",
+          "middlename": null,
+          "lastname": "WADE",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5165b133cf28d0219d006dff",
+    "word_count": 1388,
+    "score": 1.0,
+    "uri": "nyt://article/aa0682cb-3876-52f5-9438-abd3b8f34e78"
+  }
+]

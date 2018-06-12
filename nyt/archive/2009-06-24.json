@@ -1,0 +1,694 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2009/06/25/us/25sanford.html",
+    "snippet": "In a rambling news conference, Mark Sanford apologized for having an affair, dampening his prospects for a national political career.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/06/24/us/24cnd_sanford5_600.jpg",
+        "height": 331,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/06/24/us/24cnd_sanford5_600.jpg",
+          "xlargeheight": 331
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/06/24/us/24cnd_sanford5_75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/06/24/us/24cnd_sanford5_75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Mysteries Remain After Governor Admits an Affair",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "ENDING MYSTERY, A GOVERNOR SAYS HE HAD AN AFFAIR",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Sanford, Mark",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Politics and Government",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Buenos Aires (Argentina)",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Adultery",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-06-24T15:06:24+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "byline": {
+      "original": "By ROBBIE BROWN and SHAILA DEWAN",
+      "person": [
+        {
+          "firstname": "Robbie",
+          "middlename": null,
+          "lastname": "BROWN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Shaila",
+          "middlename": null,
+          "lastname": "DEWAN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5453402838f0d81b603edb79",
+    "word_count": 1324,
+    "score": 1.0,
+    "uri": "nyt://article/0f34c37a-9dd9-5b31-86ef-e0e4f3a609ef"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/06/25/fashion/25IRONY.html",
+    "snippet": "Fashion has its ageless provocateurs, but those aren't poses most of us care to strike.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/06/25/fashion/25irony-600.jpg",
+        "height": 341,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/06/25/fashion/25irony-600.jpg",
+          "xlargeheight": 341
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/06/25/fashion/25irony-75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/06/25/fashion/25irony-75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Irony and the Old Lady",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Irony and the Old Lady",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Fashion and Apparel",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Age, Chronological",
+        "rank": 2,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-06-24T22:19:48+0000",
+    "document_type": "article",
+    "new_desk": "Styles",
+    "byline": {
+      "original": "By CATHY HORYN",
+      "person": [
+        {
+          "firstname": "Cathy",
+          "middlename": null,
+          "lastname": "HORYN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5453414538f0d81b603edb96",
+    "word_count": 1374,
+    "score": 1.0,
+    "uri": "nyt://article/099ead17-fcf9-5734-9b6e-107bcc40c823"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/06/25/garden/25capsules.html",
+    "snippet": "Despite the last decade\u2019s renovation boom, some homeowners have resisted the urge to replace the yellow Formica counters or even buy a new couch, leaving their d\u00e9cor frozen in time.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/06/25/garden/25capsules-600.jpg",
+        "height": 347,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/06/25/garden/25capsules-600.jpg",
+          "xlargeheight": 347
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/06/25/garden/25capsules-75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/06/25/garden/25capsules-75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Living in a Time Capsule",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Living in a Time Capsule",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Housing and Real Estate",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Interior Design",
+        "rank": 2,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-06-24T21:55:15+0000",
+    "document_type": "article",
+    "new_desk": "Home",
+    "byline": {
+      "original": "By STEVEN KURUTZ",
+      "person": [
+        {
+          "firstname": "Steven",
+          "middlename": null,
+          "lastname": "KURUTZ",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "545343b238f0d81b603edbd3",
+    "word_count": 2033,
+    "score": 1.0,
+    "uri": "nyt://article/64ae4bae-532a-5dae-8c70-96401c9ff374"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/06/25/health/nutrition/25best.html",
+    "snippet": "Everyone tells you to listen to your body, but what are you supposed to listen to? Turns out it\u2019s not so obvious. ",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/06/24/fashion/25fitness.1-600.jpg",
+        "height": 352,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/06/24/fashion/25fitness.1-600.jpg",
+          "xlargeheight": 352
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/06/24/fashion/25fitness-745.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/06/24/fashion/25fitness-745.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "That Little Voice Inside Your Twinge",
+      "kicker": "Personal Best",
+      "content_kicker": "Personal Best",
+      "print_headline": "That Little Voice Inside Your Twinge",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Exercise",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Medicine and Health",
+        "rank": 2,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-06-24T22:58:47+0000",
+    "document_type": "article",
+    "new_desk": "Styles",
+    "section_name": "Fitness & Nutrition",
+    "byline": {
+      "original": "By GINA KOLATA",
+      "person": [
+        {
+          "firstname": "Gina",
+          "middlename": null,
+          "lastname": "KOLATA",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5453410738f0d81b603edb8f",
+    "word_count": 1248,
+    "score": 1.0,
+    "uri": "nyt://article/26870556-6af5-5869-8e2c-9315bb8db1a4"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/06/25/technology/personaltech/25pogue.html",
+    "snippet": "Why doesn\u2019t someone invent a standard for worst-case/best-case duration? Actually, they have. It\u2019s called MobileMark, but there are a few problems.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/06/25/technology/personaltech/25pogue.1.600.jpg",
+        "height": 300,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/06/25/technology/personaltech/25pogue.1.600.jpg",
+          "xlargeheight": 300
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/06/25/technology/personaltech/25pogue.1.75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/06/25/technology/personaltech/25pogue.1.75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Decoding Battery Life for Laptops",
+      "kicker": "State of the Art",
+      "content_kicker": "State of the Art",
+      "print_headline": "Decoding Battery Life For Laptops",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Batteries",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Laptop Computers",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Computers and the Internet",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Advertising and Marketing",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Cameras",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-06-24T21:29:43+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "section_name": "Personal Tech",
+    "byline": {
+      "original": "By DAVID POGUE",
+      "person": [
+        {
+          "firstname": "David",
+          "middlename": null,
+          "lastname": "POGUE",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "53f57d3738f0d87ef470e5d6",
+    "word_count": 1293,
+    "score": 1.0,
+    "uri": "nyt://article/1377fcde-1ef8-5d32-b119-0a088b8ccc0e"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/06/24/business/24jobs.html",
+    "snippet": "Employers are begging for specially skilled applicants in fields like critical care nursing and geology.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/06/24/business/24jobs01-75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/06/24/business/24jobs01-75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Despite Recession, High Demand for Skilled Labor",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Now Hiring, and Desperately Seeking, Specially Skilled Workers",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Hiring and Promotion",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Unemployment",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Vocational Training",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Nursing and Nurses",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Engineering and Engineers",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-06-24T00:50:03+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By LOUIS UCHITELLE",
+      "person": [
+        {
+          "firstname": "Louis",
+          "middlename": null,
+          "lastname": "UCHITELLE",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "54533cd138f0d81b603edb2c",
+    "word_count": 1200,
+    "score": 1.0,
+    "uri": "nyt://article/0e840f6a-610b-5a09-9063-66e2029b49f5"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/06/24/business/energy-environment/24geotherm.html",
+    "snippet": "AltaRock Energy will drill near San Francisco using a method that has caused earthquakes elsewhere.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/06/24/us/24geothermal-600.jpg",
+        "height": 331,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/06/24/us/24geothermal-600.jpg",
+          "xlargeheight": 331
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/06/24/us/24geothermal-75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/06/24/us/24geothermal-75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Deep in Bedrock, Clean Energy and Quake Fears",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "In Bedrock, Clean Energy and Quake Fears",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Geothermal Power",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Energy and Power",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Earthquakes",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "San Francisco (Calif)",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Engineering and Engineers",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-06-24T01:30:18+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "section_name": "Energy & Environment ",
+    "byline": {
+      "original": "By JAMES GLANZ",
+      "person": [
+        {
+          "firstname": "James",
+          "middlename": null,
+          "lastname": "GLANZ",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "54533e1d38f0d81b603edb4d",
+    "word_count": 2694,
+    "score": 1.0,
+    "uri": "nyt://article/f833cdd3-88a4-5b55-974b-81c6ef221dff"
+  }
+]

@@ -1,0 +1,142 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2008/06/06/movies/06pand.html",
+    "snippet": "At once fuzzy-wuzzy and industrial strength, the tacky-sounding \u201cKung Fu Panda\u201d is high concept with a heart.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/06/06/movies/08panda.xlarge1.jpg",
+        "height": 280,
+        "width": 600,
+        "legacy": {
+          "xlarge": "images/2008/06/06/movies/08panda.xlarge1.jpg",
+          "xlargewidth": 600,
+          "xlargeheight": 280
+        },
+        "subType": "xlarge",
+        "crop_name": "articleLarge"
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/06/06/movies/08panda.751.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnail": "images/2008/06/06/movies/08panda.751.jpg",
+          "thumbnailwidth": 75,
+          "thumbnailheight": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": "thumbStandard"
+      },
+      {
+        "rank": 0,
+        "subtype": "popup",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/06/06/movies/08panda.xlarge1.jpg",
+        "height": 280,
+        "width": 600,
+        "legacy": {},
+        "subType": "popup",
+        "crop_name": "popup"
+      },
+      {
+        "rank": 0,
+        "subtype": "sfSpan",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/06/06/movies/08panda.3951.jpg",
+        "height": 240,
+        "width": 395,
+        "legacy": {},
+        "subType": "sfSpan",
+        "crop_name": "sfSpan"
+      }
+    ],
+    "headline": {
+      "main": "Fuzzy Outsider, Kicking His Way Toward His Dream",
+      "kicker": "Movie Review | 'Kung Fu Panda'",
+      "content_kicker": "Movie Review | 'Kung Fu Panda'",
+      "print_headline": "Fuzzy Outsider, Kicking His Way Toward His Dream",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Motion Pictures",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Animated Films",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Black, Jack",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Osborne, Mark (1970- )",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "creative_works",
+        "value": "Kung Fu Panda (Movie)",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Stevenson, John (1958- )",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2008-06-06T04:00:00+0000",
+    "document_type": "article",
+    "new_desk": "Weekend",
+    "byline": {
+      "original": "By MANOHLA DARGIS",
+      "person": [
+        {
+          "firstname": "Manohla",
+          "middlename": null,
+          "lastname": "DARGIS",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "Review",
+    "_id": "525df7c538f0d81989742e76",
+    "word_count": 842,
+    "score": 1.0,
+    "uri": "nyt://article/4add2ff9-7097-53c3-a1d2-17d81bfc2281"
+  }
+]

@@ -1,0 +1,191 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2010/07/22/world/asia/22assess.html",
+    "snippet": "The timetable to draw down troops hangs over President Obama as much as it does over the Afghan government. ",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/07/22/world/22assess_337-span/ASSESS-1-articleLarge.jpg",
+        "height": 330,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2010/07/22/world/22assess_337-span/ASSESS-1-articleLarge.jpg",
+          "xlargeheight": 330
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/07/22/world/22assess_337-span/ASSESS-1-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/07/22/world/22assess_337-span/ASSESS-1-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Afghan Deadline Is Cutting Two Ways",
+      "kicker": "News Analysis",
+      "content_kicker": "News Analysis",
+      "print_headline": "An Afghan Deadline, but Not the Desired Effect",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Obama, Barack",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Afghanistan War (2001- )",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Afghanistan",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Defense and Military Forces",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-07-22T00:52:39+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Asia Pacific",
+    "byline": {
+      "original": "By DAVID E. SANGER",
+      "person": [
+        {
+          "firstname": "David",
+          "middlename": "E.",
+          "lastname": "SANGER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News Analysis",
+    "_id": "5418c74138f0d86afc9a0898",
+    "word_count": 991,
+    "score": 1.0,
+    "uri": "nyt://article/34c738ee-5efd-5c35-89f6-8d1bb350f936"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2010/07/23/sports/baseball/23doping.html",
+    "snippet": "The drug-testing program will be expanded by drawing blood from players to test for human growth hormone. ",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/07/23/sports/baseball/23hgh/23hgh-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/07/23/sports/baseball/23hgh/23hgh-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Baseball Using Minor Leagues for a Drug Test",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Baseball Using Minor Leagues For a Drug Test",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "organizations",
+        "value": "Major League Baseball",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Doping (Sports)",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Minor Leagues",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Selig, Bud",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-07-22T19:52:44+0000",
+    "document_type": "article",
+    "new_desk": "Sports",
+    "section_name": "Baseball",
+    "byline": {
+      "original": "By MICHAEL S. SCHMIDT",
+      "person": [
+        {
+          "firstname": "Michael",
+          "middlename": "S.",
+          "lastname": "SCHMIDT",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5418cec838f0d86afc9a0943",
+    "word_count": 937,
+    "score": 1.0,
+    "uri": "nyt://article/f59eed0b-abe2-5204-8a35-92bc34cda75e"
+  }
+]

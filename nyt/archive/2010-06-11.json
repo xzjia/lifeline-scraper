@@ -1,0 +1,321 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2010/06/13/fashion/13veil.html",
+    "snippet": "A symbol of the differences between East and West is often criticized at mosques as well as at malls.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/06/13/fashion/13veilspan-1/Veil-articleLarge.jpg",
+        "height": 331,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2010/06/13/fashion/13veilspan-1/Veil-articleLarge.jpg",
+          "xlargeheight": 331
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/06/13/fashion/13veilspan-1/Veil-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/06/13/fashion/13veilspan-1/Veil-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Behind the Veil",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Behind the Veil",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Muslim Veiling",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Women and Girls",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Muslim-Americans",
+        "rank": 3,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-06-11T23:06:40+0000",
+    "document_type": "article",
+    "new_desk": "Styles",
+    "byline": {
+      "original": "By LORRAINE ALI",
+      "person": [
+        {
+          "firstname": "Lorraine",
+          "middlename": null,
+          "lastname": "ALI",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5417617738f0d851fd3a7df3",
+    "word_count": 2621,
+    "score": 1.0,
+    "uri": "nyt://article/206662fc-2961-5d53-8d4d-d06d6f1c9d7e"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2010/06/11/business/11bp.html",
+    "snippet": "In Britain, investors and politicians are becoming increasingly angry at the blistering attacks from across the Atlantic. ",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "U.S. Fury at BP Stirs Backlash Among British",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "U.S. Fury at BP Stirs Backlash Among British",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "organizations",
+        "value": "BP Plc",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Oil (Petroleum) and Gasoline",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States International Relations",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Offshore Drilling and Exploration",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Accidents and Safety",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Gulf of Mexico",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Great Britain",
+        "rank": 7,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-06-11T00:15:02+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "byline": {
+      "original": "By SARAH LYALL  and JULIA WERDIGIER",
+      "person": [
+        {
+          "firstname": "Sarah",
+          "middlename": null,
+          "lastname": "LYALL",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Julia",
+          "middlename": null,
+          "lastname": "WERDIGIER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5417585d38f0d851fd3a7d22",
+    "word_count": 1085,
+    "score": 1.0,
+    "uri": "nyt://article/07f96944-4598-555d-99a5-d8c4a25e12b4"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2010/06/12/us/politics/12leak.html",
+    "snippet": "In 17 months in office, President Obama has already outdone every previous president in pursuing leak prosecutions. ",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/06/12/us/JP-LEAK-1/JP-LEAK-1-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/06/12/us/JP-LEAK-1/JP-LEAK-1-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Obama Takes a Hard Line Against Leaks to Press",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Obama Steps Up Prosecution Of Leaks to the News Media",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Drake, Thomas A",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "National Security Agency",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Obama, Barack",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "News and News Media",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Classified Information and State Secrets",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Politics and Government",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Whistle-Blowers",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Gorman, Siobhan",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Baltimore Sun",
+        "rank": 9,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Justice Department",
+        "rank": 10,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Manning, Bradley",
+        "rank": 11,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-06-11T16:41:42+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "section_name": "Politics",
+    "byline": {
+      "original": "By SCOTT SHANE",
+      "person": [
+        {
+          "firstname": "Scott",
+          "middlename": null,
+          "lastname": "SHANE",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "54175f8a38f0d851fd3a7dc6",
+    "word_count": 2001,
+    "score": 1.0,
+    "uri": "nyt://article/01746d13-0144-5012-b341-e22b830435f4"
+  }
+]

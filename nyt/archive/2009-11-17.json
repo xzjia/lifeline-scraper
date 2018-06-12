@@ -1,0 +1,112 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2009/11/17/technology/internet/17maps.html",
+    "snippet": "From Petaluma to Peshawar, volunteer cartographers are logging details of neighborhoods near and far.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/11/17/business/17maps_CA0/thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/11/17/business/17maps_CA0/thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Online Maps: Everyman Offers New Directions",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Online Maps: Everyman Offers New Directions",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Maps",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Computers and the Internet",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Navigation",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Google Inc",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "New Directions",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Rand McNally & Co",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Geography",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Volunteers",
+        "rank": 8,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-11-17T03:04:57+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "section_name": "Internet",
+    "byline": {
+      "original": "By MIGUEL HELFT",
+      "person": [
+        {
+          "firstname": "Miguel",
+          "middlename": null,
+          "lastname": "HELFT",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5400baaf38f0d841b2f38771",
+    "word_count": 1159,
+    "score": 1.0,
+    "uri": "nyt://article/aa6c280b-a37a-5b1c-b89f-4603845c027a"
+  }
+]

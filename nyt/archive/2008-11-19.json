@@ -1,0 +1,190 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2008/11/19/sports/basketball/19shout.html",
+    "snippet": "The shouts of N.B.A. players trying to persuade referees are now as much sounds of the game as the squeaking of sneakers.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/11/19/sports/19shout_75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2008/11/19/sports/19shout_75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "In N.B.A., All-Star Acting Is Part of Game",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Fouled in the Act of Grunting",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Basketball",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "National Basketball Assn",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Officiating (Sports)",
+        "rank": 3,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2008-11-19T02:45:10+0000",
+    "document_type": "article",
+    "new_desk": "Sports",
+    "section_name": "Pro Basketball",
+    "byline": {
+      "original": "By JONATHAN ABRAMS",
+      "person": [
+        {
+          "firstname": "Jonathan",
+          "middlename": null,
+          "lastname": "ABRAMS",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "547a477638f0d803f445b60f",
+    "word_count": 971,
+    "score": 1.0,
+    "uri": "nyt://article/ae681ca4-19c0-5ef0-a5f0-25ccb014d72e"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2008/11/20/garden/20math.html",
+    "snippet": "As Americans attempt to perform cost-benefit analyses of their needs and behaviors, some are practicing economies that may not deserve the name.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/11/19/garden/20math-600.jpg",
+        "height": 357,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2008/11/19/garden/20math-600.jpg",
+          "xlargeheight": 357
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/11/19/garden/20math-75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2008/11/19/garden/20math-75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Failing Home Economics",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Failing Home Economics",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Budgets and Budgeting",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Personal Finances",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Finances",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Retail Stores and Trade",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Housing",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2008-11-19T23:26:44+0000",
+    "document_type": "article",
+    "new_desk": "Home",
+    "byline": {
+      "original": "By PENELOPE GREEN",
+      "person": [
+        {
+          "firstname": "Penelope",
+          "middlename": null,
+          "lastname": "GREEN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "547a2e4c38f0d803f445b3e3",
+    "word_count": 1910,
+    "score": 1.0,
+    "uri": "nyt://article/7aed8ac8-e9d0-5eda-8706-8b29f1f0cc06"
+  }
+]

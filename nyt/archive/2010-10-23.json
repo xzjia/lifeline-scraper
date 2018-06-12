@@ -1,0 +1,416 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2010/10/24/business/24claim.html",
+    "snippet": "Oil from the BP spill never came close to most of Florida\u2019s beaches, but tourists seemed to be scared off anyway. Businesses and want restitution for lost revenue.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/10/24/business/JP-CLAIM-3/JP-CLAIM-3-articleLarge.jpg",
+        "height": 315,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2010/10/24/business/JP-CLAIM-3/JP-CLAIM-3-articleLarge.jpg",
+          "xlargeheight": 315
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Should BP\u2019s Money Go Where the Oil Didn\u2019t?",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Should the Money Go Where the Oil Didn\u2019t?",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Oil (Petroleum) and Gasoline",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Offshore Drilling and Exploration",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Accidents and Safety",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Gulf of Mexico",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Travel and Vacations",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "BP Plc",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Florida",
+        "rank": 7,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-10-23T23:07:45+0000",
+    "document_type": "article",
+    "new_desk": "SundayBusiness",
+    "byline": {
+      "original": "By DAVID SEGAL",
+      "person": [
+        {
+          "firstname": "David",
+          "middlename": null,
+          "lastname": "SEGAL",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "541bf85e38f0d8296cb105a6",
+    "word_count": 3197,
+    "score": 1.0,
+    "uri": "nyt://article/fb6f9325-810e-5be6-9dc8-b75ffd0fc249"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2010/10/23/business/23refinance.html",
+    "snippet": "The frugal are qualifying for refinanced mortgages at interest rates that in any other recent era would have been considered stealing.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/10/23/business/Refinance/Refinance-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/10/23/business/Refinance/Refinance-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Plunging Rates for Refinancing Aid the Thrifty",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Plunging Rates for Refinancing Aid the Thrifty",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Mortgages",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Interest Rates",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Economic Conditions and Trends",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Housing and Real Estate",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-10-23T01:31:34+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By DAVID STREITFELD",
+      "person": [
+        {
+          "firstname": "David",
+          "middlename": null,
+          "lastname": "STREITFELD",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "541bfb0a38f0d8296cb105e4",
+    "word_count": 1114,
+    "score": 1.0,
+    "uri": "nyt://article/f0c7f466-2ef9-5fff-bc18-ffa7168e3365"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2010/10/24/world/24assange.html",
+    "snippet": "Julian Assange is used to being denounced, but now some of his own comrades are abandoning him for what they see as erratic and imperious behavior.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/10/24/world/24-jp-ASSANGE/24-jp-ASSANGE-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/10/24/world/24-jp-ASSANGE/24-jp-ASSANGE-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "WikiLeaks Founder on the Run, Trailed by Notoriety",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Iraq Archive: Private Gunmen Fed Turmoil: WikiLeaks Chief On Run, Trailed By His Notoriety",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Assange, Julian",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Wikileaks",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Classified Information and State Secrets",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Iraq War (2003- )",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Afghanistan War (2001- )",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Defense and Military Forces",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-10-23T16:01:18+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "byline": {
+      "original": "By JOHN F. BURNS and RAVI SOMAIYA",
+      "person": [
+        {
+          "firstname": "John",
+          "middlename": "F.",
+          "lastname": "BURNS",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Ravi",
+          "middlename": null,
+          "lastname": "SOMAIYA",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "541bfacc38f0d8296cb105e0",
+    "word_count": 2027,
+    "score": 1.0,
+    "uri": "nyt://article/1ae1d68b-512c-55d1-8109-232ed602c0f7"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2010/10/24/us/politics/24campaign.html",
+    "snippet": "Republicans have placed enough seats into play that Washington is on the brink of a substantial shift in the balance of power.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/10/24/us/JP-CAMPAIGN-1/JP-CAMPAIGN-1-articleLarge-v2.jpg",
+        "height": 330,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2010/10/24/us/JP-CAMPAIGN-1/JP-CAMPAIGN-1-articleLarge-v2.jpg",
+          "xlargeheight": 330
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/10/24/us/JP-CAMPAIGN-1/JP-CAMPAIGN-1-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/10/24/us/JP-CAMPAIGN-1/JP-CAMPAIGN-1-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "G.O.P. Is Poised to Seize House, if Not Senate",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "G.O.P. Is Poised To Seize House, If Not Senate",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "organizations",
+        "value": "Republican Party",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "House of Representatives",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Senate",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Politics and Government",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Elections",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-10-23T22:34:43+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "section_name": "Politics",
+    "byline": {
+      "original": "By JEFF ZELENY and CARL HULSE",
+      "person": [
+        {
+          "firstname": "Jeff",
+          "middlename": null,
+          "lastname": "ZELENY",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Carl",
+          "middlename": null,
+          "lastname": "HULSE",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "541bfe9038f0d8296cb10630",
+    "word_count": 1408,
+    "score": 1.0,
+    "uri": "nyt://article/a2ae7034-2544-5079-b572-af4dcdcddfab"
+  }
+]

@@ -1,0 +1,91 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2008/11/03/us/03gitmo.html",
+    "snippet": "Dozens of prisoners being held at Guant\u00e1namo Bay are regarded by intelligence agencies as serious risks.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "Next President Will Face Test on Detainees",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Next President Will Face Test On Detainees",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Guantanamo Bay Naval Base (Cuba)",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Detainees",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Central Intelligence Agency",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Al Qaeda",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "bin al-Shibh, Ramzi",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Zubaydah, Abu",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2008-11-03T03:06:16+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "byline": {
+      "original": "By WILLIAM GLABERSON and MARGOT WILLIAMS",
+      "person": [
+        {
+          "firstname": "William",
+          "middlename": null,
+          "lastname": "GLABERSON",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Margot",
+          "middlename": null,
+          "lastname": "WILLIAMS",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5479b45238f0d86bf592fbbe",
+    "word_count": 1539,
+    "score": 1.0,
+    "uri": "nyt://article/120d828a-0b11-51ca-97ab-acf991c690db"
+  }
+]

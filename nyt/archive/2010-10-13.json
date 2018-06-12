@@ -1,0 +1,154 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2010/10/17/movies/17scott.html",
+    "snippet": "The term documentary has become a catchall rubric, a label that can be affixed to heterogeneous, even contradictory products.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/10/17/arts/SCOTT-span/SCOTT-span-articleLarge.jpg",
+        "height": 330,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2010/10/17/arts/SCOTT-span/SCOTT-span-articleLarge.jpg",
+          "xlargeheight": 330
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/10/17/arts/SCOTT-span/SCOTT-span-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/10/17/arts/SCOTT-span/SCOTT-span-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Documentaries (in Name Only) of Every Stripe",
+      "kicker": "Film",
+      "content_kicker": "Film",
+      "print_headline": "Documentaries (In Name Only) Of Every Stripe",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Documentary Films and Programs",
+        "rank": 1,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-10-13T18:05:21+0000",
+    "document_type": "article",
+    "new_desk": "0",
+    "byline": {
+      "original": "By A. O. SCOTT",
+      "person": [
+        {
+          "firstname": "A.",
+          "middlename": "O.",
+          "lastname": "SCOTT",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "541b994e38f0d8296cb0fd43",
+    "word_count": 1684,
+    "score": 1.0,
+    "uri": "nyt://article/dc63f0f3-6614-5734-bd4a-c929f391382c"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2010/10/14/technology/personaltech/14pogue.html",
+    "snippet": "There are several never-reviewed gizmos stuffed in the virtual closet. Let\u2019s look at them now.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/10/14/business/POGUE/POGUE-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/10/14/business/POGUE/POGUE-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Neglected Gadgets on Stage",
+      "kicker": "State of the Art",
+      "content_kicker": "State of the Art",
+      "print_headline": "Neglected Gadgets On Stage",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Computers and the Internet",
+        "rank": 1,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-10-13T21:51:00+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "section_name": "Personal Tech",
+    "byline": {
+      "original": "By DAVID POGUE",
+      "person": [
+        {
+          "firstname": "David",
+          "middlename": null,
+          "lastname": "POGUE",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "541ba2a838f0d8296cb0fe25",
+    "word_count": 1288,
+    "score": 1.0,
+    "uri": "nyt://article/197be5d7-ec5f-5ec1-8e9a-878b0fa24a13"
+  }
+]

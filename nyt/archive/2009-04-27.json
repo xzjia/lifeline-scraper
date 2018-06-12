@@ -1,0 +1,723 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2009/04/27/us/27atheist.html",
+    "snippet": "Organized atheist groups liken their strategy to the gay-rights movement, which lifted off when members of a scorned minority went public.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "More Atheists Shout It From the Rooftops",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "More Atheists Are Shouting It From Rooftops",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Atheism",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Religion and Belief",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Polls and Public Opinion",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Bush, George W",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Charleston (SC)",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Politics and Government",
+        "rank": 10,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-04-27T01:18:58+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "byline": {
+      "original": "By LAURIE GOODSTEIN",
+      "person": [
+        {
+          "firstname": "Laurie",
+          "middlename": null,
+          "lastname": "GOODSTEIN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5469e68f38f0d8317bec1bf6",
+    "word_count": 1295,
+    "score": 1.0,
+    "uri": "nyt://article/01883e97-9608-5dfb-8fd1-faa2a194b4c8"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/04/28/science/28hobbit.html",
+    "snippet": "The extinct people nicknamed hobbits remain mystifying anomalies in human evolution, out of place in time and geography, their ancestry unknown.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/04/27/science/28hobb-600.jpg",
+        "height": 392,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/04/27/science/28hobb-600.jpg",
+          "xlargeheight": 392
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/04/27/science/28hobb-75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/04/27/science/28hobb-75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "A Tiny Hominid With No Place on the Family Tree",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "A Tiny Hominid With No Place on the Family Tree",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Archaeology and Anthropology",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Evolution",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Paleontology",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Science and Technology",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-04-27T22:00:08+0000",
+    "document_type": "article",
+    "new_desk": "Science",
+    "byline": {
+      "original": "By JOHN NOBLE WILFORD",
+      "person": [
+        {
+          "firstname": "John",
+          "middlename": "Noble",
+          "lastname": "WILFORD",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5469edfe38f0d8317bec1c96",
+    "word_count": 1736,
+    "score": 1.0,
+    "uri": "nyt://article/95ef9f61-d6ba-5ce4-8c53-4e6e24e2f640"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/04/28/health/28docs.html",
+    "snippet": "The viruses that cause flu are predictably unpredictable.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/04/28/science/28doc-600.jpg",
+        "height": 365,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/04/28/science/28doc-600.jpg",
+          "xlargeheight": 365
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/04/28/science/28doc-75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/04/28/science/28doc-75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Sound the Alarm? A Swine Flu Bind",
+      "kicker": "The Doctor's World",
+      "content_kicker": "The Doctor's World",
+      "print_headline": "Sound the Alarm? A Swine Flu Bind",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Swine Influenza",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Epidemics",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Influenza",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Medicine and Health",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-04-27T22:38:50+0000",
+    "document_type": "article",
+    "new_desk": "Science",
+    "byline": {
+      "original": "By LAWRENCE K. ALTMAN, M.D",
+      "person": [
+        {
+          "firstname": "Lawrence",
+          "middlename": "K.",
+          "lastname": "ALTMAN",
+          "qualifier": "M.D",
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5469e96a38f0d8317bec1c3a",
+    "word_count": 958,
+    "score": 1.0,
+    "uri": "nyt://article/7f657a74-7cec-5ed5-ad22-0dd0c925c126"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/04/28/us/politics/28poll.html",
+    "snippet": "The percentage of blacks who say that race relations are generally good has doubled since last July, a Times/CBS News poll found.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "Obama Is Nudging Views on Race, a Survey Finds",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Obama Nudging Views on Race, A Survey Finds",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Obama, Barack",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Polls and Public Opinion",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Race",
+        "rank": 3,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-04-27T22:27:30+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "section_name": "Politics",
+    "byline": {
+      "original": "By SHERYL GAY STOLBERG and MARJORIE CONNELLY",
+      "person": [
+        {
+          "firstname": "Sheryl",
+          "middlename": "Gay",
+          "lastname": "STOLBERG",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Marjorie",
+          "middlename": null,
+          "lastname": "CONNELLY",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5469ef0338f0d8317bec1cad",
+    "word_count": 1022,
+    "score": 1.0,
+    "uri": "nyt://article/9b5b8652-fb9c-5e86-81a9-8aa22729a7f4"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/04/27/technology/start-ups/27global.html",
+    "snippet": "To serve emerging markets, companies like YouTube need to invest in expensive servers, but ad revenue for those countries doesn\u2019t cover those additional costs.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/04/27/business/27global.xlarge1.jpg",
+        "height": 360,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/04/27/business/27global.xlarge1.jpg",
+          "xlargeheight": 360
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/04/27/business/27global.751.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/04/27/business/27global.751.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "In Developing Countries, Web Grows Without Profit",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "In Developing Countries, Web Grows Without Profit",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Computers and the Internet",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Third World and Developing Countries",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Online Advertising",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "YouTube.com",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Facebook.com",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "MySpace.com",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-04-27T01:39:31+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "section_name": "Start-Ups",
+    "byline": {
+      "original": "By BRAD STONE and MIGUEL HELFT",
+      "person": [
+        {
+          "firstname": "Brad",
+          "middlename": null,
+          "lastname": "STONE",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Miguel",
+          "middlename": null,
+          "lastname": "HELFT",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5469e7c138f0d8317bec1c12",
+    "word_count": 1092,
+    "score": 1.0,
+    "uri": "nyt://article/ff2061ef-366f-5816-b7c3-e2a2f225077a"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/04/27/business/27geithner.html",
+    "snippet": "As head of the New York Fed, Treasury Secretary Timothy F. Geithner built close relationships on Wall Street.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/04/27/business/geithner.75757.66.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/04/27/business/geithner.75757.66.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Geithner, Member and Overseer of Finance Club",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Member and Overseer Of the Finance Club",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Geithner, Timothy F",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Banks and Banking",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Obama Financial Stability Plan",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Subprime Mortgage Crisis",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Regulation and Deregulation of Industry",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Treasury Department",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Federal Reserve System",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Federal Reserve Bank of New York",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Citigroup Inc",
+        "rank": 9,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-04-27T01:43:39+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By JO BECKER and GRETCHEN MORGENSON",
+      "person": [
+        {
+          "firstname": "Jo",
+          "middlename": null,
+          "lastname": "BECKER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Gretchen",
+          "middlename": null,
+          "lastname": "MORGENSON",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5469e7e538f0d8317bec1c14",
+    "word_count": 5333,
+    "score": 1.0,
+    "uri": "nyt://article/0928738f-2e85-506f-99c2-6a4584bb61e7"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/04/27/health/policy/27care.html",
+    "snippet": "One proposal -- to increase Medicare payments to general practitioners, at the expense of high-paid specialists -- has touched off a lobbying fight.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/04/27/health/policy/27care.graphic.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2009/04/27/health/policy/27care.graphic.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Shortage of Doctors an Obstacle to Obama Goals",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Doctor Shortage Proves Obstacle To Obama Goals",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Doctors",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Shortages",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Obama, Barack",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Medicine and Health",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Medicare",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Health Insurance and Managed Care",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Politics and Government",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Lobbying and Lobbyists",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Reform and Reorganization",
+        "rank": 9,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-04-27T01:08:52+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "section_name": "Money & Policy",
+    "byline": {
+      "original": "By ROBERT PEAR",
+      "person": [
+        {
+          "firstname": "Robert",
+          "middlename": null,
+          "lastname": "PEAR",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5469e6ac38f0d8317bec1bf8",
+    "word_count": 1014,
+    "score": 1.0,
+    "uri": "nyt://article/d6f422b3-19fa-5268-be1d-564d0a8dab5e"
+  }
+]

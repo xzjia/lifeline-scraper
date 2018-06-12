@@ -1,0 +1,69 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2008/02/19/us/19suicide.html",
+    "snippet": "The suicide rate among 45-to-54-year-olds increased nearly 20 percent from 1999 to 2004.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "Midlife Suicide Rises, Puzzling Researchers",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Midlife Suicide Rises, Puzzling Researchers",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Suicides and Suicide Attempts",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Age, Chronological",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "United States",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Medicine and Health",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2008-02-19T05:00:00+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "byline": {
+      "original": "By PATRICIA COHEN",
+      "person": [
+        {
+          "firstname": "Patricia",
+          "middlename": null,
+          "lastname": "COHEN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "547e1d6438f0d84a61c0e327",
+    "word_count": 1468,
+    "score": 1.0,
+    "uri": "nyt://article/f2d33890-9206-5243-b764-217ba42a7d1a"
+  }
+]

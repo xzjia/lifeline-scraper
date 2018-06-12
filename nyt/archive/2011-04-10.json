@@ -1,0 +1,283 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2011/04/11/us/politics/11deficit.html",
+    "snippet": "President Obama will call this week for Republicans to join him in writing a plan to raise revenue and reduce the growth of popular entitlement programs.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/04/11/us/OBAMA-1/OBAMA-1-articleLarge-v3.jpg",
+        "height": 330,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2011/04/11/us/OBAMA-1/OBAMA-1-articleLarge-v3.jpg",
+          "xlargeheight": 330
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/04/11/us/OBAMA-1/OBAMA-1-thumbStandard-v3.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/04/11/us/OBAMA-1/OBAMA-1-thumbStandard-v3.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Obama to Call for Broad Plan to Reduce Debt",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "OBAMA TO CALL\nFOR BROAD PLAN\nTO REDUCE DEBT",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Federal Budget (US)",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Politics and Government",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Obama, Barack",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "National Debt (US)",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-04-10T16:48:12+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "section_name": "Politics",
+    "byline": {
+      "original": "By JACKIE CALMES",
+      "person": [
+        {
+          "firstname": "Jackie",
+          "middlename": null,
+          "lastname": "CALMES",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "540ca2bd38f0d85bf2514b28",
+    "word_count": 1176,
+    "score": 1.0,
+    "uri": "nyt://article/d14634c2-c4e2-542a-9d98-454cdd70efb7"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/04/11/business/media/11carr.html",
+    "snippet": "There\u2019s a dissonance between furloughs and layoffs for employees while chief executive compensation doubles.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/04/12/business/media/carr-50/carr-50-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/04/12/business/media/carr-50/carr-50-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "At Gannett, Furloughs but Nice Paydays for Brass",
+      "kicker": "The Media Equation",
+      "content_kicker": "The Media Equation",
+      "print_headline": "Furloughs, But Paydays For the Brass",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "organizations",
+        "value": "Gannett Co",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Newspapers",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Executive Compensation",
+        "rank": 3,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-04-10T22:01:39+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "section_name": "Media",
+    "byline": {
+      "original": "By DAVID CARR",
+      "person": [
+        {
+          "firstname": "David",
+          "middlename": null,
+          "lastname": "CARR",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "540ca46e38f0d85bf2514b40",
+    "word_count": 1163,
+    "score": 1.0,
+    "uri": "nyt://article/c88c0bfc-1bae-50f2-8fda-8893eed1ef1c"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/04/11/world/africa/11tripoli.html",
+    "snippet": "For journalists cloistered in Tripoli at the invitation of the government, its management, or rather staging, of public relations provided a singular view.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/04/11/world/11tripoli2/11tripoli2-thumbStandard-v2.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/04/11/world/11tripoli2/11tripoli2-thumbStandard-v2.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Qaddafi\u2019s Handling of Media Shows Regime\u2019s Flaws",
+      "kicker": "Memo From Tripoli",
+      "content_kicker": "Memo From Tripoli",
+      "print_headline": "Qaddafi Fakery, Still Revealing",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Libya",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "News and News Media",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Qaddafi, Muammar el-",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Middle East and North Africa Unrest (2010- )",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Qaddafi, Seif al-Islam el-",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Qaddafi, Saadi el-",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-04-10T22:47:08+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Africa",
+    "byline": {
+      "original": "By DAVID D. KIRKPATRICK",
+      "person": [
+        {
+          "firstname": "David",
+          "middlename": null,
+          "lastname": null,
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "540ca28938f0d85bf2514b20",
+    "word_count": 1516,
+    "score": 1.0,
+    "uri": "nyt://article/6bf721eb-5836-540a-bb7d-7161a1eb0892"
+  }
+]

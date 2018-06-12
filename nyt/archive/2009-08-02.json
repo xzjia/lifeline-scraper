@@ -1,0 +1,186 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2009/08/03/business/media/03carr.html",
+    "snippet": "When Talk magazine was introduced at a decadent party, no one knew what the Internet would do to the business.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/08/03/business/carr_75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/08/03/business/carr_75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "10 Years Ago, an Omen No One Saw",
+      "kicker": "The Media Equation",
+      "content_kicker": "The Media Equation",
+      "print_headline": "10 Years Ago, An Omen No One Saw",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Brown, Tina",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Magazines",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Computers and the Internet",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "News and News Media",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-08-02T23:50:39+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "section_name": "Media",
+    "byline": {
+      "original": "By DAVID CARR",
+      "person": [
+        {
+          "firstname": "David",
+          "middlename": null,
+          "lastname": "CARR",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "543eea5938f0d853e89f67af",
+    "word_count": 1200,
+    "score": 1.0,
+    "uri": "nyt://article/b1174529-533a-5363-8521-bfff3e5083c2"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/08/03/world/americas/03venez.html",
+    "snippet": "Despite denials by President Hugo Ch\u00e1vez, Venezuelan officials have continued to help Colombia\u2019s largest rebel group, according to new evidence.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/08/02/world/03venez_75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/08/02/world/03venez_75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Venezuela Still Aids Colombia Rebels, New Material Shows",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Evidence Shows Venezuelan Aid To Rebel Group",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Venezuela",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Revolutionary Armed Forces of Colombia",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Chavez, Hugo",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Defense and Military Forces",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Computers and the Internet",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Espionage",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-08-02T18:58:40+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Americas",
+    "byline": {
+      "original": "By SIMON ROMERO",
+      "person": [
+        {
+          "firstname": "Simon",
+          "middlename": null,
+          "lastname": "ROMERO",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5454a29d38f0d839202ea577",
+    "word_count": 1074,
+    "score": 1.0,
+    "uri": "nyt://article/92c4e240-3934-5e3c-bc68-38d5cb408fe7"
+  }
+]

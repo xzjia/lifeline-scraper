@@ -1,0 +1,188 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2008/11/10/washington/10military.html",
+    "snippet": "A 2004 classified order allowing the U.S. to attack the Qaeda terrorist network anywhere in the world was used to authorize nearly a dozen undisclosed attacks.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/11/10/world/10military01-75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2008/11/10/world/10military01-75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Secret Order Lets U.S. Raid Al Qaeda",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "SECRET ORDER LETS U.S. RAID AL QAEDA IN MANY COUNTRIES",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "organizations",
+        "value": "United States Special Operations Command",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Al Qaeda",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Central Intelligence Agency",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Armament and Defense",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Bush, George W",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Terrorism",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2008-11-10T02:43:14+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "byline": {
+      "original": "By ERIC SCHMITT and MARK MAZZETTI",
+      "person": [
+        {
+          "firstname": "Eric",
+          "middlename": null,
+          "lastname": "SCHMITT",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Mark",
+          "middlename": null,
+          "lastname": "MAZZETTI",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5479f3b338f0d86bf59300ff",
+    "word_count": 1701,
+    "score": 1.0,
+    "uri": "nyt://article/4fac705d-5c02-5a0d-b7e2-ea0a2c92c9d4"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2008/11/11/giving/11FALLOUT.html",
+    "snippet": "What\u2019s the fallout of the economic crisis for philanthropy? With endowments and donations in decline, some institutions and charities are worried.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/11/11/giving/11fallout_75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2008/11/11/giving/11fallout_75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Bracing for Lean Times Ahead",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Bracing For Lean Times Ahead",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Philanthropy",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Economy",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Endowments",
+        "rank": 3,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2008-11-10T23:13:04+0000",
+    "document_type": "article",
+    "new_desk": "SpecialSections",
+    "byline": {
+      "original": "By STEPHANIE STROM",
+      "person": [
+        {
+          "firstname": "Stephanie",
+          "middlename": null,
+          "lastname": "STROM",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5479f69938f0d86bf5930144",
+    "word_count": 1756,
+    "score": 1.0,
+    "uri": "nyt://article/91fc7a29-eaf2-56d1-b325-eb15cc11f0d4"
+  }
+]

@@ -1,0 +1,117 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2010/02/22/science/earth/22endangered.html",
+    "snippet": "With conservation and preparedness no longer seen as opposing goals, American military bases have become prime habitats for rebounding species.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/02/22/us/22endangered_337-span/22endangered_337-395-articleLarge.jpg",
+        "height": 315,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2010/02/22/us/22endangered_337-span/22endangered_337-395-articleLarge.jpg",
+          "xlargeheight": 315
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/02/22/us/22endangered_337-span/22endangered_337-395-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/02/22/us/22endangered_337-span/22endangered_337-395-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "A Base for War Training, and Species Preservation",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Fire When Ready, Soldiers, But Don\u2019t Hit That Rare Bird",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Endangered and Extinct Species",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Military Bases and Installations",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Defense and Military Forces",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Woodpeckers",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Land Use Policies",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "United States Army",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-02-21T18:23:59+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "section_name": "Environment",
+    "byline": {
+      "original": "By LESLIE KAUFMAN",
+      "person": [
+        {
+          "firstname": "Leslie",
+          "middlename": null,
+          "lastname": "KAUFMAN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5400b96c38f0d841b2f3867c",
+    "word_count": 1263,
+    "score": 1.0,
+    "uri": "nyt://article/0585de43-945f-506a-b773-2b06ba9fdbe2"
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2008/08/21/sports/olympics/21bolt.html",
+    "snippet": "Jamaica\u2019s Usain Bolt became the first man to win both the 100 and 200 meters at the same Olympics since Carl Lewis in 1984.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/08/20/sports/olympics/20track2-600.jpg",
+        "height": 330,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2008/08/20/sports/olympics/20track2-600.jpg",
+          "xlargeheight": 330
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/08/20/sports/olympics/20trackgall1a.jpg",
+        "height": 250,
+        "width": 337,
+        "legacy": {
+          "wide": "images/2008/08/20/sports/olympics/20trackgall1a.jpg",
+          "widewidth": 337,
+          "wideheight": 250
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/08/20/sports/olympics/20track2-75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2008/08/20/sports/olympics/20track2-75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Unstoppable Bolt Breaks Record in 200-Meter, Too",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "UNSTOPPABLE BOLT, A MOVABLE RECORD",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Olympic Games (2008)",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Track and Field",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Bolt, Usain",
+        "rank": 3,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2008-08-20T14:28:49+0000",
+    "document_type": "article",
+    "new_desk": "Sports",
+    "section_name": "Olympics",
+    "byline": {
+      "original": "By LYNN ZINSER",
+      "person": [
+        {
+          "firstname": "Lynn",
+          "middlename": null,
+          "lastname": "ZINSER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5477027138f0d839249028d9",
+    "word_count": 1072,
+    "score": 1.0,
+    "uri": "nyt://article/1a83beac-8b22-579c-a134-fd32a672a666"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2008/08/20/sports/olympics/20archery.html",
+    "snippet": "Kisik Lee has served the dual, if controversial, roles of the head coach of the United States archery team and a spiritual guide to some of its athletes.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/08/20/sports/20archery-75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2008/08/20/sports/20archery-75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "For Coach, God and Archery Are a Package Deal",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "For Coach, God and Archery Are a Package Deal",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Olympic Games (2008)",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Archery",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Religion and Churches",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "United States Olympic Committee",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2008-08-20T01:58:51+0000",
+    "document_type": "article",
+    "new_desk": "Sports",
+    "section_name": "Olympics",
+    "byline": {
+      "original": "By KATIE THOMAS",
+      "person": [
+        {
+          "firstname": "Katie",
+          "middlename": null,
+          "lastname": "THOMAS",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5477006f38f0d839249028ac",
+    "word_count": 1600,
+    "score": 1.0,
+    "uri": "nyt://article/3b9ad993-8040-59c9-9a7d-cdf4f41fb8fd"
+  }
+]

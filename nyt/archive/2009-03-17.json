@@ -1,0 +1,719 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2009/03/17/business/17sorkin.html",
+    "snippet": "The $165 million payout does sting, but the government may want to keep the employees right where they are.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "The Case for Paying Out Bonuses at A.I.G.",
+      "kicker": "DealBook Column",
+      "content_kicker": "DealBook Column",
+      "print_headline": "The Case For Bonuses At A.I.G.",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Obama, Barack",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "American International Group",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Bonuses",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Executives and Management",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Subprime Mortgage Crisis",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-03-17T01:44:03+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By ANDREW ROSS SORKIN",
+      "person": [
+        {
+          "firstname": "Andrew",
+          "middlename": "Ross",
+          "lastname": "SORKIN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5468665838f0d81e5cd0d7a7",
+    "word_count": 962,
+    "score": 1.0,
+    "uri": "nyt://article/39323596-6bf5-5573-95a7-988f2ab67223"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/03/18/dining/18whoop.html",
+    "snippet": "The classic snacks are migrating across the country, often appearing in the same specialty shops and grocery aisles that recently made room for cupcakes.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/03/17/dining/18whoopie_600.jpg",
+        "height": 329,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/03/17/dining/18whoopie_600.jpg",
+          "xlargeheight": 329
+        },
+        "subType": "xlarge",
+        "crop_name": "articleLarge"
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/03/17/dining/18whoopie_75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/03/17/dining/18whoopie_75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": "thumbStandard"
+      },
+      {
+        "rank": 0,
+        "subtype": "popup",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/03/17/dining/18whoopie_600.jpg",
+        "height": 329,
+        "width": 600,
+        "legacy": {},
+        "subType": "popup",
+        "crop_name": "popup"
+      },
+      {
+        "rank": 0,
+        "subtype": "sfSpan",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/03/17/dining/18whoopie_395.jpg",
+        "height": 234,
+        "width": 395,
+        "legacy": {},
+        "subType": "sfSpan",
+        "crop_name": "sfSpan"
+      }
+    ],
+    "headline": {
+      "main": "Whoopie! Cookie, Pie or Cake, It's Having Its Moment",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Whoopie! Cookie, Pie or Cake, It's Having Its Moment",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Bakeries and Baked Products",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Snack Foods",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Cakes",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Cupcakes",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Food",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Williams-Sonoma Incorporated",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Magnolia Bakery",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Trader Joe's",
+        "rank": 9,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Whole Foods Market Inc",
+        "rank": 10,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Zingerman's Community of Businesses",
+        "rank": 11,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-03-17T22:47:19+0000",
+    "document_type": "article",
+    "new_desk": "Dining",
+    "byline": {
+      "original": "By MICHELINE MAYNARD",
+      "person": [
+        {
+          "firstname": "Micheline",
+          "middlename": null,
+          "lastname": "MAYNARD",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "54686b2c38f0d81e5cd0d80e",
+    "word_count": 1155,
+    "score": 1.0,
+    "uri": "nyt://article/55d6744b-a4cb-594f-a2b4-0c326fff94bd"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/03/18/dining/18cooks.html",
+    "snippet": "Some in the restaurant business say they\u2019re seeing the results of a decade of exuberant, possibly unsustainable expansion.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/03/18/dining/18cooks_600.jpg",
+        "height": 189,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/03/18/dining/18cooks_600.jpg",
+          "xlargeheight": 189
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/03/18/dining/18cooks_75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/03/18/dining/18cooks_75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "With Fewer Pots to Stir, Competition Rises Among Cooks",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Too Many Cooks, Too Few Pots",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Restaurants",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Economic Conditions and Trends",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Layoffs and Job Reductions",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Chefs",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Labor",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Kitchens",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-03-17T22:58:31+0000",
+    "document_type": "article",
+    "new_desk": "Dining",
+    "byline": {
+      "original": "By JULIA MOSKIN",
+      "person": [
+        {
+          "firstname": "Julia",
+          "middlename": null,
+          "lastname": "MOSKIN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "54686a9e38f0d81e5cd0d806",
+    "word_count": 1557,
+    "score": 1.0,
+    "uri": "nyt://article/27e84df9-3f03-5116-adf4-3b977bde9988"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/03/18/us/18juries.html",
+    "snippet": "The use of BlackBerrys, iPhones, Google and Twitter by jurors is wreaking havoc on trials around the country.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/03/18/us/18juries_75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/03/18/us/18juries_75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "As Jurors Turn to Web, Mistrials Are Popping Up",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "As Jurors Turn to Google and Twitter, Mistrials Are Popping Up",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Jury System",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Computers and the Internet",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Social Networking (Internet)",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Judges",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Courts",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Blogs and Blogging (Internet)",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Twitter",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Facebook.com",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Google Inc",
+        "rank": 9,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-03-17T17:54:27+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "byline": {
+      "original": "By JOHN SCHWARTZ",
+      "person": [
+        {
+          "firstname": "John",
+          "middlename": null,
+          "lastname": "SCHWARTZ",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "54686a1838f0d81e5cd0d7f9",
+    "word_count": 1354,
+    "score": 1.0,
+    "uri": "nyt://article/a07995ea-c215-589f-827a-eba5068e8e19"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/03/18/arts/television/18minor.html",
+    "snippet": "Recent programming moves raise questions about networks\u2019 progress in better reflecting their audience.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/03/18/arts/minor.span.jpg",
+        "height": 351,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/03/18/arts/minor.span.jpg",
+          "xlargeheight": 351
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/03/18/arts/minority75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/03/18/arts/minority75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "No Smooth Ride on TV Networks\u2019 Road to Diversity",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "No Smooth Ride on TV Networks\u2019 Road to Diversity",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Television",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Minorities",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Cable News Network",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Comedy Central",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-03-17T21:21:26+0000",
+    "document_type": "article",
+    "new_desk": "Culture",
+    "section_name": "Television",
+    "byline": {
+      "original": "By EDWARD WYATT",
+      "person": [
+        {
+          "firstname": "Edward",
+          "middlename": null,
+          "lastname": "WYATT",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "54686c9938f0d81e5cd0d82c",
+    "word_count": 1020,
+    "score": 1.0,
+    "uri": "nyt://article/e8133883-ce7e-5c9c-9210-fb2f7afa5256"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/03/17/business/17bailout.html",
+    "snippet": "President Obama ordered the Treasury Department to \u201cpursue every single legal avenue to block these bonuses\u201d and make the American taxpayers whole.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/03/16/us/16obama-600.jpg",
+        "height": 331,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/03/16/us/16obama-600.jpg",
+          "xlargeheight": 331
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/03/16/us/16obama-75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/03/16/us/16obama-75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Obama in Effort to Undo Bonuses at A.I.G.",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "OBAMA IN EFFORT TO UNDO BONUSES GRANTED BY A.I.G.",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Obama, Barack",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "American International Group",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Executive Compensation",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Subprime Mortgage Crisis",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Emergency Economic Stabilization Act (2008)",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Executives and Management",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Economy",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Cuomo, Andrew M",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Geithner, Timothy F",
+        "rank": 9,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Bonuses",
+        "rank": 10,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-03-17T01:38:57+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By EDMUND L. ANDREWS and JACKIE CALMES",
+      "person": [
+        {
+          "firstname": "Edmund",
+          "middlename": "L.",
+          "lastname": "ANDREWS",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Jackie",
+          "middlename": null,
+          "lastname": "CALMES",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5468665f38f0d81e5cd0d7a9",
+    "word_count": 1115,
+    "score": 1.0,
+    "uri": "nyt://article/d77f7ee6-2d9c-5122-8fa6-7ba242035e41"
+  }
+]

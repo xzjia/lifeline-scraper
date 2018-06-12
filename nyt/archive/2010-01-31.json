@@ -1,0 +1,110 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2010/02/01/world/americas/01airlift.html",
+    "snippet": "The effort was suspended five days ago after the state of Florida complained that its hospitals were overwhelmed.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/02/01/world/01airlift_337-395/thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/02/01/world/01airlift_337-395/thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "U.S. to Resume Airlift of Injured Haitians",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Pledging Care, U.S. Resumes Haitian Airlift",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Haiti",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Earthquakes",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Hospitals",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Defense and Military Forces",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Medicine and Health",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Airlifts",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-01-31T19:21:48+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Americas",
+    "byline": {
+      "original": "By PETER BAKER and JOSEPH BERGER",
+      "person": [
+        {
+          "firstname": "Peter",
+          "middlename": null,
+          "lastname": "BAKER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Joseph",
+          "middlename": null,
+          "lastname": "BERGER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5438408b38f0d83c143b913f",
+    "word_count": 916,
+    "score": 1.0,
+    "uri": "nyt://article/ee08a411-2b38-54fd-8ec6-782b3cfe9bef"
+  }
+]

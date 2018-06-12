@@ -1,0 +1,359 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2011/05/16/us/16nursing.html",
+    "snippet": "Alarmed at the cost of providing health insurance to workers, many nursing homes are seeking an exemption from the new law, which is intended to ensure access to affordable coverage.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "Nursing Homes Seek Exemptions From Health Law",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Nursing Homes Seek Exemptions From Health Law",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Health Insurance and Managed Care",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Patient Protection and Affordable Care Act (2010)",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Nursing Homes",
+        "rank": 3,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-05-16T03:38:51+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "byline": {
+      "original": "By ROBERT PEAR",
+      "person": [
+        {
+          "firstname": "Robert",
+          "middlename": null,
+          "lastname": "PEAR",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "540dcee038f0d85bf2515f40",
+    "word_count": 1085,
+    "score": 1.0,
+    "uri": "nyt://article/64f463e1-d6d5-5c5b-abb4-772fef9be778"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/05/16/business/global/16drachma.html",
+    "snippet": "A year after Greece received a bailout from Europe and the I.M.F., people\u2019s anxiety has grown into deep despair.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "Money Troubles Take Personal Toll in Greece",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Unrelenting Fiscal Troubles Take Personal Toll in Greece",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "European Sovereign Debt Crisis (2010- )",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Labor and Jobs",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Unemployment",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "International Monetary Fund",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Greece",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-05-16T01:15:41+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "section_name": "Global Business",
+    "byline": {
+      "original": "By LANDON THOMAS Jr",
+      "person": [
+        {
+          "firstname": "Landon",
+          "middlename": null,
+          "lastname": "THOMAS",
+          "qualifier": "Jr",
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "52b8f19438f0d86bcb2a7169",
+    "word_count": 1534,
+    "score": 1.0,
+    "uri": "nyt://article/bb6b4c82-9ae1-542c-ad8d-b9a6fa603273"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/05/17/world/asia/17japan.html",
+    "snippet": "The nuclear disaster has shed new light on the legal battles that critics of the system have lost for years.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/05/17/world/JAPAN-1/JAPAN-1-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/05/17/world/JAPAN-1/JAPAN-1-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Japanese Officials Ignored or Concealed Dangers",
+      "kicker": "Hidden Dangers",
+      "content_kicker": "Hidden Dangers",
+      "print_headline": "Japan Ignored And Long Hid Nuclear Risks",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Japan Earthquake and Tsunami (2011)",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Fukushima Daiichi Nuclear Power Plant (Japan)",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Nuclear Energy",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Nuclear and Industrial Safety Agency",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Tokyo Electric Power Co",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Japan",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-05-16T22:32:20+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Asia Pacific",
+    "byline": {
+      "original": "By NORIMITSU ONISHI and MARTIN FACKLER",
+      "person": [
+        {
+          "firstname": "Norimitsu",
+          "middlename": null,
+          "lastname": "ONISHI",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Martin",
+          "middlename": null,
+          "lastname": "FACKLER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "540dd4e238f0d863ce5a41c6",
+    "word_count": 2402,
+    "score": 1.0,
+    "uri": "nyt://article/55b6f95f-c51c-50f9-822d-cc2961c58b2f"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/05/17/arts/design/manet-the-man-who-invented-modernity-paris-exhibition-review.html",
+    "snippet": "Europe\u2019s latest art blockbuster has opened in Paris to some \u2014 but not all \u2014 giddy reviews and predictable mobs.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/05/17/arts/17manetcap/17manetcap-articleLarge.jpg",
+        "height": 315,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2011/05/17/arts/17manetcap/17manetcap-articleLarge.jpg",
+          "xlargeheight": 315
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/05/17/arts/17manetcap/17manetcap-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2011/05/17/arts/17manetcap/17manetcap-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/05/17/arts/17manetcap/17manetcap-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/05/17/arts/17manetcap/17manetcap-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "A Rendezvous With Manet in Paris",
+      "kicker": "Abroad",
+      "content_kicker": "Abroad",
+      "print_headline": "A Rendezvous With Manet in Paris",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Art",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Musee d'Orsay",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Manet, Edouard",
+        "rank": 3,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-05-16T13:33:25+0000",
+    "document_type": "article",
+    "new_desk": "Culture",
+    "section_name": "Art & Design",
+    "byline": {
+      "original": "By MICHAEL KIMMELMAN",
+      "person": [
+        {
+          "firstname": "Michael",
+          "middlename": null,
+          "lastname": "KIMMELMAN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "540dcd5738f0d85bf2515f26",
+    "word_count": 1191,
+    "score": 1.0,
+    "uri": "nyt://article/0416e4e1-97c7-516c-9b3e-762f496b24b2"
+  }
+]

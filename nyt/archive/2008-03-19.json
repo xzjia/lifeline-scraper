@@ -1,0 +1,87 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2008/03/19/books/19grim.html",
+    "snippet": "In her new book Patricia Pearson searches for the roots of her affliction and finds a common thread connecting her traumas and her phobias, the fear of losing control, of being unable to cope.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/03/19/arts/pearson75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2008/03/19/arts/pearson75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Neurotic Who Makes Scary World Her Banquet",
+      "kicker": "Books of The Times",
+      "content_kicker": "Books of The Times",
+      "print_headline": "Neurotic Who Makes Scary World Her Banquet",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Pearson, Patricia",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Books and Literature",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Anxiety",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Phobias",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2008-03-19T04:00:00+0000",
+    "document_type": "article",
+    "new_desk": "Culture",
+    "byline": {
+      "original": "By WILLIAM GRIMES",
+      "person": [
+        {
+          "firstname": "William",
+          "middlename": null,
+          "lastname": "GRIMES",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "Review",
+    "_id": "547f3f7038f0d84a61c0fcae",
+    "word_count": 892,
+    "score": 1.0,
+    "uri": "nyt://article/b2171c04-6d8c-533b-88f2-74303e482fbf"
+  }
+]

@@ -1,0 +1,629 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2009/11/09/technology/09runway.html",
+    "snippet": "Rent the Runway wants to do for high-end fashion what Netflix has done for movies by offering a simple mail-order system.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/11/09/business/09runway_CA0/articleLarge.jpg",
+        "height": 400,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/11/09/business/09runway_CA0/articleLarge.jpg",
+          "xlargeheight": 400
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/11/09/business/09runway_CA0/thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/11/09/business/09runway_CA0/thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "A Netflix Model for Haute Couture",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Haute Couture, Available Through the Netflix Model",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "organizations",
+        "value": "Rent the Runway",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Fashion and Apparel",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Couture (Fashion)",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "E-Commerce",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Hyman, Jennifer",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Fleiss, Jennifer Carter",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-11-09T01:40:08+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By JENNA WORTHAM",
+      "person": [
+        {
+          "firstname": "Jenna",
+          "middlename": null,
+          "lastname": "WORTHAM",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "54583b6c38f0d8086c45e0a0",
+    "word_count": 1022,
+    "score": 1.0,
+    "uri": "nyt://article/b734a93d-8ebd-58d3-bbcd-0a5465480558"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/11/10/science/10angier.html",
+    "snippet": "Recent discoveries from the nascent study of pig cognition offered evidence that pigs were quick learners, slow to forget and similar to humans in many ways.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/11/09/science/10angier/articleLarge.jpg",
+        "height": 347,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/11/09/science/10angier/articleLarge.jpg",
+          "xlargeheight": 347
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/11/09/science/10angier/thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/11/09/science/10angier/thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Pigs Prove to Be Smart, if Not Vain",
+      "kicker": "Basics",
+      "content_kicker": "Basics",
+      "print_headline": "Pigs Prove to Be Smart, if Not Vain",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Pigs",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Intelligence (IQ)",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Research",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Science and Technology",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-11-09T22:20:17+0000",
+    "document_type": "article",
+    "new_desk": "Science",
+    "byline": {
+      "original": "By NATALIE ANGIER",
+      "person": [
+        {
+          "firstname": "Natalie",
+          "middlename": null,
+          "lastname": "ANGIER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "54583dc238f0d8086c45e0ce",
+    "word_count": 1135,
+    "score": 1.0,
+    "uri": "nyt://article/e27b4bac-73aa-5d35-b8a8-73444c0c1d53"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/11/10/health/10mind.html",
+    "snippet": "A new theory suggests that dreams are a warm-up for the day ahead.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/11/09/science/10mind/thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/11/09/science/10mind/thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "A Dream Interpretation: Tuneups for the Brain",
+      "kicker": "Mind",
+      "content_kicker": "Mind",
+      "print_headline": "A Dream Interpretation: Tuneups for the Brain",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Dreams",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Psychology and Psychologists",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Sleep",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Brain",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Research",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Medicine and Health",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-11-09T21:24:22+0000",
+    "document_type": "article",
+    "new_desk": "Science",
+    "byline": {
+      "original": "By BENEDICT CAREY",
+      "person": [
+        {
+          "firstname": "Benedict",
+          "middlename": null,
+          "lastname": "CAREY",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5458410a38f0d8086c45e114",
+    "word_count": 1176,
+    "score": 1.0,
+    "uri": "nyt://article/c2646d54-0835-589f-8c6a-09f486b2af89"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/11/10/us/10inquire.html",
+    "snippet": "Authorities intercepted communications between Maj. Nidal Malik Hasan and a radical cleric but took no action, officials said.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "U.S. Knew of Suspect\u2019s Tie to Radical Cleric",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "U.S. WAS AWARE OF SUSPECT\u2019S TIE TO YEMENI CLERIC",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Hasan, Nidal Malik",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Fort Hood (Tex)",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "United States Army",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Defense and Military Forces",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Islam",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Awlaki, Anwar al-",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-11-09T20:51:47+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "byline": {
+      "original": "By DAVID JOHNSTON and SCOTT SHANE",
+      "person": [
+        {
+          "firstname": "David",
+          "middlename": null,
+          "lastname": "JOHNSTON",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Scott",
+          "middlename": null,
+          "lastname": "SHANE",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "533cc0fb38f0d846310de378",
+    "word_count": 1154,
+    "score": 1.0,
+    "uri": "nyt://article/719afc70-af73-5878-95b2-a658bee7a8ef"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/11/10/science/space/10solar.html",
+    "snippet": "Navigating the cosmos on winds of starlight is an ancient dream, and in about a year, a spacecraft called LightSail-1 may make it come true.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/11/09/science/10solar-1/thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/11/09/science/10solar-1/thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Setting Sail Into Space, Propelled by Sunshine",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Setting Sail Into Space, Propelled By Sunshine",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Space",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Sun",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Planetary Society",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Druyan, Ann",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Sagan, Carl",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Science and Technology",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-11-09T20:38:42+0000",
+    "document_type": "article",
+    "new_desk": "Science",
+    "section_name": "Space & Cosmos",
+    "byline": {
+      "original": "By DENNIS OVERBYE",
+      "person": [
+        {
+          "firstname": "Dennis",
+          "middlename": null,
+          "lastname": "OVERBYE",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5458419b38f0d8086c45e11e",
+    "word_count": 1630,
+    "score": 1.0,
+    "uri": "nyt://article/94facd99-8bc8-5d7b-b37c-0df58da4bce3"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/11/09/business/media/09avatar.html",
+    "snippet": "Just in case box-office receipts for \u201cAvatar\u201d fall short, Fox has worked hard to hedge its large bet on the movie.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/11/08/business/09avatar_337-395/articleLarge.jpg",
+        "height": 342,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/11/08/business/09avatar_337-395/articleLarge.jpg",
+          "xlargeheight": 342
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/11/08/business/09avatar_337-395/thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/11/08/business/09avatar_337-395/thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "A Movie\u2019s Budget Pops From the Screen",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Eyepopping, in Many Ways",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Movies",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Prices (Fares, Fees and Rates)",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Three-Dimensional Devices",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Budgets and Budgeting",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Advertising and Marketing",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Twentieth Century Fox",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Cameron, James",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Hollywood (Calif)",
+        "rank": 8,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-11-09T00:33:51+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "section_name": "Media",
+    "byline": {
+      "original": "By MICHAEL CIEPLY",
+      "person": [
+        {
+          "firstname": "Michael",
+          "middlename": null,
+          "lastname": "CIEPLY",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "54583ae838f0d8086c45e095",
+    "word_count": 1327,
+    "score": 1.0,
+    "uri": "nyt://article/d6fa5dcf-6c1b-5e55-addb-c5d400fa201e"
+  }
+]

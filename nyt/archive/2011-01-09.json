@@ -1,0 +1,128 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2011/01/10/us/10giffords.html",
+    "snippet": "Officials said that evidence seized from Jared L. Loughner\u2019s home indicated that he had intended to kill Gabrielle Giffords, who was still in critical condition.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/01/10/us/10GIFFORDS1_span/JP-GIFFORD-1-articleLarge.jpg",
+        "height": 350,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2011/01/10/us/10GIFFORDS1_span/JP-GIFFORD-1-articleLarge.jpg",
+          "xlargeheight": 350
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/01/10/us/10GIFFORDS1_span/JP-GIFFORD-1-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/01/10/us/10GIFFORDS1_span/JP-GIFFORD-1-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Evidence Points to Methodical Planning",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Federal Charges Cite Assassination Plan",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Tucson Shooting (2011)",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Giffords, Gabrielle",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Loughner, Jared Lee",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Tucson (Ariz)",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Murders and Attempted Murders",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Politics and Government",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Roll, John M",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Assassinations and Attempted Assassinations",
+        "rank": 8,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-01-09T14:24:15+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "byline": {
+      "original": "By MARC LACEY",
+      "person": [
+        {
+          "firstname": "Marc",
+          "middlename": null,
+          "lastname": "LACEY",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "54064dd438f0d81983bde9d3",
+    "word_count": 1530,
+    "score": 1.0,
+    "uri": "nyt://article/09063b4b-00ba-5ce4-a4bb-de7c75c87476"
+  }
+]

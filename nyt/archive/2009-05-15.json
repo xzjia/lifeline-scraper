@@ -1,0 +1,646 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2009/05/15/us/15immig.html",
+    "snippet": "The trend suggests that illegal immigrants from Mexico are drawn by jobs and stay away in a bad labor market.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/05/15/us/15immig_600.JPG",
+        "height": 343,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/05/15/us/15immig_600.JPG",
+          "xlargeheight": 343
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/05/15/us/15immig_75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/05/15/us/15immig_75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Mexican Data Show Migration to U.S. in Decline",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Mexico Data Say Migration to U.S. Has Plummeted",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Immigration and Emigration",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Mexico",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Economy",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Illegal Immigrants",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Migrant and Foreign Workers",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Census",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Economic Conditions and Trends",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "United States",
+        "rank": 8,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-05-15T01:41:25+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "byline": {
+      "original": "By JULIA PRESTON",
+      "person": [
+        {
+          "firstname": "Julia",
+          "middlename": null,
+          "lastname": "PRESTON",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "546aa0cc38f0d84ca2c5c883",
+    "word_count": 1101,
+    "score": 1.0,
+    "uri": "nyt://article/be66212b-eeb5-51e4-955c-c25da7bb136d"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/05/16/us/politics/16gitmo.html",
+    "snippet": "The White House confirmed that it will prosecute some detainees in a military commission system, drawing praise from some adversaries and rebukes from some allies.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "Obama to Keep Tribunals; Stance Angers Some Backers",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Vowing More Rights for Accused, Obama Retains Tribunal System",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Guantanamo Bay Naval Base (Cuba)",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Obama, Barack",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Detainees",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Military Commissions Act",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-05-15T17:42:31+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "section_name": "Politics",
+    "byline": {
+      "original": "By WILLIAM GLABERSON",
+      "person": [
+        {
+          "firstname": "William",
+          "middlename": null,
+          "lastname": "GLABERSON",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "546aa48938f0d84ca2c5c8d8",
+    "word_count": 1096,
+    "score": 1.0,
+    "uri": "nyt://article/dc9370ce-3af9-5e3c-9b0f-80374d976ba9"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/05/16/business/16auto.html",
+    "snippet": "The affected dealerships represent 18 percent of G.M.\u2019s network but just 7 percent of its sales.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/05/16/business/16auto.600.jpg",
+        "height": 345,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/05/16/business/16auto.600.jpg",
+          "xlargeheight": 345
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/05/16/business/16auto.75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/05/16/business/16auto.75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "G.M. Tells 1,100 Dealers It Plans to Drop Them",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "G.M. Informs 1,100 Dealers That It Intends To Drop Them",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "organizations",
+        "value": "General Motors Corp",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Franchises",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Automobiles",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Shutdowns (Institutional)",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Chrysler LLC",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Subprime Mortgage Crisis",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-05-15T15:19:34+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By NICK BUNKLEY",
+      "person": [
+        {
+          "firstname": "Nick",
+          "middlename": null,
+          "lastname": "BUNKLEY",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5438178438f0d83c143b8741",
+    "word_count": 1017,
+    "score": 1.0,
+    "uri": "nyt://article/a98b5526-5b94-5506-8fb7-62e46cd4dae7"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/05/17/realestate/17cov.html",
+    "snippet": "Contrary to urban legend, that first apartment doesn\u2019t have to be a pit. There\u2019s a good possibility of a bedroom rather than a bunk bed. These days, the place might even be a bargain.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/05/17/realestate/17cover600.1.jpg",
+        "height": 332,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/05/17/realestate/17cover600.1.jpg",
+          "xlargeheight": 332
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/05/17/realestate/17cover75.1.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/05/17/realestate/17cover75.1.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Not a Dive After All",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Not a Dive After All",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "New York City",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Renting and Leasing",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Housing and Real Estate",
+        "rank": 3,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-05-15T16:07:09+0000",
+    "document_type": "article",
+    "new_desk": "RealEstate",
+    "byline": {
+      "original": "By VIVIAN S. TOY",
+      "person": [
+        {
+          "firstname": "Vivian",
+          "middlename": "S.",
+          "lastname": "TOY",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "546a8f8d38f0d84ca2c5c6f9",
+    "word_count": 1860,
+    "score": 1.0,
+    "uri": "nyt://article/bc5bc308-fb95-5e01-afb2-de9d87a4a344"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/05/16/nyregion/16foreclose.html",
+    "snippet": "Defaults occur three times as often in predominantly minority areas of the region as in mostly white ones, a New York Times analysis finds, with the black middle class hit hardest.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/05/16/nyregion/16foreclose.xlarge1.jpg",
+        "height": 360,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/05/16/nyregion/16foreclose.xlarge1.jpg",
+          "xlargeheight": 360
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/05/16/nyregion/16foreclose.751.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/05/16/nyregion/16foreclose.751.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Minorities Affected Most as New York Foreclosures Rise",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Minorities Hit Hardest as New York Foreclosures Rise",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Subprime Mortgage Crisis",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Minorities",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Foreclosures",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "New York City",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Blacks",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Hispanic-Americans",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "New Jersey",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Connecticut",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Long Island (NY)",
+        "rank": 9,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "New York State",
+        "rank": 10,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Economic Conditions and Trends",
+        "rank": 11,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-05-15T23:58:12+0000",
+    "document_type": "article",
+    "new_desk": "Metro",
+    "byline": {
+      "original": "By MICHAEL POWELL and JANET ROBERTS",
+      "person": [
+        {
+          "firstname": "Michael",
+          "middlename": null,
+          "lastname": "POWELL",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Janet",
+          "middlename": null,
+          "lastname": "ROBERTS",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "546a8ceb38f0d84ca2c5c6b5",
+    "word_count": 1974,
+    "score": 1.0,
+    "uri": "nyt://article/12cd7b02-4a85-5548-ad5f-cc6bccc6fd55"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/05/16/your-money/mutual-funds-and-etfs/16money.html",
+    "snippet": "Many index fund advisory services that guide novices on appropriate allocations have low costs or are free.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/05/16/your-money/money75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/05/16/your-money/money75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Stirring Up the Right Investment Mix",
+      "kicker": "Your Money",
+      "content_kicker": "Your Money",
+      "print_headline": "Stirring Up the Right Investment Mix",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Asset Allocation (Personal Finances)",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Stocks and Bonds",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Personal Finances",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Financial Brokers",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-05-15T23:13:54+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "section_name": "Mutual Funds and ETFs",
+    "byline": {
+      "original": "By RON LIEBER",
+      "person": [
+        {
+          "firstname": "Ron",
+          "middlename": null,
+          "lastname": "LIEBER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "546aa87138f0d84ca2c5c924",
+    "word_count": 1189,
+    "score": 1.0,
+    "uri": "nyt://article/6f5dbcab-6c4f-5793-b11e-08bb69e57b0c"
+  }
+]

@@ -1,0 +1,168 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2014/05/19/world/americas/memo-to-olympic-sailors-in-rio-dont-touch-the-water.html",
+    "snippet": "Guanabara Bay, the venue for the 2016 sailing and windsurfing events, is so foul that a biologist called it \u201ca latrine\u201d and a sailor said he had encountered bodies.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2014/05/19/world/americas/BRAZIL/BRAZIL-articleLarge-v4.jpg",
+        "height": 338,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2014/05/19/world/americas/BRAZIL/BRAZIL-articleLarge-v4.jpg",
+          "xlargeheight": 338
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2014/05/19/world/americas/BRAZIL/BRAZIL-thumbWide-v4.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2014/05/19/world/americas/BRAZIL/BRAZIL-thumbWide-v4.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2014/05/19/world/americas/BRAZIL/BRAZIL-thumbStandard-v3.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2014/05/19/world/americas/BRAZIL/BRAZIL-thumbStandard-v3.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Note to Olympic Sailors: Don\u2019t Fall in Rio\u2019s Water",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Note to Olympic Sailors: Don\u2019t Fall in Rio\u2019s Water",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Olympic Games (2016)",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Rio de Janeiro (Brazil)",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Sailboats and Sailing",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Sewers and Sewage",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "International Olympic Committee",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Coates, John D",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Bitti, Francesco Ricci",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Water Pollution",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Guanabara Bay (Rio de Janeiro, Brazil)",
+        "rank": 9,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Brazil",
+        "rank": 10,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2014-05-18T22:38:03+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Americas",
+    "byline": {
+      "original": "By SIMON ROMERO and CHRISTOPHER CLAREY",
+      "person": [
+        {
+          "firstname": "Simon",
+          "middlename": null,
+          "lastname": "ROMERO",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Christopher",
+          "middlename": null,
+          "lastname": "CLAREY",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5379378938f0d805525a33b2",
+    "word_count": 1255,
+    "score": 1.0,
+    "uri": "nyt://article/ab25ff7e-e946-5976-938e-85a9425e2bdf"
+  }
+]

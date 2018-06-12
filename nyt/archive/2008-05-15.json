@@ -1,0 +1,177 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2008/05/15/garden/15contractors.html",
+    "snippet": "Much has been written about contractors from hell, but comparatively little attention is paid to the homeowner from hell, who can make contractors crazy.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/05/14/garden/cont_75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2008/05/14/garden/cont_75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Building Rage",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Building Rage",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Housing",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Building (Construction)",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Restoration and Rehabilitation",
+        "rank": 3,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2008-05-15T04:00:00+0000",
+    "document_type": "article",
+    "new_desk": "Home",
+    "byline": {
+      "original": "By JOYCE WADLER",
+      "person": [
+        {
+          "firstname": "Joyce",
+          "middlename": null,
+          "lastname": "WADLER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "54816dfd38f0d874625c8722",
+    "word_count": 2560,
+    "score": 1.0,
+    "uri": "nyt://article/9e536c48-9a57-57a4-8660-86bd21063983"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2008/05/15/fashion/15fitness.html",
+    "snippet": "Can Wii Fit, born of a best-selling gaming console, revolutionize exercise? Five testers weigh in.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/05/15/fashion/15fitness.span.jpg",
+        "height": 391,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2008/05/15/fashion/15fitness.span.jpg",
+          "xlargeheight": 391
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/05/15/fashion/15fitness.75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2008/05/15/fashion/15fitness.75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "O.K., Avatar, Work With Me",
+      "kicker": "Fitness for Every Body",
+      "content_kicker": "Fitness for Every Body",
+      "print_headline": "O.K., Avatar, Work With Me",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Computer and Video Games",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Nintendo Co Ltd",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Exercise",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2008-05-15T04:00:00+0000",
+    "document_type": "article",
+    "new_desk": "Styles",
+    "byline": {
+      "original": "By SETH SCHIESEL",
+      "person": [
+        {
+          "firstname": "Seth",
+          "middlename": null,
+          "lastname": "SCHIESEL",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "54816d0738f0d874625c8702",
+    "word_count": 1724,
+    "score": 1.0,
+    "uri": "nyt://article/6a33f3e8-bebf-571b-b56e-0c486b6cb86b"
+  }
+]

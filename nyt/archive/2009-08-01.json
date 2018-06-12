@@ -1,0 +1,429 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2009/08/02/us/02unemploy.html",
+    "snippet": "Tens of thousands of workers have used up their benefits, and the numbers are expected to soar in the months to come.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/08/02/us/02unemploy.graphic.inline.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2009/08/02/us/02unemploy.graphic.inline.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Prolonged Aid to Unemployed Is Running Out",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "PROLONGED AID TO UNEMPLOYED IS RUNNING OUT",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Unemployment Insurance",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Subprime Mortgage Crisis",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "House of Representatives",
+        "rank": 3,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-08-01T18:04:04+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "byline": {
+      "original": "By ERIK ECKHOLM",
+      "person": [
+        {
+          "firstname": "Erik",
+          "middlename": null,
+          "lastname": "ECKHOLM",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "54549eba38f0d839202ea52f",
+    "word_count": 1109,
+    "score": 1.0,
+    "uri": "nyt://article/9bfa70c3-dfa7-550f-8679-6041f60659ee"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/08/01/business/01secret.html",
+    "snippet": "As the recession drags on, luxury retailers\u2019 secret sales, once kept for the stores\u2019 best customers, have spread.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/08/01/business/secret_600.jpg",
+        "height": 432,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/08/01/business/secret_600.jpg",
+          "xlargeheight": 432
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/08/01/business/secret_75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/08/01/business/secret_75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "High-End Retailers Offering More Discounts",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Costly, Yes, But for You...",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Luxury Goods",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Sales",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Shopping and Retail",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Bloomingdale's",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Neiman Marcus Group",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Tiffany & Company",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-08-01T00:37:30+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By STEPHANIE ROSENBLOOM",
+      "person": [
+        {
+          "firstname": "Stephanie",
+          "middlename": null,
+          "lastname": "ROSENBLOOM",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "545499a638f0d839202ea4c1",
+    "word_count": 939,
+    "score": 1.0,
+    "uri": "nyt://article/0cd25f62-9ce1-5da1-b2d0-7de726fd33bf"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/08/02/us/politics/02cyber.html",
+    "snippet": "Fears of collateral damage are shaping an effort to develop rules and tactics for carrying out attacks on computer networks.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/08/02/world/02cyber.751.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/08/02/world/02cyber.751.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Halted \u201903 Iraq Plan Illustrates U.S. Fear of Cyberwar Risk",
+      "kicker": "Cyberwar",
+      "content_kicker": "Cyberwar",
+      "print_headline": "U.S. WEIGHS RISKS OF CIVILIAN HARM IN CYBERWARFARE",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Computers and the Internet",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Defense and Military Forces",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Iraq War (2003- )",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Defense Department",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Hussein, Saddam",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Bush, George W",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Obama, Barack",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Computer Security",
+        "rank": 8,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-08-01T16:24:19+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Politics",
+    "byline": {
+      "original": "By JOHN MARKOFF and THOM SHANKER",
+      "person": [
+        {
+          "firstname": "John",
+          "middlename": null,
+          "lastname": "MARKOFF",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Thom",
+          "middlename": null,
+          "lastname": "SHANKER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "Series",
+    "_id": "54549ed438f0d839202ea531",
+    "word_count": 1100,
+    "score": 1.0,
+    "uri": "nyt://article/ff739378-96d9-5d2e-a280-8776bf0b3744"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/08/02/us/02suicide.html",
+    "snippet": "The rising toll of suicides in the military has hit a National Guard unit particularly hard: four soldiers, out of roughly 175 members, have committed suicide.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/08/02/us/01suicide_600.jpg",
+        "height": 350,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/08/02/us/01suicide_600.jpg",
+          "xlargeheight": 350
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/08/02/us/01suicide_75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/08/02/us/01suicide_75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "After Combat, Victims of an Inner War",
+      "kicker": "Suicide's Rising Toll",
+      "content_kicker": "Suicide's Rising Toll",
+      "print_headline": "After Combat, Victims of an Inner War",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "United States Defense and Military Forces",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Suicides and Suicide Attempts",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Mental Health and Disorders",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Veterans",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Post-Traumatic Stress Disorder",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Iraq War (2003- )",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-08-01T20:32:15+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "byline": {
+      "original": "By ERICA GOODE",
+      "person": [
+        {
+          "firstname": "Erica",
+          "middlename": null,
+          "lastname": "GOODE",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "54549f0a38f0d839202ea535",
+    "word_count": 4348,
+    "score": 1.0,
+    "uri": "nyt://article/61a136de-63a1-5932-a688-0ccc568e6560"
+  }
+]

@@ -1,0 +1,134 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2008/06/01/weekinreview/01abram.html",
+    "snippet": "Yes, the cry is in the air: Change Washington. But the behind-the-scenes players will remain at their posts. And maybe that\u2019s not all bad.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/06/01/weekinreview/01abramson.xlarge2.jpg",
+        "height": 360,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2008/06/01/weekinreview/01abramson.xlarge2.jpg",
+          "xlargeheight": 360
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/06/01/weekinreview/01abramson.751.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2008/06/01/weekinreview/01abramson.751.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "A Nod to the Insiders",
+      "kicker": "Capitalizing",
+      "content_kicker": "Capitalizing",
+      "print_headline": "A Nod to the Insiders",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Obama, Barack",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "McCain, John",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Washington (DC)",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "O'Melveny & Myers",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Johnson, James A",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Presidential Election of 2008",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Politics and Government",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Vice Presidents and Vice Presidency (US)",
+        "rank": 9,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Lobbying and Lobbyists",
+        "rank": 10,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2008-06-01T04:00:00+0000",
+    "document_type": "article",
+    "new_desk": "WeekInReview",
+    "byline": {
+      "original": "By JILL ABRAMSON",
+      "person": [
+        {
+          "firstname": "Jill",
+          "middlename": null,
+          "lastname": "ABRAMSON",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5476410e38f0d8392490178d",
+    "word_count": 1786,
+    "score": 1.0,
+    "uri": "nyt://article/aeaa159c-a912-5bed-9ccd-ee3a8fb64334"
+  }
+]

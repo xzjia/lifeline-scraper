@@ -1,0 +1,761 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2009/06/01/business/01auto.html",
+    "snippet": "The bankruptcy is part of a plan that President Obama will outline on Monday morning to drastically shrink the automaker while keeping it competitive.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/06/01/business/01gm.6006.jpg",
+        "height": 360,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/06/01/business/01gm.6006.jpg",
+          "xlargeheight": 360
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/06/01/business/01gm.756.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/06/01/business/01gm.756.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "G.M. to Seek Bankruptcy and a New Start",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "G.M. Heads to Bankruptcy Protection as U.S. Steps In",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "organizations",
+        "value": "General Motors Corp",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Bankruptcies",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Automobiles",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Subprime Mortgage Crisis",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-06-01T01:59:44+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By DAVID E. SANGER, JEFF ZELENY and BILL VLASIC",
+      "person": [
+        {
+          "firstname": "David",
+          "middlename": "E.",
+          "lastname": "SANGER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Jeff",
+          "middlename": null,
+          "lastname": "ZELENY",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        },
+        {
+          "firstname": "Bill",
+          "middlename": null,
+          "lastname": "VLASIC",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 3
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5452600438f0d87c5c36797b",
+    "word_count": 1605,
+    "score": 1.0,
+    "uri": "nyt://article/8d84d852-005b-509d-93d2-66b7cf3cf113"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/06/02/world/europe/02plane.html",
+    "snippet": "Vessels from Brazil, France and Spain were searching the Atlantic for the plane that disappeared while traveling from Rio de Janeiro to Paris with 228 people aboard.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/06/01/world/01cnd_plane_11_600.JPG",
+        "height": 331,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/06/01/world/01cnd_plane_11_600.JPG",
+          "xlargeheight": 331
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/06/01/world/01cnd_plane_10_75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/06/01/world/01cnd_plane_10_75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Search Is On for Wreckage of Missing Air France Jet",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Plane Vanishes Carrying 228; Cause a Puzzle",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Airlines and Airplanes",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Accidents and Safety",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Air France-KLM",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Rio de Janeiro (Brazil)",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Paris (France)",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-06-01T10:36:42+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Europe",
+    "byline": {
+      "original": "By DONALD G. McNEIL Jr. and CHRISTINE NEGRONI",
+      "person": [
+        {
+          "firstname": "Donald",
+          "middlename": "G.",
+          "lastname": "McNEIL",
+          "qualifier": "Jr.",
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Christine",
+          "middlename": null,
+          "lastname": "NEGRONI",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5452643c38f0d81b603ec738",
+    "word_count": 1033,
+    "score": 1.0,
+    "uri": "nyt://article/2d396fd7-758b-502a-90c1-e50e216fbe04"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/06/02/business/02auto.html",
+    "snippet": "President Obama described the investment of more billions of taxpayer dollars in G.M. as necessary to avert a calamity that could hurt millions of people.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/06/02/us/obama.600.1.jpg",
+        "height": 274,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/06/02/us/obama.600.1.jpg",
+          "xlargeheight": 274
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/06/02/us/obama.757.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/06/02/us/obama.757.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Obama Is Upbeat for G.M.\u2019s Future",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "OBAMA IS UPBEAT FOR G.M. FUTURE ON A DAY OF PAIN",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "organizations",
+        "value": "General Motors Corp",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Bankruptcies",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Automobiles",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Subprime Mortgage Crisis",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Henderson, Frederick A",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Obama, Barack",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-06-01T12:11:16+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By BILL VLASIC and NICK BUNKLEY",
+      "person": [
+        {
+          "firstname": "Bill",
+          "middlename": null,
+          "lastname": "VLASIC",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Nick",
+          "middlename": null,
+          "lastname": "BUNKLEY",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5452648938f0d81b603ec744",
+    "word_count": 1109,
+    "score": 1.0,
+    "uri": "nyt://article/80aaf7f4-d0aa-587a-9d00-a82e22fb12dd"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/06/02/us/02tiller.html",
+    "snippet": "The 51-year-old man had professed an anti-government, anti-abortion philosophy, some who knew him said.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/06/02/us/tiller75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/06/02/us/tiller75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Seeking Clues on Suspect in Shooting of Doctor",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Seeking Clues on Suspect in Shooting of Doctor",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Tiller, George R",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Abortion",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Roeder, Scott",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Murders and Attempted Murders",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Kansas",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-06-01T14:43:26+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "byline": {
+      "original": "By SUSAN SAULNY  and MONICA DAVEY",
+      "person": [
+        {
+          "firstname": "Susan",
+          "middlename": null,
+          "lastname": "SAULNY",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Monica",
+          "middlename": null,
+          "lastname": "DAVEY",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "545264e238f0d81b603ec74f",
+    "word_count": 1346,
+    "score": 1.0,
+    "uri": "nyt://article/1adf693d-2f6e-5263-8158-395badaded4c"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/06/02/nyregion/02math.html",
+    "snippet": "Gains on the state maths tests were strongest in middle school, but officials cautioned results could be overstated.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/06/02/nyregion/math_span.jpg",
+        "height": 360,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/06/02/nyregion/math_span.jpg",
+          "xlargeheight": 360
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/06/02/nyregion/math75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/06/02/nyregion/math75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "New York City Shows Gains in Math",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "City Students Gain in Math; Racial Gap Shrinks",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "New York City",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Mathematics",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Tests and Testing",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Education and Schools",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-06-01T16:47:41+0000",
+    "document_type": "article",
+    "new_desk": "Metro",
+    "byline": {
+      "original": "By JAVIER C. HERNANDEZ",
+      "person": [
+        {
+          "firstname": "Javier",
+          "middlename": "C.",
+          "lastname": "HERNANDEZ",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "545267f838f0d81b603ec794",
+    "word_count": 1087,
+    "score": 1.0,
+    "uri": "nyt://article/54a4705f-4e57-5395-a8a8-579d566793fb"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/06/02/health/02abort.html",
+    "snippet": "A hospital in Tanzania tries to repair the stream of damage from \u201cincomplete abortions.\u201d",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/06/02/science/02abortion-600.jpg",
+        "height": 331,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/06/02/science/02abortion-600.jpg",
+          "xlargeheight": 331
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/06/02/science/02abortion-75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/06/02/science/02abortion-75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "The Deadly Toll of Abortion by Amateurs",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "The Deadly Toll of Abortion by Amateurs",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Pregnancy and Obstetrics",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Tanzania",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Abortion",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Medicine and Health",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Africa",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-06-01T21:35:33+0000",
+    "document_type": "article",
+    "new_desk": "Science",
+    "byline": {
+      "original": "By DENISE GRADY",
+      "person": [
+        {
+          "firstname": "Denise",
+          "middlename": null,
+          "lastname": "GRADY",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "Series",
+    "_id": "5452691e38f0d81b603ec7b0",
+    "word_count": 1245,
+    "score": 1.0,
+    "uri": "nyt://article/9f69ecf4-38c3-5b61-a305-2d9522c45f9c"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/06/01/business/01lobby.html",
+    "snippet": "Underlying a battle over derivatives trading is a broader debate over what the right amount of regulation is.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "In Crisis, Banks Dig In for Fight Against Rules",
+      "kicker": "Back to Business",
+      "content_kicker": "Back to Business",
+      "print_headline": "Even in Crisis, Banks Dig In For Battle Against Regulation",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Regulation and Deregulation of Industry",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Derivatives (Financial Transactions)",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Banks and Banking",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Law and Legislation",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Subprime Mortgage Crisis",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-06-01T01:22:05+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By GRETCHEN MORGENSON and DON VAN NATTA Jr",
+      "person": [
+        {
+          "firstname": "Gretchen",
+          "middlename": null,
+          "lastname": "MORGENSON",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Don",
+          "middlename": "Van",
+          "lastname": "NATTA",
+          "qualifier": "Jr",
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "Series",
+    "_id": "5452628e38f0d81b603ec70c",
+    "word_count": 2502,
+    "score": 1.0,
+    "uri": "nyt://article/4d2f32f7-c833-5dd7-b6eb-7d246dedf4c7"
+  }
+]

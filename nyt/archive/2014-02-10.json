@@ -1,0 +1,785 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2014/02/12/dining/if-its-chili-its-personal.html",
+    "snippet": "What goes into the pot matters to everyone involved, and we mean everyone.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2014/02/12/dining/12CHILI_SPAN/12CHILI-articleLarge.jpg",
+        "height": 399,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2014/02/12/dining/12CHILI_SPAN/12CHILI-articleLarge.jpg",
+          "xlargeheight": 399
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2014/02/12/dining/12CHILI_SPAN/12CHILI-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2014/02/12/dining/12CHILI_SPAN/12CHILI-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2014/02/12/dining/12CHILI_SPAN/12CHILI-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2014/02/12/dining/12CHILI_SPAN/12CHILI-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "If It\u2019s Chili, It\u2019s Personal",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "If It\u2019s Chili, It\u2019s Personal",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Cooking and Cookbooks",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Chili Peppers",
+        "rank": 2,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2014-02-10T21:05:06+0000",
+    "document_type": "article",
+    "new_desk": "Dining",
+    "byline": {
+      "original": "By JENNIFER STEINHAUER",
+      "person": [
+        {
+          "firstname": "Jennifer",
+          "middlename": null,
+          "lastname": "STEINHAUER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "52f93efd38f0d810dc0914f1",
+    "word_count": 1473,
+    "score": 1.0,
+    "uri": "nyt://article/772d78d4-e38a-5c4b-ae7a-21ef14016419"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2014/02/10/sports/olympics/sochi-got-the-gold-bypassed-village-got-dust.html",
+    "snippet": "Every Olympics has its local casualties, and some Russian towns have fared better than others. Akhshtyr, a barren mountain village near Sochi, has fared very badly indeed.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2014/02/10/sports/0210_SPT_village_ss-slide-1735816/0210_SPT_village_ss-slide-1735816-articleLarge.jpg",
+        "height": 399,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2014/02/10/sports/0210_SPT_village_ss-slide-1735816/0210_SPT_village_ss-slide-1735816-articleLarge.jpg",
+          "xlargeheight": 399
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2014/02/10/sports/0210_SPT_village_ss-slide-1735816/0210_SPT_village_ss-slide-1735816-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2014/02/10/sports/0210_SPT_village_ss-slide-1735816/0210_SPT_village_ss-slide-1735816-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2014/02/10/sports/0210_SPT_village_ss-slide-1735816/0210_SPT_village_ss-slide-1735816-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2014/02/10/sports/0210_SPT_village_ss-slide-1735816/0210_SPT_village_ss-slide-1735816-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Sochi Got the Gold. Bypassed Village Got Dust.",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Sochi Got the Gold. Bypassed Village Got Dust.",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Olympic Games (2014)",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Putin, Vladimir V",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Russia",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Sochi (Russia)",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Akhshtyr (Russia)",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2014-02-10T03:04:48+0000",
+    "document_type": "article",
+    "new_desk": "Sports",
+    "section_name": "Olympics",
+    "byline": {
+      "original": "By SARAH LYALL",
+      "person": [
+        {
+          "firstname": "Sarah",
+          "middlename": null,
+          "lastname": "LYALL",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "52f841d638f0d81bf5cabc22",
+    "word_count": 1178,
+    "score": 1.0,
+    "uri": "nyt://article/b8bd2eae-361c-5a28-8209-23d5f69f3d21"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2014/02/10/sports/michael-sam-college-football-star-says-he-is-gay-ahead-of-nfl-draft.html",
+    "snippet": "The all-American defensive end at the University of Missouri said he decided to come out publicly now because he sensed that rumors were circulating.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2014/02/10/sports/10football2/10football2-articleLarge.jpg",
+        "height": 392,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2014/02/10/sports/10football2/10football2-articleLarge.jpg",
+          "xlargeheight": 392
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2014/02/10/sports/10football2/10football2-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2014/02/10/sports/10football2/10football2-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2014/02/10/sports/10football2/10football2-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2014/02/10/sports/10football2/10football2-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "N.F.L. Prospect Michael Sam Proudly Says What Teammates Knew: He\u2019s Gay",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "N.F.L. Prospect Proudly Says What Teammates Knew: He\u2019s Gay",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Football",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Homosexuality",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Football (College)",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "University of Missouri",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Sam, Michael (1990- )",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2014-02-10T01:00:13+0000",
+    "document_type": "article",
+    "new_desk": "Sports",
+    "section_name": "Pro Football",
+    "byline": {
+      "original": "By JOHN BRANCH",
+      "person": [
+        {
+          "firstname": "John",
+          "middlename": null,
+          "lastname": "BRANCH",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "52f8249f38f0d81bf5cabbdd",
+    "word_count": 1813,
+    "score": 1.0,
+    "uri": "nyt://article/7beb6969-0823-5bf5-88ee-c19588903a22"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2014/02/11/nyregion/de-blasio-state-of-the-city-speech.html",
+    "snippet": "Mayor Bill de Blasio\u2019s State of the City address made clear his impatience with Washington and his challenge to critics in Albany.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2014/02/11/nyregion/11DEBLASIO-sub/11DEBLASIO-sub-articleLarge-v2.jpg",
+        "height": 337,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2014/02/11/nyregion/11DEBLASIO-sub/11DEBLASIO-sub-articleLarge-v2.jpg",
+          "xlargeheight": 337
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2014/02/11/nyregion/11DEBLASIO-sub/11DEBLASIO-sub-thumbWide-v2.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2014/02/11/nyregion/11DEBLASIO-sub/11DEBLASIO-sub-thumbWide-v2.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2014/02/11/nyregion/11DEBLASIO-sub/11DEBLASIO-sub-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2014/02/11/nyregion/11DEBLASIO-sub/11DEBLASIO-sub-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "De Blasio Plans a Minimum Wage and City ID Cards",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "De Blasio Plans a Minimum Wage and City ID Cards",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "State of the City Message (NYC)",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "de Blasio, Bill",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Income Inequality",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "New York City",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Identification Devices",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Illegal Immigration",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Minimum Wage",
+        "rank": 7,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2014-02-10T17:57:44+0000",
+    "document_type": "article",
+    "new_desk": "Metro",
+    "byline": {
+      "original": "By MICHAEL M. GRYNBAUM and KIRK SEMPLE",
+      "person": [
+        {
+          "firstname": "Michael",
+          "middlename": null,
+          "lastname": null,
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "52f9173a38f0d810dc091454",
+    "word_count": 1069,
+    "score": 1.0,
+    "uri": "nyt://article/ea974358-5e61-57fc-8a78-f7f27963fd44"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2014/02/10/us/politics/fight-over-minimum-wage-illustrates-web-of-industry-ties.html",
+    "snippet": "The campaign against increasing the minimum wage illustrates how interest groups \u2014 conservative and liberal \u2014 are working in opaque ways to shape hot-button political debates.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2014/02/10/us/jp-WAGE-1/jp-WAGE-1-articleLarge.jpg",
+        "height": 400,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2014/02/10/us/jp-WAGE-1/jp-WAGE-1-articleLarge.jpg",
+          "xlargeheight": 400
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2014/02/10/us/jp-WAGE-1/jp-WAGE-1-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2014/02/10/us/jp-WAGE-1/jp-WAGE-1-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2014/02/10/us/jp-WAGE-1/jp-WAGE-1-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2014/02/10/us/jp-WAGE-1/jp-WAGE-1-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Fight Over Minimum Wage Illustrates Web of Industry Ties",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Fight Over Wage Illustrates Web of Industry Ties",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Minimum Wage",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Lobbying and Lobbyists",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Research",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Employment Policies Institute",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Berman, Richard B",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Public Relations and Publicity",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Politics and Government",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Restaurants",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Saltsman, Michael",
+        "rank": 9,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2014-02-10T01:49:23+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "section_name": "Politics",
+    "byline": {
+      "original": "By ERIC LIPTON",
+      "person": [
+        {
+          "firstname": "Eric",
+          "middlename": null,
+          "lastname": "LIPTON",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "52f8302538f0d81bf5cabbf7",
+    "word_count": 1639,
+    "score": 1.0,
+    "uri": "nyt://article/6901bbf3-9fdb-57dd-9e74-229e746691db"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2014/02/11/health/prescription-painkillers-seen-as-a-gateway-to-heroin.html",
+    "snippet": "The increased use of opiates like Vicodin and OxyContin can create an appetite that eventually leads addicts to cheaper street drugs.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2014/02/11/science/11ADDI_SPAN/11ADDI-articleLarge.jpg",
+        "height": 400,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2014/02/11/science/11ADDI_SPAN/11ADDI-articleLarge.jpg",
+          "xlargeheight": 400
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2014/02/11/science/11ADDI_SPAN/11ADDI_SPAN-thumbWide-v2.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2014/02/11/science/11ADDI_SPAN/11ADDI_SPAN-thumbWide-v2.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2014/02/11/science/11ADDI_SPAN/11ADDI-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2014/02/11/science/11ADDI_SPAN/11ADDI-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Prescription Painkillers Seen as a Gateway to Heroin",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Painkillers as a Gateway to Heroin",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Drug Abuse and Traffic",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Pain-Relieving Drugs",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Heroin",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Hoffman, Philip Seymour",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Drugs (Pharmaceuticals)",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Pain",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "OxyContin (Drug)",
+        "rank": 7,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2014-02-10T19:18:21+0000",
+    "document_type": "article",
+    "new_desk": "Science",
+    "byline": {
+      "original": "By BENEDICT CAREY",
+      "person": [
+        {
+          "firstname": "Benedict",
+          "middlename": null,
+          "lastname": "CAREY",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "52f925ff38f0d810dc091491",
+    "word_count": 795,
+    "score": 1.0,
+    "uri": "nyt://article/6a22095f-2ed6-56e8-94a3-fd732c927350"
+  }
+]

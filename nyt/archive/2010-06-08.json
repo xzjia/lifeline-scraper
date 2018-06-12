@@ -1,0 +1,645 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2010/06/08/world/americas/08models.html",
+    "snippet": "While images of beauty are changing in Brazil, fashion scouts are mostly searching for another Gisele B\u00fcndchen. ",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/06/08/world/08models2_337-span/JP-MODELS-1-articleLarge.jpg",
+        "height": 330,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2010/06/08/world/08models2_337-span/JP-MODELS-1-articleLarge.jpg",
+          "xlargeheight": 330
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/06/08/world/08models2_337-span/JP-MODELS-1-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/06/08/world/08models2_337-span/JP-MODELS-1-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Off Runway, Brazilian Beauty Goes Beyond Blond",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Off Runway, Brazilian Beauty Goes Beyond Blond and Blue-Eyed",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Brazil",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Models (Professional)",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Beauty",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Race",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Bundchen, Gisele",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-06-08T05:59:29+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Americas",
+    "byline": {
+      "original": "By ALEXEI BARRIONUEVO",
+      "person": [
+        {
+          "firstname": "Alexei",
+          "middlename": null,
+          "lastname": "BARRIONUEVO",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5400b7eb38f0d841b2f385cc",
+    "word_count": 1101,
+    "score": 1.0,
+    "uri": "nyt://article/4c9ea9b0-3b77-5253-a641-bd7aadefd7fb"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2010/06/08/business/08sorkin.html",
+    "snippet": "With BP shares plunging since the oil rig accident, many are speculating about the company\u2019s options.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/06/08/business/sorkin-thumbnail/sorkin-thumbnail-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/06/08/business/sorkin-thumbnail/sorkin-thumbnail-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Imagining the Worst in BP\u2019s Future",
+      "kicker": "Dealbook Column",
+      "content_kicker": "Dealbook Column",
+      "print_headline": "Imagining The Worst For BP",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "organizations",
+        "value": "BP Plc",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Accidents and Safety",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Oil (Petroleum) and Gasoline",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Mergers, Acquisitions and Divestitures",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Offshore Drilling and Exploration",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Gulf of Mexico",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-06-08T00:33:22+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By ANDREW ROSS SORKIN",
+      "person": [
+        {
+          "firstname": "Andrew",
+          "middlename": "Ross",
+          "lastname": "SORKIN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "54173bad38f0d851fd3a7a6a",
+    "word_count": 906,
+    "score": 1.0,
+    "uri": "nyt://article/594b9adb-f0a9-57b3-8798-011b42a6a4c1"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2010/06/09/business/global/09labor.html",
+    "snippet": "As companies bow to pressure in China for higher wages and better working conditions, the cost of doing business there will probably rise. ",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/06/09/business/global/09labor-inline/09labor-inline-articleLarge.jpg",
+        "height": 344,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2010/06/09/business/global/09labor-inline/09labor-inline-articleLarge.jpg",
+          "xlargeheight": 344
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/06/09/business/global/09labor-inline/09labor-inline-thumbStandard-v2.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/06/09/business/global/09labor-inline/09labor-inline-thumbStandard-v2.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Power Grows for Striking Chinese Workers",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Labor Strife Signals Shift In China",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "China",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Strikes",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Labor and Jobs",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Honda Motor Co Ltd",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Foxconn Technology",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Factories and Manufacturing",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Wages and Salaries",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Economic Conditions and Trends",
+        "rank": 8,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-06-08T21:07:34+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "section_name": "Global Business",
+    "byline": {
+      "original": "By DAVID BARBOZA and HIROKO TABUCHI",
+      "person": [
+        {
+          "firstname": "David",
+          "middlename": null,
+          "lastname": "BARBOZA",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Hiroko",
+          "middlename": null,
+          "lastname": "TABUCHI",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5417414d38f0d851fd3a7af8",
+    "word_count": 1236,
+    "score": 1.0,
+    "uri": "nyt://article/2e4997b3-ead0-535d-ae20-efb51568d7de"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2010/06/09/business/global/09blogger.html",
+    "snippet": "For years, almost nobody paid attention to the alarms of Edward Hugh, a blogger who predicted that the euro zone could not survive. That is changing.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/06/09/business/09BLOGGER/09BLOGGER-articleLarge.jpg",
+        "height": 315,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2010/06/09/business/09BLOGGER/09BLOGGER-articleLarge.jpg",
+          "xlargeheight": 315
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/06/09/business/09BLOGGER/09BLOGGER-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/06/09/business/09BLOGGER/09BLOGGER-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "The Blog Prophet of Euro Zone Doom",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "The Blog Prophet of Doom",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Blogs and Blogging (Internet)",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Euro (Currency)",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "European Union",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-06-08T18:34:41+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "section_name": "Global Business",
+    "byline": {
+      "original": "By LANDON THOMAS Jr",
+      "person": [
+        {
+          "firstname": "Landon",
+          "middlename": null,
+          "lastname": "THOMAS",
+          "qualifier": "Jr",
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5417400b38f0d851fd3a7ad4",
+    "word_count": 1459,
+    "score": 1.0,
+    "uri": "nyt://article/f69b87fc-9038-58c9-86d0-cd5585dec9cf"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2010/06/08/us/08flow.html",
+    "snippet": "With no consensus on how much oil is leaking, it is hard to assess the containment cap\u2019s effectiveness.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/06/08/us/FLOW/FLOW-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/06/08/us/FLOW/FLOW-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Rate of Oil Leak, Still Not Clear, Puts Doubt on BP",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "RATE OF OIL LEAK, STILL NOT CLEAR, PUTS DOUBT ON BP",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Oil (Petroleum) and Gasoline",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Accidents and Safety",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "BP Plc",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Gulf of Mexico",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Offshore Drilling and Exploration",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-06-08T01:56:05+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "byline": {
+      "original": "By JUSTIN GILLIS and HENRY FOUNTAIN",
+      "person": [
+        {
+          "firstname": "Justin",
+          "middlename": null,
+          "lastname": "GILLIS",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Henry",
+          "middlename": null,
+          "lastname": "FOUNTAIN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "54173bae38f0d851fd3a7a6b",
+    "word_count": 1295,
+    "score": 1.0,
+    "uri": "nyt://article/8b5d51e5-3037-5020-8edd-5eb2b7f77f05"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2010/06/09/nyregion/09nychaiti.html",
+    "snippet": "A tug of war between country and family ran like a fault line through the marriage of Rose Carline and Jean Ars\u00e8ne Constant. The Jan. 12 earthquake in Haiti ruptured it.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/06/08/nyregion/nychaiti1/nychaiti1-articleLarge-v2.jpg",
+        "height": 337,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2010/06/08/nyregion/nychaiti1/nychaiti1-articleLarge-v2.jpg",
+          "xlargeheight": 337
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/06/08/nyregion/nychaiti1/nychaiti1-thumbStandard-v2.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/06/08/nyregion/nychaiti1/nychaiti1-thumbStandard-v2.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "A Bond in Devotion to Haiti Is Left Shattered",
+      "kicker": "A Parish Tested",
+      "content_kicker": "A Parish Tested",
+      "print_headline": "A Bond in Devotion to Haiti Is Left Shattered",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Haiti",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Earthquakes",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Queens (NYC)",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Haitian-Americans",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-06-08T17:30:01+0000",
+    "document_type": "article",
+    "new_desk": "Metro",
+    "byline": {
+      "original": "By ANNE BARNARD",
+      "person": [
+        {
+          "firstname": "Anne",
+          "middlename": null,
+          "lastname": "BARNARD",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "Series",
+    "_id": "542205d438f0d83c6e5b791b",
+    "word_count": 1634,
+    "score": 1.0,
+    "uri": "nyt://article/dd533e7d-2787-5389-ba2d-ed477850b7ce"
+  }
+]

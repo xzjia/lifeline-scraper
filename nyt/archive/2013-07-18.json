@@ -1,0 +1,648 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2013/07/19/us/detroit-files-for-bankruptcy.html",
+    "snippet": "The city, the cradle of America\u2019s automobile industry and once the nation\u2019s fourth-most populous, is the largest American city ever to take such a course.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/07/19/us/jp-DETROIT-1/jp-DETROIT-1-articleLarge.jpg",
+        "height": 400,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2013/07/19/us/jp-DETROIT-1/jp-DETROIT-1-articleLarge.jpg",
+          "xlargeheight": 400
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/07/19/us/jp-DETROIT-1/jp-DETROIT-1-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2013/07/19/us/jp-DETROIT-1/jp-DETROIT-1-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/07/19/us/jp-DETROIT-1/jp-DETROIT-1-thumbStandard-v2.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2013/07/19/us/jp-DETROIT-1/jp-DETROIT-1-thumbStandard-v2.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Billions in Debt, Detroit Tumbles Into Insolvency",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Billions in Debt, Detroit Tumbles Into Insolvency",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Detroit (Mich)",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Bankruptcies",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Orr, Kevyn D",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Snyder, Richard Dale",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Local Government",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Municipal Bonds",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Pensions and Retirement Plans",
+        "rank": 7,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2013-07-18T20:30:39+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "byline": {
+      "original": "By MONICA DAVEY and MARY WILLIAMS WALSH",
+      "person": [
+        {
+          "firstname": "Monica",
+          "middlename": null,
+          "lastname": "DAVEY",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Mary",
+          "middlename": "Williams",
+          "lastname": "WALSH",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "51e850707e0d9c0839d3099b",
+    "word_count": 1534,
+    "score": 1.0,
+    "uri": "nyt://article/1d8ae848-14ea-5315-85d8-8da4a31ae372"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2013/07/19/business/economy/when-bernanke-got-it-wrong.html",
+    "snippet": "The Federal Reserve chairman is credited with preventing another depression in response to the debt crisis. But he missed the growing imbalances that led to the crisis.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/04/19/business/norris-75-standardinline/norris-75-standardinline-thumbStandard-v2.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/04/19/business/norris-75-standardinline/norris-75-standardinline-thumbStandard-v2.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "The Time Bernanke Got It Wrong",
+      "kicker": "High & Low Finance",
+      "content_kicker": "High & Low Finance",
+      "print_headline": "The Time Bernanke Got It Wrong",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "organizations",
+        "value": "Federal Reserve System",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Bernanke, Ben S",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Economy",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Recession and Depression",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Banking and Financial Institutions",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Economics (Theory and Philosophy)",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2013-07-18T18:29:28+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "section_name": "Economy",
+    "byline": {
+      "original": "By FLOYD NORRIS",
+      "person": [
+        {
+          "firstname": "Floyd",
+          "middlename": null,
+          "lastname": "NORRIS",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "51e834097e0d9c0839d3092a",
+    "word_count": 1432,
+    "score": 1.0,
+    "uri": "nyt://article/62798d2f-f762-501b-854a-68889a2d4297"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2013/07/18/world/middleeast/momentum-shifts-in-syria-bolstering-assads-position.html",
+    "snippet": "Though his country is in shambles, President Bashar al-Assad now seems better positioned to hang on to power than he has been for most of Syria\u2019s two-year civil war.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/07/18/world/assad/assad-articleLarge.jpg",
+        "height": 384,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2013/07/18/world/assad/assad-articleLarge.jpg",
+          "xlargeheight": 384
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/07/18/world/assad/assad-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2013/07/18/world/assad/assad-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/07/18/world/assad/assad-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2013/07/18/world/assad/assad-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Momentum Shifts in Syria, Bolstering Assad\u2019s Position",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Momentum Shifts in Syria, Bolstering Assad\u2019s Position",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Syria",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Middle East and North Africa Unrest (2010- )",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Assad, Bashar al-",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Defense and Military Forces",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Damascus (Syria)",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2013-07-18T01:33:50+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Middle East",
+    "byline": {
+      "original": "By BEN HUBBARD",
+      "person": [
+        {
+          "firstname": "Ben",
+          "middlename": null,
+          "lastname": "HUBBARD",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "51e745ff7e0d9c0839d3068a",
+    "word_count": 1208,
+    "score": 1.0,
+    "uri": "nyt://article/9760e45c-07c1-58cf-8cf3-809d7e0d7035"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2013/07/19/world/europe/russian-court-convicts-opposition-leader-aleksei-navalny.html",
+    "snippet": "Aleksei A. Navalny, Russia\u2019s most resonant opposition voice and a Moscow mayoral candidate, was sentenced to five years in prison on embezzlement charges.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/07/19/world/europe/19navalny/19navalny-articleLarge-v2.jpg",
+        "height": 353,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2013/07/19/world/europe/19navalny/19navalny-articleLarge-v2.jpg",
+          "xlargeheight": 353
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/07/19/world/europe/19navalny/19navalny-thumbWide-v2.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2013/07/19/world/europe/19navalny/19navalny-thumbWide-v2.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/07/19/world/europe/19navalny/19navalny-thumbStandard-v2.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2013/07/19/world/europe/19navalny/19navalny-thumbStandard-v2.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Putin Critic Gets 5-Year Jail Term, Setting Off Protests",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Protests Erupt Over Sentence Of Putin Critic",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Navalny, Aleksei A",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Russia",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Political Prisoners",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Decisions and Verdicts",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Embezzlement",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Moscow (Russia)",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Demonstrations, Protests, and Riots",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Putin, Vladimir V",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Blinov, Sergei",
+        "rank": 9,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2013-07-18T06:14:21+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Europe",
+    "byline": {
+      "original": "By DAVID M. HERSZENHORN",
+      "person": [
+        {
+          "firstname": "David",
+          "middlename": null,
+          "lastname": null,
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "51e787be7e0d9c0839d3072e",
+    "word_count": 1475,
+    "score": 1.0,
+    "uri": "nyt://article/afa65735-a097-5a14-a553-cf178b26cd53"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2013/07/18/arts/steamy-wait-before-a-walk-in-a-museums-rain.html",
+    "snippet": "Waits are hours long for \u201cRain Room,\u201d an installation at the Museum of Modern Art that has rain falling all around, but miraculously, not on you.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/07/18/us/18rainroom1/18rainroom1-articleLarge.jpg",
+        "height": 399,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2013/07/18/us/18rainroom1/18rainroom1-articleLarge.jpg",
+          "xlargeheight": 399
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/07/18/us/18rainroom1/18rainroom1-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2013/07/18/us/18rainroom1/18rainroom1-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/07/18/us/18rainroom1/18rainroom1-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2013/07/18/us/18rainroom1/18rainroom1-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Steamy Wait Before a Walk in a Museum\u2019s Rain",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Steamy Wait Before a Walk in a Museum\u2019s Rain",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Art",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Random International",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Rain",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Museum of Modern Art",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Manhattan (NYC)",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2013-07-18T03:48:25+0000",
+    "document_type": "article",
+    "new_desk": "Culture",
+    "byline": {
+      "original": "By JULIE L. BELCOVE",
+      "person": [
+        {
+          "firstname": "Julie",
+          "middlename": "L.",
+          "lastname": "BELCOVE",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "51e7658a7e0d9c0839d306ed",
+    "word_count": 1104,
+    "score": 1.0,
+    "uri": "nyt://article/72fdc1a7-1d35-5664-b003-77dc9c0d432d"
+  }
+]

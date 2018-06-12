@@ -1,0 +1,792 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2009/04/02/technology/personaltech/02pogue.html",
+    "snippet": "An improved personal reminder system collects your every utterance and idea and holds them for posterity.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/04/02/technology/personaltech/02pogue.600.jpg",
+        "height": 300,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/04/02/technology/personaltech/02pogue.600.jpg",
+          "xlargeheight": 300
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/04/02/technology/personaltech/02pogue.75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/04/02/technology/personaltech/02pogue.75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Reminders From Out of the Blue",
+      "kicker": "State of the Art",
+      "content_kicker": "State of the Art",
+      "print_headline": "Reminders From Out Of the Blue",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Computers and the Internet",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Cellular Telephones",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Software",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-04-01T22:06:05+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "section_name": "Personal Tech",
+    "byline": {
+      "original": "By DAVID POGUE",
+      "person": [
+        {
+          "firstname": "David",
+          "middlename": null,
+          "lastname": "POGUE",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "53f58bc238f0d87ef470e710",
+    "word_count": 1301,
+    "score": 1.0,
+    "uri": "nyt://article/ba1cdba6-2e01-5ee9-9ea2-4edb7ddadc49"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/04/02/world/europe/02prexy.html",
+    "snippet": "Germany and France want global financial regulations that could reach inside America\u2019s borders, while President Obama is pushing for more stimulus.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/04/02/world/02prexy_600.JPG",
+        "height": 331,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/04/02/world/02prexy_600.JPG",
+          "xlargeheight": 331
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/04/02/world/02prexy_75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/04/02/world/02prexy_75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "In Europe, Obama Faces Calls for Rules on Finances",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Obama Faces Calls for Rules On Finances",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Obama, Barack",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Group of Twenty",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "International Trade and World Market",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Economy",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Brown, Gordon",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Subprime Mortgage Crisis",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Economic Conditions and Trends",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Regulation and Deregulation of Industry",
+        "rank": 8,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-04-01T07:25:58+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Europe",
+    "byline": {
+      "original": "By DAVID E. SANGER and MARK LANDLER",
+      "person": [
+        {
+          "firstname": "David",
+          "middlename": "E.",
+          "lastname": "SANGER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Mark",
+          "middlename": null,
+          "lastname": "LANDLER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "53f58bde38f0d87ef470e713",
+    "word_count": 1100,
+    "score": 1.0,
+    "uri": "nyt://article/a173a9cf-1409-59aa-9f6e-06c59228cfd4"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/04/01/business/01bankruptcy.html",
+    "snippet": "The government is seeking to avoid court chaos by persuading at least some creditors to agree to a plan that would cleave General Motors into two pieces.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "U.S. Hopes to Ease G.M. to Bankruptcy",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "U.S. Plan Sees Easing of G.M. To Bankruptcy",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "organizations",
+        "value": "General Motors Corp",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Subprime Mortgage Crisis",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Automobiles",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Reform and Reorganization",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Bankruptcies",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-04-01T01:32:30+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By MICHAEL J. de la MERCED and JONATHAN D. GLATER",
+      "person": [
+        {
+          "firstname": "Michael",
+          "middlename": "J.",
+          "lastname": "de la MERCED",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Jonathan",
+          "middlename": null,
+          "lastname": null,
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5468fe7338f0d8317bec071b",
+    "word_count": 1016,
+    "score": 1.0,
+    "uri": "nyt://article/b81b5e71-176a-5ba1-b84b-4645631400be"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/04/02/business/global/02electric.html",
+    "snippet": "In a new threat to Detroit, China is investing heavily in hybrid and electric-vehicle technology.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/04/02/business/02electric00-75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/04/02/business/02electric00-75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "China Vies to Be World\u2019s Leader in Electric Cars",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "China Vies to Be World\u2019s Leader In Electric Cars",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "China",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Electric Vehicles",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Hybrid Vehicles",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Automobiles",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Fuel Efficiency",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Batteries",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Greenhouse Gas Emissions",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Lithium (Metal)",
+        "rank": 8,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-04-01T23:02:52+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "section_name": "Global Business",
+    "byline": {
+      "original": "By KEITH BRADSHER",
+      "person": [
+        {
+          "firstname": "Keith",
+          "middlename": null,
+          "lastname": "BRADSHER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5469109b38f0d8317bec08a8",
+    "word_count": 1145,
+    "score": 1.0,
+    "uri": "nyt://article/f691b111-e1a0-5371-8d5f-3889c5ea2efb"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/04/01/business/economy/01leonhardt.html",
+    "snippet": "European leaders are resisting calls for stimulus measures, but history shows that they often work.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/04/01/business/01leonhardt.75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/04/01/business/01leonhardt.75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Stimulus Thinking, and Nuance",
+      "kicker": "Economic Scene",
+      "content_kicker": "Economic Scene",
+      "print_headline": "Stimulus Thinking, And Nuance",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "American Recovery and Reinvestment Act (2009)",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Economic Conditions and Trends",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Economy",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Recession and Depression",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "New Deal (1930's)",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Subprime Mortgage Crisis",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Great Depression (1930's)",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Deflation (Economics)",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Group of Twenty",
+        "rank": 9,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "European Union",
+        "rank": 10,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Obama, Barack",
+        "rank": 11,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Roosevelt, Franklin Delano",
+        "rank": 12,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Hitler, Adolf",
+        "rank": 13,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Keynes, John Maynard",
+        "rank": 14,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Holocaust and the Nazi Era",
+        "rank": 15,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Inflation (Economics)",
+        "rank": 16,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-04-01T02:06:40+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "section_name": "Economy",
+    "byline": {
+      "original": "By DAVID LEONHARDT",
+      "person": [
+        {
+          "firstname": "David",
+          "middlename": null,
+          "lastname": "LEONHARDT",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "546906eb38f0d8317bec07d6",
+    "word_count": 1219,
+    "score": 1.0,
+    "uri": "nyt://article/b143894a-a469-51d8-9da0-a4b0e58dfeee"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/04/01/nyregion/01comp.html",
+    "snippet": "There are questions about whether doctors hired by insurers to examine injured workers are really independent.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/04/01/nyregion/01comp_600a.JPG",
+        "height": 345,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/04/01/nyregion/01comp_600a.JPG",
+          "xlargeheight": 345
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/04/01/nyregion/01comp_75a.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/04/01/nyregion/01comp_75a.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Exams of Injured Workers Fuel Mutual Mistrust",
+      "kicker": "A World of Hurt",
+      "content_kicker": "A World of Hurt",
+      "print_headline": "Exams of Injured Workers Fuel Mutual Mistrust",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Workers' Compensation Insurance",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "New York State",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Labor",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Medicine and Health",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-04-01T03:33:50+0000",
+    "document_type": "article",
+    "new_desk": "Metro",
+    "byline": {
+      "original": "By N. R. KLEINFIELD",
+      "person": [
+        {
+          "firstname": "N.",
+          "middlename": "R.",
+          "lastname": "KLEINFIELD",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "Series",
+    "_id": "546905cc38f0d8317bec07c2",
+    "word_count": 3368,
+    "score": 1.0,
+    "uri": "nyt://article/d7ca20c5-d1cd-5b39-a534-1f8c0bf8e953"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/04/01/arts/music/01tickets.html",
+    "snippet": "Ordinary consumers are being pitted against professional scalpers who scoop up large numbers of tickets in a flash.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/04/01/us/01tickets_600.JPG",
+        "height": 341,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/04/01/us/01tickets_600.JPG",
+          "xlargeheight": 341
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/04/01/us/01tickets_75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/04/01/us/01tickets_75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Online Sales Make Hot Tickets Harder to Get",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Online Resales Pushing Tickets Far From Reach",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Prices (Fares, Fees and Rates)",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Ticket Scalping",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Rock Music",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Computers and the Internet",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-04-01T02:39:18+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "section_name": "Music",
+    "byline": {
+      "original": "By BEN SISARIO",
+      "person": [
+        {
+          "firstname": "Ben",
+          "middlename": null,
+          "lastname": "SISARIO",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "545ba49b38f0d842c59d22f7",
+    "word_count": 1049,
+    "score": 1.0,
+    "uri": "nyt://article/970c3c21-04fc-509c-9047-50ff23026364"
+  }
+]

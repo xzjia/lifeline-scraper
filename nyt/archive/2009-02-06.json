@@ -1,0 +1,878 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2009/02/07/your-money/07money.html",
+    "snippet": "The advice of diet experts could whip your finances into shape and make self-control feel less like deprivation.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "Nutritional Insights on Saving Money",
+      "kicker": "Your Money",
+      "content_kicker": "Your Money",
+      "print_headline": "Tips Meant for the Waist, but Perfect for the Pocket",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Personal Finances",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Diet and Nutrition",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Budgets and Budgeting",
+        "rank": 3,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-02-06T22:09:24+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By RON LIEBER",
+      "person": [
+        {
+          "firstname": "Ron",
+          "middlename": null,
+          "lastname": "LIEBER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "54728d5038f0d85d607d5a21",
+    "word_count": 1205,
+    "score": 1.0,
+    "uri": "nyt://article/5d3eee83-a7db-5eea-9219-c81aa0472b83"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/02/07/sports/othersports/07vecsey.html",
+    "snippet": "Michael Phelps is now paying the price for being a 23-year-old with limited instincts for danger to his reputation and his fortune.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/02/06/sports/othersports/06phelps.75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/02/06/sports/othersports/06phelps.75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Phelps Needs Less Idle Time, Not More",
+      "kicker": "Sports of The Times",
+      "content_kicker": "Sports of The Times",
+      "print_headline": "Phelps Needs Less Idle Time, Not More",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Swimming",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "USA Swimming",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Phelps, Michael",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Vecsey, George",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-02-06T16:26:34+0000",
+    "document_type": "article",
+    "new_desk": "Sports",
+    "section_name": "More Sports",
+    "byline": {
+      "original": "By GEORGE VECSEY",
+      "person": [
+        {
+          "firstname": "George",
+          "middlename": null,
+          "lastname": "VECSEY",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5472891538f0d85d607d59cb",
+    "word_count": 797,
+    "score": 1.0,
+    "uri": "nyt://article/08fd3cf2-84c0-5469-a918-2b930f94ea5d"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/02/07/business/economy/07jobs.html",
+    "snippet": "The losses reinforced the picture of an economy contracting at its fastest pace in decades.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/02/06/business/06jobs.2-600.jpg",
+        "height": 331,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/02/06/business/06jobs.2-600.jpg",
+          "xlargeheight": 331
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/02/06/business/06jobs.2-75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/02/06/business/06jobs.2-75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Economy Shed 598,000 Jobs in January",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "With Grim Job Loss Figures, No Sign That Worst Is Over",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "organizations",
+        "value": "Bureau of Labor Statistics",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Unemployment",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Economy",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Subprime Mortgage Crisis",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Labor Department",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-02-06T13:39:32+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "section_name": "Economy",
+    "byline": {
+      "original": "By EDMUND L. ANDREWS",
+      "person": [
+        {
+          "firstname": "Edmund",
+          "middlename": "L.",
+          "lastname": "ANDREWS",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "54728a2f38f0d85d607d59e8",
+    "word_count": 1189,
+    "score": 1.0,
+    "uri": "nyt://article/d8e6753d-a54f-50c2-8590-72169be44e94"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/02/07/business/07goatdrug.html",
+    "snippet": "The drug, which prevents blood clots in people with a rare condition, is made from the milk of genetically engineered animals, which may usher a new era in pharmaceuticals.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/02/06/business/06goat-75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/02/06/business/06goat-75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "F.D.A. Approves Drug From Gene-Altered Goats",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Drug From a Goat With a Human Gene",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "organizations",
+        "value": "Food and Drug Administration",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Drugs (Pharmaceuticals)",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Genetics and Heredity",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Animals",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Genetic Engineering",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-02-06T18:37:20+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By ANDREW POLLACK",
+      "person": [
+        {
+          "firstname": "Andrew",
+          "middlename": null,
+          "lastname": "POLLACK",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "54728b5438f0d85d607d59fa",
+    "word_count": 1171,
+    "score": 1.0,
+    "uri": "nyt://article/3325fa9d-1296-58cf-814c-cc559b26c2a4"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/02/06/world/asia/06japan.html",
+    "snippet": "Over two decades, Japan accumulated enormous debt while failing to generate a convincing recovery.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/02/06/world/06japan_600.JPG",
+        "height": 358,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/02/06/world/06japan_600.JPG",
+          "xlargeheight": 358
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/02/06/world/06japan_75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/02/06/world/06japan_75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Japan\u2019s Big-Works Stimulus Is Lesson",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Japan\u2019s Big-Works Stimulus Is Lesson for U.S.",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Japan",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Economic Conditions and Trends",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Infrastructure (Public Works)",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Obama Stimulus Plan",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Economics",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Politics and Government",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Budgets and Budgeting",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Geithner, Timothy F",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Liberal Democratic Party",
+        "rank": 9,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-02-06T01:38:49+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Asia Pacific",
+    "byline": {
+      "original": "By MARTIN FACKLER",
+      "person": [
+        {
+          "firstname": "Martin",
+          "middlename": null,
+          "lastname": "FACKLER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5472865c38f0d85d607d5990",
+    "word_count": 1859,
+    "score": 1.0,
+    "uri": "nyt://article/0405ced5-9f1a-5159-bdfb-cd04924293a2"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/02/08/fashion/08bigfam.html",
+    "snippet": "In an era of shrinking broods, larger families can feel under attack.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/02/08/fashion/08bigfamilies_75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/02/08/fashion/08bigfamilies_75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "And Baby Makes How Many?",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "And Baby Makes How Many?",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Families and Family Life",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Children and Youth",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Parenting",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Multiple Births",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Birth Control and Family Planning",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Economy",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-02-06T22:18:10+0000",
+    "document_type": "article",
+    "new_desk": "Styles",
+    "byline": {
+      "original": "By KATE ZERNIKE",
+      "person": [
+        {
+          "firstname": "Kate",
+          "middlename": null,
+          "lastname": "ZERNIKE",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "54728c4638f0d85d607d5a0d",
+    "word_count": 1864,
+    "score": 1.0,
+    "uri": "nyt://article/19b79a1f-8b4e-5503-be45-ad12f326a3d2"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/02/06/business/06women.html",
+    "snippet": "With the downturn hurting industries that employ more men, women may surpass them on the nation\u2019s payrolls.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/02/06/business/06women3_600.JPG",
+        "height": 331,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/02/06/business/06women3_600.JPG",
+          "xlargeheight": 331
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/02/06/business/06women3_75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/02/06/business/06women3_75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "As Layoffs Surge, Women May Pass Men in Job Force",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "AS LAYOFFS SURGE, WOMEN MAY PASS MEN IN JOB FORCE",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Women",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Labor",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Unemployment",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Recession and Depression",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Economy",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Men",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-02-06T02:46:36+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By CATHERINE RAMPELL",
+      "person": [
+        {
+          "firstname": "Catherine",
+          "middlename": null,
+          "lastname": "RAMPELL",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5472894738f0d85d607d59d0",
+    "word_count": 1269,
+    "score": 1.0,
+    "uri": "nyt://article/8da86074-48eb-5e98-b30a-4114b43d3bc1"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/02/06/nyregion/06perks.html",
+    "snippet": "Perks await those who join Mayor Michael R. Bloomberg\u2019s re-election campaign, from luxury hotels to jet rides.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "Bloomberg Campaigners Taste the High Life",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Campaigners For Bloomberg Taste High Life",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Bloomberg, Michael R",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Elections",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "New York City",
+        "rank": 3,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-02-06T03:50:33+0000",
+    "document_type": "article",
+    "new_desk": "Metro",
+    "byline": {
+      "original": "By MICHAEL BARBARO",
+      "person": [
+        {
+          "firstname": "Michael",
+          "middlename": null,
+          "lastname": "BARBARO",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5472882838f0d85d607d59b5",
+    "word_count": 1377,
+    "score": 1.0,
+    "uri": "nyt://article/46c4b05a-2959-556f-8321-b689c0fc0f32"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/02/07/business/07peanut.html",
+    "snippet": "The drop in peanut butter sales is so striking, brands are buying ads saying that their items are not affected.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/02/06/us/widethumb1111.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2009/02/06/us/widethumb1111.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/02/06/us/4750_1_peanut_75x75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/02/06/us/4750_1_peanut_75x75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Fallout Widens as Buyers Shun Peanut Butter",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Fallout Widens As Buyers Shun Peanut Butter",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Peanut Butter",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Food Contamination and Poisoning",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Peanut Corporation of America",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Agriculture Department",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Salmonella (Bacteria)",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Sales",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-02-06T18:48:24+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By ANDREW MARTIN and LIZ ROBBINS",
+      "person": [
+        {
+          "firstname": "Andrew",
+          "middlename": null,
+          "lastname": "MARTIN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Liz",
+          "middlename": null,
+          "lastname": "ROBBINS",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "54728b7c38f0d85d607d59fd",
+    "word_count": 1083,
+    "score": 1.0,
+    "uri": "nyt://article/efd57ba5-c99a-57f2-a5d2-f5e6891577fa"
+  }
+]

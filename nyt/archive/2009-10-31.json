@@ -1,0 +1,196 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2009/10/31/arts/dance/31morphoses.html",
+    "snippet": "In its opening-night appearance at City Center on Thursday, Morphoses, the ambitious company formed by Christopher Wheeldon, was full of flaws.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/10/31/arts/morphoses/articleLarge.jpg",
+        "height": 267,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/10/31/arts/morphoses/articleLarge.jpg",
+          "xlargeheight": 267
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Nods to Ravel and Yogurt With Blueberries",
+      "kicker": "Dance Review | Morphoses/The Wheeldon Company",
+      "content_kicker": "Dance Review | Morphoses/The Wheeldon Company",
+      "print_headline": "Nods to Ravel and Yogurt With Blueberries",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Dancing",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Morphoses/The Wheeldon Co",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Wheeldon, Christopher",
+        "rank": 3,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-10-31T00:18:34+0000",
+    "document_type": "article",
+    "new_desk": "Culture",
+    "section_name": "Dance",
+    "byline": {
+      "original": "By GIA KOURLAS",
+      "person": [
+        {
+          "firstname": "Gia",
+          "middlename": null,
+          "lastname": "KOURLAS",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "Review",
+    "_id": "5457e5bf38f0d8086c45d921",
+    "word_count": 616,
+    "score": 1.0,
+    "uri": "nyt://article/f5b97c09-e036-5673-85bb-a1984a7b6840"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/11/01/us/01trauma.html",
+    "snippet": "As women who suffer from post-traumatic stress disorder return to a society unfamiliar with their wartime roles, they often choose isolation over embarrassment.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/11/01/us/01trauma_CA0/articleLarge.jpg",
+        "height": 348,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/11/01/us/01trauma_CA0/articleLarge.jpg",
+          "xlargeheight": 348
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/11/01/us/01trauma_CA0/thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/11/01/us/01trauma_CA0/thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "A Combat Role, and Anguish, Too",
+      "kicker": "Women at Arms",
+      "content_kicker": "Women at Arms",
+      "print_headline": "A Combat Role, and Anguish, Too",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Post-Traumatic Stress Disorder",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Veterans",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Defense and Military Forces",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Women and Girls",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Afghanistan War (2001- )",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Iraq War (2003- )",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-10-31T17:01:40+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "byline": {
+      "original": "By DAMIEN CAVE",
+      "person": [
+        {
+          "firstname": "Damien",
+          "middlename": null,
+          "lastname": "CAVE",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "Series",
+    "_id": "5400badf38f0d841b2f3878c",
+    "word_count": 3254,
+    "score": 1.0,
+    "uri": "nyt://article/45144bbf-38cd-5f66-9d15-6ac8dadaa968"
+  }
+]

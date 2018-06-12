@@ -1,0 +1,104 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2008/11/09/us/09deport.html",
+    "snippet": "Antonio Torres\u2019s case illustrates the haphazard way that the health care system handles uninsured immigrants.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/11/09/us/09deport-600.jpg",
+        "height": 354,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2008/11/09/us/09deport-600.jpg",
+          "xlargeheight": 354
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/11/09/us/09deport-75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2008/11/09/us/09deport-75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Deported in a Coma, Saved Back in U.S.",
+      "kicker": "Getting Tough",
+      "content_kicker": "Getting Tough",
+      "print_headline": "Deported in Coma, Saved Back in U.S.",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Medicine and Health",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Immigration and Refugees",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Hospitals",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Health Insurance and Managed Care",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2008-11-08T19:34:11+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "byline": {
+      "original": "By DEBORAH SONTAG",
+      "person": [
+        {
+          "firstname": "Deborah",
+          "middlename": null,
+          "lastname": "SONTAG",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "Series",
+    "_id": "534bdd8e38f0d858e6406fb9",
+    "word_count": 5055,
+    "score": 1.0,
+    "uri": "nyt://article/1b190230-ca50-5146-b598-c46be0f3f7f7"
+  }
+]

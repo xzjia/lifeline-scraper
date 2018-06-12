@@ -1,0 +1,339 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2010/09/11/world/europe/11germany.html",
+    "snippet": "A more confident nation has asserted itself in foreign policy, despite economic troubles and some internal dissent.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/09/11/world/sub-jmp-GERMANY1/sub-jmp-GERMANY1-articleLarge.jpg",
+        "height": 315,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2010/09/11/world/sub-jmp-GERMANY1/sub-jmp-GERMANY1-articleLarge.jpg",
+          "xlargeheight": 315
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/09/11/world/sub-jmp-GERMANY1/sub-jmp-GERMANY1-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/09/11/world/sub-jmp-GERMANY1/sub-jmp-GERMANY1-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "German Identity, Long Dormant, Reasserts Itself",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Long Dormant, German Pride Blinks and Stirs",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Germany",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Economic Conditions and Trends",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Defense and Military Forces",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Immigration and Emigration",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Politics and Government",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Holocaust and the Nazi Era",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "European Union",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Merkel, Angela",
+        "rank": 8,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-09-11T01:03:15+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Europe",
+    "byline": {
+      "original": "By NICHOLAS KULISH",
+      "person": [
+        {
+          "firstname": "Nicholas",
+          "middlename": null,
+          "lastname": "KULISH",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "541a7e7938f0d80959e6cb61",
+    "word_count": 2423,
+    "score": 1.0,
+    "uri": "nyt://article/b1cd34ca-4039-5318-bfb1-38ab17716954"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2010/09/12/nyregion/12critic.html",
+    "snippet": "An iPhone app offers a ground zero tour, layering past over present.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/09/12/nyregion/12criticspan/12criticspan-articleLarge.jpg",
+        "height": 330,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2010/09/12/nyregion/12criticspan/12criticspan-articleLarge.jpg",
+          "xlargeheight": 330
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/09/12/nyregion/12criticspan/12criticspan-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/09/12/nyregion/12criticspan/12criticspan-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "In Your Palm, Memories of Horror and Valor",
+      "kicker": "City Critic",
+      "content_kicker": "City Critic",
+      "print_headline": "In Your Palm, Memories Of Horror and Valor",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "iPhone",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "World Trade Center (NYC)",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "September 11 (2001)",
+        "rank": 3,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-09-11T00:11:46+0000",
+    "document_type": "article",
+    "new_desk": "Metro",
+    "byline": {
+      "original": "By ARIEL KAMINER",
+      "person": [
+        {
+          "firstname": "Ariel",
+          "middlename": null,
+          "lastname": "KAMINER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "541a795238f0d80959e6caed",
+    "word_count": 984,
+    "score": 1.0,
+    "uri": "nyt://article/8ae8e6c9-be96-530f-9141-eb0ab0a7717b"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2010/09/11/us/11gainesville.html",
+    "snippet": "Terry Jones\u2019s actions have dragged Gainesville, Fla., into infamy, and residents, aghast, are taking it personally.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/09/11/us/GAINSVILLE/GAINSVILLE-articleLarge.jpg",
+        "height": 315,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2010/09/11/us/GAINSVILLE/GAINSVILLE-articleLarge.jpg",
+          "xlargeheight": 315
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/09/11/us/GAINSVILLE/GAINSVILLE-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/09/11/us/GAINSVILLE/GAINSVILLE-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "City Disavows Pastor\u2019s Talk of Burning Koran",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Gainesville, Aghast, Disavows Pastor\u2019s Talk of Burning Koran",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Koran",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Islam",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Jones, Terry (Pastor)",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Demonstrations, Protests, and Riots",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Dove World Outreach Center",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "University of Florida",
+        "rank": 7,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-09-11T01:32:24+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "byline": {
+      "original": "By DAMIEN CAVE",
+      "person": [
+        {
+          "firstname": "Damien",
+          "middlename": null,
+          "lastname": "CAVE",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "541a7f6438f0d80959e6cb73",
+    "word_count": 1046,
+    "score": 1.0,
+    "uri": "nyt://article/14a70d0d-f617-5778-8122-5b6e677c40de"
+  }
+]

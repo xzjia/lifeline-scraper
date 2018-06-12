@@ -1,0 +1,660 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2009/08/12/dining/12green.html",
+    "snippet": "Foodies love to hate the green bell pepper, but its defenders say that the green pepper family is tasty, diverse and versatile.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/08/12/dining/12green600.1.jpg",
+        "height": 348,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/08/12/dining/12green600.1.jpg",
+          "xlargeheight": 348
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/08/12/dining/12green75.2b.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/08/12/dining/12green75.2b.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Image Problem? Don\u2019t Pity the Bell",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Image Problem? Don\u2019t Pity The Bell",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Peppers",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Vegetables",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Cooking and Cookbooks",
+        "rank": 3,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-08-11T23:35:56+0000",
+    "document_type": "article",
+    "new_desk": "Dining",
+    "byline": {
+      "original": "By JULIA MOSKIN",
+      "person": [
+        {
+          "firstname": "Julia",
+          "middlename": null,
+          "lastname": "MOSKIN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5454ef8238f0d839202eabf1",
+    "word_count": 844,
+    "score": 1.0,
+    "uri": "nyt://article/d7bfe420-1f52-5f76-bc7b-4f9c3deb4010"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/08/12/nyregion/12waterfront.html",
+    "snippet": "The New York inspector general\u2019s office reported widespread corruption at the Waterfront Commission, created in the 1950s to break the mob\u2019s grip.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/08/11/nyregion/11waterfront-75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/08/11/nyregion/11waterfront-75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Corruption Found at Waterfront Watchdog",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Waterfront Watchdog Was Corrupt, Report Finds",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "organizations",
+        "value": "Waterfront Commission of New York Harbor",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Organized Crime",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "New York Harbor",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Racketeering and Racketeers",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Suspensions, Dismissals and Resignations",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Crime and Criminals",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Police Department (NYC)",
+        "rank": 7,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-08-11T16:11:00+0000",
+    "document_type": "article",
+    "new_desk": "Metro",
+    "byline": {
+      "original": "By RALPH BLUMENTHAL",
+      "person": [
+        {
+          "firstname": "Ralph",
+          "middlename": null,
+          "lastname": "BLUMENTHAL",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5454ef6838f0d839202eabef",
+    "word_count": 1106,
+    "score": 1.0,
+    "uri": "nyt://article/38a5420b-7e41-54dd-a389-fcf55dd0a0bf"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/08/12/us/politics/12firings.html",
+    "snippet": "Documents showed Karl Rove and others played a more active role in the 2006 firings of federal prosecutors.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/08/12/us/firings_75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/08/12/us/firings_75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "E-Mail Reveals Rove\u2019s Key Role in \u201906 Dismissals",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "E-Mail Reveals Rove\u2019s Key Role In \u201906 Dismissals",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Rove, Karl",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Attorneys",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Iglesias, David C",
+        "rank": 3,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-08-11T20:57:38+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "section_name": "Politics",
+    "byline": {
+      "original": "By ERIC LICHTBLAU and ERIC LIPTON",
+      "person": [
+        {
+          "firstname": "Eric",
+          "middlename": null,
+          "lastname": "LICHTBLAU",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Eric",
+          "middlename": null,
+          "lastname": "LIPTON",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5454f21938f0d839202eac25",
+    "word_count": 1066,
+    "score": 1.0,
+    "uri": "nyt://article/08bc1ede-6411-5b14-95a3-129398b10083"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/08/12/health/policy/12townhall.html",
+    "snippet": "More than 1,000 people showed up for a meeting with Senator Arlen Specter that was punctuated with rowdy moments.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/08/11/us/12townhall2_75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/08/11/us/12townhall2_75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Senator Goes Face to Face With Dissent",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Senator Goes Face to Face With Dissent",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Health Insurance and Managed Care",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Reform and Reorganization",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Specter, Arlen",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Obama, Barack",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Pennsylvania",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Politics and Government",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-08-11T22:49:51+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "section_name": "Money & Policy",
+    "byline": {
+      "original": "By IAN URBINA and KATHARINE Q. SEELYE",
+      "person": [
+        {
+          "firstname": "Ian",
+          "middlename": null,
+          "lastname": "URBINA",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Katharine",
+          "middlename": "Q.",
+          "lastname": "SEELYE",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5454f10938f0d839202eac0f",
+    "word_count": 1078,
+    "score": 1.0,
+    "uri": "nyt://article/7c290a87-44b8-55f0-ad9a-424443680b4f"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/08/11/your-money/credit-and-debit-cards/11limits.html",
+    "snippet": "Other credit card companies might decide that it\u2019s worth it to follow the lead of American Express and Discover and eliminate over-limit fees.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "Card Users, Take Heart: One Penalty Is Vanishing",
+      "kicker": "Your Money",
+      "content_kicker": "Your Money",
+      "print_headline": "Card Users, Take Heart: One Penalty Is Vanishing",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Credit and Money Cards",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Fines (Penalties)",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Prices (Fares, Fees and Rates)",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Your Money",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-08-11T01:56:12+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "section_name": "Credit and Debit Cards",
+    "byline": {
+      "original": "By RON LIEBER",
+      "person": [
+        {
+          "firstname": "Ron",
+          "middlename": null,
+          "lastname": "LIEBER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5454ecd538f0d839202eabb6",
+    "word_count": 1023,
+    "score": 1.0,
+    "uri": "nyt://article/c80a86dd-edf8-539f-80f6-c139be3f2c33"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/08/11/sports/baseball/11address.html",
+    "snippet": "Jack Smalling has undertaken a decades-long effort to collect the address of every living major league baseball player, umpire, manager and coach.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/08/11/sports/address600.jpg",
+        "height": 356,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/08/11/sports/address600.jpg",
+          "xlargeheight": 356
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/08/11/sports/addressBBBB75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/08/11/sports/addressBBBB75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Want Baseball Autographs? This Man Can Help",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Want Autographs? He Knows Where They Live",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Baseball",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Collectors and Collections",
+        "rank": 2,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-08-11T01:51:00+0000",
+    "document_type": "article",
+    "new_desk": "Sports",
+    "section_name": "Baseball",
+    "byline": {
+      "original": "By MICHAEL S. SCHMIDT",
+      "person": [
+        {
+          "firstname": "Michael",
+          "middlename": "S.",
+          "lastname": "SCHMIDT",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5454ebb438f0d839202eab9d",
+    "word_count": 781,
+    "score": 1.0,
+    "uri": "nyt://article/f6882daf-0217-5823-872b-4e8a39f46fb9"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/08/11/nyregion/11dems.html",
+    "snippet": "Gov. David A. Paterson\u2019s unpopularity has made Democratic incumbents in New York nervous.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/08/11/nyregion/11dems.span.600.jpg",
+        "height": 361,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/08/11/nyregion/11dems.span.600.jpg",
+          "xlargeheight": 361
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/08/11/nyregion/11dems.span.75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/08/11/nyregion/11dems.span.75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "State Democrats Fear That Paterson Is Liability",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Democrats Fear That Paterson, Deeply Unpopular, Is Liability",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Paterson, David A",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Elections",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "New York State",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Democratic Party",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-08-11T01:58:57+0000",
+    "document_type": "article",
+    "new_desk": "Metro",
+    "byline": {
+      "original": "By RAYMOND HERNANDEZ",
+      "person": [
+        {
+          "firstname": "Raymond",
+          "middlename": null,
+          "lastname": "HERNANDEZ",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5454ebbf38f0d839202eab9e",
+    "word_count": 1019,
+    "score": 1.0,
+    "uri": "nyt://article/a7e5670c-ab1a-5ffe-a543-ef5bc908ff3f"
+  }
+]

@@ -1,0 +1,220 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2009/12/01/us/01race.html",
+    "snippet": "Race remains a major obstacle for African-American job seekers, even those with degrees from respected colleges.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/12/01/us/01race_CA0/articleLarge.jpg",
+        "height": 330,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/12/01/us/01race_CA0/articleLarge.jpg",
+          "xlargeheight": 330
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/12/01/us/01race_CA0/thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/12/01/us/01race_CA0/thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "In Job Hunt, College Degree Can\u2019t Close Racial Gap",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "In Job Hunt, Even a College Degree Can\u2019t Close the Racial Gap",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Hiring and Promotion",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Discrimination",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Race",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Blacks",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Labor and Jobs",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Bureau of Labor Statistics",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-12-01T02:31:25+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "byline": {
+      "original": "By MICHAEL LUO",
+      "person": [
+        {
+          "firstname": "Michael",
+          "middlename": null,
+          "lastname": "LUO",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "54590aed38f0d82ce4267fc8",
+    "word_count": 1170,
+    "score": 1.0,
+    "uri": "nyt://article/5802cd27-497c-56a8-b35c-8fdc29f72c2f"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/12/01/us/politics/01huckabee.html",
+    "snippet": "A busy pardon pen may again lead to political trouble for Mike Huckabee, the former Arkansas governor considered a leading contender for the 2012 G.O.P. nomination.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/12/01/us/01huckabee2_337-395/thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/12/01/us/01huckabee2_337-395/thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Old Clemency May Be Issue for Huckabee",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "\u201900 Clemency May Be Issue For Huckabee",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Huckabee, Mike",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Amnesties, Commutations and Pardons",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Clemmons, Maurice",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Fox News Channel",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Presidential Election of 2012",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Republican Party",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Arkansas",
+        "rank": 7,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-12-01T02:57:13+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "section_name": "Politics",
+    "byline": {
+      "original": "By KATE ZERNIKE",
+      "person": [
+        {
+          "firstname": "Kate",
+          "middlename": null,
+          "lastname": "ZERNIKE",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5459030738f0d8086c45f187",
+    "word_count": 1195,
+    "score": 1.0,
+    "uri": "nyt://article/e2a6e62c-8da8-5e2a-a4d6-f78759e2bfef"
+  }
+]

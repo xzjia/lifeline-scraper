@@ -1,0 +1,103 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2010/04/17/business/17goldman.html",
+    "snippet": "The S.E.C. accused the bank of securities fraud in a deal in which Goldman bet against products it sold.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "S.E.C. Accuses Goldman of Fraud in Housing Deal",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "S.E.C. Accuses Goldman Of Fraud in Housing Deal",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "organizations",
+        "value": "Goldman Sachs Group",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Securities and Exchange Commission",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Mortgages",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Subprime Mortgage Crisis",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Securities and Commodities Violations",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Collateralized Debt Obligations",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Tourre, Fabrice",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Paulson, John A",
+        "rank": 8,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-04-16T14:38:42+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By LOUISE STORY and GRETCHEN MORGENSON",
+      "person": [
+        {
+          "firstname": "Louise",
+          "middlename": null,
+          "lastname": "STORY",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Gretchen",
+          "middlename": null,
+          "lastname": "MORGENSON",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5418910238f0d86afc9a039a",
+    "word_count": 1638,
+    "score": 1.0,
+    "uri": "nyt://article/3a1e97cf-54da-532a-ba24-512a303a609b"
+  }
+]

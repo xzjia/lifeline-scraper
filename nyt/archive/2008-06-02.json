@@ -1,0 +1,104 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2008/06/02/fashion/02laurent.html",
+    "snippet": "Mr. Saint Laurent exploded on the fashion scene in 1958 and endured as one of the best-known and most influential couturiers of the second half of the 20th century.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/06/02/obituaries/02laurnet.xlarge11.jpg",
+        "height": 350,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2008/06/02/obituaries/02laurnet.xlarge11.jpg",
+          "xlargeheight": 350
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/06/02/obituaries/02laurnet.7511.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2008/06/02/obituaries/02laurnet.7511.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Yves Saint Laurent, Giant of Couture, Dies at 71",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Yves Saint Laurent, 71, Is Dead; A Giant of Couture for 45 Years",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Saint Laurent, Yves",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Apparel",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Design",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Deaths (Obituaries)",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2008-06-02T04:00:00+0000",
+    "document_type": "article",
+    "new_desk": "Culture",
+    "byline": {
+      "original": "By ANNE-MARIE SCHIRO",
+      "person": [
+        {
+          "firstname": "Anne-marie",
+          "middlename": null,
+          "lastname": "SCHIRO",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "Obituary (Obit)",
+    "_id": "547500b838f0d8119c6af631",
+    "word_count": 2234,
+    "score": 1.0,
+    "uri": "nyt://article/4bbdf837-d067-56d4-9317-2a81896e02ef"
+  }
+]

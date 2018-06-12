@@ -1,0 +1,94 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2010/07/27/business/global/27nike.html",
+    "snippet": "Student groups had pressed Nike to pay severance that the two subcontractors in Honduras had failed to pay.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/07/27/business/subNike/subNike-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/07/27/business/subNike/subNike-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Pressured, Nike to Help Workers in Honduras",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Pressured, Nike to Help Workers In Honduras",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "organizations",
+        "value": "Nike Inc",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Honduras",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Labor and Jobs",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Colleges and Universities",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Factories and Manufacturing",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-07-26T17:55:59+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "section_name": "Global Business",
+    "byline": {
+      "original": "By STEVEN GREENHOUSE",
+      "person": [
+        {
+          "firstname": "Steven",
+          "middlename": null,
+          "lastname": "GREENHOUSE",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5418eb7138f0d86afc9a0be0",
+    "word_count": 868,
+    "score": 1.0,
+    "uri": "nyt://article/0608d46b-d763-5d50-b75f-f62cf2f2e6a9"
+  }
+]

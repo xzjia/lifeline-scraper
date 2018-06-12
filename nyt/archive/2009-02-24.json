@@ -1,0 +1,690 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2009/02/24/business/24bailout.html",
+    "snippet": "The government is facing pressure from banks, carmakers and a giant insurer despite the billions it has committed to them.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "U.S. Is Pressed to Add Billions to Bailouts",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Ailing Industries Pressing To Add Billions to Bailouts",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Subprime Mortgage Crisis",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Banks and Banking",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Nationalization of Industry",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Treasury Department",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Federal Reserve Bank of New York",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Automobiles",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "American International Group",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Obama Financial Stability Plan",
+        "rank": 8,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-02-24T02:31:07+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By EDMUND L. ANDREWS, ANDREW ROSS SORKIN and MARY WILLIAMS WALSH",
+      "person": [
+        {
+          "firstname": "Edmund",
+          "middlename": "L.",
+          "lastname": "ANDREWS",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Andrew",
+          "middlename": "Ross",
+          "lastname": "SORKIN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        },
+        {
+          "firstname": "Mary",
+          "middlename": "Williams",
+          "lastname": "WALSH",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 3
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5471640038f0d847c5e42c68",
+    "word_count": 1257,
+    "score": 1.0,
+    "uri": "nyt://article/bea3b363-5340-5137-9a93-77f0b3629300"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/02/24/arts/design/24artloans.html",
+    "snippet": "Owners are realizing that a painting can bring in much-needed cash when used as collateral.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/02/23/style/24artloans_600.JPG",
+        "height": 331,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/02/23/style/24artloans_600.JPG",
+          "xlargeheight": 331
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/02/23/style/24artloans_75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/02/23/style/24artloans_75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "That Old Master? It\u2019s at the Pawnshop",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "That Old Master? It\u2019s Down at the Pawnshop",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Art",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Finances",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Credit",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Pawnbroking",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Leibovitz, Annie",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Economy",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "High Net Worth Individuals",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Personal Finances",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Budgets and Budgeting",
+        "rank": 9,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-02-24T04:00:29+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "section_name": "Art & Design",
+    "byline": {
+      "original": "By ALLEN SALKIN",
+      "person": [
+        {
+          "firstname": "Allen",
+          "middlename": null,
+          "lastname": "SALKIN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5471643a38f0d847c5e42c6d",
+    "word_count": 1558,
+    "score": 1.0,
+    "uri": "nyt://article/ea491597-f752-5551-a46e-123b01a10f1d"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/02/25/business/economy/25econ.html",
+    "snippet": "Ben S. Bernanke walked a line between realism and hope, as home prices and consumer confidence plunged.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/02/24/us/24fed3-600.jpg",
+        "height": 331,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/02/24/us/24fed3-600.jpg",
+          "xlargeheight": 331
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/02/24/us/24fed3-75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/02/24/us/24fed3-75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Fed Chairman Says Recession Will Extend Through the Year",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Fed Chairman Says Recession Will Extend Through the Year",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "United States Economy",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Recession and Depression",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Subprime Mortgage Crisis",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Bernanke, Ben S",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Federal Reserve System",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Nationalization of Industry",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Banks and Banking",
+        "rank": 7,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-02-24T14:17:55+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "section_name": "Economy",
+    "byline": {
+      "original": "By CATHERINE RAMPELL and JACK HEALY",
+      "person": [
+        {
+          "firstname": "Catherine",
+          "middlename": null,
+          "lastname": "RAMPELL",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Jack",
+          "middlename": null,
+          "lastname": "HEALY",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5471684a38f0d847c5e42cc0",
+    "word_count": 1001,
+    "score": 1.0,
+    "uri": "nyt://article/c2dbca0e-70e6-5c70-bb83-9b1bf90e506a"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/02/24/technology/personaltech/24pogue.html",
+    "snippet": "While the changes in the new Kindle are fairly minor, they\u2019re exactly what was needed to turn a very good electronic book reader into an even better one.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/02/24/business/24pogue_600.JPG",
+        "height": 358,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/02/24/business/24pogue_600.JPG",
+          "xlargeheight": 358
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/02/24/business/24pogue_75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/02/24/business/24pogue_75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "The Kindle: Good Before, Better Now",
+      "kicker": "State of the Art",
+      "content_kicker": "State of the Art",
+      "print_headline": "The Kindle: Good Before, Better Now",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Amazon Kindle",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Electronic Books and Readers",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Amazon.com Inc",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "E Ink",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Reading and Writing Skills",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Books and Literature",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Book Trade",
+        "rank": 7,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-02-24T05:00:04+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "section_name": "Personal Tech",
+    "byline": {
+      "original": "By DAVID POGUE",
+      "person": [
+        {
+          "firstname": "David",
+          "middlename": null,
+          "lastname": "POGUE",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "53f5924138f0d87ef470e781",
+    "word_count": 1217,
+    "score": 1.0,
+    "uri": "nyt://article/874d2b2d-a3c0-5a28-865f-85be641481b5"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/02/25/us/25desks.html",
+    "snippet": "Classrooms in Minnesota have become test labs for a new kind of desk that allows students to stand or sit.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/02/25/us/25desks_600.jpg",
+        "height": 363,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/02/25/us/25desks_600.jpg",
+          "xlargeheight": 363
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/02/25/us/25desks-75b.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/02/25/us/25desks-75b.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Students Stand When Called Upon, and When Not",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "They Stand When Called Upon, and When Not",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Education and Schools",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Desks",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Minnesota",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Furniture",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-02-24T23:06:28+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "byline": {
+      "original": "By SUSAN SAULNY",
+      "person": [
+        {
+          "firstname": "Susan",
+          "middlename": null,
+          "lastname": "SAULNY",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5467dacc38f0d81e5cd0cb94",
+    "word_count": 975,
+    "score": 1.0,
+    "uri": "nyt://article/0cc21674-b70d-5cc5-bdfa-bd22d4bfa979"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/02/24/us/politics/24poll.html",
+    "snippet": "Confidence is high regarding President Obama\u2019s leadership, a New York Times/CBS News poll shows.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/02/23/us/24obama_75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/02/23/us/24obama_75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Survey Reveals Broad Support for President",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "SURVEY REVEALS BROAD SUPPORT FOR PRESIDENT",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Obama, Barack",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Polls and Public Opinion",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Politics and Government",
+        "rank": 3,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-02-24T02:47:49+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "section_name": "Politics",
+    "byline": {
+      "original": "By JEFF ZELENY and MEGAN THEE-BRENAN",
+      "person": [
+        {
+          "firstname": "Jeff",
+          "middlename": null,
+          "lastname": "ZELENY",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Megan",
+          "middlename": null,
+          "lastname": "THEE-BRENAN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5467ce5a38f0d81e5cd0ca7d",
+    "word_count": 1072,
+    "score": 1.0,
+    "uri": "nyt://article/34a79e04-4217-57e1-8fff-f3981c0c5ffe"
+  }
+]

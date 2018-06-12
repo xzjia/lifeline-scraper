@@ -1,0 +1,584 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2009/07/20/business/20modify.html",
+    "snippet": "Some of the very people who made a killing in subprime mortgages are now offering loan modifications for desperate homeowners.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/07/20/business/20modify01-75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/07/20/business/20modify01-75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Subprime Brokers Back as Dubious Loan Fixers",
+      "kicker": "Back to Business",
+      "content_kicker": "Back to Business",
+      "print_headline": "Cashing In, Again, on Risky Mortgages",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Foreclosures",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Subprime Mortgage Crisis",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Mortgages",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Suits and Litigation",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Federal Trade Commission",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-07-20T01:29:04+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By PETER S. GOODMAN",
+      "person": [
+        {
+          "firstname": "Peter",
+          "middlename": "S.",
+          "lastname": "GOODMAN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "Series",
+    "_id": "5454297438f0d839202e9b24",
+    "word_count": 2589,
+    "score": 1.0,
+    "uri": "nyt://article/f3422eb0-21bc-5b82-9062-e91ac850bde0"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/07/20/technology/20cell.html",
+    "snippet": "Japanese handset makers\u2019 rush to innovation in the last 15 years has put them so far ahead they can\u2019t find a niche to expand outside their networks.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/07/20/business/20cell01-600.jpg",
+        "height": 320,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/07/20/business/20cell01-600.jpg",
+          "xlargeheight": 320
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Why Japan\u2019s Cellphones Haven\u2019t Gone Global",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Outsmarted",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Japan",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Cellular Telephones",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Smartphones",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Wireless Communications",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-07-20T00:46:58+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By HIROKO TABUCHI",
+      "person": [
+        {
+          "firstname": "Hiroko",
+          "middlename": null,
+          "lastname": "TABUCHI",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5454281838f0d839202e9b04",
+    "word_count": 990,
+    "score": 1.0,
+    "uri": "nyt://article/e51bf358-117d-5d96-8877-82a5292c01f7"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/07/20/education/20schools.html",
+    "snippet": "As classrooms grow more crowded, New York public schools have been told to stop independently hiring teaching assistants with money raised by parents.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "Parent-Paid Aides Ordered Out of New York City Schools",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Parent-Paid Aides Ordered Out of City Schools",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "organizations",
+        "value": "Education Department (NYC)",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Teachers and School Employees",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Education and Schools",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Parenting",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Labor",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "New York City",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Klein, Joel I",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "United Federation of Teachers",
+        "rank": 8,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-07-20T02:48:24+0000",
+    "document_type": "article",
+    "new_desk": "Metro",
+    "byline": {
+      "original": "By WINNIE HU",
+      "person": [
+        {
+          "firstname": "Winnie",
+          "middlename": null,
+          "lastname": "HU",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5454293538f0d839202e9b1e",
+    "word_count": 1176,
+    "score": 1.0,
+    "uri": "nyt://article/43065c5f-3abf-593f-89a2-c6ebc1f458af"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/07/21/health/21canc.html",
+    "snippet": "There is a growing push for cancer therapy even when it is not urgent.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/07/21/science/21cancer-600.jpg",
+        "height": 360,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/07/21/science/21cancer-600.jpg",
+          "xlargeheight": 360
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/07/21/science/21cancer-75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/07/21/science/21cancer-75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Considering Longer Chemotherapy",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Considering Longer Chemotherapy",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Chemotherapy",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Cancer",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Drugs (Pharmaceuticals)",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Medicine and Health",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Tumors",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Tests and Testing",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-07-20T19:53:09+0000",
+    "document_type": "article",
+    "new_desk": "Science",
+    "byline": {
+      "original": "By ANDREW POLLACK",
+      "person": [
+        {
+          "firstname": "Andrew",
+          "middlename": null,
+          "lastname": "POLLACK",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "54542e0338f0d839202e9b87",
+    "word_count": 1544,
+    "score": 1.0,
+    "uri": "nyt://article/60cb6463-6d4a-5fde-9afa-2971b8afd65e"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/07/20/business/media/20espn.html",
+    "snippet": "After a successful test run in Chicago, ESPN is planning to launch local sports Web sites in three additional cities.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/07/20/business/20espn01-600.jpg",
+        "height": 320,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/07/20/business/20espn01-600.jpg",
+          "xlargeheight": 320
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/07/20/business/20espn01-75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/07/20/business/20espn01-75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Across U.S., ESPN Aims to Be the Home Team",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Adding to Sites, ESPN Worries Home Teams",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "organizations",
+        "value": "ESPN",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Computers and the Internet",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Television",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "News and News Media",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-07-20T01:22:28+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "section_name": "Media",
+    "byline": {
+      "original": "By BROOKS BARNES",
+      "person": [
+        {
+          "firstname": "Brooks",
+          "middlename": null,
+          "lastname": "BARNES",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "545428cd38f0d839202e9b14",
+    "word_count": 1165,
+    "score": 1.0,
+    "uri": "nyt://article/d8f4c43b-c361-58c8-b1fb-0c17faf6e313"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/07/20/world/asia/20detain.html",
+    "snippet": "A plan to overhaul the troubled U.S.-run prison at Bagram Air Base and other facilities was prompted by worries about militant recruiting in the prisons.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/07/20/world/20detain.600.jpg",
+        "height": 360,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/07/20/world/20detain.600.jpg",
+          "xlargeheight": 360
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Pentagon Seeks to Overhaul Prisons in Afghanistan",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "PENTAGON SEEKS PRISON OVERHAUL IN AFGHANISTAN",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Bagram Air Base (Afghanistan)",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Afghanistan",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Afghanistan War (2001- )",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Detainees",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Defense and Military Forces",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Mullen, Michael G",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-07-20T00:42:13+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Asia Pacific",
+    "byline": {
+      "original": "By ERIC SCHMITT",
+      "person": [
+        {
+          "firstname": "Eric",
+          "middlename": null,
+          "lastname": "SCHMITT",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5454285c38f0d839202e9b0a",
+    "word_count": 1161,
+    "score": 1.0,
+    "uri": "nyt://article/d7adccc4-aef8-5c1b-9337-c5625301e552"
+  }
+]

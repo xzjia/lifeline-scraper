@@ -1,0 +1,306 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2010/11/14/world/asia/14myanmar.html",
+    "snippet": "Daw Aung San Suu Kyi, a Nobel Peace laureate who was confined 15 of the last 21 years, was freed from house arrest.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/11/14/world/SUB2-MYANMAR/SUB2-MYANMAR-articleLarge.jpg",
+        "height": 330,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2010/11/14/world/SUB2-MYANMAR/SUB2-MYANMAR-articleLarge.jpg",
+          "xlargeheight": 330
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/11/14/world/SUB2-MYANMAR/SUB2-MYANMAR-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/11/14/world/SUB2-MYANMAR/SUB2-MYANMAR-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Burmese Dissident Is Freed After Long Detention",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "MYANMAR JUNTA FREES DISSIDENT; CROWDS GATHER",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Aung San Suu Kyi, Daw",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Myanmar",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Human Rights and Human Rights Violations",
+        "rank": 3,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-11-13T12:31:18+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Asia Pacific",
+    "byline": {
+      "original": "By THE NEW YORK TIMES",
+      "person": [],
+      "organization": "The New York Times"
+    },
+    "type_of_material": "News",
+    "_id": "54209f0838f0d81f7a600564",
+    "word_count": 1348,
+    "score": 1.0,
+    "uri": "nyt://article/4e9c340f-e1cf-5fd1-92db-3199dc9dceb8"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2010/11/13/business/13missing.html",
+    "snippet": "Privacy laws prevent the I.R.S. from disclosing data that could be helpful in finding missing children.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/11/13/business/MISSING/MISSING-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/11/13/business/MISSING/MISSING-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "I.R.S. Sits on Data Pointing to Missing Children",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "I.R.S. Sits on Data Pointing to Missing Children",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Missing Persons",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Kidnapping",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "National Center for Missing and Exploited Children",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Privacy",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Internal Revenue Service",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Children and Youth",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-11-13T02:13:28+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By DAVID KOCIENIEWSKI",
+      "person": [
+        {
+          "firstname": "David",
+          "middlename": null,
+          "lastname": "KOCIENIEWSKI",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "54209c2038f0d81f7a60051f",
+    "word_count": 1290,
+    "score": 1.0,
+    "uri": "nyt://article/3aebf085-92c0-5a0d-87a6-2d64c9a0cc31"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2010/11/14/business/global/14smoke.html",
+    "snippet": "Tobacco companies are stepping up efforts around the world to fight tough restrictions on the marketing of cigarettes.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/11/14/business/14smoke-span/14smoke-span-articleLarge.jpg",
+        "height": 387,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2010/11/14/business/14smoke-span/14smoke-span-articleLarge.jpg",
+          "xlargeheight": 387
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/11/14/business/14smoke-span/14smoke-span-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/11/14/business/14smoke-span/14smoke-span-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Cigarette Giants in Global Fight on Tighter Rules",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Cigarette Giants In a Global Fight On Tighter Rules",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Smoking and Tobacco",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Regulation and Deregulation of Industry",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Advertising and Marketing",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Philip Morris Companies Inc",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "World Health Organization",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "British American Tobacco",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Third World and Developing Countries",
+        "rank": 7,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-11-13T18:41:08+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "section_name": "Global Business",
+    "byline": {
+      "original": "By DUFF WILSON",
+      "person": [
+        {
+          "firstname": "Duff",
+          "middlename": null,
+          "lastname": "WILSON",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5420a03838f0d81f7a60057e",
+    "word_count": 1281,
+    "score": 1.0,
+    "uri": "nyt://article/897228e5-bca5-5dc9-8c6a-969f43fd1449"
+  }
+]

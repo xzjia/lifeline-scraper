@@ -1,0 +1,614 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2011/05/02/world/asia/osama-bin-laden-is-killed.html",
+    "snippet": "President Obama said Osama bin Laden had been killed in a firefight during a \u201ctargeted operation\u201d that Mr. Obama ordered in Pakistan. He was later buried at sea.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/05/02/us/02obama2_span/02obama2_span-articleLarge-v2.jpg",
+        "height": 350,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2011/05/02/us/02obama2_span/02obama2_span-articleLarge-v2.jpg",
+          "xlargeheight": 350
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/05/02/us/02obama2_span/02obama2_span-thumbStandard-v2.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/05/02/us/02obama2_span/02obama2_span-thumbStandard-v2.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Bin Laden Is Dead, Obama Says",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Obama Says Bin Laden Killed in Operation Inside Pakistan",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "bin Laden, Osama",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Al Qaeda",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Terrorism",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Defense and Military Forces",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Pakistan",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Abbottabad (Pakistan)",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-05-02T02:44:00+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Asia Pacific",
+    "byline": {
+      "original": "By PETER BAKER, HELENE COOPER and MARK MAZZETTI",
+      "person": [
+        {
+          "firstname": "Peter",
+          "middlename": null,
+          "lastname": "BAKER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Helene",
+          "middlename": null,
+          "lastname": "COOPER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        },
+        {
+          "firstname": "Mark",
+          "middlename": null,
+          "lastname": "MAZZETTI",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 3
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "52b8d36e38f0d86bcb2a70d0",
+    "word_count": 2136,
+    "score": 1.0,
+    "uri": "nyt://article/2b1865b2-2029-5fb4-a9ea-a581f0891975"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/05/03/us/03levee.html",
+    "snippet": "With the Ohio River rising, officials blew a gap in a levee, sending 550,000 cubic feet of water a second across 130,000 acres of farmland to try to save one Illinois town from flooding.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/05/03/us/jp-LEVEE/jp-LEVEE-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/05/03/us/jp-LEVEE/jp-LEVEE-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Army Corps Blows Up Missouri Levee",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "A Life\u2019s Toil Along the Big River, Lost as It Rises",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Ohio River",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Levees and Dams",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Army Corps of Engineers",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Floods",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Missouri",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Farmers",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Illinois",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Mississippi River",
+        "rank": 8,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-05-02T15:20:45+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "byline": {
+      "original": "By A. G. SULZBERGER",
+      "person": [
+        {
+          "firstname": "A.",
+          "middlename": "G.",
+          "lastname": "SULZBERGER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "540d58aa38f0d85bf25156df",
+    "word_count": 1244,
+    "score": 1.0,
+    "uri": "nyt://article/1e8ccdbe-2963-5a05-85e5-41cc55a00625"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/05/02/business/02silver.html",
+    "snippet": "With gold and now silver prices high, consumers are unearthing ancient stashes to sell or pawn.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "With Silver Soaring, Attics Give Up Small Fortunes",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "With Silver Soaring, Attics Give Up Small Fortunes",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Metals and Minerals",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Silver",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Prices (Fares, Fees and Rates)",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Gold",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-05-02T02:59:38+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By STEPHANIE CLIFFORD",
+      "person": [
+        {
+          "firstname": "Stephanie",
+          "middlename": null,
+          "lastname": "CLIFFORD",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "540d55c838f0d85bf25156ad",
+    "word_count": 1082,
+    "score": 1.0,
+    "uri": "nyt://article/3dcf9b16-7f80-5ae4-b32d-6178583abcdb"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/05/03/science/03firewalker.html",
+    "snippet": "A study of fire-walking found that the heart rates of relatives were synchronized with those of the walker.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/05/03/science/03firewalkspan/03firewalkspan-articleLarge.jpg",
+        "height": 330,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2011/05/03/science/03firewalkspan/03firewalkspan-articleLarge.jpg",
+          "xlargeheight": 330
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/05/03/science/03firewalkspan/03firewalkspan-thumbStandard-v2.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/05/03/science/03firewalkspan/03firewalkspan-thumbStandard-v2.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Hearts Beat as One in a Daring Ritual",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Hearts Beat as One in a Daring Ritual",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Research",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Psychology and Psychologists",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Spain",
+        "rank": 3,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-05-02T20:13:40+0000",
+    "document_type": "article",
+    "new_desk": "Science",
+    "byline": {
+      "original": "By PAM BELLUCK",
+      "person": [
+        {
+          "firstname": "Pam",
+          "middlename": null,
+          "lastname": "BELLUCK",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "540d589a38f0d85bf25156de",
+    "word_count": 873,
+    "score": 1.0,
+    "uri": "nyt://article/92db4f5d-bd21-5581-963c-aed94ce4f7f1"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/05/03/science/03angier.html",
+    "snippet": "Researchers lately have learned that serotonin plays an impressive number of critical roles throughout the body.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/05/03/science/03angier/03angier-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/05/03/science/03angier/03angier-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Job Description Grows for Our Utility Hormone",
+      "kicker": "Basics",
+      "content_kicker": "Basics",
+      "print_headline": "Job Description Grows For Our Utility Hormone",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Serotonin (Chemical)",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Brain",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Depression (Mental)",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Research",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Science and Technology",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-05-02T22:05:26+0000",
+    "document_type": "article",
+    "new_desk": "Science",
+    "byline": {
+      "original": "By NATALIE ANGIER",
+      "person": [
+        {
+          "firstname": "Natalie",
+          "middlename": null,
+          "lastname": "ANGIER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "540d5c3438f0d85bf251571d",
+    "word_count": 1487,
+    "score": 1.0,
+    "uri": "nyt://article/2e147d09-e743-58f7-8919-16e9dc0d0ad8"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/05/02/sports/02pacquiao.html",
+    "snippet": "Manny Pacquiao\u2019s style \u2014 part performance art, part technical wizardry, unique to Pacquiao \u2014 started with a videotape of the martial arts legend.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/05/02/sports/YJPPACQUIAO1/YJPPACQUIAO1-articleLarge.jpg",
+        "height": 353,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2011/05/02/sports/YJPPACQUIAO1/YJPPACQUIAO1-articleLarge.jpg",
+          "xlargeheight": 353
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/05/02/sports/YJPPACQUIAO1/YJPPACQUIAO1-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/05/02/sports/YJPPACQUIAO1/YJPPACQUIAO1-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Pacquiao\u2019s Style Takes Inspiration From Bruce Lee",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "ENTER THE EMULATOR",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Boxing",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Pacquiao, Manny",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Lee, Bruce",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Exercise",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Mosley, Shane",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Roach, Freddie",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-05-02T00:19:29+0000",
+    "document_type": "article",
+    "new_desk": "Sports",
+    "byline": {
+      "original": "By GREG BISHOP",
+      "person": [
+        {
+          "firstname": "Greg",
+          "middlename": null,
+          "lastname": "BISHOP",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "540d54be38f0d85bf251569e",
+    "word_count": 1330,
+    "score": 1.0,
+    "uri": "nyt://article/5bf5c8d2-d707-5ae5-877b-e795b0ba0bd6"
+  }
+]

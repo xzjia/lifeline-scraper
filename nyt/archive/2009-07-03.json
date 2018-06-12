@@ -1,0 +1,328 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2009/07/03/us/03immig.html",
+    "snippet": "The White House is replacing workplace raids and roundups of workers by immigration authorities with a less confrontational approach to employers such as American Apparel.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/07/03/us/03immig600new.jpg",
+        "height": 356,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/07/03/us/03immig600new.jpg",
+          "xlargeheight": 356
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/07/03/us/03immig2_75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/07/03/us/03immig2_75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "U.S. Shifts Strategy on Illicit Work by Immigrants",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "A New Strategy On Illicit Work By Immigrants",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Illegal Immigrants",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Politics and Government",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Charney, Dov",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "American Apparel",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Obama, Barack",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Immigration and Customs Enforcement (US)",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Homeland Security Department",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Los Angeles (Calif)",
+        "rank": 8,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-07-03T02:15:24+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "byline": {
+      "original": "By JULIA PRESTON",
+      "person": [
+        {
+          "firstname": "Julia",
+          "middlename": null,
+          "lastname": "PRESTON",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5453985438f0d81b603ee347",
+    "word_count": 1109,
+    "score": 1.0,
+    "uri": "nyt://article/5dec9aba-04b8-5495-81a6-150829a4920b"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/07/03/world/europe/03russia.html",
+    "snippet": "Using carrots and sticks, Russia has tried to win over its ex-Soviet neighbors, but they often have other ideas.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "Russia\u2019s Neighbors Resist Wooing and Bullying",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Russia\u2019s Neighbors Resist Wooing and Bullying",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Russia",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "International Relations",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Belarus",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Uzbekistan",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Turkmenistan",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Armenia",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Georgia (Georgian Republic)",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Kyrgyzstan",
+        "rank": 8,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-07-03T02:20:56+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Europe",
+    "byline": {
+      "original": "By ELLEN BARRY",
+      "person": [
+        {
+          "firstname": "Ellen",
+          "middlename": null,
+          "lastname": "BARRY",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5453953e38f0d81b603ee2fd",
+    "word_count": 1122,
+    "score": 1.0,
+    "uri": "nyt://article/9dc6a225-7a81-55dd-86ff-936438bc2c47"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/07/05/fashion/05summer.html",
+    "snippet": "A generation used to summer internships and trips to Italy faces long, hot days learning to kick back.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/07/05/fashion/summer_600.113.jpg",
+        "height": 338,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/07/05/fashion/summer_600.113.jpg",
+          "xlargeheight": 338
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/07/05/fashion/summer.75755.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/07/05/fashion/summer.75755.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Say Hello to Underachieving",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Say Hello to Underachieving",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Internships",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Economy",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Colleges and Universities",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Boredom",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Labor",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-07-03T01:17:45+0000",
+    "document_type": "article",
+    "new_desk": "Styles",
+    "byline": {
+      "original": "By ALEX WILLIAMS",
+      "person": [
+        {
+          "firstname": "Alex",
+          "middlename": null,
+          "lastname": "WILLIAMS",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5453929338f0d81b603ee2c1",
+    "word_count": 1689,
+    "score": 1.0,
+    "uri": "nyt://article/8396872d-b385-5ab9-a801-b70a378f0f16"
+  }
+]

@@ -1,0 +1,678 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2009/08/20/technology/personaltech/20pogue.html",
+    "snippet": "New cameras from Sony and Fujifilm come with redesigned sensors that mark an important step forward in personal photography.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/08/20/technology/personaltech/20pogue.600.jpg",
+        "height": 300,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/08/20/technology/personaltech/20pogue.600.jpg",
+          "xlargeheight": 300
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/08/20/technology/personaltech/20pogue.75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/08/20/technology/personaltech/20pogue.75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Low Light Becomes a Highlight",
+      "kicker": "State of the Art",
+      "content_kicker": "State of the Art",
+      "print_headline": "Low Light Becomes A Highlight",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Cameras",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Computers and the Internet",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "SONY Corporation",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Canon Inc",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-08-19T19:34:55+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "section_name": "Personal Tech",
+    "byline": {
+      "original": "By DAVID POGUE",
+      "person": [
+        {
+          "firstname": "David",
+          "middlename": null,
+          "lastname": "POGUE",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "53f572fc38f0d87ef470e4d7",
+    "word_count": 1324,
+    "score": 1.0,
+    "uri": "nyt://article/b19867be-4fe8-5f5a-8f47-13602bc260d7"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/08/19/health/research/19ethics.html",
+    "snippet": "Pressure from Washington may force changes in drug companies\u2019 involvement with research papers.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/08/18/business/19ethics_600.jpg",
+        "height": 283,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/08/18/business/19ethics_600.jpg",
+          "xlargeheight": 283
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/08/18/business/19ethics_75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/08/18/business/19ethics_75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Senator Moves to Block Medical Ghostwriting",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Ghosts in the Journals",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Doctors",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Ghostwriting",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Ethics",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "National Institutes of Health",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Drugs (Pharmaceuticals)",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Medicine and Health",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Grassley, Charles E",
+        "rank": 7,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-08-19T02:10:01+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "section_name": "Research",
+    "byline": {
+      "original": "By NATASHA SINGER",
+      "person": [
+        {
+          "firstname": "Natasha",
+          "middlename": null,
+          "lastname": "SINGER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5455370a38f0d84a08fb1cbf",
+    "word_count": 1428,
+    "score": 1.0,
+    "uri": "nyt://article/070c5652-b343-502b-b317-d86a276b1ec4"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/08/19/business/19appraise.html",
+    "snippet": "A change meant to curb conflicts of interest may have opened new problems in the real estate industry.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/08/18/business/19appraise_600.jpg",
+        "height": 331,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/08/18/business/19appraise_600.jpg",
+          "xlargeheight": 331
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/08/18/business/19appraise_75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/08/18/business/19appraise_75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "In Appraisal Shift, Lenders Gain Power and Critics",
+      "kicker": "Back to Business",
+      "content_kicker": "Back to Business",
+      "print_headline": "Appraisal Shift Gives Lenders More Power, and Draws Critics",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Appraisals and Valuation",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Housing and Real Estate",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Law and Legislation",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Real Estate Brokers",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Regulation and Deregulation of Industry",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Mortgage Bankers Assn of America",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Cuomo, Andrew M",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Conflicts of Interest",
+        "rank": 8,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-08-19T01:50:44+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By DAVID STREITFELD",
+      "person": [
+        {
+          "firstname": "David",
+          "middlename": null,
+          "lastname": "STREITFELD",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "Series",
+    "_id": "545536d738f0d84a08fb1cbb",
+    "word_count": 1841,
+    "score": 1.0,
+    "uri": "nyt://article/8e320fc9-a753-5a12-bb5e-0ea140f7f1b6"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/08/20/business/global/20ubs.html",
+    "snippet": "U.S. regulators will receive the names as part of an investigation of Americans avoiding taxes through the use of offshore accounts.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/08/20/business/global/20ubs600.jpg",
+        "height": 343,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/08/20/business/global/20ubs600.jpg",
+          "xlargeheight": 343
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Names Deal Cracks Swiss Bank Secrecy",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Deal on Names Cracks Secrecy At Swiss Banks",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "organizations",
+        "value": "UBS AG",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Justice Department",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Internal Revenue Service",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Switzerland",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Tax Evasion",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Banks and Banking",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-08-19T14:06:54+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "section_name": "Global Business",
+    "byline": {
+      "original": "By LYNNLEY BROWNING",
+      "person": [
+        {
+          "firstname": "Lynnley",
+          "middlename": null,
+          "lastname": "BROWNING",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "545538cb38f0d84a08fb1ce9",
+    "word_count": 1111,
+    "score": 1.0,
+    "uri": "nyt://article/a3f5db8e-5df8-54e5-b395-3fdfcc9e31b1"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/08/19/us/19terror.html",
+    "snippet": "Some counterterrorism specialists question the value of threat squads that vet thousands of tips but find few leads.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/08/19/us/19terror_600.jpg",
+        "height": 331,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/08/19/us/19terror_600.jpg",
+          "xlargeheight": 331
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/08/19/us/19terror_75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/08/19/us/19terror_75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "F.B.I. Agents\u2019 Role Is Transformed by Terror Fight",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "F.B.I. Agents\u2019 Role Is Transformed By Terror Fight",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Terrorism",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Federal Bureau of Investigation",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Threats and Threatening Messages",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Los Angeles (Calif)",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Security and Warning Systems",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-08-19T01:45:13+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "byline": {
+      "original": "By ERIC SCHMITT",
+      "person": [
+        {
+          "firstname": "Eric",
+          "middlename": null,
+          "lastname": "SCHMITT",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5455374938f0d84a08fb1cc5",
+    "word_count": 1186,
+    "score": 1.0,
+    "uri": "nyt://article/507827e8-7c56-5448-a3d2-b5e7395abed0"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/08/20/garden/20decorators.html",
+    "snippet": "The recession has prompted a makeover for interior designers, who must find a way to make design more accessible and less expensive for their customers.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/08/19/garden/20deco600.1.jpg",
+        "height": 331,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/08/19/garden/20deco600.1.jpg",
+          "xlargeheight": 331
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/08/19/garden/20deco75.1.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/08/19/garden/20deco75.1.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Renovating an Industry",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Renovating an Industry",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Interior Design",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Shopping and Retail",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Recession and Depression",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Luxury Goods",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Home Furnishings",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Budgets and Budgeting",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "American Society of Interior Designers",
+        "rank": 7,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-08-19T22:45:09+0000",
+    "document_type": "article",
+    "new_desk": "Home",
+    "byline": {
+      "original": "By KIMBERLY STEVENS",
+      "person": [
+        {
+          "firstname": "Kimberly",
+          "middlename": null,
+          "lastname": "STEVENS",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "54553c5b38f0d84a08fb1d3c",
+    "word_count": 1542,
+    "score": 1.0,
+    "uri": "nyt://article/97ddc88e-e359-5e81-9629-180bcbcc8a31"
+  }
+]

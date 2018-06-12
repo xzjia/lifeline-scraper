@@ -1,0 +1,133 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2014/10/13/us/texas-health-worker-tests-positive-for-ebola.html",
+    "snippet": "Officials were trying to figure out how a nurse who had treated Thomas Eric Duncan became infected despite wearing protective gear, as news of the new infection stoked the fears of health care workers across the country.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2014/10/13/us/13EBOLA-3/13EBOLA-3-articleLarge.jpg",
+        "height": 400,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2014/10/13/us/13EBOLA-3/13EBOLA-3-articleLarge.jpg",
+          "xlargeheight": 400
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2014/10/13/us/13EBOLA-3/13EBOLA-3-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2014/10/13/us/13EBOLA-3/13EBOLA-3-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2014/10/13/us/13EBOLA-3/13EBOLA-3-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2014/10/13/us/13EBOLA-3/13EBOLA-3-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "2nd Ebola Case in U.S. Stokes Fears of Health Care Workers",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Dallas Nurse Contracts Ebola Virus, Elevating Response and Anxiety",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Ebola Virus",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Texas Health Presbyterian Hospital",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Dallas (Tex)",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Nursing and Nurses",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Tests (Medical)",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Epidemics",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2014-10-12T10:54:20+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "byline": {
+      "original": "By MANNY FERNANDEZ",
+      "person": [
+        {
+          "firstname": "Manny",
+          "middlename": null,
+          "lastname": "FERNANDEZ",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "543a5ddf38f0d81c57108d9f",
+    "word_count": 1688,
+    "score": 1.0,
+    "uri": "nyt://article/7ed81b74-088d-5223-bff4-2dc8f30e94f3"
+  }
+]

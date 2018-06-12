@@ -1,0 +1,110 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2012/11/25/travel/virginias-lost-history.html",
+    "snippet": "In the Northern Neck, history mingles with undulating landscapes, dramatic riverside cliffs and bald eagles, but miraculously few tourists.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/11/25/travel/25VIRGINIA_SPAN/25VIRGINIA-articleLarge.jpg",
+        "height": 400,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2012/11/25/travel/25VIRGINIA_SPAN/25VIRGINIA-articleLarge.jpg",
+          "xlargeheight": 400
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/11/25/travel/25VIRGINIA_SPAN/25VIRGINIA-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2012/11/25/travel/25VIRGINIA_SPAN/25VIRGINIA-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Virginia\u2019s Lost History",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Virginia\u2019s Lost History",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Historic Buildings and Sites",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Lee, Robert E",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Washington, George",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Virginia",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Travel and Vacations",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2012-11-22T18:41:16+0000",
+    "document_type": "article",
+    "new_desk": "Travel",
+    "byline": {
+      "original": "By GUY TREBAY",
+      "person": [
+        {
+          "firstname": "Guy",
+          "middlename": null,
+          "lastname": "TREBAY",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "50b507c600315214fbb7c377",
+    "word_count": 3199,
+    "score": 1.0,
+    "uri": "nyt://article/1387b653-6d28-57f2-a38c-3d5457d8dbfd"
+  }
+]

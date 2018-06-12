@@ -1,0 +1,123 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2011/03/31/us/politics/31giffords.html",
+    "snippet": "Some aides suggest Representative Gabrielle Giffords might recover in time to seek a seat made available by Jon Kyl\u2019s retirement.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/03/31/us/jp-GIFFORDS-1/jp-GIFFORDS-1-articleLarge.jpg",
+        "height": 315,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2011/03/31/us/jp-GIFFORDS-1/jp-GIFFORDS-1-articleLarge.jpg",
+          "xlargeheight": 315
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/03/31/us/jp-GIFFORDS-1/jp-GIFFORDS-1-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/03/31/us/jp-GIFFORDS-1/jp-GIFFORDS-1-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "An Arizona Senate Race Waits to See if Giffords Emerges to Run",
+      "kicker": "Political Memo",
+      "content_kicker": "Political Memo",
+      "print_headline": "A Senate Race in Arizona Waits To See if Giffords Emerges to Run",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Giffords, Gabrielle",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Tucson Shooting (2011)",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Politics and Government",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Elections",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Kyl, Jon Llewellyn",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Tucson (Ariz)",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Arizona",
+        "rank": 7,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-03-31T02:21:35+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "section_name": "Politics",
+    "byline": {
+      "original": "By MARC LACEY",
+      "person": [
+        {
+          "firstname": "Marc",
+          "middlename": null,
+          "lastname": "LACEY",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "540c499a38f0d85e13e4d21d",
+    "word_count": 1371,
+    "score": 1.0,
+    "uri": "nyt://article/849f7e27-8221-5c1f-80a9-90ea49e20bf2"
+  }
+]

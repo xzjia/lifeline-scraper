@@ -1,0 +1,784 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2012/09/22/world/middleeast/iranian-opposition-group-mek-wins-removal-from-us-terrorist-list.html",
+    "snippet": "The Mujahedeen Khalq, an opposition group that mounted an extraordinary campaign to get off the State Department\u2019s list of terrorist organizations, has succeeded, officials said.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "Iranian Dissidents Convince U.S. to Drop Terror Label",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Star Lobbyists Help Iran Group Escape Shadow",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Iran",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Mujahedeen Khalq",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Terrorism",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "State Department",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States International Relations",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Clinton, Hillary Rodham",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2012-09-21T17:40:57+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Middle East",
+    "byline": {
+      "original": "By SCOTT SHANE",
+      "person": [
+        {
+          "firstname": "Scott",
+          "middlename": null,
+          "lastname": "SHANE",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "505ca9111c22dfde670ca293",
+    "word_count": 1200,
+    "score": 1.0,
+    "uri": "nyt://article/d24287f3-df03-5076-a40f-e9c10e67ede9"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2012/09/22/technology/facebook-backs-down-on-face-recognition-in-europe.html",
+    "snippet": "The company\u2019s agreement with European regulators to discontinue an automated photo-tagging feature presents a new obstacle over what to do with one of its most vital assets: pictures.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/09/22/technology/22facebook-pic/22facebook-pic-articleLarge.jpg",
+        "height": 370,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2012/09/22/technology/22facebook-pic/22facebook-pic-articleLarge.jpg",
+          "xlargeheight": 370
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/09/22/technology/22facebook-pic/22facebook-pic-thumbStandard-v2.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2012/09/22/technology/22facebook-pic/22facebook-pic-thumbStandard-v2.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Facebook Can ID Faces, but Using Them Grows Tricky",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Yes, Facebook Can ID Faces, But Using Them Grows Tricky",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Privacy",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Facebook Inc",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Computer Vision",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "European Commission",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Social Networking (Internet)",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Photography",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Regulation and Deregulation of Industry",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Europe",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Data-Mining and Database Marketing",
+        "rank": 9,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Identification Devices",
+        "rank": 10,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Face",
+        "rank": 11,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2012-09-21T18:43:11+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By SOMINI SENGUPTA and KEVIN J. O'BRIEN",
+      "person": [
+        {
+          "firstname": "Somini",
+          "middlename": null,
+          "lastname": "SENGUPTA",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Kevin",
+          "middlename": "J.",
+          "lastname": "O'BRIEN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "59381ffe7c459f24986e4153",
+    "word_count": 941,
+    "score": 1.0,
+    "uri": "nyt://article/3e513bb3-d1e1-5f2d-9aff-59a654fb5a5b"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2012/09/21/us/politics/romney-faces-an-uphill-fight-to-win-at-polls.html",
+    "snippet": "There are 46 days left in this presidential race for Mitt Romney to change the dynamic of a campaign that by many indicators is tilting against him.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/09/21/us/ELECT1/ELECT1-articleLarge.jpg",
+        "height": 340,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2012/09/21/us/ELECT1/ELECT1-articleLarge.jpg",
+          "xlargeheight": 340
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/09/21/us/ELECT1/ELECT1-thumbStandard-v2.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2012/09/21/us/ELECT1/ELECT1-thumbStandard-v2.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Before Debates, Romney Faces a Daunting Path",
+      "kicker": "Political Memo",
+      "content_kicker": "Political Memo",
+      "print_headline": "Daunting Path Greets Romney Before Debates",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Presidential Election of 2012",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Romney, Mitt",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Obama, Barack",
+        "rank": 3,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2012-09-21T02:06:25+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "section_name": "Politics",
+    "byline": {
+      "original": "By JEFF ZELENY and JIM RUTENBERG",
+      "person": [
+        {
+          "firstname": "Jeff",
+          "middlename": null,
+          "lastname": "ZELENY",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Jim",
+          "middlename": null,
+          "lastname": "RUTENBERG",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "505bcc3d1c22dfde670ca056",
+    "word_count": 1287,
+    "score": 1.0,
+    "uri": "nyt://article/b27b2132-e6bb-5a4f-bbfe-f3e26d1f663a"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2012/09/23/realestate/living-large-in-tiny-spaces.html",
+    "snippet": "New York City will soon choose an architect to design micro-units of under 300 square feet. That may sound small, but many New Yorkers already live quite contentedly in cubbyholes.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/09/23/realestate/23COVER1_SPAN/23-COVER1-articleLarge.jpg",
+        "height": 370,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2012/09/23/realestate/23COVER1_SPAN/23-COVER1-articleLarge.jpg",
+          "xlargeheight": 370
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/09/23/realestate/23COVER1_SPAN/23-COVER1-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2012/09/23/realestate/23COVER1_SPAN/23-COVER1-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Shrink to Fit",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Shrink to Fit",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Real Estate and Housing (Residential)",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Interior Design and Furnishings",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "New York City",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Population",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2012-09-21T15:10:52+0000",
+    "document_type": "article",
+    "new_desk": "RealEstate",
+    "byline": {
+      "original": "By JAN HOFFMAN",
+      "person": [
+        {
+          "firstname": "Jan",
+          "middlename": null,
+          "lastname": "HOFFMAN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "505c84271c22dfde670ca1f1",
+    "word_count": 1960,
+    "score": 1.0,
+    "uri": "nyt://article/c074d412-97ed-5f18-b2be-77f4ff0e5f79"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2012/09/23/travel/fleeced-by-fees-when-you-travel.html",
+    "snippet": "That newspaper at your hotel door? That blanket on the plane? The chair at the beach? They could cost you, whether you know it or not. And it adds up.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/09/23/travel/23GETAWAY_SPAN/23GETAWAY_SPAN-articleLarge.jpg",
+        "height": 425,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2012/09/23/travel/23GETAWAY_SPAN/23GETAWAY_SPAN-articleLarge.jpg",
+          "xlargeheight": 425
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/09/23/travel/23GETAWAY_SPAN/23GETAWAY_SPAN-thumbStandard-v2.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2012/09/23/travel/23GETAWAY_SPAN/23GETAWAY_SPAN-thumbStandard-v2.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Fleeced by Fees When You Travel?",
+      "kicker": "The Getaway",
+      "content_kicker": "The Getaway",
+      "print_headline": "Fleeced by Fees?",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Travel and Vacations",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Prices (Fares, Fees and Rates)",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Airlines and Airplanes",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Hotels and Motels",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Budget Travel",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2012-09-21T17:17:52+0000",
+    "document_type": "article",
+    "new_desk": "Travel",
+    "byline": {
+      "original": "By STEPHANIE ROSENBLOOM",
+      "person": [
+        {
+          "firstname": "Stephanie",
+          "middlename": null,
+          "lastname": "ROSENBLOOM",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "505ca2511c22dfde670ca276",
+    "word_count": 2456,
+    "score": 1.0,
+    "uri": "nyt://article/be95df4d-ed6f-5720-b420-66c9b961cb77"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2012/09/22/us/at-the-track-racing-economics-collide-with-veterinarians-oath.html",
+    "snippet": "Horse-racing veterinarians are both doctor and drugstore; the more drugs they prescribe, the more money they make.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/09/22/us/SUB-JP-HORSES-4/SUB-JP-HORSES-4-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2012/09/22/us/SUB-JP-HORSES-4/SUB-JP-HORSES-4-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/09/22/us/SUB-JP-HORSES-4/SUB-JP-HORSES-4-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2012/09/22/us/SUB-JP-HORSES-4/SUB-JP-HORSES-4-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "At the Track, Racing Economics Collide With Veterinarians\u2019 Oath",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "At Racetrack, Economic Pressures Overpower Veterinarians\u2019 Oath",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Horse Racing",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Horses",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Doping (Sports)",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Veterinary Medicine",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Series",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2012-09-21T23:56:19+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "byline": {
+      "original": "By WALT BOGDANICH, JOE DRAPE and REBECCA R. RUIZ",
+      "person": [
+        {
+          "firstname": "Walt",
+          "middlename": null,
+          "lastname": "BOGDANICH",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Joe",
+          "middlename": null,
+          "lastname": "DRAPE",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        },
+        {
+          "firstname": "Rebecca",
+          "middlename": "R.",
+          "lastname": "RUIZ",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 3
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "505cfec71c22dfde670ca41b",
+    "word_count": 3840,
+    "score": 1.0,
+    "uri": "nyt://article/598a46c1-75d9-5894-a12b-fd754aa21566"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2012/09/21/us/life-expectancy-for-less-educated-whites-in-us-is-shrinking.html",
+    "snippet": "A long rise in Americans\u2019 life spans has reversed itself for white people who lack high school diplomas, an increasingly troubled group that has lost four years of life expectancy since 1990.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/09/21/us/JP-WHITES/JP-WHITES-thumbStandard-v2.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2012/09/21/us/JP-WHITES/JP-WHITES-thumbStandard-v2.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Life Spans Shrink for Least-Educated Whites in the U.S.",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Reversing Trend, Life Span Shrinks for Some Whites",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Longevity",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Population",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "United States",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Health Affairs (Journal)",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Women and Girls",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Research",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Education (K-12)",
+        "rank": 7,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2012-09-21T02:50:44+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "byline": {
+      "original": "By SABRINA TAVERNISE",
+      "person": [
+        {
+          "firstname": "Sabrina",
+          "middlename": null,
+          "lastname": "TAVERNISE",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "505bdc6f1c22dfde670ca07c",
+    "word_count": 1338,
+    "score": 1.0,
+    "uri": "nyt://article/b583b258-7dd1-5a25-8689-a33af48ed371"
+  }
+]

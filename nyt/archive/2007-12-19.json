@@ -1,0 +1,110 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2007/12/19/education/19physics.html",
+    "snippet": "Walter H. G. Lewin, a physics professor at M.I.T., has found devotees across the country with his online lectures.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2007/12/19/us/physicsnew600.jpg",
+        "height": 340,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2007/12/19/us/physicsnew600.jpg",
+          "xlargeheight": 340
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2007/12/19/us/physicsnew75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2007/12/19/us/physicsnew75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "At 71, Physics Professor Is a Web Star",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "At 71, Professor Is a Pendulum and a Web Star",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Science and Technology",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Physics",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Education and Schools",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Computers and the Internet",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Massachusetts Institute of Technology",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2007-12-19T05:00:00+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "byline": {
+      "original": "By SARA RIMER",
+      "person": [
+        {
+          "firstname": "Sara",
+          "middlename": null,
+          "lastname": "RIMER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5489527d38f0d82a67123ab4",
+    "word_count": 1141,
+    "score": 1.0,
+    "uri": "nyt://article/6a7bfb4a-c407-5235-8763-1bea8c4716b7"
+  }
+]

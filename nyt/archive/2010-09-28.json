@@ -1,0 +1,340 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2010/09/28/us/politics/28alaska.html",
+    "snippet": "Many think Senator Lisa Murkowski, who lost the Republican primary, just might pull off a write-in victory despite daunting obstacles.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/09/28/us/politics/ALASKA/ALASKA-articleLarge.jpg",
+        "height": 315,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2010/09/28/us/politics/ALASKA/ALASKA-articleLarge.jpg",
+          "xlargeheight": 315
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/09/28/us/politics/ALASKA/ALASKA-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/09/28/us/politics/ALASKA/ALASKA-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "A Dark Horse Emerges in Alaska: The Incumbent",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Dark Horse Emerges in Alaska: The Incumbent",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Murkowski, Lisa",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Elections",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Politics and Government",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Senate",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Miller, Joseph W",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Alaska",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Republican Party",
+        "rank": 7,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-09-28T01:23:25+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "section_name": "Politics",
+    "byline": {
+      "original": "By WILLIAM YARDLEY",
+      "person": [
+        {
+          "firstname": "William",
+          "middlename": null,
+          "lastname": "YARDLEY",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "541b117138f0d8296cb0f0e3",
+    "word_count": 1219,
+    "score": 1.0,
+    "uri": "nyt://article/0190b3a9-9cd6-5fad-ad64-a3bad168416f"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2010/09/29/dining/29inspector.html",
+    "snippet": "Even the most fastidious home cook in New York City may not make the grade under the health department\u2019s restaurant inspection system.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/09/29/dining/INSPECTOR/INSPECTOR-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/09/29/dining/INSPECTOR/INSPECTOR-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Would the City Shut Down Your Kitchen?",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Would the City Shut You Down?",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "organizations",
+        "value": "Health and Mental Hygiene Department (NYC)",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Kitchens",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Restaurants",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Home Appliances",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Thermometers",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Food Contamination and Poisoning",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-09-28T23:19:23+0000",
+    "document_type": "article",
+    "new_desk": "Dining",
+    "byline": {
+      "original": "By HENRY ALFORD",
+      "person": [
+        {
+          "firstname": "Henry",
+          "middlename": null,
+          "lastname": "ALFORD",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "541b1e0638f0d8296cb0f1f7",
+    "word_count": 1784,
+    "score": 1.0,
+    "uri": "nyt://article/6413292f-0d79-5712-ab59-a8536a4c78f8"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2010/10/03/theater/03gatz.html",
+    "snippet": "\u201cGatz,\u201d a seven-hour reading of \u201cThe Great Gatsby\u201d now at the Public Theater, harkens back to the days of losing oneself in a good book.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/10/03/arts/GATZ-Jp-2/GATZ-Jp-2-articleLarge.jpg",
+        "height": 337,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2010/10/03/arts/GATZ-Jp-2/GATZ-Jp-2-articleLarge.jpg",
+          "xlargeheight": 337
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/10/03/arts/GATZ-Jp-2/GATZ-Jp-2-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/10/03/arts/GATZ-Jp-2/GATZ-Jp-2-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Heard Any Good Books Lately, Zelda?",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Heard Any Good Books Lately, Zelda?",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Theater",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Elevator Repair Service",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Books and Literature",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Writing and Writers",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Public Theater",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Fitzgerald, F Scott",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Shepherd, Scott (Actor)",
+        "rank": 9,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-09-28T23:14:34+0000",
+    "document_type": "article",
+    "new_desk": "0",
+    "byline": {
+      "original": "By CHARLES McGRATH",
+      "person": [
+        {
+          "firstname": "Charles",
+          "middlename": null,
+          "lastname": "McGRATH",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "541b1c0138f0d8296cb0f1ca",
+    "word_count": 1713,
+    "score": 1.0,
+    "uri": "nyt://article/a0b845f8-c60e-5449-b264-33cce63bceda"
+  }
+]

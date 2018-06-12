@@ -1,0 +1,183 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2008/02/14/books/14dumb.html",
+    "snippet": "Susan Jacoby's new book bemoans the state of American culture. Not only are citizens ignorant about essential knowledge, she says, but they also don\u2019t think it matters.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/02/14/arts/susan-jacoby-75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2008/02/14/arts/susan-jacoby-75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Dumb and Dumber: Are Americans Hostile to Knowledge?",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Dumb and Dumber: Are Americans Hostile to Knowledge?",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Books and Literature",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Jacoby, Susan",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Siegel, Lee",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2008-02-14T05:00:00+0000",
+    "document_type": "article",
+    "new_desk": "Culture",
+    "byline": {
+      "original": "By PATRICIA COHEN",
+      "person": [
+        {
+          "firstname": "Patricia",
+          "middlename": null,
+          "lastname": "COHEN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "547deeea38f0d822abda2fa5",
+    "word_count": 1050,
+    "score": 1.0,
+    "uri": "nyt://article/665d989c-ecbe-5231-9c0e-1d5cfc7bdd53"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2008/02/14/garden/14kids.html",
+    "snippet": "When a couple has invested in a pristine, high-style home for grown-ups, the transition to making that home child-friendly can be hard.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/02/14/garden/14kids_span.600.jpg",
+        "height": 339,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2008/02/14/garden/14kids_span.600.jpg",
+          "xlargeheight": 339
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/02/14/garden/14kids-75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2008/02/14/garden/14kids-75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Parent Shock: Children Are Not D\u00e9cor",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Parent Shock: Children Are Not Decor",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Interior Design",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Children and Youth",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Families and Family Life",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Home Furnishings",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2008-02-14T05:00:00+0000",
+    "document_type": "article",
+    "new_desk": "Home",
+    "byline": {
+      "original": "By JULIE SCELFO",
+      "person": [
+        {
+          "firstname": "Julie",
+          "middlename": null,
+          "lastname": "SCELFO",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "547df07638f0d84a61c0ded5",
+    "word_count": 1783,
+    "score": 1.0,
+    "uri": "nyt://article/9b5d42aa-029d-5c01-a249-e149258ae1b4"
+  }
+]

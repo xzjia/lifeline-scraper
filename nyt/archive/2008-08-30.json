@@ -1,0 +1,79 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2008/08/31/us/31orleans.html",
+    "snippet": "Mayor C. Ray Nagin issued the city\u2019s first mandatory evacuation order since Hurricane Katrina and said Gustav was larger and more dangerous.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "Mayor Orders the Evacuation of New Orleans",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Mayor Orders The Evacuation Of New Orleans",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Hurricane Gustav",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "New Orleans (La)",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Presidential Election of 2008",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Nagin, C Ray",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2008-08-30T21:22:09+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "byline": {
+      "original": "By ADAM NOSSITER and SHAILA DEWAN",
+      "person": [
+        {
+          "firstname": "Adam",
+          "middlename": null,
+          "lastname": "NOSSITER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Shaila",
+          "middlename": null,
+          "lastname": "DEWAN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "54775f8538f0d854b20b19e3",
+    "word_count": 1962,
+    "score": 1.0,
+    "uri": "nyt://article/728a3da3-bb50-5b72-a52c-f7ce2d36b96d"
+  }
+]

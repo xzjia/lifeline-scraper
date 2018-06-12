@@ -1,0 +1,138 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2013/07/05/world/middleeast/egypt.html",
+    "snippet": "As prosecutors arrested dozens of top Muslim Brotherhood members, a senior Egyptian jurist was sworn in as acting head of state.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/07/03/world/middleeast/20130704_EGYPT-slide-BDQP/20130704_EGYPT-slide-BDQP-articleLarge.jpg",
+        "height": 400,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2013/07/03/world/middleeast/20130704_EGYPT-slide-BDQP/20130704_EGYPT-slide-BDQP-articleLarge.jpg",
+          "xlargeheight": 400
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/07/03/world/middleeast/20130704_EGYPT-slide-BDQP/20130704_EGYPT-slide-BDQP-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2013/07/03/world/middleeast/20130704_EGYPT-slide-BDQP/20130704_EGYPT-slide-BDQP-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/07/03/world/middleeast/20130704_EGYPT-slide-BDQP/20130704_EGYPT-slide-BDQP-thumbStandard-v2.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2013/07/03/world/middleeast/20130704_EGYPT-slide-BDQP/20130704_EGYPT-slide-BDQP-thumbStandard-v2.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Crackdown on Morsi Backers Deepens Divide in Egypt",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Morsi Supporters Face Crackdown, Deepening  Divide",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Egypt",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Morsi, Mohamed",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Mansour, Adli",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Middle East and North Africa Unrest (2010- )",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Muslim Brotherhood (Egypt)",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2013-07-04T09:51:42+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Middle East",
+    "byline": {
+      "original": "By BEN HUBBARD, DAVID D. KIRKPATRICK and MAYY EL SHEIKH",
+      "person": [
+        {
+          "firstname": "Ben",
+          "middlename": null,
+          "lastname": "HUBBARD",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "David",
+          "middlename": null,
+          "lastname": null,
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "51d545b17e0d9c0839d2df42",
+    "word_count": 1311,
+    "score": 1.0,
+    "uri": "nyt://article/46497e76-66d8-58bc-a8bf-cecc1bef2802"
+  }
+]

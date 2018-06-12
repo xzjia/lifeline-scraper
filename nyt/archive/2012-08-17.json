@@ -1,0 +1,815 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2012/08/19/travel/casting-in-colorado-away-from-the-crowds.html",
+    "snippet": "What good is a fishing spot if it\u2019s on private land? A club in Colorado solves this problem, offering access to dozens of properties while keeping costs \u2014 and crowds \u2014 small.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/08/19/travel/19-cover-span/19-cover-span-articleLarge.jpg",
+        "height": 393,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2012/08/19/travel/19-cover-span/19-cover-span-articleLarge.jpg",
+          "xlargeheight": 393
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/08/19/travel/19-cover-span/19-cover-span-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2012/08/19/travel/19-cover-span/19-cover-span-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Casting in Colorado, Away From the Crowds",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Your Own Piece of River",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Fishing, Sport",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Colorado",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Trout",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Travel and Vacations",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2012-08-17T17:17:29+0000",
+    "document_type": "article",
+    "new_desk": "Travel",
+    "byline": {
+      "original": "By CHRISTOPHER SOLOMON",
+      "person": [
+        {
+          "firstname": "Christopher",
+          "middlename": null,
+          "lastname": "SOLOMON",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "59382e6e7c459f24986e44bb",
+    "word_count": 3409,
+    "score": 1.0,
+    "uri": "nyt://article/029ab03b-3485-596d-a9d0-50c6c5ada881"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2012/08/18/business/Sites-Like-Groupon-and-Facebook-Disappoint-Investors.html",
+    "snippet": "The more users a social network site like Facebook attracts, the more others will want to use it. But a site\u2019s audience can decline just as quickly as it grows.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/06/25/business/james-stewart/james-stewart-articleLarge.jpg",
+        "height": 400,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2011/06/25/business/james-stewart/james-stewart-articleLarge.jpg",
+          "xlargeheight": 400
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/06/25/business/james-stewart/james-stewart-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2011/06/25/business/james-stewart/james-stewart-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/06/25/business/james-stewart/james-stewart-thumbStandard-v3.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/06/25/business/james-stewart/james-stewart-thumbStandard-v3.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "When the Network Effect Goes Into Reverse",
+      "kicker": "Common Sense",
+      "content_kicker": "Common Sense",
+      "print_headline": "Social Media, Once Soaring, Are Coming Down to Earth",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Social Networking (Internet)",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Stocks and Bonds",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Facebook Inc",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Groupon Inc",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Twitter",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2012-08-17T14:58:37+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By JAMES B. STEWART",
+      "person": [
+        {
+          "firstname": "James",
+          "middlename": null,
+          "lastname": null,
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5235bb6738f0d819897383c2",
+    "word_count": 1434,
+    "score": 1.0,
+    "uri": "nyt://article/0f46ced2-b0cd-565b-ac68-11b7a6b0551c"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2012/08/17/us/politics/romney-says-he-paid-at-least-13-percent-in-income-taxes.html",
+    "snippet": "Calling interest in his taxes \u201csmall-minded,\u201d Mitt Romney said he had looked at 10 years of returns, a response to Democrats who suggested he might have paid nothing in some years.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/08/17/us/17campaign/17campaign-articleLarge.jpg",
+        "height": 330,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2012/08/17/us/17campaign/17campaign-articleLarge.jpg",
+          "xlargeheight": 330
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/08/17/us/17campaign/17campaign-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2012/08/17/us/17campaign/17campaign-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Romney Says He Paid at Least 13% in Income Taxes",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Romney Says He Paid At Least 13% In Income Taxes",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Romney, Mitt",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Presidential Election of 2012",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Income Tax",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Federal Taxes (US)",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Obama, Barack",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2012-08-17T02:03:58+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "section_name": "Politics",
+    "byline": {
+      "original": "By MICHAEL D. SHEAR",
+      "person": [
+        {
+          "firstname": "Michael",
+          "middlename": null,
+          "lastname": null,
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "53f9ee5238f0d84410bcb564",
+    "word_count": 1023,
+    "score": 1.0,
+    "uri": "nyt://article/6386797b-0884-566e-a586-ac45644d299a"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2012/08/17/us/unemployment-depths-seen-in-california-peer-group.html",
+    "snippet": "Gatherings of a group of California professionals in the depths of unemployment reveal a post-recession landscape where grim frustration battles with the simple desire to find a way out.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/08/17/us/JP-LONGTERM-1/JP-LONGTERM-1-articleLarge.jpg",
+        "height": 350,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2012/08/17/us/JP-LONGTERM-1/JP-LONGTERM-1-articleLarge.jpg",
+          "xlargeheight": 350
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/08/17/us/JP-LONGTERM-1/JP-LONGTERM-1-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2012/08/17/us/JP-LONGTERM-1/JP-LONGTERM-1-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Long-Term Jobless Regroup to Fight the Odds",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Long-Term Jobless Regroup to Fight the Odds",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Unemployment",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "California",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Labor and Jobs",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Economy",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Economic Conditions and Trends",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2012-08-17T02:31:27+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "byline": {
+      "original": "By JENNIFER MEDINA",
+      "person": [
+        {
+          "firstname": "Jennifer",
+          "middlename": null,
+          "lastname": "MEDINA",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "53f9ee2038f0d84410bcb562",
+    "word_count": 1190,
+    "score": 1.0,
+    "uri": "nyt://article/f9624038-bfba-5f3e-b743-cac4137e93ae"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2012/08/18/world/europe/suspense-ahead-of-verdict-for-jailed-russian-punk-band.html",
+    "snippet": "Three women who staged a protest against Vladimir V. Putin, Russia\u2019s president, in a cathedral and became a cause c\u00e9l\u00e8bre of artists around the world were convicted of hooliganism.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/08/18/world/RUSSIA/RUSSIA-articleLarge.jpg",
+        "height": 330,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2012/08/18/world/RUSSIA/RUSSIA-articleLarge.jpg",
+          "xlargeheight": 330
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/08/18/world/RUSSIA/RUSSIA-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2012/08/18/world/RUSSIA/RUSSIA-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Anti-Putin Stunt Earns Punk Band Two Years in Jail",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Anti-Putin Stunt Earns Punk Band Two Years in Jail",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Russia",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Pussy Riot",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Demonstrations, Protests, and Riots",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Putin, Vladimir V",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Decisions and Verdicts",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Russian Orthodox Church",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Kirill I",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Human Rights and Human Rights Violations",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Samutsevich, Yekaterina",
+        "rank": 9,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Alyokhina, Maria",
+        "rank": 10,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Tolokonnikova, Nadezhda",
+        "rank": 11,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Music",
+        "rank": 12,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2012-08-17T10:12:06+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Europe",
+    "byline": {
+      "original": "By DAVID M. HERSZENHORN",
+      "person": [
+        {
+          "firstname": "David",
+          "middlename": null,
+          "lastname": null,
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "515d9cf9cf28d0219d000659",
+    "word_count": 1407,
+    "score": 1.0,
+    "uri": "nyt://article/a70f18ab-b014-5f75-b275-cd836b7217ce"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2012/08/18/world/asia/panic-radiates-from-indian-state-of-assam.html",
+    "snippet": "What began as a vicious if obscure fight over land and power between Muslims and an indigenous tribe in a remote state has set off panic among northeastern migrants across India.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/08/17/world/20120818-INDIA-slide-211O/20120818-INDIA-slide-211O-articleLarge.jpg",
+        "height": 365,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2012/08/17/world/20120818-INDIA-slide-211O/20120818-INDIA-slide-211O-articleLarge.jpg",
+          "xlargeheight": 365
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/08/17/world/20120818-INDIA-slide-211O/20120818-INDIA-slide-211O-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2012/08/17/world/20120818-INDIA-slide-211O/20120818-INDIA-slide-211O-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Panic Seizes India as a Region\u2019s Strife Radiates",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Panic Seizes India as a Region\u2019s Strife Radiates",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "India",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Demonstrations, Protests, and Riots",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Assam State (India)",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Bodos (Ethnic Group)",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Muslims and Islam",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Land Use Policies",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2012-08-17T20:02:39+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Asia Pacific",
+    "byline": {
+      "original": "By JIM YARDLEY",
+      "person": [
+        {
+          "firstname": "Jim",
+          "middlename": null,
+          "lastname": "YARDLEY",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "53f9f57438f0d84410bcb5c6",
+    "word_count": 1286,
+    "score": 1.0,
+    "uri": "nyt://article/b954fa5b-5e9d-554b-a7da-f8c2e7f0ddca"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2012/08/17/nyregion/new-york-democrats-steering-clear-of-national-convention.html",
+    "snippet": "Four representatives with tough re-election races will stay away from Charlotte, N.C., next month, citing the need to campaign.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "New York Democrats Skipping Convention for, Well, You Name It",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "New York Democrats Skipping Convention for, Well, You Name It",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "New York State",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Democratic National Convention",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Slaughter, Louise M",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Hochul, Kathleen C",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Owens, William L",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Bishop, Timothy H",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Presidential Election of 2012",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Democratic Party",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Obama, Barack",
+        "rank": 9,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "House of Representatives",
+        "rank": 10,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2012-08-17T01:36:28+0000",
+    "document_type": "article",
+    "new_desk": "Metro",
+    "byline": {
+      "original": "By THOMAS KAPLAN",
+      "person": [
+        {
+          "firstname": "Thomas",
+          "middlename": null,
+          "lastname": "KAPLAN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "515d9d05cf28d0219d00066b",
+    "word_count": 993,
+    "score": 1.0,
+    "uri": "nyt://article/04dee416-a342-57ae-9748-b307c12c4c02"
+  }
+]

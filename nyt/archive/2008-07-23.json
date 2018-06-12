@@ -1,0 +1,178 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2008/07/23/dining/23slow.html",
+    "snippet": "The Slow Food faithful say they want a Labor Day festival, ambitiously named Slow Food Nation, to be the Woodstock of food.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/07/22/dining/23slowfood_75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2008/07/22/dining/23slowfood_75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Slow Food Savors Its Big Moment",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Slow Food Savors Big Moment",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "organizations",
+        "value": "Slow Food",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Food",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Sustainable Living",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Local Food",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Organic Food",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Conventions and Conferences",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Politics and Government",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Agriculture",
+        "rank": 8,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2008-07-23T04:00:00+0000",
+    "document_type": "article",
+    "new_desk": "Dining",
+    "byline": {
+      "original": "By KIM SEVERSON",
+      "person": [
+        {
+          "firstname": "Kim",
+          "middlename": null,
+          "lastname": "SEVERSON",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5476659338f0d83924901a81",
+    "word_count": 1563,
+    "score": 1.0,
+    "uri": "nyt://article/ff3b6b17-a859-5c8d-be25-5937edab47a6"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2008/07/23/us/23health.html",
+    "snippet": "Whether Barack Obama can deliver on his pledge to reduce premiums is a matter of dispute among analysts.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "Health Plan From Obama Spurs Debate",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Health Plan From Obama Spurs Debate",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Obama, Barack",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Health Insurance and Managed Care",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Medicine and Health",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Presidential Election of 2008",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2008-07-23T04:00:00+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "byline": {
+      "original": "By KEVIN SACK",
+      "person": [
+        {
+          "firstname": "Kevin",
+          "middlename": null,
+          "lastname": "SACK",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "548337e138f0d80df4fa328c",
+    "word_count": 1385,
+    "score": 1.0,
+    "uri": "nyt://article/4d5e2524-69cb-5f0d-bc71-f98d68f1cc4c"
+  }
+]

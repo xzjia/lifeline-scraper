@@ -1,0 +1,184 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2007/12/20/washington/20epa.html",
+    "snippet": "The E.P.A. said the proposed California rules were made moot by the energy bill signed into law by President Bush on Wednesday. ",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "E.P.A. Says 17 States Can\u2019t Set Emission Rules",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "E.P.A. Says 17 States Can\u2019t Set Greenhouse Gas Rules for Cars",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "California",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Environmental Protection Agency",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Air Pollution",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Fuel Efficiency",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Environment",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Politics and Government",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2007-12-20T05:00:00+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "byline": {
+      "original": "By JOHN M. BRODER and FELICITY BARRINGER",
+      "person": [
+        {
+          "firstname": "John",
+          "middlename": null,
+          "lastname": null,
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "54895a5338f0d82a67123c02",
+    "word_count": 1012,
+    "score": 1.0,
+    "uri": "nyt://article/06345710-b157-5828-a890-144f393eb4f8"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2007/12/20/health/nutrition/20BEST.html",
+    "snippet": "Exercise physiologists say there is little in the world of exercise as wildly exaggerated as people\u2019s estimates of the number of calories they burn.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2007/12/19/fashion/20best600.1.jpg",
+        "height": 339,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2007/12/19/fashion/20best600.1.jpg",
+          "xlargeheight": 339
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2007/12/19/fashion/20best75.1a.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2007/12/19/fashion/20best75.1a.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Putting Very Little Weight in Calorie Counting Methods",
+      "kicker": "Personal Best",
+      "content_kicker": "Personal Best",
+      "print_headline": "Putting Very Little Weight In Calorie Counting Methods",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Calories",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Health Clubs",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Exercise",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Medicine and Health",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2007-12-20T05:00:00+0000",
+    "document_type": "article",
+    "new_desk": "Styles",
+    "section_name": "Fitness & Nutrition",
+    "byline": {
+      "original": "By GINA KOLATA",
+      "person": [
+        {
+          "firstname": "Gina",
+          "middlename": null,
+          "lastname": "KOLATA",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5489543438f0d82a67123aff",
+    "word_count": 1338,
+    "score": 1.0,
+    "uri": "nyt://article/8b57a407-85f7-508d-9804-dcbfefeca8ff"
+  }
+]

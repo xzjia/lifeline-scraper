@@ -1,0 +1,99 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2008/03/25/world/africa/25safrica.html",
+    "snippet": "South Africa is trying to balance the liberty of patients with tuberculosis against the need to protect society.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/03/25/world/25safrica_600.jpg",
+        "height": 280,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2008/03/25/world/25safrica_600.jpg",
+          "xlargeheight": 280
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/03/25/world/25safrica_75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2008/03/25/world/25safrica_75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "TB Patients Chafe Under Lockdown in South Africa",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "South Africa Confines the Ill to Fight Severe TB",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Tuberculosis",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Medicine and Health",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "South Africa",
+        "rank": 3,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2008-03-25T04:00:00+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Africa",
+    "byline": {
+      "original": "By CELIA W. DUGGER",
+      "person": [
+        {
+          "firstname": "Celia",
+          "middlename": "W.",
+          "lastname": "DUGGER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "547f7adf38f0d828162876aa",
+    "word_count": 1734,
+    "score": 1.0,
+    "uri": "nyt://article/7d2d459b-78d6-5201-b68f-dc533fb51dc5"
+  }
+]

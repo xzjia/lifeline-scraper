@@ -1,0 +1,114 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2012/11/11/nyregion/how-a-staten-island-community-became-a-deathtrap.html",
+    "snippet": "Eight deaths in a Staten Island enclave during Hurricane Sandy have raised questions about why the victims were in their homes when the storm hit and whether the city bore some responsibility for their failure to evacuate.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/11/10/nyregion/StatenIsland-ss-slide-RU1T/StatenIsland-ss-slide-RU1T-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2012/11/10/nyregion/StatenIsland-ss-slide-RU1T/StatenIsland-ss-slide-RU1T-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/11/10/nyregion/StatenIsland-ss-slide-RU1T/StatenIsland-ss-slide-RU1T-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2012/11/10/nyregion/StatenIsland-ss-slide-RU1T/StatenIsland-ss-slide-RU1T-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "How a Beach Community Became a Deathtrap",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "How a Beach Community Became a Deathtrap",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Hurricane Sandy (2012)",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Drownings",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Floods",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Staten Island (NYC)",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2012-11-11T01:52:50+0000",
+    "document_type": "article",
+    "new_desk": "Metro",
+    "byline": {
+      "original": "By KIRK SEMPLE and JOSEPH GOLDSTEIN",
+      "person": [
+        {
+          "firstname": "Kirk",
+          "middlename": null,
+          "lastname": "SEMPLE",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Joseph",
+          "middlename": null,
+          "lastname": "GOLDSTEIN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "509f06cf00315214fbb79d15",
+    "word_count": 3264,
+    "score": 1.0,
+    "uri": "nyt://article/4c31e448-04e7-5fa4-884e-5802836f4030"
+  }
+]

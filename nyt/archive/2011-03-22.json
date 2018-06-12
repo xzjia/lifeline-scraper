@@ -1,0 +1,691 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2011/03/23/technology/23google.html",
+    "snippet": "A decision against a class-action settlement threw Google\u2019s plans into limbo and undid years of negotiation.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/03/23/technology/23google/23google-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/03/23/technology/23google/23google-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Judge Rejects Google\u2019s Deal to Digitize Books",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Federal Judge Rejects Google\u2019s Negotiated Deal to Digitize Books",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "organizations",
+        "value": "Google Inc",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Google Book Search",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Book Trade and Publishing",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Chin, Denny",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Assn of American Publishers",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Authors Guild",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Decisions and Verdicts",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Copyrights and Copyright Violations",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Justice Department",
+        "rank": 9,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Antitrust Laws and Competition Issues",
+        "rank": 10,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-03-22T20:19:33+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By MIGUEL HELFT",
+      "person": [
+        {
+          "firstname": "Miguel",
+          "middlename": null,
+          "lastname": "HELFT",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "540bff0638f0d85e13e4cdab",
+    "word_count": 1101,
+    "score": 1.0,
+    "uri": "nyt://article/ba051def-560f-518c-be2a-e20cf945e129"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/03/23/world/africa/23libya.html",
+    "snippet": "President Obama worked to bridge differences among allies about how to manage the campaign, and forces loyal to Col. Muammar el-Qaddafi showed no sign of ending their sieges of rebel-held cities.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/03/23/world/LIBYA/LIBYA-articleLarge.jpg",
+        "height": 315,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2011/03/23/world/LIBYA/LIBYA-articleLarge.jpg",
+          "xlargeheight": 315
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Obama Seeks to Unify Allies as More Airstrikes Rock Tripoli",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "U.S. Seeks to Unify Allies As Airstrikes Rock Tripoli",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Middle East and North Africa Unrest (2010- )",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Libya",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Defense and Military Forces",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "International Relations",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Qaddafi, Muammar el-",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Obama, Barack",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Defense and Military Forces",
+        "rank": 7,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-03-22T09:22:45+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Africa",
+    "byline": {
+      "original": "By MARK LANDLER and STEVEN ERLANGER",
+      "person": [
+        {
+          "firstname": "Mark",
+          "middlename": null,
+          "lastname": "LANDLER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Steven",
+          "middlename": null,
+          "lastname": "ERLANGER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "52b8aebd38f0d86bcb2a6c63",
+    "word_count": 1576,
+    "score": 1.0,
+    "uri": "nyt://article/fc278dbe-3ffd-5741-9c50-6bf484de5ebf"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/03/22/us/22pastor.html",
+    "snippet": "Among conservative Protestants, there is often a requirement \u2014 whether clearly stated or implicit \u2014 that the pastor be married, ideally with children.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/03/22/us/jp-PASTOR/jp-PASTOR-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/03/22/us/jp-PASTOR/jp-PASTOR-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Unmarried Pastor, Seeking a Job, Sees Bias",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "With Few Jobs, A Single Pastor Points to a Bias",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Single Persons",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Discrimination",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Hiring and Promotion",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Evangelical Movement",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Ministers (Protestant)",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-03-22T00:32:12+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "byline": {
+      "original": "By ERIK ECKHOLM",
+      "person": [
+        {
+          "firstname": "Erik",
+          "middlename": null,
+          "lastname": "ECKHOLM",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "540bfa5b38f0d85e13e4cd62",
+    "word_count": 1149,
+    "score": 1.0,
+    "uri": "nyt://article/aea0ff6c-c0ce-5bba-921f-93006d757b90"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/03/23/business/economy/23leonhardt.html",
+    "snippet": "Better health and education in North Africa and the Middle East may be fueling political change.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/04/19/business/leonhardt-75/leonhardt-75-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/04/19/business/leonhardt-75/leonhardt-75-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Hopeful Message About the World\u2019s Poorest",
+      "kicker": "Economic Scene",
+      "content_kicker": "Economic Scene",
+      "print_headline": "For the Poor, A Message Of Hope",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Longevity",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Economic Conditions and Trends",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Medicine and Health",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Education (K-12)",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-03-22T16:25:57+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "section_name": "Economy",
+    "byline": {
+      "original": "By DAVID LEONHARDT",
+      "person": [
+        {
+          "firstname": "David",
+          "middlename": null,
+          "lastname": "LEONHARDT",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "540bfd3938f0d85e13e4cd90",
+    "word_count": 1167,
+    "score": 1.0,
+    "uri": "nyt://article/0d3aa7d9-3170-5d14-9e42-2da28c8930fc"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/03/23/world/africa/23times.html",
+    "snippet": "Four Times journalists described their treatment at the hands of government troops before their release.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/03/23/world/TIMES-1/TIMES-1-articleLarge.jpg",
+        "height": 330,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2011/03/23/world/TIMES-1/TIMES-1-articleLarge.jpg",
+          "xlargeheight": 330
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/03/23/world/TIMES-1/TIMES-1-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2011/03/23/world/TIMES-1/TIMES-1-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/03/23/world/TIMES-1/TIMES-1-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/03/23/world/TIMES-1/TIMES-1-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "4 Times Journalists Held Captive in Libya Faced Days of Brutality",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Captive Journalists Faced Days of Brutality",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Shadid, Anthony",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Addario, Lynsey",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Farrell, Stephen",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Hicks, Tyler",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Libya",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Middle East and North Africa Unrest (2010- )",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Defense and Military Forces",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Politics and Government",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Qaddafi, Muammar el-",
+        "rank": 9,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-03-22T23:01:59+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Africa",
+    "byline": {
+      "original": "By ANTHONY SHADID, LYNSEY ADDARIO, STEPHEN FARRELL and TYLER HICKS",
+      "person": [
+        {
+          "firstname": "Anthony",
+          "middlename": null,
+          "lastname": "SHADID",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Lynsey",
+          "middlename": null,
+          "lastname": "ADDARIO",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        },
+        {
+          "firstname": "Stephen",
+          "middlename": null,
+          "lastname": "FARRELL",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 3
+        },
+        {
+          "firstname": "Tyler",
+          "middlename": null,
+          "lastname": "HICKS",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 4
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5400b12038f0d841b2f383e3",
+    "word_count": 2698,
+    "score": 1.0,
+    "uri": "nyt://article/2b14cb34-d68e-54fa-8775-b5b84579a0bb"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/03/22/technology/22phone.html",
+    "snippet": "A merger with T-Mobile would leave just three major cellular carriers in the United States, which could lead to higher prices.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/03/22/business/Phone1/Phone1-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/03/22/business/Phone1/Phone1-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "For Consumers, Little to Cheer in AT&T Deal",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Little to Cheer For Consumers In AT&T Deal",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Mergers, Acquisitions and Divestitures",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Wireless Communications",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "AT&T Inc",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "T-Mobile",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Prices (Fares, Fees and Rates)",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Antitrust Laws and Competition Issues",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-03-22T01:23:08+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By JENNA WORTHAM",
+      "person": [
+        {
+          "firstname": "Jenna",
+          "middlename": null,
+          "lastname": "WORTHAM",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "540bfb6138f0d85e13e4cd71",
+    "word_count": 951,
+    "score": 1.0,
+    "uri": "nyt://article/ea47a6df-0616-5a5f-84ad-807ef5f209ca"
+  }
+]

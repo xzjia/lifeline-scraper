@@ -1,0 +1,1259 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2011/11/13/realestate/dekalb-avenue-brooklyn-block-by-block-an-avenue-arrives-tourists-and-all.html",
+    "snippet": "A Brooklyn artery that is a diverse, often handsome and always lively stretch.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/11/13/realestate/13BLOCK-4_SPAN/13BLOCK-4_SPAN-articleLarge.jpg",
+        "height": 345,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2011/11/13/realestate/13BLOCK-4_SPAN/13BLOCK-4_SPAN-articleLarge.jpg",
+          "xlargeheight": 345
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/11/13/realestate/13BLOCK-4_SPAN/13BLOCK-4_SPAN-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/11/13/realestate/13BLOCK-4_SPAN/13BLOCK-4_SPAN-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "DeKalb Avenue Arrives, Tourists and All",
+      "kicker": "Block by Block",
+      "content_kicker": "Block by Block",
+      "print_headline": "An Avenue Arrives, Tourists and All",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Fort Greene (NYC)",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Real Estate and Housing (Residential)",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "New York City",
+        "rank": 3,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-11-11T22:05:14+0000",
+    "document_type": "article",
+    "new_desk": "RealEstate",
+    "byline": {
+      "original": "By CHRISTIAN L. WRIGHT",
+      "person": [
+        {
+          "firstname": "Christian",
+          "middlename": "L.",
+          "lastname": "WRIGHT",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "515db434cf28d0219d003cb0",
+    "word_count": 1100,
+    "score": 1.0,
+    "uri": "nyt://article/21a38830-c2e8-5f39-b626-91fe46832b0c"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/11/12/sports/ultimate-fighting-championship-comes-of-age-financially.html",
+    "snippet": "The Ultimate Fighting Championship, criticized for its brutal nature, will appear for the first time on network television with a title fight on Saturday on Fox.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/11/12/sports/12ufc1/12ufc1-articleLarge.jpg",
+        "height": 400,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2011/11/12/sports/12ufc1/12ufc1-articleLarge.jpg",
+          "xlargeheight": 400
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/11/12/sports/12ufc1/12ufc1-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2011/11/12/sports/12ufc1/12ufc1-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/11/12/sports/12ufc1/12ufc1-thumbStandard-v2.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/11/12/sports/12ufc1/12ufc1-thumbStandard-v2.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Ultimate Fighting Dips a Toe Into the Mainstream",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "A Toehold In the Mainstream",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Mixed Martial Arts",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Ultimate Fighting Championship",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Television",
+        "rank": 3,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-11-11T16:52:21+0000",
+    "document_type": "article",
+    "new_desk": "Sports",
+    "byline": {
+      "original": "By BARRY BEARAK",
+      "person": [
+        {
+          "firstname": "Barry",
+          "middlename": null,
+          "lastname": "BEARAK",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "51cff3a17e0d9c0839d2d22d",
+    "word_count": 4793,
+    "score": 1.0,
+    "uri": "nyt://article/a370b6d2-3ff8-5ef0-b482-a13cdee410af"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/11/11/business/some-consumers-object-to-sales-on-thanksgiving.html",
+    "snippet": "Retailers eager to be the first to draw customers on Black Friday have crossed a line for some shoppers with plans to open stores on Thanksgiving Day.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/11/11/business/Midnight1/Midnight1-articleLarge.jpg",
+        "height": 360,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2011/11/11/business/Midnight1/Midnight1-articleLarge.jpg",
+          "xlargeheight": 360
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/11/11/business/Midnight1/Midnight1-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/11/11/business/Midnight1/Midnight1-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Thanksgiving as Day to Shop Meets Rejection",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Thanksgiving As Day to Shop Meets Rejection",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Black Friday (Shopping)",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Thanksgiving Day",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Shopping and Retail",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Labor and Jobs",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-11-11T04:15:27+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By STEPHANIE CLIFFORD",
+      "person": [
+        {
+          "firstname": "Stephanie",
+          "middlename": null,
+          "lastname": "CLIFFORD",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "536910c238f0d86f20fb8b13",
+    "word_count": 1048,
+    "score": 1.0,
+    "uri": "nyt://article/5bb9ff5f-6e5c-57c9-bc43-5ec574aba063"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/11/11/business/global/sovereign-debt-turns-sour-in-euro-zone.html",
+    "snippet": "The debt crisis was fed by governments that borrowed too much, regulators that let banks treat the bonds as without risk and investors who viewed the bonds of all countries as solid.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/11/11/business/Eurobanks1/Eurobanks1-articleLarge.jpg",
+        "height": 360,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2011/11/11/business/Eurobanks1/Eurobanks1-articleLarge.jpg",
+          "xlargeheight": 360
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/11/11/business/Eurobanks1/Eurobanks1-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/11/11/business/Eurobanks1/Eurobanks1-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Europe\u2019s Banks Found Safety of Bonds a Costly Illusion",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Europe\u2019s Banks Lost a Refuge In Debt Crisis",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "European Sovereign Debt Crisis (2010- )",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Banking and Financial Institutions",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "European Union",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Societe Generale",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "BNP Paribas",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Commerzbank",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Italy",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "France",
+        "rank": 8,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-11-11T03:49:37+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "section_name": "Global Business",
+    "byline": {
+      "original": "By LIZ ALDERMAN and SUSANNE CRAIG",
+      "person": [
+        {
+          "firstname": "Liz",
+          "middlename": null,
+          "lastname": "ALDERMAN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Susanne",
+          "middlename": null,
+          "lastname": "CRAIG",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5403098b38f0d80cceb20111",
+    "word_count": 1785,
+    "score": 1.0,
+    "uri": "nyt://article/d965b501-b00a-5020-84b6-df52a1bd379c"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/11/12/world/americas/top-mexican-official-among-8-dead-in-helicopter-crash.html",
+    "snippet": "The death of Francisco Blake Mora, the interior minister, was another blow to Mexico\u2019s anti-drug campaign.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/11/12/world/jpmexico2/jpmexico2-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/11/12/world/jpmexico2/jpmexico2-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Copter Crash Kills a Leader in Mexico\u2019s Drug Fight",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Mexico Crash Kills a Leader In Drug Fight",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Mexico City (Mexico)",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Aviation Accidents and Safety",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Drug Abuse and Traffic",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Mexico",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Helicopters",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-11-11T19:33:29+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Americas",
+    "byline": {
+      "original": "By DAMIEN CAVE",
+      "person": [
+        {
+          "firstname": "Damien",
+          "middlename": null,
+          "lastname": "CAVE",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "540319f338f0d80cceb201bb",
+    "word_count": 1142,
+    "score": 1.0,
+    "uri": "nyt://article/2ddb317e-6bff-5a7b-9a66-fcfbeef05021"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/11/11/sports/ncaafootball/tom-corbett-pennsylvania-governor-couldnt-discuss-inquiry.html",
+    "snippet": "For months, Gov. Tom Corbett of Pennsylvania had reason to suspect a sexual abuse scandal was going to explode at Penn State University. He also had no way to talk about it, or to prepare for it.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/11/11/sports/jp-governor/jp-governor-articleLarge.jpg",
+        "height": 298,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2011/11/11/sports/jp-governor/jp-governor-articleLarge.jpg",
+          "xlargeheight": 298
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/11/11/sports/jp-governor/jp-governor-thumbStandard-v2.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/11/11/sports/jp-governor/jp-governor-thumbStandard-v2.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Abuse Inquiry Set Tricky Path for a Governor",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Abuse Inquiry Set Tricky Path For a Governor",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Corbett, Thomas W",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Pennsylvania State University",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Paterno, Joe",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Sandusky, Jerry",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Child Abuse and Neglect",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Sex Crimes",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Attorneys General",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Football",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Governors (US)",
+        "rank": 9,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Football (College)",
+        "rank": 10,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Colleges and Universities",
+        "rank": 11,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "College Athletics",
+        "rank": 12,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-11-11T02:03:12+0000",
+    "document_type": "article",
+    "new_desk": "Sports",
+    "section_name": "College Football",
+    "byline": {
+      "original": "By JO BECKER",
+      "person": [
+        {
+          "firstname": "Jo",
+          "middlename": null,
+          "lastname": "BECKER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "515db40bcf28d0219d003c46",
+    "word_count": 1210,
+    "score": 1.0,
+    "uri": "nyt://article/ce4da334-efbc-55e4-9f27-69a0a901eeb9"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/11/12/arts/music/iridium-jazz-guitar-shrine-expands-beyond-jazz-to-survive.html",
+    "snippet": "The Iridium, known for its association with the jazzman Les Paul, is trying to lure rock fans too.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/11/12/arts/12Iridium/12Iridium-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/11/12/arts/12Iridium/12Iridium-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Jazz Guitar Shrine Expands Beyond Jazz to Survive",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Jazz Guitar Shrine Expands Beyond Jazz to Survive",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "organizations",
+        "value": "Iridium Jazz Club",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Jazz",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Paul, Les",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Sturm, Ron",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Music",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-11-11T21:37:45+0000",
+    "document_type": "article",
+    "new_desk": "Culture",
+    "section_name": "Music",
+    "byline": {
+      "original": "By JAMES C. McKINLEY Jr",
+      "person": [
+        {
+          "firstname": "James",
+          "middlename": "C.",
+          "lastname": "McKINLEY",
+          "qualifier": "Jr",
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "515db401cf28d0219d003c30",
+    "word_count": 1081,
+    "score": 1.0,
+    "uri": "nyt://article/fb7a7a3b-9ed8-565c-893b-7df14ddce63b"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/11/11/world/europe/greece-and-italy-ask-technocrats-to-find-solution.html",
+    "snippet": "The question in both countries is whether the new leaders can succeed where their predecessors failed and dislodge the entrenched cultures of political patronage.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/11/12/world/12italy2-span/12italy2-span-articleLarge.jpg",
+        "height": 389,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2011/11/12/world/12italy2-span/12italy2-span-articleLarge.jpg",
+          "xlargeheight": 389
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/11/12/world/12italy2-span/12italy2-span-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/11/12/world/12italy2-span/12italy2-span-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Greece and Italy Seek a Solution From Technocrats",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Greece And Italy Ask Technocrats To Find Solution",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "European Sovereign Debt Crisis (2010- )",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Greece",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Italy",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Papademos, Lucas",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Monti, Mario",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Berlusconi, Silvio",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Politics and Government",
+        "rank": 7,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-11-11T02:17:55+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Europe",
+    "byline": {
+      "original": "By RACHEL DONADIO",
+      "person": [
+        {
+          "firstname": "Rachel",
+          "middlename": null,
+          "lastname": "DONADIO",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "59f44a097c459f246b63148e",
+    "word_count": 1406,
+    "score": 1.0,
+    "uri": "nyt://article/5c87d1c8-949b-5d2f-b2d5-95600e529597"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/11/12/business/energy-environment/a-cornucopia-of-help-for-renewable-energy.html",
+    "snippet": "Renewable energy has received exceptional help from the government. That is ending, but some say it has been unnecessary.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/11/12/business/12subsidy-span/12subsidy-span-articleLarge.jpg",
+        "height": 315,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2011/11/12/business/12subsidy-span/12subsidy-span-articleLarge.jpg",
+          "xlargeheight": 315
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/11/12/business/12subsidy-span/12subsidy-span-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/11/12/business/12subsidy-span/12subsidy-span-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "A Gold Rush of Subsidies in Clean Energy Search",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Rich Subsidies Powering Solar and Wind Projects",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Solar Energy",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Wind Power",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Federal Aid (US)",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Alternative and Renewable Energy",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "American Recovery and Reinvestment Act (2009)",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "NRG Energy Inc",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-11-11T17:29:20+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "section_name": "Energy & Environment ",
+    "byline": {
+      "original": "By ERIC LIPTON and CLIFFORD KRAUSS",
+      "person": [
+        {
+          "firstname": "Eric",
+          "middlename": null,
+          "lastname": "LIPTON",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Clifford",
+          "middlename": null,
+          "lastname": "KRAUSS",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5403192c38f0d80cceb201b2",
+    "word_count": 2315,
+    "score": 1.0,
+    "uri": "nyt://article/4e24b036-3533-5c1f-bb34-1c78a12bb439"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/11/11/nyregion/bonded-in-love-and-disability-a-couple-keeps-a-promise-till-death.html",
+    "snippet": "Edwin Morales and Noemi Rivera, who both had cerebral palsy, eloped in 1996 and promised never to leave each other. On Thursday, Mr. Morales buried his wife, proud that the vow had been kept.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/11/11/nyregion/ABOUT1/ABOUT1-articleLarge.jpg",
+        "height": 340,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2011/11/11/nyregion/ABOUT1/ABOUT1-articleLarge.jpg",
+          "xlargeheight": 340
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/11/11/nyregion/ABOUT1/ABOUT1-thumbStandard-v2.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/11/11/nyregion/ABOUT1/ABOUT1-thumbStandard-v2.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Bound by Love and Disability, and Keeping a Vow Until the End",
+      "kicker": "About New York",
+      "content_kicker": "About New York",
+      "print_headline": "Bound by Love and Disability, and Keeping a Vow Until the End",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Cerebral Palsy",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Marriages",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "New York City",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Disabilities",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-11-11T01:03:58+0000",
+    "document_type": "article",
+    "new_desk": "Metro",
+    "byline": {
+      "original": "By JIM DWYER",
+      "person": [
+        {
+          "firstname": "Jim",
+          "middlename": null,
+          "lastname": "DWYER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5403140838f0d80cceb20186",
+    "word_count": 897,
+    "score": 1.0,
+    "uri": "nyt://article/d33fcb55-0e73-51ff-876e-c90ea119d9e7"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/11/13/nyregion/judy-garland-impersonator-tommy-femia-of-brooklyn.html",
+    "snippet": "It was hard as a teenager for Tommy Femia to come out as gay; now, as he performs \u201cOver the Rainbow\u201d in drag, his family cheers him on.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/11/13/nyregion/13GARLAND1_SPAN/13GARLAND1_SPAN-articleLarge.jpg",
+        "height": 360,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2011/11/13/nyregion/13GARLAND1_SPAN/13GARLAND1_SPAN-articleLarge.jpg",
+          "xlargeheight": 360
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/11/13/nyregion/13GARLAND1_SPAN/13GARLAND1_SPAN-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/11/13/nyregion/13GARLAND1_SPAN/13GARLAND1_SPAN-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "The Boy Who Became Judy Garland",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "The Boy Who Became Judy Garland",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Femia, Tommy",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Theater",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Garland, Judy",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Music",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Don't Tell Mama",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Homosexuality",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "New York City",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Nightclubs and Cabarets",
+        "rank": 8,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-11-11T20:21:01+0000",
+    "document_type": "article",
+    "new_desk": "Metro",
+    "byline": {
+      "original": "By DAN BARRY",
+      "person": [
+        {
+          "firstname": "Dan",
+          "middlename": null,
+          "lastname": "BARRY",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "515db40bcf28d0219d003c44",
+    "word_count": 2195,
+    "score": 1.0,
+    "uri": "nyt://article/4464654c-8d69-559b-af0d-e8eb16d9d422"
+  }
+]

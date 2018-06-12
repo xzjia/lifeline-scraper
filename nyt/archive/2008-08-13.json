@@ -1,0 +1,149 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2008/08/14/sports/olympics/14araton.html",
+    "snippet": "The players who were pictured pulling the skin behind their eyes in order to appear Asian should know better.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "In Furor Over Photo, Spain Doesn\u2019t See a Problem",
+      "kicker": "Sports of The Times",
+      "content_kicker": "Sports of The Times",
+      "print_headline": "In Furor Over Photo, Spain Doesn\u2019t See a Problem",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Basketball",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Olympic Games (2008)",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Beijing (China)",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Spain",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2008-08-13T17:16:57+0000",
+    "document_type": "article",
+    "new_desk": "Sports",
+    "section_name": "Olympics",
+    "byline": {
+      "original": "By HARVEY ARATON",
+      "person": [
+        {
+          "firstname": "Harvey",
+          "middlename": null,
+          "lastname": "ARATON",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5476c39638f0d8392490233e",
+    "word_count": 650,
+    "score": 1.0,
+    "uri": "nyt://article/2896ae28-5aa0-5533-9dc8-418f0e43b581"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2008/08/13/us/13marriage.html",
+    "snippet": "With health insurance out of reach for many, obtaining coverage is factoring into the decision for more couples.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/08/13/us/13marriage.span.jpg",
+        "height": 350,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2008/08/13/us/13marriage.span.jpg",
+          "xlargeheight": 350
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Health Benefits Inspire Rush to Marry, or Divorce",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Health Benefits Inspire a Rush to the Altar, or to Divorce Court",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Health Insurance and Managed Care",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Marriages",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Divorce, Separations and Annulments",
+        "rank": 3,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2008-08-13T00:53:24+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "byline": {
+      "original": "By KEVIN SACK",
+      "person": [
+        {
+          "firstname": "Kevin",
+          "middlename": null,
+          "lastname": "SACK",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5476bf9138f0d839249022e1",
+    "word_count": 1443,
+    "score": 1.0,
+    "uri": "nyt://article/9d0ddace-6559-5505-ba02-77eb44aaee4f"
+  }
+]

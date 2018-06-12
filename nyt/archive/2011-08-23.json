@@ -1,0 +1,660 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2011/08/24/nyregion/charges-against-strauss-kahn-dismissed.html",
+    "snippet": "A judge\u2019s dismissal of the sexual assault case against Dominique Strauss-Kahn brought some measure of legal vindication to him after his stunning arrest.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/08/24/nyregion/jpydsk1/jpydsk1-articleLarge.jpg",
+        "height": 360,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2011/08/24/nyregion/jpydsk1/jpydsk1-articleLarge.jpg",
+          "xlargeheight": 360
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/08/24/nyregion/jpydsk1/jpydsk1-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/08/24/nyregion/jpydsk1/jpydsk1-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Strauss-Kahn Drama Ends With Short Final Scene",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Strauss-Kahn Drama Ends With Short Final Act",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Strauss-Kahn, Dominique",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Vance, Cyrus R Jr",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Diallo, Nafissatou",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Sex Crimes",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Manhattan (NYC)",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-08-23T16:03:52+0000",
+    "document_type": "article",
+    "new_desk": "Metro",
+    "byline": {
+      "original": "By JOHN ELIGON",
+      "person": [
+        {
+          "firstname": "John",
+          "middlename": null,
+          "lastname": "ELIGON",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5402137b38f0d80cceb1f834",
+    "word_count": 1257,
+    "score": 1.0,
+    "uri": "nyt://article/dfda5c86-b052-50e1-b187-d9bcdd7a2c14"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/08/24/us/24quake.html",
+    "snippet": "A 5.8 earthquake sent tremors from the nation\u2019s capital to New York City and New England, but with few reports of damage.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/08/24/us/24quake_cnd/24quake_cnd-articleLarge.jpg",
+        "height": 330,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2011/08/24/us/24quake_cnd/24quake_cnd-articleLarge.jpg",
+          "xlargeheight": 330
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/08/24/us/24quake_cnd/24quake_cnd-thumbStandard-v2.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/08/24/us/24quake_cnd/24quake_cnd-thumbStandard-v2.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Above All Else, Eastern Quake Rattles Nerves",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Above All Else, Eastern Quake Rattles Nerves",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Mineral (Va)",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Earthquakes",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Washington (DC)",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "New York City",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-08-23T18:16:18+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "byline": {
+      "original": "By KATHARINE Q. SEELYE",
+      "person": [
+        {
+          "firstname": "Katharine",
+          "middlename": "Q.",
+          "lastname": "SEELYE",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "52b9b50738f0d86bcb2a74bc",
+    "word_count": 1300,
+    "score": 1.0,
+    "uri": "nyt://article/960be09d-b94f-521f-b2fc-bbf608a30479"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/08/23/nyregion/strauss-kahn-case-should-be-dropped-prosecutors-say.html",
+    "snippet": "The office of District Attorney Cyrus R. Vance Jr. said the hotel housekeeper who accused Dominique Strauss-Kahn of sexual assault would not be a credible witness.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/08/23/nyregion/DSK/DSK-articleLarge-v2.jpg",
+        "height": 350,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2011/08/23/nyregion/DSK/DSK-articleLarge-v2.jpg",
+          "xlargeheight": 350
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/08/23/nyregion/DSK/DSK-thumbStandard-v2.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/08/23/nyregion/DSK/DSK-thumbStandard-v2.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "District Attorney Asks Judge to Drop Strauss-Kahn Case",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "District Attorney Asks Judge To Drop Strauss-Kahn Case",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Strauss-Kahn, Dominique",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Diallo, Nafissatou",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Sex Crimes",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Vance, Cyrus R Jr",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Obus, Michael J",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-08-23T01:11:07+0000",
+    "document_type": "article",
+    "new_desk": "Metro",
+    "byline": {
+      "original": "By WILLIAM K. RASHBAUM and JOHN ELIGON",
+      "person": [
+        {
+          "firstname": "William",
+          "middlename": "K.",
+          "lastname": "RASHBAUM",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "John",
+          "middlename": null,
+          "lastname": "ELIGON",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5400c23338f0d841b2f38be7",
+    "word_count": 1141,
+    "score": 1.0,
+    "uri": "nyt://article/c2596c06-4c37-5bdc-9a8c-966f0617460d"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/08/23/business/complaints-soar-on-hip-implants-as-dangers-are-studied.html",
+    "snippet": "The F.D.A. received more than 5,000 reports since January about several artificial hip devices, more than it received about those devices in the last four years.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/08/23/business/jp-HIP/jp-HIP-articleLarge.jpg",
+        "height": 315,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2011/08/23/business/jp-HIP/jp-HIP-articleLarge.jpg",
+          "xlargeheight": 315
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/08/23/business/jp-HIP/jp-HIP-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/08/23/business/jp-HIP/jp-HIP-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Hip Implant Complaints Surge, Even as the Dangers Are Studied",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Hip Implant Complaints Surge, Even as the Dangers Are Studied",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "organizations",
+        "value": "Food and Drug Administration",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Medical Devices",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Implants",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Hips",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Medicine and Health",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-08-23T01:26:05+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By BARRY MEIER and JANET ROBERTS",
+      "person": [
+        {
+          "firstname": "Barry",
+          "middlename": null,
+          "lastname": "MEIER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Janet",
+          "middlename": null,
+          "lastname": "ROBERTS",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5401a62138f0d841b2f39f0c",
+    "word_count": 1139,
+    "score": 1.0,
+    "uri": "nyt://article/ec4bb41a-a324-507c-a86d-9bb9ea67bf54"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/08/24/sports/ncaabasketball/tennessees-summitt-reveals-dementia-diagnosis.html",
+    "snippet": "Pat Summitt, the Tennessee women\u2019s basketball coach, said she hoped to manage the disease and planned to coach in the coming season.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/08/24/us/JPSUMMITT/JPSUMMITT-articleLarge.jpg",
+        "height": 315,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2011/08/24/us/JPSUMMITT/JPSUMMITT-articleLarge.jpg",
+          "xlargeheight": 315
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/08/24/us/JPSUMMITT/JPSUMMITT-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/08/24/us/JPSUMMITT/JPSUMMITT-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Tennessee\u2019s Summitt Reveals Dementia Diagnosis",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Coach Reveals Her Dementia; Will Work On",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Summitt, Pat",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "University of Tennessee",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Dementia",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Basketball",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "College Athletics",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-08-23T18:53:28+0000",
+    "document_type": "article",
+    "new_desk": "Sports",
+    "section_name": "College Basketball",
+    "byline": {
+      "original": "By LYNN ZINSER",
+      "person": [
+        {
+          "firstname": "Lynn",
+          "middlename": null,
+          "lastname": "ZINSER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5411a9e638f0d869f5e8aec7",
+    "word_count": 1046,
+    "score": 1.0,
+    "uri": "nyt://article/b165274e-6518-5c79-bb36-51688087ad87"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/08/24/world/africa/24libya.html",
+    "snippet": "Fighting continued, with Col. Muammar el-Qaddafi nowhere in sight.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/08/24/world/24libya_span/24libya_span-articleLarge.jpg",
+        "height": 330,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2011/08/24/world/24libya_span/24libya_span-articleLarge.jpg",
+          "xlargeheight": 330
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/08/24/world/24libya_span/24libya_span-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/08/24/world/24libya_span/24libya_span-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Qaddafi Defiant After Rebel Takeover",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Swarm Of Rebels Seize Compound, But Not Qaddafi",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Libya",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Qaddafi, Muammar el-",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Middle East and North Africa Unrest (2010- )",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Qaddafi, Seif al-Islam el-",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-08-23T09:33:23+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Africa",
+    "byline": {
+      "original": "By DAVID D. KIRKPATRICK",
+      "person": [
+        {
+          "firstname": "David",
+          "middlename": null,
+          "lastname": null,
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5407401838f0d843936a6ec2",
+    "word_count": 1221,
+    "score": 1.0,
+    "uri": "nyt://article/14f48ab9-8a0b-5b88-9374-b03f89854239"
+  }
+]

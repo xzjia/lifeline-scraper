@@ -1,0 +1,140 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2008/05/04/theater/04ishe.html",
+    "snippet": "This spring the barrier between the worlds of Off and Off Off Broadway is becoming more porous.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/05/04/arts/Ear600.jpg",
+        "height": 329,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2008/05/04/arts/Ear600.jpg",
+          "xlargeheight": 329
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/05/04/arts/Ear75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2008/05/04/arts/Ear75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "When Off Meets Off Off, Creative Ferment Is On",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "When Off Meets Off Off, Creative Ferment Is On",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Theater",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Schwartz, Jenny",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Flahive, Liz",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "New Georges",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Vineyard Theater",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "New York Theater Workshop",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Elevator Repair Service",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Target Margin Theater",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Manhattan Theater Club",
+        "rank": 9,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Collins, John (1969- )",
+        "rank": 10,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2008-05-04T04:00:00+0000",
+    "document_type": "article",
+    "new_desk": "0",
+    "byline": {
+      "original": "By CHARLES ISHERWOOD",
+      "person": [
+        {
+          "firstname": "Charles",
+          "middlename": null,
+          "lastname": "ISHERWOOD",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5480d76938f0d874625c7a60",
+    "word_count": 1992,
+    "score": 1.0,
+    "uri": "nyt://article/faa39ebc-1a67-517c-9ebd-24f6b40b070f"
+  }
+]

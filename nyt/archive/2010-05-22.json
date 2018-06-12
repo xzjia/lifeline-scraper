@@ -1,0 +1,348 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2010/05/23/nyregion/23cuomo.html",
+    "snippet": "Attorney General Andrew M. Cuomo said he was seeking to remake a state mired in political scandal.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/05/23/nyregion/23cuomo2-span/23cuomo2-span-articleLarge-v2.jpg",
+        "height": 360,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2010/05/23/nyregion/23cuomo2-span/23cuomo2-span-articleLarge-v2.jpg",
+          "xlargeheight": 360
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/05/23/nyregion/23cuomo2-span/23cuomo2-span-thumbStandard-v2.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/05/23/nyregion/23cuomo2-span/23cuomo2-span-thumbStandard-v2.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Cuomo Opens Campaign for New York Governor",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Cuomo Opens Race With Vow To Fix Albany",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Cuomo, Andrew M",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Governors (US)",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "New York State",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Elections",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-05-22T12:42:21+0000",
+    "document_type": "article",
+    "new_desk": "Metro",
+    "byline": {
+      "original": "By DANNY HAKIM  and NICHOLAS CONFESSORE",
+      "person": [
+        {
+          "firstname": "Danny",
+          "middlename": null,
+          "lastname": "HAKIM",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Nicholas",
+          "middlename": null,
+          "lastname": "CONFESSORE",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5400b8a838f0d841b2f3861a",
+    "word_count": 1162,
+    "score": 1.0,
+    "uri": "nyt://article/86b62680-5ea0-58c3-a6bf-9995ee30c77a"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2010/05/23/science/23family.html",
+    "snippet": "Researchers videotaped nearly every waking moment in the homes of 32 families. Did someone say stressful?",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/05/23/us/23family-span/23family-articleLarge.jpg",
+        "height": 362,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2010/05/23/us/23family-span/23family-articleLarge.jpg",
+          "xlargeheight": 362
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/05/23/us/23family-span/23family-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/05/23/us/23family-span/23family-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Families\u2019 Every Fuss, Archived and Analyzed",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Families\u2019 Every Hug and Fuss, Taped, Analyzed and Archived",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Families and Family Life",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Research",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Archaeology and Anthropology",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Parenting",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "University of California, Los Angeles",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Recordings and Downloads (Video)",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-05-22T17:17:01+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "byline": {
+      "original": "By BENEDICT CAREY",
+      "person": [
+        {
+          "firstname": "Benedict",
+          "middlename": null,
+          "lastname": "CAREY",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5446812c38f0d832c81403dd",
+    "word_count": 1455,
+    "score": 1.0,
+    "uri": "nyt://article/0b920d38-8c2f-5588-9d91-585d7b0d9736"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2010/05/22/us/22bison.html",
+    "snippet": "A lawsuit opposing an agreement letting Mr. Turner keep bison on his ranch argues that they belong to the public.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/05/22/us/22bison01_span/22bison01_span-articleLarge.jpg",
+        "height": 350,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2010/05/22/us/22bison01_span/22bison01_span-articleLarge.jpg",
+          "xlargeheight": 350
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/05/22/us/22bison01_span/22bison01_span-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/05/22/us/22bison01_span/22bison01_span-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Deal Puts Yellowstone Bison on Ted Turner\u2019s Range",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Disputed Deal Puts Yellowstone Bison on Ted Turner\u2019s Range",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Bison",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Turner, Ted",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Yellowstone National Park",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Suits and Litigation",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Ranches",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Livestock",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Montana",
+        "rank": 7,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-05-22T02:16:16+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "byline": {
+      "original": "By KIRK JOHNSON",
+      "person": [
+        {
+          "firstname": "Kirk",
+          "middlename": null,
+          "lastname": "JOHNSON",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "54467dcc38f0d832c8140390",
+    "word_count": 1206,
+    "score": 1.0,
+    "uri": "nyt://article/490a83b0-dbcd-5771-a2d0-d9dd84f79b62"
+  }
+]

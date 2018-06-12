@@ -1,0 +1,327 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2011/03/24/us/24yucca.html",
+    "snippet": "The nuclear crisis in Japan has caused new arguments over a derailed repository for spent fuel at Yucca Mountain in Nevada.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "Japan Nuclear Crisis Revives Long U.S. Fight on Spent Fuel",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Crisis Reviving Long U.S. Fight Over Spent Fuel",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Nuclear Wastes",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Radiation",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Nuclear Energy",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Yucca Mountain (Nev)",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Energy Department",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Japan Earthquake and Tsunami (2011)",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Nuclear Regulatory Commission",
+        "rank": 7,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-03-24T01:39:02+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "byline": {
+      "original": "By MATTHEW L. WALD",
+      "person": [
+        {
+          "firstname": "Matthew",
+          "middlename": "L.",
+          "lastname": "WALD",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "540c0d3e38f0d85e13e4ce86",
+    "word_count": 1541,
+    "score": 1.0,
+    "uri": "nyt://article/35b030f3-09b5-52f6-9354-ba458f930bdf"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/03/24/world/americas/24drugs.html",
+    "snippet": "Aggressive crackdowns on criminal organizations in Mexico and Colombia have increasingly brought the powerful drug syndicates into Central America.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/03/24/world/americas/subDRUGS/subDRUGS-articleLarge-v2.jpg",
+        "height": 330,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2011/03/24/world/americas/subDRUGS/subDRUGS-articleLarge-v2.jpg",
+          "xlargeheight": 330
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/03/24/world/americas/subDRUGS/subDRUGS-thumbStandard-v2.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/03/24/world/americas/subDRUGS/subDRUGS-thumbStandard-v2.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Drug Wars Push Deeper Into Central America",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Drug Wars Push Deeper Into Central America",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Drug Abuse and Traffic",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Drug Cartels",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Central America",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Smuggling",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Drug Enforcement Administration",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "United States Coast Guard",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Honduras",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Colombia",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Costa Rica",
+        "rank": 9,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Mexico",
+        "rank": 10,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-03-24T01:17:09+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Americas",
+    "byline": {
+      "original": "By RANDAL C. ARCHIBOLD and DAMIEN CAVE",
+      "person": [
+        {
+          "firstname": "Randal",
+          "middlename": "C.",
+          "lastname": "ARCHIBOLD",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Damien",
+          "middlename": null,
+          "lastname": "CAVE",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "52b8aec138f0d86bcb2a6c66",
+    "word_count": 1835,
+    "score": 1.0,
+    "uri": "nyt://article/290d7ba1-95dc-5cf2-85d3-98b7acae3c0a"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/03/27/arts/television/coal-on-spike-aims-to-attract-male-viewers.html",
+    "snippet": "\u201cCoal,\u201d a new series on Spike, and other television series pursue the elusive 18-to-49 male audience by showing blue-collar workers risking life and limb in hardscrabble jobs.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/03/27/arts/COAL/COAL-articleLarge.jpg",
+        "height": 355,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2011/03/27/arts/COAL/COAL-articleLarge.jpg",
+          "xlargeheight": 355
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/03/27/arts/COAL/COAL-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/03/27/arts/COAL/COAL-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Grab a Brew While They Face Death",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Grab a Brew While They Face Death",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Television",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Spike TV",
+        "rank": 3,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-03-24T16:56:57+0000",
+    "document_type": "article",
+    "new_desk": "Arts&Leisure",
+    "section_name": "Television",
+    "byline": {
+      "original": "By DANA JENNINGS",
+      "person": [
+        {
+          "firstname": "Dana",
+          "middlename": null,
+          "lastname": "JENNINGS",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "540bf66a38f0d85e13e4cd26",
+    "word_count": 1431,
+    "score": 1.0,
+    "uri": "nyt://article/bab81b2d-fa42-58e3-ab37-e07ceafdc319"
+  }
+]

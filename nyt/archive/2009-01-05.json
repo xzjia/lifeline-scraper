@@ -1,0 +1,204 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2009/01/05/technology/05bluray.html",
+    "snippet": "The demise of the HD DVD video disc format appeared to hand the future of home entertainment to Blu-ray, but struggles continue.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/01/05/technology/05bluray.600.jpg",
+        "height": 279,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/01/05/technology/05bluray.600.jpg",
+          "xlargeheight": 279
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/01/05/technology/05bluray.75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/01/05/technology/05bluray.75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Blu-ray\u2019s Fuzzy Future",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Blu-ray\u2019s Fuzzy Future",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "DVD (Digital Versatile Disc)",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Recordings and Downloads (Video)",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "International Consumer Electronics Show",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Consumer Behavior",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Motion Pictures",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-01-05T05:07:09+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By MATT RICHTEL and BRAD STONE",
+      "person": [
+        {
+          "firstname": "Matt",
+          "middlename": null,
+          "lastname": "RICHTEL",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Brad",
+          "middlename": null,
+          "lastname": "STONE",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "545bd97e38f0d85e5ee91474",
+    "word_count": 1241,
+    "score": 1.0,
+    "uri": "nyt://article/70d0a59a-6b52-5f77-889b-92d35850a6eb"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/01/05/us/politics/05spend.html",
+    "snippet": "The breaks for workers and businesses are nods to critics who are worried that the economic recovery program has been too focused on government spending.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "Obama Plan Includes $300 Billion in Tax Cuts",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Obama Plan Includes $300 Billion in Tax Cuts",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Obama, Barack",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Economy",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Federal Taxes (US)",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Politics and Government",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Taxation",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-01-05T02:56:50+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "section_name": "Politics",
+    "byline": {
+      "original": "By PETER BAKER and CARL HULSE",
+      "person": [
+        {
+          "firstname": "Peter",
+          "middlename": null,
+          "lastname": "BAKER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Carl",
+          "middlename": null,
+          "lastname": "HULSE",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "545bdcaa38f0d85e5ee914c6",
+    "word_count": 1298,
+    "score": 1.0,
+    "uri": "nyt://article/b8213b2c-314d-5d85-91df-9a6e54527a27"
+  }
+]

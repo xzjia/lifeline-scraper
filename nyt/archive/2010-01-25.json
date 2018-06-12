@@ -1,0 +1,202 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2010/01/25/nyregion/25race.html",
+    "snippet": "Andrew M. Cuomo has been working to diffuse claims he is again trying to thwart the ambitions of a black candidate.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/01/25/nyregion/25race_CA0/articleLarge.jpg",
+        "height": 330,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2010/01/25/nyregion/25race_CA0/articleLarge.jpg",
+          "xlargeheight": 330
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/01/25/nyregion/25race_CA0/thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/01/25/nyregion/25race_CA0/thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Still Preparing, Cuomo Courts Black Support",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Still Preparing, Cuomo Courts Black Support",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Cuomo, Andrew M",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Elections",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "New York State",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Race",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Paterson, David A",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Blacks",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "McCall, H Carl",
+        "rank": 7,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-01-25T01:36:21+0000",
+    "document_type": "article",
+    "new_desk": "Metro",
+    "byline": {
+      "original": "By DANNY HAKIM",
+      "person": [
+        {
+          "firstname": "Danny",
+          "middlename": null,
+          "lastname": "HAKIM",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5438194938f0d83c143b889b",
+    "word_count": 1243,
+    "score": 1.0,
+    "uri": "nyt://article/463a7782-58bc-5362-bb2f-f902902ce1b3"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2010/01/25/health/policy/25insure.html",
+    "snippet": "A dispute between a chain of New York hospitals and UnitedHealthcare could affect millions with private health insurance.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "Insurer Steps Up Fight to Control Health Care Cost",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "INSURER STEPS UP FIGHT TO CONTROL HEALTH CARE COST",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Health Insurance and Managed Care",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Reform and Reorganization",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "United Healthcare Insurance Co",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Continuum Health Partners",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "New York City",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Hospitals",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-01-25T01:47:10+0000",
+    "document_type": "article",
+    "new_desk": "Metro",
+    "section_name": "Money & Policy",
+    "byline": {
+      "original": "By ANEMONA HARTOCOLLIS",
+      "person": [
+        {
+          "firstname": "Anemona",
+          "middlename": null,
+          "lastname": "HARTOCOLLIS",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "543819fe38f0d83c143b893f",
+    "word_count": 1530,
+    "score": 1.0,
+    "uri": "nyt://article/0e22f03a-05b2-5be4-a9b9-f490f349f32a"
+  }
+]

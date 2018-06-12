@@ -1,0 +1,756 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2012/01/06/world/middleeast/iraqi-moves-to-embrace-militia-opens-new-fault-lines.html",
+    "snippet": "A move by Iraq\u2019s government to welcome a deadly insurgent group into its political system is adding to sectarian tensions and could tilt the nation\u2019s center of gravity closer to Iran.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/01/06/world/militia1/militia1-articleLarge.jpg",
+        "height": 359,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2012/01/06/world/militia1/militia1-articleLarge.jpg",
+          "xlargeheight": 359
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/01/06/world/militia1/militia1-thumbStandard-v3.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2012/01/06/world/militia1/militia1-thumbStandard-v3.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Political Role for Militants Worsens Fault Lines in Iraq",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Iraqi Insurgents Take Up Politics, Raising Tensions",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Maliki, Nuri Kamal al-",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Politics and Government",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Iraq War (2003-11)",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Iran",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Shiite Muslims",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Sunni Muslims",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Iraq",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "League of the Righteous",
+        "rank": 9,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Sadr, Moktada Al-",
+        "rank": 10,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2012-01-05T23:49:40+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Middle East",
+    "byline": {
+      "original": "By JACK HEALY and MICHAEL S. SCHMIDT",
+      "person": [
+        {
+          "firstname": "Jack",
+          "middlename": null,
+          "lastname": "HEALY",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Michael",
+          "middlename": "S.",
+          "lastname": "SCHMIDT",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "53f23ef438f0d847437df7c7",
+    "word_count": 1244,
+    "score": 1.0,
+    "uri": "nyt://article/d2388a64-ad97-5fde-8e65-022eab3102a2"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2012/01/06/business/us-manufacturing-is-a-bright-spot-for-the-economy.html",
+    "snippet": "Amid signs of improvement in the overall jobs climate, manufacturing stands out as an area of strength in the American economy.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/04/19/business/norris-75-standardinline/norris-75-standardinline-thumbStandard-v2.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/04/19/business/norris-75-standardinline/norris-75-standardinline-thumbStandard-v2.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Manufacturing Is Surprising Bright Spot in U.S. Economy",
+      "kicker": "High & Low Finance",
+      "content_kicker": "High & Low Finance",
+      "print_headline": "Making More Things In the U.S.A.",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Factories and Manufacturing",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Economy",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Labor and Jobs",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Labor Department (US)",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Institute for Supply Management",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "International Trade and World Market",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2012-01-05T16:16:50+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By FLOYD NORRIS",
+      "person": [
+        {
+          "firstname": "Floyd",
+          "middlename": null,
+          "lastname": "NORRIS",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5404dd7638f0d8119d1576d9",
+    "word_count": 1025,
+    "score": 1.0,
+    "uri": "nyt://article/109ac605-abe4-545a-96ca-e05d18dd875b"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2012/01/05/us/harder-for-americans-to-rise-from-lower-rungs.html",
+    "snippet": "Americans enjoy less economic mobility than their peers in Canada and much of Western Europe in part because of the depth of poverty, family background and the gaps between the rich and the rest.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/01/05/us/jp-MOBILITY/jp-MOBILITY-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2012/01/05/us/jp-MOBILITY/jp-MOBILITY-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Harder for Americans to Rise From Lower Rungs",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Harder for Americans to Rise From Economy\u2019s Lower Rungs",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "United States Economy",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Economic Conditions and Trends",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Income Inequality",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Europe",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Canada",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Denmark",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Great Britain",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Poverty",
+        "rank": 8,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2012-01-05T03:26:20+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "byline": {
+      "original": "By JASON DePARLE",
+      "person": [
+        {
+          "firstname": "Jason",
+          "middlename": null,
+          "lastname": "DePARLE",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "53f260f338f0d847437df9b3",
+    "word_count": 1514,
+    "score": 1.0,
+    "uri": "nyt://article/cf5f1e66-5c58-5676-99ff-711845a60ccc"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2012/01/05/us/politics/romney-showing-financial-muscle-for-next-round.html",
+    "snippet": "Mitt Romney displayed his organizational and financial muscle in New Hampshire as Rick Santorum\u2019s campaign struggled to keep up with its new top-tier status.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/01/05/us/politics/CAMPAIGN/CAMPAIGN-articleLarge.jpg",
+        "height": 330,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2012/01/05/us/politics/CAMPAIGN/CAMPAIGN-articleLarge.jpg",
+          "xlargeheight": 330
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/01/05/us/politics/CAMPAIGN/CAMPAIGN-thumbStandard-v2.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2012/01/05/us/politics/CAMPAIGN/CAMPAIGN-thumbStandard-v2.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Romney Takes a Victory Lap as Santorum Plays Catch-Up",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Romney Showing Financial Muscle For Next Round",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Presidential Election of 2012",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Political Advertising",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Political Action Committees",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Romney, Mitt",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Republican Party",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Paul, Ron",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Santorum, Rick",
+        "rank": 7,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2012-01-05T02:11:03+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "section_name": "Politics",
+    "byline": {
+      "original": "By JIM RUTENBERG and JEFF ZELENY",
+      "person": [
+        {
+          "firstname": "Jim",
+          "middlename": null,
+          "lastname": "RUTENBERG",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Jeff",
+          "middlename": null,
+          "lastname": "ZELENY",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5404d49638f0d8119d15765d",
+    "word_count": 1253,
+    "score": 1.0,
+    "uri": "nyt://article/05b9917a-7112-5709-bc0c-8923a103c000"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2012/01/05/world/europe/turkeys-glow-dims-as-government-limits-free-speech.html",
+    "snippet": "While Washington and Europe praise Turkey as the model of Muslim democracy for the Arab world, human rights advocates say the government is curbing press freedom.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/01/05/world/jp-turkey_337_span/jp-turkey-articleLarge.jpg",
+        "height": 330,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2012/01/05/world/jp-turkey_337_span/jp-turkey-articleLarge.jpg",
+          "xlargeheight": 330
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/01/05/world/jp-turkey_337_span/jp-turkey_337_span-thumbStandard-v2.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2012/01/05/world/jp-turkey_337_span/jp-turkey_337_span-thumbStandard-v2.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Charges Against Journalists Dim the Democratic Glow in Turkey",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Charges Against Journalists Dim the Democratic Glow in Turkey",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Turkey",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Freedom of the Press",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Freedom of Speech and Expression",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Sik, Ahmet",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Erdogan, Recep Tayyip",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Gulen, Fethullah",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Politics and Government",
+        "rank": 7,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2012-01-05T03:11:36+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Europe",
+    "byline": {
+      "original": "By DAN BILEFSKY and SEBNEM ARSU",
+      "person": [
+        {
+          "firstname": "Dan",
+          "middlename": null,
+          "lastname": "BILEFSKY",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Sebnem",
+          "middlename": null,
+          "lastname": "ARSU",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5404da5a38f0d8119d1576b3",
+    "word_count": 1395,
+    "score": 1.0,
+    "uri": "nyt://article/01288c2d-a8c7-55f5-886d-f01f391da2a3"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2012/01/08/sunday-review/new-years-resolutions-stick-when-willpower-is-reinforced.html",
+    "snippet": "People who are most successful at keeping their New Year\u2019s resolutions set up their lives to minimize temptations.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/01/08/opinion/08willpower-img/08willpower-img-articleLarge-v2.jpg",
+        "height": 502,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2012/01/08/opinion/08willpower-img/08willpower-img-articleLarge-v2.jpg",
+          "xlargeheight": 502
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/01/08/opinion/08willpower-img/08willpower-img-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2012/01/08/opinion/08willpower-img/08willpower-img-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/01/08/opinion/08willpower-img/08willpower-img-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2012/01/08/opinion/08willpower-img/08willpower-img-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Be It Resolved",
+      "kicker": "News Analysis",
+      "content_kicker": "News Analysis",
+      "print_headline": "Be It Resolved",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "New Year",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Weight",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Diet and Nutrition",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Coaches and Managers",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Computers and the Internet",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Twitter",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Lifehacker",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Baumeister, Roy F",
+        "rank": 8,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2012-01-05T20:05:52+0000",
+    "document_type": "article",
+    "new_desk": "OpEd",
+    "byline": {
+      "original": "By JOHN TIERNEY",
+      "person": [
+        {
+          "firstname": "John",
+          "middlename": null,
+          "lastname": "TIERNEY",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News Analysis",
+    "_id": "51c1c9ed7e0d9c0839d2997f",
+    "word_count": 2012,
+    "score": 1.0,
+    "uri": "nyt://article/7752bbe1-280d-546b-bb2d-061d7abd5f9c"
+  }
+]

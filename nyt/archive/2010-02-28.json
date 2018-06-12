@@ -1,0 +1,93 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2010/03/01/world/americas/01chile.html",
+    "snippet": "The police tried to disperse crowds in Concepci\u00f3n after outbreaks of looting, but authorities eventually settled on a system that allowed staples to be taken.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/03/01/world/01chile01/01chile01-articleLarge.jpg",
+        "height": 330,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2010/03/01/world/01chile01/01chile01-articleLarge.jpg",
+          "xlargeheight": 330
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/03/01/world/01chile01/01chile01-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/03/01/world/01chile01/01chile01-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Frantic Rescue Efforts in Chile as Troops Seek to Keep Order",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Rescue Efforts Grow as Chile Calls on Army",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Earthquakes",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Chile",
+        "rank": 2,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-02-28T14:15:59+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Americas",
+    "byline": {
+      "original": "By MARC LACEY",
+      "person": [
+        {
+          "firstname": "Marc",
+          "middlename": null,
+          "lastname": "LACEY",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "54435fb438f0d8246e88d18a",
+    "word_count": 1161,
+    "score": 1.0,
+    "uri": "nyt://article/925f9717-4cca-50ac-b0df-71db2b97d861"
+  }
+]

@@ -1,0 +1,861 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2013/03/27/technology/internet/online-dispute-becomes-internet-snarling-attack.html",
+    "snippet": "A squabble between a group battling spam and a Web hosting company said to be sending it has escalated into an attack clogging up infrastructure worldwide.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "Firm Is Accused of Sending Spam, and Fight Jams Internet",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Dispute on Spam Stirs Big Assault on the Internet",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Computers and the Internet",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Spam (Electronic)",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Computer Security",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Europe",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Cyberattacks and Hackers",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Cyberbunker",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Spamhaus",
+        "rank": 7,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2013-03-27T01:08:43+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "section_name": "Internet",
+    "byline": {
+      "original": "By JOHN MARKOFF and NICOLE PERLROTH",
+      "person": [
+        {
+          "firstname": "John",
+          "middlename": null,
+          "lastname": "MARKOFF",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Nicole",
+          "middlename": null,
+          "lastname": "PERLROTH",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5152469ffdc5926e770027bd",
+    "word_count": 979,
+    "score": 1.0,
+    "uri": "nyt://article/a87772d7-1be3-5e74-97bf-9f69b9113872"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2013/03/28/theater/the-flap-over-the-flick-at-playwrights-horizons.html",
+    "snippet": "At Playwrights Horizons, a theater dedicated to new work, some audience members have walked out of \u201cThe Flick,\u201d by Annie Baker, and the artistic director has sent an explanation by e-mail.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/03/28/arts/28ISHERWOOD/28ISHERWOOD-articleLarge.jpg",
+        "height": 348,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2013/03/28/arts/28ISHERWOOD/28ISHERWOOD-articleLarge.jpg",
+          "xlargeheight": 348
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/03/28/arts/28ISHERWOOD/28ISHERWOOD-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2013/03/28/arts/28ISHERWOOD/28ISHERWOOD-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/03/28/arts/28ISHERWOOD/28ISHERWOOD-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2013/03/28/arts/28ISHERWOOD/28ISHERWOOD-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Didn\u2019t Like Our Play? You\u2019re Right. Very Sorry.",
+      "kicker": "Critic\u2019s Notebook",
+      "content_kicker": "Critic\u2019s Notebook",
+      "print_headline": "Didn\u2019t Like Our Play? You\u2019re Right. Very Sorry.",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Theater",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Playwrights Horizons",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Baker, Annie",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "creative_works",
+        "value": "The Flick (Play)",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Sanford, Tim",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2013-03-27T21:38:38+0000",
+    "document_type": "article",
+    "new_desk": "Culture",
+    "byline": {
+      "original": "By CHARLES ISHERWOOD",
+      "person": [
+        {
+          "firstname": "Charles",
+          "middlename": null,
+          "lastname": "ISHERWOOD",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "515366e1fdc59278db000110",
+    "word_count": 1147,
+    "score": 1.0,
+    "uri": "nyt://article/09a2cae1-cdd0-5121-9daf-56f8d134fb24"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2013/03/28/world/asia/xi-jinping-imposes-austerity-measures-on-chinas-elite.html",
+    "snippet": "President Xi Jinping has imposed a form of austerity on China\u2019s free-spending elite officials, warning that graft and gluttony threaten to bring down the Communist Party.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/03/28/world/jp-china1/jp-china1-articleLarge.jpg",
+        "height": 399,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2013/03/28/world/jp-china1/jp-china1-articleLarge.jpg",
+          "xlargeheight": 399
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/03/28/world/jp-china1/jp-china1-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2013/03/28/world/jp-china1/jp-china1-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/03/28/world/jp-china1/jp-china1-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2013/03/28/world/jp-china1/jp-china1-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Elite in China Face Austerity Under Xi\u2019s Rule",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Elite in China Face Austerity Under Xi\u2019s Rule",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "China",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Communist Party of China",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Xi Jinping",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Reform and Reorganization",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Corruption (Institutional)",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "National People's Congress (China)",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2013-03-27T22:38:05+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Asia Pacific",
+    "byline": {
+      "original": "By ANDREW JACOBS",
+      "person": [
+        {
+          "firstname": "Andrew",
+          "middlename": null,
+          "lastname": "JACOBS",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "515374cffdc59278db000152",
+    "word_count": 1148,
+    "score": 1.0,
+    "uri": "nyt://article/bc1255ae-e08d-578a-9877-0da8928e6124"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2013/03/28/business/media/nbc-is-said-to-offer-lauers-job-to-cooper.html",
+    "snippet": "An NBC executive is said to have asked Anderson Cooper if he would consider taking Matt Lauer\u2019s job as co-host on the \u201cToday\u201d show, which has slumped in the ratings.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/03/27/business/video-tc-130327-lauer-cooper/video-tc-130327-lauer-cooper-articleLarge.jpg",
+        "height": 338,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2013/03/27/business/video-tc-130327-lauer-cooper/video-tc-130327-lauer-cooper-articleLarge.jpg",
+          "xlargeheight": 338
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/03/27/business/video-tc-130327-lauer-cooper/video-tc-130327-lauer-cooper-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2013/03/27/business/video-tc-130327-lauer-cooper/video-tc-130327-lauer-cooper-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/03/27/business/video-tc-130327-lauer-cooper/video-tc-130327-lauer-cooper-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2013/03/27/business/video-tc-130327-lauer-cooper/video-tc-130327-lauer-cooper-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Call to a CNN Host Hints at a Shifting \u2018Today\u2019",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Call to a CNN Host Hints at a Shifting \u2018Today\u2019",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "organizations",
+        "value": "NBC News",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "creative_works",
+        "value": "Today (TV Program)",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Lauer, Matt",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Cooper, Anderson",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Television",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "CNN",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2013-03-27T15:34:05+0000",
+    "document_type": "article",
+    "new_desk": "Media",
+    "section_name": "Media",
+    "byline": {
+      "original": "By BRIAN STELTER",
+      "person": [
+        {
+          "firstname": "Brian",
+          "middlename": null,
+          "lastname": "STELTER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5153116ffdc5926e770029d0",
+    "word_count": 1023,
+    "score": 1.0,
+    "uri": "nyt://article/aae0fe3d-83e0-5656-9959-f549b89347c6"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2013/03/28/us/supreme-court-defense-of-marriage-act.html",
+    "snippet": "Justice Anthony M. Kennedy\u2019s questions on the Defense of Marriage Act suggested he was prepared to side with the court\u2019s four liberal members to strike down a central provision.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/03/28/us/sub-jp-SCOTUS/sub-jp-SCOTUS-articleLarge.jpg",
+        "height": 369,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2013/03/28/us/sub-jp-SCOTUS/sub-jp-SCOTUS-articleLarge.jpg",
+          "xlargeheight": 369
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/03/28/us/sub-jp-SCOTUS/sub-jp-SCOTUS-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2013/03/28/us/sub-jp-SCOTUS/sub-jp-SCOTUS-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/03/28/us/sub-jp-SCOTUS/sub-jp-SCOTUS-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2013/03/28/us/sub-jp-SCOTUS/sub-jp-SCOTUS-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Justices Cast Doubt on Benefits Ban in U.S. Marriage Law",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Justices Cast Doubt on U.S. Law Defining Marriage",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "organizations",
+        "value": "Supreme Court",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Defense of Marriage Act (1996)",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Same-Sex Marriage, Civil Unions and Domestic Partnerships",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Windsor, Edith",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Spyer, Thea Clara",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2013-03-27T09:36:58+0000",
+    "document_type": "article",
+    "new_desk": "Washington",
+    "byline": {
+      "original": "By ADAM LIPTAK and PETER BAKER",
+      "person": [
+        {
+          "firstname": "Adam",
+          "middlename": null,
+          "lastname": "LIPTAK",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Peter",
+          "middlename": null,
+          "lastname": "BAKER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5152bdc6fdc5926e770028e7",
+    "word_count": 1316,
+    "score": 1.0,
+    "uri": "nyt://article/bde15633-452f-5c63-b96b-38128b89f784"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2013/03/27/nyregion/shore-rebuilding-renters-go-south-for-summer.html",
+    "snippet": "At a time when many vacation properties would be fully booked for the season, Jersey Shore renters have turned to areas where Hurricane Sandy caused little damage.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/03/27/nyregion/JERSEY/JERSEY-articleLarge.jpg",
+        "height": 440,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2013/03/27/nyregion/JERSEY/JERSEY-articleLarge.jpg",
+          "xlargeheight": 440
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/03/27/nyregion/JERSEY/JERSEY-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2013/03/27/nyregion/JERSEY/JERSEY-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/03/27/nyregion/JERSEY/JERSEY-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2013/03/27/nyregion/JERSEY/JERSEY-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Shore Rebuilding, Renters Go South for Summer",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Shore Rebuilding, Renters Go South for Summer",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Renting and Leasing (Real Estate)",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "New Jersey",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Coastal Areas",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Hurricane Sandy (2012)",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Ortley Beach (NJ)",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2013-03-27T02:53:38+0000",
+    "document_type": "article",
+    "new_desk": "Metro",
+    "byline": {
+      "original": "By KATE ZERNIKE",
+      "person": [
+        {
+          "firstname": "Kate",
+          "middlename": null,
+          "lastname": "ZERNIKE",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "51525f34fdc5926e77002808",
+    "word_count": 1269,
+    "score": 1.0,
+    "uri": "nyt://article/8d978997-9aa3-5cb7-bfb6-a4b59534b513"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2013/03/28/technology/personaltech/google-keep-a-note-pad-lets-you-hold-all-thoughts.html",
+    "snippet": "Introducing the note pad Google Keep, a combination Web site and app for Android phones. Wait, that sounds like Evernote.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/03/28/technology/28pogue-illo/28pogue-illo-articleLarge.jpg",
+        "height": 366,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2013/03/28/technology/28pogue-illo/28pogue-illo-articleLarge.jpg",
+          "xlargeheight": 366
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/03/28/technology/28pogue-illo/28pogue-illo-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2013/03/28/technology/28pogue-illo/28pogue-illo-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/03/28/technology/28pogue-illo/28pogue-illo-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2013/03/28/technology/28pogue-illo/28pogue-illo-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Fleeting Thoughts, Captured by Pixels",
+      "kicker": "State of the Art",
+      "content_kicker": "State of the Art",
+      "print_headline": "Fleeting Thoughts, Captured By Pixels",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "organizations",
+        "value": "Google Inc",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Computers and the Internet",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Mobile Applications",
+        "rank": 3,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2013-03-27T19:39:34+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "section_name": "Personal Tech",
+    "byline": {
+      "original": "By DAVID POGUE",
+      "person": [
+        {
+          "firstname": "David",
+          "middlename": null,
+          "lastname": "POGUE",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "51534af7fdc59278db000082",
+    "word_count": 1271,
+    "score": 1.0,
+    "uri": "nyt://article/977750a5-3f37-53f4-9f4d-6cacf63e1da4"
+  }
+]

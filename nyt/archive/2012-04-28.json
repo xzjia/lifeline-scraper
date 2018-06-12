@@ -1,0 +1,752 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2012/04/29/nyregion/east-84th-street-as-it-was-and-as-it-is.html",
+    "snippet": "A street of the Upper East Side, in Yorkville, seems to have a pulling power for residents, who sometimes spend most of their lives there.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/04/29/nyregion/29BLOCK_SPAN/29BLOCK_SPAN-articleLarge.jpg",
+        "height": 374,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2012/04/29/nyregion/29BLOCK_SPAN/29BLOCK_SPAN-articleLarge.jpg",
+          "xlargeheight": 374
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/04/29/nyregion/29BLOCK_SPAN/29BLOCK_SPAN-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2012/04/29/nyregion/29BLOCK_SPAN/29BLOCK_SPAN-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "100 Years of Staying Put",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "100 Years Of Staying Put",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Families and Family Life",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Real Estate and Housing (Residential)",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Upper East Side (NYC)",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "New York City",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Elderly",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2012-04-28T02:54:44+0000",
+    "document_type": "article",
+    "new_desk": "Metro",
+    "byline": {
+      "original": "By BENJAMIN WEISER and NOAH ROSENBERG",
+      "person": [
+        {
+          "firstname": "Benjamin",
+          "middlename": null,
+          "lastname": "WEISER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Noah",
+          "middlename": null,
+          "lastname": "ROSENBERG",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "53f6251038f0d821a37b1d75",
+    "word_count": 2582,
+    "score": 1.0,
+    "uri": "nyt://article/e6e5c6f1-6666-5750-ab49-c56a918dbb4b"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2012/04/29/opinion/sunday/president-obama-warrior-in-chief.html",
+    "snippet": "The president who won the Nobel Peace Prize has turned out to be one of the most militarily aggressive American leaders in decades.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/04/29/sunday-review/29BERGEN/29BERGEN-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2012/04/29/sunday-review/29BERGEN/29BERGEN-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Warrior in Chief",
+      "kicker": "Opinion",
+      "content_kicker": "Opinion",
+      "print_headline": "Warrior in Chief",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Obama, Barack",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Presidents and Presidency (US)",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Terrorism",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Drones (Pilotless Planes)",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Presidential Election of 2012",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Defense and Military Forces",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "bin Laden, Osama",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Al Qaeda",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States International Relations",
+        "rank": 9,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2012-04-28T20:48:06+0000",
+    "document_type": "article",
+    "new_desk": "OpEd",
+    "section_name": "Sunday Review",
+    "byline": {
+      "original": "By PETER L. BERGEN",
+      "person": [
+        {
+          "firstname": "Peter",
+          "middlename": "L.",
+          "lastname": "BERGEN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "Op-Ed",
+    "_id": "53f62f6838f0d821a37b1e14",
+    "word_count": 1964,
+    "score": 1.0,
+    "uri": "nyt://article/41160ba0-ac4b-50ba-8f1e-2cb15130d4da"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2012/04/29/opinion/sunday/friedman-words-of-the-prophets.html",
+    "snippet": "There is a highly revealing graffiti war going on in the streets of Beirut that\u2019s sending interesting messages to Assad and Nasrallah.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2014/11/01/opinion/friedman-circular/friedman-circular-thumbWide-v2.png",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2014/11/01/opinion/friedman-circular/friedman-circular-thumbWide-v2.png",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2014/11/01/opinion/friedman-circular/friedman-circular-thumbStandard-v2.png",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2014/11/01/opinion/friedman-circular/friedman-circular-thumbStandard-v2.png",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Words of the Prophets",
+      "kicker": "Op-Ed Columnist",
+      "content_kicker": "Op-Ed Columnist",
+      "print_headline": "Words of the Prophets",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Lebanon",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Syria",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Assad, Bashar al-",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Nasrallah, Hassan",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Middle East and North Africa Unrest (2010- )",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Demonstrations, Protests, and Riots",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "International Relations",
+        "rank": 7,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2012-04-28T21:07:21+0000",
+    "document_type": "article",
+    "new_desk": "Editorial",
+    "section_name": "Sunday Review",
+    "byline": {
+      "original": "By THOMAS L. FRIEDMAN",
+      "person": [
+        {
+          "firstname": "Thomas",
+          "middlename": "L.",
+          "lastname": "FRIEDMAN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "Op-Ed",
+    "_id": "51c1f8057e0d9c0839d29f20",
+    "word_count": 1044,
+    "score": 1.0,
+    "uri": "nyt://article/646f76b9-7691-5e8d-b75d-7088ae179069"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2012/04/29/nyregion/a-different-intersection-of-religion-and-politics.html",
+    "snippet": "Dorothy Day\u2019s vision of social justice lives on as the 79th anniversary of the Catholic Worker Movement, which she founded, approaches.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/04/29/nyregion/29BIGCITY1_SPAN/29BIGCITY1_SPAN-articleLarge.jpg",
+        "height": 330,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2012/04/29/nyregion/29BIGCITY1_SPAN/29BIGCITY1_SPAN-articleLarge.jpg",
+          "xlargeheight": 330
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/04/29/nyregion/29BIGCITY1_SPAN/29BIGCITY1_SPAN-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2012/04/29/nyregion/29BIGCITY1_SPAN/29BIGCITY1_SPAN-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "A Different Intersection of Church and Politics",
+      "kicker": "Big City",
+      "content_kicker": "Big City",
+      "print_headline": "A Different Intersection Of Church and Politics",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Demonstrations, Protests, and Riots",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Occupy Wall Street",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Day, Dorothy",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Catholic Worker Movement",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "New York City",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2012-04-28T03:07:05+0000",
+    "document_type": "article",
+    "new_desk": "Metro",
+    "byline": {
+      "original": "By GINIA BELLAFANTE",
+      "person": [
+        {
+          "firstname": "Ginia",
+          "middlename": null,
+          "lastname": "BELLAFANTE",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "53f62adc38f0d821a37b1dd4",
+    "word_count": 903,
+    "score": 1.0,
+    "uri": "nyt://article/e5baee49-4fe0-51d9-8bc1-45a310d26899"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2012/04/29/business/apples-tax-strategy-aims-at-low-tax-states-and-nations.html",
+    "snippet": "Apple serves as a window on how technology giants have taken advantage of tax codes written for an industrial age and ill suited to today\u2019s digital economy.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/04/29/business/29appletax/29appletax-articleLarge.jpg",
+        "height": 360,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2012/04/29/business/29appletax/29appletax-articleLarge.jpg",
+          "xlargeheight": 360
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/04/29/business/29appletax/29appletax-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2012/04/29/business/29appletax/29appletax-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "How Apple Sidesteps Billions in Taxes",
+      "kicker": "The iEconomy",
+      "content_kicker": "The iEconomy",
+      "print_headline": "How Apple Sidesteps Billions in Taxes",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "organizations",
+        "value": "Apple Incorporated",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Corporate Taxes",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Tax Shelters",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Braeburn Capital",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Nevada",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Ireland",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Luxembourg",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Virgin Islands (GB)",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Royalties",
+        "rank": 9,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Tax Credits, Deductions and Exemptions",
+        "rank": 10,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "De Anza College",
+        "rank": 11,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Silicon Valley (Calif)",
+        "rank": 12,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Reno (Nev)",
+        "rank": 13,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Sales and Excise Taxes",
+        "rank": 14,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Series",
+        "rank": 15,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "iTunes Sarl",
+        "rank": 16,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2012-04-28T18:37:21+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By CHARLES DUHIGG and DAVID KOCIENIEWSKI",
+      "person": [
+        {
+          "firstname": "Charles",
+          "middlename": null,
+          "lastname": "DUHIGG",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "David",
+          "middlename": null,
+          "lastname": "KOCIENIEWSKI",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "515da662cf28d0219d001bbf",
+    "word_count": 3738,
+    "score": 1.0,
+    "uri": "nyt://article/3d4f6e19-f1f5-5f69-9f18-e3b748670fa0"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2012/04/29/health/policy/in-hopeful-sign-health-spending-is-flattening-out.html",
+    "snippet": "The slowing of the growth rate is partly explained by the recession, but evidence suggests that changes in the behavior of health care providers and consumers also partly account for it.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/04/29/us/JP-CARE/JP-CARE-articleLarge.jpg",
+        "height": 330,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2012/04/29/us/JP-CARE/JP-CARE-articleLarge.jpg",
+          "xlargeheight": 330
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/04/29/us/JP-CARE/JP-CARE-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2012/04/29/us/JP-CARE/JP-CARE-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "In Hopeful Sign, Health Spending Is Flattening Out",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "In Hopeful Sign, Health Spending Is Flattening Out",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Health Insurance and Managed Care",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Economy",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Patient Protection and Affordable Care Act (2010)",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Recession and Depression",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2012-04-28T22:02:34+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "section_name": "Money & Policy",
+    "byline": {
+      "original": "By ANNIE LOWREY",
+      "person": [
+        {
+          "firstname": "Annie",
+          "middlename": null,
+          "lastname": "LOWREY",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "53f6336438f0d821a37b1e47",
+    "word_count": 1289,
+    "score": 1.0,
+    "uri": "nyt://article/a1f55d97-534b-5d32-a784-e70edfcd3705"
+  }
+]

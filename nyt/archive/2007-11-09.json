@@ -1,0 +1,190 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2007/11/09/travel/escapes/09hunting.html",
+    "snippet": "Jackman, Me., is one of those small towns where life revolves around deer hunting every autumn. ",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2007/11/09/travel/09hunt600.1.jpg",
+        "height": 310,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2007/11/09/travel/09hunt600.1.jpg",
+          "xlargeheight": 310
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2007/11/09/travel/09hunt75.1.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2007/11/09/travel/09hunt75.1.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "As Deer Think of Wooing, Maine Thinks of Deer",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "As Deer Think of Wooing, Maine Thinks of Deer",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Maine",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Deer",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Travel and Vacations",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Hunting and Trapping",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2007-11-09T05:00:00+0000",
+    "document_type": "article",
+    "new_desk": "Escapes",
+    "section_name": "Escapes",
+    "byline": {
+      "original": "By SUSAN STELLIN",
+      "person": [
+        {
+          "firstname": "Susan",
+          "middlename": null,
+          "lastname": "STELLIN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "547bcce838f0d813efccb505",
+    "word_count": 1655,
+    "score": 1.0,
+    "uri": "nyt://article/b79f01d7-0cb8-58de-ae24-3be6d470adb1"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2007/11/09/washington/09mukasey.html",
+    "snippet": "Michael B. Mukasey was confirmed despite Democratic criticism of his position on interrogation methods.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2007/10/24/us/24mukasey.75.1.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2007/10/24/us/24mukasey.75.1.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Mukasey Wins Vote in Senate, Despite Doubts",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Mukasey Wins Vote in Senate, Despite Doubts",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Mukasey, Michael B",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Attorneys General",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Politics and Government",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Senate",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2007-11-09T05:00:00+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "byline": {
+      "original": "By CARL HULSE",
+      "person": [
+        {
+          "firstname": "Carl",
+          "middlename": null,
+          "lastname": "HULSE",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "548755fc38f0d8602128e104",
+    "word_count": 772,
+    "score": 1.0,
+    "uri": "nyt://article/153d7b31-0d8d-5184-be7e-c2288ee87f0f"
+  }
+]

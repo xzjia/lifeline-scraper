@@ -1,0 +1,954 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2014/03/02/opinion/sunday/dowd-brace-yourself-for-hillary-and-jeb.html",
+    "snippet": "America has 320 million people, so how do we keep ending up with the same two surnames running things?",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/09/16/opinion/Dowd_New/Dowd_New-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/09/16/opinion/Dowd_New/Dowd_New-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Brace Yourself for Hillary and Jeb",
+      "kicker": "Op-Ed Columnist",
+      "content_kicker": "Op-Ed Columnist",
+      "print_headline": "Brace Yourself for Hillary and Jeb",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Bush, Jeb",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Clinton, Hillary Rodham",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Politics and Government",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Presidential Election of 2016",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2014-03-01T19:30:02+0000",
+    "document_type": "article",
+    "new_desk": "Editorial",
+    "section_name": "Sunday Review",
+    "byline": {
+      "original": "By MAUREEN DOWD",
+      "person": [
+        {
+          "firstname": "Maureen",
+          "middlename": null,
+          "lastname": "DOWD",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "Op-Ed",
+    "_id": "5312353f38f0d81c811a1ba7",
+    "word_count": 1235,
+    "score": 1.0,
+    "uri": "nyt://article/1822b8cf-a4f5-55ae-bcf7-f68d8ee7f217"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2014/03/01/world/americas/slum-dwellers-in-caracas-ask-what-protests.html",
+    "snippet": "While the middle and upper classes have dug in against President Nicol&#225;s Maduro&#8217;s government, the poor have in large part stayed away.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2014/03/01/world/VENEZUELA/VENEZUELA-articleLarge.jpg",
+        "height": 400,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2014/03/01/world/VENEZUELA/VENEZUELA-articleLarge.jpg",
+          "xlargeheight": 400
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2014/03/01/world/VENEZUELA/VENEZUELA-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2014/03/01/world/VENEZUELA/VENEZUELA-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Slum Dwellers in Caracas Ask, What Protests?",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Slum Dwellers in Caracas Ask, What Protests?",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Demonstrations, Protests, and Riots",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Maduro, Nicolas",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Caracas (Venezuela)",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Chavez, Hugo",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Economic Conditions and Trends",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Venezuela",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2014-03-01T03:11:34+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Americas",
+    "byline": {
+      "original": "By WILLIAM NEUMAN",
+      "person": [
+        {
+          "firstname": "William",
+          "middlename": null,
+          "lastname": "NEUMAN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "53114fe938f0d828e1cd45d2",
+    "word_count": 1313,
+    "score": 1.0,
+    "uri": "nyt://article/65500639-d951-55e9-ad2a-62940b727250"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2014/03/02/world/europe/ukraine.html",
+    "snippet": "Russia\u2019s move to seize control of Ukraine\u2019s Crimean Peninsula on Saturday led Ukraine to call up its military reserves on Sunday and warn Moscow against further incursions.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2014/03/03/world/02ukraine-add-4/02ukraine-add-4-articleLarge.jpg",
+        "height": 400,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2014/03/03/world/02ukraine-add-4/02ukraine-add-4-articleLarge.jpg",
+          "xlargeheight": 400
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2014/03/03/world/02ukraine-add-4/02ukraine-add-4-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2014/03/03/world/02ukraine-add-4/02ukraine-add-4-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2014/03/03/world/02ukraine-add-4/02ukraine-add-4-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2014/03/03/world/02ukraine-add-4/02ukraine-add-4-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Ukraine Mobilizes Reserve Troops, Threatening War",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Kremlin Deploys Military to Seize Crimea",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Crimea (Ukraine)",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Russia",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Putin, Vladimir V",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Turchynov, Oleksandr V",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Defense and Military Forces",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Ukraine",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Aksyonov, Sergei",
+        "rank": 7,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2014-03-01T09:51:36+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Europe",
+    "byline": {
+      "original": "By ALISON SMALE and STEVEN ERLANGER",
+      "person": [
+        {
+          "firstname": "Alison",
+          "middlename": null,
+          "lastname": "SMALE",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Steven",
+          "middlename": null,
+          "lastname": "ERLANGER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "An Appraisal",
+    "_id": "5311adab38f0d828e1cd464b",
+    "word_count": 2286,
+    "score": 1.0,
+    "uri": "nyt://article/95530aee-2c95-507c-a11b-93477f7f511f"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2014/03/02/sunday-review/the-cuban-evolution.html",
+    "snippet": "As Ra\u00fal Castro introduces a dash of private enterprise, a new have/have-not dynamic is rising through the cracks of Communism.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2014/03/01/sunday-review/20120302_CUBAss-slide-T9J7/20120302_CUBAss-slide-T9J7-articleLarge.jpg",
+        "height": 400,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2014/03/01/sunday-review/20120302_CUBAss-slide-T9J7/20120302_CUBAss-slide-T9J7-articleLarge.jpg",
+          "xlargeheight": 400
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2014/03/01/sunday-review/20120302_CUBAss-slide-T9J7/20120302_CUBAss-slide-T9J7-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2014/03/01/sunday-review/20120302_CUBAss-slide-T9J7/20120302_CUBAss-slide-T9J7-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2014/03/01/sunday-review/20120302_CUBAss-slide-T9J7/20120302_CUBAss-slide-T9J7-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2014/03/01/sunday-review/20120302_CUBAss-slide-T9J7/20120302_CUBAss-slide-T9J7-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "The Cuban Evolution",
+      "kicker": "Dispatch",
+      "content_kicker": "Dispatch",
+      "print_headline": "The Cuban Evolution",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Income Inequality",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Castro, Fidel",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Castro, Raul",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Havana (Cuba)",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Cuba",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2014-03-01T19:52:51+0000",
+    "document_type": "article",
+    "new_desk": "OpEd",
+    "byline": {
+      "original": "By DAMIEN CAVE",
+      "person": [
+        {
+          "firstname": "Damien",
+          "middlename": null,
+          "lastname": "CAVE",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News Analysis",
+    "_id": "53123a9538f0d81c811a1bbb",
+    "word_count": 2109,
+    "score": 1.0,
+    "uri": "nyt://article/16076eac-0a67-5315-8ab8-dd15a0160836"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2014/03/01/technology/engineers-allege-hiring-collusion-in-silicon-valley.html",
+    "snippet": "A class-action suit by Silicon Valley engineers against companies including Google, Apple and Intel has revealed details of an agreement among them not to cold-call one another\u2019s employees.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2014/03/01/business/Valleyjp1/Valleyjp1-articleLarge.jpg",
+        "height": 400,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2014/03/01/business/Valleyjp1/Valleyjp1-articleLarge.jpg",
+          "xlargeheight": 400
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2014/03/01/business/Valleyjp1/Valleyjp1-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2014/03/01/business/Valleyjp1/Valleyjp1-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2014/03/01/business/Valleyjp1/Valleyjp1-thumbStandard-v2.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2014/03/01/business/Valleyjp1/Valleyjp1-thumbStandard-v2.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Engineers Allege Hiring Collusion in Silicon Valley",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Engineers Allege Hiring Collusion in Silicon Valley",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Antitrust Laws and Competition Issues",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Suits and Litigation (Civil)",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Hiring and Promotion",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Silicon Valley (Calif)",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Apple Inc",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Google Inc",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Intel Corporation",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Schmidt, Eric E",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Jobs, Steven P",
+        "rank": 9,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Otellini, Paul S",
+        "rank": 10,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Brin, Sergey",
+        "rank": 11,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Engineering and Engineers",
+        "rank": 12,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Computers and the Internet",
+        "rank": 13,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2014-03-01T01:25:59+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By DAVID STREITFELD",
+      "person": [
+        {
+          "firstname": "David",
+          "middlename": null,
+          "lastname": "STREITFELD",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5311372a38f0d828e1cd45a2",
+    "word_count": 1182,
+    "score": 1.0,
+    "uri": "nyt://article/738b8a59-0dc6-530e-a532-9b7e4814b31c"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2014/03/01/nyregion/de-blasio-picks-more-liberal-activists-than-managers-for-city-posts.html",
+    "snippet": "Mayor Bill de Blasio\u2019s appointees are like-minded advocates rather than the button-down businessmen favored by former Mayor Michael R. Bloomberg.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2014/03/01/nyregion/jp-liberal-2/jp-liberal-2-articleLarge.jpg",
+        "height": 400,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2014/03/01/nyregion/jp-liberal-2/jp-liberal-2-articleLarge.jpg",
+          "xlargeheight": 400
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2014/03/01/nyregion/jp-liberal-2/jp-liberal-2-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2014/03/01/nyregion/jp-liberal-2/jp-liberal-2-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2014/03/01/nyregion/jp-liberal-2/jp-liberal-2-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2014/03/01/nyregion/jp-liberal-2/jp-liberal-2-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "De Blasio Picks More Liberal Activists Than Managers for City Posts",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Now Holding Jobs at City Hall: Activists Who Used to Fight It",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "de Blasio, Bill",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "New York City",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Appointments and Executive Changes",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Banks, Steven",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Wiley, Maya",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Jones Austin, Jennifer",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Buery, Richard Renato Jr",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Wolfe, Emma (1979- )",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Mark-Viverito, Melissa",
+        "rank": 9,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Santucci, Laura",
+        "rank": 10,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Noerdlinger, Rachel",
+        "rank": 11,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Farina, Carmen",
+        "rank": 12,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Ragone, Peter III",
+        "rank": 13,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2014-03-01T02:24:59+0000",
+    "document_type": "article",
+    "new_desk": "Metro",
+    "byline": {
+      "original": "By NIKITA STEWART",
+      "person": [
+        {
+          "firstname": "Nikita",
+          "middlename": null,
+          "lastname": "STEWART",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "531144ff38f0d828e1cd45bb",
+    "word_count": 1493,
+    "score": 1.0,
+    "uri": "nyt://article/fc76670a-df60-5f7b-ad45-f1726eced062"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2014/03/02/sports/cycling/end-of-the-ride-for-lance-armstrong.html",
+    "snippet": "Excerpts from Juliet Macur\u2019s new book, \u201cCycle of Lies: The Fall of Lance Armstrong,\u201d examine the people closest to him and those involved in his clandestine doping.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2014/03/02/sports/ARMSTRONG/ARMSTRONG-articleLarge-v4.jpg",
+        "height": 922,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2014/03/02/sports/ARMSTRONG/ARMSTRONG-articleLarge-v4.jpg",
+          "xlargeheight": 922
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2014/03/02/sports/ARMSTRONG/ARMSTRONG-thumbWide-v2.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2014/03/02/sports/ARMSTRONG/ARMSTRONG-thumbWide-v2.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2014/03/02/sports/ARMSTRONG/ARMSTRONG-thumbStandard-v3.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2014/03/02/sports/ARMSTRONG/ARMSTRONG-thumbStandard-v3.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "End of the Ride for Lance Armstrong",
+      "kicker": "Excerpts from \u2018Cycle of Lies\u2019",
+      "content_kicker": "Excerpts from \u2018Cycle of Lies\u2019",
+      "print_headline": "End of the Ride",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Doping (Sports)",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Cycling, Road",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Tour de France (Bicycle Race)",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Armstrong, Lance",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Bicycles and Bicycling",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Books and Literature",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2014-03-01T18:42:44+0000",
+    "document_type": "article",
+    "new_desk": "Sports",
+    "section_name": "Cycling",
+    "byline": {
+      "original": "By JULIET MACUR",
+      "person": [
+        {
+          "firstname": "Juliet",
+          "middlename": null,
+          "lastname": "MACUR",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "53122a2938f0d81c811a1b85",
+    "word_count": 4392,
+    "score": 1.0,
+    "uri": "nyt://article/6c39060e-04a0-5526-8d3f-cfd077ee1466"
+  }
+]

@@ -1,0 +1,239 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2010/10/19/business/19mortgage.html",
+    "snippet": "Curtailing a moratorium sooner than expected, Bank of America said it would resume 102,000 foreclosures in 23 states where court approval is needed to go ahead.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "Largest Bank Will Resume Foreclosure Push in 23 States",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Top U.S. Bank Set to Resume Its Foreclosures",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Foreclosures",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Mortgages",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Bank of America Corp",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Banking and Financial Institutions",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Subprime Mortgage Crisis",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-10-18T20:43:09+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By NELSON D. SCHWARTZ and ANDREW MARTIN",
+      "person": [
+        {
+          "firstname": "Nelson",
+          "middlename": null,
+          "lastname": null,
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "541bcbd638f0d8296cb101ba",
+    "word_count": 1151,
+    "score": 1.0,
+    "uri": "nyt://article/77318053-70a4-5025-b4dc-d8985d2613fc"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2010/10/18/technology/18apple.html",
+    "snippet": "Apple\u2019s PC-versus-Mac battle almost put it out of business. Is it creating a similar one in the smartphone field?",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "Will Apple\u2019s Culture Hurt the iPhone?",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Will Apple\u2019s Culture Hurt The iPhone?",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "organizations",
+        "value": "Apple Inc",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "iPhone",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Smartphones",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Microsoft Corp",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Google Inc",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Android (Operating System)",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-10-18T00:18:22+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By MIGUEL HELFT",
+      "person": [
+        {
+          "firstname": "Miguel",
+          "middlename": null,
+          "lastname": "HELFT",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "541bc36038f0d8296cb100fe",
+    "word_count": 1200,
+    "score": 1.0,
+    "uri": "nyt://article/fcd370ee-cd82-5282-98de-c6c06a8ec326"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2010/10/18/us/18poverty.html",
+    "snippet": "Decades after Daniel Patrick Moynihan, scholars are conceding culture and persistent poverty are enmeshed.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/10/18/us/poverty-1/poverty-1-articleLarge.jpg",
+        "height": 350,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2010/10/18/us/poverty-1/poverty-1-articleLarge.jpg",
+          "xlargeheight": 350
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "\u2018Culture of Poverty\u2019 Makes a Comeback",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "\u2018Culture of Poverty,\u2019 Long an Academic Slur, Makes a Comeback",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Poverty",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Sociology",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "United States",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Moynihan, Daniel Patrick",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-10-18T01:55:32+0000",
+    "document_type": "article",
+    "new_desk": "Culture",
+    "byline": {
+      "original": "By PATRICIA COHEN",
+      "person": [
+        {
+          "firstname": "Patricia",
+          "middlename": null,
+          "lastname": "COHEN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "541bc51d38f0d8296cb10127",
+    "word_count": 1452,
+    "score": 1.0,
+    "uri": "nyt://article/1964494c-795b-520a-bb8a-2e7010bf8ff0"
+  }
+]

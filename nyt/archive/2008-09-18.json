@@ -1,0 +1,206 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2008/09/19/us/19scotus.html",
+    "snippet": "At issue is whether plaintiffs have the right to sue when the products that hurt them had met federal standards.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/09/19/us/19scotus_75a.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2008/09/19/us/19scotus_75a.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Drug Label, Maimed Patient and Crucial Test for Justices",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Drug Label, Maimed Patient And Crucial Test for Justices",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "organizations",
+        "value": "Supreme Court",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Drugs (Pharmaceuticals)",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Suits and Litigation",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Decisions and Verdicts",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Wyeth",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Food and Drug Administration",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Vermont",
+        "rank": 7,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2008-09-18T22:34:26+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "byline": {
+      "original": "By ADAM LIPTAK",
+      "person": [
+        {
+          "firstname": "Adam",
+          "middlename": null,
+          "lastname": "LIPTAK",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5478112d38f0d854b20b2986",
+    "word_count": 1091,
+    "score": 1.0,
+    "uri": "nyt://article/4f5faa6e-f575-5292-9eeb-69ae54eb6a4b"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2008/09/19/business/19markets.html",
+    "snippet": "The Dow industrials closed up more than 400 points, but there was little relief from the paralysis that has gripped the credit markets.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/09/19/business/19markets01-600.jpg",
+        "height": 300,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2008/09/19/business/19markets01-600.jpg",
+          "xlargeheight": 300
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Investors, Hungry for Hope, Send Dow Up 410",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Investors, Hungry for Hope, Send Dow Up 410",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Dow Jones Stock Average",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Stocks and Bonds",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Federal Reserve System",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "European Central Bank",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Economy",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2008-09-18T08:42:56+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By VIKAS BAJAJ and MICHAEL M. GRYNBAUM",
+      "person": [
+        {
+          "firstname": "Vikas",
+          "middlename": null,
+          "lastname": "BAJAJ",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Michael",
+          "middlename": null,
+          "lastname": null,
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "54780be738f0d854b20b290e",
+    "word_count": 1119,
+    "score": 1.0,
+    "uri": "nyt://article/ee8abcfb-58c1-516f-94df-418ae114c605"
+  }
+]

@@ -1,0 +1,344 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2011/01/09/us/politics/09giffords.html",
+    "snippet": "A suspect was in custody and a second was being sought after Representative Gabrielle Giffords was wounded and John M. Roll, a federal judge, was killed.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/01/09/us/sub-giffords-1294540432952/sub-giffords-1294540432952-articleLarge.jpg",
+        "height": 360,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2011/01/09/us/sub-giffords-1294540432952/sub-giffords-1294540432952-articleLarge.jpg",
+          "xlargeheight": 360
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/01/09/us/sub-giffords-1294540432952/sub-giffords-1294540432952-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/01/09/us/sub-giffords-1294540432952/sub-giffords-1294540432952-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "In Attack\u2019s Wake, Political Repercussions",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Congresswoman Is Shot in Rampage Near Tucson",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Tucson Shooting (2011)",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Giffords, Gabrielle",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Murders and Attempted Murders",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Loughner, Jared Lee",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Tucson (Ariz)",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Politics and Government",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Arizona Immigration Law (SB 1070)",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Roll, John M",
+        "rank": 8,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-01-08T18:54:00+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "section_name": "Politics",
+    "byline": {
+      "original": "By MARC LACEY and DAVID M. HERSZENHORN",
+      "person": [
+        {
+          "firstname": "Marc",
+          "middlename": null,
+          "lastname": "LACEY",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "David",
+          "middlename": null,
+          "lastname": null,
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5400b40d38f0d841b2f38477",
+    "word_count": 1881,
+    "score": 1.0,
+    "uri": "nyt://article/d6425028-dd38-53f7-b40e-a26f4b96d5aa"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/01/09/nyregion/09critic.html",
+    "snippet": "For spiritual purification for the new year, experts like kabbalah teachers and interfaith minister recommend various rituals using an egg, crystals, candles and the like.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/01/09/nyregion/09subCRITIC1/09subCRITIC1-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/01/09/nyregion/09subCRITIC1/09subCRITIC1-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Searching for the Soul to Cleanse It",
+      "kicker": "City Critic",
+      "content_kicker": "City Critic",
+      "print_headline": "Searching For the Soul To Cleanse It",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Religion and Belief",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "New Year",
+        "rank": 2,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-01-08T02:25:29+0000",
+    "document_type": "article",
+    "new_desk": "Metro",
+    "byline": {
+      "original": "By ARIEL KAMINER",
+      "person": [
+        {
+          "firstname": "Ariel",
+          "middlename": null,
+          "lastname": "KAMINER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5406425c38f0d81983bde901",
+    "word_count": 990,
+    "score": 1.0,
+    "uri": "nyt://article/5a3f1a22-c24e-5406-9c87-7071a1e7191e"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/01/08/business/08perks.html",
+    "snippet": "Experts say some firms are especially respectful of the work-life balance, and they are retaining valuable employees as a result.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/01/08/business/08perks/08perks-articleLarge.jpg",
+        "height": 382,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2011/01/08/business/08perks/08perks-articleLarge.jpg",
+          "xlargeheight": 382
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/01/08/business/08perks/08perks-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/01/08/business/08perks/08perks-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Flex Time Flourishes in Accounting Industry",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "The Retention Bonus? Time",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Accounting and Accountants",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Families and Family Life",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Working Hours",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Fringe Benefits",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Labor and Jobs",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Ernst & Young",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "PricewaterhouseCoopers",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Deloitte Touche Tohmatsu Ltd",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "KPMG",
+        "rank": 9,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-01-08T01:02:15+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By STEVEN GREENHOUSE",
+      "person": [
+        {
+          "firstname": "Steven",
+          "middlename": null,
+          "lastname": "GREENHOUSE",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "54063f7a38f0d81983bde8c8",
+    "word_count": 1289,
+    "score": 1.0,
+    "uri": "nyt://article/0a54de32-0987-532d-8e62-4017bf74f71c"
+  }
+]

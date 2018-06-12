@@ -1,0 +1,104 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2008/12/20/business/20madoff.html",
+    "snippet": "Bernard L. Madoff\u2019s fraud, the first worldwide Ponzi scheme, lasted longer, reached wider and cut deeper than anything like it in history.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/12/20/business/20madoff.600.sub'.jpg",
+        "height": 300,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2008/12/20/business/20madoff.600.sub'.jpg",
+          "xlargeheight": 300
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/12/20/business/20madoff.75.sub.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2008/12/20/business/20madoff.75.sub.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Madoff Scheme Kept Rippling Outward, Across Borders",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Madoff Scheme Kept Rippling Outward, Crossing Borders",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Madoff, Bernard L",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Ponzi Schemes",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Subprime Mortgage Crisis",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Frauds and Swindling",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2008-12-20T02:19:33+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By DIANA B. HENRIQUES",
+      "person": [
+        {
+          "firstname": "Diana",
+          "middlename": null,
+          "lastname": null,
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5475af5738f0d8119c6afe68",
+    "word_count": 5289,
+    "score": 1.0,
+    "uri": "nyt://article/b56bea52-c212-504d-8a5c-40db984bf867"
+  }
+]

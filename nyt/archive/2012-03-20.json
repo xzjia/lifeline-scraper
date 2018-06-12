@@ -1,0 +1,587 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2012/03/21/us/justice-department-opens-inquiry-in-killing-of-trayvon-martin.html",
+    "snippet": "Seven years after Florida adopted the \u201cStand Your Ground\u201d law, the shooting of Trayvon Martin, who was unarmed, has put that law at the center of an increasingly angry debate.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/03/21/us/jp-21shooting1/jp-21shooting1-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2012/03/21/us/jp-21shooting1/jp-21shooting1-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "A Florida Law Gets Scrutiny After a Teenager\u2019s Killing",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "A Florida Law Gets Scrutiny After a Killing",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Martin, Trayvon",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Murders and Attempted Murders",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Sanford (Fla)",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Zimmerman, George",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Self-Defense",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Florida",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2012-03-20T12:58:59+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "byline": {
+      "original": "By LIZETTE ALVAREZ",
+      "person": [
+        {
+          "firstname": "Lizette",
+          "middlename": null,
+          "lastname": "ALVAREZ",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "515daa2ccf28d0219d0023fc",
+    "word_count": 1627,
+    "score": 1.0,
+    "uri": "nyt://article/7122fbec-99b6-56ce-aece-81572742d742"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2012/03/21/business/us-stores-learn-the-ropes-of-shipping-to-foreign-shoppers.html",
+    "snippet": "The Web sites of many American retailers are offering to ship merchandise bought to homes in other countries.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/03/21/business/SHIPPING/SHIPPING-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2012/03/21/business/SHIPPING/SHIPPING-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "U.S. Stores Learn How to Ship to Foreign Shoppers",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "U.S. Stores Learn How to Ship to Foreign Shoppers",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Shopping and Retail",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "International Trade and World Market",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "E-Commerce",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Macy's Inc",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Delivery Services",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2012-03-20T22:01:52+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By STEPHANIE CLIFFORD",
+      "person": [
+        {
+          "firstname": "Stephanie",
+          "middlename": null,
+          "lastname": "CLIFFORD",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "53f4d33338f0d87ef470dbab",
+    "word_count": 773,
+    "score": 1.0,
+    "uri": "nyt://article/b0de7193-8c9e-580a-880a-1f72fd5c9e2b"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2012/03/20/business/for-lsat-sharp-drop-in-popularity-for-second-year.html",
+    "snippet": "The Law School Admission Test was administered 16 percent fewer times than a year ago, the largest decline in more than a decade.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "For 2nd Year, a Sharp Drop in Law School Entrance Tests",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "For 2nd Year, A Sharp Drop In Law School Entrance Tests",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Law School Admission Test (LSAT)",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Law Schools",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Legal Profession",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Law School Admission Council",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2012-03-20T01:06:28+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By DAVID SEGAL",
+      "person": [
+        {
+          "firstname": "David",
+          "middlename": null,
+          "lastname": "SEGAL",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "53f4cb5e38f0d87ef470db31",
+    "word_count": 620,
+    "score": 1.0,
+    "uri": "nyt://article/9076a7af-6e9d-5d48-ae0b-a4c7377d3bec"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2012/03/21/arts/louis-c-k-and-others-take-stand-up-to-the-web.html",
+    "snippet": "Louis C. K. has shown other comedians that Internet performances might be a way to avoid middlemen and censors.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/03/20/arts/20standup-louis/20standup-louis-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2012/03/20/arts/20standup-louis/20standup-louis-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Comics Are Now Selling Laughs by the Download",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Lucrative Punch Lines, Online",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Comedy and Humor",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "C K, Louis",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Computers and the Internet",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "E-Commerce",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Web-Original Programming",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2012-03-20T17:24:33+0000",
+    "document_type": "article",
+    "new_desk": "Culture",
+    "byline": {
+      "original": "By DAVE ITZKOFF",
+      "person": [
+        {
+          "firstname": "Dave",
+          "middlename": null,
+          "lastname": "ITZKOFF",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "53f4d07938f0d87ef470db8a",
+    "word_count": 1274,
+    "score": 1.0,
+    "uri": "nyt://article/51acdea8-d405-52af-b9cd-346d5d7af27b"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2012/03/21/business/energy-environment/us-to-place-tariffs-on-chinese-solar-panels.html",
+    "snippet": "The Commerce Department decided to impose the tariffs after concluding that the Chinese government provided illegal export subsidies to manufacturers in China.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/03/21/business/21solar-pic/21solar-pic-articleLarge-v2.jpg",
+        "height": 350,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2012/03/21/business/21solar-pic/21solar-pic-articleLarge-v2.jpg",
+          "xlargeheight": 350
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/03/21/business/21solar-pic/21solar-pic-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2012/03/21/business/21solar-pic/21solar-pic-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "A Measured Rebuttal to China Over Solar Panels",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "A Measured Rebuttal to China",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Solar Energy",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Customs (Tariff)",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "United States",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "China",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Commerce Department",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Solyndra Inc",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2012-03-20T17:44:11+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "section_name": "Energy & Environment ",
+    "byline": {
+      "original": "By KEITH BRADSHER and MATTHEW L. WALD",
+      "person": [
+        {
+          "firstname": "Keith",
+          "middlename": null,
+          "lastname": "BRADSHER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Matthew",
+          "middlename": "L.",
+          "lastname": "WALD",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "53f4cf7c38f0d87ef470db73",
+    "word_count": 1631,
+    "score": 1.0,
+    "uri": "nyt://article/8b8a2d53-b5c9-5217-bbd8-fdcb0bae338a"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2012/03/20/business/use-of-conflict-minerals-gets-more-scrutiny.html",
+    "snippet": "Certain minerals, mined in strife-torn Africa and used in products like cellphones, are part of a debate before the Securities and Exchange Commission.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/03/20/business/MINERIAL/MINERIAL-articleLarge.jpg",
+        "height": 350,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2012/03/20/business/MINERIAL/MINERIAL-articleLarge.jpg",
+          "xlargeheight": 350
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/03/20/business/MINERIAL/MINERIAL-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2012/03/20/business/MINERIAL/MINERIAL-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Use of \u2018Conflict Minerals\u2019 Gets More Scrutiny From U.S.",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Behind the Blood Money",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Conflict Minerals and Resources",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Dodd-Frank Wall Street Reform and Consumer Protection Act (2010)",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Metals and Minerals",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Congo, Democratic Republic of (Congo-Kinshasa)",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Securities and Exchange Commission",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "War Crimes, Genocide and Crimes Against Humanity",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2012-03-20T01:27:36+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By EDWARD WYATT",
+      "person": [
+        {
+          "firstname": "Edward",
+          "middlename": null,
+          "lastname": "WYATT",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "51c1e6317e0d9c0839d29d01",
+    "word_count": 1118,
+    "score": 1.0,
+    "uri": "nyt://article/fc5a6c4b-3e14-5a99-b4fe-84c6d6494430"
+  }
+]

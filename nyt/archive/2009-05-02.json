@@ -1,0 +1,447 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2009/05/03/nyregion/03homeless.html",
+    "snippet": "Shelter residents embrace a sense of purpose through the team, the newest in a nationwide league for the homeless.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/05/03/nyregion/03homeless_600.jpg",
+        "height": 330,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/05/03/nyregion/03homeless_600.jpg",
+          "xlargeheight": 330
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/05/03/nyregion/03homeless_75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/05/03/nyregion/03homeless_75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Homeless Soccer Team Roots for New Life",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "The Homeless Team, Rooting For a New Life Through Soccer",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Homeless Persons",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Soccer",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Exercise",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Wards Island (NYC)",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Help USA",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-05-02T16:20:29+0000",
+    "document_type": "article",
+    "new_desk": "Metro",
+    "byline": {
+      "original": "By JULIE BOSMAN",
+      "person": [
+        {
+          "firstname": "Julie",
+          "middlename": null,
+          "lastname": "BOSMAN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "546a24da38f0d8317bec21ac",
+    "word_count": 1144,
+    "score": 1.0,
+    "uri": "nyt://article/f2f97e7c-77ee-5bdc-abf4-aabd1158cc04"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/05/03/business/03auto.html",
+    "snippet": "If the Chrysler legal process unfolds as the White House hopes it will in coming weeks, the bankruptcy option may look increasingly attractive for General Motors as well.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/05/03/business/03auto01-600.jpg",
+        "height": 320,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/05/03/business/03auto01-600.jpg",
+          "xlargeheight": 320
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Chrysler\u2019s Fall May Help Obama to Reshape G.M.",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Chrysler\u2019s Fall May Help Obama To Reshape G.M.",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Automobiles",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Subprime Mortgage Crisis",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Chrysler LLC",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "General Motors Corp",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Bankruptcies",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Obama, Barack",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-05-02T17:02:36+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By DAVID E. SANGER and BILL VLASIC",
+      "person": [
+        {
+          "firstname": "David",
+          "middlename": "E.",
+          "lastname": "SANGER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Bill",
+          "middlename": null,
+          "lastname": "VLASIC",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "546a254c38f0d8317bec21b5",
+    "word_count": 1162,
+    "score": 1.0,
+    "uri": "nyt://article/3a75d1c9-959f-5f8b-8442-fcc7d6b12457"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/05/03/us/politics/03race.html",
+    "snippet": "More Americans indicated that they were feeling optimistic about race relations, yet no one claimed that racial prejudice has disappeared.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/05/03/us/03race_600.jpg",
+        "height": 329,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/05/03/us/03race_600.jpg",
+          "xlargeheight": 329
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/05/03/us/03race_75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/05/03/us/03race_75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Voices Reflect Rising Sense of Racial Optimism",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "In Obama Era, Voices Reflect Rising Sense of Racial Optimism",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Obama, Barack",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Race",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Blacks",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Polls and Public Opinion",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-05-02T16:08:17+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "section_name": "Politics",
+    "byline": {
+      "original": "By SUSAN SAULNY",
+      "person": [
+        {
+          "firstname": "Susan",
+          "middlename": null,
+          "lastname": "SAULNY",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "546a252538f0d8317bec21b2",
+    "word_count": 1155,
+    "score": 1.0,
+    "uri": "nyt://article/2b6406bd-2257-5762-a584-7b8fb54621b0"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/05/02/us/politics/02gitmo.html",
+    "snippet": "The Obama administration is moving toward reviving a policy that the president himself had criticized.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/05/02/us/02gitmox.alrge2.jpg",
+        "height": 360,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/05/02/us/02gitmox.alrge2.jpg",
+          "xlargeheight": 360
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/05/02/us/02gitmo.752.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/05/02/us/02gitmo.752.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "U.S. May Revive Guant\u00e1namo Military Courts",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "U.S. May Revive Guant\u00e1namo Military Courts",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Detainees",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Military Commissions Act",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Civil Rights and Liberties",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Guantanamo Bay Naval Base (Cuba)",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Terrorism",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Obama, Barack",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Bush, George W",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Holder, Eric H Jr",
+        "rank": 8,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-05-02T02:38:46+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "section_name": "Politics",
+    "byline": {
+      "original": "By WILLIAM GLABERSON",
+      "person": [
+        {
+          "firstname": "William",
+          "middlename": null,
+          "lastname": "GLABERSON",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "546a21f138f0d8317bec216a",
+    "word_count": 876,
+    "score": 1.0,
+    "uri": "nyt://article/f7272ede-57b4-5a28-bb07-7404b3405ceb"
+  }
+]

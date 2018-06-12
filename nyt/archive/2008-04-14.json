@@ -1,0 +1,105 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2008/04/14/sports/golf/14masters.html",
+    "snippet": "Trevor Immelman of South Africa won the 72nd Masters tournament on Sunday, a triumph of will by the tough 28-year-old golfer over a demanding golf course.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/04/14/sports/14maters.xlarge3.jpg",
+        "height": 350,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2008/04/14/sports/14maters.xlarge3.jpg",
+          "xlargeheight": 350
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/04/14/sports/14masters.753.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2008/04/14/sports/14masters.753.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Immelman Survives Pressure to Win Masters",
+      "kicker": "The Masters",
+      "content_kicker": "The Masters",
+      "print_headline": "Immelman Bends but Doesn\u2019t Break",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Immelman, Trevor",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Masters Golf Tournament",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Golf",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Woods, Tiger",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2008-04-14T04:00:00+0000",
+    "document_type": "article",
+    "new_desk": "Sports",
+    "section_name": "Golf",
+    "byline": {
+      "original": "By LARRY DORMAN",
+      "person": [
+        {
+          "firstname": "Larry",
+          "middlename": null,
+          "lastname": "DORMAN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "54803e3d38f0d828162888c2",
+    "word_count": 1109,
+    "score": 1.0,
+    "uri": "nyt://article/ad3841fe-ac2c-5fa7-b389-99799ae3158d"
+  }
+]

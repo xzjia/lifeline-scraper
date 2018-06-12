@@ -1,0 +1,440 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2011/02/05/sports/baseball/05mets.html",
+    "snippet": "The owners \u201cconsciously disregarded\u201d signs of fraud, according to a suit on behalf of Bernard L. Madoff\u2019s victims.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/02/05/nyregion/05mets-cnd/05mets-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/02/05/nyregion/05mets-cnd/05mets-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Madoff Profits Fueled Mets\u2019 Empire, Lawsuit Says",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Madoff Fueled Mets\u2019 Empire, Lawsuit Says",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Madoff, Bernard L",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "New York Mets",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Ponzi Schemes",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Wilpon, Fred",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Katz, Saul B",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Suits and Litigation",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Picard, Irving H",
+        "rank": 7,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-02-04T17:27:24+0000",
+    "document_type": "article",
+    "new_desk": "Sports",
+    "section_name": "Baseball",
+    "byline": {
+      "original": "By ALISON LEIGH COWAN and RICHARD SANDOMIR",
+      "person": [
+        {
+          "firstname": "Alison",
+          "middlename": "Leigh",
+          "lastname": "COWAN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Richard",
+          "middlename": null,
+          "lastname": "SANDOMIR",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "540a766338f0d84fb8833a87",
+    "word_count": 1904,
+    "score": 1.0,
+    "uri": "nyt://article/352e8194-3e22-5b1a-bb40-ae18db76b15a"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/02/04/world/americas/04cuba.html",
+    "snippet": "Hoping to resuscitate Cuba\u2019s crippled economy, President Ra\u00fal Castro has opened the door to a new, if limited, generation of entrepreneurs.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/02/04/world/04JPCUBA/04JPCUBA-articleLarge.jpg",
+        "height": 340,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2011/02/04/world/04JPCUBA/04JPCUBA-articleLarge.jpg",
+          "xlargeheight": 340
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/02/04/world/04JPCUBA/04JPCUBA-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/02/04/world/04JPCUBA/04JPCUBA-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "In a Shift, Cubans Savor Working for Themselves",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "In Shifting Economy, Cubans Savor Working for Themselves",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Cuba",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Entrepreneurship",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Economic Conditions and Trends",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Labor and Jobs",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-02-04T00:22:32+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Americas",
+    "byline": {
+      "original": "By VICTORIA BURNETT",
+      "person": [
+        {
+          "firstname": "Victoria",
+          "middlename": null,
+          "lastname": "BURNETT",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "540a6fe438f0d84fb8833a0a",
+    "word_count": 1327,
+    "score": 1.0,
+    "uri": "nyt://article/58d9d4e9-1fa4-5822-b131-628451e6a4f6"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/02/06/realestate/06cov.html",
+    "snippet": "A whole industry is built around paying tenants of rent-stabilized apartments to move, and it is cloaked in mystery.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/02/06/realestate/cover/cover-articleLarge.jpg",
+        "height": 375,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2011/02/06/realestate/cover/cover-articleLarge.jpg",
+          "xlargeheight": 375
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/02/06/realestate/cover/cover-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2011/02/06/realestate/cover/cover-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/02/06/realestate/cover/cover-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/02/06/realestate/cover/cover-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "The Lucky Break of Rent Stabilization",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "The Lucky Break",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Rent Control and Stabilization",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Housing and Real Estate",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "New York City",
+        "rank": 3,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-02-04T16:51:13+0000",
+    "document_type": "article",
+    "new_desk": "RealEstate",
+    "byline": {
+      "original": "By MARC SANTORA",
+      "person": [
+        {
+          "firstname": "Marc",
+          "middlename": null,
+          "lastname": "SANTORA",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "53bd452738f0d846b5b5d3f7",
+    "word_count": 1920,
+    "score": 1.0,
+    "uri": "nyt://article/0e076ef6-54a6-51d6-a8ad-60bc6d69b72d"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/02/04/world/middleeast/04diplomacy.html",
+    "snippet": "President Hosni Mubarak has balked at leaving, but talks are continuing with Egyptian officials about a plan in which the vice president would begin reforms, officials said.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/02/04/world/04JPDIPLOMACY/04JPDIPLOMACY-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/02/04/world/04JPDIPLOMACY/04JPDIPLOMACY-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "White House and Egypt Discuss Plan for Mubarak\u2019s Exit",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Ally Balks as White House Is Said to Press for His Rapid Exit",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "United States International Relations",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Egypt",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Mubarak, Hosni",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Obama, Barack",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Suleiman, Omar",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Demonstrations, Protests, and Riots",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-02-04T01:10:09+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Middle East",
+    "byline": {
+      "original": "By HELENE COOPER and MARK LANDLER",
+      "person": [
+        {
+          "firstname": "Helene",
+          "middlename": null,
+          "lastname": "COOPER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Mark",
+          "middlename": null,
+          "lastname": "LANDLER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "540a696938f0d84fb8833990",
+    "word_count": 1232,
+    "score": 1.0,
+    "uri": "nyt://article/748b6fd6-dded-5479-9e7b-5b181ef63ab0"
+  }
+]

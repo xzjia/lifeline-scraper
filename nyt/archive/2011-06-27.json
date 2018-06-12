@@ -1,0 +1,885 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2011/06/27/business/media/27breitbart.html",
+    "snippet": "Andrew Breitbart uses his network of Web sites and their legions of followers to bring conservative media red meat.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/06/27/business/BREIT1/BREIT1-articleLarge.jpg",
+        "height": 350,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2011/06/27/business/BREIT1/BREIT1-articleLarge.jpg",
+          "xlargeheight": 350
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/06/27/business/BREIT1/BREIT1-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/06/27/business/BREIT1/BREIT1-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "The Right\u2019s Blogger Provocateur",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "The Right\u2019s Blogger Provocateur",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Breitbart, Andrew",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "News and News Media",
+        "rank": 2,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-06-27T00:06:53+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "section_name": "Media",
+    "byline": {
+      "original": "By JEREMY W. PETERS",
+      "person": [
+        {
+          "firstname": "Jeremy",
+          "middlename": "W.",
+          "lastname": "PETERS",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "53f4308238f0d857ea2d0cd8",
+    "word_count": 1468,
+    "score": 1.0,
+    "uri": "nyt://article/d80084f6-435f-5fe1-8cc2-ea82c1ba86b8"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/06/28/world/asia/28infiltrate.html",
+    "snippet": "Officials concede that with more than 8,000 army and police recruits enlisting each month, the task of screening is monumental.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/06/28/world/JP-INFILTRATE/JP-INFILTRATE-articleLarge.jpg",
+        "height": 342,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2011/06/28/world/JP-INFILTRATE/JP-INFILTRATE-articleLarge.jpg",
+          "xlargeheight": 342
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/06/28/world/JP-INFILTRATE/JP-INFILTRATE-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/06/28/world/JP-INFILTRATE/JP-INFILTRATE-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Afghans Build Security, and Hope to Avoid Infiltrators",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Infiltrating Afghan Security Forces Can Be as Easy as Signing Up",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Afghanistan",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Defense and Military Forces",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Taliban",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Terrorism",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-06-27T23:34:24+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Asia Pacific",
+    "byline": {
+      "original": "By RAY RIVERA",
+      "person": [
+        {
+          "firstname": "Ray",
+          "middlename": null,
+          "lastname": "RIVERA",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "540f2a4338f0d87641c67749",
+    "word_count": 1471,
+    "score": 1.0,
+    "uri": "nyt://article/2bfc4916-7ace-59b8-92f4-7c40215a85bd"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/06/28/health/28rinderpest.html",
+    "snippet": "The disease, a killer of livestock in much of the world, becomes only the second, after smallpox, to be eradicated.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/06/28/science/RIND/RIND-articleLarge.jpg",
+        "height": 360,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2011/06/28/science/RIND/RIND-articleLarge.jpg",
+          "xlargeheight": 360
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/06/28/science/RIND/RIND-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/06/28/science/RIND/RIND-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Rinderpest, Scourge of Cattle, Is Vanquished",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Rinderpest, Scourge of Cattle, Is Vanquished",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Livestock Diseases",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Epidemics",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Medicine and Health",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Africa",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Europe",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-06-27T17:52:05+0000",
+    "document_type": "article",
+    "new_desk": "Science",
+    "byline": {
+      "original": "By DONALD G. McNEIL Jr",
+      "person": [
+        {
+          "firstname": "Donald",
+          "middlename": "G.",
+          "lastname": "McNEIL",
+          "qualifier": "Jr",
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "540f29b338f0d87641c6773e",
+    "word_count": 2363,
+    "score": 1.0,
+    "uri": "nyt://article/5df16659-0500-53b1-943f-ff963ceb8c08"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/06/28/us/28scotus.html",
+    "snippet": "The Supreme Court agreed with a federal court\u2019s decision to throw out California\u2019s ban on the sale or rental of violent video games to minors, saying the law violated minors\u2019 rights.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "Justices Reject Ban on Violent Video Games for Children",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Minors Can Buy Violent Games, Justices Decide",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "organizations",
+        "value": "Supreme Court",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Computer and Video Games",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Violence (In Media and Entertainment)",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Children and Youth",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-06-27T14:40:55+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By ADAM LIPTAK",
+      "person": [
+        {
+          "firstname": "Adam",
+          "middlename": null,
+          "lastname": "LIPTAK",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "540f28c138f0d87641c6772a",
+    "word_count": 1093,
+    "score": 1.0,
+    "uri": "nyt://article/52c2da04-3bbd-54fb-9e93-e97f8e8b7f81"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/06/28/us/28blagojevich.html",
+    "snippet": "A jury in Chicago convicted the former governor of Illinois, Rod R. Blagojevich, of nearly all the corruption charges against him.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/06/28/us/28Blagojevich4/28Blagojevich4-articleLarge.jpg",
+        "height": 350,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2011/06/28/us/28Blagojevich4/28Blagojevich4-articleLarge.jpg",
+          "xlargeheight": 350
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/06/28/us/28Blagojevich4/28Blagojevich4-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/06/28/us/28Blagojevich4/28Blagojevich4-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Jury Finds Blagojevich Guilty of Corruption",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Ex-Governor Found Guilty Of Corruption",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Blagojevich, Rod R",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Decisions and Verdicts",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Frauds and Swindling",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Illinois",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Corruption in Government",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-06-27T16:08:28+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "byline": {
+      "original": "By MONICA DAVEY and EMMA G. FITZSIMMONS",
+      "person": [
+        {
+          "firstname": "Monica",
+          "middlename": null,
+          "lastname": "DAVEY",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Emma",
+          "middlename": "G.",
+          "lastname": "FITZSIMMONS",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "540f296e38f0d87641c67738",
+    "word_count": 1381,
+    "score": 1.0,
+    "uri": "nyt://article/d7e731ff-697a-508f-896f-b757646eca37"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/06/27/us/27gas.html",
+    "snippet": "Energy companies have worked hard to promote natural gas as the fossil fuel of tomorrow, and they have found reliable allies in Washington. But not everyone agrees.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/06/27/us/JP-NATGAS-1/JP-NATGAS-1-articleLarge.jpg",
+        "height": 350,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2011/06/27/us/JP-NATGAS-1/JP-NATGAS-1-articleLarge.jpg",
+          "xlargeheight": 350
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/06/27/us/JP-NATGAS-1/JP-NATGAS-1-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/06/27/us/JP-NATGAS-1/JP-NATGAS-1-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Behind Veneer, Doubt on Future of Natural Gas",
+      "kicker": "Drilling Down",
+      "content_kicker": "Drilling Down",
+      "print_headline": "Behind Veneer, Doubt on Future Of Natural Gas",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Natural Gas",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Shale",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Politics and Government",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Energy Information Administration",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Drilling and Boring",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-06-27T02:31:14+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "byline": {
+      "original": "By IAN URBINA",
+      "person": [
+        {
+          "firstname": "Ian",
+          "middlename": null,
+          "lastname": "URBINA",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "540244ca38f0d80cceb1fa32",
+    "word_count": 1728,
+    "score": 1.0,
+    "uri": "nyt://article/7e018015-937f-566a-956e-8d15ea440336"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/06/27/nyregion/for-gay-marriage-movement-momentum-but-challenges.html",
+    "snippet": "Gay-rights groups say they have learned lessons that will help as they seek approval of marriage bills in other states.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "Beyond New York, Gay Marriage Faces Hurdles",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Beyond New York, Gay Marriage Faces Hurdles",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Same-Sex Marriage, Civil Unions and Domestic Partnerships",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "New York State",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "State Legislatures",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "States (US)",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Republican Party",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Law and Legislation",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-06-27T01:05:12+0000",
+    "document_type": "article",
+    "new_desk": "Metro",
+    "byline": {
+      "original": "By NICHOLAS CONFESSORE",
+      "person": [
+        {
+          "firstname": "Nicholas",
+          "middlename": null,
+          "lastname": "CONFESSORE",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "540f25c738f0d87641c676f1",
+    "word_count": 1133,
+    "score": 1.0,
+    "uri": "nyt://article/7263f511-5082-5f8a-a534-23ca9213abcb"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/06/27/science/earth/27traffic.html",
+    "snippet": "Cities want to make car use expensive and just plain miserable enough to tilt drivers toward more environmentally friendly modes of transportation.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/06/27/world/europe/TRAFFIC-1/TRAFFIC-1-articleLarge-v2.jpg",
+        "height": 315,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2011/06/27/world/europe/TRAFFIC-1/TRAFFIC-1-articleLarge-v2.jpg",
+          "xlargeheight": 315
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/06/27/world/europe/TRAFFIC-1/TRAFFIC-1-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/06/27/world/europe/TRAFFIC-1/TRAFFIC-1-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Across Europe, Irking Drivers Is Urban Policy",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Across Europe, Irking Drivers Is Urban Policy",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Roads and Traffic",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Pedestrian Malls",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Area Planning and Renewal",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Europe",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-06-27T02:53:00+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Environment",
+    "byline": {
+      "original": "By ELISABETH ROSENTHAL",
+      "person": [
+        {
+          "firstname": "Elisabeth",
+          "middlename": null,
+          "lastname": "ROSENTHAL",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "52b93c3a38f0d86bcb2a72a7",
+    "word_count": 1329,
+    "score": 1.0,
+    "uri": "nyt://article/ded97bad-1b58-5443-bf79-a88a4c58e975"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/06/27/nyregion/bloomberg-pilot-programs-avoid-red-tape-and-public-review.html",
+    "snippet": "The administration has made unprecedented use of initiatives labeled experimental to test ideas quickly and efficiently \u2014 and, critics say, undemocratically.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/06/27/nyregion/ypilot1/ypilot1-articleLarge.jpg",
+        "height": 360,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2011/06/27/nyregion/ypilot1/ypilot1-articleLarge.jpg",
+          "xlargeheight": 360
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/06/27/nyregion/ypilot1/ypilot1-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/06/27/nyregion/ypilot1/ypilot1-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "\u2018Pilot\u2019 Label Lets Mayor\u2019s Projects Skip City Review",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "\u2018Pilot\u2019 Label Lets Mayor\u2019s Projects Skip City Review",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Bloomberg, Michael R",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "New York City",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Politics and Government",
+        "rank": 3,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-06-27T00:51:40+0000",
+    "document_type": "article",
+    "new_desk": "Metro",
+    "byline": {
+      "original": "By DAVID W. CHEN and MICHAEL M. GRYNBAUM",
+      "person": [
+        {
+          "firstname": "David",
+          "middlename": "W.",
+          "lastname": "CHEN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Michael",
+          "middlename": null,
+          "lastname": null,
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "540f252e38f0d87641c676e5",
+    "word_count": 1101,
+    "score": 1.0,
+    "uri": "nyt://article/7cbf8eff-e4a9-536a-80eb-c3c479c9594b"
+  }
+]

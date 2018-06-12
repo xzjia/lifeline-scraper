@@ -1,0 +1,905 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2011/10/17/technology/amazon-rewrites-the-rules-of-book-publishing.html",
+    "snippet": "Amazon.com, the online retailer, has long competed with bookstores; now it is starting to make deals with authors, bypassing the traditional publisher.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/10/17/business/sub-jp-amazon/sub-jp-amazon-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2011/10/17/business/sub-jp-amazon/sub-jp-amazon-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/10/17/business/sub-jp-amazon/sub-jp-amazon-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/10/17/business/sub-jp-amazon/sub-jp-amazon-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Amazon Signs Up Authors, Writing Publishers Out of Deal",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Amazon Signing Up Authors, Writing Publishers Out of Deal",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Books and Literature",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Writing and Writers",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Electronic Books and Readers",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Amazon Kindle",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Book Trade and Publishing",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Amazon.com Inc",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-10-17T00:47:50+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By DAVID STREITFELD",
+      "person": [
+        {
+          "firstname": "David",
+          "middlename": null,
+          "lastname": "STREITFELD",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5206011a38f0d8740ac8ac58",
+    "word_count": 1116,
+    "score": 1.0,
+    "uri": "nyt://article/f2d1075f-0ee5-5c93-b17a-14760ab55caa"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/10/17/world/asia/cross-border-fire-frustrates-american-troops-in-afghanistan.html",
+    "snippet": "An increase in rocket fire into Afghanistan from Pakistani territory has fed suspicion and resentment among American troops.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/10/17/world/JP-BORDER/JP-BORDER-articleLarge-v2.jpg",
+        "height": 370,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2011/10/17/world/JP-BORDER/JP-BORDER-articleLarge-v2.jpg",
+          "xlargeheight": 370
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/10/17/world/JP-BORDER/JP-BORDER-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/10/17/world/JP-BORDER/JP-BORDER-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Tensions Flare as G.I.\u2019s Take Fire Out of Pakistan",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Tensions Flare as G.I.\u2019s Take Fire Out of Pakistan",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Afghanistan War (2001- )",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Afghanistan",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Pakistan",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Defense and Military Forces",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "International Relations",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "United States",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Defense and Military Forces",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States International Relations",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Taliban",
+        "rank": 9,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Haqqani Network",
+        "rank": 10,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-10-17T03:05:27+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Asia Pacific",
+    "byline": {
+      "original": "By C. J. CHIVERS",
+      "person": [
+        {
+          "firstname": "C.",
+          "middlename": "J.",
+          "lastname": "CHIVERS",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "54022d7038f0d80cceb1f957",
+    "word_count": 1629,
+    "score": 1.0,
+    "uri": "nyt://article/8d3bc58f-0f3e-54ef-be2a-b616bc31e696"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/10/18/world/africa/cyber-warfare-against-libya-was-debated-by-us.html",
+    "snippet": "Obama administration officials decided to use airstrikes to disrupt and disable the Qaddafi government in March, but only after a new kind of warfare was discussed.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "U.S. Debated Cyberwarfare in Attack Plan on Libya",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "U.S. Weighed Use Of Cyberattacks To Weaken Libya",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Cyberwarfare",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Libya",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Middle East and North Africa Unrest (2010- )",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Defense and Military Forces",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Obama, Barack",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Qaddafi, Muammar el-",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-10-17T18:36:11+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Africa",
+    "byline": {
+      "original": "By ERIC SCHMITT and THOM SHANKER",
+      "person": [
+        {
+          "firstname": "Eric",
+          "middlename": null,
+          "lastname": "SCHMITT",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Thom",
+          "middlename": null,
+          "lastname": "SHANKER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5402322938f0d80cceb1f983",
+    "word_count": 1038,
+    "score": 1.0,
+    "uri": "nyt://article/88c42fda-71b6-5526-ae41-f82a7d3fe5f4"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/10/18/arts/music/fabio-luisi-with-the-met-orchestra-at-carnegie-hall-review.html",
+    "snippet": "For Fabio Luisi, the principal conductor of the Met, the challenge is to maintain the level James Levine established, while moving his own interpretive personality into the spotlight.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/10/17/arts/met1/met1-articleLarge.jpg",
+        "height": 350,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2011/10/17/arts/met1/met1-articleLarge.jpg",
+          "xlargeheight": 350
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/10/17/arts/met1/met1-thumbStandard-v2.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/10/17/arts/met1/met1-thumbStandard-v2.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Met Orchestra and New Chief, Out of the Pit",
+      "kicker": "Music Review",
+      "content_kicker": "Music Review",
+      "print_headline": "Met Orchestra And New Chief, Out of the Pit",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Classical Music",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Luisi, Fabio",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Music",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Metropolitan Opera Orchestra",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-10-17T15:04:52+0000",
+    "document_type": "article",
+    "new_desk": "Culture",
+    "section_name": "Music",
+    "byline": {
+      "original": "By ALLAN KOZINN",
+      "person": [
+        {
+          "firstname": "Allan",
+          "middlename": null,
+          "lastname": "KOZINN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "Review",
+    "_id": "515db599cf28d0219d0040c9",
+    "word_count": 591,
+    "score": 1.0,
+    "uri": "nyt://article/3fb4a0b1-92d4-5c70-832e-cdb15ba97a2f"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/10/17/nyregion/a-casting-director-for-police-lineups.html",
+    "snippet": "The decoys in police lineups are often drawn from homeless shelters and street corners, but in the Bronx, one man plays the role of casting director for detectives.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/10/17/nyregion/sub-lineup/sub-lineup-articleLarge.jpg",
+        "height": 237,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2011/10/17/nyregion/sub-lineup/sub-lineup-articleLarge.jpg",
+          "xlargeheight": 237
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/10/17/nyregion/sub-lineup/sub-lineup-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/10/17/nyregion/sub-lineup/sub-lineup-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "For $10, He\u2019ll Find the Guys Who Didn\u2019t Do It",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "In Police Lineups, for $10, He\u2019ll Find the Guys Who Didn\u2019t Do It",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "organizations",
+        "value": "Police Department (NYC)",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Weston, Robert",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Witnesses",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Crime and Criminals",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Bronx (NYC)",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Police",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "New York City",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "False Arrests, Convictions and Imprisonments",
+        "rank": 8,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-10-17T01:12:54+0000",
+    "document_type": "article",
+    "new_desk": "Metro",
+    "byline": {
+      "original": "By JOSEPH GOLDSTEIN",
+      "person": [
+        {
+          "firstname": "Joseph",
+          "middlename": null,
+          "lastname": "GOLDSTEIN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "520b0ee338f0d8740ac8b64a",
+    "word_count": 1242,
+    "score": 1.0,
+    "uri": "nyt://article/4ee2ee5c-abda-5acb-a643-92c43295dd4d"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/10/17/us/hershey-foreign-exchange-students-pleas-were-ignored.html",
+    "snippet": "A group of exchange students sponsored by the State Department spent thousands of dollars to experience life in the United States, but what they got were arduous shifts in a factory and no help when they complained.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/10/17/us/JP-STUDENTS-1/JP-STUDENTS-1-articleLarge.jpg",
+        "height": 315,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2011/10/17/us/JP-STUDENTS-1/JP-STUDENTS-1-articleLarge.jpg",
+          "xlargeheight": 315
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/10/17/us/JP-STUDENTS-1/JP-STUDENTS-1-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/10/17/us/JP-STUDENTS-1/JP-STUDENTS-1-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Pleas Unheeded as Students\u2019 U.S. Jobs Soured",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Pleas Unheeded as Students\u2019 U.S. Jobs Soured",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "organizations",
+        "value": "Hershey Foods Corp",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Council for Educational Travel, USA",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Foreign Students (in US)",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "State Department",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Migrant and Foreign Workers",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "National Guestworker Alliance",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Working Hours",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "International Study and Teaching",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Wages and Salaries",
+        "rank": 9,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Labor and Jobs",
+        "rank": 10,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Organized Labor",
+        "rank": 11,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Palmyra (Pa)",
+        "rank": 12,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-10-17T03:05:41+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "byline": {
+      "original": "By JULIA PRESTON",
+      "person": [
+        {
+          "firstname": "Julia",
+          "middlename": null,
+          "lastname": "PRESTON",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "53f325c238f0d847437e0545",
+    "word_count": 2428,
+    "score": 1.0,
+    "uri": "nyt://article/15c90e5e-2d35-5794-afc4-9de7a60ebc90"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/10/17/technology/fcc-and-wireless-carriers-agree-to-alerts-to-fight-bill-shock.html",
+    "snippet": "Wireless carriers have been losing good will with users bitter about the sometimes exorbitant charges resulting from overuse of what has become a consumer staple \u2014 the cellphone.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "Wireless Users Will Get Alerts on Excess Use",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Wireless Users Will Get Alerts On Excess Use",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Wireless Communications",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Consumer Protection",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Federal Communications Commission",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Regulation and Deregulation of Industry",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Cellular Telephones",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Text Messaging",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Mergers, Acquisitions and Divestitures",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Prices (Fares, Fees and Rates)",
+        "rank": 8,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-10-17T04:01:15+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By EDWARD WYATT",
+      "person": [
+        {
+          "firstname": "Edward",
+          "middlename": null,
+          "lastname": "WYATT",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "54022e1e38f0d80cceb1f95f",
+    "word_count": 983,
+    "score": 1.0,
+    "uri": "nyt://article/f921160c-7cc9-5eff-b3a6-daac39d76e4b"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/10/17/us/politics/big-cash-edge-powers-obama-in-drive-for-2012-election.html",
+    "snippet": "Since the beginning of the year, President Obama and the Democratic National Committee have spent close to $87 million, which is as much as the Republicans have raised in total thus far.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "Big Cash Edge Powers Obama in Drive for \u201912",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Big Cash Edge Powers Obama In Drive for \u201912",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Obama, Barack",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Campaign Finance",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Presidential Election of 2012",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Democratic National Committee",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Republican Party",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Federal Election Commission",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-10-17T01:54:12+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "section_name": "Politics",
+    "byline": {
+      "original": "By NICHOLAS CONFESSORE and GRIFF PALMER",
+      "person": [
+        {
+          "firstname": "Nicholas",
+          "middlename": null,
+          "lastname": "CONFESSORE",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Griff",
+          "middlename": null,
+          "lastname": "PALMER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "54022e5238f0d80cceb1f960",
+    "word_count": 1002,
+    "score": 1.0,
+    "uri": "nyt://article/2db9d3d9-de30-529a-acee-687f120d2d36"
+  }
+]

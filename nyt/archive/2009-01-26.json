@@ -1,0 +1,556 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2009/01/26/us/politics/26calif.html",
+    "snippet": "President Obama will direct regulators to move swiftly on an application by 14 states to set strict automobile emissions and fuel efficiency standards.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/01/26/us/politics/26calif_span.jpg",
+        "height": 330,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/01/26/us/politics/26calif_span.jpg",
+          "xlargeheight": 330
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/01/26/us/politics/26calif_75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/01/26/us/politics/26calif_75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Obama\u2019s Order Is Likely to Tighten Auto Standards",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "OBAMA\u2019S ORDER LIKELY TO TIGHTEN AUTO STANDARDS",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Automobiles",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Greenhouse Gas Emissions",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Politics and Government",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Obama, Barack",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Fuel Efficiency",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-01-26T01:48:39+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "section_name": "Politics",
+    "byline": {
+      "original": "By JOHN M. BRODER  and PETER BAKER",
+      "person": [
+        {
+          "firstname": "John",
+          "middlename": null,
+          "lastname": null,
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "54721b5b38f0d85d607d5082",
+    "word_count": 1381,
+    "score": 1.0,
+    "uri": "nyt://article/dc325630-9166-529e-943d-11ce59067133"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/01/26/business/26drug.html",
+    "snippet": "The deal creating a pharmaceutical giant is the first big merger backed by Wall Street in months.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/01/26/business/27pfizer600.jpg",
+        "height": 362,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/01/26/business/27pfizer600.jpg",
+          "xlargeheight": 362
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Pfizer Agrees to Pay $68 Billion for Rival Drug Maker Wyeth",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "In Tight Market, Pfizer Agrees to Pay $68 Billion for Rival Wyeth",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "organizations",
+        "value": "Pfizer Inc",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Wyeth",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Drugs (Pharmaceuticals)",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Mergers, Acquisitions and Divestitures",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-01-26T02:10:39+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By ANDREW ROSS SORKIN and DUFF WILSON",
+      "person": [
+        {
+          "firstname": "Andrew",
+          "middlename": "Ross",
+          "lastname": "SORKIN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Duff",
+          "middlename": null,
+          "lastname": "WILSON",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "54721c2b38f0d85d607d5092",
+    "word_count": 1565,
+    "score": 1.0,
+    "uri": "nyt://article/57da4773-4e6d-572a-88c4-9fe149316688"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/01/26/us/politics/26grassroots.html",
+    "snippet": "President Obama is trying to bypass the news media and take messages straight to the public.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/01/26/us/politics/26grassroots_subspan.jpg",
+        "height": 331,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/01/26/us/politics/26grassroots_subspan.jpg",
+          "xlargeheight": 331
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/01/26/us/politics/26grassroots_sub75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/01/26/us/politics/26grassroots_sub75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Melding Obama\u2019s Web to a YouTube Presidency",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Melding Obama\u2019s Web to a YouTube Presidency",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Obama, Barack",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Social Networking (Internet)",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Presidential Election of 2008",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Politics and Government",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "YouTube.com",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Facebook.com",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-01-26T02:59:36+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "section_name": "Politics",
+    "byline": {
+      "original": "By JIM RUTENBERG and ADAM NAGOURNEY",
+      "person": [
+        {
+          "firstname": "Jim",
+          "middlename": null,
+          "lastname": "RUTENBERG",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Adam",
+          "middlename": null,
+          "lastname": "NAGOURNEY",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "54721d1238f0d85d607d50a8",
+    "word_count": 1654,
+    "score": 1.0,
+    "uri": "nyt://article/48bc5408-4bd1-5ca0-bce7-29cbfa7cb4ad"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/01/26/technology/26spend.html",
+    "snippet": "As consumers are finding ways to buy computers at a lower cost, high-margin businesses are hurting.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "$200 Laptops Break a Business Model",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "A Broken Business Model?",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Computers and the Internet",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Recession and Depression",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Consumer Behavior",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Laptop Computers",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Software",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Sales",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Economy",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Prices (Fares, Fees and Rates)",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Linux (Computer Operating System)",
+        "rank": 9,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-01-26T00:18:26+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By BRAD STONE and ASHLEE VANCE",
+      "person": [
+        {
+          "firstname": "Brad",
+          "middlename": null,
+          "lastname": "STONE",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Ashlee",
+          "middlename": null,
+          "lastname": "VANCE",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "547219a938f0d85d607d5056",
+    "word_count": 1244,
+    "score": 1.0,
+    "uri": "nyt://article/9c3c0bfa-4e72-5126-a383-67efd5da0887"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/01/27/health/27cancer.html",
+    "snippet": "With little public debate, Medicare has expanded its coverage for cancer treatments lacking F.D.A. approval.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/01/27/health/27cancer.190.jpg",
+        "height": 120,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2009/01/27/health/27cancer.190.jpg",
+          "widewidth": 190,
+          "wideheight": 120
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/01/27/health/27cancer.190.jpg",
+        "height": 120,
+        "width": 190,
+        "legacy": {
+          "thumbnailheight": 120,
+          "thumbnail": "images/2009/01/27/health/27cancer.190.jpg",
+          "thumbnailwidth": 190
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Medicare Widens Drugs It Accepts for Cancer",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "MEDICARE WIDENS DRUGS IT ACCEPTS FOR CANCER CARE",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Cancer",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Medicare",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Drugs (Pharmaceuticals)",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Food and Drug Administration",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Medicine and Health",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-01-26T22:08:17+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By REED ABELSON and ANDREW POLLACK",
+      "person": [
+        {
+          "firstname": "Reed",
+          "middlename": null,
+          "lastname": "ABELSON",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Andrew",
+          "middlename": null,
+          "lastname": "POLLACK",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5472229f38f0d85d607d511f",
+    "word_count": 1822,
+    "score": 1.0,
+    "uri": "nyt://article/30513b27-c1fe-5723-9b8a-2a7c49330f5f"
+  }
+]

@@ -1,0 +1,703 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2010/11/24/nyregion/24waiver.html",
+    "snippet": "New York State\u2019s education commissioner will reject Cathleen P. Black as head of city schools unless an official with education experience is her deputy.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "Education Chief Raises Doubts on Pick by Bloomberg",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "School Panel Has Deep Doubts On Mayor\u2019s Pick for Chancellor",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Education (K-12)",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Education Department (NYC)",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Steiner, David",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Bloomberg, Michael R",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Black, Cathleen P",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "New York City",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-11-23T22:17:31+0000",
+    "document_type": "article",
+    "new_desk": "Metro",
+    "byline": {
+      "original": "By JAVIER C. HERNANDEZ and SHARON OTTERMAN",
+      "person": [
+        {
+          "firstname": "Javier",
+          "middlename": "C.",
+          "lastname": "HERNANDEZ",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Sharon",
+          "middlename": null,
+          "lastname": "OTTERMAN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5420ed4f38f0d81f7a600c2d",
+    "word_count": 1004,
+    "score": 1.0,
+    "uri": "nyt://article/c935f47a-1edc-5cf8-af0c-b4a3bc659b38"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2010/11/23/us/23land.html",
+    "snippet": "It can be argued that the T.S.A. has failed in customer relations.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/11/23/us/LAND/LAND-articleLarge-v2.jpg",
+        "height": 330,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2010/11/23/us/LAND/LAND-articleLarge-v2.jpg",
+          "xlargeheight": 330
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/11/23/us/LAND/LAND-thumbStandard-v2.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/11/23/us/LAND/LAND-thumbStandard-v2.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "At a Checkpoint, Terror Fears and Testy Travelers",
+      "kicker": "This Land",
+      "content_kicker": "This Land",
+      "print_headline": "At a Checkpoint, Facing Terror Fears and, Now, Testy Travelers",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "organizations",
+        "value": "Transportation Security Administration",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Airlines and Airplanes",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Airports",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Terrorism",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Abdulmutallab, Umar Farouk",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Security and Warning Systems",
+        "rank": 7,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-11-23T02:37:16+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "byline": {
+      "original": "By DAN BARRY",
+      "person": [
+        {
+          "firstname": "Dan",
+          "middlename": null,
+          "lastname": "BARRY",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5420e05a38f0d81f7a600b0e",
+    "word_count": 1256,
+    "score": 1.0,
+    "uri": "nyt://article/6faec77e-42a1-577c-a4ee-705429ef1a7a"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2010/11/24/health/research/24aids.html",
+    "snippet": "An antiretroviral drug that is already available proved more than 90 percent effective for faithful users.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/11/24/us/24aids_inline/jp-AIDS-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/11/24/us/24aids_inline/jp-AIDS-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Daily Pill Greatly Lowers AIDS Risk, Study Finds",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "STUDY FINDS PILL\nGREATLY LOWERS\nTHE RISK OF AIDS",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Acquired Immune Deficiency Syndrome",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Gilead Sciences Incorporated",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Drugs (Pharmaceuticals)",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Clinical Trials",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "New England Journal of Medicine",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Research",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Medicine and Health",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "National Institutes of Health",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Gates, Bill and Melinda, Foundation",
+        "rank": 9,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Centers for Disease Control and Prevention",
+        "rank": 11,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-11-23T13:00:57+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "section_name": "Research",
+    "byline": {
+      "original": "By DONALD G. McNEIL Jr",
+      "person": [
+        {
+          "firstname": "Donald",
+          "middlename": "G.",
+          "lastname": "McNEIL",
+          "qualifier": "Jr",
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5420e77a38f0d81f7a600bbb",
+    "word_count": 1200,
+    "score": 1.0,
+    "uri": "nyt://article/59b212e0-aebf-56c1-af40-b0a33b5fe2bc"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2010/11/24/world/europe/24pope.html",
+    "snippet": "Pope Benedict XVI acknowledged that the need to prevent disease could outweigh opposition to birth-control devices.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/11/24/world/24pope_span/SUB-POPE-articleLarge.jpg",
+        "height": 330,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2010/11/24/world/24pope_span/SUB-POPE-articleLarge.jpg",
+          "xlargeheight": 330
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/11/24/world/24pope_span/SUB-POPE-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/11/24/world/24pope_span/SUB-POPE-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "After Condom Remarks, Vatican Confirms Shift",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Halting Disease Can Outweigh Ban on Condoms, Pope Signals",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Benedict XVI",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Condoms",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Roman Catholic Church",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Vatican City",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-11-23T18:30:51+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Europe",
+    "byline": {
+      "original": "By RACHEL DONADIO and LAURIE GOODSTEIN",
+      "person": [
+        {
+          "firstname": "Rachel",
+          "middlename": null,
+          "lastname": "DONADIO",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Laurie",
+          "middlename": null,
+          "lastname": "GOODSTEIN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5420ea0738f0d81f7a600bee",
+    "word_count": 1148,
+    "score": 1.0,
+    "uri": "nyt://article/69f83f2d-1a7f-56da-8266-befaf2cd1571"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2010/11/24/business/economy/24fed.html",
+    "snippet": "The Federal Reserve has debated setting a formal inflation target, as well as press briefings to explain its decision-making, minutes of recent meetings show.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "Fed Debated a Target for Inflation",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Fed Debated A Target For Inflation",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Bernanke, Ben S",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Federal Reserve System",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Inflation (Economics)",
+        "rank": 3,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-11-23T19:04:24+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "section_name": "Economy",
+    "byline": {
+      "original": "By SEWELL CHAN",
+      "person": [
+        {
+          "firstname": "Sewell",
+          "middlename": null,
+          "lastname": "CHAN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5420ea5538f0d81f7a600bf4",
+    "word_count": 1223,
+    "score": 1.0,
+    "uri": "nyt://article/304665cf-6ad1-5e44-8494-79ea3cd42073"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2010/11/23/sports/baseball/23boras.html",
+    "snippet": "Payments by the agent Scott Boras to prospects in the Dominican Republic are raising worry about exploitation.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/11/23/sports/boras-1/boras-1-articleLarge.jpg",
+        "height": 330,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2010/11/23/sports/boras-1/boras-1-articleLarge.jpg",
+          "xlargeheight": 330
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/11/23/sports/boras-1/boras-1-thumbStandard-v2.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/11/23/sports/boras-1/boras-1-thumbStandard-v2.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Sports Agent\u2019s Loans to Poor Players Pose Concerns",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Agent\u2019s Loans To Poor Players Pose Concerns",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Boras, Scott",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Baseball",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Major League Baseball Players Assn",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Dominican Republic",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Major League Baseball",
+        "rank": 7,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-11-23T02:15:27+0000",
+    "document_type": "article",
+    "new_desk": "Sports",
+    "section_name": "Baseball",
+    "byline": {
+      "original": "By MICHAEL S. SCHMIDT",
+      "person": [
+        {
+          "firstname": "Michael",
+          "middlename": "S.",
+          "lastname": "SCHMIDT",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5420bc4738f0d81f7a6007f0",
+    "word_count": 1413,
+    "score": 1.0,
+    "uri": "nyt://article/6ab4dc00-5abb-5a6a-855e-3a7d80e67d31"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2010/11/23/world/europe/23ireland.html",
+    "snippet": "A day after signing off on a $100 billion bailout, Prime Minister Brian Cowen said he would dissolve the government next month.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "Irish Debt Crisis Forces Collapse of Government",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "IRISH DEBT CRISIS FORCES COLLAPSE OF GOVERNMENT",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Cowen, Brian",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "European Sovereign Debt Crisis (2010- )",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Budgets and Budgeting",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Banking and Financial Institutions",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Credit and Debt",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Ireland",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "European Union",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Economic Conditions and Trends",
+        "rank": 8,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-11-23T02:46:04+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Europe",
+    "byline": {
+      "original": "By LANDON THOMAS Jr",
+      "person": [
+        {
+          "firstname": "Landon",
+          "middlename": null,
+          "lastname": "THOMAS",
+          "qualifier": "Jr",
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5420e71438f0d81f7a600bb2",
+    "word_count": 971,
+    "score": 1.0,
+    "uri": "nyt://article/51b31c98-7aaa-5787-8709-f78aeb529e9c"
+  }
+]

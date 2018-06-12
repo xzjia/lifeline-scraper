@@ -1,0 +1,560 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2009/12/01/science/01human.html",
+    "snippet": "Biologists are forming a better view of humankind than the traditional opinions of it as warlike and selfish.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/12/01/science/01human-span/articleLarge.jpg",
+        "height": 376,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/12/01/science/01human-span/articleLarge.jpg",
+          "xlargeheight": 376
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/12/01/science/01human-span/thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/12/01/science/01human-span/thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "We May Be Born With an Urge to Help",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "We May Be Born With an Urge to Help",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Psychology and Psychologists",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Archaeology and Anthropology",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Children and Youth",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Sociology",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Science and Technology",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-11-30T20:44:26+0000",
+    "document_type": "article",
+    "new_desk": "Science",
+    "byline": {
+      "original": "By NICHOLAS WADE",
+      "person": [
+        {
+          "firstname": "Nicholas",
+          "middlename": null,
+          "lastname": "WADE",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5459041e38f0d8086c45f1a2",
+    "word_count": 1715,
+    "score": 1.0,
+    "uri": "nyt://article/f40a106a-9ce2-530a-a5b0-0cd56e86317b"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/11/30/education/30space.html",
+    "snippet": "Charter schools, a third-term priority of Mayor Michael R. Bloomberg, are squeezing the city\u2019s public schools for space, and more are on their way.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "City\u2019s Schools Share Their Space, and Bitterness",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "City\u2019s Schools Share Space, And Bitterness, With Charters",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Education and Schools",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Charter Schools",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Bloomberg, Michael R",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Vouchers",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Equal Educational Opportunities",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Harlem Success Academy",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Race to the Top Fund",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Education Department (NYC)",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Klein, Joel I",
+        "rank": 9,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Duncan, Arne",
+        "rank": 10,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "New York City",
+        "rank": 11,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-11-30T01:33:12+0000",
+    "document_type": "article",
+    "new_desk": "Metro",
+    "byline": {
+      "original": "By JENNIFER MEDINA",
+      "person": [
+        {
+          "firstname": "Jennifer",
+          "middlename": null,
+          "lastname": "MEDINA",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "545900d238f0d8086c45f15e",
+    "word_count": 1255,
+    "score": 1.0,
+    "uri": "nyt://article/e7faeece-27a6-5f4c-9789-b6ba5cbf0e3d"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/11/30/business/global/30dubai.html",
+    "snippet": "Dubai is famous as the brash, secular upstart of the emirates, and Abu Dhabi is known as the religious and conservative big brother.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/11/30/business/30dubai_CA0/thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/11/30/business/30dubai_CA0/thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Crisis Puts Focus on Dubai&#8217;s Complex Relationship With Abu Dhabi",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Crisis Puts Focus on Dubai&#8217;s Complex Relationship With Abu Dhabi",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Dubai (United Arab Emirates)",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Banks and Banking",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Credit",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Abu Dhabi (United Arab Emirates)",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "United Arab Emirates",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Dubai World",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-11-30T02:21:46+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "section_name": "Global Business",
+    "byline": {
+      "original": " By ROBERT F. WORTH, HEATHER TIMMONS and LANDON THOMAS Jr",
+      "person": [
+        {
+          "firstname": "Robert",
+          "middlename": "F.",
+          "lastname": "WORTH",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Heather",
+          "middlename": null,
+          "lastname": "TIMMONS",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        },
+        {
+          "firstname": "Landon",
+          "middlename": null,
+          "lastname": "THOMAS",
+          "qualifier": "Jr",
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 3
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5459008f38f0d8086c45f157",
+    "word_count": 1136,
+    "score": 1.0,
+    "uri": "nyt://article/71562f70-6d03-5714-a8a5-a226f10bf2b0"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/11/30/science/earth/30climate.html",
+    "snippet": "A paper company proposes to use a ring of tree plantations to help stop leaks of greenhouse gases from a peat bog.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/11/29/world/30climatespan/articleLarge.jpg",
+        "height": 331,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/11/29/world/30climatespan/articleLarge.jpg",
+          "xlargeheight": 331
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/11/29/world/30climatespan/thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/11/29/world/30climatespan/thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Tree Harvester Offers to Save Indonesian Forest",
+      "kicker": "The Road to Copenhagen",
+      "content_kicker": "The Road to Copenhagen",
+      "print_headline": "Tree Harvester Offers to Save Indonesian Forest",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Greenhouse Gas Emissions",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Carbon Dioxide",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United Nations Framework Convention on Climate Change",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Indonesia",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Global Warming",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Paper and Pulp",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-11-30T00:43:29+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Environment",
+    "byline": {
+      "original": "By NORIMITSU ONISHI",
+      "person": [
+        {
+          "firstname": "Norimitsu",
+          "middlename": null,
+          "lastname": "ONISHI",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "Series",
+    "_id": "5458ffe338f0d8086c45f14c",
+    "word_count": 1417,
+    "score": 1.0,
+    "uri": "nyt://article/d627312b-216e-5e99-9277-ccdf682143bf"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/11/30/sports/30advocate.html",
+    "snippet": "Robert H. Landau\u2019s work as an activist has led to change at the school and district level in suburban Philadelphia.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/11/30/sports/30advocate_CA0/articleLarge.jpg",
+        "height": 365,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/11/30/sports/30advocate_CA0/articleLarge.jpg",
+          "xlargeheight": 365
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/11/30/sports/30advocate_CA0/thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/11/30/sports/30advocate_CA0/thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Advocating for Girls\u2019 Sports With a Sharp Tongue",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Advocating for Girls\u2019 Sports, With a Sharp-Tongued Voice",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Athletics and Sports",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Women and Girls",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Civil Rights and Liberties",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Interscholastic Athletics",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Moravian College",
+        "rank": 7,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-11-30T02:10:08+0000",
+    "document_type": "article",
+    "new_desk": "Sports",
+    "byline": {
+      "original": "By KATIE THOMAS",
+      "person": [
+        {
+          "firstname": "Katie",
+          "middlename": null,
+          "lastname": "THOMAS",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5459019238f0d8086c45f16f",
+    "word_count": 1190,
+    "score": 1.0,
+    "uri": "nyt://article/84089456-31dc-5ae8-9e2b-b53303e0c3d5"
+  }
+]

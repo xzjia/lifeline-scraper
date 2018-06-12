@@ -1,0 +1,196 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2008/05/28/health/research/28obesity.html",
+    "snippet": "Childhood obesity, on the rise for more than two decades, appears to be holding steady, a new study indicates.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/05/28/health/0528-sci-OBESITY190.126.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2008/05/28/health/0528-sci-OBESITY190.126.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Hint of Hope as Child Obesity Rate Hits Plateau",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Hint of Hope as Obesity Rate Among Children Hits Plateau",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Children and Youth",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Weight",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Medicine and Health",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Obesity",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "American Medical Assn",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2008-05-28T04:00:00+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "section_name": "Research",
+    "byline": {
+      "original": "By TARA PARKER-POPE",
+      "person": [
+        {
+          "firstname": "Tara",
+          "middlename": null,
+          "lastname": "PARKER-POPE",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5481c54038f0d874625c9164",
+    "word_count": 1072,
+    "score": 1.0,
+    "uri": "nyt://article/02286f22-d35f-58d0-861a-d416a8c8e3b0"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2008/05/28/business/28leonhardt.html",
+    "snippet": "As housing prices slowly come back to reality, buying has again started to make sense for more people.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/05/28/business/28leonhardt.L.jpg",
+        "height": 634,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2008/05/28/business/28leonhardt.L.jpg",
+          "xlargeheight": 634
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/05/28/business/28leonhardt.75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2008/05/28/business/28leonhardt.75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "As Home Prices Drop Low Enough, a Committed Renter Decides to Buy",
+      "kicker": "Economic Scene",
+      "content_kicker": "Economic Scene",
+      "print_headline": "Making the Move Into Ownership",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Housing",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Renting and Leasing",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Mortgages",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Property Taxes",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2008-05-28T04:00:00+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By DAVID LEONHARDT",
+      "person": [
+        {
+          "firstname": "David",
+          "middlename": null,
+          "lastname": "LEONHARDT",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5481c3e538f0d874625c913f",
+    "word_count": 1268,
+    "score": 1.0,
+    "uri": "nyt://article/f40a16a0-3dba-5f09-bc1e-4eb557eddbc1"
+  }
+]

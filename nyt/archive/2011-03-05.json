@@ -1,0 +1,286 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2011/03/06/nyregion/06critic.html",
+    "snippet": "New York City\u2019s public schools were early adapters in the school lunch revolution now promoted by Michelle Obama.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/03/06/nyregion/06JPCRITIC3/06JPCRITIC3-articleLarge.jpg",
+        "height": 335,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2011/03/06/nyregion/06JPCRITIC3/06JPCRITIC3-articleLarge.jpg",
+          "xlargeheight": 335
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/03/06/nyregion/06JPCRITIC3/06JPCRITIC3-thumbStandard-v2.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/03/06/nyregion/06JPCRITIC3/06JPCRITIC3-thumbStandard-v2.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Hairnets, Yes; Fried Foods, No",
+      "kicker": "City Critic",
+      "content_kicker": "City Critic",
+      "print_headline": "Hairnets, Yes; Fried Foods, No",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Lunch and Breakfast Programs",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "New York City",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Education (K-12)",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Diet and Nutrition",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-03-05T00:19:55+0000",
+    "document_type": "article",
+    "new_desk": "Metro",
+    "byline": {
+      "original": "By ARIEL KAMINER",
+      "person": [
+        {
+          "firstname": "Ariel",
+          "middlename": null,
+          "lastname": "KAMINER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5400b23538f0d841b2f38419",
+    "word_count": 929,
+    "score": 1.0,
+    "uri": "nyt://article/febab06c-51ad-5c47-a0f0-d4f2460ae725"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/03/05/science/05legal.html",
+    "snippet": "New \u201ce-discovery\u201d software can analyze millions of documents in a fraction of the time, and at a fraction of the cost consumed by human lawyers, even deducing patterns of behavior.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/03/05/us/jpLEGAL1/jpLEGAL1-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/03/05/us/jpLEGAL1/jpLEGAL1-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Armies of Expensive Lawyers, Replaced by Cheaper Software",
+      "kicker": "Smarter Than You Think",
+      "content_kicker": "Smarter Than You Think",
+      "print_headline": "Armies of Expensive Lawyers, Replaced by Cheaper Software",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Legal Profession",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Computers and the Internet",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Artificial Intelligence",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Autonomy Corp PLC",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-03-05T03:03:10+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "byline": {
+      "original": "By JOHN MARKOFF",
+      "person": [
+        {
+          "firstname": "John",
+          "middlename": null,
+          "lastname": "MARKOFF",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "540b6e4638f0d85e13e4c47f",
+    "word_count": 1612,
+    "score": 1.0,
+    "uri": "nyt://article/080260ae-3b5f-53a7-89c1-1c486f9955b8"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/03/06/nyregion/06juvenile.html",
+    "snippet": "With states raising the age of adult criminal responsibility, New York might be, by year&#8217;s end, the only state where adulthood, in criminal matters, begins at 16.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/03/06/nyregion/juvenile/juvenile-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/03/06/nyregion/juvenile/juvenile-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "States Prosecute Fewer Teenagers in Adult Courts",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "STATES PROSECUTE\nFEWER TEENAGERS\nIN ADULT COURTS",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Juvenile Delinquency",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "States (US)",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Crime and Criminals",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "New York State",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Teenagers and Adolescence",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Sentences (Criminal)",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-03-05T22:50:52+0000",
+    "document_type": "article",
+    "new_desk": "Metro",
+    "byline": {
+      "original": "By MOSI SECRET",
+      "person": [
+        {
+          "firstname": "Mosi",
+          "middlename": null,
+          "lastname": "SECRET",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "540b719238f0d85e13e4c4ae",
+    "word_count": 1510,
+    "score": 1.0,
+    "uri": "nyt://article/c456f0d5-08ba-5ddb-b93d-944825071a2c"
+  }
+]

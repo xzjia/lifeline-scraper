@@ -1,0 +1,88 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2008/03/10/arts/television/10stan.html",
+    "snippet": "\u201cThe Wire\u201d went out the way it came in five seasons ago, not so much tying up loose ends, though it did, as meticulously proving that there is no end.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/03/10/arts/wire75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2008/03/10/arts/wire75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "So Many Characters, Yet So Little Resolution",
+      "kicker": "Television Review | 'The Wire'",
+      "content_kicker": "Television Review | 'The Wire'",
+      "print_headline": "So Many Characters, Yet So Little Resolution",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Television",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Baltimore Sun",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Simon, David",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Home Box Office",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2008-03-10T04:00:00+0000",
+    "document_type": "article",
+    "new_desk": "Culture",
+    "section_name": "Television",
+    "byline": {
+      "original": "By ALESSANDRA STANLEY",
+      "person": [
+        {
+          "firstname": "Alessandra",
+          "middlename": null,
+          "lastname": "STANLEY",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "Review",
+    "_id": "54758af038f0d8119c6afb13",
+    "word_count": 1117,
+    "score": 1.0,
+    "uri": "nyt://article/70939dcc-4f9c-53ac-b26c-de11a06baca3"
+  }
+]

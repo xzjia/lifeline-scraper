@@ -1,0 +1,93 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2008/09/28/movies/28newman.html",
+    "snippet": "Mr. Newman, one of the last of the great 20th-century stars, acted in more than 65 movies over half a century.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/09/27/obituaries/27newman-75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2008/09/27/obituaries/27newman-75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Paul Newman, a Magnetic Titan of Hollywood, Is Dead at 83",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Paul Newman, a Magnetic Titan of Hollywood for a Half-Century, Is Dead at 83",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Newman, Paul",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Actors and Actresses",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Deaths (Obituaries)",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Motion Pictures",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Newman's Own",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2008-09-27T14:34:54+0000",
+    "document_type": "article",
+    "new_desk": "Metro",
+    "byline": {
+      "original": "By ALJEAN HARMETZ",
+      "person": [
+        {
+          "firstname": "Aljean",
+          "middlename": null,
+          "lastname": "HARMETZ",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "Obituary (Obit)",
+    "_id": "5478684738f0d854b20b311d",
+    "word_count": 3022,
+    "score": 1.0,
+    "uri": "nyt://article/4914e399-1292-520f-91b5-96d134abdd5f"
+  }
+]

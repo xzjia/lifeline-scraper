@@ -1,0 +1,202 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2011/01/23/us/23smithsonian.html",
+    "snippet": "Addressing a topic as fraught as race would be challenging anywhere, but it is particularly tricky within the Smithsonian.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/01/23/us/23Smithsonian1_span/Smithsonian-articleLarge.jpg",
+        "height": 350,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2011/01/23/us/23Smithsonian1_span/Smithsonian-articleLarge.jpg",
+          "xlargeheight": 350
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/01/23/us/23Smithsonian1_span/23Smithsonian1_span-thumbStandard-v2.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/01/23/us/23Smithsonian1_span/23Smithsonian1_span-thumbStandard-v2.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "The Thorny Path to a National Black Museum",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "The Thorny Path to a National Black Museum",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "organizations",
+        "value": "National Museum of African American History and Culture",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Smithsonian Institution",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Museums",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Blacks",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "National Mall (Washington, DC)",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-01-23T02:51:40+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "byline": {
+      "original": "By KATE TAYLOR",
+      "person": [
+        {
+          "firstname": "Kate",
+          "middlename": null,
+          "lastname": "TAYLOR",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "540a0c1338f0d84fb883322d",
+    "word_count": 3698,
+    "score": 1.0,
+    "uri": "nyt://article/365beb2b-ab3c-5b39-99a5-3bc8b668c845"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/01/23/health/policy/23drug.html",
+    "snippet": "The Obama administration has become so concerned about the slowing pace of new drugs coming out of the pharmaceutical industry that officials have decided to start a billion-dollar government center to help create medicines.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/01/23/us/SUB-DRUG/SUB-DRUG-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/01/23/us/SUB-DRUG/SUB-DRUG-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Federal Research Center Will Help Develop Medicines",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "A New Federal Research Center Will Help to Develop Medicines",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Drugs (Pharmaceuticals)",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "National Center for Advancing Translational Sciences",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "National Institutes of Health",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Collins, Francis S",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Research",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-01-23T01:03:44+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "section_name": "Money & Policy",
+    "byline": {
+      "original": "By GARDINER HARRIS",
+      "person": [
+        {
+          "firstname": "Gardiner",
+          "middlename": null,
+          "lastname": "HARRIS",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "53cedf7438f0d85df3bb8b2d",
+    "word_count": 1263,
+    "score": 1.0,
+    "uri": "nyt://article/da7b9f9b-dcc5-51fc-b3f0-57d2ab7e5e5b"
+  }
+]

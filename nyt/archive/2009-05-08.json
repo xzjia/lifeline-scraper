@@ -1,0 +1,94 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2009/05/09/world/africa/09pirate.html",
+    "snippet": "Somalia\u2019s pirates are the targets not just of those they attack, but also of sheiks and elders who are fed up with their vices.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/05/09/world/africa/09pirate.ms.75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/05/09/world/africa/09pirate.ms.75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "For Somali Pirates, Worst Enemy May Be on Shore",
+      "kicker": "The Pirate Chronicles",
+      "content_kicker": "The Pirate Chronicles",
+      "print_headline": "For Somali Pirates, Worst Enemy May Be Waiting Back on Shore",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Piracy at Sea",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Somalia",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Hijacking",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Fishing, Commercial",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Islam",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-05-08T17:52:22+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Africa",
+    "byline": {
+      "original": "By JEFFREY GETTLEMAN",
+      "person": [
+        {
+          "firstname": "Jeffrey",
+          "middlename": null,
+          "lastname": "GETTLEMAN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "Series",
+    "_id": "53f585fe38f0d87ef470e6a3",
+    "word_count": 1241,
+    "score": 1.0,
+    "uri": "nyt://article/503009ea-fd97-57e9-b226-2ed92479d1fd"
+  }
+]

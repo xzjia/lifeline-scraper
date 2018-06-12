@@ -1,0 +1,326 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2008/08/11/world/europe/11scene.html",
+    "snippet": "It was the question of the day among exhausted Georgians: Where are the United States and NATO?",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/08/11/world/11scene.75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2008/08/11/world/11scene.75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "On Slog to Safety, Seething at West",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Bitter Refrain Amid Retreat: Where Is U.S.?",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Georgia (Georgian Republic)",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Russia",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Immigration and Refugees",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "North Atlantic Treaty Organization",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "European Union",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Medvedev, Dmitri A",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Putin, Vladimir V",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Saakashvili, Mikheil",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Bush, George W",
+        "rank": 9,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2008-08-11T02:09:08+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Europe",
+    "byline": {
+      "original": "By ANDREW E. KRAMER  and ELLEN BARRY",
+      "person": [
+        {
+          "firstname": "Andrew",
+          "middlename": "E.",
+          "lastname": "KRAMER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Ellen",
+          "middlename": null,
+          "lastname": "BARRY",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5476a76838f0d839249020bd",
+    "word_count": 780,
+    "score": 1.0,
+    "uri": "nyt://article/5a66cf0d-d19a-57aa-ae61-f7b89f8ff75c"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2008/08/12/us/12experts.html",
+    "snippet": "Unlike in American courts, in most of the rest of the world expert witnesses are selected by judges and are meant to be neutral.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/08/11/us/12experts.graphic.190.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2008/08/11/us/12experts.graphic.190.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "In U.S., Expert Witnesses Are Partisan",
+      "kicker": "American Exception",
+      "content_kicker": "American Exception",
+      "print_headline": "Experts Hired to Shed Light Can Leave U.S. Courts in Dark",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Decisions and Verdicts",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Courts",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Witnesses",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "United States",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2008-08-11T18:44:40+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "byline": {
+      "original": "By ADAM LIPTAK",
+      "person": [
+        {
+          "firstname": "Adam",
+          "middlename": null,
+          "lastname": "LIPTAK",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "Series",
+    "_id": "5476aeb338f0d83924902163",
+    "word_count": 1504,
+    "score": 1.0,
+    "uri": "nyt://article/a01baaf1-12ce-5ddc-b32d-0b2ab3c3f30c"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2008/08/12/sports/olympics/12records.html",
+    "snippet": "Some officials ask whether so many records devalue each one, and whether technology unduly aids performance.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/08/12/sports/12records.2.600.jpg",
+        "height": 280,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2008/08/12/sports/12records.2.600.jpg",
+          "xlargeheight": 280
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/08/12/sports/12records.2.75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2008/08/12/sports/12records.2.75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "As Swimming Records Fall, Technology Muddies the Water",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "As Records Fall, Technology Muddies the Water",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Swimming",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Olympic Games (2008)",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Lezak, Jason",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Phelps, Michael",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2008-08-11T18:37:38+0000",
+    "document_type": "article",
+    "new_desk": "Sports",
+    "section_name": "Olympics",
+    "byline": {
+      "original": "By JER\u00c9 LONGMAN and GINA KOLATA",
+      "person": [
+        {
+          "firstname": "Jer\u00e9",
+          "middlename": null,
+          "lastname": "LONGMAN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Gina",
+          "middlename": null,
+          "lastname": "KOLATA",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5476af6038f0d83924902172",
+    "word_count": 1194,
+    "score": 1.0,
+    "uri": "nyt://article/55197432-118b-5c7f-b6f5-ecbaa6ce3a94"
+  }
+]

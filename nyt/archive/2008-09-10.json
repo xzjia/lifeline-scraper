@@ -1,0 +1,385 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2008/09/10/nyregion/10limits.html",
+    "snippet": "A decade after adopting rules to oust politicians, many local governments are considering a reversal.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "Across Country, New Challenges to Term Limits",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Across Country, New Challenges To Term Limits",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Term Limits (Political Office)",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Politics and Government",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Referendums",
+        "rank": 3,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2008-09-10T01:29:14+0000",
+    "document_type": "article",
+    "new_desk": "Metro",
+    "byline": {
+      "original": "By DAVID W. CHEN and MICHAEL BARBARO",
+      "person": [
+        {
+          "firstname": "David",
+          "middlename": "W.",
+          "lastname": "CHEN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Michael",
+          "middlename": null,
+          "lastname": "BARBARO",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5477bb0c38f0d854b20b21f7",
+    "word_count": 1271,
+    "score": 1.0,
+    "uri": "nyt://article/6cb70dd5-a0ce-54b3-a999-b272c2de37c4"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2008/09/10/business/businessspecial3/10FAMILY.html",
+    "snippet": "Parents may fear discussing who\u2019s getting what of the family fortune. But not discussing it can be worse.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/09/10/business/10family_600.jpg",
+        "height": 310,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2008/09/10/business/10family_600.jpg",
+          "xlargeheight": 310
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/09/10/business/10family.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2008/09/10/business/10family.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/09/10/business/10family_75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2008/09/10/business/10family_75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Learning to Share",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Learning to Share",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Personal Finances",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Wills and Estates",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Children and Youth",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Finances",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Families and Family Life",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2008-09-10T00:08:57+0000",
+    "document_type": "article",
+    "new_desk": "SpecialSections",
+    "section_name": "Business",
+    "byline": {
+      "original": "By DAVID CAY JOHNSTON",
+      "person": [
+        {
+          "firstname": "David",
+          "middlename": "Cay",
+          "lastname": "JOHNSTON",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5477ac8c38f0d854b20b20bd",
+    "word_count": 1864,
+    "score": 1.0,
+    "uri": "nyt://article/8f13eef7-cb4f-5287-818e-fece59d3cc54"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2008/09/11/business/11lehman.html",
+    "snippet": "Potential suitors, including Barclays and Bank of America, are said to be seeking help from the Fed to make an acquisition palatable.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/09/11/business/11lehman.graph.190.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2008/09/11/business/11lehman.graph.190.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Lehman Said to Be Looking for a Buyer as Pressure Builds",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Pressure Builds As Lehman Faces Mounting Losses",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "organizations",
+        "value": "Lehman Brothers Holdings Inc",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Finances",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Mortgages",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Banks and Banking",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Stocks and Bonds",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Korea Development Bank",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2008-09-10T08:33:25+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By JENNY ANDERSON and ANDREW ROSS SORKIN",
+      "person": [
+        {
+          "firstname": "Jenny",
+          "middlename": null,
+          "lastname": "ANDERSON",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Andrew",
+          "middlename": "Ross",
+          "lastname": "SORKIN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5477be1a38f0d854b20b223b",
+    "word_count": 1215,
+    "score": 1.0,
+    "uri": "nyt://article/a1896ec1-1ad4-5516-801e-5a7e0b6075b9"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2008/09/10/business/10grocery.html",
+    "snippet": "After years of building bigger grocery stores, retailers are experimenting with radically smaller ones.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "Miles of Aisles for Milk? Not Here",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Miles of Aisles for a Gallon of Milk? Not Here",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Supermarkets",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Retail Stores and Trade",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Safeway Incorporated",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Wal-Mart Stores Inc",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Whole Foods Market Inc",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Tesco Plc",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2008-09-10T01:32:05+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By ANDREW MARTIN",
+      "person": [
+        {
+          "firstname": "Andrew",
+          "middlename": null,
+          "lastname": "MARTIN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5477bab038f0d854b20b21ef",
+    "word_count": 1147,
+    "score": 1.0,
+    "uri": "nyt://article/0e69b1ab-1a69-53ba-9c9b-df3c2060637f"
+  }
+]

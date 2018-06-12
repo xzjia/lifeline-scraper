@@ -1,0 +1,703 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2010/03/31/nyregion/31cash.html",
+    "snippet": "A pilot program championed by Mayor Bloomberg has not achieved what was hoped, according to an analysis.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "City Will Stop Paying the Poor for Good Behavior",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Disappointed, City Will Stop Paying the Poor for Good Behavior",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "New York City",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Politics and Government",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Poverty",
+        "rank": 3,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-03-31T00:45:29+0000",
+    "document_type": "article",
+    "new_desk": "Metro",
+    "byline": {
+      "original": "By JULIE BOSMAN",
+      "person": [
+        {
+          "firstname": "Julie",
+          "middlename": null,
+          "lastname": "BOSMAN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "54448ecf38f0d82782d9bc19",
+    "word_count": 975,
+    "score": 1.0,
+    "uri": "nyt://article/10ac1472-b4ae-50fe-970c-a0e596140f64"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2010/03/31/world/asia/31karzai.html",
+    "snippet": "Officials have decided that Ahmed Wali Karzai, suspected of ties to drugs and insurgents,  will be allowed to stay.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/03/31/world/31karzai_CA0/31karzai_CA0-articleLarge.jpg",
+        "height": 330,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2010/03/31/world/31karzai_CA0/31karzai_CA0-articleLarge.jpg",
+          "xlargeheight": 330
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/03/31/world/31karzai_CA0/31karzai_CA0-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/03/31/world/31karzai_CA0/31karzai_CA0-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Despite Doubt, Karzai Brother Retains Power",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Despite Doubt, Karzai Brother Retains Power",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Karzai, Ahmed Wali",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Afghanistan",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Kandahar (Afghanistan)",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States International Relations",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Defense and Military Forces",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Politics and Government",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-03-31T00:41:46+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Asia Pacific",
+    "byline": {
+      "original": "By DEXTER FILKINS",
+      "person": [
+        {
+          "firstname": "Dexter",
+          "middlename": null,
+          "lastname": "FILKINS",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "54448eb838f0d82782d9bc17",
+    "word_count": 1197,
+    "score": 1.0,
+    "uri": "nyt://article/4570c14e-9651-5600-9a9e-1b01b1c32834"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2010/03/31/business/economy/31leonhardt.html",
+    "snippet": "America has not been as aggressive as it could be in alleviating toxic risks in everyday products.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/03/31/business/31leonhardt_CA0/31leonhardt_CA0-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/03/31/business/31leonhardt_CA0/31leonhardt_CA0-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Weak Rules on Toxins and Safety",
+      "kicker": "Economic Scene",
+      "content_kicker": "Economic Scene",
+      "print_headline": "Weak Rules On Toxins And Safety",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "organizations",
+        "value": "GlaxoSmithKline PLC",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Consumer Protection",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Hazardous and Toxic Substances",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Zinc",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Nerves and Nervous System",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Recalls and Bans of Products",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Medicine and Health",
+        "rank": 9,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Regulation and Deregulation of Industry",
+        "rank": 11,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-03-31T01:23:51+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "section_name": "Economy",
+    "byline": {
+      "original": "By DAVID LEONHARDT",
+      "person": [
+        {
+          "firstname": "David",
+          "middlename": null,
+          "lastname": "LEONHARDT",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "54448fa238f0d82782d9bc29",
+    "word_count": 1339,
+    "score": 1.0,
+    "uri": "nyt://article/2e93e7b5-0a30-5e5e-a54a-d56fde9a6b98"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2010/04/04/movies/04scott.html",
+    "snippet": "Critics, naturally, disagree over whether there is a future for criticism in the age of the Internet.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/04/04/arts/04scott_span-CA0/04scott_CA0-articleLarge.jpg",
+        "height": 360,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2010/04/04/arts/04scott_span-CA0/04scott_CA0-articleLarge.jpg",
+          "xlargeheight": 360
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/04/04/arts/04scott_span-CA0/04scott_span-CA0-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/04/04/arts/04scott_span-CA0/04scott_span-CA0-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "A Critic\u2019s Place, Thumb and All",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "A Critic\u2019s Place, Thumb And All",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Movies",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Ebert, Roger",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Siskel, Gene",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "McCarthy, Todd",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Schickel, Richard",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-03-31T17:15:51+0000",
+    "document_type": "article",
+    "new_desk": "Arts&Leisure",
+    "byline": {
+      "original": "By A. O. SCOTT",
+      "person": [
+        {
+          "firstname": "A.",
+          "middlename": "O.",
+          "lastname": "SCOTT",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "54448b7b38f0d82782d9bbce",
+    "word_count": 1666,
+    "score": 1.0,
+    "uri": "nyt://article/2445b262-51be-57aa-84ef-3538ebdaaa5d"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2010/03/31/world/asia/31india.html",
+    "snippet": "Suicide has become a phenomenon in India, alarming public health experts.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/03/31/world/31india_337-span/31india_337-span-articleLarge.jpg",
+        "height": 330,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2010/03/31/world/31india_337-span/31india_337-span-articleLarge.jpg",
+          "xlargeheight": 330
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/03/31/world/31india_337-span/31india_337-span-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/03/31/world/31india_337-span/31india_337-span-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Suicides, Some for Separatist Cause, Jolt India",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Suicides, Some for Separatist Cause, Jolt India",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "India",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Suicides and Suicide Attempts",
+        "rank": 2,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-03-31T00:13:19+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Asia Pacific",
+    "byline": {
+      "original": "By LYDIA POLGREEN",
+      "person": [
+        {
+          "firstname": "Lydia",
+          "middlename": null,
+          "lastname": "POLGREEN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "54448e1438f0d82782d9bc07",
+    "word_count": 1049,
+    "score": 1.0,
+    "uri": "nyt://article/2915443b-420b-5ad0-aa68-0b69bf633ebc"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2010/03/31/science/earth/31energy.html",
+    "snippet": "The proposed expansion would end a moratorium on oil exploration along the East Coast from the northern tip of Delaware to the central coast of Florida.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/03/31/science/31energyspan-cnd/31energyspan-cnd-articleLarge.jpg",
+        "height": 331,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2010/03/31/science/31energyspan-cnd/31energyspan-cnd-articleLarge.jpg",
+          "xlargeheight": 331
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/03/31/science/31energyspan-cnd/31energyspan-cnd-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/03/31/science/31energyspan-cnd/31energyspan-cnd-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Obama to Open Offshore Areas to Oil Drilling for First Time",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "OBAMA TO OPEN OFFSHORE AREAS TO OIL DRILLING",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Obama, Barack",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Offshore Exploration and Installations",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Oil (Petroleum) and Gasoline",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Natural Gas",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Environment",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-03-31T04:01:30+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "section_name": "Environment",
+    "byline": {
+      "original": "By JOHN M. BRODER",
+      "person": [
+        {
+          "firstname": "John",
+          "middlename": null,
+          "lastname": null,
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "54448f7d38f0d82782d9bc26",
+    "word_count": 1220,
+    "score": 1.0,
+    "uri": "nyt://article/2c7bec3f-6fc4-5026-9f9b-4f650bc2b28c"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2010/04/01/us/01nsa.html",
+    "snippet": "The government violated a 1978 statute requiring court approval for domestic surveillance, a judge ruled.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "Federal Judge Finds N.S.A. Wiretaps Were Illegal",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "N.S.A. WIRETAPS WERE UNLAWFUL, U.S. JUDGE RULES",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "organizations",
+        "value": "National Security Agency",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Decisions and Verdicts",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Wiretapping and Other Eavesdropping Devices and Methods",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Obama, Barack",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Bush, George W",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Walker, Vaughn R",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Philanthropy",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Oregon",
+        "rank": 9,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Foreign Intelligence Surveillance Act (FISA)",
+        "rank": 10,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-03-31T22:32:02+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "byline": {
+      "original": "By CHARLIE SAVAGE and JAMES RISEN",
+      "person": [
+        {
+          "firstname": "Charlie",
+          "middlename": null,
+          "lastname": "SAVAGE",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "James",
+          "middlename": null,
+          "lastname": "RISEN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "544497f838f0d82782d9bcde",
+    "word_count": 1073,
+    "score": 1.0,
+    "uri": "nyt://article/1fdc74f4-6279-5c28-9469-f93639639230"
+  }
+]

@@ -1,0 +1,314 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2009/10/24/nyregion/24mayor.html",
+    "snippet": "Mayor Michael R. Bloomberg has spent $85 million of his own money on his latest re-election campaign, more than anyone in U.S. history.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/10/23/nyregion/23bbready/articleLarge.jpg",
+        "height": 379,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/10/23/nyregion/23bbready/articleLarge.jpg",
+          "xlargeheight": 379
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/10/23/nyregion/23bbready/thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/10/23/nyregion/23bbready/thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Bloomberg Sets Record for His Own Spending on Elections",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Mayor\u2019s Political Quest Is Costliest Ever in U.S.",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Bloomberg, Michael R",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Campaign Finance",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Elections",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "New York City",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Thompson, William C Jr",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Politics and Government",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-10-24T01:19:43+0000",
+    "document_type": "article",
+    "new_desk": "Metro",
+    "byline": {
+      "original": "By MICHAEL BARBARO and DAVID W. CHEN",
+      "person": [
+        {
+          "firstname": "Michael",
+          "middlename": null,
+          "lastname": "BARBARO",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "David",
+          "middlename": "W.",
+          "lastname": "CHEN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5457a4cf38f0d86ef22a1f0f",
+    "word_count": 1012,
+    "score": 1.0,
+    "uri": "nyt://article/ab3e8df3-5d2d-59ec-92ab-d8ebce49b52f"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/10/24/education/24baby.html",
+    "snippet": "The Walt Disney Company is offering refunds for its \u201cBaby Einstein\u201d videos, a tacit admission that they did not increase intellect.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "No Einstein in Your Crib? Get a Refund",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "No Einstein In Your Crib? Get a Refund",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "organizations",
+        "value": "Disney, Walt, Co",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Babies",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Advertising and Marketing",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Campaign for a Commercial-Free Childhood",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-10-24T01:13:30+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "byline": {
+      "original": "By TAMAR LEWIN",
+      "person": [
+        {
+          "firstname": "Tamar",
+          "middlename": null,
+          "lastname": "LEWIN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5424b68e38f0d8525e453c07",
+    "word_count": 822,
+    "score": 1.0,
+    "uri": "nyt://article/e4c0b5b6-ca9a-5f3e-9828-b2ff32ccd185"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/10/25/sports/baseball/25dominican.html",
+    "snippet": "In the Dominican Republic, boys are routinely receiving injections of over-the-counter vitamins and painkillers.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/10/25/sports/25dominican_CA1/articleLarge.jpg",
+        "height": 350,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/10/25/sports/25dominican_CA1/articleLarge.jpg",
+          "xlargeheight": 350
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/10/25/sports/25dominican_CA1/thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/10/25/sports/25dominican_CA1/thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Dominicans Try Shots to Boost Rising Players",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Dominicans Try Shots to Boost Rising Players",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Dominican Republic",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Baseball",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Steroids",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Sports Medicine",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Drugs (Pharmaceuticals)",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Major League Baseball",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Dominican Summer League",
+        "rank": 7,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-10-24T18:33:38+0000",
+    "document_type": "article",
+    "new_desk": "Sports",
+    "section_name": "Baseball",
+    "byline": {
+      "original": "By MICHAEL S. SCHMIDT",
+      "person": [
+        {
+          "firstname": "Michael",
+          "middlename": "S.",
+          "lastname": "SCHMIDT",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5457a87a38f0d86ef22a1f5e",
+    "word_count": 1531,
+    "score": 1.0,
+    "uri": "nyt://article/4a638e22-9ced-5310-8cb3-7c293f9f976a"
+  }
+]

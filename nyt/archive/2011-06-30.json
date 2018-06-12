@@ -1,0 +1,494 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2011/07/01/arts/television/the-voice-finds-itself-and-some-stars.html",
+    "snippet": "Quite by accident, \u201cThe Voice\u201d achieved with this week\u2019s finale the goal of demonstrating that it could and would do things that \u201cAmerican Idol\u201d wouldn\u2019t.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/07/01/arts/01voice-web2/01voice-web2-articleLarge.jpg",
+        "height": 325,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2011/07/01/arts/01voice-web2/01voice-web2-articleLarge.jpg",
+          "xlargeheight": 325
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/07/01/arts/01voice-web2/01voice-web2-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/07/01/arts/01voice-web2/01voice-web2-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "\u2018The Voice\u2019 Finds Itself, and Some Stars, Too",
+      "kicker": "Critic's Notebook",
+      "content_kicker": "Critic's Notebook",
+      "print_headline": "\u2018The Voice\u2019 Finds Itself, And Some Stars, Too",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Television",
+        "rank": 1,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-06-30T11:05:29+0000",
+    "document_type": "article",
+    "new_desk": "Weekend",
+    "section_name": "Television",
+    "byline": {
+      "original": "By JON CARAMANICA",
+      "person": [
+        {
+          "firstname": "Jon",
+          "middlename": null,
+          "lastname": "CARAMANICA",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "540f738138f0d87641c67c68",
+    "word_count": 941,
+    "score": 1.0,
+    "uri": "nyt://article/b194aabe-829a-51ce-bbfb-c15fd3d54953"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/07/01/us/politics/01DETAIN.html",
+    "snippet": "The Justice Department announced Thursday that it is opening a full criminal investigation into the deaths of two detainees who died in C.I.A. custody.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "U.S. Widens Inquiries Into 2 Jail Deaths",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "U.S. Will Widen 2 C.I.A. Inquiries Into Jail Deaths",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "organizations",
+        "value": "Justice Department",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Detainees",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Central Intelligence Agency",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Iraq",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Afghanistan",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Interrogations",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-06-30T20:18:30+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "section_name": "Politics",
+    "byline": {
+      "original": "By ERIC LICHTBLAU and ERIC SCHMITT",
+      "person": [
+        {
+          "firstname": "Eric",
+          "middlename": null,
+          "lastname": "LICHTBLAU",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Eric",
+          "middlename": null,
+          "lastname": "SCHMITT",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "540f48b438f0d87641c6797a",
+    "word_count": 1104,
+    "score": 1.0,
+    "uri": "nyt://article/51c25ec7-0789-58f4-b449-4a0ca0781371"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/06/30/nyregion/behind-affluent-image-connecticut-faces-economic-pain.html",
+    "snippet": "Connecticut is the last in the nation to create jobs, and nearly the last to fund pensions, and the collapse of a union deal could mean more layoffs.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/06/30/nyregion/jp-CONNECTICUT1/jp-CONNECTICUT1-articleLarge.jpg",
+        "height": 344,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2011/06/30/nyregion/jp-CONNECTICUT1/jp-CONNECTICUT1-articleLarge.jpg",
+          "xlargeheight": 344
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/06/30/nyregion/jp-CONNECTICUT1/jp-CONNECTICUT1-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/06/30/nyregion/jp-CONNECTICUT1/jp-CONNECTICUT1-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Beneath Connecticut\u2019s Image of Affluence, Deep Fiscal Pain",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "In Connecticut, Affluent Image But Fiscal Pain",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Connecticut",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Economic Conditions and Trends",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Layoffs and Job Reductions",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Pensions and Retirement Plans",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Organized Labor",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Malloy, Dannel P",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-06-30T01:28:00+0000",
+    "document_type": "article",
+    "new_desk": "Metro",
+    "byline": {
+      "original": "By PETER APPLEBOME",
+      "person": [
+        {
+          "firstname": "Peter",
+          "middlename": null,
+          "lastname": "APPLEBOME",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "540f40c038f0d87641c678e6",
+    "word_count": 1098,
+    "score": 1.0,
+    "uri": "nyt://article/ce6026ba-dc99-5137-a9bb-f96458cda429"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/06/30/sports/softball-case-raises-question-who-qualifies-as-gay.html",
+    "snippet": "A court case in Seattle challenging the outcome of the 2008 Gay Softball World Series is forcing the world of organized gay sports to examine barriers to participation.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/06/30/sports/SUB-Y-SOFTBALL-1/SUB-Y-SOFTBALL-1-articleLarge.jpg",
+        "height": 315,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2011/06/30/sports/SUB-Y-SOFTBALL-1/SUB-Y-SOFTBALL-1-articleLarge.jpg",
+          "xlargeheight": 315
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/06/30/sports/SUB-Y-SOFTBALL-1/SUB-Y-SOFTBALL-1-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/06/30/sports/SUB-Y-SOFTBALL-1/SUB-Y-SOFTBALL-1-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Three Straights and You\u2019re Out in Gay Softball League",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "In a Softball Case, a Thorny Debate Over Who Qualifies as Gay",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Homosexuality",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Discrimination",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Softball",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Cheating",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-06-30T01:07:06+0000",
+    "document_type": "article",
+    "new_desk": "Sports",
+    "byline": {
+      "original": "By GREG BISHOP",
+      "person": [
+        {
+          "firstname": "Greg",
+          "middlename": null,
+          "lastname": "BISHOP",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "540f414838f0d87641c678ef",
+    "word_count": 1074,
+    "score": 1.0,
+    "uri": "nyt://article/d46cb445-2597-50f6-a4a6-21fd54593ca2"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/07/01/nyregion/cuomo-will-seek-to-lift-drilling-ban.html",
+    "snippet": "The decision would allow the controversial technology for extracting natural gas from shale in some parts of the state, according to people briefed on the discussions.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/07/01/nyregion/Y-FRACK2/Y-FRACK2-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/07/01/nyregion/Y-FRACK2/Y-FRACK2-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Cuomo Will Seek to Lift Ban on Hydraulic Fracturing",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Cuomo Moving To End a Freeze On Gas Drilling",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Natural Gas",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Hydraulic Fracturing",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "State Department of Environmental Conservation (NY)",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Cuomo, Andrew M",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "New York State",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-06-30T17:11:29+0000",
+    "document_type": "article",
+    "new_desk": "Metro",
+    "byline": {
+      "original": "By DANNY HAKIM and NICHOLAS CONFESSORE",
+      "person": [
+        {
+          "firstname": "Danny",
+          "middlename": null,
+          "lastname": "HAKIM",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Nicholas",
+          "middlename": null,
+          "lastname": "CONFESSORE",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "540f446038f0d87641c67934",
+    "word_count": 1084,
+    "score": 1.0,
+    "uri": "nyt://article/1f38f579-2052-5ab9-a34e-1b11b7ffee92"
+  }
+]

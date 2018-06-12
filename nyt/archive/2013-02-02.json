@@ -1,0 +1,378 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2013/02/03/opinion/sunday/the-great-gerrymander-of-2012.html",
+    "snippet": "Congress doesn\u2019t reflect the people\u2019s vote.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "The Great Gerrymander of 2012",
+      "kicker": "Opinion",
+      "content_kicker": "Opinion",
+      "print_headline": "The Great Gerrymander Of 2012",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Redistricting and Reapportionment",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Republican National Committee",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Senate",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "House of Representatives",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Elections",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "United States",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2013-02-02T17:50:27+0000",
+    "document_type": "article",
+    "new_desk": "OpEd",
+    "section_name": "Sunday Review",
+    "byline": {
+      "original": "By SAM WANG",
+      "person": [
+        {
+          "firstname": "Sam",
+          "middlename": null,
+          "lastname": "WANG",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "Op-Ed",
+    "_id": "510defa500315214fbb88cd1",
+    "word_count": 1254,
+    "score": 1.0,
+    "uri": "nyt://article/cd36d8cc-485a-5b24-989f-05aefe06c5fa"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2013/02/03/world/africa/hostage-accounts-detail-events-at-saharan-gas-plant.html",
+    "snippet": "Heavily armed fighters who seized a desert complex on Jan. 16 sought to turn the forest of pipes and tubes into a bomb. What none of them knew was how, in the vast maze of metal, to do it.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/02/03/world/sub-jp-reconstruct/sub-jp-reconstruct-articleLarge.jpg",
+        "height": 368,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2013/02/03/world/sub-jp-reconstruct/sub-jp-reconstruct-articleLarge.jpg",
+          "xlargeheight": 368
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/02/03/world/sub-jp-reconstruct/sub-jp-reconstruct-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2013/02/03/world/sub-jp-reconstruct/sub-jp-reconstruct-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/02/03/world/sub-jp-reconstruct/sub-jp-reconstruct-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2013/02/03/world/sub-jp-reconstruct/sub-jp-reconstruct-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Militants\u2019 Goal in Algeria Gas Plant Siege: Giant Fireball",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Militants\u2019 Goal In Algeria Siege: A Giant Fireball",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Algeria",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Defense and Military Forces",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Hostages",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Explosions",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Deaths (Fatalities)",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Natural Gas",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Factories and Manufacturing",
+        "rank": 7,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2013-02-02T23:47:26+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Africa",
+    "byline": {
+      "original": "By ADAM NOSSITER and NICHOLAS KULISH",
+      "person": [
+        {
+          "firstname": "Adam",
+          "middlename": null,
+          "lastname": "NOSSITER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Nicholas",
+          "middlename": null,
+          "lastname": "KULISH",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "510defc500315214fbb88d19",
+    "word_count": 1523,
+    "score": 1.0,
+    "uri": "nyt://article/4cfd4997-7a8f-5cbe-92e8-2385347fd949"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2013/02/03/us/politics/in-behind-scene-blows-and-triumphs-sense-of-clinton-future.html",
+    "snippet": "The instincts of Hillary Rodham Clinton, the departing secretary of state, were often more activist than those of a White House that has kept a tight grip on foreign policy.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/02/03/world/CLINTON/CLINTON-articleLarge-v2.jpg",
+        "height": 403,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2013/02/03/world/CLINTON/CLINTON-articleLarge-v2.jpg",
+          "xlargeheight": 403
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/02/03/world/CLINTON/CLINTON-thumbWide-v2.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2013/02/03/world/CLINTON/CLINTON-thumbWide-v2.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/02/03/world/CLINTON/CLINTON-thumbStandard-v2.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2013/02/03/world/CLINTON/CLINTON-thumbStandard-v2.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Backstage Glimpses of Clinton as Dogged Diplomat, Win or Lose",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Backstage Glimpses of Clinton as Dogged Diplomat, Win or Lose",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Clinton, Hillary Rodham",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States International Relations",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Diplomatic Service, Embassies and Consulates",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Politics and Government",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Middle East and North Africa Unrest (2010- )",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Obama, Barack",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Petraeus, David H",
+        "rank": 7,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2013-02-02T17:40:28+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Politics",
+    "byline": {
+      "original": "By MICHAEL R. GORDON and MARK LANDLER",
+      "person": [
+        {
+          "firstname": "Michael",
+          "middlename": "R.",
+          "lastname": "GORDON",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Mark",
+          "middlename": null,
+          "lastname": "LANDLER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "510defa500315214fbb88cce",
+    "word_count": 1700,
+    "score": 1.0,
+    "uri": "nyt://article/a112c035-856e-5943-8f88-4050f2d85a39"
+  }
+]

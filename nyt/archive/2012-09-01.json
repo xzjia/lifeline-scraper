@@ -1,0 +1,467 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2012/09/02/us/isaac-is-latest-blow-to-swampy-south-louisiana.html",
+    "snippet": "Plaquemines Parish, the marshy peninsula of southeastern Louisiana, was the first landing point of Hurricane Isaac and the scene of perhaps its most thorough destruction.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/09/01/us/20120902-PARISH-slide-LGUR/20120902-PARISH-slide-LGUR-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2012/09/01/us/20120902-PARISH-slide-LGUR/20120902-PARISH-slide-LGUR-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/09/01/us/20120902-PARISH-slide-LGUR/20120902-PARISH-slide-LGUR-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2012/09/01/us/20120902-PARISH-slide-LGUR/20120902-PARISH-slide-LGUR-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "In Louisiana, the Water Gives, and Takes Away",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Marshy Parish, Split: Water Gives, and Takes",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Plaquemines Parish (La)",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Hurricane Isaac (2012)",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Floods",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Louisiana",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2012-09-01T17:51:13+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "byline": {
+      "original": "By CAMPBELL ROBERTSON",
+      "person": [
+        {
+          "firstname": "Campbell",
+          "middlename": null,
+          "lastname": "ROBERTSON",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "53fa779138f0d8431914d83b",
+    "word_count": 1187,
+    "score": 1.0,
+    "uri": "nyt://article/aad3c286-510e-568d-96a1-55bf848fd27e"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2012/09/02/business/straightening-out-the-work-life-balance.html",
+    "snippet": "The pursuit of \u201cwork-life balance,\u201d which sounds so wholesome and reasonable, can be a zero-sum game in the office.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "When the Work-Life Scales Are Unequal",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "When the Work-Life Scales Are Unequal",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Work-Life Balance",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Slaughter, Anne-Marie",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Flex+Strategy Group",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Flex-Time Lawyers LLC",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Henry, Deborah Epstein",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Yost, Cali Williams",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2012-09-01T21:13:29+0000",
+    "document_type": "article",
+    "new_desk": "SundayBusiness",
+    "byline": {
+      "original": "By HANNAH SELIGSON",
+      "person": [
+        {
+          "firstname": "Hannah",
+          "middlename": null,
+          "lastname": "SELIGSON",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "53fa6f0f38f0d8431914d7d6",
+    "word_count": 1903,
+    "score": 1.0,
+    "uri": "nyt://article/dbfe2cf2-1578-57d1-ae9b-df319b954107"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2012/09/02/business/inquiry-on-tax-strategy-adds-to-scrutiny-of-finance-firms.html",
+    "snippet": "The New York attorney general is investigating whether private equity firms converted fees into investments to reduce their tax bills, raising pressure on an industry bruised by the campaign season.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/09/02/business/TAX-1/TAX-1-articleLarge.jpg",
+        "height": 370,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2012/09/02/business/TAX-1/TAX-1-articleLarge.jpg",
+          "xlargeheight": 370
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2012/09/02/business/TAX-1/TAX-1-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2012/09/02/business/TAX-1/TAX-1-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Inquiry on Tax Strategy Adds to Scrutiny of Finance Firms",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Financial Firms Face Subpoenas On Tax Strategy",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Schneiderman, Eric T",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Tax Evasion",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Private Equity",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Bain Capital",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Sun Capital Partners Inc",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "TPG Capital",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Apollo Global Management",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Kohlberg Kravis Roberts & Co",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Silver Lake Partners",
+        "rank": 9,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Romney, Mitt",
+        "rank": 10,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2012-09-01T21:01:02+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By NICHOLAS CONFESSORE, JULIE CRESWELL and DAVID KOCIENIEWSKI",
+      "person": [
+        {
+          "firstname": "Nicholas",
+          "middlename": null,
+          "lastname": "CONFESSORE",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Julie",
+          "middlename": null,
+          "lastname": "CRESWELL",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        },
+        {
+          "firstname": "David",
+          "middlename": null,
+          "lastname": "KOCIENIEWSKI",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 3
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "51c38d297e0d9c0839d2aa74",
+    "word_count": 1426,
+    "score": 1.0,
+    "uri": "nyt://article/90274e68-57dc-53fc-832f-bd36f4f4c826"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2012/09/02/opinion/sunday/dowd-cruel-conservatives-throw-a-masquerade-ball.html",
+    "snippet": "A Mormon bishop, an Irish undertaker and a dirty Dirty Harry walk into a bar ...",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2014/11/01/opinion/dowd-circular/dowd-circular-articleLarge-v2.jpg",
+        "height": 588,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2014/11/01/opinion/dowd-circular/dowd-circular-articleLarge-v2.jpg",
+          "xlargeheight": 588
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2014/11/01/opinion/dowd-circular/dowd-circular-thumbWide-v5.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2014/11/01/opinion/dowd-circular/dowd-circular-thumbWide-v5.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2014/11/01/opinion/dowd-circular/dowd-circular-thumbStandard-v6.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2014/11/01/opinion/dowd-circular/dowd-circular-thumbStandard-v6.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Cruel Conservatives Throw a Masquerade Ball",
+      "kicker": "Op-Ed Columnist",
+      "content_kicker": "Op-Ed Columnist",
+      "print_headline": "Cruel Conservatives Throw a Masquerade Ball",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "organizations",
+        "value": "Republican Party",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Republican National Convention",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Presidential Election of 2012",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Romney, Mitt",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Ryan, Paul D Jr",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2012-09-01T16:57:07+0000",
+    "document_type": "article",
+    "new_desk": "Editorial",
+    "section_name": "Sunday Review",
+    "byline": {
+      "original": "By MAUREEN DOWD",
+      "person": [
+        {
+          "firstname": "Maureen",
+          "middlename": null,
+          "lastname": "DOWD",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "Op-Ed",
+    "_id": "51c38cff7e0d9c0839d2aa70",
+    "word_count": 1094,
+    "score": 1.0,
+    "uri": "nyt://article/4909c154-ab21-5b79-8895-9de7543d198b"
+  }
+]

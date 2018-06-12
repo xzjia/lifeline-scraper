@@ -1,0 +1,155 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2013/11/17/world/growing-clamor-about-inequities-of-climate-crisis.html",
+    "snippet": "The devastation in the Philippines has revived the debate over how to address the disproportionate effects of climate change on poorer countries, an issue that has gained momentum but faces daunting challenges.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/11/17/world/JP-CLIMATE/JP-CLIMATE-articleLarge.jpg",
+        "height": 406,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2013/11/17/world/JP-CLIMATE/JP-CLIMATE-articleLarge.jpg",
+          "xlargeheight": 406
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/11/17/world/JP-CLIMATE/JP-CLIMATE-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2013/11/17/world/JP-CLIMATE/JP-CLIMATE-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/11/17/world/JP-CLIMATE/JP-CLIMATE-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2013/11/17/world/JP-CLIMATE/JP-CLIMATE-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Growing Clamor About Inequities of Climate Crisis",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Growing Clamor About Inequities of Climate Crisis",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Greenhouse Gas Emissions",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Typhoon Haiyan (2013)",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Weather",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Global Warming",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States International Relations",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "United Nations",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "United Nations Environment Program",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Philippines",
+        "rank": 8,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2013-11-17T00:00:56+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "byline": {
+      "original": "By STEVEN LEE MYERS and NICHOLAS KULISH",
+      "person": [
+        {
+          "firstname": "Steven",
+          "middlename": "Lee",
+          "lastname": "MYERS",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Nicholas",
+          "middlename": null,
+          "lastname": "KULISH",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5288073c38f0d806fedf3f78",
+    "word_count": 1493,
+    "score": 1.0,
+    "uri": "nyt://article/2646280b-c48b-5313-8d45-a240e3e19ac2"
+  }
+]

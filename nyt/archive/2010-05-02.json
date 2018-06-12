@@ -1,0 +1,306 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2010/05/03/nyregion/03timessquare.html",
+    "snippet": "Officials offered a more detailed description of the bomb\u2019s makeup and were reviewing surveillance footage of a man walking away from the area where the S.U.V. had been parked.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "Police Seek Man Taped Near Times Sq. Bomb Scene",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Police Seeking Man Taped Near Bomb Scene",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Terrorism",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Times Square and 42nd Street (NYC)",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Bombs and Explosives",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Bloomberg, Michael R",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-05-02T12:17:56+0000",
+    "document_type": "article",
+    "new_desk": "Metro",
+    "byline": {
+      "original": "By MICHAEL M. GRYNBAUM, WILLIAM K. RASHBAUM and AL BAKER",
+      "person": [
+        {
+          "firstname": "Michael",
+          "middlename": null,
+          "lastname": null,
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5400b86a38f0d841b2f385ff",
+    "word_count": 1427,
+    "score": 1.0,
+    "uri": "nyt://article/a9af7ab8-bd88-57e1-b63b-1ead35346c8e"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2010/05/03/us/03spill.html",
+    "snippet": "BP prepared to install a shutoff valve on one of three leaks gushing from an oil spill in the Gulf of Mexico.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/05/03/us/03spill_CA1/03spill_CA1-articleLarge.jpg",
+        "height": 330,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2010/05/03/us/03spill_CA1/03spill_CA1-articleLarge.jpg",
+          "xlargeheight": 330
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/05/03/us/03spill_CA1/03spill_CA1-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/05/03/us/03spill_CA1/03spill_CA1-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "BP Moves to Fix a Leak as Obama Warns of Damage",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "PRESIDENT WARNS OF WIDE DAMAGE FROM GULF SPILL",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Oil (Petroleum) and Gasoline",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Accidents and Safety",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Gulf of Mexico",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "BP Plc",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Explosions",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Wells",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Offshore Drilling and Exploration",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Transocean Inc",
+        "rank": 8,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-05-02T16:59:46+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "byline": {
+      "original": "By CAMPBELL ROBERTSON  and HENRY FOUNTAIN",
+      "person": [
+        {
+          "firstname": "Campbell",
+          "middlename": null,
+          "lastname": "ROBERTSON",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Henry",
+          "middlename": null,
+          "lastname": "FOUNTAIN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5445c09038f0d832c813f35d",
+    "word_count": 1357,
+    "score": 1.0,
+    "uri": "nyt://article/68c639b7-2453-53a8-a378-788a46ca20f6"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2010/05/03/business/03merger.html",
+    "snippet": "The airlines agreed to a $3 billion merger that creates the world\u2019s biggest airline, people familiar with the talks said.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/05/03/business/03merger_inlinespan/03merger_inlinespan-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/05/03/business/03merger_inlinespan/03merger_inlinespan-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "United and Continental Said to Agree to Merge",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "United-Continental Merger Said to Create Largest Airline",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Airlines and Airplanes",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Mergers, Acquisitions and Divestitures",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "United Airlines",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Continental Airlines Inc",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "UAL Corporation",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-05-02T21:07:35+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By JAD MOUAWAD and MICHAEL J. de la MERCED",
+      "person": [
+        {
+          "firstname": "Jad",
+          "middlename": null,
+          "lastname": "MOUAWAD",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Michael",
+          "middlename": "J.",
+          "lastname": "de la MERCED",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5445c1a138f0d832c813f379",
+    "word_count": 1200,
+    "score": 1.0,
+    "uri": "nyt://article/d875511b-fa95-51dc-bc7f-4419d3fa5c37"
+  }
+]

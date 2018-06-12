@@ -1,0 +1,729 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2009/04/07/world/europe/07prexy.html",
+    "snippet": "President Obama said that U.S. relations with the Islamic world will not center on fighting Al Qaeda.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/04/06/world/obama.600.3.jpg",
+        "height": 280,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/04/06/world/obama.600.3.jpg",
+          "xlargeheight": 280
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/04/06/world/obama.75755ms.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/04/06/world/obama.75755ms.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "America Seeks Bonds to Islam, Obama Insists",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "America Seeks Bonds to Islam, Obama Insists",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Turkey",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Obama, Barack",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "United States",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Islam",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States International Relations",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-04-06T12:29:28+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Europe",
+    "byline": {
+      "original": "By HELENE COOPER",
+      "person": [
+        {
+          "firstname": "Helene",
+          "middlename": null,
+          "lastname": "COOPER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5469386338f0d8317bec0c2a",
+    "word_count": 1063,
+    "score": 1.0,
+    "uri": "nyt://article/fe0dd930-f6d7-5be8-8f22-b3dc0f17dc19"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/04/06/business/06summers.html",
+    "snippet": "After leaving Harvard, Lawrence H. Summers earned nearly $5.2 million advising elite math wizards and scientists at a New York hedge fund.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/04/06/business/06summers01-75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/04/06/business/06summers01-75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "A Rich Education for Summers (After Harvard)",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "A Rich Education for Summers (After Harvard)",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Summers, Lawrence H",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Subprime Mortgage Crisis",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Hedge Funds",
+        "rank": 3,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-04-06T01:34:26+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By LOUISE STORY",
+      "person": [
+        {
+          "firstname": "Louise",
+          "middlename": null,
+          "lastname": "STORY",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "546936eb38f0d8317bec0c08",
+    "word_count": 1808,
+    "score": 1.0,
+    "uri": "nyt://article/ba3b34dc-f722-5234-ae99-10ea12c07b0c"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/04/06/business/media/06carr.html",
+    "snippet": "\u201cTreme,\u201d an HBO series by David Simon, tells the story of New Orleans after Hurricane Katrina. The series is separated by just enough time to offer insight without being overly detached.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/12/13/business/carr-headshot-new/carr-headshot-new-articleLarge.jpg",
+        "height": 900,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2013/12/13/business/carr-headshot-new/carr-headshot-new-articleLarge.jpg",
+          "xlargeheight": 900
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/12/13/business/carr-headshot-new/carr-headshot-new-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2013/12/13/business/carr-headshot-new/carr-headshot-new-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/12/13/business/carr-headshot-new/carr-headshot-new-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2013/12/13/business/carr-headshot-new/carr-headshot-new-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "A Disaster Still Raw, Years Later",
+      "kicker": "The Media Equation",
+      "content_kicker": "The Media Equation",
+      "print_headline": "A Disaster Still Raw, Years Later",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Simon, David",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Television",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Hurricane Katrina",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "New Orleans (La)",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-04-06T00:07:26+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "section_name": "Media",
+    "byline": {
+      "original": "By DAVID CARR",
+      "person": [
+        {
+          "firstname": "David",
+          "middlename": null,
+          "lastname": "CARR",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "543eea2d38f0d853e89f679d",
+    "word_count": 1023,
+    "score": 1.0,
+    "uri": "nyt://article/ac4196d5-6532-5d82-a18a-f0463c70cfe1"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/04/07/us/politics/07poll.html",
+    "snippet": "President Obama is enjoying some success in rebuilding confidence, according to a New York Times/CBS News poll.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/04/07/us/politics/0407-pg1-POLL.190.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2009/04/07/us/politics/0407-pg1-POLL.190.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Outlook on Economy Is Brightening, Poll Finds",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Poll Finds Brightening Outlook on U.S. Economy",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Polls and Public Opinion",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Economy",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Obama, Barack",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Republican Party",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-04-06T22:32:21+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "section_name": "Politics",
+    "byline": {
+      "original": "By ADAM NAGOURNEY and MEGAN THEE-BRENAN",
+      "person": [
+        {
+          "firstname": "Adam",
+          "middlename": null,
+          "lastname": "NAGOURNEY",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Megan",
+          "middlename": null,
+          "lastname": "THEE-BRENAN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "54693e2f38f0d8317bec0ca2",
+    "word_count": 1125,
+    "score": 1.0,
+    "uri": "nyt://article/c6d9d2c0-a8af-570a-8fa8-ebc2e77bf944"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/04/06/health/research/06brain.html",
+    "snippet": "An influx of money and talent into neuroscience has led to an experimental drug that could block certain memories.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/04/06/us/06brain.751.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/04/06/us/06brain.751.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Brain Researchers Open Door to Editing Memory",
+      "kicker": "Brain Power",
+      "content_kicker": "Brain Power",
+      "print_headline": "So You Just Want to Forget? Science Is Working on Eraser",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Memory",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Research",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Brain",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Ethics",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Science and Technology",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Medicine and Health",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Drugs (Pharmaceuticals)",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Biology and Biochemistry",
+        "rank": 8,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-04-06T01:49:37+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "section_name": "Research",
+    "byline": {
+      "original": "By BENEDICT CAREY",
+      "person": [
+        {
+          "firstname": "Benedict",
+          "middlename": null,
+          "lastname": "CAREY",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "Series",
+    "_id": "543f051438f0d853e89f696e",
+    "word_count": 1818,
+    "score": 1.0,
+    "uri": "nyt://article/4682016f-7feb-53e8-aea1-2e5c0793b9f7"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/04/07/world/africa/07safrica.html",
+    "snippet": "The withdrawal of charges against Jacob Zuma, the man likely to become South Africa\u2019s next president, will further polarize the nation.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/04/06/world/zuma.57575.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/04/06/world/zuma.57575.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "South Africa Drops Charges Against Leading Presidential Contender",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "A Victory Before the Election for a South African",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "South Africa",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Zuma, Jacob G",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Politics and Government",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Frauds and Swindling",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-04-06T12:13:16+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Africa",
+    "byline": {
+      "original": "By BARRY BEARAK",
+      "person": [
+        {
+          "firstname": "Barry",
+          "middlename": null,
+          "lastname": "BEARAK",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5469384b38f0d8317bec0c27",
+    "word_count": 1119,
+    "score": 1.0,
+    "uri": "nyt://article/70c10106-d1e8-50c9-82ad-6420dd3f598b"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2009/04/07/arts/design/07buzz.html",
+    "snippet": "A new study that measures what it calls \u201cthe geography of buzz\u201d in New York and Los Angeles seeks to illustrate the importance of the creative class to urban development.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/04/07/arts/buzz.600.jpg",
+        "height": 385,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2009/04/07/arts/buzz.600.jpg",
+          "xlargeheight": 385
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2009/04/07/arts/buzz.75.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2009/04/07/arts/buzz.75.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Mapping the Cultural Buzz: How Cool Is That?",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Mapping the Cultural Buzz: How Cool Is That?",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Urban Areas",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Culture",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Currid, Elizabeth",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Geography",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Maps",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Sociology",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Los Angeles (Calif)",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "New York City",
+        "rank": 8,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2009-04-06T22:39:40+0000",
+    "document_type": "article",
+    "new_desk": "Culture",
+    "section_name": "Art & Design",
+    "byline": {
+      "original": "By MELENA RYZIK",
+      "person": [
+        {
+          "firstname": "Melena",
+          "middlename": null,
+          "lastname": "RYZIK",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "54693d5b38f0d8317bec0c90",
+    "word_count": 1085,
+    "score": 1.0,
+    "uri": "nyt://article/d546e396-478d-5ce7-ab34-bedb8fcd93fa"
+  }
+]

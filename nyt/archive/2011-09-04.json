@@ -1,0 +1,211 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2011/09/05/nyregion/bloomberg-wont-apologize-for-concealing-arrest-of-deputy-mayor.html",
+    "snippet": "Mayor Michael R. Bloomberg rejected the notion that he had an obligation to say why his deputy mayor had quit.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/09/05/nyregion/bloomberg/bloomberg-articleLarge.jpg",
+        "height": 360,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2011/09/05/nyregion/bloomberg/bloomberg-articleLarge.jpg",
+          "xlargeheight": 360
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/09/05/nyregion/bloomberg/bloomberg-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/09/05/nyregion/bloomberg/bloomberg-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Bloomberg Defends His Handling of Aide\u2019s Arrest",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Mayor Defends Keeping Secret Deputy's Arrest",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Bloomberg, Michael R",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Goldsmith, Stephen",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Politics and Government",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "New York City",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-09-04T14:26:37+0000",
+    "document_type": "article",
+    "new_desk": "Metro",
+    "byline": {
+      "original": "By MOSI SECRET and MICHAEL BARBARO",
+      "person": [
+        {
+          "firstname": "Mosi",
+          "middlename": null,
+          "lastname": "SECRET",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Michael",
+          "middlename": null,
+          "lastname": "BARBARO",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5400c2a038f0d841b2f38c2c",
+    "word_count": 1157,
+    "score": 1.0,
+    "uri": "nyt://article/015fc0c0-3e1c-59f1-9ed4-bb1797815789"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2011/09/05/business/in-internet-age-postal-service-struggles-to-stay-solvent-and-relevant.html",
+    "snippet": "The agency is so low on cash that it will not be able to make a $5.5 billion payment due this month and may have to shut down entirely this winter unless Congress acts to stabilize its finances.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2011/09/05/business/postal/postal-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2011/09/05/business/postal/postal-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Postal Service Is Nearing Default as Losses Mount",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Losing Billions, Postal Service Is Near Default",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "organizations",
+        "value": "Postal Service (US)",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Layoffs and Job Reductions",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Politics and Government",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Postal Service",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Carper, Thomas R",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Collins, Susan M",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2011-09-04T22:00:14+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By STEVEN GREENHOUSE",
+      "person": [
+        {
+          "firstname": "Steven",
+          "middlename": null,
+          "lastname": "GREENHOUSE",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5400c2ec38f0d841b2f38c5b",
+    "word_count": 1336,
+    "score": 1.0,
+    "uri": "nyt://article/25ee5dab-de13-5cfd-8c99-fac5372ee3ff"
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2008/09/01/us/01gustav.html",
+    "snippet": "People from Texas to Alabama left ahead of Hurricane Gustav, fearing a storm that could rival Hurricane Katrina in its destructive power.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/09/01/us/01gustav.xlarge10.jpg",
+        "height": 350,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2008/09/01/us/01gustav.xlarge10.jpg",
+          "xlargeheight": 350
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2008/09/01/us/01gustav.7510.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2008/09/01/us/01gustav.7510.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "2 Million Flee Storm; G.O.P. Cuts Back",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "2 Million Flee Hurricane's Path; G.O.P. Cuts Convention Events | A HISTORIC EXODUS",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "New Orleans (La)",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Hurricanes and Tropical Storms",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Hurricane Gustav",
+        "rank": 3,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2008-08-31T16:19:20+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "byline": {
+      "original": "By ADAM NOSSITER",
+      "person": [
+        {
+          "firstname": "Adam",
+          "middlename": null,
+          "lastname": "NOSSITER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5474d58238f0d8119c6aee60",
+    "word_count": 1874,
+    "score": 1.0,
+    "uri": "nyt://article/a23613ac-b3e4-50c4-b482-e5b65f1eccdb"
+  }
+]

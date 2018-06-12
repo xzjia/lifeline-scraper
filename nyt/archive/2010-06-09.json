@@ -1,0 +1,728 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2010/06/09/business/09estate.html",
+    "snippet": "Dan L. Duncan\u2019s heirs stand to collect billions that any other year would have gone to the Treasury.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/06/09/business/ESTATE/ESTATE-articleLarge.jpg",
+        "height": 315,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2010/06/09/business/ESTATE/ESTATE-articleLarge.jpg",
+          "xlargeheight": 315
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/06/09/business/ESTATE/ESTATE-thumbStandard-v2.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/06/09/business/ESTATE/ESTATE-thumbStandard-v2.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Legacy for One Billionaire: Death, but No Taxes",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Legacy for One Billionaire: Death, but No Taxes",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Inheritance and Estate Taxes",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Taxation",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Treasury Department",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Wills and Estates",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Politics and Government",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "High Net Worth Individuals",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Duncan, Dan L",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Personal Finances",
+        "rank": 8,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-06-09T00:54:39+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By DAVID KOCIENIEWSKI",
+      "person": [
+        {
+          "firstname": "David",
+          "middlename": null,
+          "lastname": "KOCIENIEWSKI",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5417457f38f0d851fd3a7b5e",
+    "word_count": 1165,
+    "score": 1.0,
+    "uri": "nyt://article/12992ae1-3042-5411-970a-46fec935398f"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2010/06/09/business/09pay.html",
+    "snippet": "A review of 28 finance firms found many of the bonus programs that contributed to the crisis were still in place.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "Fed Finding Status Quo in Bank Pay",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Fed Finding Status Quo In Bank Pay",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Wages and Salaries",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Banks and Banking",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Executive Compensation",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Bonuses",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Federal Reserve System",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Subprime Mortgage Crisis",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Regulation and Deregulation of Industry",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Feinberg, Kenneth R",
+        "rank": 8,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-06-09T01:13:54+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By ERIC DASH",
+      "person": [
+        {
+          "firstname": "Eric",
+          "middlename": null,
+          "lastname": "DASH",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5417429638f0d851fd3a7b18",
+    "word_count": 832,
+    "score": 1.0,
+    "uri": "nyt://article/41f7ed05-a21f-5f18-926b-d5212326b5aa"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2010/06/13/arts/music/13drake.html",
+    "snippet": "Drake, 23, is a former television actor from Toronto who, with three mixtapes behind him, has emerged as one of rap\u2019s hottest acts.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/06/13/arts/13drake-span/13drake-span-articleLarge.jpg",
+        "height": 377,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2010/06/13/arts/13drake-span/13drake-span-articleLarge.jpg",
+          "xlargeheight": 377
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/06/13/arts/13drake-span/13drake-span-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/06/13/arts/13drake-span/13drake-span-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "The New Face of Hip-Hop",
+      "kicker": "Music",
+      "content_kicker": "Music",
+      "print_headline": "The New Face of Hip-Hop",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Rap Music",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Drake",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Actors and Actresses",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Canada",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-06-09T19:29:03+0000",
+    "document_type": "article",
+    "new_desk": "0",
+    "section_name": "Music",
+    "byline": {
+      "original": "By JON CARAMANICA",
+      "person": [
+        {
+          "firstname": "Jon",
+          "middlename": null,
+          "lastname": "CARAMANICA",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "541742ac38f0d851fd3a7b1b",
+    "word_count": 2114,
+    "score": 1.0,
+    "uri": "nyt://article/917642c3-fa2a-514e-9f79-582c08a92da6"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2010/06/10/garden/10childtech.html",
+    "snippet": "Parents\u2019 use of smartphones and laptops \u2014 and its effect on their children \u2014 is becoming a source of concern to researchers. ",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/06/10/garden/10childtechspan-1/Childtech-1-articleLarge.jpg",
+        "height": 330,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2010/06/10/garden/10childtechspan-1/Childtech-1-articleLarge.jpg",
+          "xlargeheight": 330
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/06/10/garden/10childtechspan-1/Childtech-1-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/06/10/garden/10childtechspan-1/Childtech-1-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "The Risks of Parenting While Plugged In",
+      "kicker": "Your Brain on Computers",
+      "content_kicker": "Your Brain on Computers",
+      "print_headline": "R U Here, Mom?",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Parenting",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Smartphones",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Computers and the Internet",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Children and Youth",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Turkle, Sherry",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Social Conditions and Trends",
+        "rank": 7,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-06-09T23:13:52+0000",
+    "document_type": "article",
+    "new_desk": "Home",
+    "byline": {
+      "original": "By JULIE SCELFO",
+      "person": [
+        {
+          "firstname": "Julie",
+          "middlename": null,
+          "lastname": "SCELFO",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "54174b9f38f0d851fd3a7beb",
+    "word_count": 1005,
+    "score": 1.0,
+    "uri": "nyt://article/6dc294c8-2535-57c1-9c0f-5993a927f695"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2010/06/10/technology/personaltech/10pogue.html",
+    "snippet": "Tone deaf? Don&#8217;t know a half note from a whole rest? Doesn&#8217;t matter. Two new iPhone apps help you perform with Taylor Swift and the &#8220;Glee&#8221; TV show.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/04/19/business/pogue-75/pogue-75-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/04/19/business/pogue-75/pogue-75-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "New iPhone Apps Put You in the Mix",
+      "kicker": "State of the Art",
+      "content_kicker": "State of the Art",
+      "print_headline": "New iPhone Apps Put You in the Mix",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Music",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "iPhone",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Computers and the Internet",
+        "rank": 3,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-06-09T22:43:08+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "section_name": "Personal Tech",
+    "byline": {
+      "original": "By DAVID POGUE",
+      "person": [
+        {
+          "firstname": "David",
+          "middlename": null,
+          "lastname": "POGUE",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "54174c3238f0d851fd3a7bf8",
+    "word_count": 1238,
+    "score": 1.0,
+    "uri": "nyt://article/97f92701-64c7-51a0-afaf-3f29e67c1cc4"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2010/06/10/us/politics/10prop.html",
+    "snippet": "Under Proposition 14, traditional primaries will be replaced with open elections. It is a system that supporters hoped would spread to other states.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/06/10/us/politics/10prop1/10prop1-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/06/10/us/politics/10prop1/10prop1-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Calif. Voting Change Could Signal Big Political Shift",
+      "kicker": "News Analysis",
+      "content_kicker": "News Analysis",
+      "print_headline": "A Revolution On the Ballot",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "California",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Primaries and Caucuses",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Referendums",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Voting and Voters",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-06-09T06:12:10+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "section_name": "Politics",
+    "byline": {
+      "original": "By JESSE McKINLEY",
+      "person": [
+        {
+          "firstname": "Jesse",
+          "middlename": null,
+          "lastname": "McKINLEY",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News Analysis",
+    "_id": "54173f0138f0d851fd3a7ab6",
+    "word_count": 980,
+    "score": 1.0,
+    "uri": "nyt://article/3e789958-d7e7-52f7-97e8-650eda0f5ca1"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2010/06/10/world/middleeast/10sanctions.html",
+    "snippet": "A new measure takes aim at the military in another attempt to pressure Iran over its nuclear program.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/06/10/world/10sanctionsspan-cnd/10sanctionsspan-cnd-articleLarge-v2.jpg",
+        "height": 331,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2010/06/10/world/10sanctionsspan-cnd/10sanctionsspan-cnd-articleLarge-v2.jpg",
+          "xlargeheight": 331
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/06/10/world/10sanctionsspan-cnd/10sanctionsspan-cnd-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2010/06/10/world/10sanctionsspan-cnd/10sanctionsspan-cnd-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2010/06/10/world/10sanctionsspan-cnd/10sanctionsspan-cnd-thumbStandard-v2.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2010/06/10/world/10sanctionsspan-cnd/10sanctionsspan-cnd-thumbStandard-v2.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "U.N. Approves New Sanctions to Deter Iran",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "U.N. APPROVES NEW SANCTIONS TO DETER IRAN",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "organizations",
+        "value": "United Nations",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Iran",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Security Council (UN)",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Embargoes and Economic Sanctions",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Nuclear Weapons",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2010-06-09T13:38:46+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Middle East",
+    "byline": {
+      "original": "By NEIL MacFARQUHAR",
+      "person": [
+        {
+          "firstname": "Neil",
+          "middlename": null,
+          "lastname": "MacFARQUHAR",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "515d91e0cf28d0219d000205",
+    "word_count": 1146,
+    "score": 1.0,
+    "uri": "nyt://article/cd7dc008-e22e-5b6c-bc0d-91974562ddcd"
+  }
+]

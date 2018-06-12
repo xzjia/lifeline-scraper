@@ -1,0 +1,532 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2013/01/20/realestate/what-is-middle-class-in-manhattan.html",
+    "snippet": "The designation has a different meaning in New York, where everything is superlative, than it does elsewhere.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/01/20/realestate/20JUMP7_SPAN/20JUMP7_SPAN-articleLarge-v2.jpg",
+        "height": 400,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2013/01/20/realestate/20JUMP7_SPAN/20JUMP7_SPAN-articleLarge-v2.jpg",
+          "xlargeheight": 400
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/01/20/realestate/20JUMP7_SPAN/20JUMP7_SPAN-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2013/01/20/realestate/20JUMP7_SPAN/20JUMP7_SPAN-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/01/20/realestate/20JUMP7_SPAN/20JUMP7_SPAN-thumbStandard-v2.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2013/01/20/realestate/20JUMP7_SPAN/20JUMP7_SPAN-thumbStandard-v2.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "What Is Middle Class in Manhattan?",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "What Is Middle-Class in Manhattan?",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Real Estate and Housing (Residential)",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Economic Conditions and Trends",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "New York City",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Income",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2013-01-18T20:20:49+0000",
+    "document_type": "article",
+    "new_desk": "RealEstate",
+    "byline": {
+      "original": "By AMY O'LEARY",
+      "person": [
+        {
+          "firstname": "Amy",
+          "middlename": null,
+          "lastname": "O'LEARY",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "50fa53dd00315214fbb85d7e",
+    "word_count": 2920,
+    "score": 1.0,
+    "uri": "nyt://article/6af24755-5360-53d4-8a4a-bc7cce363e6f"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2013/01/20/travel/i-just-got-back-from-medellin.html",
+    "snippet": "The cartel days are gone, and parks, museums, hotels and night life have arrived. Just don\u2019t tell anyone you took the Pablo Escobar tour.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/01/20/travel/20MEDELLIN_SPAN-sf/20MEDELLIN_SPAN-articleLarge.jpg",
+        "height": 553,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2013/01/20/travel/20MEDELLIN_SPAN-sf/20MEDELLIN_SPAN-articleLarge.jpg",
+          "xlargeheight": 553
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/01/20/travel/20MEDELLIN_SPAN-sf/20MEDELLIN_SPAN-thumbStandard-v2.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2013/01/20/travel/20MEDELLIN_SPAN-sf/20MEDELLIN_SPAN-thumbStandard-v2.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "I Just Got Back From Medell\u00edn!",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "I Just Got Back From Medell\u00edn!",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Travel and Vacations",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Medellin (Colombia)",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Colombia",
+        "rank": 3,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2013-01-18T18:22:58+0000",
+    "document_type": "article",
+    "new_desk": "Travel",
+    "byline": {
+      "original": "By HENRY ALFORD",
+      "person": [
+        {
+          "firstname": "Henry",
+          "middlename": null,
+          "lastname": "ALFORD",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "59382c557c459f24986e444a",
+    "word_count": 2643,
+    "score": 1.0,
+    "uri": "nyt://article/27309a0c-3c42-52d7-b938-3c9ae9ce7dcf"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2013/01/19/world/europe/sergei-filin-bolshoi-ballet-director-is-victim-of-acid-attack.html",
+    "snippet": "Moscow awoke to the horrifying news on Friday that a masked man had thrown acid on Sergei Filin, the artistic director of one of the city\u2019s jewels, the Bolshoi Ballet.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/01/19/world/19bolshoi-image3/19bolshoi-image3-articleLarge.jpg",
+        "height": 370,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2013/01/19/world/19bolshoi-image3/19bolshoi-image3-articleLarge.jpg",
+          "xlargeheight": 370
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/01/19/world/19bolshoi-image3/19bolshoi-image3-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2013/01/19/world/19bolshoi-image3/19bolshoi-image3-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Harsh Light Falls on Bolshoi After Acid Attack",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Harsh Light Falls on Bolshoi After Acid Attack",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Filin, Sergei",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Bolshoi Ballet",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Assaults",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Moscow (Russia)",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Dancing",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Acids",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2013-01-18T09:08:19+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Europe",
+    "byline": {
+      "original": "By ELLEN BARRY",
+      "person": [
+        {
+          "firstname": "Ellen",
+          "middlename": null,
+          "lastname": "BARRY",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "59ef372d7c459f246b63062e",
+    "word_count": 1302,
+    "score": 1.0,
+    "uri": "nyt://article/52e58381-33c4-56bf-adec-f80af3fb4b97"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2013/01/19/business/economy/fed-transcripts-open-a-window-on-2007-crisis.html",
+    "snippet": "The Federal Reserve has released the full record of its discussions in 2007, when the housing market, the financial system and the economy took a fateful turn.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/01/19/business/FED/FED-articleLarge-v3.jpg",
+        "height": 415,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2013/01/19/business/FED/FED-articleLarge-v3.jpg",
+          "xlargeheight": 415
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/01/19/business/FED/FED-thumbWide-v3.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2013/01/19/business/FED/FED-thumbWide-v3.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2013/01/19/business/FED/FED-thumbStandard-v2.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2013/01/19/business/FED/FED-thumbStandard-v2.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Days Before Housing Bust, Fed Doubted Need to Act",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "The Fed in Slow Motion",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "organizations",
+        "value": "Federal Reserve System",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Subprime Mortgage Crisis",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Economy",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Banking and Financial Institutions",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Bernanke, Ben S",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2013-01-18T15:55:10+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "section_name": "Economy",
+    "byline": {
+      "original": "By BINYAMIN APPELBAUM",
+      "person": [
+        {
+          "firstname": "Binyamin",
+          "middlename": null,
+          "lastname": "APPELBAUM",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "50f973f800315214fbb85c5b",
+    "word_count": 1517,
+    "score": 1.0,
+    "uri": "nyt://article/c5edccca-1101-57e3-be06-7251c00035e8"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2013/01/19/us/politics/house-gop-agrees-to-lift-debt-ceiling-for-3-months.html",
+    "snippet": "Republicans said they would back down on the borrowing limit to open a window for Congress to pass a budget and begin talks on long-term deficit reduction.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "In Reversal, House G.O.P. Agrees to Lift Debt Limit",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "In Reversal, House G.O.P. Agrees to Lift Debt Limit",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Federal Budget (US)",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "House of Representatives",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Senate",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Obama, Barack",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "National Debt (US)",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2013-01-18T18:42:24+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "section_name": "Politics",
+    "byline": {
+      "original": "By JONATHAN WEISMAN",
+      "person": [
+        {
+          "firstname": "Jonathan",
+          "middlename": null,
+          "lastname": "WEISMAN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "50fa543100315214fbb85e2f",
+    "word_count": 1059,
+    "score": 1.0,
+    "uri": "nyt://article/3f90b4e9-5ec4-51d3-a91a-d220c59018dd"
+  }
+]
