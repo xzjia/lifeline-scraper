@@ -1,0 +1,156 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2015/06/08/world/europe/turkey-election-recep-tayyip-erdogan-kurds-hdp.html",
+    "snippet": "The election results represented a significant setback to President Recep Tayyip Erdogan, an Islamist who has steadily increased his power.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2015/06/07/world/20150607-turkey-hp-slide-EWZQ/20150607-turkey-hp-slide-EWZQ-articleLarge.jpg",
+        "height": 400,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2015/06/07/world/20150607-turkey-hp-slide-EWZQ/20150607-turkey-hp-slide-EWZQ-articleLarge.jpg",
+          "xlargeheight": 400
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2015/06/07/world/20150607-turkey-hp-slide-EWZQ/20150607-turkey-hp-slide-EWZQ-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2015/06/07/world/20150607-turkey-hp-slide-EWZQ/20150607-turkey-hp-slide-EWZQ-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2015/06/07/world/20150607-turkey-hp-slide-EWZQ/20150607-turkey-hp-slide-EWZQ-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2015/06/07/world/20150607-turkey-hp-slide-EWZQ/20150607-turkey-hp-slide-EWZQ-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Erdogan\u2019s Governing Party in Turkey Loses Parliamentary Majority",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Governing Party Loses Majority in Turkish Vote",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Turkey",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Elections",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Erdogan, Recep Tayyip",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Justice and Development Party (Turkey)",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "People's Democratic Party (Turkey)",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Republican People's Party (Turkey)",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Davutoglu, Ahmet",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Demirtas, Selahattin",
+        "rank": 8,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2015-06-07T15:08:41+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Europe",
+    "byline": {
+      "original": "By TIM ARANGO and CEYLAN YEGINSU",
+      "person": [
+        {
+          "firstname": "Tim",
+          "middlename": null,
+          "lastname": "ARANGO",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Ceylan",
+          "middlename": null,
+          "lastname": "YEGINSU",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "55745e7e38f0d84450890551",
+    "word_count": 1575,
+    "score": 1.0,
+    "uri": "nyt://article/5bd0533b-b5e7-52f6-971d-0541be686e31"
+  }
+]

@@ -1,0 +1,162 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2017/02/19/us/politics/donald-trump-ukraine-russia.html",
+    "snippet": "Amid scrutiny of President Trump\u2019s possible ties to Russia, his personal lawyer advances an opposition Ukrainian lawmaker\u2019s sealed plan to the White House.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/02/20/us/20trumpukraine-1/20trumpukraine-1-articleLarge.jpg",
+        "height": 400,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2017/02/20/us/20trumpukraine-1/20trumpukraine-1-articleLarge.jpg",
+          "xlargeheight": 400
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/02/20/us/20trumpukraine-1/20trumpukraine-1-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2017/02/20/us/20trumpukraine-1/20trumpukraine-1-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/02/20/us/20trumpukraine-1/20trumpukraine-1-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2017/02/20/us/20trumpukraine-1/20trumpukraine-1-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "A Back-Channel Plan for Ukraine and Russia, Courtesy of Trump Associates",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Trump Associates Push Backdoor Ukraine Plan",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Trump, Donald J",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Ukraine",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Russia",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States International Relations",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Cohen, Michael D (1966- )",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Sater, Felix H",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Artemenko, Andrii V",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Manafort, Paul J",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Poroshenko, Petro Olekseyevich",
+        "rank": 9,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2017-02-19T17:45:08+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "section_name": "Politics",
+    "byline": {
+      "original": "By MEGAN TWOHEY and SCOTT SHANE",
+      "person": [
+        {
+          "firstname": "Megan",
+          "middlename": null,
+          "lastname": "TWOHEY",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Scott",
+          "middlename": null,
+          "lastname": "SHANE",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "58a9d9a87c459f2525d1d630",
+    "word_count": 1727,
+    "score": 1.0,
+    "uri": "nyt://article/d29c69c4-6713-5004-bcbc-2031ea4f8646"
+  }
+]

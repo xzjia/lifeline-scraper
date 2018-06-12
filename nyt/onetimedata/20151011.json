@@ -1,0 +1,145 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2015/10/12/health/the-chains-of-mental-illness-in-west-africa.html",
+    "snippet": "In parts of West Africa, religious retreats set up camps for people with mental illnesses, where patients are frequently shackled and prayer is often the only treatment.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2015/10/10/science/13SUB3TOGO/13SUB3TOGO-articleLarge-v3.jpg",
+        "height": 393,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2015/10/10/science/13SUB3TOGO/13SUB3TOGO-articleLarge-v3.jpg",
+          "xlargeheight": 393
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2015/10/10/science/13SUB3TOGO/13SUB3TOGO-thumbWide-v3.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2015/10/10/science/13SUB3TOGO/13SUB3TOGO-thumbWide-v3.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2015/10/10/science/13SUB3TOGO/13SUB3TOGO-thumbStandard-v3.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2015/10/10/science/13SUB3TOGO/13SUB3TOGO-thumbStandard-v3.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "The Chains of Mental Illness in West Africa",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "The Chains of Mental Illness Across West Africa",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Mental Health and Disorders",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Togo",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Africa",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "United Nations",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Series",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Alternative and Complementary Medicine",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Human Rights and Human Rights Violations",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Human Rights Watch",
+        "rank": 8,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2015-10-11T14:35:21+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "byline": {
+      "original": "By BENEDICT CAREY",
+      "person": [
+        {
+          "firstname": "Benedict",
+          "middlename": null,
+          "lastname": "CAREY",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "561a73ab38f0d82e34cfc50e",
+    "word_count": 2449,
+    "score": 1.0,
+    "uri": "nyt://article/69834c17-f044-5d6a-a08d-9d0bfaaf48e4"
+  }
+]

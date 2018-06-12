@@ -1,0 +1,128 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2016/02/16/us/politics/what-would-antonin-scalia-want-in-his-successor-a-dissent-offers-clues.html",
+    "snippet": "In a passage from his dissent from the Supreme Court\u2019s decision in June on same-sex marriage, Justice Antonin Scalia criticized the court\u2019s lack of diversity.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2016/02/16/us/16scotus/16scotus-articleLarge.jpg",
+        "height": 400,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2016/02/16/us/16scotus/16scotus-articleLarge.jpg",
+          "xlargeheight": 400
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2016/02/16/us/16scotus/16scotus-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2016/02/16/us/16scotus/16scotus-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2016/02/16/us/16scotus/16scotus-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2016/02/16/us/16scotus/16scotus-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "What Would Scalia Want in His Successor? A Dissent Offers Clues",
+      "kicker": "Supreme Court Memo",
+      "content_kicker": "Supreme Court Memo",
+      "print_headline": "Suggestions on a Successor",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "organizations",
+        "value": "Supreme Court (US)",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Scalia, Antonin",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Obama, Barack",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Courts and the Judiciary",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Appointments and Executive Changes",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2016-02-15T19:34:57+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "section_name": "Politics",
+    "byline": {
+      "original": "By ADAM LIPTAK",
+      "person": [
+        {
+          "firstname": "Adam",
+          "middlename": null,
+          "lastname": "LIPTAK",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "56c2286538f0d810c38f6022",
+    "word_count": 1034,
+    "score": 1.0,
+    "uri": "nyt://article/5b0ab941-f5f7-51e5-aa92-6d7fffc975c1"
+  }
+]

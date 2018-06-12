@@ -63,11 +63,11 @@ def remove_duplicate(event_list):
     return result
 
 
-def process_one_day(year, month, day):
+def process_one_day(year, month, day, prefix):
     one_day = date(year, month, day)
     result = get_one_day(one_day)
     result = remove_duplicate(result)
-    with open('nyt/archive/{}.json'.format(format_date(one_day)), 'w') as outfile:
+    with open('{}/{}.json'.format(prefix, format_date(one_day)), 'w') as outfile:
         json.dump(result, outfile, indent=2)
 
 
@@ -81,11 +81,11 @@ def playground():
 
 
 def main():
-    month = 4
-    start_date = 1
-    end_date = 30
-    for single_date in range(start_date, end_date):
-        process_one_day(2018, month, single_date)
+    start = date(2000, 1, 31)
+    end = date(2014, 12, 31)
+    while start <= end:
+        process_one_day(start.year, start.month, start.day, 'nyt/onetimedata')
+        start = start + timedelta(1)
 
 
 if __name__ == '__main__':

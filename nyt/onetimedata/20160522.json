@@ -1,0 +1,153 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2016/05/23/us/americas-overlooked-gun-violence.html",
+    "snippet": "Most shootings with four deaths or injuries are invisible outside their communities. And most of the lives they scar are black.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2016/05/14/us/MASSSHOOT10/MASSSHOOT10-articleLarge.jpg",
+        "height": 400,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2016/05/14/us/MASSSHOOT10/MASSSHOOT10-articleLarge.jpg",
+          "xlargeheight": 400
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2016/05/14/us/MASSSHOOT10/MASSSHOOT10-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2016/05/14/us/MASSSHOOT10/MASSSHOOT10-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2016/05/14/us/MASSSHOOT10/MASSSHOOT10-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2016/05/14/us/MASSSHOOT10/MASSSHOOT10-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "A Drumbeat of Multiple Shootings, but America Isn\u2019t Listening",
+      "kicker": "The Daily Toll",
+      "content_kicker": "The Daily Toll",
+      "print_headline": "Unending but Unheard, the Echo of Gun Violence",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Murders, Attempted Murders and Homicides",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Firearms",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Blacks",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "United States",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Gangs",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Series",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2016-05-22T20:31:46+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "byline": {
+      "original": "By SHARON LaFRANIERE, DANIELA PORAT and AGUSTIN ARMENDARIZ",
+      "person": [
+        {
+          "firstname": "Sharon",
+          "middlename": null,
+          "lastname": "LaFRANIERE",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Daniela",
+          "middlename": null,
+          "lastname": "PORAT",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        },
+        {
+          "firstname": "Agustin",
+          "middlename": null,
+          "lastname": "ARMENDARIZ",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 3
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5742173f38f0d87318c4769d",
+    "word_count": 4450,
+    "score": 1.0,
+    "uri": "nyt://article/7993c56c-7fbe-5e43-8423-5e30b6b8d658"
+  }
+]

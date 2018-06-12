@@ -1,0 +1,1452 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2015/07/07/technology/for-start-ups-how-many-angels-is-too-many.html",
+    "snippet": "The Silicon Valley investment frenzy has spurred so-called angel investors into earlier financing rounds, but there are downsides for both entrepreneur and investor.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2015/07/07/business/07ANGEL/07ANGEL-articleLarge.jpg",
+        "height": 381,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2015/07/07/business/07ANGEL/07ANGEL-articleLarge.jpg",
+          "xlargeheight": 381
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2015/07/07/business/07ANGEL/07ANGEL-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2015/07/07/business/07ANGEL/07ANGEL-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2015/07/07/business/07ANGEL/07ANGEL-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2015/07/07/business/07ANGEL/07ANGEL-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "For Start-Ups, How Many Angels Is Too Many?",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Where Countless Angels Tread",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Venture Capital",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Start-ups",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Entrepreneurship",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Silicon Valley (Calif)",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2015-07-07T00:00:52+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By MIKE ISAAC",
+      "person": [
+        {
+          "firstname": "Mike",
+          "middlename": null,
+          "lastname": "ISAAC",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "559b16b838f0d87e629d5495",
+    "word_count": 1199,
+    "score": 1.0,
+    "uri": "nyt://article/2a67fa9b-5e98-5b0a-82b6-134c0b69cb1e"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2015/07/08/technology/code-specialists-oppose-us-and-british-government-access-to-encrypted-communication.html",
+    "snippet": "A new report says giving the governments \u201cexceptional access\u201d to encrypted communications would jeopardize confidential data and critical infrastructure.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2015/07/07/business/08crypto-web2/08crypto-web2-articleLarge.jpg",
+        "height": 400,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2015/07/07/business/08crypto-web2/08crypto-web2-articleLarge.jpg",
+          "xlargeheight": 400
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2015/07/07/business/08crypto-web2/08crypto-web2-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2015/07/07/business/08crypto-web2/08crypto-web2-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2015/07/07/business/08crypto-web2/08crypto-web2-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2015/07/07/business/08crypto-web2/08crypto-web2-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Security Experts Oppose Government Access to Encrypted Communication",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Experts Oppose Government Key to Encoded Data",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Surveillance of Citizens by Government",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Privacy",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Computer Security",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Computers and the Internet",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "National Security Agency",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Cyberwarfare and Defense",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Senate Committee on the Judiciary",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Comey, James B",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Rivest, Ronald L",
+        "rank": 9,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Rogers, Michael S",
+        "rank": 10,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Schneier, Bruce",
+        "rank": 11,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Great Britain",
+        "rank": 12,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "United States",
+        "rank": 13,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Bellovin, Steven M",
+        "rank": 14,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Diffie, Whitfield (1944- )",
+        "rank": 15,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Abelson, Harold (1947- )",
+        "rank": 16,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Benaloh, Josh",
+        "rank": 17,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Landau, Susan (1954- )",
+        "rank": 18,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2015-07-07T13:00:32+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By NICOLE PERLROTH",
+      "person": [
+        {
+          "firstname": "Nicole",
+          "middlename": null,
+          "lastname": "PERLROTH",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "559bcd7338f0d87e629d561c",
+    "word_count": 1244,
+    "score": 1.0,
+    "uri": "nyt://article/995eb78a-4047-5254-a821-dbafe4a84a68"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2015/07/08/arts/design/the-case-for-new-hudson-river-rail-tunnels.html",
+    "snippet": "A plan for a pair of new passenger tunnels under the Hudson River would benefit both New York and New Jersey.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2015/07/08/arts/08TUNNEL/08TUNNEL-articleLarge-v3.jpg",
+        "height": 384,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2015/07/08/arts/08TUNNEL/08TUNNEL-articleLarge-v3.jpg",
+          "xlargeheight": 384
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2015/07/08/arts/08TUNNEL/08TUNNEL-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2015/07/08/arts/08TUNNEL/08TUNNEL-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2015/07/08/arts/08TUNNEL/08TUNNEL-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2015/07/08/arts/08TUNNEL/08TUNNEL-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "The Case for New Hudson River Rail Tunnels",
+      "kicker": "Critic's Notebook",
+      "content_kicker": "Critic's Notebook",
+      "print_headline": "Tunnel Visions and Penn Dreams ",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Hudson River Tunnels Project",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Transit Systems",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Commuting",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Railroads",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Hudson River",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Pennsylvania Station (Manhattan, NY)",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Bridges and Tunnels",
+        "rank": 7,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2015-07-07T21:43:18+0000",
+    "document_type": "article",
+    "new_desk": "Culture",
+    "section_name": "Art & Design",
+    "byline": {
+      "original": "By MICHAEL KIMMELMAN",
+      "person": [
+        {
+          "firstname": "Michael",
+          "middlename": null,
+          "lastname": "KIMMELMAN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "559c47f838f0d81b1af2d46d",
+    "word_count": 1172,
+    "score": 1.0,
+    "uri": "nyt://article/2d001c86-6de1-55fd-b133-32e8067e9724"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2015/07/08/us/louisiana-prosecutor-becomes-blunt-spokesman-for-death-penalty.html",
+    "snippet": "Dale Cox, the acting district attorney in Caddo Parish, La., has secured more than a third of Louisiana\u2019s death sentences over the past five years.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2015/07/07/us/07DEATHWEB/00DEATHWEB-articleLarge.jpg",
+        "height": 399,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2015/07/07/us/07DEATHWEB/00DEATHWEB-articleLarge.jpg",
+          "xlargeheight": 399
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2015/07/07/us/07DEATHWEB/00DEATHWEB-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2015/07/07/us/07DEATHWEB/00DEATHWEB-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2015/07/07/us/07DEATHWEB/00DEATHWEB-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2015/07/07/us/07DEATHWEB/00DEATHWEB-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "The Prosecutor Who Says Louisiana Should \u2018Kill More People\u2019",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "The Man Who Says Louisiana Should &#8216;Kill More&#8217; ",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Cox, Dale (1948- )",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Capital Punishment",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Louisiana",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Murders, Attempted Murders and Homicides",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "District Attorneys",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Sentences (Criminal)",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Supreme Court (US)",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Breyer, Stephen G",
+        "rank": 8,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2015-07-07T15:14:07+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "byline": {
+      "original": "By CAMPBELL ROBERTSON",
+      "person": [
+        {
+          "firstname": "Campbell",
+          "middlename": null,
+          "lastname": "ROBERTSON",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "559becc238f0d87e629d567b",
+    "word_count": 1235,
+    "score": 1.0,
+    "uri": "nyt://article/c132262f-fc88-50d2-b578-f82ba49faf08"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2015/07/08/dining/california-drought-restrictions-kitchen-chef-restaurants.html",
+    "snippet": "In the fourth year of drought, recipes and realities are changing in kitchens and restaurants.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2015/07/08/dining/DROUGHT1/DROUGHT1-articleLarge.jpg",
+        "height": 900,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2015/07/08/dining/DROUGHT1/DROUGHT1-articleLarge.jpg",
+          "xlargeheight": 900
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2015/07/08/dining/DROUGHT1/DROUGHT1-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2015/07/08/dining/DROUGHT1/DROUGHT1-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2015/07/08/dining/DROUGHT1/DROUGHT1-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2015/07/08/dining/DROUGHT1/DROUGHT1-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "California\u2019s Drought Changes Habits in the Kitchen",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "The Thirsty Kitchen",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Cooking and Cookbooks",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "California",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Water",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Conservation of Resources",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Drought",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2015-07-07T19:16:05+0000",
+    "document_type": "article",
+    "new_desk": "Dining",
+    "byline": {
+      "original": "By KIM SEVERSON",
+      "person": [
+        {
+          "firstname": "Kim",
+          "middlename": null,
+          "lastname": "SEVERSON",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "559c257938f0d81b1af2d3ea",
+    "word_count": 1745,
+    "score": 1.0,
+    "uri": "nyt://article/a7a930c7-360a-5777-894e-7dde3bab8808"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2015/07/07/business/international/trade-deal-negotiators-see-a-wrap-in-late-july.html",
+    "snippet": "U.S. officials feel confident enough of a deal that they have notified Congress that they expect the meeting among negotiators in late July will be the last.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2015/07/07/business/07jptrade1/07jptrade1-articleLarge.jpg",
+        "height": 400,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2015/07/07/business/07jptrade1/07jptrade1-articleLarge.jpg",
+          "xlargeheight": 400
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2015/07/07/business/07jptrade1/07jptrade1-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2015/07/07/business/07jptrade1/07jptrade1-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2015/07/07/business/07jptrade1/07jptrade1-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2015/07/07/business/07jptrade1/07jptrade1-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Pacific Trade Deal Negotiators See a Wrap in Late July",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Trade Deal Negotiators See a Wrap in Late July",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Trans-Pacific Partnership",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "International Trade and World Market",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Canada",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Chile",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "China",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Japan",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Mexico",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "New Zealand",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Peru",
+        "rank": 9,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Vietnam",
+        "rank": 10,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2015-07-07T00:21:12+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "section_name": "International Business",
+    "byline": {
+      "original": "By JONATHAN WEISMAN",
+      "person": [
+        {
+          "firstname": "Jonathan",
+          "middlename": null,
+          "lastname": "WEISMAN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "559b1b7a38f0d87e629d54a2",
+    "word_count": 931,
+    "score": 1.0,
+    "uri": "nyt://article/8c19ac5e-c92c-5775-ae89-931d62869b87"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2015/07/08/business/economy/housing-program-expansion-would-encourage-more-low-income-families-to-move-up.html",
+    "snippet": "An experimental program that increases subsidies for families who move to more expensive areas is based on research showing that ZIP codes matter to future success.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2015/07/08/business/08vouchers-web1/08vouchers-web1-articleLarge.jpg",
+        "height": 399,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2015/07/08/business/08vouchers-web1/08vouchers-web1-articleLarge.jpg",
+          "xlargeheight": 399
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2015/07/08/business/08vouchers-web1/08vouchers-web1-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2015/07/08/business/08vouchers-web1/08vouchers-web1-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2015/07/08/business/08vouchers-web1/08vouchers-web1-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2015/07/08/business/08vouchers-web1/08vouchers-web1-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Vouchers Help Families Move Far From Public Housing",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Helping Families Move Far From Public Housing ",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Affordable Housing",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Public and Subsidized Housing",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Urban Areas",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Vouchers",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Housing and Urban Development Department",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Dallas (Tex)",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2015-07-07T19:49:12+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "section_name": "Economy",
+    "byline": {
+      "original": "By BINYAMIN APPELBAUM",
+      "person": [
+        {
+          "firstname": "Binyamin",
+          "middlename": null,
+          "lastname": "APPELBAUM",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "559c2d3d38f0d81b1af2d403",
+    "word_count": 1523,
+    "score": 1.0,
+    "uri": "nyt://article/369488d1-9ee6-5060-9f0f-68ad3e67305d"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2015/07/08/us/politics/super-pacs-take-on-new-role-organizing-voters.html",
+    "snippet": "Super PACs, which in the past typically funneled money into advertising, are branching out into the purview of campaigns \u2014 signing up voters at the grass roots.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2015/07/08/us/08IOWAJP1/08IOWAJP1-articleLarge.jpg",
+        "height": 400,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2015/07/08/us/08IOWAJP1/08IOWAJP1-articleLarge.jpg",
+          "xlargeheight": 400
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2015/07/08/us/08IOWAJP1/08IOWAJP1-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2015/07/08/us/08IOWAJP1/08IOWAJP1-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2015/07/08/us/08IOWAJP1/08IOWAJP1-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2015/07/08/us/08IOWAJP1/08IOWAJP1-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "\u2018Super PACs\u2019 Take On New Role, Organizing Voters",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "\u2018Super PACs\u2019 Take On Role at Grass Roots",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Political Action Committees",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Presidential Election of 2016",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Campaign Finance",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Political Advertising",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Jindal, Bobby",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Paul, Rand",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Bush, Jeb",
+        "rank": 7,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2015-07-07T16:39:32+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "section_name": "Politics",
+    "byline": {
+      "original": "By TRIP GABRIEL",
+      "person": [
+        {
+          "firstname": "Trip",
+          "middlename": null,
+          "lastname": "GABRIEL",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "559c00c638f0d81b1af2d362",
+    "word_count": 1348,
+    "score": 1.0,
+    "uri": "nyt://article/ebabb4aa-9f06-5dc6-85c1-8c57ae200b0f"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2015/07/07/world/middleeast/iraqi-forces-plan-offensive-to-retake-ramadi-from-isis.html",
+    "snippet": "President Obama said the fall of the key western city had galvanized the Iraqi government and accelerated an American effort to train forces there.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2015/07/07/world/07MILITARY/07MILITARY-articleLarge.jpg",
+        "height": 383,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2015/07/07/world/07MILITARY/07MILITARY-articleLarge.jpg",
+          "xlargeheight": 383
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2015/07/07/world/07MILITARY/07MILITARY-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2015/07/07/world/07MILITARY/07MILITARY-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2015/07/07/world/07MILITARY/07MILITARY-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2015/07/07/world/07MILITARY/07MILITARY-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Iraqi Forces Plan Offensive to Retake Ramadi From ISIS",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Iraq Prepares to Take Back City From ISIS",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Iraq",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Islamic State in Iraq and Syria (ISIS)",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Ramadi (Iraq)",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Defense and Military Forces",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Iraqi Army",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Defense and Military Forces",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Obama, Barack",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Abadi, Haider al-",
+        "rank": 8,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2015-07-07T01:29:16+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Middle East",
+    "byline": {
+      "original": "By MICHAEL R. GORDON and ERIC SCHMITT",
+      "person": [
+        {
+          "firstname": "Michael",
+          "middlename": "R.",
+          "lastname": "GORDON",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Eric",
+          "middlename": null,
+          "lastname": "SCHMITT",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "559b2b7038f0d87e629d54bf",
+    "word_count": 1608,
+    "score": 1.0,
+    "uri": "nyt://article/4e221fe9-3e0a-5a3b-81ed-f125f04f2164"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2015/07/08/business/international/greece-debt-eurozone-meeting.html",
+    "snippet": "European leaders gave the Athens government until Sunday to reach an agreement to save its battered economy from a meltdown.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2015/07/08/world/Eurogrowth/Eurogrowth-articleLarge.jpg",
+        "height": 600,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2015/07/08/world/Eurogrowth/Eurogrowth-articleLarge.jpg",
+          "xlargeheight": 600
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2015/07/08/world/Eurogrowth/Eurogrowth-thumbWide-v3.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2015/07/08/world/Eurogrowth/Eurogrowth-thumbWide-v3.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2015/07/08/world/Eurogrowth/Eurogrowth-thumbStandard-v2.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2015/07/08/world/Eurogrowth/Eurogrowth-thumbStandard-v2.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Greece Given Until Sunday to Settle Debt Crisis or Face Disaster",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Europeans Set Sunday Deadline on Greek Accord",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Greece",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "European Sovereign Debt Crisis (2010- )",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Euro (Currency)",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "European Central Bank",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "European Union",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Eurozone",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2015-07-07T09:53:27+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "International Business",
+    "byline": {
+      "original": "By ANDREW HIGGINS and JAMES KANTER",
+      "person": [
+        {
+          "firstname": "Andrew",
+          "middlename": null,
+          "lastname": "HIGGINS",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "James",
+          "middlename": null,
+          "lastname": "KANTER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "559ba19b38f0d87e629d55ac",
+    "word_count": 1469,
+    "score": 1.0,
+    "uri": "nyt://article/051444e4-2eca-56d9-bbd3-0b7fb1f7317f"
+  }
+]

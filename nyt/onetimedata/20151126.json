@@ -1,0 +1,158 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2015/11/27/world/europe/russia-turkey-plane-downing.html",
+    "snippet": "Russia was looking at ways to curb commercial ties and investment projects, possibly including the deal to build a gas pipeline through Turkey.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2015/11/27/world/27RUSSIA1/27RUSSIA1-articleLarge.jpg",
+        "height": 383,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2015/11/27/world/27RUSSIA1/27RUSSIA1-articleLarge.jpg",
+          "xlargeheight": 383
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2015/11/27/world/27RUSSIA1/27RUSSIA1-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2015/11/27/world/27RUSSIA1/27RUSSIA1-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2015/11/27/world/27RUSSIA1/27RUSSIA1-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2015/11/27/world/27RUSSIA1/27RUSSIA1-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Kremlin Cutting Economic Links With the Turks",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Kremlin Cutting Economic Links With the Turks ",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Russia",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Turkey",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Putin, Vladimir V",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Erdogan, Recep Tayyip",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Islamic State in Iraq and Syria (ISIS)",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Syria",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Embargoes and Sanctions",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "International Relations",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Defense and Military Forces",
+        "rank": 9,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "North Atlantic Treaty Organization",
+        "rank": 10,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2015-11-26T19:27:22+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Europe",
+    "byline": {
+      "original": "By NEIL MacFARQUHAR",
+      "person": [
+        {
+          "firstname": "Neil",
+          "middlename": null,
+          "lastname": "MacFARQUHAR",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "56575d1c38f0d85344372df1",
+    "word_count": 1347,
+    "score": 1.0,
+    "uri": "nyt://article/9e488f45-37cd-51f3-8a7c-6d599799011b"
+  }
+]

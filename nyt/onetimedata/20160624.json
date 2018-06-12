@@ -1,0 +1,2385 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2016/06/26/style/hope-hicks-donald-trump.html",
+    "snippet": "Hope Hicks, a former model and high school lacrosse star with no background in politics, has a huge job in a chaotic campaign season.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2016/06/26/fashion/26HOPE/26HOPE-articleLarge.jpg",
+        "height": 400,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2016/06/26/fashion/26HOPE/26HOPE-articleLarge.jpg",
+          "xlargeheight": 400
+        },
+        "subType": "xlarge",
+        "crop_name": "articleLarge"
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2016/06/26/fashion/26HOPE/26HOPE-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2016/06/26/fashion/26HOPE/26HOPE-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": "thumbWide"
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2016/06/26/fashion/26HOPE/26HOPE-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2016/06/26/fashion/26HOPE/26HOPE-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": "thumbStandard"
+      },
+      {
+        "rank": 0,
+        "subtype": "articleInline",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2016/06/26/fashion/26HOPE/26HOPE-articleInline.jpg",
+        "height": 107,
+        "width": 190,
+        "legacy": {},
+        "subType": "articleInline",
+        "crop_name": "articleInline"
+      },
+      {
+        "rank": 0,
+        "subtype": "blog225",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2016/06/26/fashion/26HOPE/26HOPE-blog225.jpg",
+        "height": 150,
+        "width": 225,
+        "legacy": {},
+        "subType": "blog225",
+        "crop_name": "blog225"
+      },
+      {
+        "rank": 0,
+        "subtype": "blog427",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2016/06/26/fashion/26HOPE/26HOPE-blog427.jpg",
+        "height": 285,
+        "width": 427,
+        "legacy": {},
+        "subType": "blog427",
+        "crop_name": "blog427"
+      },
+      {
+        "rank": 0,
+        "subtype": "blog480",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2016/06/26/fashion/26HOPE/26HOPE-blog480.jpg",
+        "height": 320,
+        "width": 480,
+        "legacy": {},
+        "subType": "blog480",
+        "crop_name": "blog480"
+      },
+      {
+        "rank": 0,
+        "subtype": "blog533",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2016/06/26/fashion/26HOPE/26HOPE-blog533.jpg",
+        "height": 355,
+        "width": 533,
+        "legacy": {},
+        "subType": "blog533",
+        "crop_name": "blog533"
+      },
+      {
+        "rank": 0,
+        "subtype": "blogSmallInline",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2016/06/26/fashion/26HOPE/26HOPE-blogSmallInline.jpg",
+        "height": 85,
+        "width": 151,
+        "legacy": {},
+        "subType": "blogSmallInline",
+        "crop_name": "blogSmallInline"
+      },
+      {
+        "rank": 0,
+        "subtype": "blogSmallThumb",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2016/06/26/fashion/26HOPE/26HOPE-blogSmallThumb.jpg",
+        "height": 50,
+        "width": 50,
+        "legacy": {},
+        "subType": "blogSmallThumb",
+        "crop_name": "blogSmallThumb"
+      },
+      {
+        "rank": 0,
+        "subtype": "facebookJumbo",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2016/06/26/fashion/26HOPE/26HOPE-facebookJumbo.jpg",
+        "height": 549,
+        "width": 1050,
+        "legacy": {},
+        "subType": "facebookJumbo",
+        "crop_name": "facebookJumbo"
+      },
+      {
+        "rank": 0,
+        "subtype": "filmstrip",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2016/06/26/fashion/26HOPE/26HOPE-filmstrip.jpg",
+        "height": 190,
+        "width": 190,
+        "legacy": {},
+        "subType": "filmstrip",
+        "crop_name": "filmstrip"
+      },
+      {
+        "rank": 0,
+        "subtype": "hpLarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2016/06/26/fashion/26HOPE/26HOPE-hpLarge.jpg",
+        "height": 287,
+        "width": 511,
+        "legacy": {},
+        "subType": "hpLarge",
+        "crop_name": "hpLarge"
+      },
+      {
+        "rank": 0,
+        "subtype": "hpSmall",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2016/06/26/fashion/26HOPE/26HOPE-hpSmall.jpg",
+        "height": 92,
+        "width": 163,
+        "legacy": {},
+        "subType": "hpSmall",
+        "crop_name": "hpSmall"
+      },
+      {
+        "rank": 0,
+        "subtype": "jumbo",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2016/06/26/fashion/26HOPE/26HOPE-jumbo.jpg",
+        "height": 683,
+        "width": 1024,
+        "legacy": {},
+        "subType": "jumbo",
+        "crop_name": "jumbo"
+      },
+      {
+        "rank": 0,
+        "subtype": "largeHorizontal375",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2016/06/26/fashion/26HOPE/26HOPE-largeHorizontal375.jpg",
+        "height": 250,
+        "width": 375,
+        "legacy": {},
+        "subType": "largeHorizontal375",
+        "crop_name": "largeHorizontal375"
+      },
+      {
+        "rank": 0,
+        "subtype": "largeHorizontalJumbo",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2016/06/26/fashion/26HOPE/26HOPE-largeHorizontalJumbo.jpg",
+        "height": 682,
+        "width": 1024,
+        "legacy": {},
+        "subType": "largeHorizontalJumbo",
+        "crop_name": "largeHorizontalJumbo"
+      },
+      {
+        "rank": 0,
+        "subtype": "largeWidescreen573",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2016/06/26/fashion/26HOPE/26HOPE-largeWidescreen573.jpg",
+        "height": 322,
+        "width": 573,
+        "legacy": {},
+        "subType": "largeWidescreen573",
+        "crop_name": "largeWidescreen573"
+      },
+      {
+        "rank": 0,
+        "subtype": "largeWidescreen1050",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2016/06/26/fashion/26HOPE/26HOPE-largeWidescreen1050.jpg",
+        "height": 591,
+        "width": 1050,
+        "legacy": {},
+        "subType": "largeWidescreen1050",
+        "crop_name": "largeWidescreen1050"
+      },
+      {
+        "rank": 0,
+        "subtype": "master1050",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2016/06/26/fashion/26HOPE/26HOPE-master1050.jpg",
+        "height": 700,
+        "width": 1050,
+        "legacy": {},
+        "subType": "master1050",
+        "crop_name": "master1050"
+      },
+      {
+        "rank": 0,
+        "subtype": "master180",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2016/06/26/fashion/26HOPE/26HOPE-master180.jpg",
+        "height": 120,
+        "width": 180,
+        "legacy": {},
+        "subType": "master180",
+        "crop_name": "master180"
+      },
+      {
+        "rank": 0,
+        "subtype": "master315",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2016/06/26/fashion/26HOPE/26HOPE-master315.jpg",
+        "height": 210,
+        "width": 315,
+        "legacy": {},
+        "subType": "master315",
+        "crop_name": "master315"
+      },
+      {
+        "rank": 0,
+        "subtype": "master495",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2016/06/26/fashion/26HOPE/26HOPE-master495.jpg",
+        "height": 330,
+        "width": 495,
+        "legacy": {},
+        "subType": "master495",
+        "crop_name": "master495"
+      },
+      {
+        "rank": 0,
+        "subtype": "master768",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2016/06/26/fashion/26HOPE/26HOPE-master768.jpg",
+        "height": 512,
+        "width": 768,
+        "legacy": {},
+        "subType": "master768",
+        "crop_name": "master768"
+      },
+      {
+        "rank": 0,
+        "subtype": "master675",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2016/06/26/fashion/26HOPE/26HOPE-master675.jpg",
+        "height": 450,
+        "width": 675,
+        "legacy": {},
+        "subType": "master675",
+        "crop_name": "master675"
+      },
+      {
+        "rank": 0,
+        "subtype": "mediumFlexible177",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2016/06/26/fashion/26HOPE/26HOPE-mediumFlexible177.jpg",
+        "height": 100,
+        "width": 177,
+        "legacy": {},
+        "subType": "mediumFlexible177",
+        "crop_name": "mediumFlexible177"
+      },
+      {
+        "rank": 0,
+        "subtype": "mediumSquare149",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2016/06/26/fashion/26HOPE/26HOPE-mediumSquare149.jpg",
+        "height": 149,
+        "width": 149,
+        "legacy": {},
+        "subType": "mediumSquare149",
+        "crop_name": "mediumSquare149"
+      },
+      {
+        "rank": 0,
+        "subtype": "mediumThreeByTwo210",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2016/06/26/fashion/26HOPE/26HOPE-mediumThreeByTwo210.jpg",
+        "height": 140,
+        "width": 210,
+        "legacy": {},
+        "subType": "mediumThreeByTwo210",
+        "crop_name": "mediumThreeByTwo210"
+      },
+      {
+        "rank": 0,
+        "subtype": "mediumThreeByTwo225",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2016/06/26/fashion/26HOPE/26HOPE-mediumThreeByTwo225.jpg",
+        "height": 150,
+        "width": 225,
+        "legacy": {},
+        "subType": "mediumThreeByTwo225",
+        "crop_name": "mediumThreeByTwo225"
+      },
+      {
+        "rank": 0,
+        "subtype": "mediumThreeByTwo440",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2016/06/26/fashion/26HOPE/26HOPE-mediumThreeByTwo440.jpg",
+        "height": 293,
+        "width": 440,
+        "legacy": {},
+        "subType": "mediumThreeByTwo440",
+        "crop_name": "mediumThreeByTwo440"
+      },
+      {
+        "rank": 0,
+        "subtype": "mediumThreeByTwo378",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2016/06/26/fashion/26HOPE/26HOPE-mediumThreeByTwo378.jpg",
+        "height": 252,
+        "width": 378,
+        "legacy": {},
+        "subType": "mediumThreeByTwo378",
+        "crop_name": "mediumThreeByTwo378"
+      },
+      {
+        "rank": 0,
+        "subtype": "mediumThreeByTwo252",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2016/06/26/fashion/26HOPE/26HOPE-mediumThreeByTwo252.jpg",
+        "height": 168,
+        "width": 252,
+        "legacy": {},
+        "subType": "mediumThreeByTwo252",
+        "crop_name": "mediumThreeByTwo252"
+      },
+      {
+        "rank": 0,
+        "subtype": "miniMoth",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2016/06/26/fashion/26HOPE/26HOPE-miniMoth.jpg",
+        "height": 70,
+        "width": 151,
+        "legacy": {},
+        "subType": "miniMoth",
+        "crop_name": "miniMoth"
+      },
+      {
+        "rank": 0,
+        "subtype": "moth",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2016/06/26/fashion/26HOPE/26HOPE-moth.jpg",
+        "height": 151,
+        "width": 151,
+        "legacy": {},
+        "subType": "moth",
+        "crop_name": "moth"
+      },
+      {
+        "rank": 0,
+        "subtype": "popup",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2016/06/26/fashion/26HOPE/26HOPE-popup.jpg",
+        "height": 433,
+        "width": 650,
+        "legacy": {},
+        "subType": "popup",
+        "crop_name": "popup"
+      },
+      {
+        "rank": 0,
+        "subtype": "sfSpan",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2016/06/26/fashion/26HOPE/26HOPE-sfSpan.jpg",
+        "height": 263,
+        "width": 395,
+        "legacy": {},
+        "subType": "sfSpan",
+        "crop_name": "sfSpan"
+      },
+      {
+        "rank": 0,
+        "subtype": "slide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2016/06/26/fashion/26HOPE/26HOPE-slide.jpg",
+        "height": 400,
+        "width": 600,
+        "legacy": {},
+        "subType": "slide",
+        "crop_name": "slide"
+      },
+      {
+        "rank": 0,
+        "subtype": "smallSquare168",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2016/06/26/fashion/26HOPE/26HOPE-smallSquare168.jpg",
+        "height": 168,
+        "width": 168,
+        "legacy": {},
+        "subType": "smallSquare168",
+        "crop_name": "smallSquare168"
+      },
+      {
+        "rank": 0,
+        "subtype": "smallSquare252",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2016/06/26/fashion/26HOPE/26HOPE-smallSquare252.jpg",
+        "height": 252,
+        "width": 252,
+        "legacy": {},
+        "subType": "smallSquare252",
+        "crop_name": "smallSquare252"
+      },
+      {
+        "rank": 0,
+        "subtype": "square320",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2016/06/26/fashion/26HOPE/26HOPE-square320.jpg",
+        "height": 320,
+        "width": 320,
+        "legacy": {},
+        "subType": "square320",
+        "crop_name": "square320"
+      },
+      {
+        "rank": 0,
+        "subtype": "square640",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2016/06/26/fashion/26HOPE/26HOPE-square640.jpg",
+        "height": 640,
+        "width": 640,
+        "legacy": {},
+        "subType": "square640",
+        "crop_name": "square640"
+      },
+      {
+        "rank": 0,
+        "subtype": "superJumbo",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2016/06/26/fashion/26HOPE/26HOPE-superJumbo.jpg",
+        "height": 1365,
+        "width": 2048,
+        "legacy": {},
+        "subType": "superJumbo",
+        "crop_name": "superJumbo"
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbLarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2016/06/26/fashion/26HOPE/26HOPE-thumbLarge.jpg",
+        "height": 150,
+        "width": 150,
+        "legacy": {},
+        "subType": "thumbLarge",
+        "crop_name": "thumbLarge"
+      },
+      {
+        "rank": 0,
+        "subtype": "tmagArticle",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2016/06/26/fashion/26HOPE/26HOPE-tmagArticle.jpg",
+        "height": 395,
+        "width": 592,
+        "legacy": {},
+        "subType": "tmagArticle",
+        "crop_name": "tmagArticle"
+      },
+      {
+        "rank": 0,
+        "subtype": "tmagSF",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2016/06/26/fashion/26HOPE/26HOPE-tmagSF.jpg",
+        "height": 241,
+        "width": 362,
+        "legacy": {},
+        "subType": "tmagSF",
+        "crop_name": "tmagSF"
+      },
+      {
+        "rank": 0,
+        "subtype": "verticalTwoByThree735",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2016/06/26/fashion/26HOPE/26HOPE-verticalTwoByThree735.jpg",
+        "height": 1102,
+        "width": 735,
+        "legacy": {},
+        "subType": "verticalTwoByThree735",
+        "crop_name": "verticalTwoByThree735"
+      },
+      {
+        "rank": 0,
+        "subtype": "videoFifteenBySeven1305",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2016/06/26/fashion/26HOPE/26HOPE-videoFifteenBySeven1305.jpg",
+        "height": 609,
+        "width": 1305,
+        "legacy": {},
+        "subType": "videoFifteenBySeven1305",
+        "crop_name": "videoFifteenBySeven1305"
+      },
+      {
+        "rank": 0,
+        "subtype": "videoFifteenBySeven2610",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2016/06/26/fashion/26HOPE/26HOPE-videoFifteenBySeven2610.jpg",
+        "height": 1218,
+        "width": 2610,
+        "legacy": {},
+        "subType": "videoFifteenBySeven2610",
+        "crop_name": "videoFifteenBySeven2610"
+      },
+      {
+        "rank": 0,
+        "subtype": "videoHpMedium",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2016/06/26/fashion/26HOPE/26HOPE-videoHpMedium.jpg",
+        "height": 211,
+        "width": 375,
+        "legacy": {},
+        "subType": "videoHpMedium",
+        "crop_name": "videoHpMedium"
+      },
+      {
+        "rank": 0,
+        "subtype": "videoLarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2016/06/26/fashion/26HOPE/26HOPE-videoLarge.jpg",
+        "height": 507,
+        "width": 768,
+        "legacy": {},
+        "subType": "videoLarge",
+        "crop_name": "videoLarge"
+      },
+      {
+        "rank": 0,
+        "subtype": "videoSixteenByNine1050",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2016/06/26/fashion/26HOPE/26HOPE-videoSixteenByNine1050.jpg",
+        "height": 591,
+        "width": 1050,
+        "legacy": {},
+        "subType": "videoSixteenByNine1050",
+        "crop_name": "videoSixteenByNine1050"
+      },
+      {
+        "rank": 0,
+        "subtype": "videoSixteenByNine150",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2016/06/26/fashion/26HOPE/26HOPE-videoSixteenByNine150.jpg",
+        "height": 84,
+        "width": 150,
+        "legacy": {},
+        "subType": "videoSixteenByNine150",
+        "crop_name": "videoSixteenByNine150"
+      },
+      {
+        "rank": 0,
+        "subtype": "videoSixteenByNine225",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2016/06/26/fashion/26HOPE/26HOPE-videoSixteenByNine225.jpg",
+        "height": 126,
+        "width": 225,
+        "legacy": {},
+        "subType": "videoSixteenByNine225",
+        "crop_name": "videoSixteenByNine225"
+      },
+      {
+        "rank": 0,
+        "subtype": "videoSixteenByNine310",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2016/06/26/fashion/26HOPE/26HOPE-videoSixteenByNine310.jpg",
+        "height": 174,
+        "width": 310,
+        "legacy": {},
+        "subType": "videoSixteenByNine310",
+        "crop_name": "videoSixteenByNine310"
+      },
+      {
+        "rank": 0,
+        "subtype": "videoSixteenByNine390",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2016/06/26/fashion/26HOPE/26HOPE-videoSixteenByNine390.jpg",
+        "height": 219,
+        "width": 390,
+        "legacy": {},
+        "subType": "videoSixteenByNine390",
+        "crop_name": "videoSixteenByNine390"
+      },
+      {
+        "rank": 0,
+        "subtype": "videoSixteenByNine480",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2016/06/26/fashion/26HOPE/26HOPE-videoSixteenByNine480.jpg",
+        "height": 270,
+        "width": 480,
+        "legacy": {},
+        "subType": "videoSixteenByNine480",
+        "crop_name": "videoSixteenByNine480"
+      },
+      {
+        "rank": 0,
+        "subtype": "videoSixteenByNine495",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2016/06/26/fashion/26HOPE/26HOPE-videoSixteenByNine495.jpg",
+        "height": 278,
+        "width": 495,
+        "legacy": {},
+        "subType": "videoSixteenByNine495",
+        "crop_name": "videoSixteenByNine495"
+      },
+      {
+        "rank": 0,
+        "subtype": "videoSixteenByNine540",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2016/06/26/fashion/26HOPE/26HOPE-videoSixteenByNine540.jpg",
+        "height": 304,
+        "width": 540,
+        "legacy": {},
+        "subType": "videoSixteenByNine540",
+        "crop_name": "videoSixteenByNine540"
+      },
+      {
+        "rank": 0,
+        "subtype": "videoSixteenByNine600",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2016/06/26/fashion/26HOPE/26HOPE-videoSixteenByNine600.jpg",
+        "height": 338,
+        "width": 600,
+        "legacy": {},
+        "subType": "videoSixteenByNine600",
+        "crop_name": "videoSixteenByNine600"
+      },
+      {
+        "rank": 0,
+        "subtype": "videoSixteenByNine768",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2016/06/26/fashion/26HOPE/26HOPE-videoSixteenByNine768.jpg",
+        "height": 432,
+        "width": 768,
+        "legacy": {},
+        "subType": "videoSixteenByNine768",
+        "crop_name": "videoSixteenByNine768"
+      },
+      {
+        "rank": 0,
+        "subtype": "videoSixteenByNine96",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2016/06/26/fashion/26HOPE/26HOPE-videoSixteenByNine96.jpg",
+        "height": 54,
+        "width": 96,
+        "legacy": {},
+        "subType": "videoSixteenByNine96",
+        "crop_name": "videoSixteenByNine96"
+      },
+      {
+        "rank": 0,
+        "subtype": "videoSixteenByNineJumbo1600",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2016/06/26/fashion/26HOPE/26HOPE-videoSixteenByNineJumbo1600.jpg",
+        "height": 900,
+        "width": 1600,
+        "legacy": {},
+        "subType": "videoSixteenByNineJumbo1600",
+        "crop_name": "videoSixteenByNineJumbo1600"
+      },
+      {
+        "rank": 0,
+        "subtype": "videoSmall",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2016/06/26/fashion/26HOPE/26HOPE-videoSmall.jpg",
+        "height": 281,
+        "width": 500,
+        "legacy": {},
+        "subType": "videoSmall",
+        "crop_name": "videoSmall"
+      },
+      {
+        "rank": 0,
+        "subtype": "videoThumb",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2016/06/26/fashion/26HOPE/26HOPE-videoThumb.jpg",
+        "height": 50,
+        "width": 75,
+        "legacy": {},
+        "subType": "videoThumb",
+        "crop_name": "videoThumb"
+      },
+      {
+        "rank": 0,
+        "subtype": "watch268",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2016/06/26/fashion/26HOPE/26HOPE-watch268.jpg",
+        "height": 303,
+        "width": 272,
+        "legacy": {},
+        "subType": "watch268",
+        "crop_name": "watch268"
+      },
+      {
+        "rank": 0,
+        "subtype": "watch308",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2016/06/26/fashion/26HOPE/26HOPE-watch308.jpg",
+        "height": 348,
+        "width": 312,
+        "legacy": {},
+        "subType": "watch308",
+        "crop_name": "watch308"
+      },
+      {
+        "rank": 0,
+        "subtype": "windowsTile336H",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2016/06/26/fashion/26HOPE/26HOPE-windowsTile336H.jpg",
+        "height": 336,
+        "width": 694,
+        "legacy": {},
+        "subType": "windowsTile336H",
+        "crop_name": "windowsTile336H"
+      }
+    ],
+    "headline": {
+      "main": "Hope Hicks: The Woman Who \u2018Totally Understands\u2019 Donald Trump",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Mr. Trump\u2019s Gatekeeper",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Trump, Donald J",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Hicks, Hope C (1988- )",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Trump, Ivanka",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Presidential Election of 2016",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "News and News Media",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2016-06-24T22:15:51+0000",
+    "document_type": "article",
+    "new_desk": "Styles",
+    "byline": {
+      "original": "By MICHAEL M. GRYNBAUM",
+      "person": [
+        {
+          "firstname": "Michael",
+          "middlename": null,
+          "lastname": null,
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "576db11a38f0d87405ee5ed3",
+    "word_count": 1791,
+    "score": 1.0,
+    "uri": "nyt://article/4b32e28d-8288-59e3-ba33-fed78ea44984"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2016/06/25/sports/olympics/as-the-olympics-near-brazil-and-rio-let-the-bad-times-roll.html",
+    "snippet": "A struggling economy, government corruption and the Zika virus have generated unwanted publicity before the Games.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2016/06/24/sports/25NOCERA1/25NOCERA1-articleLarge.jpg",
+        "height": 382,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2016/06/24/sports/25NOCERA1/25NOCERA1-articleLarge.jpg",
+          "xlargeheight": 382
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2016/06/24/sports/25NOCERA1/25NOCERA1-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2016/06/24/sports/25NOCERA1/25NOCERA1-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2016/06/24/sports/25NOCERA1/25NOCERA1-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2016/06/24/sports/25NOCERA1/25NOCERA1-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "As the Olympics Near, Brazil and Rio Let the Bad Times Roll",
+      "kicker": "Sports Business",
+      "content_kicker": "Sports Business",
+      "print_headline": "Optimism Shaken  by Brazil\u2019s Tumult",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Olympic Games (2016)",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Brazil",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Corruption (Institutional)",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Infrastructure (Public Works)",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Rio de Janeiro (Brazil)",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2016-06-24T09:00:07+0000",
+    "document_type": "article",
+    "new_desk": "Sports",
+    "section_name": "Olympics",
+    "byline": {
+      "original": "By JOE NOCERA",
+      "person": [
+        {
+          "firstname": "Joe",
+          "middlename": null,
+          "lastname": "NOCERA",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "576cf69a38f0d8520fd89216",
+    "word_count": 1422,
+    "score": 1.0,
+    "uri": "nyt://article/50c74ad7-69c9-5e4d-a31c-670e1b53e9b7"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2016/06/26/opinion/sunday/barack-obama-the-president-of-black-america.html",
+    "snippet": "What the haters and the hagiographers get wrong.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2016/06/26/opinion/sunday/26dyson2/26dyson2-articleLarge.jpg",
+        "height": 400,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2016/06/26/opinion/sunday/26dyson2/26dyson2-articleLarge.jpg",
+          "xlargeheight": 400
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2016/06/26/opinion/sunday/26dyson2/26dyson2-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2016/06/26/opinion/sunday/26dyson2/26dyson2-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2016/06/26/opinion/sunday/26dyson2/26dyson2-thumbStandard-v2.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2016/06/26/opinion/sunday/26dyson2/26dyson2-thumbStandard-v2.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Barack Obama, the President of Black America?",
+      "kicker": "Contributing Op-Ed Writer",
+      "content_kicker": "Contributing Op-Ed Writer",
+      "print_headline": "The President of Black America?",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Obama, Barack",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Blacks",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Discrimination",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Presidential Election of 2016",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Trump, Donald J",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2016-06-24T17:00:29+0000",
+    "document_type": "article",
+    "new_desk": "OpEd",
+    "section_name": "Sunday Review",
+    "byline": {
+      "original": "By MICHAEL ERIC DYSON",
+      "person": [
+        {
+          "firstname": "Michael",
+          "middlename": "Eric",
+          "lastname": "DYSON",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "Op-Ed",
+    "_id": "576d673438f0d87405ee5dee",
+    "word_count": 2039,
+    "score": 1.0,
+    "uri": "nyt://article/e1cbcd10-ab45-5be8-b9d9-4f4a84733911"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2016/06/25/world/europe/britain-brexit-european-union-referendum.html",
+    "snippet": "The British pound and stock prices plummeted, there was immediate pressure for another referendum on Scottish independence, and David Cameron said he would resign by October.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2016/06/24/multimedia/25brexit-cameron/25brexit-cameron-articleLarge.jpg",
+        "height": 401,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2016/06/24/multimedia/25brexit-cameron/25brexit-cameron-articleLarge.jpg",
+          "xlargeheight": 401
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2016/06/24/multimedia/25brexit-cameron/25brexit-cameron-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2016/06/24/multimedia/25brexit-cameron/25brexit-cameron-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2016/06/24/multimedia/25brexit-cameron/25brexit-cameron-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2016/06/24/multimedia/25brexit-cameron/25brexit-cameron-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Britain Votes to Leave E.U.; Cameron Plans to Step Down",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "British Stun World With Vote to Leave E.U.",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Great Britain Withdrawal from EU (Brexit)",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Cameron, David",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Polls and Public Opinion",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Conservative Party (Great Britain)",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "United Kingdom Independence Party",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Labour Party (Great Britain)",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Great Britain",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "European Union",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Europe",
+        "rank": 9,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Referendums",
+        "rank": 10,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2016-06-24T03:53:48+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Europe",
+    "byline": {
+      "original": "By STEVEN ERLANGER",
+      "person": [
+        {
+          "firstname": "Steven",
+          "middlename": null,
+          "lastname": "ERLANGER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "576caed738f0d8520fd8912a",
+    "word_count": 1832,
+    "score": 1.0,
+    "uri": "nyt://article/06692da1-89d3-56fb-9577-ec46f67c0a8f"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2016/06/25/world/europe/among-young-britons-fear-and-despair-over-vote-to-leave-eu.html",
+    "snippet": "The referendum on Britain\u2019s membership in the European Union exposed sharp generational divisions.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2016/06/25/world/25YOUTH/25YOUTH-articleLarge.jpg",
+        "height": 416,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2016/06/25/world/25YOUTH/25YOUTH-articleLarge.jpg",
+          "xlargeheight": 416
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2016/06/25/world/25YOUTH/25YOUTH-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2016/06/25/world/25YOUTH/25YOUTH-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2016/06/25/world/25YOUTH/25YOUTH-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2016/06/25/world/25YOUTH/25YOUTH-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Among Young Britons, Fear and Despair Over Vote to Leave E.U.",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Young Britons Feel Left Out as Generations Split",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Great Britain Withdrawal from EU (Brexit)",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Youth",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Referendums",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "European Union",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Great Britain",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2016-06-24T22:03:04+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Europe",
+    "byline": {
+      "original": "By CLAIRE BARTHELEMY and KIMIKO DE FREYTAS-TAMURA",
+      "person": [
+        {
+          "firstname": "Claire",
+          "middlename": null,
+          "lastname": "BARTHELEMY",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Kimiko",
+          "middlename": null,
+          "lastname": "DE FREYTAS-TAMURA",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "576dae1a38f0d87405ee5ecd",
+    "word_count": 1325,
+    "score": 1.0,
+    "uri": "nyt://article/2f5046fb-3395-51aa-8d69-84e5f042bffc"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2016/06/25/movies/independence-day-resurgence-review.html",
+    "snippet": "All you really need to know about this sequel to the 1996 smash hit is that it took multiple men to cook up this pottage, which hinges on humanity battling aliens.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2016/06/25/arts/26INDEPENDENCEJP/26INDEPENDENCEJP-articleLarge.jpg",
+        "height": 321,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2016/06/25/arts/26INDEPENDENCEJP/26INDEPENDENCEJP-articleLarge.jpg",
+          "xlargeheight": 321
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2016/06/25/arts/26INDEPENDENCEJP/26INDEPENDENCEJP-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2016/06/25/arts/26INDEPENDENCEJP/26INDEPENDENCEJP-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2016/06/25/arts/26INDEPENDENCEJP/26INDEPENDENCEJP-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2016/06/25/arts/26INDEPENDENCEJP/26INDEPENDENCEJP-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Review: In \u2018Independence Day: Resurgence,\u2019 the Fault Is Not in the Fireworks",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Space Aliens Playing With Fire",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Movies",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "creative_works",
+        "value": "Independence Day: Resurgence (Movie)",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Emmerich, Roland",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Pullman, Bill",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Spiner, Brent",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Hemsworth, Liam",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2016-06-24T18:58:13+0000",
+    "document_type": "article",
+    "new_desk": "Culture",
+    "byline": {
+      "original": "By MANOHLA DARGIS",
+      "person": [
+        {
+          "firstname": "Manohla",
+          "middlename": null,
+          "lastname": "DARGIS",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "Review",
+    "_id": "576d82c738f0d87405ee5e40",
+    "word_count": 542,
+    "score": 1.0,
+    "uri": "nyt://article/843a24af-4587-50e0-b650-649bb5e16be3"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2016/06/25/upshot/how-brexit-will-affect-the-global-economy-now-and-later.html",
+    "snippet": "Stock market declines aren\u2019t too worrying, but a recession is a major risk in Britain and something of a risk in the rest of Europe and the U.S.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2016/06/25/upshot/25UP-Econ/25UP-Econ-articleLarge.jpg",
+        "height": 400,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2016/06/25/upshot/25UP-Econ/25UP-Econ-articleLarge.jpg",
+          "xlargeheight": 400
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2016/06/25/upshot/25UP-Econ/25UP-Econ-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2016/06/25/upshot/25UP-Econ/25UP-Econ-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2016/06/25/upshot/25UP-Econ/25UP-Econ-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2016/06/25/upshot/25UP-Econ/25UP-Econ-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "How \u2018Brexit\u2019 Will Affect the Global Economy, Now and Later",
+      "kicker": "Market Reaction",
+      "content_kicker": "Market Reaction",
+      "print_headline": "How \u2018Brexit\u2019 Will Affect the Global Economy, Now and Later",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Great Britain Withdrawal from EU (Brexit)",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "International Trade and World Market",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Banking and Financial Institutions",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "European Union",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Great Britain",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Referendums",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Economic Conditions and Trends",
+        "rank": 7,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2016-06-24T16:54:48+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By NEIL IRWIN",
+      "person": [
+        {
+          "firstname": "Neil",
+          "middlename": null,
+          "lastname": "IRWIN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "576d65dd38f0d87405ee5dea",
+    "word_count": 1099,
+    "score": 1.0,
+    "uri": "nyt://article/361d2695-c7be-5526-8840-f1625c6c52a1"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2016/06/26/sports/olympics/michael-phelps-swimming-rehab.html",
+    "snippet": "After attending rehab, the swimmer is not fixated on adding to his record total of Olympic medals in Rio. The journey now is personal.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2016/06/24/sports/26phelpslede/26phelpslede-articleLarge.jpg",
+        "height": 671,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2016/06/24/sports/26phelpslede/26phelpslede-articleLarge.jpg",
+          "xlargeheight": 671
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2016/06/24/sports/26phelpslede/26phelpslede-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2016/06/24/sports/26phelpslede/26phelpslede-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2016/06/24/sports/26phelpslede/26phelpslede-thumbStandard-v2.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2016/06/24/sports/26phelpslede/26phelpslede-thumbStandard-v2.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Seeking Answers, Michael Phelps Finds Himself",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Seeking Answers, Finding Himself",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Phelps, Michael",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Swimming",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Olympic Games (2016)",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Alcohol Abuse",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Therapy and Rehabilitation",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Bowman, Bob",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2016-06-24T16:45:26+0000",
+    "document_type": "article",
+    "new_desk": "Sports",
+    "section_name": "Olympics",
+    "byline": {
+      "original": "By KAREN CROUSE",
+      "person": [
+        {
+          "firstname": "Karen",
+          "middlename": null,
+          "lastname": "CROUSE",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "576d63a938f0d87405ee5de0",
+    "word_count": 2793,
+    "score": 1.0,
+    "uri": "nyt://article/549ccf6c-fcdd-5741-987a-3b0c7204b26b"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2016/06/26/nyregion/airbnb-and-the-battle-of-suitcase-alley.html",
+    "snippet": "In New York and other cities with steep housing costs, a longstanding objection to home-sharing sites is that some listings remove units from the residential market.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2016/06/26/nyregion/26BIGCITY/26BIGCITY-articleLarge.jpg",
+        "height": 400,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2016/06/26/nyregion/26BIGCITY/26BIGCITY-articleLarge.jpg",
+          "xlargeheight": 400
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2016/06/26/nyregion/26BIGCITY/26BIGCITY-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2016/06/26/nyregion/26BIGCITY/26BIGCITY-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2016/06/26/nyregion/26BIGCITY/26BIGCITY-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2016/06/26/nyregion/26BIGCITY/26BIGCITY-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Airbnb and the Battle of Suitcase Alley",
+      "kicker": "Big City",
+      "content_kicker": "Big City",
+      "print_headline": "Suitcase Crackdown",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Hotels and Travel Lodgings",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Real Estate and Housing (Residential)",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Airbnb",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "New York City",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Renting and Leasing (Real Estate)",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "East Village (Manhattan, NY)",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "New York State",
+        "rank": 7,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2016-06-24T18:31:42+0000",
+    "document_type": "article",
+    "new_desk": "Metropolitan",
+    "byline": {
+      "original": "By GINIA BELLAFANTE",
+      "person": [
+        {
+          "firstname": "Ginia",
+          "middlename": null,
+          "lastname": "BELLAFANTE",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "576d7c9738f0d87405ee5e3b",
+    "word_count": 937,
+    "score": 1.0,
+    "uri": "nyt://article/3c377d36-1b71-598b-a0d1-dbe61e241f99"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2016/06/25/your-money/five-illuminating-takeaways-from-your-family-money-letters.html",
+    "snippet": "Readers had some hard-won insights that you may want to borrow when imparting wisdom to your children or relatives.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2016/06/24/business/25MONEY-1/25MONEY-1-articleLarge.jpg",
+        "height": 400,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2016/06/24/business/25MONEY-1/25MONEY-1-articleLarge.jpg",
+          "xlargeheight": 400
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2016/06/24/business/25MONEY-1/25MONEY-1-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2016/06/24/business/25MONEY-1/25MONEY-1-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2016/06/24/business/25MONEY-1/25MONEY-1-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2016/06/24/business/25MONEY-1/25MONEY-1-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Five Illuminating Takeaways From Your Family Money Letters",
+      "kicker": "Your Money",
+      "content_kicker": "Your Money",
+      "print_headline": "Some Hard-Won Insights From Family Money Letters",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Personal Finances",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Letters",
+        "rank": 2,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2016-06-24T16:01:16+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By RON LIEBER",
+      "person": [
+        {
+          "firstname": "Ron",
+          "middlename": null,
+          "lastname": "LIEBER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "576d594d38f0d87405ee5da4",
+    "word_count": 1282,
+    "score": 1.0,
+    "uri": "nyt://article/ab868d69-b53d-5c20-a7ea-5d58a0bcda00"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2016/06/26/nyregion/summer-is-here-and-schools-out-for-the-animals-too.html",
+    "snippet": "How classroom pets spend summer vacation.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2016/06/26/nyregion/26PETCITY-slide-THCU/26PETCITY-slide-THCU-articleLarge.jpg",
+        "height": 400,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2016/06/26/nyregion/26PETCITY-slide-THCU/26PETCITY-slide-THCU-articleLarge.jpg",
+          "xlargeheight": 400
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2016/06/26/nyregion/26PETCITY-slide-THCU/26PETCITY-slide-THCU-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2016/06/26/nyregion/26PETCITY-slide-THCU/26PETCITY-slide-THCU-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2016/06/26/nyregion/26PETCITY-slide-THCU/26PETCITY-slide-THCU-thumbStandard-v2.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2016/06/26/nyregion/26PETCITY-slide-THCU/26PETCITY-slide-THCU-thumbStandard-v2.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "School\u2019s Out for the Animals, Too",
+      "kicker": "Pet City",
+      "content_kicker": "Pet City",
+      "print_headline": "School\u2019s Out for the Animals, Too",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Animals",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Education (K-12)",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Summer (Season)",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Pets",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "New York City",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2016-06-24T16:23:31+0000",
+    "document_type": "article",
+    "new_desk": "Metropolitan",
+    "byline": {
+      "original": "By ANDY NEWMAN",
+      "person": [
+        {
+          "firstname": "Andy",
+          "middlename": null,
+          "lastname": "NEWMAN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "576d5e8638f0d87405ee5dc4",
+    "word_count": 1491,
+    "score": 1.0,
+    "uri": "nyt://article/f4e52077-5999-5460-94fc-92fd3de1322c"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2016/06/26/realestate/once-and-always-a-new-yorker.html",
+    "snippet": "Many people bond with New York as young adults, then move away. For some, that time inspires a return, even after many years elsewhere.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2016/06/26/realestate/26COV/26COV-articleLarge.jpg",
+        "height": 400,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2016/06/26/realestate/26COV/26COV-articleLarge.jpg",
+          "xlargeheight": 400
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2016/06/26/realestate/26COV/26COV-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2016/06/26/realestate/26COV/26COV-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2016/06/26/realestate/26COV/26COV-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2016/06/26/realestate/26COV/26COV-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Once and Always a New Yorker",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Never Meant to Say Goodbye",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Real Estate and Housing (Residential)",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "New York City",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Manhattan (NYC)",
+        "rank": 3,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2016-06-24T09:00:08+0000",
+    "document_type": "article",
+    "new_desk": "RealEstate",
+    "byline": {
+      "original": "By PAMELA GWYN KRIPKE",
+      "person": [
+        {
+          "firstname": "Pamela",
+          "middlename": "Gwyn",
+          "lastname": "KRIPKE",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "576cf6a038f0d8520fd89220",
+    "word_count": 2356,
+    "score": 1.0,
+    "uri": "nyt://article/aadbf6f5-a01f-5141-b14d-a29cd89ec0f0"
+  }
+]

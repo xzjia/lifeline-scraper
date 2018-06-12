@@ -1,0 +1,3849 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2017/11/04/world/middleeast/saudi-arabia-waleed-bin-talal.html",
+    "snippet": "The sweeping campaign of arrests appears to be the latest move to consolidate the power of Crown Prince Mohammed bin Salman, the favorite son and top adviser of King Salman.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/12/us/05Saudi/05Saudi-articleLarge.jpg",
+        "height": 424,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2017/11/12/us/05Saudi/05Saudi-articleLarge.jpg",
+          "xlargeheight": 424
+        },
+        "subType": "xlarge",
+        "crop_name": "articleLarge"
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/12/us/05Saudi/05Saudi-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2017/11/12/us/05Saudi/05Saudi-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": "thumbWide"
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/12/us/05Saudi/05Saudi-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2017/11/12/us/05Saudi/05Saudi-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": "thumbStandard"
+      },
+      {
+        "rank": 0,
+        "subtype": "articleInline",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/12/us/05Saudi/05Saudi-articleInline.jpg",
+        "height": 134,
+        "width": 190,
+        "legacy": {},
+        "subType": "articleInline",
+        "crop_name": "articleInline"
+      },
+      {
+        "rank": 0,
+        "subtype": "blog225",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/12/us/05Saudi/05Saudi-blog225.jpg",
+        "height": 159,
+        "width": 225,
+        "legacy": {},
+        "subType": "blog225",
+        "crop_name": "blog225"
+      },
+      {
+        "rank": 0,
+        "subtype": "blog427",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/12/us/05Saudi/05Saudi-blog427.jpg",
+        "height": 302,
+        "width": 427,
+        "legacy": {},
+        "subType": "blog427",
+        "crop_name": "blog427"
+      },
+      {
+        "rank": 0,
+        "subtype": "blog480",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/12/us/05Saudi/05Saudi-blog480.jpg",
+        "height": 339,
+        "width": 480,
+        "legacy": {},
+        "subType": "blog480",
+        "crop_name": "blog480"
+      },
+      {
+        "rank": 0,
+        "subtype": "blog533",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/12/us/05Saudi/05Saudi-blog533.jpg",
+        "height": 377,
+        "width": 533,
+        "legacy": {},
+        "subType": "blog533",
+        "crop_name": "blog533"
+      },
+      {
+        "rank": 0,
+        "subtype": "blogSmallInline",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/12/us/05Saudi/05Saudi-blogSmallInline.jpg",
+        "height": 107,
+        "width": 151,
+        "legacy": {},
+        "subType": "blogSmallInline",
+        "crop_name": "blogSmallInline"
+      },
+      {
+        "rank": 0,
+        "subtype": "blogSmallThumb",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/12/us/05Saudi/05Saudi-blogSmallThumb.jpg",
+        "height": 50,
+        "width": 50,
+        "legacy": {},
+        "subType": "blogSmallThumb",
+        "crop_name": "blogSmallThumb"
+      },
+      {
+        "rank": 0,
+        "subtype": "facebookJumbo",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/12/us/05Saudi/05Saudi-facebookJumbo.jpg",
+        "height": 550,
+        "width": 1050,
+        "legacy": {},
+        "subType": "facebookJumbo",
+        "crop_name": "facebookJumbo"
+      },
+      {
+        "rank": 0,
+        "subtype": "filmstrip",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/12/us/05Saudi/05Saudi-filmstrip.jpg",
+        "height": 190,
+        "width": 190,
+        "legacy": {},
+        "subType": "filmstrip",
+        "crop_name": "filmstrip"
+      },
+      {
+        "rank": 0,
+        "subtype": "hpLarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/12/us/05Saudi/05Saudi-hpLarge.jpg",
+        "height": 287,
+        "width": 511,
+        "legacy": {},
+        "subType": "hpLarge",
+        "crop_name": "hpLarge"
+      },
+      {
+        "rank": 0,
+        "subtype": "hpSmall",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/12/us/05Saudi/05Saudi-hpSmall.jpg",
+        "height": 115,
+        "width": 163,
+        "legacy": {},
+        "subType": "hpSmall",
+        "crop_name": "hpSmall"
+      },
+      {
+        "rank": 0,
+        "subtype": "jumbo",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/12/us/05Saudi/05Saudi-jumbo.jpg",
+        "height": 724,
+        "width": 1024,
+        "legacy": {},
+        "subType": "jumbo",
+        "crop_name": "jumbo"
+      },
+      {
+        "rank": 0,
+        "subtype": "largeHorizontal375",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/12/us/05Saudi/05Saudi-largeHorizontal375.jpg",
+        "height": 250,
+        "width": 375,
+        "legacy": {},
+        "subType": "largeHorizontal375",
+        "crop_name": "largeHorizontal375"
+      },
+      {
+        "rank": 0,
+        "subtype": "largeHorizontalJumbo",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/12/us/05Saudi/05Saudi-largeHorizontalJumbo.jpg",
+        "height": 683,
+        "width": 1024,
+        "legacy": {},
+        "subType": "largeHorizontalJumbo",
+        "crop_name": "largeHorizontalJumbo"
+      },
+      {
+        "rank": 0,
+        "subtype": "largeWidescreen573",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/12/us/05Saudi/05Saudi-largeWidescreen573.jpg",
+        "height": 322,
+        "width": 573,
+        "legacy": {},
+        "subType": "largeWidescreen573",
+        "crop_name": "largeWidescreen573"
+      },
+      {
+        "rank": 0,
+        "subtype": "largeWidescreen1050",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/12/us/05Saudi/05Saudi-largeWidescreen1050.jpg",
+        "height": 590,
+        "width": 1050,
+        "legacy": {},
+        "subType": "largeWidescreen1050",
+        "crop_name": "largeWidescreen1050"
+      },
+      {
+        "rank": 0,
+        "subtype": "master1050",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/12/us/05Saudi/05Saudi-master1050.jpg",
+        "height": 742,
+        "width": 1050,
+        "legacy": {},
+        "subType": "master1050",
+        "crop_name": "master1050"
+      },
+      {
+        "rank": 0,
+        "subtype": "master180",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/12/us/05Saudi/05Saudi-master180.jpg",
+        "height": 127,
+        "width": 180,
+        "legacy": {},
+        "subType": "master180",
+        "crop_name": "master180"
+      },
+      {
+        "rank": 0,
+        "subtype": "master315",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/12/us/05Saudi/05Saudi-master315.jpg",
+        "height": 223,
+        "width": 315,
+        "legacy": {},
+        "subType": "master315",
+        "crop_name": "master315"
+      },
+      {
+        "rank": 0,
+        "subtype": "master495",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/12/us/05Saudi/05Saudi-master495.jpg",
+        "height": 350,
+        "width": 495,
+        "legacy": {},
+        "subType": "master495",
+        "crop_name": "master495"
+      },
+      {
+        "rank": 0,
+        "subtype": "master768",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/12/us/05Saudi/05Saudi-master768.jpg",
+        "height": 543,
+        "width": 768,
+        "legacy": {},
+        "subType": "master768",
+        "crop_name": "master768"
+      },
+      {
+        "rank": 0,
+        "subtype": "mediumFlexible177",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/12/us/05Saudi/05Saudi-mediumFlexible177.jpg",
+        "height": 125,
+        "width": 177,
+        "legacy": {},
+        "subType": "mediumFlexible177",
+        "crop_name": "mediumFlexible177"
+      },
+      {
+        "rank": 0,
+        "subtype": "mediumSquare149",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/12/us/05Saudi/05Saudi-mediumSquare149.jpg",
+        "height": 149,
+        "width": 149,
+        "legacy": {},
+        "subType": "mediumSquare149",
+        "crop_name": "mediumSquare149"
+      },
+      {
+        "rank": 0,
+        "subtype": "mediumThreeByTwo210",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/12/us/05Saudi/05Saudi-mediumThreeByTwo210.jpg",
+        "height": 140,
+        "width": 210,
+        "legacy": {},
+        "subType": "mediumThreeByTwo210",
+        "crop_name": "mediumThreeByTwo210"
+      },
+      {
+        "rank": 0,
+        "subtype": "mediumThreeByTwo225",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/12/us/05Saudi/05Saudi-mediumThreeByTwo225.jpg",
+        "height": 150,
+        "width": 225,
+        "legacy": {},
+        "subType": "mediumThreeByTwo225",
+        "crop_name": "mediumThreeByTwo225"
+      },
+      {
+        "rank": 0,
+        "subtype": "mediumThreeByTwo440",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/12/us/05Saudi/05Saudi-mediumThreeByTwo440.jpg",
+        "height": 293,
+        "width": 440,
+        "legacy": {},
+        "subType": "mediumThreeByTwo440",
+        "crop_name": "mediumThreeByTwo440"
+      },
+      {
+        "rank": 0,
+        "subtype": "miniMoth",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/12/us/05Saudi/05Saudi-miniMoth.jpg",
+        "height": 70,
+        "width": 151,
+        "legacy": {},
+        "subType": "miniMoth",
+        "crop_name": "miniMoth"
+      },
+      {
+        "rank": 0,
+        "subtype": "moth",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/12/us/05Saudi/05Saudi-moth.jpg",
+        "height": 151,
+        "width": 151,
+        "legacy": {},
+        "subType": "moth",
+        "crop_name": "moth"
+      },
+      {
+        "rank": 0,
+        "subtype": "popup",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/12/us/05Saudi/05Saudi-popup.jpg",
+        "height": 459,
+        "width": 650,
+        "legacy": {},
+        "subType": "popup",
+        "crop_name": "popup"
+      },
+      {
+        "rank": 0,
+        "subtype": "sfSpan",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/12/us/05Saudi/05Saudi-sfSpan.jpg",
+        "height": 263,
+        "width": 395,
+        "legacy": {},
+        "subType": "sfSpan",
+        "crop_name": "sfSpan"
+      },
+      {
+        "rank": 0,
+        "subtype": "slide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/12/us/05Saudi/05Saudi-slide.jpg",
+        "height": 424,
+        "width": 600,
+        "legacy": {},
+        "subType": "slide",
+        "crop_name": "slide"
+      },
+      {
+        "rank": 0,
+        "subtype": "smallSquare168",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/12/us/05Saudi/05Saudi-smallSquare168.jpg",
+        "height": 168,
+        "width": 168,
+        "legacy": {},
+        "subType": "smallSquare168",
+        "crop_name": "smallSquare168"
+      },
+      {
+        "rank": 0,
+        "subtype": "smallSquare252",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/12/us/05Saudi/05Saudi-smallSquare252.jpg",
+        "height": 252,
+        "width": 252,
+        "legacy": {},
+        "subType": "smallSquare252",
+        "crop_name": "smallSquare252"
+      },
+      {
+        "rank": 0,
+        "subtype": "square320",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/12/us/05Saudi/05Saudi-square320.jpg",
+        "height": 320,
+        "width": 320,
+        "legacy": {},
+        "subType": "square320",
+        "crop_name": "square320"
+      },
+      {
+        "rank": 0,
+        "subtype": "square640",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/12/us/05Saudi/05Saudi-square640.jpg",
+        "height": 640,
+        "width": 640,
+        "legacy": {},
+        "subType": "square640",
+        "crop_name": "square640"
+      },
+      {
+        "rank": 0,
+        "subtype": "superJumbo",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/12/us/05Saudi/05Saudi-superJumbo.jpg",
+        "height": 1448,
+        "width": 2048,
+        "legacy": {},
+        "subType": "superJumbo",
+        "crop_name": "superJumbo"
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbLarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/12/us/05Saudi/05Saudi-thumbLarge.jpg",
+        "height": 150,
+        "width": 150,
+        "legacy": {},
+        "subType": "thumbLarge",
+        "crop_name": "thumbLarge"
+      },
+      {
+        "rank": 0,
+        "subtype": "tmagArticle",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/12/us/05Saudi/05Saudi-tmagArticle.jpg",
+        "height": 418,
+        "width": 592,
+        "legacy": {},
+        "subType": "tmagArticle",
+        "crop_name": "tmagArticle"
+      },
+      {
+        "rank": 0,
+        "subtype": "tmagSF",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/12/us/05Saudi/05Saudi-tmagSF.jpg",
+        "height": 256,
+        "width": 362,
+        "legacy": {},
+        "subType": "tmagSF",
+        "crop_name": "tmagSF"
+      },
+      {
+        "rank": 0,
+        "subtype": "verticalTwoByThree735",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/12/us/05Saudi/05Saudi-verticalTwoByThree735.jpg",
+        "height": 1103,
+        "width": 735,
+        "legacy": {},
+        "subType": "verticalTwoByThree735",
+        "crop_name": "verticalTwoByThree735"
+      },
+      {
+        "rank": 0,
+        "subtype": "videoFifteenBySeven1305",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/12/us/05Saudi/05Saudi-videoFifteenBySeven1305.jpg",
+        "height": 609,
+        "width": 1305,
+        "legacy": {},
+        "subType": "videoFifteenBySeven1305",
+        "crop_name": "videoFifteenBySeven1305"
+      },
+      {
+        "rank": 0,
+        "subtype": "videoFifteenBySeven2610",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/12/us/05Saudi/05Saudi-videoFifteenBySeven2610.jpg",
+        "height": 1218,
+        "width": 2610,
+        "legacy": {},
+        "subType": "videoFifteenBySeven2610",
+        "crop_name": "videoFifteenBySeven2610"
+      },
+      {
+        "rank": 0,
+        "subtype": "videoHpMedium",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/12/us/05Saudi/05Saudi-videoHpMedium.jpg",
+        "height": 211,
+        "width": 375,
+        "legacy": {},
+        "subType": "videoHpMedium",
+        "crop_name": "videoHpMedium"
+      },
+      {
+        "rank": 0,
+        "subtype": "videoLarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/12/us/05Saudi/05Saudi-videoLarge.jpg",
+        "height": 507,
+        "width": 768,
+        "legacy": {},
+        "subType": "videoLarge",
+        "crop_name": "videoLarge"
+      },
+      {
+        "rank": 0,
+        "subtype": "videoSixteenByNine1050",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/12/us/05Saudi/05Saudi-videoSixteenByNine1050.jpg",
+        "height": 591,
+        "width": 1050,
+        "legacy": {},
+        "subType": "videoSixteenByNine1050",
+        "crop_name": "videoSixteenByNine1050"
+      },
+      {
+        "rank": 0,
+        "subtype": "videoSixteenByNine150",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/12/us/05Saudi/05Saudi-videoSixteenByNine150.jpg",
+        "height": 84,
+        "width": 150,
+        "legacy": {},
+        "subType": "videoSixteenByNine150",
+        "crop_name": "videoSixteenByNine150"
+      },
+      {
+        "rank": 0,
+        "subtype": "videoSixteenByNine225",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/12/us/05Saudi/05Saudi-videoSixteenByNine225.jpg",
+        "height": 126,
+        "width": 225,
+        "legacy": {},
+        "subType": "videoSixteenByNine225",
+        "crop_name": "videoSixteenByNine225"
+      },
+      {
+        "rank": 0,
+        "subtype": "videoSixteenByNine310",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/12/us/05Saudi/05Saudi-videoSixteenByNine310.jpg",
+        "height": 174,
+        "width": 310,
+        "legacy": {},
+        "subType": "videoSixteenByNine310",
+        "crop_name": "videoSixteenByNine310"
+      },
+      {
+        "rank": 0,
+        "subtype": "videoSixteenByNine390",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/12/us/05Saudi/05Saudi-videoSixteenByNine390.jpg",
+        "height": 219,
+        "width": 390,
+        "legacy": {},
+        "subType": "videoSixteenByNine390",
+        "crop_name": "videoSixteenByNine390"
+      },
+      {
+        "rank": 0,
+        "subtype": "videoSixteenByNine480",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/12/us/05Saudi/05Saudi-videoSixteenByNine480.jpg",
+        "height": 270,
+        "width": 480,
+        "legacy": {},
+        "subType": "videoSixteenByNine480",
+        "crop_name": "videoSixteenByNine480"
+      },
+      {
+        "rank": 0,
+        "subtype": "videoSixteenByNine495",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/12/us/05Saudi/05Saudi-videoSixteenByNine495.jpg",
+        "height": 278,
+        "width": 495,
+        "legacy": {},
+        "subType": "videoSixteenByNine495",
+        "crop_name": "videoSixteenByNine495"
+      },
+      {
+        "rank": 0,
+        "subtype": "videoSixteenByNine540",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/12/us/05Saudi/05Saudi-videoSixteenByNine540.jpg",
+        "height": 304,
+        "width": 540,
+        "legacy": {},
+        "subType": "videoSixteenByNine540",
+        "crop_name": "videoSixteenByNine540"
+      },
+      {
+        "rank": 0,
+        "subtype": "videoSixteenByNine600",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/12/us/05Saudi/05Saudi-videoSixteenByNine600.jpg",
+        "height": 338,
+        "width": 600,
+        "legacy": {},
+        "subType": "videoSixteenByNine600",
+        "crop_name": "videoSixteenByNine600"
+      },
+      {
+        "rank": 0,
+        "subtype": "videoSixteenByNine768",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/12/us/05Saudi/05Saudi-videoSixteenByNine768.jpg",
+        "height": 432,
+        "width": 768,
+        "legacy": {},
+        "subType": "videoSixteenByNine768",
+        "crop_name": "videoSixteenByNine768"
+      },
+      {
+        "rank": 0,
+        "subtype": "videoSixteenByNine96",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/12/us/05Saudi/05Saudi-videoSixteenByNine96.jpg",
+        "height": 54,
+        "width": 96,
+        "legacy": {},
+        "subType": "videoSixteenByNine96",
+        "crop_name": "videoSixteenByNine96"
+      },
+      {
+        "rank": 0,
+        "subtype": "videoSixteenByNineJumbo1600",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/12/us/05Saudi/05Saudi-videoSixteenByNineJumbo1600.jpg",
+        "height": 899,
+        "width": 1600,
+        "legacy": {},
+        "subType": "videoSixteenByNineJumbo1600",
+        "crop_name": "videoSixteenByNineJumbo1600"
+      },
+      {
+        "rank": 0,
+        "subtype": "videoSmall",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/12/us/05Saudi/05Saudi-videoSmall.jpg",
+        "height": 281,
+        "width": 500,
+        "legacy": {},
+        "subType": "videoSmall",
+        "crop_name": "videoSmall"
+      },
+      {
+        "rank": 0,
+        "subtype": "videoThumb",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/12/us/05Saudi/05Saudi-videoThumb.jpg",
+        "height": 50,
+        "width": 75,
+        "legacy": {},
+        "subType": "videoThumb",
+        "crop_name": "videoThumb"
+      },
+      {
+        "rank": 0,
+        "subtype": "watch268",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/12/us/05Saudi/05Saudi-watch268.jpg",
+        "height": 303,
+        "width": 272,
+        "legacy": {},
+        "subType": "watch268",
+        "crop_name": "watch268"
+      },
+      {
+        "rank": 0,
+        "subtype": "watch308",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/12/us/05Saudi/05Saudi-watch308.jpg",
+        "height": 348,
+        "width": 312,
+        "legacy": {},
+        "subType": "watch308",
+        "crop_name": "watch308"
+      },
+      {
+        "rank": 0,
+        "subtype": "windowsTile336H",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/12/us/05Saudi/05Saudi-windowsTile336H.jpg",
+        "height": 336,
+        "width": 694,
+        "legacy": {},
+        "subType": "windowsTile336H",
+        "crop_name": "windowsTile336H"
+      }
+    ],
+    "headline": {
+      "main": "Saudi Arabia Arrests 11 Princes, Including Billionaire Alwaleed bin Talal",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Saudi Arabia Arrests 11 Princes, Including Prominent Billionaire",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Saudi Arabia",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Politics and Government",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Alwaleed bin Talal",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Mohammed bin Salman (1985- )",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Royal Families",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Corruption (Institutional)",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2017-11-04T23:58:30+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Middle East",
+    "byline": {
+      "original": "By DAVID D. KIRKPATRICK",
+      "person": [
+        {
+          "firstname": "David",
+          "middlename": null,
+          "lastname": null,
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "59fe543b7c459f246b632a53",
+    "word_count": 851,
+    "score": 1.0,
+    "uri": "nyt://article/03156aa4-51b1-5fd1-b8dc-55db53a5fbd4"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2017/11/04/opinion/sunday/republicans-taxes-loop-holes.html",
+    "snippet": "At the root of our political dysfunction is America\u2019s long love-hate relationship with loopholes.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/05/opinion/sunday/05manguward/05manguward-articleLarge.jpg",
+        "height": 600,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2017/11/05/opinion/sunday/05manguward/05manguward-articleLarge.jpg",
+          "xlargeheight": 600
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/05/opinion/sunday/05manguward/05manguward-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2017/11/05/opinion/sunday/05manguward/05manguward-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/05/opinion/sunday/05manguward/05manguward-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2017/11/05/opinion/sunday/05manguward/05manguward-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Everything Is Bad. Blame the Tax Code.",
+      "kicker": "Opinion",
+      "content_kicker": "Opinion",
+      "print_headline": "Everything Is Bad. Blame the Tax Code.",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Tax Credits, Deductions and Exemptions",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Income Tax",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Federal Taxes (US)",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Capital Gains Tax",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Politics and Government",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Law and Legislation",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2017-11-04T19:35:21+0000",
+    "document_type": "article",
+    "new_desk": "OpEd",
+    "section_name": "Sunday Review",
+    "byline": {
+      "original": "By KATHERINE MANGU-WARD",
+      "person": [
+        {
+          "firstname": "Katherine",
+          "middlename": null,
+          "lastname": "MANGU-WARD",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "Op-Ed",
+    "_id": "59fe16827c459f246b632a0f",
+    "word_count": 1288,
+    "score": 1.0,
+    "uri": "nyt://article/7db0fe9a-2113-593c-bef2-d35c8c30e57d"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2017/11/04/business/media/youtube-kids-paw-patrol.html",
+    "snippet": "The app has more than 11 million weekly viewers. But some disturbing knockoff videos have reached children, upsetting parents.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/05/business/05YOUTUBEKIDS-1/05YOUTUBEKIDS-1-articleLarge.jpg",
+        "height": 400,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2017/11/05/business/05YOUTUBEKIDS-1/05YOUTUBEKIDS-1-articleLarge.jpg",
+          "xlargeheight": 400
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/05/business/05YOUTUBEKIDS-1/05YOUTUBEKIDS-1-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2017/11/05/business/05YOUTUBEKIDS-1/05YOUTUBEKIDS-1-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/05/business/05YOUTUBEKIDS-1/05YOUTUBEKIDS-1-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2017/11/05/business/05YOUTUBEKIDS-1/05YOUTUBEKIDS-1-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "On YouTube Kids, Startling Videos Slip Past Filters",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Child Friendly? Startling Videos Slip Past Filters",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Children and Childhood",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Video Recordings, Downloads and Streaming",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Parenting",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "YouTube.com",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Nickelodeon",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Walt Disney Company",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Television",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "creative_works",
+        "value": "PAW Patrol (TV Program)",
+        "rank": 8,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2017-11-04T17:38:38+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "section_name": "Media",
+    "byline": {
+      "original": "By SAPNA MAHESHWARI",
+      "person": [
+        {
+          "firstname": "Sapna",
+          "middlename": null,
+          "lastname": "MAHESHWARI",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "59fdfb287c459f246b6329e3",
+    "word_count": 1515,
+    "score": 1.0,
+    "uri": "nyt://article/25018041-f32d-5d6f-9506-bfc648992c1a"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2017/11/04/business/detroit-housing.html",
+    "snippet": "The 2008 financial crisis and 2013 city bankruptcy gutted Detroit\u2019s housing market. Now, Detroit is experimenting with unorthodox ways to get people to buy homes and renovate houses.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/01/business/00DETROITHOUSING1/00DETROITHOUSING1-articleLarge.jpg",
+        "height": 446,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2017/11/01/business/00DETROITHOUSING1/00DETROITHOUSING1-articleLarge.jpg",
+          "xlargeheight": 446
+        },
+        "subType": "xlarge",
+        "crop_name": "articleLarge"
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/01/business/00DETROITHOUSING1/00DETROITHOUSING1-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2017/11/01/business/00DETROITHOUSING1/00DETROITHOUSING1-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": "thumbWide"
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/01/business/00DETROITHOUSING1/00DETROITHOUSING1-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2017/11/01/business/00DETROITHOUSING1/00DETROITHOUSING1-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": "thumbStandard"
+      },
+      {
+        "rank": 0,
+        "subtype": "articleInline",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/01/business/00DETROITHOUSING1/00DETROITHOUSING1-articleInline.jpg",
+        "height": 135,
+        "width": 190,
+        "legacy": {},
+        "subType": "articleInline",
+        "crop_name": "articleInline"
+      },
+      {
+        "rank": 0,
+        "subtype": "blog225",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/01/business/00DETROITHOUSING1/00DETROITHOUSING1-blog225.jpg",
+        "height": 167,
+        "width": 225,
+        "legacy": {},
+        "subType": "blog225",
+        "crop_name": "blog225"
+      },
+      {
+        "rank": 0,
+        "subtype": "blog427",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/01/business/00DETROITHOUSING1/00DETROITHOUSING1-blog427.jpg",
+        "height": 318,
+        "width": 427,
+        "legacy": {},
+        "subType": "blog427",
+        "crop_name": "blog427"
+      },
+      {
+        "rank": 0,
+        "subtype": "blog480",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/01/business/00DETROITHOUSING1/00DETROITHOUSING1-blog480.jpg",
+        "height": 357,
+        "width": 480,
+        "legacy": {},
+        "subType": "blog480",
+        "crop_name": "blog480"
+      },
+      {
+        "rank": 0,
+        "subtype": "blog533",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/01/business/00DETROITHOUSING1/00DETROITHOUSING1-blog533.jpg",
+        "height": 396,
+        "width": 533,
+        "legacy": {},
+        "subType": "blog533",
+        "crop_name": "blog533"
+      },
+      {
+        "rank": 0,
+        "subtype": "blogSmallInline",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/01/business/00DETROITHOUSING1/00DETROITHOUSING1-blogSmallInline.jpg",
+        "height": 108,
+        "width": 151,
+        "legacy": {},
+        "subType": "blogSmallInline",
+        "crop_name": "blogSmallInline"
+      },
+      {
+        "rank": 0,
+        "subtype": "blogSmallThumb",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/01/business/00DETROITHOUSING1/00DETROITHOUSING1-blogSmallThumb.jpg",
+        "height": 50,
+        "width": 50,
+        "legacy": {},
+        "subType": "blogSmallThumb",
+        "crop_name": "blogSmallThumb"
+      },
+      {
+        "rank": 0,
+        "subtype": "facebookJumbo",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/01/business/00DETROITHOUSING1/00DETROITHOUSING1-facebookJumbo.jpg",
+        "height": 550,
+        "width": 1050,
+        "legacy": {},
+        "subType": "facebookJumbo",
+        "crop_name": "facebookJumbo"
+      },
+      {
+        "rank": 0,
+        "subtype": "filmstrip",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/01/business/00DETROITHOUSING1/00DETROITHOUSING1-filmstrip.jpg",
+        "height": 190,
+        "width": 190,
+        "legacy": {},
+        "subType": "filmstrip",
+        "crop_name": "filmstrip"
+      },
+      {
+        "rank": 0,
+        "subtype": "hpLarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/01/business/00DETROITHOUSING1/00DETROITHOUSING1-hpLarge.jpg",
+        "height": 288,
+        "width": 511,
+        "legacy": {},
+        "subType": "hpLarge",
+        "crop_name": "hpLarge"
+      },
+      {
+        "rank": 0,
+        "subtype": "hpSmall",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/01/business/00DETROITHOUSING1/00DETROITHOUSING1-hpSmall.jpg",
+        "height": 116,
+        "width": 163,
+        "legacy": {},
+        "subType": "hpSmall",
+        "crop_name": "hpSmall"
+      },
+      {
+        "rank": 0,
+        "subtype": "jumbo",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/01/business/00DETROITHOUSING1/00DETROITHOUSING1-jumbo.jpg",
+        "height": 762,
+        "width": 1024,
+        "legacy": {},
+        "subType": "jumbo",
+        "crop_name": "jumbo"
+      },
+      {
+        "rank": 0,
+        "subtype": "largeHorizontal375",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/01/business/00DETROITHOUSING1/00DETROITHOUSING1-largeHorizontal375.jpg",
+        "height": 250,
+        "width": 375,
+        "legacy": {},
+        "subType": "largeHorizontal375",
+        "crop_name": "largeHorizontal375"
+      },
+      {
+        "rank": 0,
+        "subtype": "largeHorizontalJumbo",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/01/business/00DETROITHOUSING1/00DETROITHOUSING1-largeHorizontalJumbo.jpg",
+        "height": 683,
+        "width": 1024,
+        "legacy": {},
+        "subType": "largeHorizontalJumbo",
+        "crop_name": "largeHorizontalJumbo"
+      },
+      {
+        "rank": 0,
+        "subtype": "largeWidescreen573",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/01/business/00DETROITHOUSING1/00DETROITHOUSING1-largeWidescreen573.jpg",
+        "height": 322,
+        "width": 573,
+        "legacy": {},
+        "subType": "largeWidescreen573",
+        "crop_name": "largeWidescreen573"
+      },
+      {
+        "rank": 0,
+        "subtype": "largeWidescreen1050",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/01/business/00DETROITHOUSING1/00DETROITHOUSING1-largeWidescreen1050.jpg",
+        "height": 591,
+        "width": 1050,
+        "legacy": {},
+        "subType": "largeWidescreen1050",
+        "crop_name": "largeWidescreen1050"
+      },
+      {
+        "rank": 0,
+        "subtype": "master1050",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/01/business/00DETROITHOUSING1/00DETROITHOUSING1-master1050.jpg",
+        "height": 781,
+        "width": 1050,
+        "legacy": {},
+        "subType": "master1050",
+        "crop_name": "master1050"
+      },
+      {
+        "rank": 0,
+        "subtype": "master180",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/01/business/00DETROITHOUSING1/00DETROITHOUSING1-master180.jpg",
+        "height": 134,
+        "width": 180,
+        "legacy": {},
+        "subType": "master180",
+        "crop_name": "master180"
+      },
+      {
+        "rank": 0,
+        "subtype": "master315",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/01/business/00DETROITHOUSING1/00DETROITHOUSING1-master315.jpg",
+        "height": 234,
+        "width": 315,
+        "legacy": {},
+        "subType": "master315",
+        "crop_name": "master315"
+      },
+      {
+        "rank": 0,
+        "subtype": "master495",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/01/business/00DETROITHOUSING1/00DETROITHOUSING1-master495.jpg",
+        "height": 368,
+        "width": 495,
+        "legacy": {},
+        "subType": "master495",
+        "crop_name": "master495"
+      },
+      {
+        "rank": 0,
+        "subtype": "master768",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/01/business/00DETROITHOUSING1/00DETROITHOUSING1-master768.jpg",
+        "height": 571,
+        "width": 768,
+        "legacy": {},
+        "subType": "master768",
+        "crop_name": "master768"
+      },
+      {
+        "rank": 0,
+        "subtype": "master675",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/01/business/00DETROITHOUSING1/00DETROITHOUSING1-master675.jpg",
+        "height": 502,
+        "width": 675,
+        "legacy": {},
+        "subType": "master675",
+        "crop_name": "master675"
+      },
+      {
+        "rank": 0,
+        "subtype": "mediumFlexible177",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/01/business/00DETROITHOUSING1/00DETROITHOUSING1-mediumFlexible177.jpg",
+        "height": 126,
+        "width": 177,
+        "legacy": {},
+        "subType": "mediumFlexible177",
+        "crop_name": "mediumFlexible177"
+      },
+      {
+        "rank": 0,
+        "subtype": "mediumSquare149",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/01/business/00DETROITHOUSING1/00DETROITHOUSING1-mediumSquare149.jpg",
+        "height": 149,
+        "width": 149,
+        "legacy": {},
+        "subType": "mediumSquare149",
+        "crop_name": "mediumSquare149"
+      },
+      {
+        "rank": 0,
+        "subtype": "mediumThreeByTwo210",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/01/business/00DETROITHOUSING1/00DETROITHOUSING1-mediumThreeByTwo210.jpg",
+        "height": 140,
+        "width": 210,
+        "legacy": {},
+        "subType": "mediumThreeByTwo210",
+        "crop_name": "mediumThreeByTwo210"
+      },
+      {
+        "rank": 0,
+        "subtype": "mediumThreeByTwo225",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/01/business/00DETROITHOUSING1/00DETROITHOUSING1-mediumThreeByTwo225.jpg",
+        "height": 150,
+        "width": 225,
+        "legacy": {},
+        "subType": "mediumThreeByTwo225",
+        "crop_name": "mediumThreeByTwo225"
+      },
+      {
+        "rank": 0,
+        "subtype": "mediumThreeByTwo440",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/01/business/00DETROITHOUSING1/00DETROITHOUSING1-mediumThreeByTwo440.jpg",
+        "height": 293,
+        "width": 440,
+        "legacy": {},
+        "subType": "mediumThreeByTwo440",
+        "crop_name": "mediumThreeByTwo440"
+      },
+      {
+        "rank": 0,
+        "subtype": "mediumThreeByTwo378",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/01/business/00DETROITHOUSING1/00DETROITHOUSING1-mediumThreeByTwo378.jpg",
+        "height": 252,
+        "width": 378,
+        "legacy": {},
+        "subType": "mediumThreeByTwo378",
+        "crop_name": "mediumThreeByTwo378"
+      },
+      {
+        "rank": 0,
+        "subtype": "mediumThreeByTwo252",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/01/business/00DETROITHOUSING1/00DETROITHOUSING1-mediumThreeByTwo252.jpg",
+        "height": 168,
+        "width": 252,
+        "legacy": {},
+        "subType": "mediumThreeByTwo252",
+        "crop_name": "mediumThreeByTwo252"
+      },
+      {
+        "rank": 0,
+        "subtype": "miniMoth",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/01/business/00DETROITHOUSING1/00DETROITHOUSING1-miniMoth.jpg",
+        "height": 70,
+        "width": 151,
+        "legacy": {},
+        "subType": "miniMoth",
+        "crop_name": "miniMoth"
+      },
+      {
+        "rank": 0,
+        "subtype": "moth",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/01/business/00DETROITHOUSING1/00DETROITHOUSING1-moth.jpg",
+        "height": 151,
+        "width": 151,
+        "legacy": {},
+        "subType": "moth",
+        "crop_name": "moth"
+      },
+      {
+        "rank": 0,
+        "subtype": "popup",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/01/business/00DETROITHOUSING1/00DETROITHOUSING1-popup.jpg",
+        "height": 483,
+        "width": 650,
+        "legacy": {},
+        "subType": "popup",
+        "crop_name": "popup"
+      },
+      {
+        "rank": 0,
+        "subtype": "sfSpan",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/01/business/00DETROITHOUSING1/00DETROITHOUSING1-sfSpan.jpg",
+        "height": 263,
+        "width": 395,
+        "legacy": {},
+        "subType": "sfSpan",
+        "crop_name": "sfSpan"
+      },
+      {
+        "rank": 0,
+        "subtype": "slide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/01/business/00DETROITHOUSING1/00DETROITHOUSING1-slide.jpg",
+        "height": 446,
+        "width": 600,
+        "legacy": {},
+        "subType": "slide",
+        "crop_name": "slide"
+      },
+      {
+        "rank": 0,
+        "subtype": "smallSquare168",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/01/business/00DETROITHOUSING1/00DETROITHOUSING1-smallSquare168.jpg",
+        "height": 168,
+        "width": 168,
+        "legacy": {},
+        "subType": "smallSquare168",
+        "crop_name": "smallSquare168"
+      },
+      {
+        "rank": 0,
+        "subtype": "smallSquare252",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/01/business/00DETROITHOUSING1/00DETROITHOUSING1-smallSquare252.jpg",
+        "height": 252,
+        "width": 252,
+        "legacy": {},
+        "subType": "smallSquare252",
+        "crop_name": "smallSquare252"
+      },
+      {
+        "rank": 0,
+        "subtype": "square320",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/01/business/00DETROITHOUSING1/00DETROITHOUSING1-square320.jpg",
+        "height": 320,
+        "width": 320,
+        "legacy": {},
+        "subType": "square320",
+        "crop_name": "square320"
+      },
+      {
+        "rank": 0,
+        "subtype": "square640",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/01/business/00DETROITHOUSING1/00DETROITHOUSING1-square640.jpg",
+        "height": 640,
+        "width": 640,
+        "legacy": {},
+        "subType": "square640",
+        "crop_name": "square640"
+      },
+      {
+        "rank": 0,
+        "subtype": "superJumbo",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/01/business/00DETROITHOUSING1/00DETROITHOUSING1-superJumbo.jpg",
+        "height": 1523,
+        "width": 2048,
+        "legacy": {},
+        "subType": "superJumbo",
+        "crop_name": "superJumbo"
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbLarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/01/business/00DETROITHOUSING1/00DETROITHOUSING1-thumbLarge.jpg",
+        "height": 150,
+        "width": 150,
+        "legacy": {},
+        "subType": "thumbLarge",
+        "crop_name": "thumbLarge"
+      },
+      {
+        "rank": 0,
+        "subtype": "tmagArticle",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/01/business/00DETROITHOUSING1/00DETROITHOUSING1-tmagArticle.jpg",
+        "height": 440,
+        "width": 592,
+        "legacy": {},
+        "subType": "tmagArticle",
+        "crop_name": "tmagArticle"
+      },
+      {
+        "rank": 0,
+        "subtype": "tmagSF",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/01/business/00DETROITHOUSING1/00DETROITHOUSING1-tmagSF.jpg",
+        "height": 269,
+        "width": 362,
+        "legacy": {},
+        "subType": "tmagSF",
+        "crop_name": "tmagSF"
+      },
+      {
+        "rank": 0,
+        "subtype": "verticalTwoByThree735",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/01/business/00DETROITHOUSING1/00DETROITHOUSING1-verticalTwoByThree735.jpg",
+        "height": 1103,
+        "width": 735,
+        "legacy": {},
+        "subType": "verticalTwoByThree735",
+        "crop_name": "verticalTwoByThree735"
+      },
+      {
+        "rank": 0,
+        "subtype": "videoFifteenBySeven1305",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/01/business/00DETROITHOUSING1/00DETROITHOUSING1-videoFifteenBySeven1305.jpg",
+        "height": 609,
+        "width": 1305,
+        "legacy": {},
+        "subType": "videoFifteenBySeven1305",
+        "crop_name": "videoFifteenBySeven1305"
+      },
+      {
+        "rank": 0,
+        "subtype": "videoFifteenBySeven2610",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/01/business/00DETROITHOUSING1/00DETROITHOUSING1-videoFifteenBySeven2610.jpg",
+        "height": 1218,
+        "width": 2610,
+        "legacy": {},
+        "subType": "videoFifteenBySeven2610",
+        "crop_name": "videoFifteenBySeven2610"
+      },
+      {
+        "rank": 0,
+        "subtype": "videoHpMedium",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/01/business/00DETROITHOUSING1/00DETROITHOUSING1-videoHpMedium.jpg",
+        "height": 211,
+        "width": 375,
+        "legacy": {},
+        "subType": "videoHpMedium",
+        "crop_name": "videoHpMedium"
+      },
+      {
+        "rank": 0,
+        "subtype": "videoLarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/01/business/00DETROITHOUSING1/00DETROITHOUSING1-videoLarge.jpg",
+        "height": 507,
+        "width": 768,
+        "legacy": {},
+        "subType": "videoLarge",
+        "crop_name": "videoLarge"
+      },
+      {
+        "rank": 0,
+        "subtype": "videoSixteenByNine1050",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/01/business/00DETROITHOUSING1/00DETROITHOUSING1-videoSixteenByNine1050.jpg",
+        "height": 591,
+        "width": 1050,
+        "legacy": {},
+        "subType": "videoSixteenByNine1050",
+        "crop_name": "videoSixteenByNine1050"
+      },
+      {
+        "rank": 0,
+        "subtype": "videoSixteenByNine150",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/01/business/00DETROITHOUSING1/00DETROITHOUSING1-videoSixteenByNine150.jpg",
+        "height": 84,
+        "width": 150,
+        "legacy": {},
+        "subType": "videoSixteenByNine150",
+        "crop_name": "videoSixteenByNine150"
+      },
+      {
+        "rank": 0,
+        "subtype": "videoSixteenByNine225",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/01/business/00DETROITHOUSING1/00DETROITHOUSING1-videoSixteenByNine225.jpg",
+        "height": 126,
+        "width": 225,
+        "legacy": {},
+        "subType": "videoSixteenByNine225",
+        "crop_name": "videoSixteenByNine225"
+      },
+      {
+        "rank": 0,
+        "subtype": "videoSixteenByNine310",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/01/business/00DETROITHOUSING1/00DETROITHOUSING1-videoSixteenByNine310.jpg",
+        "height": 174,
+        "width": 310,
+        "legacy": {},
+        "subType": "videoSixteenByNine310",
+        "crop_name": "videoSixteenByNine310"
+      },
+      {
+        "rank": 0,
+        "subtype": "videoSixteenByNine390",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/01/business/00DETROITHOUSING1/00DETROITHOUSING1-videoSixteenByNine390.jpg",
+        "height": 219,
+        "width": 390,
+        "legacy": {},
+        "subType": "videoSixteenByNine390",
+        "crop_name": "videoSixteenByNine390"
+      },
+      {
+        "rank": 0,
+        "subtype": "videoSixteenByNine480",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/01/business/00DETROITHOUSING1/00DETROITHOUSING1-videoSixteenByNine480.jpg",
+        "height": 270,
+        "width": 480,
+        "legacy": {},
+        "subType": "videoSixteenByNine480",
+        "crop_name": "videoSixteenByNine480"
+      },
+      {
+        "rank": 0,
+        "subtype": "videoSixteenByNine495",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/01/business/00DETROITHOUSING1/00DETROITHOUSING1-videoSixteenByNine495.jpg",
+        "height": 278,
+        "width": 495,
+        "legacy": {},
+        "subType": "videoSixteenByNine495",
+        "crop_name": "videoSixteenByNine495"
+      },
+      {
+        "rank": 0,
+        "subtype": "videoSixteenByNine540",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/01/business/00DETROITHOUSING1/00DETROITHOUSING1-videoSixteenByNine540.jpg",
+        "height": 304,
+        "width": 540,
+        "legacy": {},
+        "subType": "videoSixteenByNine540",
+        "crop_name": "videoSixteenByNine540"
+      },
+      {
+        "rank": 0,
+        "subtype": "videoSixteenByNine600",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/01/business/00DETROITHOUSING1/00DETROITHOUSING1-videoSixteenByNine600.jpg",
+        "height": 338,
+        "width": 600,
+        "legacy": {},
+        "subType": "videoSixteenByNine600",
+        "crop_name": "videoSixteenByNine600"
+      },
+      {
+        "rank": 0,
+        "subtype": "videoSixteenByNine768",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/01/business/00DETROITHOUSING1/00DETROITHOUSING1-videoSixteenByNine768.jpg",
+        "height": 432,
+        "width": 768,
+        "legacy": {},
+        "subType": "videoSixteenByNine768",
+        "crop_name": "videoSixteenByNine768"
+      },
+      {
+        "rank": 0,
+        "subtype": "videoSixteenByNine96",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/01/business/00DETROITHOUSING1/00DETROITHOUSING1-videoSixteenByNine96.jpg",
+        "height": 54,
+        "width": 96,
+        "legacy": {},
+        "subType": "videoSixteenByNine96",
+        "crop_name": "videoSixteenByNine96"
+      },
+      {
+        "rank": 0,
+        "subtype": "videoSixteenByNineJumbo1600",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/01/business/00DETROITHOUSING1/00DETROITHOUSING1-videoSixteenByNineJumbo1600.jpg",
+        "height": 900,
+        "width": 1600,
+        "legacy": {},
+        "subType": "videoSixteenByNineJumbo1600",
+        "crop_name": "videoSixteenByNineJumbo1600"
+      },
+      {
+        "rank": 0,
+        "subtype": "videoSmall",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/01/business/00DETROITHOUSING1/00DETROITHOUSING1-videoSmall.jpg",
+        "height": 281,
+        "width": 500,
+        "legacy": {},
+        "subType": "videoSmall",
+        "crop_name": "videoSmall"
+      },
+      {
+        "rank": 0,
+        "subtype": "videoThumb",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/01/business/00DETROITHOUSING1/00DETROITHOUSING1-videoThumb.jpg",
+        "height": 50,
+        "width": 75,
+        "legacy": {},
+        "subType": "videoThumb",
+        "crop_name": "videoThumb"
+      },
+      {
+        "rank": 0,
+        "subtype": "watch268",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/01/business/00DETROITHOUSING1/00DETROITHOUSING1-watch268.jpg",
+        "height": 304,
+        "width": 272,
+        "legacy": {},
+        "subType": "watch268",
+        "crop_name": "watch268"
+      },
+      {
+        "rank": 0,
+        "subtype": "watch308",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/01/business/00DETROITHOUSING1/00DETROITHOUSING1-watch308.jpg",
+        "height": 348,
+        "width": 312,
+        "legacy": {},
+        "subType": "watch308",
+        "crop_name": "watch308"
+      },
+      {
+        "rank": 0,
+        "subtype": "windowsTile336H",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/01/business/00DETROITHOUSING1/00DETROITHOUSING1-windowsTile336H.jpg",
+        "height": 336,
+        "width": 694,
+        "legacy": {},
+        "subType": "windowsTile336H",
+        "crop_name": "windowsTile336H"
+      }
+    ],
+    "headline": {
+      "main": "Detroit: From Motor City to Housing Incubator",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "The Motor City as Housing Incubator",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Detroit (Mich)",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Real Estate and Housing (Residential)",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Mortgages",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Abandonment (Property)",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Land Use Policies",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Bank of America Corporation",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "JPMorgan Chase & Company",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Detroit Land Bank Authority",
+        "rank": 8,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2017-11-04T09:00:34+0000",
+    "document_type": "article",
+    "new_desk": "SundayBusiness",
+    "byline": {
+      "original": "By MATTHEW GOLDSTEIN",
+      "person": [
+        {
+          "firstname": "Matthew",
+          "middlename": null,
+          "lastname": "GOLDSTEIN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "59fd81bd7c459f246b63293a",
+    "word_count": 3164,
+    "score": 1.0,
+    "uri": "nyt://article/21e18a6c-7747-5ef0-8b40-12b96eae3098"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2017/11/04/us/politics/republicans-guantanamo-military-commissions-civilian-courts-terrorism.html",
+    "snippet": "As the military commission system has struggled to bring terrorism suspects to justice, civilian courts have been much more effective.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/05/us/politics/05dc-gitmo1/merlin_128734427_5d042b68-d26d-4c1f-b177-d7bd8ae4ef3d-articleLarge.jpg",
+        "height": 400,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2017/11/05/us/politics/05dc-gitmo1/merlin_128734427_5d042b68-d26d-4c1f-b177-d7bd8ae4ef3d-articleLarge.jpg",
+          "xlargeheight": 400
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/05/us/politics/05dc-gitmo1/merlin_128734427_5d042b68-d26d-4c1f-b177-d7bd8ae4ef3d-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2017/11/05/us/politics/05dc-gitmo1/merlin_128734427_5d042b68-d26d-4c1f-b177-d7bd8ae4ef3d-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/05/us/politics/05dc-gitmo1/05dc-gitmo1-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2017/11/05/us/politics/05dc-gitmo1/05dc-gitmo1-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Following Trump\u2019s Lead, Republicans Grow Quiet on Guant\u00e1namo",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Trump Backs Off on Guant\u00e1namo; Party Follows",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Guantanamo Bay Naval Base (Cuba)",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Terrorism",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Trump, Donald J",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Republican Party",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Politics and Government",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Military Tribunals",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Federal Courts (US)",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Justice Department",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Sessions, Jefferson B III",
+        "rank": 9,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2017-11-04T17:39:03+0000",
+    "document_type": "article",
+    "new_desk": "Washington",
+    "section_name": "Politics",
+    "byline": {
+      "original": "By CHARLIE SAVAGE and ADAM GOLDMAN",
+      "person": [
+        {
+          "firstname": "Charlie",
+          "middlename": null,
+          "lastname": "SAVAGE",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Adam",
+          "middlename": null,
+          "lastname": "GOLDMAN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "59fdfb467c459f246b6329e4",
+    "word_count": 1546,
+    "score": 1.0,
+    "uri": "nyt://article/dcc5ba34-a4ae-5ff0-9c16-f222d3c88be3"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2017/11/04/business/sexual-harassment-whisper-network.html",
+    "snippet": "A behind-the-scenes support system in the workplace is gaining momentum in a digital age that allows women to share their experiences publicly.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/05/business/05WHISPER3/05WHISPER3-articleLarge.jpg",
+        "height": 400,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2017/11/05/business/05WHISPER3/05WHISPER3-articleLarge.jpg",
+          "xlargeheight": 400
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/05/business/05WHISPER3/05WHISPER3-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2017/11/05/business/05WHISPER3/05WHISPER3-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/05/business/05WHISPER3/05WHISPER3-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2017/11/05/business/05WHISPER3/05WHISPER3-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Women\u2019s Whisper Network Raises Its Voice",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "The Whisper Network Raises Its Voice",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Sexual Harassment",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Workplace Environment",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Defy Media",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Equal Employment Opportunity Commission",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "National Women's Law Center",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Social Media",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2017-11-04T09:00:13+0000",
+    "document_type": "article",
+    "new_desk": "SundayBusiness",
+    "byline": {
+      "original": "By JULIE CRESWELL and TIFFANY HSU",
+      "person": [
+        {
+          "firstname": "Julie",
+          "middlename": null,
+          "lastname": "CRESWELL",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Tiffany",
+          "middlename": null,
+          "lastname": "HSU",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "59fd81ad7c459f246b632939",
+    "word_count": 1529,
+    "score": 1.0,
+    "uri": "nyt://article/4013c8fb-7d71-5653-965a-a87716e68802"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2017/11/04/us/washington-state-west-politics-democrats.html",
+    "snippet": "A special election in Washington State could give Democrats a free hand to enact liberal policies, including on climate, across the entire West Coast.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/04/us/00west-01/00bluewall-01-articleLarge.jpg",
+        "height": 393,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2017/11/04/us/00west-01/00bluewall-01-articleLarge.jpg",
+          "xlargeheight": 393
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/04/us/00west-01/00bluewall-01-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2017/11/04/us/00west-01/00bluewall-01-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/04/us/00west-01/00bluewall-01-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2017/11/04/us/00west-01/00bluewall-01-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Poised for West Coast Dominance, Democrats Eye Grand Agenda",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Poised to Control West Coast,  Democrats Envision \u2018Blue Wall\u2019",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Washington (State)",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Elections, State Legislature",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Dhingra, Manka",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Englund, Jinyoung Lee",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Politics and Government",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Democratic Party",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "California",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Oregon",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Inslee, Jay",
+        "rank": 9,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2017-11-04T13:36:16+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "byline": {
+      "original": "By ALEXANDER BURNS and KIRK JOHNSON",
+      "person": [
+        {
+          "firstname": "Alexander",
+          "middlename": null,
+          "lastname": "BURNS",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Kirk",
+          "middlename": null,
+          "lastname": "JOHNSON",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "59fdc26f7c459f246b632981",
+    "word_count": 1517,
+    "score": 1.0,
+    "uri": "nyt://article/dc83c4bb-04b8-5814-9649-4cf7a5597de2"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2017/11/04/world/africa/ape-trafficking-bonobos-orangutans.html",
+    "snippet": "The New York Times tracked international ape smugglers from Congolese rain forests to the back streets of Bangkok. Here is what unfolded.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/09/01/world/africa/Apes-Promo/apes-slide-JUIE-articleLarge-v2.jpg",
+        "height": 400,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2017/09/01/world/africa/Apes-Promo/apes-slide-JUIE-articleLarge-v2.jpg",
+          "xlargeheight": 400
+        },
+        "subType": "xlarge",
+        "crop_name": "articleLarge"
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/09/01/world/africa/Apes-Promo/apes-slide-JUIE-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2017/09/01/world/africa/Apes-Promo/apes-slide-JUIE-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": "thumbWide"
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/09/01/world/africa/Apes-Promo/apes-slide-JUIE-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2017/09/01/world/africa/Apes-Promo/apes-slide-JUIE-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": "thumbStandard"
+      },
+      {
+        "rank": 0,
+        "subtype": "articleInline",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/09/01/world/africa/Apes-Promo/apes-slide-JUIE-articleInline.jpg",
+        "height": 190,
+        "width": 190,
+        "legacy": {},
+        "subType": "articleInline",
+        "crop_name": "articleInline"
+      },
+      {
+        "rank": 0,
+        "subtype": "blog225",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/09/01/world/africa/Apes-Promo/apes-slide-JUIE-blog225.jpg",
+        "height": 150,
+        "width": 225,
+        "legacy": {},
+        "subType": "blog225",
+        "crop_name": "blog225"
+      },
+      {
+        "rank": 0,
+        "subtype": "blog427",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/09/01/world/africa/Apes-Promo/apes-slide-JUIE-blog427.jpg",
+        "height": 285,
+        "width": 427,
+        "legacy": {},
+        "subType": "blog427",
+        "crop_name": "blog427"
+      },
+      {
+        "rank": 0,
+        "subtype": "blog480",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/09/01/world/africa/Apes-Promo/apes-slide-JUIE-blog480.jpg",
+        "height": 320,
+        "width": 480,
+        "legacy": {},
+        "subType": "blog480",
+        "crop_name": "blog480"
+      },
+      {
+        "rank": 0,
+        "subtype": "blog533",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/09/01/world/africa/Apes-Promo/apes-slide-JUIE-blog533.jpg",
+        "height": 355,
+        "width": 533,
+        "legacy": {},
+        "subType": "blog533",
+        "crop_name": "blog533"
+      },
+      {
+        "rank": 0,
+        "subtype": "blogSmallInline",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/09/01/world/africa/Apes-Promo/apes-slide-JUIE-blogSmallInline.jpg",
+        "height": 151,
+        "width": 151,
+        "legacy": {},
+        "subType": "blogSmallInline",
+        "crop_name": "blogSmallInline"
+      },
+      {
+        "rank": 0,
+        "subtype": "blogSmallThumb",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/09/01/world/africa/Apes-Promo/apes-slide-JUIE-blogSmallThumb.jpg",
+        "height": 50,
+        "width": 50,
+        "legacy": {},
+        "subType": "blogSmallThumb",
+        "crop_name": "blogSmallThumb"
+      },
+      {
+        "rank": 0,
+        "subtype": "facebookJumbo",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/09/01/world/africa/Apes-Promo/apes-slide-JUIE-facebookJumbo.jpg",
+        "height": 550,
+        "width": 1050,
+        "legacy": {},
+        "subType": "facebookJumbo",
+        "crop_name": "facebookJumbo"
+      },
+      {
+        "rank": 0,
+        "subtype": "filmstrip",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/09/01/world/africa/Apes-Promo/apes-slide-JUIE-filmstrip.jpg",
+        "height": 190,
+        "width": 190,
+        "legacy": {},
+        "subType": "filmstrip",
+        "crop_name": "filmstrip"
+      },
+      {
+        "rank": 0,
+        "subtype": "hpLarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/09/01/world/africa/Apes-Promo/apes-slide-JUIE-hpLarge.jpg",
+        "height": 287,
+        "width": 511,
+        "legacy": {},
+        "subType": "hpLarge",
+        "crop_name": "hpLarge"
+      },
+      {
+        "rank": 0,
+        "subtype": "hpSmall",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/09/01/world/africa/Apes-Promo/apes-slide-JUIE-hpSmall.jpg",
+        "height": 163,
+        "width": 163,
+        "legacy": {},
+        "subType": "hpSmall",
+        "crop_name": "hpSmall"
+      },
+      {
+        "rank": 0,
+        "subtype": "jumbo",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/09/01/world/africa/Apes-Promo/Apes-Promo-jumbo-v5.gif",
+        "height": 500,
+        "width": 500,
+        "legacy": {},
+        "subType": "jumbo",
+        "crop_name": "jumbo"
+      },
+      {
+        "rank": 0,
+        "subtype": "largeHorizontal375",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/09/01/world/africa/Apes-Promo/apes-slide-JUIE-largeHorizontal375.jpg",
+        "height": 375,
+        "width": 375,
+        "legacy": {},
+        "subType": "largeHorizontal375",
+        "crop_name": "largeHorizontal375"
+      },
+      {
+        "rank": 0,
+        "subtype": "largeHorizontalJumbo",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/09/01/world/africa/Apes-Promo/apes-slide-JUIE-largeHorizontalJumbo.jpg",
+        "height": 1024,
+        "width": 1024,
+        "legacy": {},
+        "subType": "largeHorizontalJumbo",
+        "crop_name": "largeHorizontalJumbo"
+      },
+      {
+        "rank": 0,
+        "subtype": "largeWidescreen573",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/09/01/world/africa/Apes-Promo/apes-slide-JUIE-largeWidescreen573.jpg",
+        "height": 322,
+        "width": 573,
+        "legacy": {},
+        "subType": "largeWidescreen573",
+        "crop_name": "largeWidescreen573"
+      },
+      {
+        "rank": 0,
+        "subtype": "largeWidescreen1050",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/09/01/world/africa/Apes-Promo/apes-slide-JUIE-largeWidescreen1050.jpg",
+        "height": 591,
+        "width": 1050,
+        "legacy": {},
+        "subType": "largeWidescreen1050",
+        "crop_name": "largeWidescreen1050"
+      },
+      {
+        "rank": 0,
+        "subtype": "master1050",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/09/01/world/africa/Apes-Promo/apes-slide-JUIE-master1050.jpg",
+        "height": 700,
+        "width": 1050,
+        "legacy": {},
+        "subType": "master1050",
+        "crop_name": "master1050"
+      },
+      {
+        "rank": 0,
+        "subtype": "master180",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/09/01/world/africa/Apes-Promo/apes-slide-JUIE-master180.jpg",
+        "height": 120,
+        "width": 180,
+        "legacy": {},
+        "subType": "master180",
+        "crop_name": "master180"
+      },
+      {
+        "rank": 0,
+        "subtype": "master315",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/09/01/world/africa/Apes-Promo/apes-slide-JUIE-master315.jpg",
+        "height": 210,
+        "width": 315,
+        "legacy": {},
+        "subType": "master315",
+        "crop_name": "master315"
+      },
+      {
+        "rank": 0,
+        "subtype": "master495",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/09/01/world/africa/Apes-Promo/apes-slide-JUIE-master495.jpg",
+        "height": 330,
+        "width": 495,
+        "legacy": {},
+        "subType": "master495",
+        "crop_name": "master495"
+      },
+      {
+        "rank": 0,
+        "subtype": "master768",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/09/01/world/africa/Apes-Promo/apes-slide-JUIE-master768.jpg",
+        "height": 512,
+        "width": 768,
+        "legacy": {},
+        "subType": "master768",
+        "crop_name": "master768"
+      },
+      {
+        "rank": 0,
+        "subtype": "mediumFlexible177",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/09/01/world/africa/Apes-Promo/apes-slide-JUIE-mediumFlexible177.jpg",
+        "height": 177,
+        "width": 177,
+        "legacy": {},
+        "subType": "mediumFlexible177",
+        "crop_name": "mediumFlexible177"
+      },
+      {
+        "rank": 0,
+        "subtype": "mediumSquare149",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/09/01/world/africa/Apes-Promo/apes-slide-JUIE-mediumSquare149.jpg",
+        "height": 149,
+        "width": 149,
+        "legacy": {},
+        "subType": "mediumSquare149",
+        "crop_name": "mediumSquare149"
+      },
+      {
+        "rank": 0,
+        "subtype": "mediumThreeByTwo210",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/09/01/world/africa/Apes-Promo/apes-slide-JUIE-mediumThreeByTwo210.jpg",
+        "height": 140,
+        "width": 210,
+        "legacy": {},
+        "subType": "mediumThreeByTwo210",
+        "crop_name": "mediumThreeByTwo210"
+      },
+      {
+        "rank": 0,
+        "subtype": "mediumThreeByTwo225",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/09/01/world/africa/Apes-Promo/apes-slide-JUIE-mediumThreeByTwo225.jpg",
+        "height": 150,
+        "width": 225,
+        "legacy": {},
+        "subType": "mediumThreeByTwo225",
+        "crop_name": "mediumThreeByTwo225"
+      },
+      {
+        "rank": 0,
+        "subtype": "mediumThreeByTwo440",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/09/01/world/africa/Apes-Promo/apes-slide-JUIE-mediumThreeByTwo440.jpg",
+        "height": 293,
+        "width": 440,
+        "legacy": {},
+        "subType": "mediumThreeByTwo440",
+        "crop_name": "mediumThreeByTwo440"
+      },
+      {
+        "rank": 0,
+        "subtype": "miniMoth",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/09/01/world/africa/Apes-Promo/apes-slide-JUIE-miniMoth.jpg",
+        "height": 70,
+        "width": 151,
+        "legacy": {},
+        "subType": "miniMoth",
+        "crop_name": "miniMoth"
+      },
+      {
+        "rank": 0,
+        "subtype": "moth",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/09/01/world/africa/Apes-Promo/apes-slide-JUIE-moth.jpg",
+        "height": 151,
+        "width": 151,
+        "legacy": {},
+        "subType": "moth",
+        "crop_name": "moth"
+      },
+      {
+        "rank": 0,
+        "subtype": "popup",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/09/01/world/africa/Apes-Promo/apes-slide-JUIE-popup.jpg",
+        "height": 433,
+        "width": 650,
+        "legacy": {},
+        "subType": "popup",
+        "crop_name": "popup"
+      },
+      {
+        "rank": 0,
+        "subtype": "sfSpan",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/09/01/world/africa/Apes-Promo/apes-slide-JUIE-sfSpan.jpg",
+        "height": 395,
+        "width": 395,
+        "legacy": {},
+        "subType": "sfSpan",
+        "crop_name": "sfSpan"
+      },
+      {
+        "rank": 0,
+        "subtype": "slide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/09/01/world/africa/Apes-Promo/apes-slide-JUIE-slide.jpg",
+        "height": 400,
+        "width": 600,
+        "legacy": {},
+        "subType": "slide",
+        "crop_name": "slide"
+      },
+      {
+        "rank": 0,
+        "subtype": "smallSquare168",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/09/01/world/africa/Apes-Promo/apes-slide-JUIE-smallSquare168.jpg",
+        "height": 168,
+        "width": 168,
+        "legacy": {},
+        "subType": "smallSquare168",
+        "crop_name": "smallSquare168"
+      },
+      {
+        "rank": 0,
+        "subtype": "smallSquare252",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/09/01/world/africa/Apes-Promo/apes-slide-JUIE-smallSquare252.jpg",
+        "height": 252,
+        "width": 252,
+        "legacy": {},
+        "subType": "smallSquare252",
+        "crop_name": "smallSquare252"
+      },
+      {
+        "rank": 0,
+        "subtype": "square320",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/09/01/world/africa/Apes-Promo/apes-slide-JUIE-square320.jpg",
+        "height": 320,
+        "width": 320,
+        "legacy": {},
+        "subType": "square320",
+        "crop_name": "square320"
+      },
+      {
+        "rank": 0,
+        "subtype": "square640",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/09/01/world/africa/Apes-Promo/apes-slide-JUIE-square640.jpg",
+        "height": 640,
+        "width": 640,
+        "legacy": {},
+        "subType": "square640",
+        "crop_name": "square640"
+      },
+      {
+        "rank": 0,
+        "subtype": "superJumbo",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/09/01/world/africa/Apes-Promo/Apes-Promo-superJumbo-v4.gif",
+        "height": 500,
+        "width": 500,
+        "legacy": {},
+        "subType": "superJumbo",
+        "crop_name": "superJumbo"
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbLarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/09/01/world/africa/Apes-Promo/apes-slide-JUIE-thumbLarge.jpg",
+        "height": 150,
+        "width": 150,
+        "legacy": {},
+        "subType": "thumbLarge",
+        "crop_name": "thumbLarge"
+      },
+      {
+        "rank": 0,
+        "subtype": "tmagArticle",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/09/01/world/africa/Apes-Promo/apes-slide-JUIE-tmagArticle.jpg",
+        "height": 395,
+        "width": 592,
+        "legacy": {},
+        "subType": "tmagArticle",
+        "crop_name": "tmagArticle"
+      },
+      {
+        "rank": 0,
+        "subtype": "tmagSF",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/09/01/world/africa/Apes-Promo/apes-slide-JUIE-tmagSF.jpg",
+        "height": 241,
+        "width": 362,
+        "legacy": {},
+        "subType": "tmagSF",
+        "crop_name": "tmagSF"
+      },
+      {
+        "rank": 0,
+        "subtype": "verticalTwoByThree735",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/09/01/world/africa/Apes-Promo/apes-slide-JUIE-verticalTwoByThree735.jpg",
+        "height": 1103,
+        "width": 735,
+        "legacy": {},
+        "subType": "verticalTwoByThree735",
+        "crop_name": "verticalTwoByThree735"
+      },
+      {
+        "rank": 0,
+        "subtype": "videoFifteenBySeven1305",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/09/01/world/africa/Apes-Promo/apes-slide-JUIE-videoFifteenBySeven1305.jpg",
+        "height": 609,
+        "width": 1305,
+        "legacy": {},
+        "subType": "videoFifteenBySeven1305",
+        "crop_name": "videoFifteenBySeven1305"
+      },
+      {
+        "rank": 0,
+        "subtype": "videoFifteenBySeven2610",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/09/01/world/africa/Apes-Promo/apes-slide-JUIE-videoFifteenBySeven2610.jpg",
+        "height": 1218,
+        "width": 2610,
+        "legacy": {},
+        "subType": "videoFifteenBySeven2610",
+        "crop_name": "videoFifteenBySeven2610"
+      },
+      {
+        "rank": 0,
+        "subtype": "videoHpMedium",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/09/01/world/africa/Apes-Promo/apes-slide-JUIE-videoHpMedium.jpg",
+        "height": 211,
+        "width": 375,
+        "legacy": {},
+        "subType": "videoHpMedium",
+        "crop_name": "videoHpMedium"
+      },
+      {
+        "rank": 0,
+        "subtype": "videoLarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/09/01/world/africa/Apes-Promo/apes-slide-JUIE-videoLarge.jpg",
+        "height": 507,
+        "width": 768,
+        "legacy": {},
+        "subType": "videoLarge",
+        "crop_name": "videoLarge"
+      },
+      {
+        "rank": 0,
+        "subtype": "videoSixteenByNine1050",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/09/01/world/africa/Apes-Promo/apes-slide-JUIE-videoSixteenByNine1050.jpg",
+        "height": 591,
+        "width": 1050,
+        "legacy": {},
+        "subType": "videoSixteenByNine1050",
+        "crop_name": "videoSixteenByNine1050"
+      },
+      {
+        "rank": 0,
+        "subtype": "videoSixteenByNine150",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/09/01/world/africa/Apes-Promo/apes-slide-JUIE-videoSixteenByNine150.jpg",
+        "height": 84,
+        "width": 150,
+        "legacy": {},
+        "subType": "videoSixteenByNine150",
+        "crop_name": "videoSixteenByNine150"
+      },
+      {
+        "rank": 0,
+        "subtype": "videoSixteenByNine225",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/09/01/world/africa/Apes-Promo/apes-slide-JUIE-videoSixteenByNine225.jpg",
+        "height": 126,
+        "width": 225,
+        "legacy": {},
+        "subType": "videoSixteenByNine225",
+        "crop_name": "videoSixteenByNine225"
+      },
+      {
+        "rank": 0,
+        "subtype": "videoSixteenByNine310",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/09/01/world/africa/Apes-Promo/apes-slide-JUIE-videoSixteenByNine310.jpg",
+        "height": 174,
+        "width": 310,
+        "legacy": {},
+        "subType": "videoSixteenByNine310",
+        "crop_name": "videoSixteenByNine310"
+      },
+      {
+        "rank": 0,
+        "subtype": "videoSixteenByNine390",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/09/01/world/africa/Apes-Promo/apes-slide-JUIE-videoSixteenByNine390.jpg",
+        "height": 219,
+        "width": 390,
+        "legacy": {},
+        "subType": "videoSixteenByNine390",
+        "crop_name": "videoSixteenByNine390"
+      },
+      {
+        "rank": 0,
+        "subtype": "videoSixteenByNine480",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/09/01/world/africa/Apes-Promo/apes-slide-JUIE-videoSixteenByNine480.jpg",
+        "height": 270,
+        "width": 480,
+        "legacy": {},
+        "subType": "videoSixteenByNine480",
+        "crop_name": "videoSixteenByNine480"
+      },
+      {
+        "rank": 0,
+        "subtype": "videoSixteenByNine495",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/09/01/world/africa/Apes-Promo/apes-slide-JUIE-videoSixteenByNine495.jpg",
+        "height": 278,
+        "width": 495,
+        "legacy": {},
+        "subType": "videoSixteenByNine495",
+        "crop_name": "videoSixteenByNine495"
+      },
+      {
+        "rank": 0,
+        "subtype": "videoSixteenByNine540",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/09/01/world/africa/Apes-Promo/apes-slide-JUIE-videoSixteenByNine540.jpg",
+        "height": 304,
+        "width": 540,
+        "legacy": {},
+        "subType": "videoSixteenByNine540",
+        "crop_name": "videoSixteenByNine540"
+      },
+      {
+        "rank": 0,
+        "subtype": "videoSixteenByNine600",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/09/01/world/africa/Apes-Promo/apes-slide-JUIE-videoSixteenByNine600.jpg",
+        "height": 338,
+        "width": 600,
+        "legacy": {},
+        "subType": "videoSixteenByNine600",
+        "crop_name": "videoSixteenByNine600"
+      },
+      {
+        "rank": 0,
+        "subtype": "videoSixteenByNine768",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/09/01/world/africa/Apes-Promo/apes-slide-JUIE-videoSixteenByNine768.jpg",
+        "height": 432,
+        "width": 768,
+        "legacy": {},
+        "subType": "videoSixteenByNine768",
+        "crop_name": "videoSixteenByNine768"
+      },
+      {
+        "rank": 0,
+        "subtype": "videoSixteenByNine96",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/09/01/world/africa/Apes-Promo/apes-slide-JUIE-videoSixteenByNine96.jpg",
+        "height": 54,
+        "width": 96,
+        "legacy": {},
+        "subType": "videoSixteenByNine96",
+        "crop_name": "videoSixteenByNine96"
+      },
+      {
+        "rank": 0,
+        "subtype": "videoSixteenByNineJumbo1600",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/09/01/world/africa/Apes-Promo/apes-slide-JUIE-videoSixteenByNineJumbo1600.jpg",
+        "height": 900,
+        "width": 1600,
+        "legacy": {},
+        "subType": "videoSixteenByNineJumbo1600",
+        "crop_name": "videoSixteenByNineJumbo1600"
+      },
+      {
+        "rank": 0,
+        "subtype": "videoSmall",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/09/01/world/africa/Apes-Promo/apes-slide-JUIE-videoSmall.jpg",
+        "height": 281,
+        "width": 500,
+        "legacy": {},
+        "subType": "videoSmall",
+        "crop_name": "videoSmall"
+      },
+      {
+        "rank": 0,
+        "subtype": "videoThumb",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/09/01/world/africa/Apes-Promo/apes-slide-JUIE-videoThumb.jpg",
+        "height": 50,
+        "width": 75,
+        "legacy": {},
+        "subType": "videoThumb",
+        "crop_name": "videoThumb"
+      },
+      {
+        "rank": 0,
+        "subtype": "watch268",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/09/01/world/africa/Apes-Promo/apes-slide-JUIE-watch268.jpg",
+        "height": 303,
+        "width": 272,
+        "legacy": {},
+        "subType": "watch268",
+        "crop_name": "watch268"
+      },
+      {
+        "rank": 0,
+        "subtype": "watch308",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/09/01/world/africa/Apes-Promo/apes-slide-JUIE-watch308.jpg",
+        "height": 348,
+        "width": 312,
+        "legacy": {},
+        "subType": "watch308",
+        "crop_name": "watch308"
+      },
+      {
+        "rank": 0,
+        "subtype": "windowsTile336H",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/09/01/world/africa/Apes-Promo/apes-slide-JUIE-windowsTile336H.jpg",
+        "height": 336,
+        "width": 694,
+        "legacy": {},
+        "subType": "windowsTile336H",
+        "crop_name": "windowsTile336H"
+      }
+    ],
+    "headline": {
+      "main": "Smuggled, Beaten and Drugged: The Illicit Global Ape Trade",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "\u2018Everyone Wants a Baby\u2019: The Dark Market for Apes",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Monkeys and Apes",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Poaching (Wildlife)",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Endangered and Extinct Species",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Animal Abuse, Rights and Welfare",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Black Markets",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Smuggling",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Zoos",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "African Wildlife Foundation",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Congo, Democratic Republic of (Congo-Kinshasa)",
+        "rank": 9,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Africa",
+        "rank": 10,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "vis-photo",
+        "rank": 11,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2017-11-04T09:00:37+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Africa",
+    "byline": {
+      "original": "By JEFFREY GETTLEMAN",
+      "person": [
+        {
+          "firstname": "Jeffrey",
+          "middlename": null,
+          "lastname": "GETTLEMAN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "59fd81be7c459f246b63293b",
+    "word_count": 2521,
+    "score": 1.0,
+    "uri": "nyt://article/d2aff7cd-8825-5404-b161-04dd2b790bbc"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2017/11/04/style/you-win-this-one-bill-de-blasio.html",
+    "snippet": "As New York City Mayor Bill de Blasio cruises to a second term, we had to wonder: Is he the boring one? Or ... oh crud. Is it us? It\u2019s us, right?",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/05/fashion/05BORING1/05BORING1-articleLarge.jpg",
+        "height": 400,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2017/11/05/fashion/05BORING1/05BORING1-articleLarge.jpg",
+          "xlargeheight": 400
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/05/fashion/05BORING1/05BORING1-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2017/11/05/fashion/05BORING1/05BORING1-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/05/fashion/05BORING1/05BORING1-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2017/11/05/fashion/05BORING1/05BORING1-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Four More Zzzs for Snooze City",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Four More Zzzs for Snooze City",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Elections, Mayors",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "de Blasio, Bill",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "New York City",
+        "rank": 3,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2017-11-04T10:00:01+0000",
+    "document_type": "article",
+    "new_desk": "Styles",
+    "byline": {
+      "original": "By ALEX WILLIAMS",
+      "person": [
+        {
+          "firstname": "Alex",
+          "middlename": null,
+          "lastname": "WILLIAMS",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "59fd8fb17c459f246b632948",
+    "word_count": 1802,
+    "score": 1.0,
+    "uri": "nyt://article/15f37687-59a5-52d4-bf9f-89b01b83e5d1"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2017/11/04/business/a-broke-and-broken-flood-insurance-program.html",
+    "snippet": "Now, an unusual coalition of insurers, environmentalists and fiscal conservatives is seeking major changes in the federal plan as a deadline approaches.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/04/business/00FLOOD11/00FLOOD11-articleLarge.jpg",
+        "height": 400,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2017/11/04/business/00FLOOD11/00FLOOD11-articleLarge.jpg",
+          "xlargeheight": 400
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/04/business/00FLOOD11/00FLOOD11-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2017/11/04/business/00FLOOD11/00FLOOD11-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/11/04/business/00FLOOD11/00FLOOD11-thumbStandard-v2.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2017/11/04/business/00FLOOD11/00FLOOD11-thumbStandard-v2.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "A Broke, and Broken, Flood Insurance Program",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Thousands Hit by Storms Rely on Wobbly Insurance",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "organizations",
+        "value": "National Flood Insurance Program",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Flood Insurance",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Real Estate and Housing (Residential)",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Federal Emergency Management Agency",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Natural Resources Defense Council",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Office of Management and Budget (US)",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Trump, Donald J",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Politics and Government",
+        "rank": 8,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2017-11-04T16:51:02+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By MARY WILLIAMS WALSH",
+      "person": [
+        {
+          "firstname": "Mary",
+          "middlename": "Williams",
+          "lastname": "WALSH",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "59fdeffe7c459f246b6329cd",
+    "word_count": 2296,
+    "score": 1.0,
+    "uri": "nyt://article/7a037853-5dc6-5d0e-8037-3129cbaaa78e"
+  }
+]

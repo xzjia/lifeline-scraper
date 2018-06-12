@@ -1,0 +1,134 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2017/02/05/sports/football/new-england-patriots-super-bowl-cheating.html",
+    "snippet": "It turns out, they can\u2019t help themselves. It\u2019s human nature.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/02/05/sports/05MACUR1/05MACUR1-articleLarge-v2.gif",
+        "height": 400,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2017/02/05/sports/05MACUR1/05MACUR1-articleLarge-v2.gif",
+          "xlargeheight": 400
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/02/05/sports/05MACUR1/05MACUR1-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2017/02/05/sports/05MACUR1/05MACUR1-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/02/05/sports/05MACUR1/05MACUR1-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2017/02/05/sports/05MACUR1/05MACUR1-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Why Do Fans Excuse the Patriots\u2019 Cheating Past?",
+      "kicker": "Sports of The Times",
+      "content_kicker": "Sports of The Times",
+      "print_headline": "Excusing a Cheating Past",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "organizations",
+        "value": "New England Patriots",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Brady, Tom",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Super Bowl",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Football",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Cheating",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Belichick, Bill",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2017-02-05T07:00:23+0000",
+    "document_type": "article",
+    "new_desk": "Sports",
+    "section_name": "Pro Football",
+    "byline": {
+      "original": "By JULIET MACUR",
+      "person": [
+        {
+          "firstname": "Juliet",
+          "middlename": null,
+          "lastname": "MACUR",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5896cd8f7c459f2525d1a89a",
+    "word_count": 1199,
+    "score": 1.0,
+    "uri": "nyt://article/e66eb93c-2dc6-5948-bb6d-ab89e1b753e8"
+  }
+]

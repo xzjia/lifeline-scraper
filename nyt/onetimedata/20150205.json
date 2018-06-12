@@ -1,0 +1,806 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2015/02/05/us/claims-against-saudis-cast-new-light-on-secret-pages-of-9-11-report.html",
+    "snippet": "Accusations by the former Qaeda operative Zacarias Moussaoui have fueled calls for President Obama to declassify a section of the 2002 report.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "Claims Against Saudis Cast New Light on Secret Pages of 9/11 Report",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "New Light Cast on Secret Pages in Sept. 11 Report",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "September 11 (2001)",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Saudi Arabia",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Al Qaeda",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Moussaoui, Zacarias",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Classified Information and State Secrets",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Terrorism",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "United States",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Lynch, Stephen F (1955- )",
+        "rank": 8,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2015-02-05T04:39:27+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "byline": {
+      "original": "By CARL HULSE",
+      "person": [
+        {
+          "firstname": "Carl",
+          "middlename": null,
+          "lastname": "HULSE",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "54d2f3fe38f0d81f788a20ba",
+    "word_count": 1124,
+    "score": 1.0,
+    "uri": "nyt://article/1a37152d-416e-51aa-a23a-e6323f59e6a8"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2015/02/06/world/europe/kerry-biden-hollande-merkel-ukraine-conflict.html",
+    "snippet": "As the White House weighs sending arms to bolster Ukraine&#8217;s forces, Secretary of State John Kerry is joining the leaders of Germany and France in Kiev to bolster peace efforts.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2015/02/06/world/europe/DIPLO/DIPLO-articleLarge.jpg",
+        "height": 372,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2015/02/06/world/europe/DIPLO/DIPLO-articleLarge.jpg",
+          "xlargeheight": 372
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2015/02/06/world/europe/DIPLO/DIPLO-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2015/02/06/world/europe/DIPLO/DIPLO-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2015/02/06/world/europe/DIPLO/DIPLO-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2015/02/06/world/europe/DIPLO/DIPLO-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "U.S. and Europe Working to End Ukraine Fighting",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "U.S. and Europe Working to End Ukraine Fighting",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Ukraine",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Russia",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Europe",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Putin, Vladimir V",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Merkel, Angela",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Hollande, Francois",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Kerry, John",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States International Relations",
+        "rank": 8,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2015-02-05T10:32:14+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Europe",
+    "byline": {
+      "original": "By MICHAEL R. GORDON and DAVID M. HERSZENHORN",
+      "person": [
+        {
+          "firstname": "Michael",
+          "middlename": "R.",
+          "lastname": "GORDON",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "David",
+          "middlename": null,
+          "lastname": null,
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "54d346ab38f0d81f788a2371",
+    "word_count": 1206,
+    "score": 1.0,
+    "uri": "nyt://article/fd623620-a0c8-5c2f-8f42-753fced0494f"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2015/02/06/us/in-invisible-world-of-political-donor-advisers-a-highly-visible-player.html",
+    "snippet": "&#8220;Donor advisers&#8221; like Mary Pat Bonner have immense power in the world of political fund-raising, and their commissions are provoking complaints from big-money contributors.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2015/02/06/us/06consultant-web/06consultant-web-articleLarge.jpg",
+        "height": 400,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2015/02/06/us/06consultant-web/06consultant-web-articleLarge.jpg",
+          "xlargeheight": 400
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2015/02/06/us/06consultant-web/06consultant-web-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2015/02/06/us/06consultant-web/06consultant-web-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2015/02/06/us/06consultant-web/06consultant-web-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2015/02/06/us/06consultant-web/06consultant-web-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "The Secret World of a Well-Paid \u2018Donor Adviser\u2019 in Politics",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Making Money Raising Funds for Politicians",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Campaign Finance",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Bonner, Mary Pat",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Political Action Committees",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Bonner Group Inc",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "American Bridge 21st Century",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Brock, David",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Assn of Fundraising Professionals",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Democracy Alliance",
+        "rank": 8,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2015-02-05T14:30:19+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "section_name": "Politics",
+    "byline": {
+      "original": "By NICHOLAS CONFESSORE",
+      "person": [
+        {
+          "firstname": "Nicholas",
+          "middlename": null,
+          "lastname": "CONFESSORE",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "54d37e7938f0d81f788a246d",
+    "word_count": 1387,
+    "score": 1.0,
+    "uri": "nyt://article/826c94e4-d6e1-5e8a-ad51-cfa8dc1c87c4"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2015/02/06/world/africa/boko-haram-refugees-recount-brutality-and-random-killings-in-nigerias-north.html",
+    "snippet": "Refugees fleeing the rule of Boko Haram militants in Nigeria describe a grim world of abduction, forced marriage and casually meted-out death.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2015/02/06/world/06NIGERIA/06NIGERIA-articleLarge-v2.jpg",
+        "height": 390,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2015/02/06/world/06NIGERIA/06NIGERIA-articleLarge-v2.jpg",
+          "xlargeheight": 390
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2015/02/06/world/06NIGERIA/06NIGERIA-thumbWide-v3.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2015/02/06/world/06NIGERIA/06NIGERIA-thumbWide-v3.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2015/02/06/world/06NIGERIA/06NIGERIA-thumbStandard-v3.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2015/02/06/world/06NIGERIA/06NIGERIA-thumbStandard-v3.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Boko Haram, and Massacres Ruled by Whim",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Boko Haram, and Massacres Ruled by Whim",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Nigeria",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Boko Haram",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Maiduguri (Nigeria)",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Damboa (Nigeria)",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Terrorism",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2015-02-05T20:56:22+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Africa",
+    "byline": {
+      "original": "By ADAM NOSSITER",
+      "person": [
+        {
+          "firstname": "Adam",
+          "middlename": null,
+          "lastname": "NOSSITER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "54d3d8f538f0d873d358e4e0",
+    "word_count": 1516,
+    "score": 1.0,
+    "uri": "nyt://article/c6d54c38-099e-512e-b725-06c194fabbb7"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2015/02/08/business/marijuana-industry-in-colorado-eager-for-its-own-bank-waits-on-the-fed.html",
+    "snippet": "A new credit union wants to serve the banking needs of Colorado&#8217;s legal marijuana businesses. The only problem? The federal government needs to sign off.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2015/02/04/multimedia/pot-banks-colorado/pot-banks-colorado-articleLarge.jpg",
+        "height": 412,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2015/02/04/multimedia/pot-banks-colorado/pot-banks-colorado-articleLarge.jpg",
+          "xlargeheight": 412
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2015/02/04/multimedia/pot-banks-colorado/pot-banks-colorado-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2015/02/04/multimedia/pot-banks-colorado/pot-banks-colorado-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2015/02/04/multimedia/pot-banks-colorado/pot-banks-colorado-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2015/02/04/multimedia/pot-banks-colorado/pot-banks-colorado-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "The First Bank of Bud",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "The First Bank of Bud",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Marijuana",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Colorado",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Banking and Financial Institutions",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Mason, Mark",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Regulation and Deregulation of Industry",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Federal Reserve System",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2015-02-05T16:14:28+0000",
+    "document_type": "article",
+    "new_desk": "SundayBusiness",
+    "byline": {
+      "original": "By MATT RICHTEL",
+      "person": [
+        {
+          "firstname": "Matt",
+          "middlename": null,
+          "lastname": "RICHTEL",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "54d396e138f0d81f788a24d4",
+    "word_count": 2848,
+    "score": 1.0,
+    "uri": "nyt://article/182949fb-0cb7-591b-ae9b-0af16018f949"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2015/02/06/business/brian-williamss-apology-over-iraq-account-is-challenged.html",
+    "snippet": "Veterans challenged Mr. Williams\u2019s assertion that he made a mistake when he spoke about having been in a military helicopter forced down by enemy fire in 2003.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2015/02/06/business/06williams-hp/06williams-hp-articleLarge.jpg",
+        "height": 400,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2015/02/06/business/06williams-hp/06williams-hp-articleLarge.jpg",
+          "xlargeheight": 400
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2015/02/06/business/06williams-hp/06williams-hp-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2015/02/06/business/06williams-hp/06williams-hp-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2015/02/06/business/06williams-hp/06williams-hp-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2015/02/06/business/06williams-hp/06williams-hp-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "With an Apology, Brian Williams Digs Himself Deeper in Copter Tale",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "With Apology, Williams Digs Himself Deeper",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Williams, Brian",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Iraq War (2003-11)",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Television",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Apologies",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "News and News Media",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "NBC News",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Ethics and Official Misconduct",
+        "rank": 7,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2015-02-05T22:00:38+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "section_name": "Media",
+    "byline": {
+      "original": "By JONATHAN MAHLER, RAVI SOMAIYA and EMILY STEEL",
+      "person": [
+        {
+          "firstname": "Jonathan",
+          "middlename": null,
+          "lastname": "MAHLER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Ravi",
+          "middlename": null,
+          "lastname": "SOMAIYA",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        },
+        {
+          "firstname": "Emily",
+          "middlename": null,
+          "lastname": "STEEL",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 3
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "54d3e80438f0d873d358e534",
+    "word_count": 1459,
+    "score": 1.0,
+    "uri": "nyt://article/a268cd94-8e92-5c37-af97-35a03ed359d3"
+  }
+]

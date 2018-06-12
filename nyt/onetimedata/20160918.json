@@ -1,0 +1,620 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2016/09/18/nyregion/chelsea-explosion-new-york-city.html",
+    "snippet": "An explosion caused by what the authorities believe was a homemade bomb injured at least 29 people in the Chelsea neighborhood. A second explosive device was later found four blocks away.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2016/09/17/nyregion/20160817explosion-hp-slide-RVTP/20160817explosion-hp-slide-RVTP-articleLarge.jpg",
+        "height": 400,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2016/09/17/nyregion/20160817explosion-hp-slide-RVTP/20160817explosion-hp-slide-RVTP-articleLarge.jpg",
+          "xlargeheight": 400
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2016/09/17/nyregion/20160817explosion-hp-slide-RVTP/20160817explosion-hp-slide-RVTP-thumbWide-v2.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2016/09/17/nyregion/20160817explosion-hp-slide-RVTP/20160817explosion-hp-slide-RVTP-thumbWide-v2.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2016/09/17/nyregion/20160817explosion-hp-slide-RVTP/20160817explosion-hp-slide-RVTP-thumbStandard-v2.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2016/09/17/nyregion/20160817explosion-hp-slide-RVTP/20160817explosion-hp-slide-RVTP-thumbStandard-v2.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Powerful Blast Injures at Least 29 in Manhattan; Second Device Found",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Powerful Blast in Manhattan Is Called an \u2018Intentional Act\u2019",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Chelsea, Manhattan Bombing (2016)",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Chelsea (Manhattan, NY)",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Terrorism",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "de Blasio, Bill",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2016-09-18T01:46:40+0000",
+    "document_type": "article",
+    "new_desk": "Metro",
+    "byline": {
+      "original": "By CHRISTOPHER MELE, AL BAKER and MICHAEL BARBARO",
+      "person": [
+        {
+          "firstname": "Christopher",
+          "middlename": null,
+          "lastname": "MELE",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Al",
+          "middlename": null,
+          "lastname": "BAKER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        },
+        {
+          "firstname": "Michael",
+          "middlename": null,
+          "lastname": "BARBARO",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 3
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "57ddf2077c459f227dbab9d5",
+    "word_count": 1234,
+    "score": 1.0,
+    "uri": "nyt://article/36095361-2982-5cdd-970c-8aba53672599"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2016/09/19/nyregion/new-york-explosion-chelsea.html",
+    "snippet": "The people were taken to an F.B.I. office in Manhattan, and an official said they may have been heading to the airport. Tensions in the region increased when the authorities said pipe bombs were found in Elizabeth, N.J.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2016/09/19/us/19explosion-hp/19explosion-hp-articleLarge.jpg",
+        "height": 391,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2016/09/19/us/19explosion-hp/19explosion-hp-articleLarge.jpg",
+          "xlargeheight": 391
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2016/09/19/us/19explosion-hp/19explosion-hp-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2016/09/19/us/19explosion-hp/19explosion-hp-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2016/09/19/us/19explosion-hp/19explosion-hp-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2016/09/19/us/19explosion-hp/19explosion-hp-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Manhattan Bombs Provide Trove of Clues; F.B.I. Questions 5 People",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Bombs Built for Carnage  Provide a Trove of Clues",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Chelsea, Manhattan Bombing (2016)",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Terrorism",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Police Department (NYC)",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Chelsea (Manhattan, NY)",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Federal Bureau of Investigation",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Elizabeth (NJ)",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Bombs and Explosives",
+        "rank": 7,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2016-09-18T14:49:32+0000",
+    "document_type": "article",
+    "new_desk": "Metro",
+    "byline": {
+      "original": "By MARC SANTORA, WILLIAM K. RASHBAUM, AL BAKER and ADAM GOLDMAN",
+      "person": [
+        {
+          "firstname": "Marc",
+          "middlename": null,
+          "lastname": "SANTORA",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "William",
+          "middlename": "K.",
+          "lastname": "RASHBAUM",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        },
+        {
+          "firstname": "Al",
+          "middlename": null,
+          "lastname": "BAKER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 3
+        },
+        {
+          "firstname": "Adam",
+          "middlename": null,
+          "lastname": "GOLDMAN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 4
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "57dea9827c459f227dbabab1",
+    "word_count": 1587,
+    "score": 1.0,
+    "uri": "nyt://article/402d24f0-58c3-59db-af84-632a62d2de4c"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2016/09/19/sports/ncaafootball/historically-black-schools-pay-the-price-for-a-football-paycheck.html",
+    "snippet": "Guarantee games, in which the visiting team receives hundreds of thousands of dollars to absorb a beating, have many critics, but some in the small-college world defend them.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2016/09/19/sports/19NOCERAss1/19NOCERAss1-articleLarge.jpg",
+        "height": 400,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2016/09/19/sports/19NOCERAss1/19NOCERAss1-articleLarge.jpg",
+          "xlargeheight": 400
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2016/09/19/sports/19NOCERAss1/19NOCERAss1-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2016/09/19/sports/19NOCERAss1/19NOCERAss1-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2016/09/19/sports/19NOCERAss1/19NOCERAss1-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2016/09/19/sports/19NOCERAss1/19NOCERAss1-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Historically Black Schools Pay the Price for a Football Paycheck",
+      "kicker": "Sports Business",
+      "content_kicker": "Sports Business",
+      "print_headline": "For a College Football Payday, the Collateral Cost Can Hurt",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Football (College)",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Blacks",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Clemson University",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "South Carolina State University",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Colleges and Universities",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Finances",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2016-09-18T21:46:29+0000",
+    "document_type": "article",
+    "new_desk": "Sports",
+    "section_name": "College Football",
+    "byline": {
+      "original": "By JOE NOCERA",
+      "person": [
+        {
+          "firstname": "Joe",
+          "middlename": null,
+          "lastname": "NOCERA",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "57df0b407c459f227dbabb6f",
+    "word_count": 1588,
+    "score": 1.0,
+    "uri": "nyt://article/e0af55a8-e873-5c9b-8d1a-b41549c74da5"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2016/09/19/arts/television/emmy-awards.html",
+    "snippet": "\u201cThe People v. O.J. Simpson,\u201d \u201cGame of Thrones\u201d and \u201cVeep\u201d were big winners at the 68th Primetime Emmy Awards.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2016/09/19/arts/19webemmys1/19webemmys1-articleLarge.jpg",
+        "height": 451,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2016/09/19/arts/19webemmys1/19webemmys1-articleLarge.jpg",
+          "xlargeheight": 451
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2016/09/19/arts/19webemmys1/19webemmys1-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2016/09/19/arts/19webemmys1/19webemmys1-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2016/09/19/arts/19webemmys1/19webemmys1-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2016/09/19/arts/19webemmys1/19webemmys1-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Emmy Awards 2016: Emmys Welcome Surprises Along With the Favorites",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Emmys Welcome Surprises Along With the Favorites",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Television",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Emmy Awards",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "ABC Inc",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Kimmel, Jimmy",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "creative_works",
+        "value": "Game of Thrones (TV Program)",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "creative_works",
+        "value": "House of Cards (TV Program)",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "creative_works",
+        "value": "Last Week Tonight With John Oliver (TV Program)",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "creative_works",
+        "value": "Mr Robot (TV Program)",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "creative_works",
+        "value": "Veep (TV Program)",
+        "rank": 9,
+        "major": "N"
+      },
+      {
+        "name": "creative_works",
+        "value": "The People v OJ Simpson: American Crime Story (TV Program)",
+        "rank": 10,
+        "major": "N"
+      },
+      {
+        "name": "creative_works",
+        "value": "Orphan Black (TV Program)",
+        "rank": 11,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Malek, Rami (1981- )",
+        "rank": 12,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Maslany, Tatiana",
+        "rank": 13,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Home Box Office",
+        "rank": 14,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2016-09-18T17:52:57+0000",
+    "document_type": "article",
+    "new_desk": "Culture",
+    "section_name": "Television",
+    "byline": {
+      "original": "By JOHN KOBLIN",
+      "person": [
+        {
+          "firstname": "John",
+          "middlename": null,
+          "lastname": "KOBLIN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "57ded4837c459f227dbabb06",
+    "word_count": 1581,
+    "score": 1.0,
+    "uri": "nyt://article/c114c405-de3c-5279-bc07-741ef1bb69b6"
+  }
+]

@@ -1,0 +1,140 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2016/08/22/world/americas/rio-olympics.html",
+    "snippet": "There have been cost overruns and many other complaints, but the 2016 Summer Games in Rio also yielded infrastructure improvements that had been on wish lists for years.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2016/08/21/world/21riolegacy1/21riolegacy1-articleLarge.jpg",
+        "height": 400,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2016/08/21/world/21riolegacy1/21riolegacy1-articleLarge.jpg",
+          "xlargeheight": 400
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2016/08/21/world/21riolegacy1/21riolegacy1-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2016/08/21/world/21riolegacy1/21riolegacy1-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2016/08/21/world/21riolegacy1/21riolegacy1-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2016/08/21/world/21riolegacy1/21riolegacy1-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "After Olympics, Rio Is Altered if Not Reborn",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "As the Last Olympians Leave, Rio Is Altered, if Not Reborn",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Olympic Games (2016)",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Area Planning and Renewal",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Rio de Janeiro (Brazil)",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Transit Systems",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Brazil",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Budgets and Budgeting",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Paes, Eduardo",
+        "rank": 7,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2016-08-21T23:50:51+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Americas",
+    "byline": {
+      "original": "By ANDREW JACOBS",
+      "person": [
+        {
+          "firstname": "Andrew",
+          "middlename": null,
+          "lastname": "JACOBS",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "57bd881e7c459f21c9996c89",
+    "word_count": 1695,
+    "score": 1.0,
+    "uri": "nyt://article/9aa6464f-adc7-5f30-813f-37eee1c8b4af"
+  }
+]

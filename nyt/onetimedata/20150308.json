@@ -1,0 +1,338 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2015/03/08/us/ferguson-became-symbol-but-bias-knows-no-border.html",
+    "snippet": "The unfairness in Ferguson\u2019s court system that is highlighted by a Justice Department report is not limited to it or even to Missouri.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2015/03/08/us/08ferguson-JP-01/08ferguson-JP-01-articleLarge.jpg",
+        "height": 400,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2015/03/08/us/08ferguson-JP-01/08ferguson-JP-01-articleLarge.jpg",
+          "xlargeheight": 400
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2015/03/08/us/08ferguson-JP-01/08ferguson-JP-01-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2015/03/08/us/08ferguson-JP-01/08ferguson-JP-01-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2015/03/08/us/08ferguson-JP-01/08ferguson-JP-01-thumbStandard-v7.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2015/03/08/us/08ferguson-JP-01/08ferguson-JP-01-thumbStandard-v7.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Ferguson Became Symbol, but Bias Knows No Border",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Ferguson Became Symbol of an Ill Plaguing the U.S.",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Ferguson (Mo)",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Blacks",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Courts and the Judiciary",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Police Brutality, Misconduct and Shootings",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Missouri",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Justice Department",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Poverty",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Traffic and Parking Violations",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Race and Ethnicity",
+        "rank": 9,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Civil Rights and Liberties",
+        "rank": 10,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Brown, Michael (1996-2014)",
+        "rank": 11,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Wilson, Darren (1986- )",
+        "rank": 12,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Jennings (Mo)",
+        "rank": 13,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2015-03-08T00:54:10+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "byline": {
+      "original": "By CAMPBELL ROBERTSON, SHAILA DEWAN and MATT APUZZO",
+      "person": [
+        {
+          "firstname": "Campbell",
+          "middlename": null,
+          "lastname": "ROBERTSON",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Shaila",
+          "middlename": null,
+          "lastname": "DEWAN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        },
+        {
+          "firstname": "Matt",
+          "middlename": null,
+          "lastname": "APUZZO",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 3
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "54fb9db238f0d80a0a50021f",
+    "word_count": 1530,
+    "score": 1.0,
+    "uri": "nyt://article/378385f4-2bad-5975-997b-e1e62c943d27"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2015/03/09/technology/popular-yik-yak-app-confers-anonymity-and-delivers-abuse.html",
+    "snippet": "Yik Yak, a social media app that serves as a local bulletin board, has proved popular especially on college campuses, but the cover of anonymity it offers allows for some unfettered nastiness.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2015/03/09/technology/09YIKYAK1/09YIKYAK1-articleLarge.jpg",
+        "height": 414,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2015/03/09/technology/09YIKYAK1/09YIKYAK1-articleLarge.jpg",
+          "xlargeheight": 414
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2015/03/09/technology/09YIKYAK1/09YIKYAK1-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2015/03/09/technology/09YIKYAK1/09YIKYAK1-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2015/03/09/technology/09YIKYAK1/09YIKYAK1-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2015/03/09/technology/09YIKYAK1/09YIKYAK1-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Who Spewed That Abuse? Anonymous Yik Yak App Isn\u2019t Telling",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Who Spewed That Abuse? Yik Yak Isn\u2019t Telling",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "organizations",
+        "value": "Yik Yak Inc",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Colleges and Universities",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Social Media",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Cyberharassment",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Threats and Threatening Messages",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Mobile Applications",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Eastern Michigan University",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Middlebury College",
+        "rank": 8,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2015-03-08T15:09:55+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By JONATHAN MAHLER",
+      "person": [
+        {
+          "firstname": "Jonathan",
+          "middlename": null,
+          "lastname": "MAHLER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "54fc664138f0d80a0a500366",
+    "word_count": 2625,
+    "score": 1.0,
+    "uri": "nyt://article/31049eec-2ae5-5e21-bd1d-6739947e7726"
+  }
+]

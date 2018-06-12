@@ -1,0 +1,727 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2015/07/01/business/economy/obama-overtime-rule-scratches-the-surface-in-helping-the-middle-class.html",
+    "snippet": "Though labor welcomed President Obama\u2019s action, observers said wage stagnation is the bigger problem.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "Obama Overtime Rule Scratches the Surface in Helping the Middle Class",
+      "kicker": "News Analysis",
+      "content_kicker": "News Analysis",
+      "print_headline": "Obama Overtime Rule Scratches the Surface in Helping the Middle Class",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Overtime",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Wages and Salaries",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Obama, Barack",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Labor and Jobs",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2015-07-01T01:08:17+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "section_name": "Economy",
+    "byline": {
+      "original": "By NOAM SCHEIBER",
+      "person": [
+        {
+          "firstname": "Noam",
+          "middlename": null,
+          "lastname": "SCHEIBER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News Analysis",
+    "_id": "55933d8338f0d86249dfa64d",
+    "word_count": 1288,
+    "score": 1.0,
+    "uri": "nyt://article/994ee670-a02c-524e-b8da-72611ada8707"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2015/07/02/business/international/many-board-members-fight-smoking-even-as-chamber-opposes-tobacco-laws.html",
+    "snippet": "Four executives of leading health care organizations are members of the board of the U.S. Chamber of Commerce, which is engaged in a worldwide campaign to thwart antismoking laws.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2015/07/02/business/02smoke-web/02smoke-web-articleLarge.jpg",
+        "height": 400,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2015/07/02/business/02smoke-web/02smoke-web-articleLarge.jpg",
+          "xlargeheight": 400
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2015/07/02/business/02smoke-web/02smoke-web-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2015/07/02/business/02smoke-web/02smoke-web-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2015/07/02/business/02smoke-web/02smoke-web-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2015/07/02/business/02smoke-web/02smoke-web-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "U.S. Chamber Fights Smoking Laws While Hospitals and Insurers Sit on Its Board",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Dissonance in Mission of Chamber on Tobacco",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Smoking and Tobacco",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "United States Chamber of Commerce",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Health Insurance and Managed Care",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Hospitals",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Lobbying and Lobbyists",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Burson-Marsteller Inc",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Altria Group Inc",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Philip Morris Companies Inc",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Pfizer Inc",
+        "rank": 9,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2015-07-01T09:00:07+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "section_name": "International Business",
+    "byline": {
+      "original": "By DANNY HAKIM",
+      "person": [
+        {
+          "firstname": "Danny",
+          "middlename": null,
+          "lastname": "HAKIM",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5593ac1a38f0d86249dfa75c",
+    "word_count": 1560,
+    "score": 1.0,
+    "uri": "nyt://article/4402a9a6-9e32-5d5b-966e-2b676a3f06de"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2015/07/05/fashion/first-comes-sex-talk-with-these-renegades-of-couples-therapy.html",
+    "snippet": "Offering the radical notion that couples should fix issues in the bedroom before tackling other concerns like communication.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2015/07/05/fashion/05THERAPISTSCOV/5THERAPISTSCOV-articleLarge.jpg",
+        "height": 733,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2015/07/05/fashion/05THERAPISTSCOV/5THERAPISTSCOV-articleLarge.jpg",
+          "xlargeheight": 733
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2015/07/05/fashion/05THERAPISTSCOV/5THERAPISTSCOV-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2015/07/05/fashion/05THERAPISTSCOV/5THERAPISTSCOV-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2015/07/05/fashion/05THERAPISTSCOV/5THERAPISTSCOV-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2015/07/05/fashion/05THERAPISTSCOV/5THERAPISTSCOV-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "First Comes Sex Talk With These Renegades of Couples Therapy",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Let\u2019s Talk About Your Sex",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Sex",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Therapy and Rehabilitation",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Marriages",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Psychology and Psychologists",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Adultery",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Perel, Esther (1958- )",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2015-07-01T22:46:59+0000",
+    "document_type": "article",
+    "new_desk": "Styles",
+    "byline": {
+      "original": "By AMY SOHN",
+      "person": [
+        {
+          "firstname": "Amy",
+          "middlename": null,
+          "lastname": "SOHN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "55946de538f0d8085ef567a5",
+    "word_count": 1540,
+    "score": 1.0,
+    "uri": "nyt://article/bfb4b127-9085-5177-a874-3dcd2aa90e62"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2015/07/02/world/europe/nicholas-winton-is-dead-at-106-saved-children-from-the-holocaust.html",
+    "snippet": "A London stockbroker in 1938, he rescued the youngsters from Czechoslovakia but then said nothing about his deeds for 50 years.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2015/07/02/world/02wintonobit3/02wintonobit3-articleLarge.jpg",
+        "height": 495,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2015/07/02/world/02wintonobit3/02wintonobit3-articleLarge.jpg",
+          "xlargeheight": 495
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2015/07/02/world/02wintonobit3/02wintonobit3-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2015/07/02/world/02wintonobit3/02wintonobit3-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2015/07/02/world/02wintonobit3/02wintonobit3-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2015/07/02/world/02wintonobit3/02wintonobit3-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Nicholas Winton, Rescuer of 669 Children From Holocaust, Dies at 106",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "Nicholas Winton, Rescuer of 669 Children From the Nazis, Dies at 106",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Deaths (Obituaries)",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Holocaust and the Nazi Era",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Children and Childhood",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Refugees and Displaced Persons",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Czechoslovakia",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Great Britain",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "World War II (1939-45)",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Winton, Nicholas (1909-2015)",
+        "rank": 8,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2015-07-01T16:31:19+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Europe",
+    "byline": {
+      "original": "By ROBERT D. McFADDEN",
+      "person": [
+        {
+          "firstname": "Robert",
+          "middlename": null,
+          "lastname": null,
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "Obituary (Obit)",
+    "_id": "559415d938f0d8085ef56644",
+    "word_count": 1861,
+    "score": 1.0,
+    "uri": "nyt://article/fe47883f-7e0a-5d0d-95aa-295d2945bf0a"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2015/07/02/business/exxon-lumbers-along-to-catch-up-with-gay-rights.html",
+    "snippet": "After decades of resistance, the oil behemoth is taking carefully considered steps to support gay, lesbian, bisexual and transgender employees.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2015/07/02/business/02stewart/02stewart-articleLarge.jpg",
+        "height": 349,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2015/07/02/business/02stewart/02stewart-articleLarge.jpg",
+          "xlargeheight": 349
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2015/07/02/business/02stewart/02stewart-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2015/07/02/business/02stewart/02stewart-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2015/07/02/business/02stewart/02stewart-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2015/07/02/business/02stewart/02stewart-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Exxon Lumbers Along to Catch Up With Gay Rights",
+      "kicker": "Common Sense",
+      "content_kicker": "Common Sense",
+      "print_headline": "Plodding Along on Gay Rights ",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "organizations",
+        "value": "Exxon Mobil Corp",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Homosexuality and Bisexuality",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Transgender and Transsexuals",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Human Rights Campaign",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2015-07-01T17:06:40+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By JAMES B. STEWART",
+      "person": [
+        {
+          "firstname": "James",
+          "middlename": null,
+          "lastname": null,
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "55941e2538f0d8085ef56666",
+    "word_count": 1432,
+    "score": 1.0,
+    "uri": "nyt://article/74b2d39a-e2fd-57be-878e-bf69eb17b84a"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2015/07/02/business/airlines-under-justice-dept-investigation-over-possible-collusion.html",
+    "snippet": "The inquiry, which appears to be in its early stages, is a marked shift for a Justice Department that in November 2013 cleared the way for the merger of American Airlines and US Airways.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2015/07/02/business/02airlines-web/02airlines-web-articleLarge.jpg",
+        "height": 400,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2015/07/02/business/02airlines-web/02airlines-web-articleLarge.jpg",
+          "xlargeheight": 400
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2015/07/02/business/02airlines-web/02airlines-web-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2015/07/02/business/02airlines-web/02airlines-web-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2015/07/02/business/02airlines-web/02airlines-web-thumbStandard-v2.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2015/07/02/business/02airlines-web/02airlines-web-thumbStandard-v2.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Airlines Under Justice Dept. Investigation Over Possible Collusion",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "U.S. Investigates Biggest Airlines in Collusion Case",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Airlines and Airplanes",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Antitrust Laws and Competition Issues",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Justice Department",
+        "rank": 3,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2015-07-01T19:36:23+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By CHRISTOPHER DREW",
+      "person": [
+        {
+          "firstname": "Christopher",
+          "middlename": null,
+          "lastname": "DREW",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5594413938f0d8085ef566f6",
+    "word_count": 1064,
+    "score": 1.0,
+    "uri": "nyt://article/dc22227c-fb96-51ee-ac9b-93470dfa2715"
+  }
+]

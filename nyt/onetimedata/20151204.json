@@ -1,0 +1,962 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2015/12/06/realestate/new-apps-and-services-for-renters.html",
+    "snippet": "New companies are springing up to help renters find homes, break leases, sublet, find roommates and avoid broker fees.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2015/12/06/realestate/06COVER/06COVER-articleLarge-v2.jpg",
+        "height": 369,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2015/12/06/realestate/06COVER/06COVER-articleLarge-v2.jpg",
+          "xlargeheight": 369
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2015/12/06/realestate/06COVER/06COVER-thumbWide-v3.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2015/12/06/realestate/06COVER/06COVER-thumbWide-v3.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2015/12/06/realestate/06COVER/06COVER-thumbStandard-v3.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2015/12/06/realestate/06COVER/06COVER-thumbStandard-v3.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "New Apps and Services for Renters",
+      "kicker": "",
+      "content_kicker": "",
+      "print_headline": "New Routes for Renters ",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Real Estate and Housing (Residential)",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Renting and Leasing (Real Estate)",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Computers and the Internet",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Mobile Applications",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "New York City",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2015-12-04T10:00:10+0000",
+    "document_type": "article",
+    "new_desk": "RealEstate",
+    "byline": {
+      "original": "By RONDA KAYSEN",
+      "person": [
+        {
+          "firstname": "Ronda",
+          "middlename": null,
+          "lastname": "KAYSEN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5661642b38f0d84320270f76",
+    "word_count": 2343,
+    "score": 1.0,
+    "uri": "nyt://article/b7bd5b08-32f8-562e-a606-b42c7014a509"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2015/12/05/your-money/the-end-of-social-security-loopholes-what-now.html",
+    "snippet": "Advice on when it\u2019s best to file for benefits depends on several factors, but generally, it\u2019s best to wait as long as you can, advisers say.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2015/12/05/business/05money-web/05money-web-articleLarge.jpg",
+        "height": 853,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2015/12/05/business/05money-web/05money-web-articleLarge.jpg",
+          "xlargeheight": 853
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2015/12/05/business/05money-web/05money-web-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2015/12/05/business/05money-web/05money-web-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2015/12/05/business/05money-web/05money-web-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2015/12/05/business/05money-web/05money-web-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "The End of Social Security Loopholes: What Now?",
+      "kicker": "Your Money",
+      "content_kicker": "Your Money",
+      "print_headline": "Some Bonus Benefits Are Ending",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Social Security (US)",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Retirement",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Law and Legislation",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Financial Planners",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2015-12-04T19:35:38+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By TARA SIEGEL BERNARD",
+      "person": [
+        {
+          "firstname": "Tara",
+          "middlename": "Siegel",
+          "lastname": "BERNARD",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5661eb0e38f0d87104c913f5",
+    "word_count": 1501,
+    "score": 1.0,
+    "uri": "nyt://article/e1cc75d0-7855-5f56-9ae5-ec00d46eb538"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2015/12/05/us/tashfeen-malik-islamic-state.html",
+    "snippet": "The shift in the investigation came shortly after officials said the female suspect in the shooting had pledged allegiance to the Islamic State in a Facebook posting.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2015/12/05/us/05wife_web1/05wife_web1-articleLarge.jpg",
+        "height": 733,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2015/12/05/us/05wife_web1/05wife_web1-articleLarge.jpg",
+          "xlargeheight": 733
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2015/12/05/us/05wife_web1/05wife_web1-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2015/12/05/us/05wife_web1/05wife_web1-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2015/12/05/us/05wife_web1/05wife_web1-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2015/12/05/us/05wife_web1/05wife_web1-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "F.B.I. Treating San Bernardino Attack as Terrorism Case",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "F.B.I. Is Treating Rampage as Act of Terrorism",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "San Bernardino, Calif, Shooting (2015)",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Federal Bureau of Investigation",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Malik, Tashfeen",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Farook, Syed Rizwan",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Islamic State in Iraq and Syria (ISIS)",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "San Bernardino (Calif)",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Terrorism",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Murders, Attempted Murders and Homicides",
+        "rank": 8,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2015-12-04T15:51:08+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "byline": {
+      "original": "By MICHAEL S. SCHMIDT and RICHARD P\u00c9REZ-PE\u00d1A",
+      "person": [
+        {
+          "firstname": "Michael",
+          "middlename": "S.",
+          "lastname": "SCHMIDT",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Richard",
+          "middlename": null,
+          "lastname": "P\u00c9REZ-PE\u00d1A",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5661b66e38f0d843202710bc",
+    "word_count": 1914,
+    "score": 1.0,
+    "uri": "nyt://article/3c2c60ca-00c3-5fd7-9234-eefdf200ad8d"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2015/12/05/business/international/china-creates-an-asian-bank-as-the-us-stands-aloof.html",
+    "snippet": "In setting up the Asian Infrastructure Investment Bank, China enlisted American allies, including Britain, even as Washington expressed skepticism.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2015/12/03/business/00chinabank-web1/00chinabank-web1-articleLarge.jpg",
+        "height": 407,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2015/12/03/business/00chinabank-web1/00chinabank-web1-articleLarge.jpg",
+          "xlargeheight": 407
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2015/12/03/business/00chinabank-web1/00chinabank-web1-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2015/12/03/business/00chinabank-web1/00chinabank-web1-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2015/12/03/business/00chinabank-web1/00chinabank-web1-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2015/12/03/business/00chinabank-web1/00chinabank-web1-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "China Creates a World Bank of Its Own, and the U.S. Balks",
+      "kicker": "The China Factor | Part 4",
+      "content_kicker": "The China Factor | Part 4",
+      "print_headline": "Beijing&#8217;s Rival to World Bank Moves Forward Without U.S.",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "organizations",
+        "value": "Asian Infrastructure Investment Bank",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "China",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Far East, South and Southeast Asia and Pacific Areas",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Series",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Infrastructure (Public Works)",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Banking and Financial Institutions",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "International Monetary Fund",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Jin Liqun (1949- )",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "World Bank",
+        "rank": 9,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Asian Development Bank",
+        "rank": 10,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States International Relations",
+        "rank": 11,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2015-12-04T21:11:05+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "section_name": "International Business",
+    "byline": {
+      "original": "By JANE PERLEZ",
+      "person": [
+        {
+          "firstname": "Jane",
+          "middlename": null,
+          "lastname": "PERLEZ",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5662016e38f0d87104c9143f",
+    "word_count": 2968,
+    "score": 1.0,
+    "uri": "nyt://article/5de4e531-698d-50de-9985-5cd3f6fcae04"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2015/12/05/sports/ncaafootball/purdue-fires-a-champion-of-athletes-rights.html",
+    "snippet": "John Shoop\u2019s problem as a football coach at Purdue might have been his and his wife\u2019s penchant for addressing what they felt were injustices in college sports.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2015/12/05/sports/05NOCERAweb1/05NOCERAweb1-articleLarge.jpg",
+        "height": 400,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2015/12/05/sports/05NOCERAweb1/05NOCERAweb1-articleLarge.jpg",
+          "xlargeheight": 400
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2015/12/05/sports/05NOCERAweb1/05NOCERAweb1-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2015/12/05/sports/05NOCERAweb1/05NOCERAweb1-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2015/12/05/sports/05NOCERAweb1/05NOCERAweb1-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2015/12/05/sports/05NOCERAweb1/05NOCERAweb1-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Purdue Fires a Champion of Athletes\u2019 Rights",
+      "kicker": "Sports Business",
+      "content_kicker": "Sports Business",
+      "print_headline": "Outspoken and, Now, Out of Work ",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Football (College)",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Shoop, John (1969- )",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Coaches and Managers",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Hazell, Darrell",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Burke, Morgan J (1951- )",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Purdue University",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2015-12-04T17:48:35+0000",
+    "document_type": "article",
+    "new_desk": "Sports",
+    "section_name": "College Football",
+    "byline": {
+      "original": "By JOE NOCERA",
+      "person": [
+        {
+          "firstname": "Joe",
+          "middlename": null,
+          "lastname": "NOCERA",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5661d1f638f0d87104c91390",
+    "word_count": 2207,
+    "score": 1.0,
+    "uri": "nyt://article/7651bcbb-f644-54da-86d7-5fa2247d6f45"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2015/12/05/sports/soccer/fifas-message-is-at-the-mercy-of-the-wrong-messengers.html",
+    "snippet": "Thursday\u2019s arrests were not the only reason the news media did not focus on FIFA\u2019s message of hope. There was also the matter of who was delivering it.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2015/12/05/sports/05ONSOCCERweb/05ONSOCCERweb-articleLarge.jpg",
+        "height": 368,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2015/12/05/sports/05ONSOCCERweb/05ONSOCCERweb-articleLarge.jpg",
+          "xlargeheight": 368
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2015/12/05/sports/05ONSOCCERweb/05ONSOCCERweb-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2015/12/05/sports/05ONSOCCERweb/05ONSOCCERweb-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2015/12/05/sports/05ONSOCCERweb/05ONSOCCERweb-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2015/12/05/sports/05ONSOCCERweb/05ONSOCCERweb-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "FIFA\u2019s Message Is at the Mercy of the Wrong Messengers",
+      "kicker": "On Soccer",
+      "content_kicker": "On Soccer",
+      "print_headline": "A Message in the Hands of the Wrong Messengers",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Soccer",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "International Federation of Association Football (FIFA)",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Bribery and Kickbacks",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Carrard, Francois",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Corruption (Institutional)",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Hayatou, Issa (1946- )",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Kattner Markus (1970- )",
+        "rank": 7,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2015-12-04T16:17:45+0000",
+    "document_type": "article",
+    "new_desk": "Sports",
+    "section_name": "Soccer",
+    "byline": {
+      "original": "By SAM BORDEN",
+      "person": [
+        {
+          "firstname": "Sam",
+          "middlename": null,
+          "lastname": "BORDEN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5661bcaf38f0d843202710d7",
+    "word_count": 962,
+    "score": 1.0,
+    "uri": "nyt://article/5f83f158-416f-5334-aa71-6a726872e379"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2015/12/06/nyregion/in-the-spirit-of-mark-zuckerberg-an-experimental-school-in-brooklyn.html",
+    "snippet": "Those wondering what kind of education initiatives Mark Zuckerberg of Facebook and his wife may support with their charitable spending should consider the new AltSchool in Brooklyn Heights.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2015/12/06/nyregion/06BIG/06BIG-articleLarge.jpg",
+        "height": 396,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2015/12/06/nyregion/06BIG/06BIG-articleLarge.jpg",
+          "xlargeheight": 396
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2015/12/06/nyregion/06BIG/06BIG-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2015/12/06/nyregion/06BIG/06BIG-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2015/12/06/nyregion/06BIG/06BIG-thumbStandard-v2.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2015/12/06/nyregion/06BIG/06BIG-thumbStandard-v2.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "The Bold Idea Behind a Small Brooklyn School",
+      "kicker": "Big City",
+      "content_kicker": "Big City",
+      "print_headline": "Tiny School, Bold Idea",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "organizations",
+        "value": "AltSchool",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Education (K-12)",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Private and Sectarian Schools",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Brooklyn Heights (Brooklyn, NY)",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Zuckerberg, Mark E",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Ventilla, Max (1980- )",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2015-12-04T15:58:04+0000",
+    "document_type": "article",
+    "new_desk": "Metropolitan",
+    "byline": {
+      "original": "By GINIA BELLAFANTE",
+      "person": [
+        {
+          "firstname": "Ginia",
+          "middlename": null,
+          "lastname": "BELLAFANTE",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "5661b81238f0d843202710c0",
+    "word_count": 1091,
+    "score": 1.0,
+    "uri": "nyt://article/8a9aea69-934f-5767-9626-9230c5eb0437"
+  }
+]

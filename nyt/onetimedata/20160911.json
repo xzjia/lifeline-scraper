@@ -1,0 +1,150 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2016/09/12/us/politics/hillary-clinton-campaign-pneumonia.html",
+    "snippet": "The incident, which occurred after months of questions about Mrs. Clinton\u2019s health from Republicans, is likely to increase pressure on her to address the issue.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2016/09/12/us/12campaign/12campaign-articleLarge.jpg",
+        "height": 416,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2016/09/12/us/12campaign/12campaign-articleLarge.jpg",
+          "xlargeheight": 416
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2016/09/12/us/12campaign/12campaign-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2016/09/12/us/12campaign/12campaign-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2016/09/12/us/12campaign/12campaign-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2016/09/12/us/12campaign/12campaign-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Hillary Clinton\u2019s Doctor Says Pneumonia Led to Abrupt Exit From 9/11 Event",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Clinton Falls Ill at a 9/11 Tribute; Pneumonia Cited",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Clinton, Hillary Rodham",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Pneumonia",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Presidential Election of 2016",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "September 11 (2001)",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "World Trade Center (Manhattan, NY)",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Trump, Donald J",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Medicine and Health",
+        "rank": 7,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2016-09-11T16:04:25+0000",
+    "document_type": "article",
+    "new_desk": "National",
+    "section_name": "Politics",
+    "byline": {
+      "original": "By JONATHAN MARTIN and AMY CHOZICK",
+      "person": [
+        {
+          "firstname": "Jonathan",
+          "middlename": null,
+          "lastname": "MARTIN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Amy",
+          "middlename": null,
+          "lastname": "CHOZICK",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "57e2d9267c459f227dbac627",
+    "word_count": 1386,
+    "score": 1.0,
+    "uri": "nyt://article/4e5d1d23-3914-599b-bb55-b9651a3f23e9"
+  }
+]

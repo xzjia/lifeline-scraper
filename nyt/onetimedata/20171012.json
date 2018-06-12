@@ -1,0 +1,4658 @@
+[
+  {
+    "web_url": "https://www.nytimes.com/2017/10/12/technology/tech-giants-threats.html",
+    "snippet": "American tech companies positioned themselves as entities that brought positive change by connecting people and spreading information. Perceptions are shifting.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/13/business/13jpBIGTECH/00BIGTECH1-articleLarge.jpg",
+        "height": 400,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2017/10/13/business/13jpBIGTECH/00BIGTECH1-articleLarge.jpg",
+          "xlargeheight": 400
+        },
+        "subType": "xlarge",
+        "crop_name": "articleLarge"
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/13/business/13jpBIGTECH/00BIGTECH1-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2017/10/13/business/13jpBIGTECH/00BIGTECH1-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": "thumbWide"
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/13/business/13jpBIGTECH/00BIGTECH1-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2017/10/13/business/13jpBIGTECH/00BIGTECH1-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": "thumbStandard"
+      },
+      {
+        "rank": 0,
+        "subtype": "articleInline",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/13/business/13jpBIGTECH/00BIGTECH1-articleInline.jpg",
+        "height": 131,
+        "width": 190,
+        "legacy": {},
+        "subType": "articleInline",
+        "crop_name": "articleInline"
+      },
+      {
+        "rank": 0,
+        "subtype": "blog225",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/13/business/13jpBIGTECH/00BIGTECH1-blog225.jpg",
+        "height": 150,
+        "width": 225,
+        "legacy": {},
+        "subType": "blog225",
+        "crop_name": "blog225"
+      },
+      {
+        "rank": 0,
+        "subtype": "blog427",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/13/business/13jpBIGTECH/00BIGTECH1-blog427.jpg",
+        "height": 285,
+        "width": 427,
+        "legacy": {},
+        "subType": "blog427",
+        "crop_name": "blog427"
+      },
+      {
+        "rank": 0,
+        "subtype": "blog480",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/13/business/13jpBIGTECH/00BIGTECH1-blog480.jpg",
+        "height": 320,
+        "width": 480,
+        "legacy": {},
+        "subType": "blog480",
+        "crop_name": "blog480"
+      },
+      {
+        "rank": 0,
+        "subtype": "blog533",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/13/business/13jpBIGTECH/00BIGTECH1-blog533.jpg",
+        "height": 355,
+        "width": 533,
+        "legacy": {},
+        "subType": "blog533",
+        "crop_name": "blog533"
+      },
+      {
+        "rank": 0,
+        "subtype": "blogSmallInline",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/13/business/13jpBIGTECH/00BIGTECH1-blogSmallInline.jpg",
+        "height": 104,
+        "width": 151,
+        "legacy": {},
+        "subType": "blogSmallInline",
+        "crop_name": "blogSmallInline"
+      },
+      {
+        "rank": 0,
+        "subtype": "blogSmallThumb",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/13/business/13jpBIGTECH/00BIGTECH1-blogSmallThumb.jpg",
+        "height": 50,
+        "width": 50,
+        "legacy": {},
+        "subType": "blogSmallThumb",
+        "crop_name": "blogSmallThumb"
+      },
+      {
+        "rank": 0,
+        "subtype": "facebookJumbo",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/13/business/13jpBIGTECH/00BIGTECH1-facebookJumbo.jpg",
+        "height": 549,
+        "width": 1050,
+        "legacy": {},
+        "subType": "facebookJumbo",
+        "crop_name": "facebookJumbo"
+      },
+      {
+        "rank": 0,
+        "subtype": "filmstrip",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/13/business/13jpBIGTECH/00BIGTECH1-filmstrip.jpg",
+        "height": 190,
+        "width": 190,
+        "legacy": {},
+        "subType": "filmstrip",
+        "crop_name": "filmstrip"
+      },
+      {
+        "rank": 0,
+        "subtype": "hpLarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/13/business/13jpBIGTECH/00BIGTECH1-hpLarge.jpg",
+        "height": 287,
+        "width": 511,
+        "legacy": {},
+        "subType": "hpLarge",
+        "crop_name": "hpLarge"
+      },
+      {
+        "rank": 0,
+        "subtype": "hpSmall",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/13/business/13jpBIGTECH/00BIGTECH1-hpSmall.jpg",
+        "height": 113,
+        "width": 163,
+        "legacy": {},
+        "subType": "hpSmall",
+        "crop_name": "hpSmall"
+      },
+      {
+        "rank": 0,
+        "subtype": "jumbo",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/13/business/13jpBIGTECH/00BIGTECH1-jumbo.jpg",
+        "height": 683,
+        "width": 1024,
+        "legacy": {},
+        "subType": "jumbo",
+        "crop_name": "jumbo"
+      },
+      {
+        "rank": 0,
+        "subtype": "largeHorizontal375",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/13/business/13jpBIGTECH/00BIGTECH1-largeHorizontal375.jpg",
+        "height": 250,
+        "width": 375,
+        "legacy": {},
+        "subType": "largeHorizontal375",
+        "crop_name": "largeHorizontal375"
+      },
+      {
+        "rank": 0,
+        "subtype": "largeHorizontalJumbo",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/13/business/13jpBIGTECH/00BIGTECH1-largeHorizontalJumbo.jpg",
+        "height": 683,
+        "width": 1024,
+        "legacy": {},
+        "subType": "largeHorizontalJumbo",
+        "crop_name": "largeHorizontalJumbo"
+      },
+      {
+        "rank": 0,
+        "subtype": "largeWidescreen573",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/13/business/13jpBIGTECH/00BIGTECH1-largeWidescreen573.jpg",
+        "height": 322,
+        "width": 573,
+        "legacy": {},
+        "subType": "largeWidescreen573",
+        "crop_name": "largeWidescreen573"
+      },
+      {
+        "rank": 0,
+        "subtype": "largeWidescreen1050",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/13/business/13jpBIGTECH/00BIGTECH1-largeWidescreen1050.jpg",
+        "height": 591,
+        "width": 1050,
+        "legacy": {},
+        "subType": "largeWidescreen1050",
+        "crop_name": "largeWidescreen1050"
+      },
+      {
+        "rank": 0,
+        "subtype": "master1050",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/13/business/13jpBIGTECH/00BIGTECH1-master1050.jpg",
+        "height": 700,
+        "width": 1050,
+        "legacy": {},
+        "subType": "master1050",
+        "crop_name": "master1050"
+      },
+      {
+        "rank": 0,
+        "subtype": "master180",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/13/business/13jpBIGTECH/00BIGTECH1-master180.jpg",
+        "height": 120,
+        "width": 180,
+        "legacy": {},
+        "subType": "master180",
+        "crop_name": "master180"
+      },
+      {
+        "rank": 0,
+        "subtype": "master315",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/13/business/13jpBIGTECH/00BIGTECH1-master315.jpg",
+        "height": 210,
+        "width": 315,
+        "legacy": {},
+        "subType": "master315",
+        "crop_name": "master315"
+      },
+      {
+        "rank": 0,
+        "subtype": "master495",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/13/business/13jpBIGTECH/00BIGTECH1-master495.jpg",
+        "height": 330,
+        "width": 495,
+        "legacy": {},
+        "subType": "master495",
+        "crop_name": "master495"
+      },
+      {
+        "rank": 0,
+        "subtype": "master768",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/13/business/13jpBIGTECH/00BIGTECH1-master768.jpg",
+        "height": 512,
+        "width": 768,
+        "legacy": {},
+        "subType": "master768",
+        "crop_name": "master768"
+      },
+      {
+        "rank": 0,
+        "subtype": "master675",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/13/business/13jpBIGTECH/00BIGTECH1-master675.jpg",
+        "height": 450,
+        "width": 675,
+        "legacy": {},
+        "subType": "master675",
+        "crop_name": "master675"
+      },
+      {
+        "rank": 0,
+        "subtype": "mediumFlexible177",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/13/business/13jpBIGTECH/00BIGTECH1-mediumFlexible177.jpg",
+        "height": 122,
+        "width": 177,
+        "legacy": {},
+        "subType": "mediumFlexible177",
+        "crop_name": "mediumFlexible177"
+      },
+      {
+        "rank": 0,
+        "subtype": "mediumSquare149",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/13/business/13jpBIGTECH/00BIGTECH1-mediumSquare149.jpg",
+        "height": 149,
+        "width": 149,
+        "legacy": {},
+        "subType": "mediumSquare149",
+        "crop_name": "mediumSquare149"
+      },
+      {
+        "rank": 0,
+        "subtype": "mediumThreeByTwo210",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/13/business/13jpBIGTECH/00BIGTECH1-mediumThreeByTwo210.jpg",
+        "height": 140,
+        "width": 210,
+        "legacy": {},
+        "subType": "mediumThreeByTwo210",
+        "crop_name": "mediumThreeByTwo210"
+      },
+      {
+        "rank": 0,
+        "subtype": "mediumThreeByTwo225",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/13/business/13jpBIGTECH/00BIGTECH1-mediumThreeByTwo225.jpg",
+        "height": 150,
+        "width": 225,
+        "legacy": {},
+        "subType": "mediumThreeByTwo225",
+        "crop_name": "mediumThreeByTwo225"
+      },
+      {
+        "rank": 0,
+        "subtype": "mediumThreeByTwo440",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/13/business/13jpBIGTECH/00BIGTECH1-mediumThreeByTwo440.jpg",
+        "height": 293,
+        "width": 440,
+        "legacy": {},
+        "subType": "mediumThreeByTwo440",
+        "crop_name": "mediumThreeByTwo440"
+      },
+      {
+        "rank": 0,
+        "subtype": "mediumThreeByTwo378",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/13/business/13jpBIGTECH/00BIGTECH1-mediumThreeByTwo378.jpg",
+        "height": 252,
+        "width": 378,
+        "legacy": {},
+        "subType": "mediumThreeByTwo378",
+        "crop_name": "mediumThreeByTwo378"
+      },
+      {
+        "rank": 0,
+        "subtype": "mediumThreeByTwo252",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/13/business/13jpBIGTECH/00BIGTECH1-mediumThreeByTwo252.jpg",
+        "height": 168,
+        "width": 252,
+        "legacy": {},
+        "subType": "mediumThreeByTwo252",
+        "crop_name": "mediumThreeByTwo252"
+      },
+      {
+        "rank": 0,
+        "subtype": "miniMoth",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/13/business/13jpBIGTECH/00BIGTECH1-miniMoth.jpg",
+        "height": 70,
+        "width": 151,
+        "legacy": {},
+        "subType": "miniMoth",
+        "crop_name": "miniMoth"
+      },
+      {
+        "rank": 0,
+        "subtype": "moth",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/13/business/13jpBIGTECH/00BIGTECH1-moth.jpg",
+        "height": 151,
+        "width": 151,
+        "legacy": {},
+        "subType": "moth",
+        "crop_name": "moth"
+      },
+      {
+        "rank": 0,
+        "subtype": "popup",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/13/business/13jpBIGTECH/00BIGTECH1-popup.jpg",
+        "height": 433,
+        "width": 650,
+        "legacy": {},
+        "subType": "popup",
+        "crop_name": "popup"
+      },
+      {
+        "rank": 0,
+        "subtype": "sfSpan",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/13/business/13jpBIGTECH/00BIGTECH1-sfSpan.jpg",
+        "height": 263,
+        "width": 395,
+        "legacy": {},
+        "subType": "sfSpan",
+        "crop_name": "sfSpan"
+      },
+      {
+        "rank": 0,
+        "subtype": "slide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/13/business/13jpBIGTECH/00BIGTECH1-slide.jpg",
+        "height": 400,
+        "width": 600,
+        "legacy": {},
+        "subType": "slide",
+        "crop_name": "slide"
+      },
+      {
+        "rank": 0,
+        "subtype": "smallSquare168",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/13/business/13jpBIGTECH/00BIGTECH1-smallSquare168.jpg",
+        "height": 168,
+        "width": 168,
+        "legacy": {},
+        "subType": "smallSquare168",
+        "crop_name": "smallSquare168"
+      },
+      {
+        "rank": 0,
+        "subtype": "smallSquare252",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/13/business/13jpBIGTECH/00BIGTECH1-smallSquare252.jpg",
+        "height": 252,
+        "width": 252,
+        "legacy": {},
+        "subType": "smallSquare252",
+        "crop_name": "smallSquare252"
+      },
+      {
+        "rank": 0,
+        "subtype": "square320",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/13/business/13jpBIGTECH/00BIGTECH1-square320.jpg",
+        "height": 320,
+        "width": 320,
+        "legacy": {},
+        "subType": "square320",
+        "crop_name": "square320"
+      },
+      {
+        "rank": 0,
+        "subtype": "square640",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/13/business/13jpBIGTECH/00BIGTECH1-square640.jpg",
+        "height": 640,
+        "width": 640,
+        "legacy": {},
+        "subType": "square640",
+        "crop_name": "square640"
+      },
+      {
+        "rank": 0,
+        "subtype": "superJumbo",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/13/business/13jpBIGTECH/00BIGTECH1-superJumbo.jpg",
+        "height": 1366,
+        "width": 2048,
+        "legacy": {},
+        "subType": "superJumbo",
+        "crop_name": "superJumbo"
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbLarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/13/business/13jpBIGTECH/00BIGTECH1-thumbLarge.jpg",
+        "height": 150,
+        "width": 150,
+        "legacy": {},
+        "subType": "thumbLarge",
+        "crop_name": "thumbLarge"
+      },
+      {
+        "rank": 0,
+        "subtype": "tmagArticle",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/13/business/13jpBIGTECH/00BIGTECH1-tmagArticle.jpg",
+        "height": 395,
+        "width": 592,
+        "legacy": {},
+        "subType": "tmagArticle",
+        "crop_name": "tmagArticle"
+      },
+      {
+        "rank": 0,
+        "subtype": "tmagSF",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/13/business/13jpBIGTECH/00BIGTECH1-tmagSF.jpg",
+        "height": 241,
+        "width": 362,
+        "legacy": {},
+        "subType": "tmagSF",
+        "crop_name": "tmagSF"
+      },
+      {
+        "rank": 0,
+        "subtype": "verticalTwoByThree735",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/13/business/13jpBIGTECH/00BIGTECH1-verticalTwoByThree735.jpg",
+        "height": 1103,
+        "width": 735,
+        "legacy": {},
+        "subType": "verticalTwoByThree735",
+        "crop_name": "verticalTwoByThree735"
+      },
+      {
+        "rank": 0,
+        "subtype": "videoFifteenBySeven1305",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/13/business/13jpBIGTECH/00BIGTECH1-videoFifteenBySeven1305.jpg",
+        "height": 609,
+        "width": 1305,
+        "legacy": {},
+        "subType": "videoFifteenBySeven1305",
+        "crop_name": "videoFifteenBySeven1305"
+      },
+      {
+        "rank": 0,
+        "subtype": "videoFifteenBySeven2610",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/13/business/13jpBIGTECH/00BIGTECH1-videoFifteenBySeven2610.jpg",
+        "height": 1218,
+        "width": 2610,
+        "legacy": {},
+        "subType": "videoFifteenBySeven2610",
+        "crop_name": "videoFifteenBySeven2610"
+      },
+      {
+        "rank": 0,
+        "subtype": "videoHpMedium",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/13/business/13jpBIGTECH/00BIGTECH1-videoHpMedium.jpg",
+        "height": 211,
+        "width": 375,
+        "legacy": {},
+        "subType": "videoHpMedium",
+        "crop_name": "videoHpMedium"
+      },
+      {
+        "rank": 0,
+        "subtype": "videoLarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/13/business/13jpBIGTECH/00BIGTECH1-videoLarge.jpg",
+        "height": 507,
+        "width": 768,
+        "legacy": {},
+        "subType": "videoLarge",
+        "crop_name": "videoLarge"
+      },
+      {
+        "rank": 0,
+        "subtype": "videoSixteenByNine1050",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/13/business/13jpBIGTECH/00BIGTECH1-videoSixteenByNine1050.jpg",
+        "height": 591,
+        "width": 1050,
+        "legacy": {},
+        "subType": "videoSixteenByNine1050",
+        "crop_name": "videoSixteenByNine1050"
+      },
+      {
+        "rank": 0,
+        "subtype": "videoSixteenByNine150",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/13/business/13jpBIGTECH/00BIGTECH1-videoSixteenByNine150.jpg",
+        "height": 84,
+        "width": 150,
+        "legacy": {},
+        "subType": "videoSixteenByNine150",
+        "crop_name": "videoSixteenByNine150"
+      },
+      {
+        "rank": 0,
+        "subtype": "videoSixteenByNine225",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/13/business/13jpBIGTECH/00BIGTECH1-videoSixteenByNine225.jpg",
+        "height": 126,
+        "width": 225,
+        "legacy": {},
+        "subType": "videoSixteenByNine225",
+        "crop_name": "videoSixteenByNine225"
+      },
+      {
+        "rank": 0,
+        "subtype": "videoSixteenByNine310",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/13/business/13jpBIGTECH/00BIGTECH1-videoSixteenByNine310.jpg",
+        "height": 174,
+        "width": 310,
+        "legacy": {},
+        "subType": "videoSixteenByNine310",
+        "crop_name": "videoSixteenByNine310"
+      },
+      {
+        "rank": 0,
+        "subtype": "videoSixteenByNine390",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/13/business/13jpBIGTECH/00BIGTECH1-videoSixteenByNine390.jpg",
+        "height": 219,
+        "width": 390,
+        "legacy": {},
+        "subType": "videoSixteenByNine390",
+        "crop_name": "videoSixteenByNine390"
+      },
+      {
+        "rank": 0,
+        "subtype": "videoSixteenByNine480",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/13/business/13jpBIGTECH/00BIGTECH1-videoSixteenByNine480.jpg",
+        "height": 270,
+        "width": 480,
+        "legacy": {},
+        "subType": "videoSixteenByNine480",
+        "crop_name": "videoSixteenByNine480"
+      },
+      {
+        "rank": 0,
+        "subtype": "videoSixteenByNine495",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/13/business/13jpBIGTECH/00BIGTECH1-videoSixteenByNine495.jpg",
+        "height": 278,
+        "width": 495,
+        "legacy": {},
+        "subType": "videoSixteenByNine495",
+        "crop_name": "videoSixteenByNine495"
+      },
+      {
+        "rank": 0,
+        "subtype": "videoSixteenByNine540",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/13/business/13jpBIGTECH/00BIGTECH1-videoSixteenByNine540.jpg",
+        "height": 304,
+        "width": 540,
+        "legacy": {},
+        "subType": "videoSixteenByNine540",
+        "crop_name": "videoSixteenByNine540"
+      },
+      {
+        "rank": 0,
+        "subtype": "videoSixteenByNine600",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/13/business/13jpBIGTECH/00BIGTECH1-videoSixteenByNine600.jpg",
+        "height": 338,
+        "width": 600,
+        "legacy": {},
+        "subType": "videoSixteenByNine600",
+        "crop_name": "videoSixteenByNine600"
+      },
+      {
+        "rank": 0,
+        "subtype": "videoSixteenByNine768",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/13/business/13jpBIGTECH/00BIGTECH1-videoSixteenByNine768.jpg",
+        "height": 432,
+        "width": 768,
+        "legacy": {},
+        "subType": "videoSixteenByNine768",
+        "crop_name": "videoSixteenByNine768"
+      },
+      {
+        "rank": 0,
+        "subtype": "videoSixteenByNine96",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/13/business/13jpBIGTECH/00BIGTECH1-videoSixteenByNine96.jpg",
+        "height": 54,
+        "width": 96,
+        "legacy": {},
+        "subType": "videoSixteenByNine96",
+        "crop_name": "videoSixteenByNine96"
+      },
+      {
+        "rank": 0,
+        "subtype": "videoSixteenByNineJumbo1600",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/13/business/13jpBIGTECH/00BIGTECH1-videoSixteenByNineJumbo1600.jpg",
+        "height": 900,
+        "width": 1600,
+        "legacy": {},
+        "subType": "videoSixteenByNineJumbo1600",
+        "crop_name": "videoSixteenByNineJumbo1600"
+      },
+      {
+        "rank": 0,
+        "subtype": "videoSmall",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/13/business/13jpBIGTECH/00BIGTECH1-videoSmall.jpg",
+        "height": 281,
+        "width": 500,
+        "legacy": {},
+        "subType": "videoSmall",
+        "crop_name": "videoSmall"
+      },
+      {
+        "rank": 0,
+        "subtype": "videoThumb",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/13/business/13jpBIGTECH/00BIGTECH1-videoThumb.jpg",
+        "height": 50,
+        "width": 75,
+        "legacy": {},
+        "subType": "videoThumb",
+        "crop_name": "videoThumb"
+      },
+      {
+        "rank": 0,
+        "subtype": "watch268",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/13/business/13jpBIGTECH/00BIGTECH1-watch268.jpg",
+        "height": 303,
+        "width": 272,
+        "legacy": {},
+        "subType": "watch268",
+        "crop_name": "watch268"
+      },
+      {
+        "rank": 0,
+        "subtype": "watch308",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/13/business/13jpBIGTECH/00BIGTECH1-watch308.jpg",
+        "height": 348,
+        "width": 312,
+        "legacy": {},
+        "subType": "watch308",
+        "crop_name": "watch308"
+      },
+      {
+        "rank": 0,
+        "subtype": "windowsTile336H",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/13/business/13jpBIGTECH/00BIGTECH1-windowsTile336H.jpg",
+        "height": 336,
+        "width": 694,
+        "legacy": {},
+        "subType": "windowsTile336H",
+        "crop_name": "windowsTile336H"
+      }
+    ],
+    "headline": {
+      "main": "Tech Giants, Once Seen as Saviors, Are Now Viewed as Threats",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Changing the World, but Not Quite the Way They Had Imagined",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Computers and the Internet",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Social Media",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Politics and Government",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Russian Interference in 2016 US Elections and Ties to Trump Associates",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Antitrust Laws and Competition Issues",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Amazon.com Inc",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Apple Inc",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Facebook Inc",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Twitter",
+        "rank": 9,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Google Inc",
+        "rank": 10,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2017-10-12T21:42:33+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By DAVID STREITFELD",
+      "person": [
+        {
+          "firstname": "David",
+          "middlename": null,
+          "lastname": "STREITFELD",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "59dfe1ce7c459f246b62e57b",
+    "word_count": 1378,
+    "score": 1.0,
+    "uri": "nyt://article/5a135e33-23cf-595a-b444-46991ad21d1d"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2017/10/12/world/middleeast/palestinians-fatah-hamas-gaza.html",
+    "snippet": "The agreement allows the Palestinian Authority to run Gaza, potentially ending a 10-year standoff, but leaves thorny issues unresolved.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/13/world/13Palestinian2/13Palestinian2-articleLarge.jpg",
+        "height": 400,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2017/10/13/world/13Palestinian2/13Palestinian2-articleLarge.jpg",
+          "xlargeheight": 400
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/13/world/13Palestinian2/13Palestinian2-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2017/10/13/world/13Palestinian2/13Palestinian2-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/13/world/13Palestinian2/13Palestinian2-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2017/10/13/world/13Palestinian2/13Palestinian2-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Unity Deal Offers Hope for Palestinians and a Respite for Gaza",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "In Unity Deal, Respite for Gaza And Optimism for Palestinians",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Gaza Strip",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Palestinians",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Hamas",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Fatah, Al",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Palestinian Authority",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Abbas, Mahmoud",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Israel",
+        "rank": 7,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2017-10-12T13:08:51+0000",
+    "document_type": "article",
+    "new_desk": "Foreign",
+    "section_name": "Middle East",
+    "byline": {
+      "original": "By DECLAN WALSH and DAVID M. HALBFINGER",
+      "person": [
+        {
+          "firstname": "Declan",
+          "middlename": null,
+          "lastname": "WALSH",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "David",
+          "middlename": null,
+          "lastname": null,
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "59df69787c459f246b62e3b5",
+    "word_count": 1368,
+    "score": 1.0,
+    "uri": "nyt://article/cee7c0c8-af9b-5f74-bd8e-8213330193e2"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2017/10/12/arts/television/netflix-mindhunter-review.html",
+    "snippet": "Where recent TV has fetishized serial killers as fascinating geniuses, the new Netflix series focuses on the quest to figure them out.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/13/arts/13mindhunterjp/13mindhunter-articleLarge.jpg",
+        "height": 400,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2017/10/13/arts/13mindhunterjp/13mindhunter-articleLarge.jpg",
+          "xlargeheight": 400
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/13/arts/13mindhunterjp/13mindhunter-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2017/10/13/arts/13mindhunterjp/13mindhunter-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/13/arts/13mindhunterjp/13mindhunter-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2017/10/13/arts/13mindhunterjp/13mindhunter-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Review: \u2018Mindhunter\u2019 on Netflix Is More Chatter Than Splatter",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Chatter, in Hopes of Preventing Splatter",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "organizations",
+        "value": "Netflix Inc",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Television",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "creative_works",
+        "value": "Mindhunter (TV Program)",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Groff, Jonathan",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "McCallany, Holt",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Fincher, David",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2017-10-12T14:36:51+0000",
+    "document_type": "article",
+    "new_desk": "Weekend",
+    "section_name": "Television",
+    "byline": {
+      "original": "By JAMES PONIEWOZIK",
+      "person": [
+        {
+          "firstname": "James",
+          "middlename": null,
+          "lastname": "PONIEWOZIK",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "Review",
+    "_id": "59df7e0e7c459f246b62e3fa",
+    "word_count": 745,
+    "score": 1.0,
+    "uri": "nyt://article/1499cb74-3cf5-5249-a119-0a283ea90e46"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2017/10/12/books/review/ron-chernow-ulysses-s-grant-biography-bill-clinton.html",
+    "snippet": "Ron Chernow\u2019s \u201cGrant\u201d gives us a Ulysses S. Grant for our times.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/15/books/review/1015-BKS-ClintonCVR/1015-BKS-ClintonCVR-articleLarge.jpg",
+        "height": 796,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2017/10/15/books/review/1015-BKS-ClintonCVR/1015-BKS-ClintonCVR-articleLarge.jpg",
+          "xlargeheight": 796
+        },
+        "subType": "xlarge",
+        "crop_name": "articleLarge"
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/15/books/review/1015-BKS-ClintonCVR/1015-BKS-ClintonCVR-thumbWide-v2.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2017/10/15/books/review/1015-BKS-ClintonCVR/1015-BKS-ClintonCVR-thumbWide-v2.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": "thumbWide"
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/15/books/review/1015-BKS-ClintonCVR/1015-BKS-ClintonCVR-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2017/10/15/books/review/1015-BKS-ClintonCVR/1015-BKS-ClintonCVR-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": "thumbStandard"
+      },
+      {
+        "rank": 0,
+        "subtype": "articleInline",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/15/books/review/1015-BKS-ClintonCVR/1015-BKS-ClintonCVR-articleInline.jpg",
+        "height": 241,
+        "width": 190,
+        "legacy": {},
+        "subType": "articleInline",
+        "crop_name": "articleInline"
+      },
+      {
+        "rank": 0,
+        "subtype": "blog225",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/15/books/review/1015-BKS-ClintonCVR/1015-BKS-ClintonCVR-blog225.jpg",
+        "height": 298,
+        "width": 225,
+        "legacy": {},
+        "subType": "blog225",
+        "crop_name": "blog225"
+      },
+      {
+        "rank": 0,
+        "subtype": "blog427",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/15/books/review/1015-BKS-ClintonCVR/1015-BKS-ClintonCVR-blog427.jpg",
+        "height": 566,
+        "width": 427,
+        "legacy": {},
+        "subType": "blog427",
+        "crop_name": "blog427"
+      },
+      {
+        "rank": 0,
+        "subtype": "blog480",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/15/books/review/1015-BKS-ClintonCVR/1015-BKS-ClintonCVR-blog480.jpg",
+        "height": 637,
+        "width": 480,
+        "legacy": {},
+        "subType": "blog480",
+        "crop_name": "blog480"
+      },
+      {
+        "rank": 0,
+        "subtype": "blog533",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/15/books/review/1015-BKS-ClintonCVR/1015-BKS-ClintonCVR-blog533.jpg",
+        "height": 707,
+        "width": 533,
+        "legacy": {},
+        "subType": "blog533",
+        "crop_name": "blog533"
+      },
+      {
+        "rank": 0,
+        "subtype": "blogSmallInline",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/15/books/review/1015-BKS-ClintonCVR/1015-BKS-ClintonCVR-blogSmallInline.jpg",
+        "height": 192,
+        "width": 151,
+        "legacy": {},
+        "subType": "blogSmallInline",
+        "crop_name": "blogSmallInline"
+      },
+      {
+        "rank": 0,
+        "subtype": "blogSmallThumb",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/15/books/review/1015-BKS-ClintonCVR/1015-BKS-ClintonCVR-blogSmallThumb.jpg",
+        "height": 50,
+        "width": 50,
+        "legacy": {},
+        "subType": "blogSmallThumb",
+        "crop_name": "blogSmallThumb"
+      },
+      {
+        "rank": 0,
+        "subtype": "facebookJumbo",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/15/books/review/1015-BKS-ClintonCVR/1015-BKS-ClintonCVR-facebookJumbo.jpg",
+        "height": 549,
+        "width": 1050,
+        "legacy": {},
+        "subType": "facebookJumbo",
+        "crop_name": "facebookJumbo"
+      },
+      {
+        "rank": 0,
+        "subtype": "filmstrip",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/15/books/review/1015-BKS-ClintonCVR/1015-BKS-ClintonCVR-filmstrip.jpg",
+        "height": 190,
+        "width": 190,
+        "legacy": {},
+        "subType": "filmstrip",
+        "crop_name": "filmstrip"
+      },
+      {
+        "rank": 0,
+        "subtype": "hpLarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/15/books/review/1015-BKS-ClintonCVR/1015-BKS-ClintonCVR-hpLarge.jpg",
+        "height": 287,
+        "width": 511,
+        "legacy": {},
+        "subType": "hpLarge",
+        "crop_name": "hpLarge"
+      },
+      {
+        "rank": 0,
+        "subtype": "hpSmall",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/15/books/review/1015-BKS-ClintonCVR/1015-BKS-ClintonCVR-hpSmall.jpg",
+        "height": 207,
+        "width": 163,
+        "legacy": {},
+        "subType": "hpSmall",
+        "crop_name": "hpSmall"
+      },
+      {
+        "rank": 0,
+        "subtype": "jumbo",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/15/books/review/1015-BKS-ClintonCVR/1015-BKS-ClintonCVR-jumbo.jpg",
+        "height": 1024,
+        "width": 773,
+        "legacy": {},
+        "subType": "jumbo",
+        "crop_name": "jumbo"
+      },
+      {
+        "rank": 0,
+        "subtype": "largeHorizontal375",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/15/books/review/1015-BKS-ClintonCVR/1015-BKS-ClintonCVR-largeHorizontal375.jpg",
+        "height": 250,
+        "width": 375,
+        "legacy": {},
+        "subType": "largeHorizontal375",
+        "crop_name": "largeHorizontal375"
+      },
+      {
+        "rank": 0,
+        "subtype": "largeHorizontalJumbo",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/15/books/review/1015-BKS-ClintonCVR/1015-BKS-ClintonCVR-largeHorizontalJumbo.jpg",
+        "height": 683,
+        "width": 1024,
+        "legacy": {},
+        "subType": "largeHorizontalJumbo",
+        "crop_name": "largeHorizontalJumbo"
+      },
+      {
+        "rank": 0,
+        "subtype": "largeWidescreen573",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/15/books/review/1015-BKS-ClintonCVR/1015-BKS-ClintonCVR-largeWidescreen573.jpg",
+        "height": 322,
+        "width": 573,
+        "legacy": {},
+        "subType": "largeWidescreen573",
+        "crop_name": "largeWidescreen573"
+      },
+      {
+        "rank": 0,
+        "subtype": "largeWidescreen1050",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/15/books/review/1015-BKS-ClintonCVR/1015-BKS-ClintonCVR-largeWidescreen1050.jpg",
+        "height": 590,
+        "width": 1050,
+        "legacy": {},
+        "subType": "largeWidescreen1050",
+        "crop_name": "largeWidescreen1050"
+      },
+      {
+        "rank": 0,
+        "subtype": "master1050",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/15/books/review/1015-BKS-ClintonCVR/1015-BKS-ClintonCVR-master1050.jpg",
+        "height": 1393,
+        "width": 1050,
+        "legacy": {},
+        "subType": "master1050",
+        "crop_name": "master1050"
+      },
+      {
+        "rank": 0,
+        "subtype": "master180",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/15/books/review/1015-BKS-ClintonCVR/1015-BKS-ClintonCVR-master180.jpg",
+        "height": 239,
+        "width": 180,
+        "legacy": {},
+        "subType": "master180",
+        "crop_name": "master180"
+      },
+      {
+        "rank": 0,
+        "subtype": "master315",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/15/books/review/1015-BKS-ClintonCVR/1015-BKS-ClintonCVR-master315.jpg",
+        "height": 418,
+        "width": 315,
+        "legacy": {},
+        "subType": "master315",
+        "crop_name": "master315"
+      },
+      {
+        "rank": 0,
+        "subtype": "master495",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/15/books/review/1015-BKS-ClintonCVR/1015-BKS-ClintonCVR-master495.jpg",
+        "height": 657,
+        "width": 495,
+        "legacy": {},
+        "subType": "master495",
+        "crop_name": "master495"
+      },
+      {
+        "rank": 0,
+        "subtype": "master768",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/15/books/review/1015-BKS-ClintonCVR/1015-BKS-ClintonCVR-master768.jpg",
+        "height": 1019,
+        "width": 768,
+        "legacy": {},
+        "subType": "master768",
+        "crop_name": "master768"
+      },
+      {
+        "rank": 0,
+        "subtype": "master675",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/15/books/review/1015-BKS-ClintonCVR/1015-BKS-ClintonCVR-master675.jpg",
+        "height": 895,
+        "width": 675,
+        "legacy": {},
+        "subType": "master675",
+        "crop_name": "master675"
+      },
+      {
+        "rank": 0,
+        "subtype": "mediumFlexible177",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/15/books/review/1015-BKS-ClintonCVR/1015-BKS-ClintonCVR-mediumFlexible177.jpg",
+        "height": 225,
+        "width": 177,
+        "legacy": {},
+        "subType": "mediumFlexible177",
+        "crop_name": "mediumFlexible177"
+      },
+      {
+        "rank": 0,
+        "subtype": "mediumSquare149",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/15/books/review/1015-BKS-ClintonCVR/1015-BKS-ClintonCVR-mediumSquare149.jpg",
+        "height": 149,
+        "width": 149,
+        "legacy": {},
+        "subType": "mediumSquare149",
+        "crop_name": "mediumSquare149"
+      },
+      {
+        "rank": 0,
+        "subtype": "mediumThreeByTwo210",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/15/books/review/1015-BKS-ClintonCVR/1015-BKS-ClintonCVR-mediumThreeByTwo210-v2.jpg",
+        "height": 140,
+        "width": 210,
+        "legacy": {},
+        "subType": "mediumThreeByTwo210",
+        "crop_name": "mediumThreeByTwo210"
+      },
+      {
+        "rank": 0,
+        "subtype": "mediumThreeByTwo225",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/15/books/review/1015-BKS-ClintonCVR/1015-BKS-ClintonCVR-mediumThreeByTwo225-v2.jpg",
+        "height": 150,
+        "width": 225,
+        "legacy": {},
+        "subType": "mediumThreeByTwo225",
+        "crop_name": "mediumThreeByTwo225"
+      },
+      {
+        "rank": 0,
+        "subtype": "mediumThreeByTwo440",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/15/books/review/1015-BKS-ClintonCVR/1015-BKS-ClintonCVR-mediumThreeByTwo440-v2.jpg",
+        "height": 293,
+        "width": 440,
+        "legacy": {},
+        "subType": "mediumThreeByTwo440",
+        "crop_name": "mediumThreeByTwo440"
+      },
+      {
+        "rank": 0,
+        "subtype": "mediumThreeByTwo378",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/15/books/review/1015-BKS-ClintonCVR/1015-BKS-ClintonCVR-mediumThreeByTwo378-v2.jpg",
+        "height": 252,
+        "width": 378,
+        "legacy": {},
+        "subType": "mediumThreeByTwo378",
+        "crop_name": "mediumThreeByTwo378"
+      },
+      {
+        "rank": 0,
+        "subtype": "mediumThreeByTwo252",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/15/books/review/1015-BKS-ClintonCVR/1015-BKS-ClintonCVR-mediumThreeByTwo252-v2.jpg",
+        "height": 168,
+        "width": 252,
+        "legacy": {},
+        "subType": "mediumThreeByTwo252",
+        "crop_name": "mediumThreeByTwo252"
+      },
+      {
+        "rank": 0,
+        "subtype": "miniMoth",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/15/books/review/1015-BKS-ClintonCVR/1015-BKS-ClintonCVR-miniMoth.jpg",
+        "height": 70,
+        "width": 151,
+        "legacy": {},
+        "subType": "miniMoth",
+        "crop_name": "miniMoth"
+      },
+      {
+        "rank": 0,
+        "subtype": "moth",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/15/books/review/1015-BKS-ClintonCVR/1015-BKS-ClintonCVR-moth.jpg",
+        "height": 151,
+        "width": 151,
+        "legacy": {},
+        "subType": "moth",
+        "crop_name": "moth"
+      },
+      {
+        "rank": 0,
+        "subtype": "popup",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/15/books/review/1015-BKS-ClintonCVR/1015-BKS-ClintonCVR-popup.jpg",
+        "height": 500,
+        "width": 377,
+        "legacy": {},
+        "subType": "popup",
+        "crop_name": "popup"
+      },
+      {
+        "rank": 0,
+        "subtype": "sfSpan",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/15/books/review/1015-BKS-ClintonCVR/1015-BKS-ClintonCVR-sfSpan.jpg",
+        "height": 263,
+        "width": 395,
+        "legacy": {},
+        "subType": "sfSpan",
+        "crop_name": "sfSpan"
+      },
+      {
+        "rank": 0,
+        "subtype": "slide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/15/books/review/1015-BKS-ClintonCVR/1015-BKS-ClintonCVR-slide.jpg",
+        "height": 500,
+        "width": 377,
+        "legacy": {},
+        "subType": "slide",
+        "crop_name": "slide"
+      },
+      {
+        "rank": 0,
+        "subtype": "smallSquare168",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/15/books/review/1015-BKS-ClintonCVR/1015-BKS-ClintonCVR-smallSquare168.jpg",
+        "height": 168,
+        "width": 168,
+        "legacy": {},
+        "subType": "smallSquare168",
+        "crop_name": "smallSquare168"
+      },
+      {
+        "rank": 0,
+        "subtype": "smallSquare252",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/15/books/review/1015-BKS-ClintonCVR/1015-BKS-ClintonCVR-smallSquare252.jpg",
+        "height": 252,
+        "width": 252,
+        "legacy": {},
+        "subType": "smallSquare252",
+        "crop_name": "smallSquare252"
+      },
+      {
+        "rank": 0,
+        "subtype": "square320",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/15/books/review/1015-BKS-ClintonCVR/1015-BKS-ClintonCVR-square320.jpg",
+        "height": 320,
+        "width": 320,
+        "legacy": {},
+        "subType": "square320",
+        "crop_name": "square320"
+      },
+      {
+        "rank": 0,
+        "subtype": "square640",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/15/books/review/1015-BKS-ClintonCVR/1015-BKS-ClintonCVR-square640.jpg",
+        "height": 640,
+        "width": 640,
+        "legacy": {},
+        "subType": "square640",
+        "crop_name": "square640"
+      },
+      {
+        "rank": 0,
+        "subtype": "superJumbo",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/15/books/review/1015-BKS-ClintonCVR/1015-BKS-ClintonCVR-superJumbo.jpg",
+        "height": 2048,
+        "width": 1545,
+        "legacy": {},
+        "subType": "superJumbo",
+        "crop_name": "superJumbo"
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbLarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/15/books/review/1015-BKS-ClintonCVR/1015-BKS-ClintonCVR-thumbLarge.jpg",
+        "height": 150,
+        "width": 150,
+        "legacy": {},
+        "subType": "thumbLarge",
+        "crop_name": "thumbLarge"
+      },
+      {
+        "rank": 0,
+        "subtype": "tmagArticle",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/15/books/review/1015-BKS-ClintonCVR/1015-BKS-ClintonCVR-tmagArticle.jpg",
+        "height": 785,
+        "width": 592,
+        "legacy": {},
+        "subType": "tmagArticle",
+        "crop_name": "tmagArticle"
+      },
+      {
+        "rank": 0,
+        "subtype": "tmagSF",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/15/books/review/1015-BKS-ClintonCVR/1015-BKS-ClintonCVR-tmagSF.jpg",
+        "height": 480,
+        "width": 362,
+        "legacy": {},
+        "subType": "tmagSF",
+        "crop_name": "tmagSF"
+      },
+      {
+        "rank": 0,
+        "subtype": "verticalTwoByThree735",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/15/books/review/1015-BKS-ClintonCVR/1015-BKS-ClintonCVR-verticalTwoByThree735.jpg",
+        "height": 1103,
+        "width": 735,
+        "legacy": {},
+        "subType": "verticalTwoByThree735",
+        "crop_name": "verticalTwoByThree735"
+      },
+      {
+        "rank": 0,
+        "subtype": "videoFifteenBySeven1305",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/15/books/review/1015-BKS-ClintonCVR/1015-BKS-ClintonCVR-videoFifteenBySeven1305.jpg",
+        "height": 609,
+        "width": 1305,
+        "legacy": {},
+        "subType": "videoFifteenBySeven1305",
+        "crop_name": "videoFifteenBySeven1305"
+      },
+      {
+        "rank": 0,
+        "subtype": "videoHpMedium",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/15/books/review/1015-BKS-ClintonCVR/1015-BKS-ClintonCVR-videoHpMedium.jpg",
+        "height": 211,
+        "width": 375,
+        "legacy": {},
+        "subType": "videoHpMedium",
+        "crop_name": "videoHpMedium"
+      },
+      {
+        "rank": 0,
+        "subtype": "videoLarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/15/books/review/1015-BKS-ClintonCVR/1015-BKS-ClintonCVR-videoLarge-v2.jpg",
+        "height": 507,
+        "width": 768,
+        "legacy": {},
+        "subType": "videoLarge",
+        "crop_name": "videoLarge"
+      },
+      {
+        "rank": 0,
+        "subtype": "videoSixteenByNine1050",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/15/books/review/1015-BKS-ClintonCVR/1015-BKS-ClintonCVR-videoSixteenByNine1050.jpg",
+        "height": 591,
+        "width": 1050,
+        "legacy": {},
+        "subType": "videoSixteenByNine1050",
+        "crop_name": "videoSixteenByNine1050"
+      },
+      {
+        "rank": 0,
+        "subtype": "videoSixteenByNine150",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/15/books/review/1015-BKS-ClintonCVR/1015-BKS-ClintonCVR-videoSixteenByNine150.jpg",
+        "height": 84,
+        "width": 150,
+        "legacy": {},
+        "subType": "videoSixteenByNine150",
+        "crop_name": "videoSixteenByNine150"
+      },
+      {
+        "rank": 0,
+        "subtype": "videoSixteenByNine225",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/15/books/review/1015-BKS-ClintonCVR/1015-BKS-ClintonCVR-videoSixteenByNine225.jpg",
+        "height": 126,
+        "width": 225,
+        "legacy": {},
+        "subType": "videoSixteenByNine225",
+        "crop_name": "videoSixteenByNine225"
+      },
+      {
+        "rank": 0,
+        "subtype": "videoSixteenByNine310",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/15/books/review/1015-BKS-ClintonCVR/1015-BKS-ClintonCVR-videoSixteenByNine310.jpg",
+        "height": 174,
+        "width": 310,
+        "legacy": {},
+        "subType": "videoSixteenByNine310",
+        "crop_name": "videoSixteenByNine310"
+      },
+      {
+        "rank": 0,
+        "subtype": "videoSixteenByNine390",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/15/books/review/1015-BKS-ClintonCVR/1015-BKS-ClintonCVR-videoSixteenByNine390.jpg",
+        "height": 219,
+        "width": 390,
+        "legacy": {},
+        "subType": "videoSixteenByNine390",
+        "crop_name": "videoSixteenByNine390"
+      },
+      {
+        "rank": 0,
+        "subtype": "videoSixteenByNine480",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/15/books/review/1015-BKS-ClintonCVR/1015-BKS-ClintonCVR-videoSixteenByNine480.jpg",
+        "height": 270,
+        "width": 480,
+        "legacy": {},
+        "subType": "videoSixteenByNine480",
+        "crop_name": "videoSixteenByNine480"
+      },
+      {
+        "rank": 0,
+        "subtype": "videoSixteenByNine495",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/15/books/review/1015-BKS-ClintonCVR/1015-BKS-ClintonCVR-videoSixteenByNine495.jpg",
+        "height": 278,
+        "width": 495,
+        "legacy": {},
+        "subType": "videoSixteenByNine495",
+        "crop_name": "videoSixteenByNine495"
+      },
+      {
+        "rank": 0,
+        "subtype": "videoSixteenByNine540",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/15/books/review/1015-BKS-ClintonCVR/1015-BKS-ClintonCVR-videoSixteenByNine540.jpg",
+        "height": 304,
+        "width": 540,
+        "legacy": {},
+        "subType": "videoSixteenByNine540",
+        "crop_name": "videoSixteenByNine540"
+      },
+      {
+        "rank": 0,
+        "subtype": "videoSixteenByNine600",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/15/books/review/1015-BKS-ClintonCVR/1015-BKS-ClintonCVR-videoSixteenByNine600.jpg",
+        "height": 338,
+        "width": 600,
+        "legacy": {},
+        "subType": "videoSixteenByNine600",
+        "crop_name": "videoSixteenByNine600"
+      },
+      {
+        "rank": 0,
+        "subtype": "videoSixteenByNine768",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/15/books/review/1015-BKS-ClintonCVR/1015-BKS-ClintonCVR-videoSixteenByNine768.jpg",
+        "height": 432,
+        "width": 768,
+        "legacy": {},
+        "subType": "videoSixteenByNine768",
+        "crop_name": "videoSixteenByNine768"
+      },
+      {
+        "rank": 0,
+        "subtype": "videoSixteenByNine96",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/15/books/review/1015-BKS-ClintonCVR/1015-BKS-ClintonCVR-videoSixteenByNine96.jpg",
+        "height": 54,
+        "width": 96,
+        "legacy": {},
+        "subType": "videoSixteenByNine96",
+        "crop_name": "videoSixteenByNine96"
+      },
+      {
+        "rank": 0,
+        "subtype": "videoSixteenByNineJumbo1600",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/15/books/review/1015-BKS-ClintonCVR/1015-BKS-ClintonCVR-videoSixteenByNineJumbo1600.jpg",
+        "height": 900,
+        "width": 1600,
+        "legacy": {},
+        "subType": "videoSixteenByNineJumbo1600",
+        "crop_name": "videoSixteenByNineJumbo1600"
+      },
+      {
+        "rank": 0,
+        "subtype": "videoSmall",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/15/books/review/1015-BKS-ClintonCVR/1015-BKS-ClintonCVR-videoSmall.jpg",
+        "height": 281,
+        "width": 500,
+        "legacy": {},
+        "subType": "videoSmall",
+        "crop_name": "videoSmall"
+      },
+      {
+        "rank": 0,
+        "subtype": "videoThumb",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/15/books/review/1015-BKS-ClintonCVR/1015-BKS-ClintonCVR-videoThumb-v2.jpg",
+        "height": 50,
+        "width": 75,
+        "legacy": {},
+        "subType": "videoThumb",
+        "crop_name": "videoThumb"
+      },
+      {
+        "rank": 0,
+        "subtype": "watch268",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/15/books/review/1015-BKS-ClintonCVR/1015-BKS-ClintonCVR-watch268.jpg",
+        "height": 303,
+        "width": 272,
+        "legacy": {},
+        "subType": "watch268",
+        "crop_name": "watch268"
+      },
+      {
+        "rank": 0,
+        "subtype": "watch308",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/15/books/review/1015-BKS-ClintonCVR/1015-BKS-ClintonCVR-watch308.jpg",
+        "height": 348,
+        "width": 312,
+        "legacy": {},
+        "subType": "watch308",
+        "crop_name": "watch308"
+      },
+      {
+        "rank": 0,
+        "subtype": "windowsTile336H",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/15/books/review/1015-BKS-ClintonCVR/1015-BKS-ClintonCVR-windowsTile336H.jpg",
+        "height": 336,
+        "width": 694,
+        "legacy": {},
+        "subType": "windowsTile336H",
+        "crop_name": "windowsTile336H"
+      }
+    ],
+    "headline": {
+      "main": "President Clinton Looks Back at President Grant",
+      "kicker": "Nonfiction",
+      "content_kicker": "Nonfiction",
+      "print_headline": "The Unlikely Grant",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Books and Literature",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Grant, Ulysses S",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "creative_works",
+        "value": "Grant (Book)",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Chernow, Ron",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2017-10-12T16:30:16+0000",
+    "document_type": "article",
+    "new_desk": "BookReview",
+    "section_name": "Book Review",
+    "byline": {
+      "original": "By BILL CLINTON",
+      "person": [
+        {
+          "firstname": "Bill",
+          "middlename": null,
+          "lastname": "CLINTON",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "Review",
+    "_id": "59df98ab7c459f246b62e465",
+    "word_count": 1904,
+    "score": 1.0,
+    "uri": "nyt://article/766a1a37-5568-5c09-83e8-c3bee260c6b5"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2017/10/12/health/condoms-penis-size.html",
+    "snippet": "Men have long complained about how condoms fit. Now a manufacturer is selling condoms in 60 sizes, in combinations of 10 lengths and nine circumferences.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/17/science/17SCI-CONDOMS1/17SCI-CONDOMS1-articleLarge.jpg",
+        "height": 400,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2017/10/17/science/17SCI-CONDOMS1/17SCI-CONDOMS1-articleLarge.jpg",
+          "xlargeheight": 400
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/17/science/17SCI-CONDOMS1/17SCI-CONDOMS1-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2017/10/17/science/17SCI-CONDOMS1/17SCI-CONDOMS1-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/17/science/17SCI-CONDOMS1/17SCI-CONDOMS1-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2017/10/17/science/17SCI-CONDOMS1/17SCI-CONDOMS1-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "A Condom-Maker\u2019s Discovery: Size Matters",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "A Condom Maker\u2019s Discovery: Size Matters",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Condoms",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Birth Control and Family Planning",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Sex",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Global Protection Corp",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2017-10-12T19:43:30+0000",
+    "document_type": "article",
+    "new_desk": "Science",
+    "byline": {
+      "original": "By PAM BELLUCK",
+      "person": [
+        {
+          "firstname": "Pam",
+          "middlename": null,
+          "lastname": "BELLUCK",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "59dfc5eb7c459f246b62e4f8",
+    "word_count": 1354,
+    "score": 1.0,
+    "uri": "nyt://article/d3764b83-5689-57c2-81fe-17be1bbb44d0"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2017/10/12/nyregion/uber-taxis-new-york-city.html",
+    "snippet": "The ride-sharing app has recently shifted its focus to the city\u2019s other boroughs, leading it to a milestone: More people are using Uber than the city\u2019s fabled yellow cabs.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/13/nyregion/00nyuber17/00nyuber17-articleLarge.jpg",
+        "height": 400,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2017/10/13/nyregion/00nyuber17/00nyuber17-articleLarge.jpg",
+          "xlargeheight": 400
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/13/nyregion/00nyuber17/00nyuber17-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2017/10/13/nyregion/00nyuber17/00nyuber17-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/13/nyregion/00nyuber17/00nyuber17-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2017/10/13/nyregion/00nyuber17/00nyuber17-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Uber, Surging Outside Manhattan, Tops Taxis in New York City",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Uber, Booming In the Boroughs, Passes City Taxis",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "organizations",
+        "value": "Uber Technologies Inc",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Car Services and Livery Cabs",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Mobile Applications",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Taxicabs and Taxicab Drivers",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Lyft Inc",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Via Transportation Inc",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "New York City",
+        "rank": 7,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2017-10-12T23:07:34+0000",
+    "document_type": "article",
+    "new_desk": "Metro",
+    "byline": {
+      "original": "By WINNIE HU",
+      "person": [
+        {
+          "firstname": "Winnie",
+          "middlename": null,
+          "lastname": "HU",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "59dff5cd7c459f246b62e5b2",
+    "word_count": 1660,
+    "score": 1.0,
+    "uri": "nyt://article/e431fa32-5836-5b56-8c26-4580691a0781"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2017/10/12/business/economy/nfl-players-kneeling-national-anthem-labor-laws.html",
+    "snippet": "In a debate over how far workers can go in banding together without retribution by their employers, many experts say showing solidarity is a legal right.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/12/business/12LABOR-02/12LABOR-02-articleLarge.jpg",
+        "height": 396,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2017/10/12/business/12LABOR-02/12LABOR-02-articleLarge.jpg",
+          "xlargeheight": 396
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/12/business/12LABOR-02/12LABOR-02-thumbWide-v2.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2017/10/12/business/12LABOR-02/12LABOR-02-thumbWide-v2.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/12/business/12LABOR-02/12LABOR-02-thumbStandard-v2.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2017/10/12/business/12LABOR-02/12LABOR-02-thumbStandard-v2.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "N.F.L. Players May Have an Ally in Their Protests: Labor Law",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "N.F.L. Players Who Protest Have an Ally In Labor Law",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Organized Labor",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States National Anthem Protests (2016- )",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Football",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "National Labor Relations Board",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "National Football League",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Law and Legislation",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Workplace Hazards and Violations",
+        "rank": 7,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2017-10-12T17:34:14+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "section_name": "Economy",
+    "byline": {
+      "original": "By NOAM SCHEIBER",
+      "person": [
+        {
+          "firstname": "Noam",
+          "middlename": null,
+          "lastname": "SCHEIBER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "59dfa7a27c459f246b62e492",
+    "word_count": 1247,
+    "score": 1.0,
+    "uri": "nyt://article/55c8fb64-1ea4-5ae3-8d1c-7078609ba6e7"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2017/10/11/business/harvey-weinstein-sexual-harassment.html",
+    "snippet": "It takes more than a determined reporter to win against the aggressive flacks and lawyers who work for powerful executives.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/12/us/12RUTENBERG-harvey/12RUTENBERG-harvey-articleLarge.jpg",
+        "height": 380,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2017/10/12/us/12RUTENBERG-harvey/12RUTENBERG-harvey-articleLarge.jpg",
+          "xlargeheight": 380
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/12/us/12RUTENBERG-harvey/12RUTENBERG-harvey-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2017/10/12/us/12RUTENBERG-harvey/12RUTENBERG-harvey-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/12/us/12RUTENBERG-harvey/12RUTENBERG-harvey-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2017/10/12/us/12RUTENBERG-harvey/12RUTENBERG-harvey-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Facing Down the Network That Protected Harvey Weinstein",
+      "kicker": "Mediator",
+      "content_kicker": "Mediator",
+      "print_headline": "Taking On a Movie Mogul\u2019s Web of Protection",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "News and News Media",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Sex Crimes",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Weinstein Co",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Weinstein, Harvey",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "New York Times",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "New Yorker",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2017-10-12T00:44:55+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By JIM RUTENBERG",
+      "person": [
+        {
+          "firstname": "Jim",
+          "middlename": null,
+          "lastname": "RUTENBERG",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "59debb177c459f246b62e21d",
+    "word_count": 1175,
+    "score": 1.0,
+    "uri": "nyt://article/f8dffb0a-ac66-555d-8925-346e05051f60"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2017/10/12/us/politics/trump-obamacare-executive-order-health-insurance.html",
+    "snippet": "The White House said President Trump was scrapping health insurance subsidies, and he signed a separate order allowing the sale of cheaper polices with fewer benefits.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/13/us/13dchealth-alpha/13dchealth-alpha-articleLarge.jpg",
+        "height": 402,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2017/10/13/us/13dchealth-alpha/13dchealth-alpha-articleLarge.jpg",
+          "xlargeheight": 402
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/13/us/13dchealth-alpha/13dchealth-alpha-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2017/10/13/us/13dchealth-alpha/13dchealth-alpha-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/13/us/13dchealth-alpha/13dchealth-alpha-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2017/10/13/us/13dchealth-alpha/13dchealth-alpha-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Trump to Scrap Critical Health Care Subsidies, Hitting Obamacare Again",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "President Ending Health Subsidies For Poor People",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Patient Protection and Affordable Care Act (2010)",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Health Insurance and Managed Care",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Trump, Donald J",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Politics and Government",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Executive Orders and Memorandums",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2017-10-12T15:48:34+0000",
+    "document_type": "article",
+    "new_desk": "Washington",
+    "section_name": "Politics",
+    "byline": {
+      "original": "By ROBERT PEAR, MAGGIE HABERMAN and REED ABELSON",
+      "person": [
+        {
+          "firstname": "Robert",
+          "middlename": null,
+          "lastname": "PEAR",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Maggie",
+          "middlename": null,
+          "lastname": "HABERMAN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        },
+        {
+          "firstname": "Reed",
+          "middlename": null,
+          "lastname": "ABELSON",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 3
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "59df8eda7c459f246b62e441",
+    "word_count": 1857,
+    "score": 1.0,
+    "uri": "nyt://article/cbea3b22-a34d-5830-be56-32d66c775117"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2017/10/11/arts/television/mr-robot-season-3-premiere-sam-esmail.html",
+    "snippet": "The creator of the USA techno-thriller discusses the new season, which began on Wednesday.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/12/arts/television/12robot/12robot-articleLarge.jpg",
+        "height": 400,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2017/10/12/arts/television/12robot/12robot-articleLarge.jpg",
+          "xlargeheight": 400
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/12/arts/television/12robot/12robot-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2017/10/12/arts/television/12robot/12robot-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/12/arts/television/12robot/12robot-thumbStandard-v2.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2017/10/12/arts/television/12robot/12robot-thumbStandard-v2.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "\u2018Mr. Robot\u2019 Season 3 Premiere: Sam Esmail on Parallel Universes and President Trump",
+      "kicker": "Ask a Showrunner",
+      "content_kicker": "Ask a Showrunner",
+      "print_headline": "\u2018Mr. Robot\u2019 Enters a New Sphere",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Television",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "USA Network",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Esmail, Sam",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "creative_works",
+        "value": "Mr Robot (TV Program)",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Trump, Donald J",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Malek, Rami (1981- )",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2017-10-12T03:11:33+0000",
+    "document_type": "article",
+    "new_desk": "Culture",
+    "section_name": "Television",
+    "byline": {
+      "original": "By JEREMY EGNER",
+      "person": [
+        {
+          "firstname": "Jeremy",
+          "middlename": null,
+          "lastname": "EGNER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "Interview",
+    "_id": "59dedd6d7c459f246b62e244",
+    "word_count": 1529,
+    "score": 1.0,
+    "uri": "nyt://article/d11e5a61-ea7a-5d67-84b9-13dd3acdecab"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2017/10/12/well/move/training-for-the-marathon-on-1-3-legs.html",
+    "snippet": "The strangers who cheer me on can\u2019t know that once, even walking a few blocks was a major accomplishment.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/11/science/11BLADE/well-blade-articleLarge.jpg",
+        "height": 400,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2017/10/11/science/11BLADE/well-blade-articleLarge.jpg",
+          "xlargeheight": 400
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/11/science/11BLADE/well-blade-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2017/10/11/science/11BLADE/well-blade-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/11/science/11BLADE/well-blade-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2017/10/11/science/11BLADE/well-blade-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Training for the Marathon on 1.3 Legs",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Running 26.2 Miles on 1.3 Legs,  And Leaving Heartache Behind",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Amputation",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Prostheses",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "New York City Marathon",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Marathon Running",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Legs",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2017-10-12T10:00:02+0000",
+    "document_type": "article",
+    "new_desk": "Sports",
+    "byline": {
+      "original": "By KRYSTEN CHAMBROT",
+      "person": [
+        {
+          "firstname": "Krysten",
+          "middlename": null,
+          "lastname": "CHAMBROT",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "59df3d2a7c459f246b62e31e",
+    "word_count": 838,
+    "score": 1.0,
+    "uri": "nyt://article/566bdd72-fc20-5ec5-bfa0-ed05b06d222d"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2017/10/12/us/politics/trump-warns-puerto-rico-weeks-after-storms-federal-help-cannot-stay-forever.html",
+    "snippet": "Tweets that partly blamed Puerto Rico for the crisis set off alarms on the island and sent the president\u2019s aides scrambling to reassure its residents.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/13/us/13dc-trump1/13dc-trump1-articleLarge.jpg",
+        "height": 400,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2017/10/13/us/13dc-trump1/13dc-trump1-articleLarge.jpg",
+          "xlargeheight": 400
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/13/us/13dc-trump1/13dc-trump1-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2017/10/13/us/13dc-trump1/13dc-trump1-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/13/us/13dc-trump1/13dc-trump1-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2017/10/13/us/13dc-trump1/13dc-trump1-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Trump Warns Storm-Ravaged Puerto Rico That Aid Won\u2019t Last \u2018Forever\u2019",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Aid Won\u2019t Last, Trump Warns Puerto Ricans",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Puerto Rico",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Hurricane Maria (2017)",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Federal Emergency Management Agency",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Defense and Military Forces",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Disasters and Emergencies",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Trump, Donald J",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Politics and Government",
+        "rank": 7,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2017-10-12T12:41:49+0000",
+    "document_type": "article",
+    "new_desk": "Washington",
+    "section_name": "Politics",
+    "byline": {
+      "original": "By PETER BAKER and CAITLIN DICKERSON",
+      "person": [
+        {
+          "firstname": "Peter",
+          "middlename": null,
+          "lastname": "BAKER",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Caitlin",
+          "middlename": null,
+          "lastname": "DICKERSON",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "59df63287c459f246b62e39e",
+    "word_count": 1375,
+    "score": 1.0,
+    "uri": "nyt://article/e82c7c22-d74e-551c-b79a-9e76fa2250e2"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2017/10/11/business/weinstein-company.html",
+    "snippet": "As the company seeks to distance itself from Harvey Weinstein, there are conflicting accounts about what it knew and how it responded.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/12/us/12Weinstein1/12Weinstein1-articleLarge.jpg",
+        "height": 422,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2017/10/12/us/12Weinstein1/12Weinstein1-articleLarge.jpg",
+          "xlargeheight": 422
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/12/us/12Weinstein1/12Weinstein1-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2017/10/12/us/12Weinstein1/12Weinstein1-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/12/us/12Weinstein1/12Weinstein1-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2017/10/12/us/12Weinstein1/12Weinstein1-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Weinstein Company Was Aware of Payouts in 2015",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Studio Aware Of Settlements Two Years Ago",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Weinstein, Harvey",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Sexual Harassment",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Weinstein Co",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Weinstein, Bob",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Glasser, David (1971- )",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Boies, David",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Boards of Directors",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Movies",
+        "rank": 8,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2017-10-12T00:31:59+0000",
+    "document_type": "article",
+    "new_desk": "Investigative",
+    "byline": {
+      "original": "By MEGAN TWOHEY",
+      "person": [
+        {
+          "firstname": "Megan",
+          "middlename": null,
+          "lastname": "TWOHEY",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "59deb8197c459f246b62e217",
+    "word_count": 1265,
+    "score": 1.0,
+    "uri": "nyt://article/7ae1de8a-34ca-5094-b58a-89122ee14d09"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2017/10/12/sports/olympics/baron-olympics-hitler-liechtenstein.html",
+    "snippet": "\u201cWhere is your recorder?\u201d Baron Eduard von Falz-Fein said. \u201cBe sure it is on.\u201d Because he had a lot to tell about the Olympic movement.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/11/sports/11BARONweb1-alt/11BARONweb1-alt-articleLarge.jpg",
+        "height": 572,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2017/10/11/sports/11BARONweb1-alt/11BARONweb1-alt-articleLarge.jpg",
+          "xlargeheight": 572
+        },
+        "subType": "xlarge",
+        "crop_name": "articleLarge"
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/11/sports/11BARONweb1-alt/11BARONweb1-alt-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2017/10/11/sports/11BARONweb1-alt/11BARONweb1-alt-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": "thumbWide"
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/11/sports/11BARONweb1-alt/11BARONweb1-alt-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2017/10/11/sports/11BARONweb1-alt/11BARONweb1-alt-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": "thumbStandard"
+      },
+      {
+        "rank": 0,
+        "subtype": "articleInline",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/11/sports/11BARONweb1-alt/11BARONweb1-alt-articleInline.jpg",
+        "height": 181,
+        "width": 190,
+        "legacy": {},
+        "subType": "articleInline",
+        "crop_name": "articleInline"
+      },
+      {
+        "rank": 0,
+        "subtype": "blog225",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/11/sports/11BARONweb1-alt/11BARONweb1-alt-blog225.jpg",
+        "height": 214,
+        "width": 225,
+        "legacy": {},
+        "subType": "blog225",
+        "crop_name": "blog225"
+      },
+      {
+        "rank": 0,
+        "subtype": "blog427",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/11/sports/11BARONweb1-alt/11BARONweb1-alt-blog427.jpg",
+        "height": 407,
+        "width": 427,
+        "legacy": {},
+        "subType": "blog427",
+        "crop_name": "blog427"
+      },
+      {
+        "rank": 0,
+        "subtype": "blog480",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/11/sports/11BARONweb1-alt/11BARONweb1-alt-blog480.jpg",
+        "height": 457,
+        "width": 480,
+        "legacy": {},
+        "subType": "blog480",
+        "crop_name": "blog480"
+      },
+      {
+        "rank": 0,
+        "subtype": "blog533",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/11/sports/11BARONweb1-alt/11BARONweb1-alt-blog533.jpg",
+        "height": 508,
+        "width": 533,
+        "legacy": {},
+        "subType": "blog533",
+        "crop_name": "blog533"
+      },
+      {
+        "rank": 0,
+        "subtype": "blogSmallInline",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/11/sports/11BARONweb1-alt/11BARONweb1-alt-blogSmallInline.jpg",
+        "height": 144,
+        "width": 151,
+        "legacy": {},
+        "subType": "blogSmallInline",
+        "crop_name": "blogSmallInline"
+      },
+      {
+        "rank": 0,
+        "subtype": "blogSmallThumb",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/11/sports/11BARONweb1-alt/11BARONweb1-alt-blogSmallThumb.jpg",
+        "height": 50,
+        "width": 50,
+        "legacy": {},
+        "subType": "blogSmallThumb",
+        "crop_name": "blogSmallThumb"
+      },
+      {
+        "rank": 0,
+        "subtype": "facebookJumbo",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/11/sports/11BARONweb1-alt/11BARONweb1-alt-facebookJumbo.jpg",
+        "height": 549,
+        "width": 1050,
+        "legacy": {},
+        "subType": "facebookJumbo",
+        "crop_name": "facebookJumbo"
+      },
+      {
+        "rank": 0,
+        "subtype": "filmstrip",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/11/sports/11BARONweb1-alt/11BARONweb1-alt-filmstrip.jpg",
+        "height": 190,
+        "width": 190,
+        "legacy": {},
+        "subType": "filmstrip",
+        "crop_name": "filmstrip"
+      },
+      {
+        "rank": 0,
+        "subtype": "hpLarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/11/sports/11BARONweb1-alt/11BARONweb1-alt-hpLarge.jpg",
+        "height": 287,
+        "width": 511,
+        "legacy": {},
+        "subType": "hpLarge",
+        "crop_name": "hpLarge"
+      },
+      {
+        "rank": 0,
+        "subtype": "hpSmall",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/11/sports/11BARONweb1-alt/11BARONweb1-alt-hpSmall.jpg",
+        "height": 155,
+        "width": 163,
+        "legacy": {},
+        "subType": "hpSmall",
+        "crop_name": "hpSmall"
+      },
+      {
+        "rank": 0,
+        "subtype": "jumbo",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/11/sports/11BARONweb1-alt/11BARONweb1-alt-jumbo.jpg",
+        "height": 975,
+        "width": 1024,
+        "legacy": {},
+        "subType": "jumbo",
+        "crop_name": "jumbo"
+      },
+      {
+        "rank": 0,
+        "subtype": "largeHorizontal375",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/11/sports/11BARONweb1-alt/11BARONweb1-alt-largeHorizontal375.jpg",
+        "height": 250,
+        "width": 375,
+        "legacy": {},
+        "subType": "largeHorizontal375",
+        "crop_name": "largeHorizontal375"
+      },
+      {
+        "rank": 0,
+        "subtype": "largeHorizontalJumbo",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/11/sports/11BARONweb1-alt/11BARONweb1-alt-largeHorizontalJumbo.jpg",
+        "height": 682,
+        "width": 1024,
+        "legacy": {},
+        "subType": "largeHorizontalJumbo",
+        "crop_name": "largeHorizontalJumbo"
+      },
+      {
+        "rank": 0,
+        "subtype": "largeWidescreen573",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/11/sports/11BARONweb1-alt/11BARONweb1-alt-largeWidescreen573.jpg",
+        "height": 322,
+        "width": 573,
+        "legacy": {},
+        "subType": "largeWidescreen573",
+        "crop_name": "largeWidescreen573"
+      },
+      {
+        "rank": 0,
+        "subtype": "largeWidescreen1050",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/11/sports/11BARONweb1-alt/11BARONweb1-alt-largeWidescreen1050.jpg",
+        "height": 590,
+        "width": 1050,
+        "legacy": {},
+        "subType": "largeWidescreen1050",
+        "crop_name": "largeWidescreen1050"
+      },
+      {
+        "rank": 0,
+        "subtype": "master1050",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/11/sports/11BARONweb1-alt/11BARONweb1-alt-master1050.jpg",
+        "height": 1000,
+        "width": 1050,
+        "legacy": {},
+        "subType": "master1050",
+        "crop_name": "master1050"
+      },
+      {
+        "rank": 0,
+        "subtype": "master180",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/11/sports/11BARONweb1-alt/11BARONweb1-alt-master180.jpg",
+        "height": 171,
+        "width": 180,
+        "legacy": {},
+        "subType": "master180",
+        "crop_name": "master180"
+      },
+      {
+        "rank": 0,
+        "subtype": "master315",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/11/sports/11BARONweb1-alt/11BARONweb1-alt-master315.jpg",
+        "height": 300,
+        "width": 315,
+        "legacy": {},
+        "subType": "master315",
+        "crop_name": "master315"
+      },
+      {
+        "rank": 0,
+        "subtype": "master495",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/11/sports/11BARONweb1-alt/11BARONweb1-alt-master495.jpg",
+        "height": 471,
+        "width": 495,
+        "legacy": {},
+        "subType": "master495",
+        "crop_name": "master495"
+      },
+      {
+        "rank": 0,
+        "subtype": "master768",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/11/sports/11BARONweb1-alt/11BARONweb1-alt-master768.jpg",
+        "height": 732,
+        "width": 768,
+        "legacy": {},
+        "subType": "master768",
+        "crop_name": "master768"
+      },
+      {
+        "rank": 0,
+        "subtype": "master675",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/11/sports/11BARONweb1-alt/11BARONweb1-alt-master675.jpg",
+        "height": 643,
+        "width": 675,
+        "legacy": {},
+        "subType": "master675",
+        "crop_name": "master675"
+      },
+      {
+        "rank": 0,
+        "subtype": "mediumFlexible177",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/11/sports/11BARONweb1-alt/11BARONweb1-alt-mediumFlexible177.jpg",
+        "height": 169,
+        "width": 177,
+        "legacy": {},
+        "subType": "mediumFlexible177",
+        "crop_name": "mediumFlexible177"
+      },
+      {
+        "rank": 0,
+        "subtype": "mediumSquare149",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/11/sports/11BARONweb1-alt/11BARONweb1-alt-mediumSquare149.jpg",
+        "height": 149,
+        "width": 149,
+        "legacy": {},
+        "subType": "mediumSquare149",
+        "crop_name": "mediumSquare149"
+      },
+      {
+        "rank": 0,
+        "subtype": "mediumThreeByTwo210",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/11/sports/11BARONweb1-alt/11BARONweb1-alt-mediumThreeByTwo210.jpg",
+        "height": 140,
+        "width": 210,
+        "legacy": {},
+        "subType": "mediumThreeByTwo210",
+        "crop_name": "mediumThreeByTwo210"
+      },
+      {
+        "rank": 0,
+        "subtype": "mediumThreeByTwo225",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/11/sports/11BARONweb1-alt/11BARONweb1-alt-mediumThreeByTwo225.jpg",
+        "height": 150,
+        "width": 225,
+        "legacy": {},
+        "subType": "mediumThreeByTwo225",
+        "crop_name": "mediumThreeByTwo225"
+      },
+      {
+        "rank": 0,
+        "subtype": "mediumThreeByTwo440",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/11/sports/11BARONweb1-alt/11BARONweb1-alt-mediumThreeByTwo440.jpg",
+        "height": 293,
+        "width": 440,
+        "legacy": {},
+        "subType": "mediumThreeByTwo440",
+        "crop_name": "mediumThreeByTwo440"
+      },
+      {
+        "rank": 0,
+        "subtype": "mediumThreeByTwo378",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/11/sports/11BARONweb1-alt/11BARONweb1-alt-mediumThreeByTwo378.jpg",
+        "height": 252,
+        "width": 378,
+        "legacy": {},
+        "subType": "mediumThreeByTwo378",
+        "crop_name": "mediumThreeByTwo378"
+      },
+      {
+        "rank": 0,
+        "subtype": "mediumThreeByTwo252",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/11/sports/11BARONweb1-alt/11BARONweb1-alt-mediumThreeByTwo252.jpg",
+        "height": 168,
+        "width": 252,
+        "legacy": {},
+        "subType": "mediumThreeByTwo252",
+        "crop_name": "mediumThreeByTwo252"
+      },
+      {
+        "rank": 0,
+        "subtype": "miniMoth",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/11/sports/11BARONweb1-alt/11BARONweb1-alt-miniMoth.jpg",
+        "height": 70,
+        "width": 151,
+        "legacy": {},
+        "subType": "miniMoth",
+        "crop_name": "miniMoth"
+      },
+      {
+        "rank": 0,
+        "subtype": "moth",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/11/sports/11BARONweb1-alt/11BARONweb1-alt-moth.jpg",
+        "height": 151,
+        "width": 151,
+        "legacy": {},
+        "subType": "moth",
+        "crop_name": "moth"
+      },
+      {
+        "rank": 0,
+        "subtype": "popup",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/11/sports/11BARONweb1-alt/11BARONweb1-alt-popup.jpg",
+        "height": 500,
+        "width": 525,
+        "legacy": {},
+        "subType": "popup",
+        "crop_name": "popup"
+      },
+      {
+        "rank": 0,
+        "subtype": "sfSpan",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/11/sports/11BARONweb1-alt/11BARONweb1-alt-sfSpan.jpg",
+        "height": 263,
+        "width": 395,
+        "legacy": {},
+        "subType": "sfSpan",
+        "crop_name": "sfSpan"
+      },
+      {
+        "rank": 0,
+        "subtype": "slide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/11/sports/11BARONweb1-alt/11BARONweb1-alt-slide.jpg",
+        "height": 500,
+        "width": 525,
+        "legacy": {},
+        "subType": "slide",
+        "crop_name": "slide"
+      },
+      {
+        "rank": 0,
+        "subtype": "smallSquare168",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/11/sports/11BARONweb1-alt/11BARONweb1-alt-smallSquare168.jpg",
+        "height": 168,
+        "width": 168,
+        "legacy": {},
+        "subType": "smallSquare168",
+        "crop_name": "smallSquare168"
+      },
+      {
+        "rank": 0,
+        "subtype": "smallSquare252",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/11/sports/11BARONweb1-alt/11BARONweb1-alt-smallSquare252.jpg",
+        "height": 252,
+        "width": 252,
+        "legacy": {},
+        "subType": "smallSquare252",
+        "crop_name": "smallSquare252"
+      },
+      {
+        "rank": 0,
+        "subtype": "square320",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/11/sports/11BARONweb1-alt/11BARONweb1-alt-square320.jpg",
+        "height": 320,
+        "width": 320,
+        "legacy": {},
+        "subType": "square320",
+        "crop_name": "square320"
+      },
+      {
+        "rank": 0,
+        "subtype": "square640",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/11/sports/11BARONweb1-alt/11BARONweb1-alt-square640.jpg",
+        "height": 640,
+        "width": 640,
+        "legacy": {},
+        "subType": "square640",
+        "crop_name": "square640"
+      },
+      {
+        "rank": 0,
+        "subtype": "superJumbo",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/11/sports/11BARONweb1-alt/11BARONweb1-alt-superJumbo.jpg",
+        "height": 1905,
+        "width": 2000,
+        "legacy": {},
+        "subType": "superJumbo",
+        "crop_name": "superJumbo"
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbLarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/11/sports/11BARONweb1-alt/11BARONweb1-alt-thumbLarge.jpg",
+        "height": 150,
+        "width": 150,
+        "legacy": {},
+        "subType": "thumbLarge",
+        "crop_name": "thumbLarge"
+      },
+      {
+        "rank": 0,
+        "subtype": "tmagArticle",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/11/sports/11BARONweb1-alt/11BARONweb1-alt-tmagArticle.jpg",
+        "height": 564,
+        "width": 592,
+        "legacy": {},
+        "subType": "tmagArticle",
+        "crop_name": "tmagArticle"
+      },
+      {
+        "rank": 0,
+        "subtype": "tmagSF",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/11/sports/11BARONweb1-alt/11BARONweb1-alt-tmagSF.jpg",
+        "height": 345,
+        "width": 362,
+        "legacy": {},
+        "subType": "tmagSF",
+        "crop_name": "tmagSF"
+      },
+      {
+        "rank": 0,
+        "subtype": "verticalTwoByThree735",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/11/sports/11BARONweb1-alt/11BARONweb1-alt-verticalTwoByThree735.jpg",
+        "height": 1103,
+        "width": 735,
+        "legacy": {},
+        "subType": "verticalTwoByThree735",
+        "crop_name": "verticalTwoByThree735"
+      },
+      {
+        "rank": 0,
+        "subtype": "videoFifteenBySeven1305",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/11/sports/11BARONweb1-alt/11BARONweb1-alt-videoFifteenBySeven1305.jpg",
+        "height": 609,
+        "width": 1305,
+        "legacy": {},
+        "subType": "videoFifteenBySeven1305",
+        "crop_name": "videoFifteenBySeven1305"
+      },
+      {
+        "rank": 0,
+        "subtype": "videoHpMedium",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/11/sports/11BARONweb1-alt/11BARONweb1-alt-videoHpMedium.jpg",
+        "height": 211,
+        "width": 375,
+        "legacy": {},
+        "subType": "videoHpMedium",
+        "crop_name": "videoHpMedium"
+      },
+      {
+        "rank": 0,
+        "subtype": "videoLarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/11/sports/11BARONweb1-alt/11BARONweb1-alt-videoLarge.jpg",
+        "height": 507,
+        "width": 768,
+        "legacy": {},
+        "subType": "videoLarge",
+        "crop_name": "videoLarge"
+      },
+      {
+        "rank": 0,
+        "subtype": "videoSixteenByNine1050",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/11/sports/11BARONweb1-alt/11BARONweb1-alt-videoSixteenByNine1050.jpg",
+        "height": 591,
+        "width": 1050,
+        "legacy": {},
+        "subType": "videoSixteenByNine1050",
+        "crop_name": "videoSixteenByNine1050"
+      },
+      {
+        "rank": 0,
+        "subtype": "videoSixteenByNine150",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/11/sports/11BARONweb1-alt/11BARONweb1-alt-videoSixteenByNine150.jpg",
+        "height": 84,
+        "width": 150,
+        "legacy": {},
+        "subType": "videoSixteenByNine150",
+        "crop_name": "videoSixteenByNine150"
+      },
+      {
+        "rank": 0,
+        "subtype": "videoSixteenByNine225",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/11/sports/11BARONweb1-alt/11BARONweb1-alt-videoSixteenByNine225.jpg",
+        "height": 126,
+        "width": 225,
+        "legacy": {},
+        "subType": "videoSixteenByNine225",
+        "crop_name": "videoSixteenByNine225"
+      },
+      {
+        "rank": 0,
+        "subtype": "videoSixteenByNine310",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/11/sports/11BARONweb1-alt/11BARONweb1-alt-videoSixteenByNine310.jpg",
+        "height": 174,
+        "width": 310,
+        "legacy": {},
+        "subType": "videoSixteenByNine310",
+        "crop_name": "videoSixteenByNine310"
+      },
+      {
+        "rank": 0,
+        "subtype": "videoSixteenByNine390",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/11/sports/11BARONweb1-alt/11BARONweb1-alt-videoSixteenByNine390.jpg",
+        "height": 219,
+        "width": 390,
+        "legacy": {},
+        "subType": "videoSixteenByNine390",
+        "crop_name": "videoSixteenByNine390"
+      },
+      {
+        "rank": 0,
+        "subtype": "videoSixteenByNine480",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/11/sports/11BARONweb1-alt/11BARONweb1-alt-videoSixteenByNine480.jpg",
+        "height": 270,
+        "width": 480,
+        "legacy": {},
+        "subType": "videoSixteenByNine480",
+        "crop_name": "videoSixteenByNine480"
+      },
+      {
+        "rank": 0,
+        "subtype": "videoSixteenByNine495",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/11/sports/11BARONweb1-alt/11BARONweb1-alt-videoSixteenByNine495.jpg",
+        "height": 278,
+        "width": 495,
+        "legacy": {},
+        "subType": "videoSixteenByNine495",
+        "crop_name": "videoSixteenByNine495"
+      },
+      {
+        "rank": 0,
+        "subtype": "videoSixteenByNine540",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/11/sports/11BARONweb1-alt/11BARONweb1-alt-videoSixteenByNine540.jpg",
+        "height": 304,
+        "width": 540,
+        "legacy": {},
+        "subType": "videoSixteenByNine540",
+        "crop_name": "videoSixteenByNine540"
+      },
+      {
+        "rank": 0,
+        "subtype": "videoSixteenByNine600",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/11/sports/11BARONweb1-alt/11BARONweb1-alt-videoSixteenByNine600.jpg",
+        "height": 338,
+        "width": 600,
+        "legacy": {},
+        "subType": "videoSixteenByNine600",
+        "crop_name": "videoSixteenByNine600"
+      },
+      {
+        "rank": 0,
+        "subtype": "videoSixteenByNine768",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/11/sports/11BARONweb1-alt/11BARONweb1-alt-videoSixteenByNine768.jpg",
+        "height": 432,
+        "width": 768,
+        "legacy": {},
+        "subType": "videoSixteenByNine768",
+        "crop_name": "videoSixteenByNine768"
+      },
+      {
+        "rank": 0,
+        "subtype": "videoSixteenByNine96",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/11/sports/11BARONweb1-alt/11BARONweb1-alt-videoSixteenByNine96.jpg",
+        "height": 54,
+        "width": 96,
+        "legacy": {},
+        "subType": "videoSixteenByNine96",
+        "crop_name": "videoSixteenByNine96"
+      },
+      {
+        "rank": 0,
+        "subtype": "videoSixteenByNineJumbo1600",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/11/sports/11BARONweb1-alt/11BARONweb1-alt-videoSixteenByNineJumbo1600.jpg",
+        "height": 899,
+        "width": 1600,
+        "legacy": {},
+        "subType": "videoSixteenByNineJumbo1600",
+        "crop_name": "videoSixteenByNineJumbo1600"
+      },
+      {
+        "rank": 0,
+        "subtype": "videoSmall",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/11/sports/11BARONweb1-alt/11BARONweb1-alt-videoSmall.jpg",
+        "height": 281,
+        "width": 500,
+        "legacy": {},
+        "subType": "videoSmall",
+        "crop_name": "videoSmall"
+      },
+      {
+        "rank": 0,
+        "subtype": "videoThumb",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/11/sports/11BARONweb1-alt/11BARONweb1-alt-videoThumb.jpg",
+        "height": 50,
+        "width": 75,
+        "legacy": {},
+        "subType": "videoThumb",
+        "crop_name": "videoThumb"
+      },
+      {
+        "rank": 0,
+        "subtype": "watch268",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/11/sports/11BARONweb1-alt/11BARONweb1-alt-watch268.jpg",
+        "height": 303,
+        "width": 272,
+        "legacy": {},
+        "subType": "watch268",
+        "crop_name": "watch268"
+      },
+      {
+        "rank": 0,
+        "subtype": "watch308",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/11/sports/11BARONweb1-alt/11BARONweb1-alt-watch308.jpg",
+        "height": 348,
+        "width": 312,
+        "legacy": {},
+        "subType": "watch308",
+        "crop_name": "watch308"
+      },
+      {
+        "rank": 0,
+        "subtype": "windowsTile336H",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/11/sports/11BARONweb1-alt/11BARONweb1-alt-windowsTile336H.jpg",
+        "height": 336,
+        "width": 694,
+        "legacy": {},
+        "subType": "windowsTile336H",
+        "crop_name": "windowsTile336H"
+      }
+    ],
+    "headline": {
+      "main": "A Seat Near Hitler, and Other Olympic Tales From the Baron, 105",
+      "kicker": "On Olympics",
+      "content_kicker": "On Olympics",
+      "print_headline": "A Seat Near Hitler and Other Olympic Tales From the Baron",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "von Falz-Fein, Eduard",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Olympic Games",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Liechtenstein",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Alpine Skiing",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2017-10-12T13:35:22+0000",
+    "document_type": "article",
+    "new_desk": "Sports",
+    "section_name": "Olympics",
+    "byline": {
+      "original": "By JER\u00c9 LONGMAN",
+      "person": [
+        {
+          "firstname": "Jer\u00e9",
+          "middlename": null,
+          "lastname": "LONGMAN",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "59df6fab7c459f246b62e3c8",
+    "word_count": 1552,
+    "score": 1.0,
+    "uri": "nyt://article/71742067-21b8-59f6-a8bc-632634c2dfe9"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2017/10/12/technology/sheryl-sandberg-facebook-ads.html",
+    "snippet": "Ms. Sandberg visited Washington, acting as the tech giant\u2019s chief ambassador while trying to contain a spiraling public relations crisis.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/13/business/13sheryl1/13sheryl1-articleLarge.jpg",
+        "height": 400,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2017/10/13/business/13sheryl1/13sheryl1-articleLarge.jpg",
+          "xlargeheight": 400
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/13/business/13sheryl1/13sheryl1-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2017/10/13/business/13sheryl1/13sheryl1-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/13/business/13sheryl1/13sheryl1-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2017/10/13/business/13sheryl1/13sheryl1-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "Sheryl Sandberg Blitzes Washington in P.R. Push for Facebook",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Facebook  Executive  Continues A P.R. Blitz",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Sandberg, Sheryl K",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Facebook Inc",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Online Advertising",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Russian Interference in 2016 US Elections and Ties to Trump Associates",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States Politics and Government",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2017-10-12T14:42:17+0000",
+    "document_type": "article",
+    "new_desk": "Business",
+    "byline": {
+      "original": "By CECILIA KANG",
+      "person": [
+        {
+          "firstname": "Cecilia",
+          "middlename": null,
+          "lastname": "KANG",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "59df7f5d7c459f246b62e3ff",
+    "word_count": 996,
+    "score": 1.0,
+    "uri": "nyt://article/40f1c961-f483-5644-894a-ae4a1f077171"
+  },
+  {
+    "web_url": "https://www.nytimes.com/2017/10/12/nyregion/adem-bunkeddeko-city-politics-envigorate.html",
+    "snippet": "The talent pool in New York can seem endless, except when it comes to civic life, as the current election season, with its lack of bright lights, shows.",
+    "print_page": "1",
+    "blog": {},
+    "source": "The New York Times",
+    "multimedia": [
+      {
+        "rank": 0,
+        "subtype": "xlarge",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/15/nyregion/15BIG2/15BIG-articleLarge.jpg",
+        "height": 400,
+        "width": 600,
+        "legacy": {
+          "xlargewidth": 600,
+          "xlarge": "images/2017/10/15/nyregion/15BIG2/15BIG-articleLarge.jpg",
+          "xlargeheight": 400
+        },
+        "subType": "xlarge",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "wide",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/15/nyregion/15BIG2/15BIG-thumbWide.jpg",
+        "height": 126,
+        "width": 190,
+        "legacy": {
+          "wide": "images/2017/10/15/nyregion/15BIG2/15BIG-thumbWide.jpg",
+          "widewidth": 190,
+          "wideheight": 126
+        },
+        "subType": "wide",
+        "crop_name": null
+      },
+      {
+        "rank": 0,
+        "subtype": "thumbnail",
+        "caption": null,
+        "credit": null,
+        "type": "image",
+        "url": "images/2017/10/15/nyregion/15BIG2/15BIG-thumbStandard.jpg",
+        "height": 75,
+        "width": 75,
+        "legacy": {
+          "thumbnailheight": 75,
+          "thumbnail": "images/2017/10/15/nyregion/15BIG2/15BIG-thumbStandard.jpg",
+          "thumbnailwidth": 75
+        },
+        "subType": "thumbnail",
+        "crop_name": null
+      }
+    ],
+    "headline": {
+      "main": "In a Superstar City, Lackluster Politics",
+      "kicker": "Big City",
+      "content_kicker": "Big City",
+      "print_headline": "Signs of Malaise In City Politics",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Politics and Government",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Debates (Political)",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Elections, District Attorneys",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Campaign Finance",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Democratic Party",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Clarke, Yvette D",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Grimm, Michael G",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Malliotakis, Nicole",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Ravitch, Richard",
+        "rank": 9,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Vance, Cyrus R",
+        "rank": 10,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "de Blasio, Bill",
+        "rank": 11,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "New York City",
+        "rank": 12,
+        "major": "N"
+      }
+    ],
+    "pub_date": "2017-10-12T21:13:17+0000",
+    "document_type": "article",
+    "new_desk": "Metropolitan",
+    "byline": {
+      "original": "By GINIA BELLAFANTE",
+      "person": [
+        {
+          "firstname": "Ginia",
+          "middlename": null,
+          "lastname": "BELLAFANTE",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "59e110047c459f246b62e8ae",
+    "word_count": 900,
+    "score": 1.0,
+    "uri": "nyt://article/c1d97ccf-7b1e-5419-ae6e-c2b685dfda98"
+  }
+]
