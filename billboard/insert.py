@@ -13,61 +13,50 @@ label = sa.Table('label', sa.MetaData(),
                  sa.Column('id', sa.Integer),
                  sa.Column('name', sa.Text))
 
-s = sa.sql.select([label.c.id]).where(label.c.name == 'Billboard Hot 100')
 conn = get_db_conn()
+# ins = label.insert().values(name='Billboard')
+# conn.execute(ins)
+
+
+s = sa.sql.select([label.c.id]).where(label.c.name == 'Billboard')
+
 result = conn.execute(s)
-event_label_id = result.fetchone()['id']
 
-# ins = label.insert().values(name='Billboard Hot 100')
+try:
+    event_label_id = result.fetchone()['id']
+except:
+    ins = label.insert().values(name='Billboard')
+    conn.execute(ins)
+    result = conn.execute(s)
+    event_label_id = result.fetchone()['id']
 
+metadata = sa.MetaData()
 
-# result2 = conn.execute(ins)
-
-event = sa.Table('event', sa.MetaData(),
+event = sa.Table('event', metadata,
                  sa.Column('id', sa.Integer),
                  sa.Column('timestamp', sa.DateTime),
                  sa.Column('title', sa.Text),
+                 sa.Column('text', sa.Text),
+                 sa.Column('link', sa.Text),
                  sa.Column('label_id', sa.Integer))
 
+for filename in os.listdir('archive'):
+    with open('archive/' + filename) as in_file:
 
-with open('data_2018.json') as infile:
+        data = json.load(in_file)
+        for eventsObj in data:
+            event_date = eventsObj["date"]
+            event_title = eventsObj["entries"][0]["title"]
+            event_artist = eventsObj["entries"][0]["artist"]
+            event_weeks = eventsObj["entries"][0]["weeks"]
 
-    data = json.load(infile)
-    for eventsObj in data:
-        event_date = eventsObj["date"]
-        event_title = eventsObj["entries"][0]["title"]
-        event_artist = eventsObj["entries"][0]["artist"]
+            ins = event.insert().values(timestamp=event_date,
+                                        title=event_title + ' by ' + event_artist,
+                                        text=event_title + " was on the Billboard charts for " +
+                                        str(event_weeks) + " weeks.",
+                                        link='https://www.youtube.com/results?search_query=' +
+                                        event_title.replace(
+                                            " ", "+") + '+' + event_artist.replace(" ", "+"),
+                                        label_id=event_label_id)
 
-        ins = event.insert().values(timestamp=event_date,
-                                    title=event_title + ' by ' + event_artist,
-                                    label_id=event_label_id)
-
-        result = conn.execute(ins)
-
-# def get_label_id_from_name(name):
-#     label_table = sa.table('label', sa.column(
-#         'id', sa.Integer), sa.column('name', sa.Text))
-#     s = sa.sql.select([label_table.c.id, label_table.c.name]
-#                       ).where(label_table.c.name == name)
-#     conn = get_db_conn()
-#     result = conn.execute(s)
-#     return result.fetchone()['id']
-
-#  event_table = sa.table('event',
-#                            sa.column('timestamp', sa.DateTime),
-#                            sa.column('title', sa.Text),
-#                            sa.column('text', sa.Text),
-#                            sa.column('link', sa.Text),
-#                            sa.column('label_id', sa.Integer)
-#                            )
-#     label_id = get_label_id_from_name('New York Times')
-#     data = []
-#     for filename in os.listdir('nyt/archive'):
-#         with open('nyt/archive/'+filename) as infile:
-#             data.extend(json.load(infile))
-#     mapped_data = list(map(lambda x: {'timestamp': x['pub_date'], 'title': x['headline']
-#                                       ['print_headline'], 'text': x['snippet'], 'link': x['web_url'], 'label_id': label_id}, data))
-#     op.bulk_insert(
-#         event_table,
-#         mapped_data
-#     )
+            result = conn.execute(ins)
