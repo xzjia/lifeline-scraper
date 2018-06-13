@@ -23,6 +23,7 @@ META_DATA = {
 }
 
 BUCKET_NAME = 'lifeline-cc4'
+JSON_PATH = 'nyt/archive_month/'
 
 s3 = boto3.client('s3')
 
@@ -100,7 +101,7 @@ def get_json_content(bucket, file_key):
     # obj = s3.get_object(Bucket=BUCKET_NAME, Key=file_key)
     # json_obj = json.load(obj['Body'])
     res = None
-    with open('nyt/archive/' + file_key) as infile:
+    with open(JSON_PATH + file_key) as infile:
         res = json.load(infile)
     return res
 
@@ -169,7 +170,7 @@ def main():
     for key, value in META_DATA.items():
         label_id = get_label_id_from_name(conn, key)
         # for json_key in list(get_matching_s3_keys(BUCKET_NAME, prefix=key, suffix='json')):
-        for json_key in os.listdir('nyt/archive'):
+        for json_key in os.listdir(JSON_PATH):
             # target_date = datetime.strptime(json_key, '{}/%Y-%m-%d.json'.format(key))
             target_date = datetime.strptime(json_key, '%Y-%m-%d.json')
             events = get_existing_events(

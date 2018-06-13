@@ -130,7 +130,7 @@ class NYT(object):
 def main():
     # n = NYT(1990, 1, 1, 2013, 12, 31, 'nyt/archive')
     # n = NYT(2018, 6, 7, 2018, 6, 12, 'nyt/archive', 'day')
-    n = NYT(2006, 1, 1, 2006, 12, 31, 'nyt/archive_month', 'month')
+    n = NYT(1950, 1, 1, 2006, 12, 31, 'nyt/archive_month', 'month')
 
 
 if __name__ == '__main__':
