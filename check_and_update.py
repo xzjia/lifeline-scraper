@@ -97,9 +97,13 @@ def get_matching_s3_keys(bucket, prefix='', suffix=''):
         yield obj['Key']
 
 
-def get_json_content(bucket, file_key):
-    # obj = s3.get_object(Bucket=BUCKET_NAME, Key=file_key)
-    # json_obj = json.load(obj['Body'])
+def get_json_content(file_key):
+    obj = s3.get_object(Bucket=BUCKET_NAME, Key=file_key)
+    json_obj = json.load(obj['Body'])
+    return json_obj
+
+
+def get_json_content_from_local_file(bucket, file_key):
     res = None
     with open(JSON_PATH + file_key) as infile:
         res = json.load(infile)
