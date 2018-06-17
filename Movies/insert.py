@@ -51,7 +51,7 @@ for filename in os.listdir('archive'):
         event_total_gross = data[0]["total_gross"]
         # print(event_date, event_title, event_total_gross)
         ins = event.insert().values(timestamp=event_date,
-                                    title=event_title,
+                                    title="#1 Movie - " + event_title,
                                     text=event_title + " grossed a total of " +
                                     str(event_total_gross) + ".",
                                     link='https://www.imdb.com/find?q=' +

@@ -51,7 +51,7 @@ for filename in os.listdir('archive'):
             event_weeks = eventsObj["entries"][0]["weeks"]
 
             ins = event.insert().values(timestamp=event_date,
-                                        title=event_title + ' by ' + event_artist,
+                                        title="Billboard's Hot 100 # 1 Song: " + event_title + ' by ' + event_artist,
                                         text=event_title + " was on the Billboard charts for " +
                                         str(event_weeks) + " weeks.",
                                         link='https://www.youtube.com/results?search_query=' +
