@@ -1,29 +1,44 @@
 import os
 import json
+import logging
 import boto3
 import sqlalchemy as sa
+import requests
 from datetime import datetime, timedelta
 
-# META_DATA is the dictionary that stores all the META data about how JSON files should be migrated into database
+logging.basicConfig(
+    format="%(asctime)s %(levelname)8s %(message)s", level='INFO')
+
 META_DATA = {
     'New-York-Times': {
-        # TODO The body now is not used at all.
-        'TIMESTAMP_KEY': ['pub_date'],
-        'TITLE_KEY': ['headline||print_headline', 'headline||main'],
-        'TEXT_KEY': ['snippet'],
-        'LINK_KEY': ['web_url']
-        # TODO The body now is not used at all.
+        'LOCAL_JSON_PATH': 'nyt/archive_test/'
     },
-    # 'Wikipedia': {
-    #     'TIMESTAMP_KEY': ['date']
+    # 'Movies': {
+    #     'LOCAL_JSON_PATH': 'Movies/archive/'
+    # }
+    # 'Billboard': {
+    #     'LOCAL_JSON_PATH': 'billboard/archive_test/'
     # },
-    # 'Non-existing': {
-
+    # 'Wikipedia': {
+    #     'LOCAL_JSON_PATH': 'wikipedia/archive_test/'
     # }
 }
 
+YOUTUBE_API = 'https://www.googleapis.com/youtube/v3/search'
+YOUTUBE_PREFIX = 'https://www.youtube.com/watch?v='
 BUCKET_NAME = 'lifeline-cc4'
-JSON_PATH = 'nyt/archive_month/'
+MEMO = {}
+
+
+class bcolors:
+    HEADER = '\033[95m'
+    OKBLUE = '\033[94m'
+    OKGREEN = '\033[92m'
+    WARNING = '\033[93m'
+    FAIL = '\033[91m'
+    ENDC = '\033[0m'
+    UNDERLINE = '\033[4m'
+
 
 s3 = boto3.client('s3')
 
@@ -46,29 +61,16 @@ def get_label_id_from_name(conn, name):
     return result.fetchone()['id']
 
 
-def get_existing_events(conn, label_id, target_date):
-    event_table = sa.table('event',
-                           sa.column('title', sa.Text),
-                           sa.column('timestamp', sa.DateTime),
-                           sa.column('label_id', sa.Integer)
-                           )
-    s = sa.sql.select([event_table.c.title, event_table.c.timestamp]).where(
+def get_existing_events(conn, event_table, label_id, target_timestamp, target_title):
+    s = sa.sql.select([event_table.c.title, event_table.c.timestamp, event_table.c.link, event_table.c.text, event_table.c.image_link, event_table.c.media_link]).where(
         sa.and_(
             event_table.c.label_id == label_id,
-            event_table.c.timestamp >= target_date,
-            event_table.c.timestamp < target_date + timedelta(days=1)
+            event_table.c.timestamp == target_timestamp,
+            event_table.c.title == target_title
         )
     )
     result = conn.execute(s)
     return result
-
-
-def get_rows_from_event(label_id, conn):
-    event_table = sa.table('event', sa.column(
-        'title', sa.Text), sa.column('label_id', sa.Integer))
-    s = sa.sql.select([event_table.c.title]).where(
-        event_table.c.label_id == label_id)
-    result = conn.execute(s)
 
 
 def get_matching_s3_objects(bucket, prefix='', suffix=''):
@@ -92,99 +94,187 @@ def get_matching_s3_objects(bucket, prefix='', suffix=''):
             break
 
 
+def get_logging_string(string, level):
+    return '{} {} {}'.format(level, string, bcolors.ENDC)
+
+
 def get_matching_s3_keys(bucket, prefix='', suffix=''):
     for obj in get_matching_s3_objects(bucket, prefix, suffix):
         yield obj['Key']
 
 
-def get_json_content(file_key):
-    obj = s3.get_object(Bucket=BUCKET_NAME, Key=file_key)
+def get_json_content(bucket_name, file_key):
+    obj = s3.get_object(Bucket=bucket_name, Key=file_key)
     json_obj = json.load(obj['Body'])
     return json_obj
 
 
-def get_json_content_from_local_file(bucket, file_key):
+def get_json_content_from_local_file(path_prefix, file_key):
     res = None
-    with open(JSON_PATH + file_key) as infile:
+    with open(path_prefix + file_key) as infile:
         res = json.load(infile)
     return res
 
 
-def get_value_from_map(candidate_fields, event_obj):
-    # TODO Fix this function so it works general
-    for candidate in candidate_fields:
-        if candidate in event_obj:
-            return event_obj[candidate]
-        layers = candidate.split('||')
-
-
-def map_json_to_data(meta_info, json_array, label_id):
-    # TODO Fix this function so it works general
-    def dict2row(event):
-        result = {}
-        result['timestamp'] = get_value_from_map(
-            meta_info['TIMESTAMP_KEY'], event)
-        result['title'] = get_value_from_map(meta_info['TITLE_KEY'], event)
-        result['text'] = get_value_from_map(meta_info['TEXT_KEY'], event)
-        result['link'] = get_value_from_map(meta_info['LINK_KEY'], event)
-        result['label_id'] = label_id
-        return result
-    return map(dict2row, json_array)
-
-
-def map_json_to_row(data_source, json_array, label_id):
-    if data_source == 'New-York-Times':
-        try:
-            return list(map(lambda jsevt: {
-                'timestamp': jsevt['pub_date'],
-                'title': jsevt['headline']['print_headline'],
-                'text': jsevt['snippet'],
-                'link': jsevt['web_url'],
-                'label_id': label_id
-            }, json_array))
-        except KeyError:
-            return list(map(lambda jsevt: {
-                'timestamp': jsevt['pub_date'],
-                'title': jsevt['headline']['main'],
-                'text': jsevt['snippet'],
-                'link': jsevt['web_url'],
-                'label_id': label_id
-            }, json_array))
-        except:
-            print('KeyError and skipping this json_array {}'.format(json_array))
+def get_media_link_for_billboard(title, artist):
+    query = get_query_for_billboard(title, artist)
+    if query in MEMO:
+        return MEMO[query]
+    payload = {
+        'q': query,
+        'maxResult': 5,
+        'key': os.environ['YOUTUBE_API_KEY'],
+        'part': 'snippet'
+    }
+    items = requests.get(YOUTUBE_API, params=payload).json()['items']
+    videos = list(filter(lambda x: x['id']['kind'] == 'youtube#video', items))
+    if len(videos) > 0:
+        winner = videos[0]
+        image_link = winner['snippet']['thumbnails']['default']['url']
+        media_link = YOUTUBE_PREFIX + winner['id']['videoId']
     else:
-        return []
+        image_link = ''
+        media_link = ''
+    MEMO[query] = (image_link, media_link)
+    return image_link, media_link
 
 
-def insert_events_from_json(conn, meta_info, json_array, label_id, data_source):
-    print('Inserting {} events into the database'.format(len(json_array)))
-    event_table = sa.table('event',
-                           sa.column('timestamp', sa.DateTime),
-                           sa.column('title', sa.Text),
-                           sa.column('text', sa.Text()),
-                           sa.column('link', sa.Text()),
-                           sa.column('label_id', sa.Integer))
-    rows = map_json_to_row(data_source, json_array, label_id)
-    ins = event_table.insert().values(rows)
-    conn.execute(ins)
+def map_json_array_to_rows(label_name, json_array, json_key, label_id):
+    """
+    OR Mapper
+    """
+    result = []
+    if label_name == 'New-York-Times':
+        for jsevt in json_array:
+            try:
+                result.append({
+                    'timestamp': jsevt['pub_date'],
+                    'title': jsevt['headline'].get('print_headline', jsevt['headline']['main']),
+                    'text': jsevt['snippet'],
+                    'link': jsevt['web_url'],
+                    'label_id': label_id,
+                    'image_link': 'https://www.nytimes.com/' + next(filter(lambda e: e['subtype'] == 'thumbnail', jsevt['multimedia']))['url'],
+                    'media_link': ''
+                })
+            except Exception as exception:
+                logging.error('{:<25} {} {} {}'.format(
+                    get_logging_string(label_name, bcolors.FAIL),
+                    get_logging_string(json_key, bcolors.HEADER),
+                    get_logging_string(type(exception).__name__, bcolors.FAIL),
+                    jsevt['pub_date']))
+        return result
+    elif label_name == 'Billboard':
+        for jsevt in json_array:
+            event_date = jsevt["date"]
+            event_title = jsevt["entries"][0]["title"]
+            event_artist = jsevt["entries"][0]["artist"]
+            event_weeks = jsevt["entries"][0]["weeks"]
+            try:
+                image_link, media_link = get_media_link_for_billboard(
+                    event_title, event_artist)
+                result.append({
+                    'timestamp': event_date,
+                    'title':  event_title + ' by ' + event_artist,
+                    'text': "{} was on the Billboard charts for {} weeks.".format(event_title, str(event_weeks)),
+                    'link': 'https://www.youtube.com/results?search_query=' + get_query_for_billboard(event_title, event_artist),
+                    'label_id': label_id,
+                    'image_link': image_link,
+                    'media_link': media_link
+                })
+            except Exception as exception:
+                logging.error('{:<25} {} {} {}'.format(
+                    get_logging_string(label_name, bcolors.FAIL),
+                    get_logging_string(json_key, bcolors.HEADER),
+                    get_logging_string(type(exception).__name__, bcolors.FAIL),
+                    event_date))
+        return result
+    elif label_name == 'Wikipedia':
+        for jsevt in json_array:
+            try:
+                if any([i in jsevt['date'] for i in ['BC', 'AD']]):
+                    continue
+                datetime_object = datetime.strptime(jsevt['date'], '%Y-%m-%d')
+            except:
+                continue
+            result.append({
+                'timestamp': datetime_object,
+                'title': jsevt['title'],
+                'text': jsevt['text'],
+                'link': jsevt['link'].pop() if len(jsevt['link']) == 1 else '',
+                'label_id': label_id
+            })
+        return result
+
+
+def get_query_for_billboard(title, artist):
+    raw = title + '+' + artist
+    return raw.replace(' ', '+')
+
+
+def get_event_table():
+    return sa.table('event',
+                    sa.column('timestamp', sa.DateTime),
+                    sa.column('title', sa.Text),
+                    sa.column('text', sa.Text),
+                    sa.column('link', sa.Text),
+                    sa.column('label_id', sa.Integer),
+                    sa.column('image_link', sa.Text),
+                    sa.column('media_link', sa.Text)
+                    )
+
+
+def insert_events_from_json(conn, json_array, json_key, label_id, label_name):
+
+    def already_same(existing_event, row):
+        return existing_event['link'] == row['link'] and existing_event['image_link'] == row['image_link'] and existing_event['media_link'] == row['media_link'] and existing_event['text'] == row['text']
+    event_table = get_event_table()
+    already_same_count = 0
+    update_count = 0
+    rows = map_json_array_to_rows(label_name, json_array, json_key, label_id)
+    inserts = []
+    for row in rows:
+        existing_event = get_existing_events(
+            conn, event_table, label_id, row['timestamp'], row['title']).fetchone()
+        if existing_event and len(existing_event) > 0:
+            if not already_same(existing_event, row):
+                update = event_table.update().values(text=row['text'], media_link=row['media_link'], link=row['link'], image_link=row['image_link']).where(sa.and_(
+                    event_table.c.label_id == label_id,
+                    event_table.c.timestamp == row['timestamp'],
+                    event_table.c.title == row['title']
+                ))
+                update_count += 1
+                conn.execute(update)
+            else:
+                already_same_count += 1
+        else:
+            inserts.append(row)
+    if len(inserts) > 0:
+        ins = event_table.insert().values(inserts)
+        conn.execute(ins)
+    logging.info('{:<25} {} Total from json:{:>15} Inserted: {:>15} Up-to-date: {:>15} Updated: {:>15}'.format(
+        get_logging_string(label_name, bcolors.HEADER),
+        get_logging_string(json_key, bcolors.HEADER),
+        get_logging_string(len(rows), bcolors.OKBLUE),
+        get_logging_string(len(inserts), bcolors.OKBLUE),
+        get_logging_string(already_same_count, bcolors.OKBLUE),
+        get_logging_string(update_count, bcolors.OKBLUE))
+    )
+
+
+def check_n_update(conn, json_key, label_name, label_id, path_prefix=''):
+    # json_array = get_json_content(BUCKET_NAME, json_key) # Used when fetching from S3
+    json_array = get_json_content_from_local_file(path_prefix, json_key)
+    insert_events_from_json(conn, json_array, json_key, label_id, label_name)
 
 
 def main():
     conn = get_db_conn()
-    for key, value in META_DATA.items():
-        label_id = get_label_id_from_name(conn, key)
-        # for json_key in list(get_matching_s3_keys(BUCKET_NAME, prefix=key, suffix='json')):
-        for json_key in os.listdir(JSON_PATH):
-            # target_date = datetime.strptime(json_key, '{}/%Y-%m-%d.json'.format(key))
-            target_date = datetime.strptime(json_key, '%Y-%m-%d.json')
-            events = get_existing_events(
-                conn, label_id, target_date).fetchall()
-            if len(events) == 0:
-                insert_events_from_json(
-                    conn, value, get_json_content(BUCKET_NAME, json_key), label_id, key)
-            else:
-                print(
-                    'Found {} events on  **{}**, so skipping'.format(len(events), json_key))
+    for label_name, meta_info in META_DATA.items():
+        label_id = get_label_id_from_name(conn, label_name)
+        # for json_key in list(get_matching_s3_keys(BUCKET_NAME, prefix=label_name, suffix='json')):
+        for json_key in os.listdir(meta_info['LOCAL_JSON_PATH']):
+            check_n_update(
+                conn, json_key, label_name, label_id, path_prefix=meta_info['LOCAL_JSON_PATH'])
 
 
 if __name__ == '__main__':

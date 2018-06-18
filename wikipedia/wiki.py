@@ -43,8 +43,8 @@ class Wikipedia(object):
 class Wiki(object):
     def __init__(self, one_date_wiki_url):
         # Adding 2020 is a workaround for strptime default to 1900, which is not a leap year
-        eng_date = '2020_'+one_date_wiki_url.split('/').pop()
-        obj_date = datetime.strptime(eng_date, '%Y_%B_%d')
+        obj_date = datetime.strptime(
+            '2020_'+one_date_wiki_url.split('/').pop(), '%Y_%B_%d')
         self.date_without_year = '{}-{}'.format(obj_date.month, obj_date.day)
         self.data = self.get_one_date(one_date_wiki_url)
 
