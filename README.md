@@ -1,3 +1,6 @@
+# Note
+This project is archived. The up-to-date for this project is migrated to [here](https://github.com/xzjia/dejaview-scraper).
+
 # What is this
 
 This is a collection of scripts that collects data for lifeline project.
